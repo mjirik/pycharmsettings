@@ -72,23 +72,11 @@
         <mark key="." line="19" column="18" />
         <mark key="[" line="18" column="16" />
       </file>
-      <file name="$USER_HOME$/projects/pyplasm/CMakeLists.txt" timestamp="1443978235623">
-        <mark key="]" line="60" column="0" />
-        <mark key="^" line="60" column="0" />
-        <mark key="." line="60" column="0" />
-        <mark key="[" line="59" column="63" />
-      </file>
-      <file name="$USER_HOME$/projects/larVolumeToObj/larVolumeToObj/computation/__init__.py" timestamp="1443976327726">
-        <mark key="]" line="2" column="4" />
-        <mark key="^" line="7" column="17" />
-        <mark key="." line="2" column="4" />
-        <mark key="[" line="2" column="4" />
-      </file>
-      <file name="$USER_HOME$/projects/larVolumeToObj/larVolumeToObj/computation/laplacianSmoothing.py" timestamp="1443730610302">
-        <mark key="]" line="20" column="4" />
-        <mark key="^" line="17" column="7" />
-        <mark key="." line="20" column="4" />
-        <mark key="[" line="19" column="20" />
+      <file name="$USER_HOME$/projects/pyseg_base/setup.py" timestamp="1443101045835">
+        <mark key="]" line="15" column="34" />
+        <mark key="^" line="15" column="34" />
+        <mark key="." line="15" column="34" />
+        <mark key="[" line="15" column="35" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/untitled/file" timestamp="1443097744924">
         <mark key="]" line="3" column="11" />
@@ -96,11 +84,23 @@
         <mark key="." line="3" column="11" />
         <mark key="[" line="3" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/pyseg_base/setup.py" timestamp="1443101045835">
-        <mark key="]" line="15" column="34" />
-        <mark key="^" line="15" column="34" />
-        <mark key="." line="15" column="34" />
-        <mark key="[" line="15" column="35" />
+      <file name="$USER_HOME$/projects/larVolumeToObj/larVolumeToObj/computation/laplacianSmoothing.py" timestamp="1443730610302">
+        <mark key="]" line="20" column="4" />
+        <mark key="^" line="17" column="7" />
+        <mark key="." line="20" column="4" />
+        <mark key="[" line="19" column="20" />
+      </file>
+      <file name="$USER_HOME$/projects/larVolumeToObj/larVolumeToObj/computation/__init__.py" timestamp="1443976327726">
+        <mark key="]" line="2" column="4" />
+        <mark key="^" line="7" column="17" />
+        <mark key="." line="2" column="4" />
+        <mark key="[" line="2" column="4" />
+      </file>
+      <file name="$USER_HOME$/projects/pyplasm/CMakeLists.txt" timestamp="1443978235623">
+        <mark key="]" line="60" column="0" />
+        <mark key="^" line="60" column="0" />
+        <mark key="." line="60" column="0" />
+        <mark key="[" line="59" column="63" />
       </file>
       <file name="$USER_HOME$/projects/io3d/io3d/datareader.py" timestamp="1443957449809">
         <mark key="]" line="60" column="0" />
@@ -149,11 +149,11 @@
       <jump line="32" column="67" filename="$USER_HOME$/projects/larVolumeToObj/.travis.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">cHl0aG9uIA==</text>
-      </register>
       <register name="3" type="4">
         <text>-</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text encoding="base64">cHl0aG9uIA==</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">ZGV2IA==</text>
