@@ -22,7 +22,7 @@
         <mark key="." line="113" column="101" />
         <mark key="[" line="113" column="86" />
       </file>
-      <file name="/Dummy.txt" timestamp="1443974760324">
+      <file name="/Dummy.txt" timestamp="1443975066965">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/larVolumeToObj/tests/common_test.py" timestamp="1443971285489">
@@ -31,7 +31,7 @@
         <mark key="." line="169" column="85" />
         <mark key="[" line="169" column="85" />
       </file>
-      <file name="/a.dummy" timestamp="1443974760335">
+      <file name="/a.dummy" timestamp="1443975066991">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1443108225791">
@@ -72,17 +72,11 @@
         <mark key="." line="19" column="18" />
         <mark key="[" line="18" column="16" />
       </file>
-      <file name="$USER_HOME$/projects/pyseg_base/setup.py" timestamp="1443101045835">
-        <mark key="]" line="15" column="34" />
-        <mark key="^" line="15" column="34" />
-        <mark key="." line="15" column="34" />
-        <mark key="[" line="15" column="35" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/untitled/file" timestamp="1443097744924">
-        <mark key="]" line="3" column="11" />
-        <mark key="^" line="3" column="11" />
-        <mark key="." line="3" column="11" />
-        <mark key="[" line="3" column="11" />
+      <file name="$USER_HOME$/projects/larVolumeToObj/larVolumeToObj/computation/__init__.py" timestamp="1443957688702">
+        <mark key="]" line="10" column="17" />
+        <mark key="^" line="10" column="17" />
+        <mark key="." line="10" column="17" />
+        <mark key="[" line="9" column="22" />
       </file>
       <file name="$USER_HOME$/projects/larVolumeToObj/larVolumeToObj/computation/laplacianSmoothing.py" timestamp="1443730610302">
         <mark key="]" line="20" column="4" />
@@ -90,11 +84,17 @@
         <mark key="." line="20" column="4" />
         <mark key="[" line="19" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/larVolumeToObj/larVolumeToObj/computation/__init__.py" timestamp="1443957688702">
-        <mark key="]" line="10" column="17" />
-        <mark key="^" line="10" column="17" />
-        <mark key="." line="10" column="17" />
-        <mark key="[" line="9" column="22" />
+      <file name="$USER_HOME$/PycharmProjects/untitled/file" timestamp="1443097744924">
+        <mark key="]" line="3" column="11" />
+        <mark key="^" line="3" column="11" />
+        <mark key="." line="3" column="11" />
+        <mark key="[" line="3" column="11" />
+      </file>
+      <file name="$USER_HOME$/projects/pyseg_base/setup.py" timestamp="1443101045835">
+        <mark key="]" line="15" column="34" />
+        <mark key="^" line="15" column="34" />
+        <mark key="." line="15" column="34" />
+        <mark key="[" line="15" column="35" />
       </file>
       <file name="$USER_HOME$/projects/io3d/io3d/datareader.py" timestamp="1443957449809">
         <mark key="]" line="60" column="0" />
@@ -133,11 +133,11 @@
       <jump line="170" column="7" filename="$USER_HOME$/projects/larVolumeToObj/tests/common_test.py" />
     </jumps>
     <registers>
-      <register name="3" type="4">
-        <text>,</text>
-      </register>
       <register name="&quot;" type="2">
         <text encoding="base64">ICAgICMgLSBybSAtcmYgcHlwbGFzbQo=</text>
+      </register>
+      <register name="3" type="4">
+        <text>,</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">c3VkbyA=</text>
