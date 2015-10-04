@@ -56,6 +56,12 @@
         <mark key="." line="14" column="27" />
         <mark key="[" line="14" column="27" />
       </file>
+      <file name="$USER_HOME$/projects/larVolumeToObj/larVolumeToObj/computation/laplacianSmoothing.py" timestamp="1443730610302">
+        <mark key="]" line="20" column="4" />
+        <mark key="^" line="17" column="7" />
+        <mark key="." line="20" column="4" />
+        <mark key="[" line="19" column="20" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/untitled/file" timestamp="1443097744924">
         <mark key="]" line="3" column="11" />
         <mark key="^" line="3" column="11" />
@@ -67,12 +73,6 @@
         <mark key="^" line="15" column="34" />
         <mark key="." line="15" column="34" />
         <mark key="[" line="15" column="35" />
-      </file>
-      <file name="$USER_HOME$/projects/larVolumeToObj/larVolumeToObj/computation/laplacianSmoothing.py" timestamp="1443730610302">
-        <mark key="]" line="20" column="4" />
-        <mark key="^" line="17" column="7" />
-        <mark key="." line="20" column="4" />
-        <mark key="[" line="19" column="20" />
       </file>
     </filemarks>
     <jumps>
@@ -86,11 +86,11 @@
       <jump line="18" column="37" filename="$USER_HOME$/projects/io3d/io3d/datawriter.py" />
     </jumps>
     <registers>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBWLCBGID0gc3RhcnRDb252ZXJzaW9uLm1ha2VTbW9vdGgoCiAgICAgICAgICAgICMgaW5wdXRmaWxlPSd0ZXN0cy9ucm40LnBrbHonLAogICAgICAgICAgICBpbnB1dGZpbGU9J2Jpb2R1cl8wNTUucGtseicsCiAgICAgICAgICAgICMgaW5wdXRmaWxlPScvaG9tZS9tamlyaWsvU3Rhxb5lbsOpL25ybjQucGtseicsCiAgICAgICAgICAgIGJvcmRlcnNpemU9WzQsIDIsIDNdLAogICAgICAgICAgICBvdXRwdXRkaXI9b3V0cHV0ZGlyLAogICAgICAgICAgICBvdXRwdXRmaWxlPSd0ZXN0X25ybjQnLAogICAgICAgICAgICB2aXN1YWxpemF0aW9uPUZhbHNlLAogICAgICAgICAgICBib3JkZXJkaXI9b3V0cHV0ZGlyICsgJy9ib3JkZXInCiAgICAgICAgICAgICMgYm9yZGVyZGlyPSd0bXAvYm9yZGVyJwogICAgICAgICkK</text>
-      </register>
       <register name="&quot;" type="2">
         <text encoding="base64">ICAgICAgICAjIGlucHV0ZmlsZSA9ICd0ZXN0cy9ucm40LnBrbHonCiAgICAgICAgIyBsYXJvYmouZGF0YXByZXBhcmF0aW9uLnByZXBhcmVkYXRhKCdiaW9kdXJfMDU1LnBrbHonKQogICAgICAgICMgZHAucHJlcGFyZWRhdGEoaW5wdXRmaWxlLCAnbnJuNF9jcm9wLnBrbHonLCBjcm9wPVtbMSwgNl0sIFsxLCA2XSwgWzEsIDZdXSwgdGhyZXNob2xkPTQ0MDAsIHZpc3VhbGl6YXRpb249RmFsc2UpCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBWLCBGID0gc3RhcnRDb252ZXJzaW9uLm1ha2VTbW9vdGgoCiAgICAgICAgICAgICMgaW5wdXRmaWxlPSd0ZXN0cy9ucm40LnBrbHonLAogICAgICAgICAgICBpbnB1dGZpbGU9J2Jpb2R1cl8wNTUucGtseicsCiAgICAgICAgICAgICMgaW5wdXRmaWxlPScvaG9tZS9tamlyaWsvU3Rhxb5lbsOpL25ybjQucGtseicsCiAgICAgICAgICAgIGJvcmRlcnNpemU9WzQsIDIsIDNdLAogICAgICAgICAgICBvdXRwdXRkaXI9b3V0cHV0ZGlyLAogICAgICAgICAgICBvdXRwdXRmaWxlPSd0ZXN0X25ybjQnLAogICAgICAgICAgICB2aXN1YWxpemF0aW9uPUZhbHNlLAogICAgICAgICAgICBib3JkZXJkaXI9b3V0cHV0ZGlyICsgJy9ib3JkZXInCiAgICAgICAgICAgICMgYm9yZGVyZGlyPSd0bXAvYm9yZGVyJwogICAgICAgICkK</text>
       </register>
       <register name="2" type="4">
         <text>nrn4_crop</text>
