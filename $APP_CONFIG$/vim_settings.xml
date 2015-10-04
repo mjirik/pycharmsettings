@@ -21,13 +21,13 @@
         <mark key="." line="113" column="101" />
         <mark key="[" line="113" column="86" />
       </file>
-      <file name="$USER_HOME$/projects/larVolumeToObj/tests/common_test.py" timestamp="1443962476288">
-        <mark key="]" line="174" column="77" />
-        <mark key="^" line="174" column="77" />
-        <mark key="." line="174" column="77" />
-        <mark key="[" line="174" column="78" />
+      <file name="$USER_HOME$/projects/larVolumeToObj/tests/common_test.py" timestamp="1443971285489">
+        <mark key="]" line="169" column="85" />
+        <mark key="^" line="169" column="78" />
+        <mark key="." line="169" column="85" />
+        <mark key="[" line="169" column="85" />
       </file>
-      <file name="/a.dummy" timestamp="1443963347992">
+      <file name="/a.dummy" timestamp="1443971201146">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1443108225791">
@@ -121,55 +121,56 @@
       <jump line="142" column="4" filename="$USER_HOME$/projects/larVolumeToObj/larVolumeToObj/computation/step_remove_boxes_iner_faces.py" />
       <jump line="26" column="60" filename="$USER_HOME$/projects/larVolumeToObj/larVolumeToObj/computation/data_preparation.py" />
       <jump line="25" column="80" filename="$USER_HOME$/projects/larVolumeToObj/larVolumeToObj/computation/data_preparation.py" />
+      <jump line="170" column="7" filename="$USER_HOME$/projects/larVolumeToObj/tests/common_test.py" />
     </jumps>
     <registers>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGRwLnByZXBhcmVkYXRhKCcuL2Jpb2R1cl9zYW1wbGUvJywgJ2Jpb2R1cl9jcm9wLnBrbHonLCBjcm9wPVtbMSwgMjVdLCBbMjAwLCAyNTVdLCBbMjAwLCAyMjVdXSwgdGhyZXNob2xkPTE0MDApCg==</text>
+      <register name="3" type="4">
+        <text>bordersize=[5,5,5]</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGZyb20gbGFyVm9sdW1lLmNvbXB1dGF0aW9uLgo=</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">TW9yZSA=</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGZyb20gbGFyVm9sdW1lLmNvbXB1dGF0aW9uLgo=</text>
+      <register name="1" type="4">
+        <text>,</text>
       </register>
-      <register name="0" type="4">
-        <text>larVolumeToObj.computation.</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBWLCBGID0gbGFyVm9sdW1lVG9PYmouY29tcHV0YXRpb24ucGtselRvU21vb3RoT2JqLm1ha2VTbW9vdGgoJ2Jpb2R1cl9jcm9wLnBrbHonLCBib3JkZXJzaXplPVs1LDUsNV0pCg==</text>
       </register>
       <register name="7" type="4">
-        <text>.</text>
+        <text encoding="base64">d2lsbCA=</text>
       </register>
       <register name="6" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="5" type="4">
-        <text>larobj</text>
+        <text encoding="base64">bmVlZCA=</text>
       </register>
       <register name="4" type="4">
-        <text>0</text>
+        <text>biodur_crop</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>larobj</text>
+        <text>skipping</text>
       </register>
       <register name="8" type="4">
-        <text>.</text>
+        <text encoding="base64">eW91IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZW1vdmVEb3VibGVGYWNlc09ubHlPbkJvdW5kYXJ5Qm94ZXNcPg==</text>
+        <text>skip</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">TW9yZSA=</text>
+        <text>,</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZW1vdmVEb3VibGVGYWNlc09ubHlPbkJvdW5kYXJ5Qm94ZXNcPg==</last-search>
+      <last-search>skip</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZW1vdmVEb3VibGVGYWNlc09ubHlPbkJvdW5kYXJ5Qm94ZXNcPg==</last-pattern>
+      <last-pattern>skip</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -177,6 +178,7 @@
       <history-search>
         <entry encoding="base64">XDxkYXRhcFw+</entry>
         <entry encoding="base64">XDxyZW1vdmVEb3VibGVGYWNlc09ubHlPbkJvdW5kYXJ5Qm94ZXNcPg==</entry>
+        <entry>skip</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
