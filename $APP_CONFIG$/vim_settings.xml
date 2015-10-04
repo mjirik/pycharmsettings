@@ -22,16 +22,13 @@
         <mark key="." line="113" column="101" />
         <mark key="[" line="113" column="86" />
       </file>
-      <file name="/Dummy.txt" timestamp="1443978301819">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/larVolumeToObj/tests/common_test.py" timestamp="1443971285489">
         <mark key="]" line="169" column="85" />
         <mark key="^" line="169" column="78" />
         <mark key="." line="169" column="85" />
         <mark key="[" line="169" column="85" />
       </file>
-      <file name="/a.dummy" timestamp="1443978288239">
+      <file name="/a.dummy" timestamp="1443978608391">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/larVolumeToObj/README.md" timestamp="1443963010174">
@@ -59,12 +56,12 @@
         <mark key="." line="36" column="80" />
         <mark key="[" line="36" column="78" />
       </file>
-      <file name="$USER_HOME$/projects/larVolumeToObj/.travis.yml" timestamp="1443976063235">
-        <mark key="'" line="32" column="106" />
-        <mark key="]" line="36" column="18" />
+      <file name="$USER_HOME$/projects/larVolumeToObj/.travis.yml" timestamp="1443978585865">
+        <mark key="'" line="32" column="67" />
+        <mark key="]" line="14" column="31" />
         <mark key="^" line="17" column="30" />
-        <mark key="." line="36" column="18" />
-        <mark key="[" line="36" column="18" />
+        <mark key="." line="14" column="31" />
+        <mark key="[" line="14" column="31" />
       </file>
       <file name="$USER_HOME$/projects/larVolumeToObj/larVolumeToObj/computation/step_calcchains_serial_tobinary_filter_proc_lisa.py" timestamp="1443715078182">
         <mark key="'" line="302" column="29" />
@@ -148,56 +145,57 @@
       <jump line="25" column="80" filename="$USER_HOME$/projects/larVolumeToObj/larVolumeToObj/computation/data_preparation.py" />
       <jump line="170" column="7" filename="$USER_HOME$/projects/larVolumeToObj/tests/common_test.py" />
       <jump line="12" column="0" filename="$USER_HOME$/projects/larVolumeToObj/.travis.yml" />
-      <jump line="32" column="106" filename="$USER_HOME$/projects/larVolumeToObj/.travis.yml" />
+      <jump line="14" column="18" filename="$USER_HOME$/projects/larVolumeToObj/.travis.yml" />
+      <jump line="32" column="67" filename="$USER_HOME$/projects/larVolumeToObj/.travis.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBJTkNMVURFX0RJUkVDVE9SSUVTKCR7TlVNUFlfSU5DTFVERV9ESVJTfSkK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">cHl0aG9uIA==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+        <text>-</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBJTkNMVURFX0RJUkVDVE9SSUVTKCR7TlVNUFlfSU5DTFVERV9ESVJTfSkK</text>
+      <register name="2" type="4">
+        <text encoding="base64">ZGV2IA==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICBJTkNMVURFX0RJUkVDVE9SSUVTKCR7TlVNUFlfSU5DTFVERV9ESVJTfSkK</text>
+      <register name="1" type="4">
+        <text encoding="base64">cHl0aG9uIA==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC0gc3VkbyBhcHQtZ2V0IGluc3RhbGwgLXFxIGxpYmZyZWV0eXBlNiBsaWJmcmVldHlwZTYtZGV2IGxpYmFzb3VuZDIgbGliYXNvdW5kMi1kZXYgYWxzYS1iYXNlIGFsc2EtdXRpbHMgcHl0aG9uIHB5dGhvbi1kZXYgcHl0aG9uLXNldHVwdG9vbHMgbGlieGluZXJhbWEtZGV2IGxpYnhyZW5kZXItZGV2IGxpYnhjb21wb3NpdGUtZGV2IGxpYnhjdXJzb3ItZGV2IGxpYmdsdTEtbWVzYS1kZXYgbGliZnJlZWltYWdlMyAgbGlicG5nMTItMCBsaWJwbmcxMi1kZXYgbGlianBlZy1kZXYgbGlieHhmODZ2bTEgbGlieHhmODZ2bS1kZXYgbGlieGk2IGxpYnhpLWRldiBsaWJ4cmFuZHItZGV2IG1lc2EtY29tbW9uLWRldiBtZXNhLXV0aWxzLWV4dHJhIGxpYmdsMS1tZXNhLWRldiBsaWJnbGFwaS1tZXNhCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICdzdGVwX2NhbGNjaGFpbnNfc2VyaWFsX3RvYmluYXJ5X2ZpbHRlcl9wcm9jX2xpc2EnLAo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICdzdGVwX2dlbmVyYXRlYm9yZGVybXR4JywgJ3N0ZXBfbG9hZG1vZGVsJywgJ3N0ZXBfbWVyZ2VtZXNoJywK</text>
+        <text encoding="base64">ICBJTkNMVURFX0RJUkVDVE9SSUVTKCR7TlVNUFlfSU5DTFVERV9ESVJTfSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICdzdGVwX3JlbW92ZV9ib3hlc19pbmVyX2ZhY2VzJywgJ3N0ZXBfc3F1YXJlbWVzaCcsICdzdGVwX3RyaWFuZ3VsYXJtZXNoJywK</text>
+        <text encoding="base64">ICBJTkNMVURFX0RJUkVDVE9SSUVTKCR7TlVNUFlfSU5DTFVERV9ESVJTfSkK</text>
       </register>
       <register name="4" type="4">
-        <text>'matrixutil_no_accel',</text>
+        <text>python</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="4">
-        <text>libxinerama-dev libxrender-dev libxcomposite-dev libxcursor-dev libglu1-mesa-dev libfreeimage3  libpng12-0 libpng12-dev libjpeg-dev libxxf86vm1 libxxf86vm-dev libxi6 libxi-dev libxrandr-dev mesa-common-dev mesa-utils-extra libgl1-mesa-dev libglapi-mesa</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICdzdGVwX3JlbW92ZV9ib3hlc19pbmVyX2ZhY2VzJywgJ3N0ZXBfc3F1YXJlbWVzaCcsICdzdGVwX3RyaWFuZ3VsYXJtZXNoJywK</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">bm9zZSA=</text>
+        <text>'matrixutil_no_accel',</text>
       </register>
       <register name="/" type="4">
-        <text>nose</text>
+        <text>scipy</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">cHl0aG9uIA==</text>
       </register>
     </registers>
     <search>
-      <last-search>nose</last-search>
+      <last-search>scipy</last-search>
       <last-offset />
-      <last-pattern>nose</last-pattern>
+      <last-pattern>scipy</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -207,6 +205,8 @@
         <entry encoding="base64">XDxyZW1vdmVEb3VibGVGYWNlc09ubHlPbkJvdW5kYXJ5Qm94ZXNcPg==</entry>
         <entry>skip</entry>
         <entry>nose</entry>
+        <entry>numpy</entry>
+        <entry>scipy</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
