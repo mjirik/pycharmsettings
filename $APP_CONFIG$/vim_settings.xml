@@ -62,6 +62,12 @@
         <mark key="." line="19" column="18" />
         <mark key="[" line="18" column="16" />
       </file>
+      <file name="$USER_HOME$/projects/larVolumeToObj/larVolumeToObj/computation/__init__.py" timestamp="1443957688702">
+        <mark key="]" line="10" column="17" />
+        <mark key="^" line="10" column="17" />
+        <mark key="." line="10" column="17" />
+        <mark key="[" line="9" column="22" />
+      </file>
       <file name="$USER_HOME$/projects/larVolumeToObj/larVolumeToObj/computation/laplacianSmoothing.py" timestamp="1443730610302">
         <mark key="]" line="20" column="4" />
         <mark key="^" line="17" column="7" />
@@ -86,6 +92,13 @@
         <mark key="." line="60" column="0" />
         <mark key="[" line="60" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/larVolumeToObj/larVolumeToObj/computation/step_remove_boxes_iner_faces.py" timestamp="1443958633897">
+        <mark key="'" line="144" column="4" />
+        <mark key="]" line="86" column="18" />
+        <mark key="^" line="86" column="18" />
+        <mark key="." line="86" column="18" />
+        <mark key="[" line="84" column="20" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="334" column="8" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
@@ -96,6 +109,7 @@
       <jump line="104" column="4" filename="$USER_HOME$/projects/larVolumeToObj/larVolumeToObj/computation/pklzToSmoothObj.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/larVolumeToObj/larVolumeToObj/computation/pklzToSmoothObj.py" />
       <jump line="18" column="37" filename="$USER_HOME$/projects/io3d/io3d/datawriter.py" />
+      <jump line="142" column="4" filename="$USER_HOME$/projects/larVolumeToObj/larVolumeToObj/computation/step_remove_boxes_iner_faces.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -126,7 +140,7 @@
         <text encoding="base64">ZmlsZSA=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>197</text>
       </register>
       <register name="9" type="4">
         <text>:</text>
@@ -135,27 +149,29 @@
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkYXRhcFw+</text>
+        <text encoding="base64">XDxyZW1vdmVEb3VibGVGYWNlc09ubHlPbkJvdW5kYXJ5Qm94ZXNcPg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkYXRhcFw+</last-search>
+      <last-search encoding="base64">XDxyZW1vdmVEb3VibGVGYWNlc09ubHlPbkJvdW5kYXJ5Qm94ZXNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkYXRhcFw+</last-pattern>
+      <last-pattern encoding="base64">XDxyZW1vdmVEb3VibGVGYWNlc09ubHlPbkJvdW5kYXJ5Qm94ZXNcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry encoding="base64">XDxkYXRhcFw+</entry>
+        <entry encoding="base64">XDxyZW1vdmVEb3VibGVGYWNlc09ubHlPbkJvdW5kYXJ5Qm94ZXNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
         <entry>e</entry>
         <entry>w</entry>
+        <entry>197</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -193,6 +209,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
