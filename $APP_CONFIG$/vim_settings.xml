@@ -71,6 +71,12 @@
         <mark key="." line="19" column="18" />
         <mark key="[" line="18" column="16" />
       </file>
+      <file name="$USER_HOME$/projects/pyplasm/CMakeLists.txt" timestamp="1443978235623">
+        <mark key="]" line="60" column="0" />
+        <mark key="^" line="60" column="0" />
+        <mark key="." line="60" column="0" />
+        <mark key="[" line="59" column="63" />
+      </file>
       <file name="$USER_HOME$/projects/larVolumeToObj/larVolumeToObj/computation/__init__.py" timestamp="1443976327726">
         <mark key="]" line="2" column="4" />
         <mark key="^" line="7" column="17" />
@@ -141,41 +147,41 @@
       <jump line="32" column="106" filename="$USER_HOME$/projects/larVolumeToObj/.travis.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBJTkNMVURFX0RJUkVDVE9SSUVTKCR7TlVNUFlfSU5DTFVERV9ESVJTfSkK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICdzdGVwX3JlbW92ZV9ib3hlc19pbmVyX2ZhY2VzJywgJ3N0ZXBfc3F1YXJlbWVzaCcsICdzdGVwX3RyaWFuZ3VsYXJtZXNoJywK</text>
-      </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>'matrixutil_no_accel',</text>
       </register>
-      <register name="1" type="4">
+      <register name="2" type="4">
         <text encoding="base64">IA==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICBJTkNMVURFX0RJUkVDVE9SSUVTKCR7TlVNUFlfSU5DTFVERV9ESVJTfSkK</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC0gc3VkbyBhcHQtZ2V0IGluc3RhbGwgLXFxIGxpYmZyZWV0eXBlNiBsaWJmcmVldHlwZTYtZGV2IGxpYmFzb3VuZDIgbGliYXNvdW5kMi1kZXYgYWxzYS1iYXNlIGFsc2EtdXRpbHMgcHl0aG9uIHB5dGhvbi1kZXYgcHl0aG9uLXNldHVwdG9vbHMgbGlieGluZXJhbWEtZGV2IGxpYnhyZW5kZXItZGV2IGxpYnhjb21wb3NpdGUtZGV2IGxpYnhjdXJzb3ItZGV2IGxpYmdsdTEtbWVzYS1kZXYgbGliZnJlZWltYWdlMyAgbGlicG5nMTItMCBsaWJwbmcxMi1kZXYgbGlianBlZy1kZXYgbGlieHhmODZ2bTEgbGlieHhmODZ2bS1kZXYgbGlieGk2IGxpYnhpLWRldiBsaWJ4cmFuZHItZGV2IG1lc2EtY29tbW9uLWRldiBtZXNhLXV0aWxzLWV4dHJhIGxpYmdsMS1tZXNhLWRldiBsaWJnbGFwaS1tZXNhCg==</text>
       </register>
       <register name="7" type="4">
-        <text>libxinerama-dev libxrender-dev libxcomposite-dev libxcursor-dev libglu1-mesa-dev libfreeimage3  libpng12-0 libpng12-dev libjpeg-dev libxxf86vm1 libxxf86vm-dev libxi6 libxi-dev libxrandr-dev mesa-common-dev mesa-utils-extra libgl1-mesa-dev libglapi-mesa</text>
-      </register>
-      <register name="6" type="4">
         <text encoding="base64">bm9zZSA=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICdzdGVwX2NhbGNjaGFpbnNfc2VyaWFsX3RvYmluYXJ5X2ZpbHRlcl9wcm9jX2xpc2EnLAo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICdzdGVwX2dlbmVyYXRlYm9yZGVybXR4JywgJ3N0ZXBfbG9hZG1vZGVsJywgJ3N0ZXBfbWVyZ2VtZXNoJywK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICdzdGVwX3JlbW92ZV9ib3hlc19pbmVyX2ZhY2VzJywgJ3N0ZXBfc3F1YXJlbWVzaCcsICdzdGVwX3RyaWFuZ3VsYXJtZXNoJywK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">c3VkbyA=</text>
-      </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICMgLSBybSAtcmYgcHlwbGFzbQo=</text>
+      </register>
+      <register name="8" type="4">
+        <text>libxinerama-dev libxrender-dev libxcomposite-dev libxcursor-dev libglu1-mesa-dev libfreeimage3  libpng12-0 libpng12-dev libjpeg-dev libxxf86vm1 libxxf86vm-dev libxi6 libxi-dev libxrandr-dev mesa-common-dev mesa-utils-extra libgl1-mesa-dev libglapi-mesa</text>
       </register>
       <register name="/" type="4">
         <text>nose</text>
