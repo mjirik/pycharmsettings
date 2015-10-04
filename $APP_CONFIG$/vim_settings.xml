@@ -55,10 +55,12 @@
         <mark key="." line="36" column="80" />
         <mark key="[" line="36" column="78" />
       </file>
-      <file name="$USER_HOME$/projects/larVolumeToObj/.travis.yml" timestamp="1443974393145">
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
-        <mark key="[" line="53" column="0" />
+      <file name="$USER_HOME$/projects/larVolumeToObj/.travis.yml" timestamp="1443976063235">
+        <mark key="'" line="32" column="106" />
+        <mark key="]" line="36" column="18" />
+        <mark key="^" line="17" column="30" />
+        <mark key="." line="36" column="18" />
+        <mark key="[" line="36" column="18" />
       </file>
       <file name="$USER_HOME$/projects/larVolumeToObj/larVolumeToObj/computation/step_calcchains_serial_tobinary_filter_proc_lisa.py" timestamp="1443715078182">
         <mark key="'" line="302" column="29" />
@@ -69,11 +71,11 @@
         <mark key="." line="19" column="18" />
         <mark key="[" line="18" column="16" />
       </file>
-      <file name="$USER_HOME$/projects/larVolumeToObj/larVolumeToObj/computation/__init__.py" timestamp="1443957688702">
-        <mark key="]" line="10" column="17" />
-        <mark key="^" line="10" column="17" />
-        <mark key="." line="10" column="17" />
-        <mark key="[" line="9" column="22" />
+      <file name="$USER_HOME$/projects/larVolumeToObj/larVolumeToObj/computation/__init__.py" timestamp="1443976327726">
+        <mark key="]" line="2" column="4" />
+        <mark key="^" line="7" column="17" />
+        <mark key="." line="2" column="4" />
+        <mark key="[" line="2" column="4" />
       </file>
       <file name="$USER_HOME$/projects/larVolumeToObj/larVolumeToObj/computation/laplacianSmoothing.py" timestamp="1443730610302">
         <mark key="]" line="20" column="4" />
@@ -106,10 +108,11 @@
         <mark key="." line="86" column="18" />
         <mark key="[" line="84" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/larVolumeToObj/setup.py" timestamp="1443960173718">
-        <mark key="]" line="22" column="19" />
-        <mark key="." line="22" column="19" />
-        <mark key="[" line="22" column="17" />
+      <file name="$USER_HOME$/projects/larVolumeToObj/setup.py" timestamp="1443975720173">
+        <mark key="]" line="65" column="52" />
+        <mark key="^" line="65" column="52" />
+        <mark key="." line="65" column="52" />
+        <mark key="[" line="65" column="46" />
       </file>
       <file name="/Python Console" timestamp="1443960939102">
         <mark key="[" line="0" column="0" />
@@ -128,55 +131,57 @@
       <jump line="26" column="60" filename="$USER_HOME$/projects/larVolumeToObj/larVolumeToObj/computation/data_preparation.py" />
       <jump line="25" column="80" filename="$USER_HOME$/projects/larVolumeToObj/larVolumeToObj/computation/data_preparation.py" />
       <jump line="170" column="7" filename="$USER_HOME$/projects/larVolumeToObj/tests/common_test.py" />
+      <jump line="12" column="0" filename="$USER_HOME$/projects/larVolumeToObj/.travis.yml" />
+      <jump line="32" column="106" filename="$USER_HOME$/projects/larVolumeToObj/.travis.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICMgLSBybSAtcmYgcHlwbGFzbQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="3" type="4">
-        <text>,</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICdzdGVwX3JlbW92ZV9ib3hlc19pbmVyX2ZhY2VzJywgJ3N0ZXBfc3F1YXJlbWVzaCcsICdzdGVwX3RyaWFuZ3VsYXJtZXNoJywK</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">c3VkbyA=</text>
+        <text>'matrixutil_no_accel',</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICMgLSBybSAtcmYgcHlwbGFzbQo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC0gc3VkbyBtYWtlIGluc3RhbGwK</text>
+        <text encoding="base64">ICAgIC0gc3VkbyBhcHQtZ2V0IGluc3RhbGwgLXFxIGxpYmZyZWV0eXBlNiBsaWJmcmVldHlwZTYtZGV2IGxpYmFzb3VuZDIgbGliYXNvdW5kMi1kZXYgYWxzYS1iYXNlIGFsc2EtdXRpbHMgcHl0aG9uIHB5dGhvbi1kZXYgcHl0aG9uLXNldHVwdG9vbHMgbGlieGluZXJhbWEtZGV2IGxpYnhyZW5kZXItZGV2IGxpYnhjb21wb3NpdGUtZGV2IGxpYnhjdXJzb3ItZGV2IGxpYmdsdTEtbWVzYS1kZXYgbGliZnJlZWltYWdlMyAgbGlicG5nMTItMCBsaWJwbmcxMi1kZXYgbGlianBlZy1kZXYgbGlieHhmODZ2bTEgbGlieHhmODZ2bS1kZXYgbGlieGk2IGxpYnhpLWRldiBsaWJ4cmFuZHItZGV2IG1lc2EtY29tbW9uLWRldiBtZXNhLXV0aWxzLWV4dHJhIGxpYmdsMS1tZXNhLWRldiBsaWJnbGFwaS1tZXNhCg==</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">bmVlZCA=</text>
+        <text>libxinerama-dev libxrender-dev libxcomposite-dev libxcursor-dev libglu1-mesa-dev libfreeimage3  libpng12-0 libpng12-dev libjpeg-dev libxxf86vm1 libxxf86vm-dev libxi6 libxi-dev libxrandr-dev mesa-common-dev mesa-utils-extra libgl1-mesa-dev libglapi-mesa</text>
       </register>
       <register name="6" type="4">
-        <text>biodur_crop</text>
+        <text encoding="base64">bm9zZSA=</text>
       </register>
-      <register name="5" type="4">
-        <text>bordersize=[5,5,5]</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICdzdGVwX2NhbGNjaGFpbnNfc2VyaWFsX3RvYmluYXJ5X2ZpbHRlcl9wcm9jX2xpc2EnLAo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICdzdGVwX2dlbmVyYXRlYm9yZGVybXR4JywgJ3N0ZXBfbG9hZG1vZGVsJywgJ3N0ZXBfbWVyZ2VtZXNoJywK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">d2lsbCA=</text>
+        <text encoding="base64">c3VkbyA=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICMgLSBybSAtcmYgcHlwbGFzbQo=</text>
       </register>
       <register name="/" type="4">
-        <text>skip</text>
+        <text>nose</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c3VkbyA=</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
-      <last-search>skip</last-search>
+      <last-search>nose</last-search>
       <last-offset />
-      <last-pattern>skip</last-pattern>
+      <last-pattern>nose</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -185,6 +190,7 @@
         <entry encoding="base64">XDxkYXRhcFw+</entry>
         <entry encoding="base64">XDxyZW1vdmVEb3VibGVGYWNlc09ubHlPbkJvdW5kYXJ5Qm94ZXNcPg==</entry>
         <entry>skip</entry>
+        <entry>nose</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
