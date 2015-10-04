@@ -44,10 +44,12 @@
         <mark key="." line="40" column="29" />
         <mark key="[" line="40" column="29" />
       </file>
-      <file name="$USER_HOME$/projects/old_pyplasm/CMakeLists.txt" timestamp="1443978469700">
-        <mark key="]" line="68" column="44" />
-        <mark key="." line="68" column="0" />
-        <mark key="[" line="68" column="0" />
+      <file name="$USER_HOME$/projects/old_pyplasm/CMakeLists.txt" timestamp="1443984295788">
+        <mark key="'" line="68" column="19" />
+        <mark key="]" line="75" column="33" />
+        <mark key="^" line="75" column="33" />
+        <mark key="." line="75" column="33" />
+        <mark key="[" line="75" column="28" />
       </file>
       <file name="$USER_HOME$/projects/larVolumeToObj/larVolumeToObj/computation/data_preparation.py" timestamp="1443961093028">
         <mark key="'" line="25" column="80" />
@@ -72,23 +74,11 @@
         <mark key="." line="19" column="18" />
         <mark key="[" line="18" column="16" />
       </file>
-      <file name="$USER_HOME$/projects/pyseg_base/setup.py" timestamp="1443101045835">
-        <mark key="]" line="15" column="34" />
-        <mark key="^" line="15" column="34" />
-        <mark key="." line="15" column="34" />
-        <mark key="[" line="15" column="35" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/untitled/file" timestamp="1443097744924">
-        <mark key="]" line="3" column="11" />
-        <mark key="^" line="3" column="11" />
-        <mark key="." line="3" column="11" />
-        <mark key="[" line="3" column="11" />
-      </file>
-      <file name="$USER_HOME$/projects/larVolumeToObj/larVolumeToObj/computation/laplacianSmoothing.py" timestamp="1443730610302">
-        <mark key="]" line="20" column="4" />
-        <mark key="^" line="17" column="7" />
-        <mark key="." line="20" column="4" />
-        <mark key="[" line="19" column="20" />
+      <file name="$USER_HOME$/projects/pyplasm/CMakeLists.txt" timestamp="1443978235623">
+        <mark key="]" line="60" column="0" />
+        <mark key="^" line="60" column="0" />
+        <mark key="." line="60" column="0" />
+        <mark key="[" line="59" column="63" />
       </file>
       <file name="$USER_HOME$/projects/larVolumeToObj/larVolumeToObj/computation/__init__.py" timestamp="1443976327726">
         <mark key="]" line="2" column="4" />
@@ -96,11 +86,23 @@
         <mark key="." line="2" column="4" />
         <mark key="[" line="2" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/pyplasm/CMakeLists.txt" timestamp="1443978235623">
-        <mark key="]" line="60" column="0" />
-        <mark key="^" line="60" column="0" />
-        <mark key="." line="60" column="0" />
-        <mark key="[" line="59" column="63" />
+      <file name="$USER_HOME$/projects/larVolumeToObj/larVolumeToObj/computation/laplacianSmoothing.py" timestamp="1443730610302">
+        <mark key="]" line="20" column="4" />
+        <mark key="^" line="17" column="7" />
+        <mark key="." line="20" column="4" />
+        <mark key="[" line="19" column="20" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/untitled/file" timestamp="1443097744924">
+        <mark key="]" line="3" column="11" />
+        <mark key="^" line="3" column="11" />
+        <mark key="." line="3" column="11" />
+        <mark key="[" line="3" column="11" />
+      </file>
+      <file name="$USER_HOME$/projects/pyseg_base/setup.py" timestamp="1443101045835">
+        <mark key="]" line="15" column="34" />
+        <mark key="^" line="15" column="34" />
+        <mark key="." line="15" column="34" />
+        <mark key="[" line="15" column="35" />
       </file>
       <file name="$USER_HOME$/projects/io3d/io3d/datareader.py" timestamp="1443957449809">
         <mark key="]" line="60" column="0" />
@@ -147,49 +149,50 @@
       <jump line="12" column="0" filename="$USER_HOME$/projects/larVolumeToObj/.travis.yml" />
       <jump line="14" column="18" filename="$USER_HOME$/projects/larVolumeToObj/.travis.yml" />
       <jump line="32" column="67" filename="$USER_HOME$/projects/larVolumeToObj/.travis.yml" />
+      <jump line="68" column="19" filename="$USER_HOME$/projects/old_pyplasm/CMakeLists.txt" />
     </jumps>
     <registers>
-      <register name="3" type="4">
-        <text>-</text>
-      </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">cHl0aG9uIA==</text>
+        <text>t</text>
+      </register>
+      <register name="3" type="4">
+        <text>g</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ZGV2IA==</text>
+        <text>i</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">cHl0aG9uIA==</text>
+        <text>t</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC0gc3VkbyBhcHQtZ2V0IGluc3RhbGwgLXFxIGxpYmZyZWV0eXBlNiBsaWJmcmVldHlwZTYtZGV2IGxpYmFzb3VuZDIgbGliYXNvdW5kMi1kZXYgYWxzYS1iYXNlIGFsc2EtdXRpbHMgcHl0aG9uIHB5dGhvbi1kZXYgcHl0aG9uLXNldHVwdG9vbHMgbGlieGluZXJhbWEtZGV2IGxpYnhyZW5kZXItZGV2IGxpYnhjb21wb3NpdGUtZGV2IGxpYnhjdXJzb3ItZGV2IGxpYmdsdTEtbWVzYS1kZXYgbGliZnJlZWltYWdlMyAgbGlicG5nMTItMCBsaWJwbmcxMi1kZXYgbGlianBlZy1kZXYgbGlieHhmODZ2bTEgbGlieHhmODZ2bS1kZXYgbGlieGk2IGxpYnhpLWRldiBsaWJ4cmFuZHItZGV2IG1lc2EtY29tbW9uLWRldiBtZXNhLXV0aWxzLWV4dHJhIGxpYmdsMS1tZXNhLWRldiBsaWJnbGFwaS1tZXNhCg==</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+        <text>t</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBJTkNMVURFX0RJUkVDVE9SSUVTKCR7TlVNUFlfSU5DTFVERV9ESVJTfSkK</text>
+      <register name="6" type="4">
+        <text>g</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBJTkNMVURFX0RJUkVDVE9SSUVTKCR7TlVNUFlfSU5DTFVERV9ESVJTfSkK</text>
+      <register name="5" type="4">
+        <text>i</text>
       </register>
       <register name="4" type="4">
-        <text>python</text>
+        <text>t</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICdzdGVwX3JlbW92ZV9ib3hlc19pbmVyX2ZhY2VzJywgJ3N0ZXBfc3F1YXJlbWVzaCcsICdzdGVwX3RyaWFuZ3VsYXJtZXNoJywK</text>
+      <register name="9" type="4">
+        <text>g</text>
       </register>
       <register name="8" type="4">
-        <text>'matrixutil_no_accel',</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>scipy</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHl0aG9uIA==</text>
+        <text>t</text>
       </register>
     </registers>
     <search>
@@ -257,6 +260,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
