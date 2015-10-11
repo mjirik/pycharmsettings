@@ -48,6 +48,11 @@
         <mark key="." line="86" column="18" />
         <mark key="[" line="84" column="20" />
       </file>
+      <file name="$USER_HOME$/projects/sed3/setup.py" timestamp="1444594702622">
+        <mark key="]" line="14" column="19" />
+        <mark key="." line="14" column="19" />
+        <mark key="[" line="14" column="17" />
+      </file>
       <file name="$USER_HOME$/projects/lisa/setup.cfg" timestamp="1443105817532">
         <mark key="]" line="3" column="18" />
         <mark key="^" line="3" column="18" />
@@ -76,8 +81,14 @@
         <mark key="." line="169" column="85" />
         <mark key="[" line="169" column="85" />
       </file>
-      <file name="/a.dummy" timestamp="1444593789289">
+      <file name="/a.dummy" timestamp="1444594705738">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/sed3/sed3/sed3.py" timestamp="1444594662022">
+        <mark key="]" line="758" column="7" />
+        <mark key="^" line="758" column="7" />
+        <mark key="." line="758" column="7" />
+        <mark key="[" line="758" column="5" />
       </file>
       <file name="$USER_HOME$/projects/larVolumeToObj/README.md" timestamp="1443963010174">
         <mark key="]" line="66" column="7" />
@@ -183,46 +194,46 @@
     </jumps>
     <registers>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAidDcgIiwgKHRpbWUudGltZSgpIC0gc3RhcnQpCg==</text>
-      </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnN0YXRzWyJ0OSJdID0gKHRpbWUudGltZSgpIC0gc3RhcnQpCg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCAidDEwICIsICh0aW1lLnRpbWUoKSAtIHN0YXJ0KQo=</text>
       </register>
-      <register name="1" type="2">
+      <register name="&quot;" type="4">
+        <text>seg</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLnN0YXRzWyJ0OSJdID0gKHRpbWUudGltZSgpIC0gc3RhcnQpCg==</text>
+      </register>
+      <register name="1" type="4">
+        <text>seg</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLnN0YXRzWyJ0OCJdID0gKHRpbWUudGltZSgpIC0gc3RhcnQpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAidDUgIiwgKHRpbWUudGltZSgpIC0gc3RhcnQpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAidDUuNSAiLCAodGltZS50aW1lKCkgLSBzdGFydCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAidDUuNSAiLCAodGltZS50aW1lKCkgLSBzdGFydCkK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCAidDYgIiwgKHRpbWUudGltZSgpIC0gc3RhcnQpCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCAidDUuNSAiLCAodGltZS50aW1lKCkgLSBzdGFydCkK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCAidDcgIiwgKHRpbWUudGltZSgpIC0gc3RhcnQpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">cHJpbnQg</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCAidDUgIiwgKHRpbWUudGltZSgpIC0gc3RhcnQpCg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjdXRfZnJvbV9ncmFwaFw+</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHJpbnQg</text>
+        <text>seg</text>
       </register>
     </registers>
     <search>
