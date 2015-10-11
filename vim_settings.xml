@@ -74,23 +74,11 @@
         <mark key="." line="19" column="18" />
         <mark key="[" line="18" column="16" />
       </file>
-      <file name="$USER_HOME$/projects/pyplasm/CMakeLists.txt" timestamp="1443978235623">
-        <mark key="]" line="60" column="0" />
-        <mark key="^" line="60" column="0" />
-        <mark key="." line="60" column="0" />
-        <mark key="[" line="59" column="63" />
-      </file>
-      <file name="$USER_HOME$/projects/larVolumeToObj/larVolumeToObj/computation/__init__.py" timestamp="1443976327726">
-        <mark key="]" line="2" column="4" />
-        <mark key="^" line="7" column="17" />
-        <mark key="." line="2" column="4" />
-        <mark key="[" line="2" column="4" />
-      </file>
-      <file name="$USER_HOME$/projects/larVolumeToObj/larVolumeToObj/computation/laplacianSmoothing.py" timestamp="1443730610302">
-        <mark key="]" line="20" column="4" />
-        <mark key="^" line="17" column="7" />
-        <mark key="." line="20" column="4" />
-        <mark key="[" line="19" column="20" />
+      <file name="$USER_HOME$/projects/pyseg_base/setup.py" timestamp="1443101045835">
+        <mark key="]" line="15" column="34" />
+        <mark key="^" line="15" column="34" />
+        <mark key="." line="15" column="34" />
+        <mark key="[" line="15" column="35" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/untitled/file" timestamp="1443097744924">
         <mark key="]" line="3" column="11" />
@@ -98,11 +86,23 @@
         <mark key="." line="3" column="11" />
         <mark key="[" line="3" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/pyseg_base/setup.py" timestamp="1443101045835">
-        <mark key="]" line="15" column="34" />
-        <mark key="^" line="15" column="34" />
-        <mark key="." line="15" column="34" />
-        <mark key="[" line="15" column="35" />
+      <file name="$USER_HOME$/projects/larVolumeToObj/larVolumeToObj/computation/laplacianSmoothing.py" timestamp="1443730610302">
+        <mark key="]" line="20" column="4" />
+        <mark key="^" line="17" column="7" />
+        <mark key="." line="20" column="4" />
+        <mark key="[" line="19" column="20" />
+      </file>
+      <file name="$USER_HOME$/projects/larVolumeToObj/larVolumeToObj/computation/__init__.py" timestamp="1443976327726">
+        <mark key="]" line="2" column="4" />
+        <mark key="^" line="7" column="17" />
+        <mark key="." line="2" column="4" />
+        <mark key="[" line="2" column="4" />
+      </file>
+      <file name="$USER_HOME$/projects/pyplasm/CMakeLists.txt" timestamp="1443978235623">
+        <mark key="]" line="60" column="0" />
+        <mark key="^" line="60" column="0" />
+        <mark key="." line="60" column="0" />
+        <mark key="[" line="59" column="63" />
       </file>
       <file name="$USER_HOME$/projects/io3d/io3d/datareader.py" timestamp="1443957449809">
         <mark key="]" line="60" column="0" />
@@ -123,13 +123,19 @@
         <mark key="." line="86" column="18" />
         <mark key="[" line="84" column="20" />
       </file>
+      <file name="$USER_HOME$/projects/pyseg_base/tests/pycut_test.py" timestamp="1444569527126">
+        <mark key="]" line="76" column="15" />
+        <mark key="^" line="76" column="15" />
+        <mark key="." line="76" column="15" />
+        <mark key="[" line="76" column="16" />
+      </file>
       <file name="$USER_HOME$/projects/larVolumeToObj/setup.py" timestamp="1443975720173">
         <mark key="]" line="65" column="52" />
         <mark key="^" line="65" column="52" />
         <mark key="." line="65" column="52" />
         <mark key="[" line="65" column="46" />
       </file>
-      <file name="/Python Console" timestamp="1443960939102">
+      <file name="/Python Console" timestamp="1444569547583">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -156,11 +162,11 @@
       <jump line="334" column="4" filename="$USER_HOME$/projects/lisa/lisa/experiments.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIKICAgICAgICAKICAgICAgICA6cGFyYW0gZXhwZXJpbWVudF9kaXI6IAogICAgICAgIDpwYXJhbSBsYWJlbHM6IAogICAgICAgIDpwYXJhbSBzbGl2ZXJfcmVmZXJlbmNlX2RpcjogCiAgICAgICAgOnBhcmFtIGlucHV0X2RhdGFfcGF0aF9wYXR0ZXJuOiAKICAgICAgICA6cGFyYW0gY29uZl9kZWZhdWx0OiAKICAgICAgICA6cGFyYW0gY29uZl9saXN0OiAKICAgICAgICA6cGFyYW0gc2hvdzogCiAgICAgICAgOnBhcmFtIHVzZV9wbHQ6IAogICAgICAgIDpwYXJhbSBpbWFnZV9iYXNlbmFtZTogCiAgICAgICAgOnBhcmFtIG9ubHlfaWZfbmVjZXNzYXJ5OiAKICAgICAgICA6cGFyYW0gcGtsel9kaXJzOiAKICAgICAgICA6cGFyYW0gZXhwZXJpbWVudF9uYW1lOiAKICAgICAgICA6cGFyYW0gZmlsZW5hbWVfc2VwYXJhdG9yOiAKICAgICAgICA6cGFyYW0gbWFya2VyczogCiAgICAgICAgOnJldHVybjoKICAgICAgICAiIiIK</text>
-      </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAiIiIKCiAgICAgICAgIiIiCg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAiIiIKICAgICAgICAKICAgICAgICA6cGFyYW0gZXhwZXJpbWVudF9kaXI6IAogICAgICAgIDpwYXJhbSBsYWJlbHM6IAogICAgICAgIDpwYXJhbSBzbGl2ZXJfcmVmZXJlbmNlX2RpcjogCiAgICAgICAgOnBhcmFtIGlucHV0X2RhdGFfcGF0aF9wYXR0ZXJuOiAKICAgICAgICA6cGFyYW0gY29uZl9kZWZhdWx0OiAKICAgICAgICA6cGFyYW0gY29uZl9saXN0OiAKICAgICAgICA6cGFyYW0gc2hvdzogCiAgICAgICAgOnBhcmFtIHVzZV9wbHQ6IAogICAgICAgIDpwYXJhbSBpbWFnZV9iYXNlbmFtZTogCiAgICAgICAgOnBhcmFtIG9ubHlfaWZfbmVjZXNzYXJ5OiAKICAgICAgICA6cGFyYW0gcGtsel9kaXJzOiAKICAgICAgICA6cGFyYW0gZXhwZXJpbWVudF9uYW1lOiAKICAgICAgICA6cGFyYW0gZmlsZW5hbWVfc2VwYXJhdG9yOiAKICAgICAgICA6cGFyYW0gbWFya2VyczogCiAgICAgICAgOnJldHVybjoKICAgICAgICAiIiIK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICIiIgogICAgSmUgcG90xZllYmEgbcOtdCBwxZlpcHJhdmVuIGFkcmVzw6HFmSBzIGRhdHkocGtsel9kaXJzKSwgdiBuaWNoxb4ganNvdSB1bG/FvmVueQogICAgc2VlZHkuIETDoWxlIHBhayBzb3Vib3J5IHMga29uZmlndXJhY8OtIGEgc3Rlam7DvW0gam3DqW5lbSBqYWtvIGFkcmVzw6HFmSArCiAgICBwxZnDrXBvbmEgJy5jb25mJy4KCiAgICA6cGFyYW0gZXhwZXJpbWVudF9kaXI6IGJhc2UgZGlyZWN0b3J5IG9mIGV4cGVyaW1lbnQgb3V0cHV0cwogICAgOnBhcmFtcyBsYWJlbHM6IExhYmVscyBmb3IgZGVzY3JpYmluZyBncmFwaHMuIFRoZXkgYXJlIGFsc28gdXNlZCBmb3IKICAgICAgICBnZW5lcmF0aW5nIGRpciBuYW1lcyBpZiBwa2x6X2RpcnMgaXMgbm90IHVzZWQuCiAgICA6cGFyYW0gc2xpdmVyX3JlZmVyZW5jZV9kaXI6IGRpciB3aXRoIHNsaXZlciByZWZlcmVuY2UgZGF0YQogICAgOnBhcmFtIGlucHV0X2RhdGFfcGF0aF9wYXR0ZXJuOiBEaXJlY3RvcnkgY29udGFpbmluZyBkYXRhIHdpdGggc2VlZHMuIEZvcgogICAgICAgIGV4YW1wbGU6OgoKICAgICAgICAiL2hvbWUvbWppcmlrL2V4cDAxMC1zZWVkcy8qLXNlZWRzLnBrbHoiCiAgICA6cGFyYW0gY29uZl9kZWZhdWx0OiBkZWZhdWx0IHZhbHVlcyBmb3IgY29uZmlnIGdlbmVyYXRpb24uCiAgICAgICAgRXhhbXBsZTo6CgogICAgICAgIGNvbmZfZGVmYXVsdCA9IHsKICAgICAgICAgICAgJ2NvbmZpZ192ZXJzaW9uJzogWzEsMCwwXSwKICAgICAgICAgICAgJ3dvcmtpbmdfdm94ZWxzaXplX21tJzogMi4wLAogICAgICAgICAgICAnc2VncGFyYW1zJzogewogICAgICAgICAgICAgICAgJ3BhaXJ3aXNlX2FscGhhX3Blcl9tbTInOiA1MCwKICAgICAgICAgICAgICAgICdyZXR1cm5fb25seV9vYmplY3Rfd2l0aF9zZWVkcyc6IFRydWUsCiAgICAgICAgICAgICAgICAnbWV0aG9kJzogJ0dDJwogICAgICAgICAgICB9CiAgICAgICAgfQogICAgOnBhcmFtIGV4cGVyaW1lbnRfbmFtZTogc3RyaW5nIGlzIHVzZWQgYXMgcHJlZml4IGZvciBhbGwgb3V0cHV0IGZpbGVzCiAgICA6cGFyYW0gcGtsel9kaXJzOiBMaXN0IG9mIGRpcnMgb3Igc3RyaW5nIHdpdGggZGlyIHByZWZpeC4gSWYgdGhlIHN0cmluZyBpcwogICAgICAgIGdpdmVuIGJhc2Ugb24gbGFiZWxzIHRoZSBsaXN0IGlzIGdlbmVyYXRlZAogICAgICAgIEluIGVhY2ggd2lsbCBiZSBvdXRwdXQgZm9yIG9uZSBleHBlcmltZW50LiBUaGVyZQogICAgICAgIGlzIGFsc28gcmVxdWlyZWQgdG8gaGF2ZSBmaWxlIHdpdGggc2FtZSBuYW1lIGFzIGRpcmVjdG9yeSB3aXRoCiAgICAgICAgZXh0ZW5zaW9uLmNvbmZpZy4gSW4gdGhpcyBmaWxlcyBpcyBjb25maWd1cmF0aW9uIG9mIExpc2EuCiAgICA6cGFyYW0gaW1hZ2VfYmFzZW5hbWU6IEJhc2lzIGZvciBpbWFnZSBuYW1lcy4gSXQgY2FuIGJlIGRpcmVjdG9yeSwgb3IKICAgICAgICBmaWxlbmFtZSBiZWdpbmluZwogICAgOnBhcmFtIG9ubHlfaWZfbmVjZXNzYXJ5OiBJZiBpdCBpcyBUcnVlIHRoZSBtYWtlX2FsbCgpIGZ1bmN0aW9uIGNhbGwKICAgICAgICBydW5fZXhwZXJpbWVudHMoKSBhbmQgZXZhbHVhdGlvbigpIGZ1bmN0aW9uIG9ubHkgaWYgdGhlcmUgYXJlIG5vCiAgICAgICAgZXZhbHVhdGlvbiBvdXRwdXRzIGFuZCBleHBlcmltZW50X291dHB1dHMuCiAgICA6cGFyYW0gbWFya2VyczogQWxsb3dzIHRvIGNvbnRyb2wgbWFya2VzIGZvciBvdXRwdXQgZ3JhcGhzCgogICAgc2VsZi5kZl9hbGwgaXMgc3RvcmFnZSBmb3IgYWxsIG91dHB0IG1lc3VyZW1lbnRzCiAgICAiIiIK</text>
