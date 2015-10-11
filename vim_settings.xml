@@ -55,12 +55,13 @@
         <mark key="." line="36" column="80" />
         <mark key="[" line="36" column="78" />
       </file>
-      <file name="$USER_HOME$/projects/pyseg_base/pysegbase/pycut.py" timestamp="1444581322564">
+      <file name="$USER_HOME$/projects/pyseg_base/pysegbase/pycut.py" timestamp="1444582639515">
         <mark key="'" line="22" column="20" />
-        <mark key="a" line="1045" column="8" />
-        <mark key="]" line="1093" column="0" />
-        <mark key="." line="1093" column="0" />
-        <mark key="[" line="1093" column="0" />
+        <mark key="a" line="1049" column="8" />
+        <mark key="]" line="621" column="0" />
+        <mark key="^" line="1103" column="18" />
+        <mark key="." line="621" column="0" />
+        <mark key="[" line="621" column="0" />
       </file>
       <file name="$USER_HOME$/projects/larVolumeToObj/.travis.yml" timestamp="1443978585865">
         <mark key="'" line="32" column="67" />
@@ -176,46 +177,46 @@
     </jumps>
     <registers>
       <register name="3" type="4">
-        <text>,</text>
+        <text>1</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnN0YXRzWyd0bGlua3Mgc2hhcGUnXSwgdW5hcmllc2FsdC5yZXNoYXBlKC0xLDIpLnNoYXBlCiAgICAgICAgc2VsZi5zdGF0c1snbmxpbmtzIHNoYXBlJ10sICBubGlua3Muc2hhcGUK</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHRfZ3JhcGggPSBweWdjby5jdXRfZnJvbV9ncmFwaCgKICAgICAgICAgICAgbmxpbmtzLAogICAgICAgICAgICB1bmFyaWVzYWx0LnJlc2hhcGUoLTEsIDIpLAogICAgICAgICAgICBwYWlyd2lzZQogICAgICAgICkK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgdGltZQogICAgICAgIHN0YXJ0ID0gdGltZS50aW1lKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnN0YXRzWyd0bGlua3Mgc2hhcGUnXSwgdW5hcmllc2FsdC5yZXNoYXBlKC0xLDIpLnNoYXBlCiAgICAgICAgc2VsZi5zdGF0c1snbmxpbmtzIHNoYXBlJ10sICBubGlua3Muc2hhcGUK</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHRfZ3JhcGggPSBweWdjby5jdXRfZnJvbV9ncmFwaCgKICAgICAgICAgICAgbmxpbmtzLAogICAgICAgICAgICB1bmFyaWVzYWx0LnJlc2hhcGUoLTEsIDIpLAogICAgICAgICAgICBwYWlyd2lzZQogICAgICAgICkK</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnN0YXRzWyd0bGlua3Mgc2hhcGUnXS5hcHBlbmQodW5hcmllc2FsdC5yZXNoYXBlKC0xLDIpLnNoYXBlKQogICAgICAgIHNlbGYuc3RhdHNbJ25saW5rcyBzaGFwZSddLmFwcGVuZChubGlua3Muc2hhcGUpCg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgdGltZQogICAgICAgIHN0YXJ0ID0gdGltZS50aW1lKCkKICAgICAgICByZXN1bHRfZ3JhcGggPSBweWdjby5jdXRfZnJvbV9ncmFwaCgKICAgICAgICAgICAgbmxpbmtzLAogICAgICAgICAgICB1bmFyaWVzYWx0LnJlc2hhcGUoLTEsIDIpLAogICAgICAgICAgICBwYWlyd2lzZQogICAgICAgICkKICAgICAgICBlbGFwc2VkID0gKHRpbWUudGltZSgpIC0gc3RhcnQpCiAgICAgICAgc2VsZi5zdGF0c1snZ2MgdGltZSddID0gZWxhcHNlZAo=</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">bmxpbmtzIA==</text>
+        <text>&quot;</text>
       </register>
       <register name="6" type="4">
-        <text>s</text>
+        <text>,</text>
       </register>
       <register name="5" type="4">
-        <text>h</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="4" type="4">
-        <text>&quot;</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLnN0YXRzWyd0bGlua3Mgc2hhcGUnXSwgdW5hcmllc2FsdC5yZXNoYXBlKC0xLDIpLnNoYXBlCiAgICAgICAgc2VsZi5zdGF0c1snbmxpbmtzIHNoYXBlJ10sICBubGlua3Muc2hhcGUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">cHJpbnQg</text>
+        <text>s</text>
       </register>
       <register name="8" type="4">
-        <text>&quot;</text>
+        <text>h</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjdXRfZnJvbV9ncmFwaFw+</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>1</text>
       </register>
     </registers>
     <search>
