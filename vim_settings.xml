@@ -103,6 +103,12 @@
         <mark key="." line="75" column="33" />
         <mark key="[" line="75" column="28" />
       </file>
+      <file name="$USER_HOME$/projects/sed3/tests/sed_test.py" timestamp="1444595151029">
+        <mark key="]" line="31" column="38" />
+        <mark key="^" line="31" column="38" />
+        <mark key="." line="31" column="38" />
+        <mark key="[" line="30" column="40" />
+      </file>
       <file name="$USER_HOME$/projects/larVolumeToObj/.travis.yml" timestamp="1443978585865">
         <mark key="'" line="32" column="67" />
         <mark key="]" line="14" column="31" />
@@ -141,10 +147,11 @@
         <mark key="." line="14" column="19" />
         <mark key="[" line="14" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/requirements_pip.txt" timestamp="1444594808187">
-        <mark key="]" line="3" column="11" />
-        <mark key="." line="3" column="11" />
-        <mark key="[" line="3" column="10" />
+      <file name="$USER_HOME$/projects/lisa/requirements_pip.txt" timestamp="1444594896863">
+        <mark key="]" line="1" column="17" />
+        <mark key="^" line="3" column="11" />
+        <mark key="." line="1" column="17" />
+        <mark key="[" line="1" column="15" />
       </file>
       <file name="$USER_HOME$/projects/io3d/io3d/datareader.py" timestamp="1443957449809">
         <mark key="]" line="60" column="0" />
@@ -198,47 +205,47 @@
       <jump line="439" column="58" filename="$USER_HOME$/projects/pyseg_base/pysegbase/pycut.py" />
     </jumps>
     <registers>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAidDEwICIsICh0aW1lLnRpbWUoKSAtIHN0YXJ0KQo=</text>
+      <register name="3" type="4">
+        <text>img</text>
       </register>
       <register name="&quot;" type="4">
-        <text>seg</text>
+        <text>zeros</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnN0YXRzWyJ0OSJdID0gKHRpbWUudGltZSgpIC0gc3RhcnQpCg==</text>
+      <register name="2" type="4">
+        <text>img</text>
       </register>
       <register name="1" type="4">
-        <text>seg</text>
+        <text>zeros</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnN0YXRzWyJ0OCJdID0gKHRpbWUudGltZSgpIC0gc3RhcnQpCg==</text>
+        <text encoding="base64">ICAgICAgICBpbWcgPSBucC56ZXJvcyhbMTAsIDEwLCAxNV0pCiAgICAgICAgaW1nWzY6OSwgMjo3LCAxOjVdID0gMQogICAgICAgIGltZ1s3OjksIDM6OSwgODoxNF0gPSAyCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAidDUuNSAiLCAodGltZS50aW1lKCkgLSBzdGFydCkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAidDEwICIsICh0aW1lLnRpbWUoKSAtIHN0YXJ0KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAidDYgIiwgKHRpbWUudGltZSgpIC0gc3RhcnQpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnN0YXRzWyJ0OSJdID0gKHRpbWUudGltZSgpIC0gc3RhcnQpCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAidDUuNSAiLCAodGltZS50aW1lKCkgLSBzdGFydCkK</text>
+      <register name="5" type="4">
+        <text>seg</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAidDcgIiwgKHRpbWUudGltZSgpIC0gc3RhcnQpCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">aW1nIA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">cHJpbnQg</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCAidDUuNSAiLCAodGltZS50aW1lKCkgLSBzdGFydCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAidDUgIiwgKHRpbWUudGltZSgpIC0gc3RhcnQpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAidDcgIiwgKHRpbWUudGltZSgpIC0gc3RhcnQpCg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjdXRfZnJvbV9ncmFwaFw+</text>
       </register>
       <register name="-" type="4">
-        <text>seg</text>
+        <text>zeros</text>
       </register>
     </registers>
     <search>
