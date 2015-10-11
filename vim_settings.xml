@@ -28,9 +28,6 @@
         <mark key="." line="169" column="85" />
         <mark key="[" line="169" column="85" />
       </file>
-      <file name="/a.dummy" timestamp="1443984322099">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/larVolumeToObj/README.md" timestamp="1443963010174">
         <mark key="]" line="66" column="7" />
         <mark key="^" line="66" column="7" />
@@ -65,8 +62,11 @@
         <mark key="." line="14" column="31" />
         <mark key="[" line="14" column="31" />
       </file>
-      <file name="$USER_HOME$/projects/larVolumeToObj/larVolumeToObj/computation/step_calcchains_serial_tobinary_filter_proc_lisa.py" timestamp="1443715078182">
-        <mark key="'" line="302" column="29" />
+      <file name="$USER_HOME$/projects/lisa/lisa/experiments.py" timestamp="1444556135628">
+        <mark key="'" line="346" column="4" />
+        <mark key="]" line="78" column="0" />
+        <mark key="." line="78" column="0" />
+        <mark key="[" line="78" column="0" />
       </file>
       <file name="$USER_HOME$/projects/larVolumeToObj/larVolumeToObj/computation/visualization.py" timestamp="1443952903863">
         <mark key="]" line="19" column="18" />
@@ -74,23 +74,11 @@
         <mark key="." line="19" column="18" />
         <mark key="[" line="18" column="16" />
       </file>
-      <file name="$USER_HOME$/projects/pyplasm/CMakeLists.txt" timestamp="1443978235623">
-        <mark key="]" line="60" column="0" />
-        <mark key="^" line="60" column="0" />
-        <mark key="." line="60" column="0" />
-        <mark key="[" line="59" column="63" />
-      </file>
-      <file name="$USER_HOME$/projects/larVolumeToObj/larVolumeToObj/computation/__init__.py" timestamp="1443976327726">
-        <mark key="]" line="2" column="4" />
-        <mark key="^" line="7" column="17" />
-        <mark key="." line="2" column="4" />
-        <mark key="[" line="2" column="4" />
-      </file>
-      <file name="$USER_HOME$/projects/larVolumeToObj/larVolumeToObj/computation/laplacianSmoothing.py" timestamp="1443730610302">
-        <mark key="]" line="20" column="4" />
-        <mark key="^" line="17" column="7" />
-        <mark key="." line="20" column="4" />
-        <mark key="[" line="19" column="20" />
+      <file name="$USER_HOME$/projects/pyseg_base/setup.py" timestamp="1443101045835">
+        <mark key="]" line="15" column="34" />
+        <mark key="^" line="15" column="34" />
+        <mark key="." line="15" column="34" />
+        <mark key="[" line="15" column="35" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/untitled/file" timestamp="1443097744924">
         <mark key="]" line="3" column="11" />
@@ -98,11 +86,23 @@
         <mark key="." line="3" column="11" />
         <mark key="[" line="3" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/pyseg_base/setup.py" timestamp="1443101045835">
-        <mark key="]" line="15" column="34" />
-        <mark key="^" line="15" column="34" />
-        <mark key="." line="15" column="34" />
-        <mark key="[" line="15" column="35" />
+      <file name="$USER_HOME$/projects/larVolumeToObj/larVolumeToObj/computation/laplacianSmoothing.py" timestamp="1443730610302">
+        <mark key="]" line="20" column="4" />
+        <mark key="^" line="17" column="7" />
+        <mark key="." line="20" column="4" />
+        <mark key="[" line="19" column="20" />
+      </file>
+      <file name="$USER_HOME$/projects/larVolumeToObj/larVolumeToObj/computation/__init__.py" timestamp="1443976327726">
+        <mark key="]" line="2" column="4" />
+        <mark key="^" line="7" column="17" />
+        <mark key="." line="2" column="4" />
+        <mark key="[" line="2" column="4" />
+      </file>
+      <file name="$USER_HOME$/projects/pyplasm/CMakeLists.txt" timestamp="1443978235623">
+        <mark key="]" line="60" column="0" />
+        <mark key="^" line="60" column="0" />
+        <mark key="." line="60" column="0" />
+        <mark key="[" line="59" column="63" />
       </file>
       <file name="$USER_HOME$/projects/io3d/io3d/datareader.py" timestamp="1443957449809">
         <mark key="]" line="60" column="0" />
@@ -123,6 +123,7 @@
         <mark key="." line="86" column="18" />
         <mark key="[" line="84" column="20" />
       </file>
+      <file name="$USER_HOME$/projects/lisa/lisa/volumetry_evaluation.py" timestamp="1444555472300" />
       <file name="$USER_HOME$/projects/larVolumeToObj/setup.py" timestamp="1443975720173">
         <mark key="]" line="65" column="52" />
         <mark key="^" line="65" column="52" />
@@ -150,55 +151,59 @@
       <jump line="14" column="18" filename="$USER_HOME$/projects/larVolumeToObj/.travis.yml" />
       <jump line="32" column="67" filename="$USER_HOME$/projects/larVolumeToObj/.travis.yml" />
       <jump line="68" column="19" filename="$USER_HOME$/projects/old_pyplasm/CMakeLists.txt" />
+      <jump line="426" column="4" filename="$USER_HOME$/projects/lisa/lisa/experiments.py" />
+      <jump line="427" column="26" filename="$USER_HOME$/projects/lisa/lisa/experiments.py" />
+      <jump line="517" column="4" filename="$USER_HOME$/projects/lisa/lisa/experiments.py" />
+      <jump line="334" column="4" filename="$USER_HOME$/projects/lisa/lisa/experiments.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>t</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAiIiIKCiAgICAgICAgIiIiCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>g</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAiIiIKICAgICAgICAKICAgICAgICA6cGFyYW0gZXhwZXJpbWVudF9kaXI6IAogICAgICAgIDpwYXJhbSBsYWJlbHM6IAogICAgICAgIDpwYXJhbSBzbGl2ZXJfcmVmZXJlbmNlX2RpcjogCiAgICAgICAgOnBhcmFtIGlucHV0X2RhdGFfcGF0aF9wYXR0ZXJuOiAKICAgICAgICA6cGFyYW0gY29uZl9kZWZhdWx0OiAKICAgICAgICA6cGFyYW0gY29uZl9saXN0OiAKICAgICAgICA6cGFyYW0gc2hvdzogCiAgICAgICAgOnBhcmFtIHVzZV9wbHQ6IAogICAgICAgIDpwYXJhbSBpbWFnZV9iYXNlbmFtZTogCiAgICAgICAgOnBhcmFtIG9ubHlfaWZfbmVjZXNzYXJ5OiAKICAgICAgICA6cGFyYW0gcGtsel9kaXJzOiAKICAgICAgICA6cGFyYW0gZXhwZXJpbWVudF9uYW1lOiAKICAgICAgICA6cGFyYW0gZmlsZW5hbWVfc2VwYXJhdG9yOiAKICAgICAgICA6cGFyYW0gbWFya2VyczogCiAgICAgICAgOnJldHVybjoKICAgICAgICAiIiIK</text>
       </register>
-      <register name="2" type="4">
-        <text>i</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICIiIgogICAgSmUgcG90xZllYmEgbcOtdCBwxZlpcHJhdmVuIGFkcmVzw6HFmSBzIGRhdHkocGtsel9kaXJzKSwgdiBuaWNoxb4ganNvdSB1bG/FvmVueQogICAgc2VlZHkuIETDoWxlIHBhayBzb3Vib3J5IHMga29uZmlndXJhY8OtIGEgc3Rlam7DvW0gam3DqW5lbSBqYWtvIGFkcmVzw6HFmSArCiAgICBwxZnDrXBvbmEgJy5jb25mJy4KCiAgICA6cGFyYW0gZXhwZXJpbWVudF9kaXI6IGJhc2UgZGlyZWN0b3J5IG9mIGV4cGVyaW1lbnQgb3V0cHV0cwogICAgOnBhcmFtcyBsYWJlbHM6IExhYmVscyBmb3IgZGVzY3JpYmluZyBncmFwaHMuIFRoZXkgYXJlIGFsc28gdXNlZCBmb3IKICAgICAgICBnZW5lcmF0aW5nIGRpciBuYW1lcyBpZiBwa2x6X2RpcnMgaXMgbm90IHVzZWQuCiAgICA6cGFyYW0gc2xpdmVyX3JlZmVyZW5jZV9kaXI6IGRpciB3aXRoIHNsaXZlciByZWZlcmVuY2UgZGF0YQogICAgOnBhcmFtIGlucHV0X2RhdGFfcGF0aF9wYXR0ZXJuOiBEaXJlY3RvcnkgY29udGFpbmluZyBkYXRhIHdpdGggc2VlZHMuIEZvcgogICAgICAgIGV4YW1wbGU6OgoKICAgICAgICAiL2hvbWUvbWppcmlrL2V4cDAxMC1zZWVkcy8qLXNlZWRzLnBrbHoiCiAgICA6cGFyYW0gY29uZl9kZWZhdWx0OiBkZWZhdWx0IHZhbHVlcyBmb3IgY29uZmlnIGdlbmVyYXRpb24uCiAgICAgICAgRXhhbXBsZTo6CgogICAgICAgIGNvbmZfZGVmYXVsdCA9IHsKICAgICAgICAgICAgJ2NvbmZpZ192ZXJzaW9uJzogWzEsMCwwXSwKICAgICAgICAgICAgJ3dvcmtpbmdfdm94ZWxzaXplX21tJzogMi4wLAogICAgICAgICAgICAnc2VncGFyYW1zJzogewogICAgICAgICAgICAgICAgJ3BhaXJ3aXNlX2FscGhhX3Blcl9tbTInOiA1MCwKICAgICAgICAgICAgICAgICdyZXR1cm5fb25seV9vYmplY3Rfd2l0aF9zZWVkcyc6IFRydWUsCiAgICAgICAgICAgICAgICAnbWV0aG9kJzogJ0dDJwogICAgICAgICAgICB9CiAgICAgICAgfQogICAgOnBhcmFtIGV4cGVyaW1lbnRfbmFtZTogc3RyaW5nIGlzIHVzZWQgYXMgcHJlZml4IGZvciBhbGwgb3V0cHV0IGZpbGVzCiAgICA6cGFyYW0gcGtsel9kaXJzOiBMaXN0IG9mIGRpcnMgb3Igc3RyaW5nIHdpdGggZGlyIHByZWZpeC4gSWYgdGhlIHN0cmluZyBpcwogICAgICAgIGdpdmVuIGJhc2Ugb24gbGFiZWxzIHRoZSBsaXN0IGlzIGdlbmVyYXRlZAogICAgICAgIEluIGVhY2ggd2lsbCBiZSBvdXRwdXQgZm9yIG9uZSBleHBlcmltZW50LiBUaGVyZQogICAgICAgIGlzIGFsc28gcmVxdWlyZWQgdG8gaGF2ZSBmaWxlIHdpdGggc2FtZSBuYW1lIGFzIGRpcmVjdG9yeSB3aXRoCiAgICAgICAgZXh0ZW5zaW9uLmNvbmZpZy4gSW4gdGhpcyBmaWxlcyBpcyBjb25maWd1cmF0aW9uIG9mIExpc2EuCiAgICA6cGFyYW0gaW1hZ2VfYmFzZW5hbWU6IEJhc2lzIGZvciBpbWFnZSBuYW1lcy4gSXQgY2FuIGJlIGRpcmVjdG9yeSwgb3IKICAgICAgICBmaWxlbmFtZSBiZWdpbmluZwogICAgOnBhcmFtIG9ubHlfaWZfbmVjZXNzYXJ5OiBJZiBpdCBpcyBUcnVlIHRoZSBtYWtlX2FsbCgpIGZ1bmN0aW9uIGNhbGwKICAgICAgICBydW5fZXhwZXJpbWVudHMoKSBhbmQgZXZhbHVhdGlvbigpIGZ1bmN0aW9uIG9ubHkgaWYgdGhlcmUgYXJlIG5vCiAgICAgICAgZXZhbHVhdGlvbiBvdXRwdXRzIGFuZCBleHBlcmltZW50X291dHB1dHMuCiAgICA6cGFyYW0gbWFya2VyczogQWxsb3dzIHRvIGNvbnRyb2wgbWFya2VzIGZvciBvdXRwdXQgZ3JhcGhzCgogICAgc2VsZi5kZl9hbGwgaXMgc3RvcmFnZSBmb3IgYWxsIG91dHB0IG1lc3VyZW1lbnRzCiAgICAiIiIK</text>
       </register>
-      <register name="1" type="4">
-        <text>t</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAiIiIKICAgICAgICAKICAgICAgICA6cGFyYW0gZXhwZXJpbWVudF9kaXI6IAogICAgICAgIDpwYXJhbSBsYWJlbHM6IAogICAgICAgIDpwYXJhbSBzbGl2ZXJfcmVmZXJlbmNlX2RpcjogCiAgICAgICAgOnBhcmFtIGlucHV0X2RhdGFfcGF0aF9wYXR0ZXJuOiAKICAgICAgICA6cGFyYW0gY29uZl9kZWZhdWx0OiAKICAgICAgICA6cGFyYW0gY29uZl9saXN0OiAKICAgICAgICA6cGFyYW0gc2hvdzogCiAgICAgICAgOnBhcmFtIHVzZV9wbHQ6IAogICAgICAgIDpwYXJhbSBpbWFnZV9iYXNlbmFtZTogCiAgICAgICAgOnBhcmFtIG9ubHlfaWZfbmVjZXNzYXJ5OiAKICAgICAgICA6cGFyYW0gcGtsel9kaXJzOiAKICAgICAgICA6cGFyYW0gZXhwZXJpbWVudF9uYW1lOiAKICAgICAgICA6cGFyYW0gZmlsZW5hbWVfc2VwYXJhdG9yOiAKICAgICAgICA6cGFyYW0gbWFya2VyczogCiAgICAgICAgOnJldHVybjoKICAgICAgICAiIiIK</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC0gc3VkbyBhcHQtZ2V0IGluc3RhbGwgLXFxIGxpYmZyZWV0eXBlNiBsaWJmcmVldHlwZTYtZGV2IGxpYmFzb3VuZDIgbGliYXNvdW5kMi1kZXYgYWxzYS1iYXNlIGFsc2EtdXRpbHMgcHl0aG9uIHB5dGhvbi1kZXYgcHl0aG9uLXNldHVwdG9vbHMgbGlieGluZXJhbWEtZGV2IGxpYnhyZW5kZXItZGV2IGxpYnhjb21wb3NpdGUtZGV2IGxpYnhjdXJzb3ItZGV2IGxpYmdsdTEtbWVzYS1kZXYgbGliZnJlZWltYWdlMyAgbGlicG5nMTItMCBsaWJwbmcxMi1kZXYgbGlianBlZy1kZXYgbGlieHhmODZ2bTEgbGlieHhmODZ2bS1kZXYgbGlieGk2IGxpYnhpLWRldiBsaWJ4cmFuZHItZGV2IG1lc2EtY29tbW9uLWRldiBtZXNhLXV0aWxzLWV4dHJhIGxpYmdsMS1tZXNhLWRldiBsaWJnbGFwaS1tZXNhCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>t</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHNlbGYuZGZfYWxsID0gZGZfYWxsCg==</text>
       </register>
       <register name="6" type="4">
-        <text>g</text>
+        <text>s</text>
       </register>
       <register name="5" type="4">
-        <text>i</text>
+        <text>s</text>
       </register>
-      <register name="4" type="4">
-        <text>t</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICA6cnR5cGUgOiBvYmplY3QK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>g</text>
-      </register>
-      <register name="8" type="4">
         <text>i</text>
       </register>
+      <register name="8" type="4">
+        <text>t</text>
+      </register>
       <register name="/" type="4">
-        <text>scipy</text>
+        <text encoding="base64">XDxjcmVhdGVfZGF0YV9mcmFtZVw+</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>s</text>
       </register>
     </registers>
     <search>
-      <last-search>scipy</last-search>
+      <last-search encoding="base64">XDxjcmVhdGVfZGF0YV9mcmFtZVw+</last-search>
       <last-offset />
-      <last-pattern>scipy</last-pattern>
+      <last-pattern encoding="base64">XDxjcmVhdGVfZGF0YV9mcmFtZVw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -210,6 +215,9 @@
         <entry>nose</entry>
         <entry>numpy</entry>
         <entry>scipy</entry>
+        <entry encoding="base64">XDxkZl9hbGxcPg==</entry>
+        <entry>df_all</entry>
+        <entry encoding="base64">XDxjcmVhdGVfZGF0YV9mcmFtZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
