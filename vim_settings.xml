@@ -9,6 +9,9 @@
         <mark key="." line="3" column="18" />
         <mark key="[" line="4" column="0" />
       </file>
+      <file name="/fragment.py" timestamp="1444586822147">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/io3d/setup.py" timestamp="1443975157525">
         <mark key="]" line="56" column="53" />
         <mark key="^" line="56" column="53" />
@@ -55,13 +58,12 @@
         <mark key="." line="36" column="80" />
         <mark key="[" line="36" column="78" />
       </file>
-      <file name="$USER_HOME$/projects/pyseg_base/pysegbase/pycut.py" timestamp="1444584740090">
-        <mark key="'" line="22" column="20" />
-        <mark key="a" line="1060" column="8" />
-        <mark key="]" line="582" column="17" />
-        <mark key="^" line="582" column="17" />
-        <mark key="." line="582" column="17" />
-        <mark key="[" line="582" column="17" />
+      <file name="$USER_HOME$/projects/pyseg_base/pysegbase/pycut.py" timestamp="1444587732373">
+        <mark key="a" line="1058" column="8" />
+        <mark key="]" line="1137" column="4" />
+        <mark key="^" line="1142" column="0" />
+        <mark key="." line="1137" column="4" />
+        <mark key="[" line="1137" column="4" />
       </file>
       <file name="$USER_HOME$/projects/larVolumeToObj/.travis.yml" timestamp="1443978585865">
         <mark key="'" line="32" column="67" />
@@ -70,35 +72,23 @@
         <mark key="." line="14" column="31" />
         <mark key="[" line="14" column="31" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/experiments.py" timestamp="1444556135628">
-        <mark key="'" line="346" column="4" />
-        <mark key="]" line="78" column="0" />
-        <mark key="." line="78" column="0" />
-        <mark key="[" line="78" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/larVolumeToObj/larVolumeToObj/computation/visualization.py" timestamp="1443952903863">
         <mark key="]" line="19" column="18" />
         <mark key="^" line="19" column="18" />
         <mark key="." line="19" column="18" />
         <mark key="[" line="18" column="16" />
       </file>
-      <file name="$USER_HOME$/projects/pyseg_base/setup.py" timestamp="1443101045835">
-        <mark key="]" line="15" column="34" />
-        <mark key="^" line="15" column="34" />
-        <mark key="." line="15" column="34" />
-        <mark key="[" line="15" column="35" />
+      <file name="$USER_HOME$/projects/lisa/lisa/experiments.py" timestamp="1444556135628">
+        <mark key="'" line="346" column="4" />
+        <mark key="]" line="78" column="0" />
+        <mark key="." line="78" column="0" />
+        <mark key="[" line="78" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/untitled/file" timestamp="1443097744924">
-        <mark key="]" line="3" column="11" />
-        <mark key="^" line="3" column="11" />
-        <mark key="." line="3" column="11" />
-        <mark key="[" line="3" column="11" />
-      </file>
-      <file name="$USER_HOME$/projects/larVolumeToObj/larVolumeToObj/computation/laplacianSmoothing.py" timestamp="1443730610302">
-        <mark key="]" line="20" column="4" />
-        <mark key="^" line="17" column="7" />
-        <mark key="." line="20" column="4" />
-        <mark key="[" line="19" column="20" />
+      <file name="$USER_HOME$/projects/pyplasm/CMakeLists.txt" timestamp="1443978235623">
+        <mark key="]" line="60" column="0" />
+        <mark key="^" line="60" column="0" />
+        <mark key="." line="60" column="0" />
+        <mark key="[" line="59" column="63" />
       </file>
       <file name="$USER_HOME$/projects/larVolumeToObj/larVolumeToObj/computation/__init__.py" timestamp="1443976327726">
         <mark key="]" line="2" column="4" />
@@ -106,11 +96,23 @@
         <mark key="." line="2" column="4" />
         <mark key="[" line="2" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/pyplasm/CMakeLists.txt" timestamp="1443978235623">
-        <mark key="]" line="60" column="0" />
-        <mark key="^" line="60" column="0" />
-        <mark key="." line="60" column="0" />
-        <mark key="[" line="59" column="63" />
+      <file name="$USER_HOME$/projects/larVolumeToObj/larVolumeToObj/computation/laplacianSmoothing.py" timestamp="1443730610302">
+        <mark key="]" line="20" column="4" />
+        <mark key="^" line="17" column="7" />
+        <mark key="." line="20" column="4" />
+        <mark key="[" line="19" column="20" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/untitled/file" timestamp="1443097744924">
+        <mark key="]" line="3" column="11" />
+        <mark key="^" line="3" column="11" />
+        <mark key="." line="3" column="11" />
+        <mark key="[" line="3" column="11" />
+      </file>
+      <file name="$USER_HOME$/projects/pyseg_base/setup.py" timestamp="1443101045835">
+        <mark key="]" line="15" column="34" />
+        <mark key="^" line="15" column="34" />
+        <mark key="." line="15" column="34" />
+        <mark key="[" line="15" column="35" />
       </file>
       <file name="$USER_HOME$/projects/io3d/io3d/datareader.py" timestamp="1443957449809">
         <mark key="]" line="60" column="0" />
@@ -131,19 +133,19 @@
         <mark key="." line="86" column="18" />
         <mark key="[" line="84" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/pyseg_base/tests/pycut_test.py" timestamp="1444570432453">
-        <mark key="]" line="76" column="15" />
-        <mark key="^" line="76" column="15" />
-        <mark key="." line="76" column="15" />
-        <mark key="[" line="76" column="16" />
-      </file>
       <file name="$USER_HOME$/projects/larVolumeToObj/setup.py" timestamp="1443975720173">
         <mark key="]" line="65" column="52" />
         <mark key="^" line="65" column="52" />
         <mark key="." line="65" column="52" />
         <mark key="[" line="65" column="46" />
       </file>
-      <file name="/Python Console" timestamp="1444584959184">
+      <file name="$USER_HOME$/projects/pyseg_base/tests/pycut_test.py" timestamp="1444587748935">
+        <mark key="]" line="40" column="26" />
+        <mark key="^" line="40" column="26" />
+        <mark key="." line="40" column="26" />
+        <mark key="[" line="43" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1444587709660">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -174,49 +176,50 @@
       <jump line="1093" column="25" filename="$USER_HOME$/projects/pyseg_base/pysegbase/pycut.py" />
       <jump line="1095" column="29" filename="$USER_HOME$/projects/pyseg_base/pysegbase/pycut.py" />
       <jump line="22" column="20" filename="$USER_HOME$/projects/pyseg_base/pysegbase/pycut.py" />
+      <jump line="439" column="58" filename="$USER_HOME$/projects/pyseg_base/pysegbase/pycut.py" />
     </jumps>
     <registers>
+      <register name="&quot;" type="4">
+        <text>_</text>
+      </register>
       <register name="3" type="4">
-        <text>#</text>
-      </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAidDUgIiwgKHRpbWUudGltZSgpIC0gc3RhcnQpCg==</text>
-      </register>
-      <register name="2" type="4">
         <text encoding="base64">IA==</text>
       </register>
+      <register name="2" type="4">
+        <text>_</text>
+      </register>
       <register name="1" type="4">
-        <text>(time.time() - start)</text>
+        <text>_</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCAidDUgIiwgKHRpbWUudGltZSgpIC0gc3RhcnQpCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnN0YXRzWyd0bGlua3Mgc2hhcGUnXSwgdW5hcmllc2FsdC5yZXNoYXBlKC0xLDIpLnNoYXBlCiAgICAgICAgc2VsZi5zdGF0c1snbmxpbmtzIHNoYXBlJ10sICBubGlua3Muc2hhcGUK</text>
+      <register name="7" type="4">
+        <text>.</text>
       </register>
-      <register name="6" type="4">
-        <text>1</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGRlZiBfX21zX3JlbW92ZV9yZXBldGl0aXZlX2xpbmsoc2VsZiwgbmxpbmtzX25vdF91bmlxdWUpOgogICAgICAgIG5saW5rcyA9IG5wLmFycmF5KAogICAgICAgICAgICBbbGlzdCh4KSBmb3IgeCBpbiBzZXQodHVwbGUoeCkgZm9yIHggaW4gbmxpbmtzX25vdF91bmlxdWUpXQogICAgICAgICkKICAgICAgICByZXR1cm4gbmxpbmtzCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgdGltZQogICAgICAgIHN0YXJ0ID0gdGltZS50aW1lKCkK</text>
+      <register name="5" type="4">
+        <text>self</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHRfZ3JhcGggPSBweWdjby5jdXRfZnJvbV9ncmFwaCgKICAgICAgICAgICAgbmxpbmtzLAogICAgICAgICAgICB1bmFyaWVzYWx0LnJlc2hhcGUoLTEsIDIpLAogICAgICAgICAgICBwYWlyd2lzZQogICAgICAgICkK</text>
+      <register name="4" type="4">
+        <text>,</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="4">
-        <text>,</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBubGlua3MgPSBucC5hcnJheSgKICAgICAgICAgICAgW2xpc3QoeCkgZm9yIHggaW4gc2V0KHR1cGxlKHgpIGZvciB4IGluIG5saW5rc19ub3RfdW5pcXVlKV0KICAgICAgICApCg==</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+        <text>self</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjdXRfZnJvbV9ncmFwaFw+</text>
       </register>
       <register name="-" type="4">
-        <text>(time.time() - start)</text>
+        <text>_</text>
       </register>
     </registers>
     <search>
