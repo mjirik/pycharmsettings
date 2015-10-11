@@ -55,13 +55,13 @@
         <mark key="." line="36" column="80" />
         <mark key="[" line="36" column="78" />
       </file>
-      <file name="$USER_HOME$/projects/pyseg_base/pysegbase/pycut.py" timestamp="1444582639515">
+      <file name="$USER_HOME$/projects/pyseg_base/pysegbase/pycut.py" timestamp="1444584740090">
         <mark key="'" line="22" column="20" />
-        <mark key="a" line="1049" column="8" />
-        <mark key="]" line="621" column="0" />
-        <mark key="^" line="1103" column="18" />
-        <mark key="." line="621" column="0" />
-        <mark key="[" line="621" column="0" />
+        <mark key="a" line="1060" column="8" />
+        <mark key="]" line="582" column="17" />
+        <mark key="^" line="582" column="17" />
+        <mark key="." line="582" column="17" />
+        <mark key="[" line="582" column="17" />
       </file>
       <file name="$USER_HOME$/projects/larVolumeToObj/.travis.yml" timestamp="1443978585865">
         <mark key="'" line="32" column="67" />
@@ -177,46 +177,46 @@
     </jumps>
     <registers>
       <register name="3" type="4">
-        <text>1</text>
+        <text>#</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHRfZ3JhcGggPSBweWdjby5jdXRfZnJvbV9ncmFwaCgKICAgICAgICAgICAgbmxpbmtzLAogICAgICAgICAgICB1bmFyaWVzYWx0LnJlc2hhcGUoLTEsIDIpLAogICAgICAgICAgICBwYWlyd2lzZQogICAgICAgICkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAidDUgIiwgKHRpbWUudGltZSgpIC0gc3RhcnQpCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgdGltZQogICAgICAgIHN0YXJ0ID0gdGltZS50aW1lKCkK</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHRfZ3JhcGggPSBweWdjby5jdXRfZnJvbV9ncmFwaCgKICAgICAgICAgICAgbmxpbmtzLAogICAgICAgICAgICB1bmFyaWVzYWx0LnJlc2hhcGUoLTEsIDIpLAogICAgICAgICAgICBwYWlyd2lzZQogICAgICAgICkK</text>
-      </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgdGltZQogICAgICAgIHN0YXJ0ID0gdGltZS50aW1lKCkKICAgICAgICByZXN1bHRfZ3JhcGggPSBweWdjby5jdXRfZnJvbV9ncmFwaCgKICAgICAgICAgICAgbmxpbmtzLAogICAgICAgICAgICB1bmFyaWVzYWx0LnJlc2hhcGUoLTEsIDIpLAogICAgICAgICAgICBwYWlyd2lzZQogICAgICAgICkKICAgICAgICBlbGFwc2VkID0gKHRpbWUudGltZSgpIC0gc3RhcnQpCiAgICAgICAgc2VsZi5zdGF0c1snZ2MgdGltZSddID0gZWxhcHNlZAo=</text>
-      </register>
-      <register name="7" type="4">
-        <text>&quot;</text>
-      </register>
-      <register name="6" type="4">
-        <text>,</text>
-      </register>
-      <register name="5" type="4">
+      <register name="2" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="4" type="2">
+      <register name="1" type="4">
+        <text>(time.time() - start)</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCAidDUgIiwgKHRpbWUudGltZSgpIC0gc3RhcnQpCg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLnN0YXRzWyd0bGlua3Mgc2hhcGUnXSwgdW5hcmllc2FsdC5yZXNoYXBlKC0xLDIpLnNoYXBlCiAgICAgICAgc2VsZi5zdGF0c1snbmxpbmtzIHNoYXBlJ10sICBubGlua3Muc2hhcGUK</text>
+      </register>
+      <register name="6" type="4">
+        <text>1</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgdGltZQogICAgICAgIHN0YXJ0ID0gdGltZS50aW1lKCkK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICByZXN1bHRfZ3JhcGggPSBweWdjby5jdXRfZnJvbV9ncmFwaCgKICAgICAgICAgICAgbmxpbmtzLAogICAgICAgICAgICB1bmFyaWVzYWx0LnJlc2hhcGUoLTEsIDIpLAogICAgICAgICAgICBwYWlyd2lzZQogICAgICAgICkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>s</text>
+        <text>,</text>
       </register>
       <register name="8" type="4">
-        <text>h</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjdXRfZnJvbV9ncmFwaFw+</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>(time.time() - start)</text>
       </register>
     </registers>
     <search>
