@@ -1,5 +1,9 @@
 <application>
-  <component name="FileTypeManager" version="14">
-    <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.bundle;.git;.hg;.svn;.tox;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
+  <component name="FileTypeManager" version="11">
+    <ignoreFiles list="CVS;SCCS;RCS;rcs;.DS_Store;.svn;.pyc;.pyo;*.pyc;*.pyo;.git;*.hprof;_svn;.hg;*.lib;*~;__pycache__;.bundle;*.rbc;*$py.class;" />
+    <extensionMap>
+      <mapping pattern="file" type="Python" />
+    </extensionMap>
+    <setting name="fileTypeChangedCounter" value="3" />
   </component>
 </application>
