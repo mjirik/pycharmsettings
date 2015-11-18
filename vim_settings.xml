@@ -3,20 +3,64 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" timestamp="1447837532952">
-        <mark key="[" line="158" column="29" />
-        <mark key="]" line="160" column="11" />
-        <mark key="^" line="160" column="11" />
-        <mark key="." line="160" column="11" />
+      <file name="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" timestamp="1447839039056">
+        <mark key="[" line="173" column="75" />
+        <mark key="]" line="174" column="9" />
+        <mark key="." line="174" column="9" />
+        <mark key="^" line="174" column="9" />
       </file>
     </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="&quot;" type="4">
+        <text encoding="base64">dGhlIA==</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">dGhlIA==</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fdHJhaW5fb25lX2NsYXNzKGNseCwgY2wpCg==</text>
+      </register>
+      <register name="1" type="4">
+        <text encoding="base64">dGhlIA==</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">dHJhaW5pbmcg</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">V2hlbiA=</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">Z2VuZXJhdGVkIA==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">Y2xhc3Mg</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="7" type="4">
+        <text>s</text>
+      </register>
+      <register name="8" type="4">
+        <text>i</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICMgVE9ETyBkbyBub3QgdXNlIG1vZGVsIGlzIGdlbmVyYXRlZCBieSBjbGFzcyBudW1iZXIuIFdoZW4gdHJhaW5pbmcgdGhlIAo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
+    </history>
     <shortcut-conflicts />
   </component>
 </application>
