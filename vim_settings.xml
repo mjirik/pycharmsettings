@@ -3,20 +3,19 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/pysegbase/tests/pycut_test.py" timestamp="1447861024266">
-        <mark key="'" line="132" column="46" />
-        <mark key="[" line="153" column="22" />
-        <mark key="]" line="153" column="26" />
-        <mark key="." line="153" column="26" />
-        <mark key="^" line="153" column="26" />
+      <file name="$USER_HOME$/projects/pysegbase/tests/pycut_test.py" timestamp="1447868315779">
+        <mark key="'" line="148" column="22" />
+        <mark key="[" line="161" column="0" />
+        <mark key="]" line="161" column="32" />
+        <mark key="." line="161" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1447861029022">
+      <file name="/Python Console" timestamp="1447868311491">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1447866976594">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" timestamp="1447861873761">
+      <file name="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" timestamp="1447867263223">
         <mark key="a" line="1209" column="14" />
         <mark key="c" line="81" column="93" />
         <mark key="'" line="994" column="17" />
@@ -87,46 +86,47 @@
       <jump line="993" column="17" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
       <jump line="994" column="17" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
       <jump line="38" column="0" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="148" column="22" filename="$USER_HOME$/projects/pysegbase/tests/pycut_test.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC0gZGlsbAo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAibW9kZWwgcGFyYW1ldGVycyIK</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>show_slices</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0cmFpbkZyb21Tb21ldGhpbmdcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC0gZGlsbAo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCBucC5tYXgoaW1nKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAibW9kZWwgcGFyYW1ldGVycyIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yICBpbiBhcnJTZWVkOgo=</text>
+        <text encoding="base64">ICAgICAgICBtMSA9IGdjLm1kbC5tZGxbMF0K</text>
       </register>
-      <register name="3" type="4">
-        <text>e</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBnYy5tZGwubWRsWzBdCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbWcgPSBpbWcgKiAyCg==</text>
+      <register name="4" type="4">
+        <text>show_slices</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpbWcsIHNlZywgc2VlZHMgPSBzZWxmLm1ha2VfZGF0YSg2NCwgMjApCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWQzLnNob3dfc2xpY2VzKGltZywgZ2Muc2VnbWVudGF0aW9uLDAsNSkK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZiBsb2FkKHNlbGYsIG1kbF9maWxlKToKICAgICAgICBpbXBvcnQgZGlsbCBhcyBwaWNrbGUKICAgICAgICBzdiA9IHBpY2tsZS5sb2FkKG9wZW4obWRsX2ZpbGUsICJyYiIpKQogICAgICAgIHNlbGYubWRsID0gc3ZbJ21kbCddCiAgICAgICAgc2VsZi5tb2RlbHBhcmFtcy51cGRhdGUoc3ZbJ21vZGVscGFyYW1zJ10pCg==</text>
+      <register name="6" type="4">
+        <text>1</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="8" type="4">
-        <text>True</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZm9yICBpbiBhcnJTZWVkOgo=</text>
       </register>
       <register name="9" type="4">
-        <text>w</text>
+        <text>e</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
