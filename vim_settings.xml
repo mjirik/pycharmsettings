@@ -3,21 +3,21 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/pysegbase/tests/pycut_test.py" timestamp="1447847531159">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="^" line="52" column="18" />
-        <mark key="." line="54" column="0" />
+      <file name="$USER_HOME$/projects/pysegbase/tests/pycut_test.py" timestamp="1447849464578">
+        <mark key="[" line="51" column="33" />
+        <mark key="]" line="51" column="34" />
+        <mark key="^" line="51" column="34" />
+        <mark key="." line="51" column="34" />
       </file>
-      <file name="/Python Console" timestamp="1447847645773">
+      <file name="/Python Console" timestamp="1447849613327">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" timestamp="1447847078942">
+      <file name="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" timestamp="1447849338473">
         <mark key="'" line="236" column="10" />
-        <mark key="[" line="126" column="45" />
-        <mark key="]" line="126" column="45" />
-        <mark key="." line="126" column="45" />
-        <mark key="^" line="126" column="44" />
+        <mark key="[" line="173" column="0" />
+        <mark key="]" line="173" column="0" />
+        <mark key="^" line="172" column="43" />
+        <mark key="." line="173" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -26,7 +26,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZ2ID0gbnAuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>method</text>
@@ -35,31 +35,31 @@
         <text encoding="base64">ICAgICAgICBtb2RlbHBhcmFtc1snZnZfdHlwZSddID0gJ2Z2X2V4dGVyJyBhbGxvd3MgdG8gdXNlIGV4dGVybmFsIGZ2IGZ1bmN0aW9uCg==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGZ2ID0gbnAuCg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text>method</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>'fv_exter' allows to use external fv function</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>type</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBkZWYgZnYoZGF0YSwgc2VlZHMsIGNsKQo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text encoding="base64">aWYg</text>
       </register>
-      <register name="7" type="4">
-        <text>_</text>
-      </register>
-      <register name="8" type="4">
-        <text>n</text>
-      </register>
       <register name="9" type="4">
-        <text>r</text>
+        <text>_</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
