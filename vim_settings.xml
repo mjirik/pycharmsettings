@@ -3,22 +3,23 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/pysegbase/tests/pycut_test.py" timestamp="1447851372531">
-        <mark key="[" line="85" column="24" />
-        <mark key="]" line="85" column="33" />
-        <mark key="^" line="85" column="33" />
-        <mark key="." line="85" column="33" />
+      <file name="$USER_HOME$/projects/pysegbase/tests/pycut_test.py" timestamp="1447853631041">
+        <mark key="[" line="143" column="16" />
+        <mark key="]" line="132" column="47" />
+        <mark key="." line="132" column="47" />
+        <mark key="^" line="132" column="47" />
       </file>
-      <file name="/Python Console" timestamp="1447849613327">
+      <file name="/Python Console" timestamp="1447853605307">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" timestamp="1447851868643">
-        <mark key="a" line="1207" column="14" />
-        <mark key="'" line="1021" column="42" />
-        <mark key="[" line="1021" column="37" />
-        <mark key="]" line="1021" column="41" />
-        <mark key="." line="1021" column="41" />
-        <mark key="^" line="1021" column="41" />
+      <file name="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" timestamp="1447853602489">
+        <mark key="a" line="1210" column="14" />
+        <mark key="c" line="83" column="93" />
+        <mark key="'" line="268" column="62" />
+        <mark key="[" line="83" column="53" />
+        <mark key="]" line="83" column="54" />
+        <mark key="^" line="83" column="54" />
+        <mark key="." line="83" column="54" />
       </file>
     </filemarks>
     <jumps>
@@ -28,7 +29,6 @@
       <jump line="984" column="10" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
       <jump line="985" column="10" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
       <jump line="986" column="8" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="80" column="13" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
       <jump line="231" column="17" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
       <jump line="232" column="17" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
       <jump line="240" column="17" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
@@ -51,46 +51,49 @@
       <jump line="1000" column="25" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
       <jump line="1020" column="42" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
       <jump line="1021" column="42" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="80" column="13" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="83" column="93" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="267" column="62" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBtZGwgPSBNb2RlbChtb2RlbHBhcmFtcz1zZWxmLm1vZGVscGFyYW1zKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWdwYXJhbXMgPSB7CiAgICAgICAgICAgICMgJ21ldGhvZCc6J2dyYXBoY3V0JywKICAgICAgICAgICAgJ21ldGhvZCc6ICdncmFwaGN1dCcsCiAgICAgICAgICAgICd1c2VfYm91bmRhcnlfcGVuYWx0aWVzJzogRmFsc2UsCiAgICAgICAgICAgICdib3VuZGFyeV9kaWxhdGF0aW9uX2Rpc3RhbmNlJzogMiwKICAgICAgICAgICAgJ2JvdW5kYXJ5X3BlbmFsdGllc193ZWlnaHQnOiAxLAogICAgICAgICAgICAnbW9kZWxwYXJhbXMnOiB7CiAgICAgICAgICAgICAgICAndHlwZSc6ICdnbW1zYW1lJywKICAgICAgICAgICAgICAgICdmdl90eXBlJzogImZ2X2V4dGVybiIsCiAgICAgICAgICAgICAgICAnZnZfZXh0ZXJuJzogZnZfZnVuY3Rpb24sCiAgICAgICAgICAgICAgICAnbWRsX3N0b3JlZF9maWxlJzogbWRsX3N0b3JlZF9maWxlLAogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>method</text>
+        <text>&quot;test_model.p&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZGxcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBtZGwgPSBNb2RlbChtb2RlbHBhcmFtcz1zZWxmLm1vZGVscGFyYW1zKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICd0eXBlJzogJ2dtbXNhbWUnLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtZGwgPSBNb2RlbChtb2RlbHBhcmFtcz1zZWxmLm1vZGVscGFyYW1zKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWdwYXJhbXMgPSB7CiAgICAgICAgICAgICMgJ21ldGhvZCc6J2dyYXBoY3V0JywKICAgICAgICAgICAgJ21ldGhvZCc6ICdncmFwaGN1dCcsCiAgICAgICAgICAgICd1c2VfYm91bmRhcnlfcGVuYWx0aWVzJzogRmFsc2UsCiAgICAgICAgICAgICdib3VuZGFyeV9kaWxhdGF0aW9uX2Rpc3RhbmNlJzogMiwKICAgICAgICAgICAgJ2JvdW5kYXJ5X3BlbmFsdGllc193ZWlnaHQnOiAxLAogICAgICAgICAgICAnbW9kZWxwYXJhbXMnOiB7CiAgICAgICAgICAgICAgICAndHlwZSc6ICdnbW1zYW1lJywKICAgICAgICAgICAgICAgICdmdl90eXBlJzogImZ2X2V4dGVybiIsCiAgICAgICAgICAgICAgICAnZnZfZXh0ZXJuJzogZnZfZnVuY3Rpb24sCiAgICAgICAgICAgICAgICAnbWRsX3N0b3JlZF9maWxlJzogbWRsX3N0b3JlZF9maWxlLAogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICd0eXBlJzogJ3N0b3JlZCcsCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+      <register name="3" type="4">
+        <text>&quot;test_model.p&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZ2ID0gbnAuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>method</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="4">
-        <text>'fv_exter' allows to use external fv function</text>
+        <text>['params']</text>
       </register>
-      <register name="7" type="4">
-        <text>type</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbWRsX2ZpbGUgPSBzZWxmLm1vZGVscGFyYW1zWydwYXJhbXMnXVsnbWRsX2ZpbGUnXQogICAgICAgICAgICBzZWxmLm1kbCA9IHBpY2tsZS5sb2FkKG9wZW4obWRsX2ZpbGUsICJyYiIpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZWYgZnYoZGF0YSwgc2VlZHMsIGNsKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">aWYg</text>
+        <text>gmmsame</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
