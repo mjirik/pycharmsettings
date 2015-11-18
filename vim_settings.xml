@@ -9,17 +9,20 @@
         <mark key="." line="144" column="9" />
         <mark key="^" line="144" column="9" />
       </file>
-      <file name="/Python Console" timestamp="1447853670139">
+      <file name="/Python Console" timestamp="1447860522598">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" timestamp="1447853602489">
-        <mark key="a" line="1210" column="14" />
-        <mark key="c" line="83" column="93" />
-        <mark key="'" line="268" column="62" />
-        <mark key="[" line="83" column="53" />
-        <mark key="]" line="83" column="54" />
-        <mark key="^" line="83" column="54" />
-        <mark key="." line="83" column="54" />
+      <file name="/a.dummy" timestamp="1447860529897">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" timestamp="1447860517615">
+        <mark key="a" line="1227" column="14" />
+        <mark key="c" line="86" column="93" />
+        <mark key="'" line="274" column="62" />
+        <mark key="[" line="290" column="15" />
+        <mark key="]" line="290" column="22" />
+        <mark key="." line="290" column="22" />
+        <mark key="^" line="290" column="22" />
       </file>
     </filemarks>
     <jumps>
@@ -57,43 +60,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWdwYXJhbXMgPSB7CiAgICAgICAgICAgICMgJ21ldGhvZCc6J2dyYXBoY3V0JywKICAgICAgICAgICAgJ21ldGhvZCc6ICdncmFwaGN1dCcsCiAgICAgICAgICAgICd1c2VfYm91bmRhcnlfcGVuYWx0aWVzJzogRmFsc2UsCiAgICAgICAgICAgICdib3VuZGFyeV9kaWxhdGF0aW9uX2Rpc3RhbmNlJzogMiwKICAgICAgICAgICAgJ2JvdW5kYXJ5X3BlbmFsdGllc193ZWlnaHQnOiAxLAogICAgICAgICAgICAnbW9kZWxwYXJhbXMnOiB7CiAgICAgICAgICAgICAgICAndHlwZSc6ICdnbW1zYW1lJywKICAgICAgICAgICAgICAgICdmdl90eXBlJzogImZ2X2V4dGVybiIsCiAgICAgICAgICAgICAgICAnZnZfZXh0ZXJuJzogZnZfZnVuY3Rpb24sCiAgICAgICAgICAgICAgICAnbWRsX3N0b3JlZF9maWxlJzogbWRsX3N0b3JlZF9maWxlLAogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIGRlZiBsb2FkKHNlbGYsIG1kbF9maWxlKToKICAgICAgICBpbXBvcnQgZGlsbCBhcyBwaWNrbGUKICAgICAgICBzdiA9IHBpY2tsZS5sb2FkKG9wZW4obWRsX2ZpbGUsICJyYiIpKQogICAgICAgIHNlbGYubWRsID0gc3ZbJ21kbCddCiAgICAgICAgc2VsZi5tb2RlbHBhcmFtcy51cGRhdGUoc3ZbJ21vZGVscGFyYW1zJ10pCg==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;test_model.p&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZGxcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICd0eXBlJzogJ2dtbXNhbWUnLAo=</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgZGlsbCBhcyBwaWNrbGUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWdwYXJhbXMgPSB7CiAgICAgICAgICAgICMgJ21ldGhvZCc6J2dyYXBoY3V0JywKICAgICAgICAgICAgJ21ldGhvZCc6ICdncmFwaGN1dCcsCiAgICAgICAgICAgICd1c2VfYm91bmRhcnlfcGVuYWx0aWVzJzogRmFsc2UsCiAgICAgICAgICAgICdib3VuZGFyeV9kaWxhdGF0aW9uX2Rpc3RhbmNlJzogMiwKICAgICAgICAgICAgJ2JvdW5kYXJ5X3BlbmFsdGllc193ZWlnaHQnOiAxLAogICAgICAgICAgICAnbW9kZWxwYXJhbXMnOiB7CiAgICAgICAgICAgICAgICAndHlwZSc6ICdnbW1zYW1lJywKICAgICAgICAgICAgICAgICdmdl90eXBlJzogImZ2X2V4dGVybiIsCiAgICAgICAgICAgICAgICAnZnZfZXh0ZXJuJzogZnZfZnVuY3Rpb24sCiAgICAgICAgICAgICAgICAnbWRsX3N0b3JlZF9maWxlJzogbWRsX3N0b3JlZF9maWxlLAogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIGRlZiBsb2FkKHNlbGYsIG1kbF9maWxlKToKICAgICAgICBpbXBvcnQgZGlsbCBhcyBwaWNrbGUKICAgICAgICBzdiA9IHBpY2tsZS5sb2FkKG9wZW4obWRsX2ZpbGUsICJyYiIpKQogICAgICAgIHNlbGYubWRsID0gc3ZbJ21kbCddCiAgICAgICAgc2VsZi5tb2RlbHBhcmFtcy51cGRhdGUoc3ZbJ21vZGVscGFyYW1zJ10pCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICd0eXBlJzogJ3N0b3JlZCcsCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="3" type="4">
-        <text>&quot;test_model.p&quot;</text>
+        <text>True</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="4" type="4">
+        <text>w</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="5" type="4">
+        <text>o</text>
       </register>
       <register name="6" type="4">
-        <text>['params']</text>
+        <text>l</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWRsX2ZpbGUgPSBzZWxmLm1vZGVscGFyYW1zWydwYXJhbXMnXVsnbWRsX2ZpbGUnXQogICAgICAgICAgICBzZWxmLm1kbCA9IHBpY2tsZS5sb2FkKG9wZW4obWRsX2ZpbGUsICJyYiIpKQo=</text>
+      <register name="7" type="4">
+        <text>l</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>a</text>
       </register>
       <register name="9" type="4">
-        <text>gmmsame</text>
+        <text>w</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
