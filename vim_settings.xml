@@ -3,25 +3,25 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/pysegbase/tests/pycut_test.py" timestamp="1447868315779">
+      <file name="$USER_HOME$/projects/pysegbase/tests/pycut_test.py" timestamp="1447869396961">
         <mark key="'" line="148" column="22" />
-        <mark key="[" line="161" column="0" />
-        <mark key="]" line="161" column="32" />
-        <mark key="." line="161" column="0" />
+        <mark key="[" line="146" column="69" />
+        <mark key="]" line="146" column="70" />
+        <mark key="." line="146" column="70" />
+        <mark key="^" line="146" column="69" />
       </file>
-      <file name="/Python Console" timestamp="1447868311491">
+      <file name="/Python Console" timestamp="1447869399574">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1447866976594">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" timestamp="1447867263223">
+      <file name="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" timestamp="1447869029950">
         <mark key="a" line="1209" column="14" />
-        <mark key="c" line="81" column="93" />
         <mark key="'" line="994" column="17" />
-        <mark key="[" line="1405" column="0" />
-        <mark key="]" line="1405" column="0" />
-        <mark key="." line="1405" column="0" />
+        <mark key="[" line="82" column="23" />
+        <mark key="]" line="82" column="23" />
+        <mark key="." line="82" column="23" />
       </file>
       <file name="$USER_HOME$/projects/pysegbase/meta.yaml" timestamp="1447866957434">
         <mark key="[" line="36" column="0" />
@@ -89,11 +89,11 @@
       <jump line="148" column="22" filename="$USER_HOME$/projects/pysegbase/tests/pycut_test.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAibW9kZWwgcGFyYW1ldGVycyIK</text>
+      <register name="&quot;" type="4">
+        <text>segmentation</text>
       </register>
       <register name="-" type="4">
-        <text>show_slices</text>
+        <text>segmentation</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0cmFpbkZyb21Tb21ldGhpbmdcPg==</text>
@@ -101,32 +101,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCBucC5tYXgoaW1nKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAibW9kZWwgcGFyYW1ldGVycyIK</text>
+      <register name="1" type="4">
+        <text>segmentation</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtMSA9IGdjLm1kbC5tZGxbMF0K</text>
+      <register name="2" type="4">
+        <text>.</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBnYy5tZGwubWRsWzBdCg==</text>
+      <register name="3" type="4">
+        <text>gc</text>
       </register>
       <register name="4" type="4">
-        <text>show_slices</text>
+        <text>img</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWQzLnNob3dfc2xpY2VzKGltZywgZ2Muc2VnbWVudGF0aW9uLDAsNSkK</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgc2VkMwogICAgICAgIHNlZDMuc2hvd19zbGljZXMoaW1nLCBjb250b3VyPWdjLnNlZ21lbnRhdGlvbikK</text>
       </register>
       <register name="6" type="4">
-        <text>1</text>
+        <text>sed3</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="7" type="4">
+        <text>.</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yICBpbiBhcnJTZWVkOgo=</text>
+      <register name="8" type="4">
+        <text>self</text>
       </register>
       <register name="9" type="4">
-        <text>e</text>
+        <text>.</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
