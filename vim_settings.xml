@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1447921718740">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/pysegbase/tests/pycut_test.py" timestamp="1447869396961">
         <mark key="'" line="148" column="22" />
         <mark key="[" line="146" column="69" />
@@ -19,16 +22,16 @@
         <mark key="^" line="11" column="21" />
         <mark key="." line="11" column="21" />
       </file>
-      <file name="/a.dummy" timestamp="1447921678276">
+      <file name="/a.dummy" timestamp="1447921717024">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" timestamp="1447921558875">
-        <mark key="a" line="1214" column="14" />
-        <mark key="'" line="981" column="41" />
-        <mark key="[" line="996" column="52" />
-        <mark key="]" line="996" column="56" />
-        <mark key="." line="996" column="56" />
-        <mark key="^" line="996" column="56" />
+      <file name="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" timestamp="1447922037379">
+        <mark key="a" line="1215" column="14" />
+        <mark key="'" line="998" column="19" />
+        <mark key="[" line="177" column="21" />
+        <mark key="]" line="177" column="21" />
+        <mark key="." line="177" column="21" />
+        <mark key="^" line="177" column="21" />
       </file>
       <file name="$USER_HOME$/projects/pysegbase/meta.yaml" timestamp="1447869593090">
         <mark key="[" line="7" column="0" />
@@ -127,34 +130,37 @@
       <jump line="887" column="13" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
       <jump line="900" column="38" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
       <jump line="981" column="41" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="161" column="8" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="208" column="12" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="997" column="19" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx2b3hlbHMxXD4=</text>
+        <text encoding="base64">XDx0cmFpbkZyb21JbWFnZUFuZFNlZWRzXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHZ4MSA9IGRhdGFbc2VlZHM9PTJdCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>s</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="4">
-        <text>l</text>
+        <text>s</text>
       </register>
       <register name="3" type="4">
-        <text>e</text>
+        <text>l</text>
       </register>
       <register name="4" type="4">
-        <text>x</text>
+        <text>c</text>
       </register>
-      <register name="5" type="4">
-        <text>o</text>
+      <register name="5" type="2">
+        <text encoding="base64">bAo=</text>
       </register>
       <register name="6" type="4">
         <text>s</text>
@@ -166,16 +172,16 @@
         <text>e</text>
       </register>
       <register name="9" type="4">
-        <text>o</text>
+        <text>x</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx2b3hlbHMxXD4=</last-search>
+      <last-search encoding="base64">XDx0cmFpbkZyb21JbWFnZUFuZFNlZWRzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx2b3hlbHMxXD4=</last-pattern>
+      <last-pattern encoding="base64">XDx0cmFpbkZyb21JbWFnZUFuZFNlZWRzXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -190,6 +196,7 @@
         <entry encoding="base64">XDxzZXRfZGF0YVw+</entry>
         <entry>self.voxels</entry>
         <entry encoding="base64">XDx2b3hlbHMxXD4=</entry>
+        <entry encoding="base64">XDx0cmFpbkZyb21JbWFnZUFuZFNlZWRzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
