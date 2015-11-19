@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/start_script.py" timestamp="1447935631677">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/pysegbase/tests/pycut_test.py" timestamp="1447934457667">
         <mark key="'" line="63" column="10" />
         <mark key="[" line="102" column="40" />
@@ -10,7 +13,7 @@
         <mark key="." line="102" column="39" />
         <mark key="^" line="102" column="39" />
       </file>
-      <file name="/Python Console" timestamp="1447934794967">
+      <file name="/Python Console" timestamp="1447935364766">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/pysegbase/distr.sh" timestamp="1447869905121">
@@ -22,13 +25,13 @@
       <file name="/a.dummy" timestamp="1447931369511">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" timestamp="1447933706238">
-        <mark key="a" line="1002" column="17" />
-        <mark key="'" line="236" column="45" />
-        <mark key="[" line="159" column="12" />
-        <mark key="]" line="159" column="17" />
-        <mark key="^" line="159" column="17" />
-        <mark key="." line="159" column="17" />
+      <file name="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" timestamp="1447936189319">
+        <mark key="a" line="1006" column="17" />
+        <mark key="'" line="86" column="8" />
+        <mark key="[" line="212" column="31" />
+        <mark key="]" line="212" column="30" />
+        <mark key="^" line="212" column="30" />
+        <mark key="." line="212" column="30" />
       </file>
       <file name="$USER_HOME$/projects/pysegbase/meta.yaml" timestamp="1447869593090">
         <mark key="[" line="7" column="0" />
@@ -133,11 +136,11 @@
       <jump line="175" column="19" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
       <jump line="188" column="22" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
       <jump line="314" column="37" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="86" column="8" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
       <jump line="58" column="29" filename="$USER_HOME$/projects/pysegbase/tests/pycut_test.py" />
       <jump line="49" column="10" filename="$USER_HOME$/projects/pysegbase/tests/pycut_test.py" />
       <jump line="191" column="8" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
       <jump line="241" column="45" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="86" column="8" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -147,7 +150,7 @@
         <text>x</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0cmFpblw+</text>
+        <text encoding="base64">XDxjcmVhdGVGVlw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKG5wLm1heChvdXQyKSwgMikK</text>
@@ -184,9 +187,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0cmFpblw+</last-search>
+      <last-search encoding="base64">XDxjcmVhdGVGVlw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0cmFpblw+</last-pattern>
+      <last-pattern encoding="base64">XDxjcmVhdGVGVlw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -204,10 +207,10 @@
         <entry>self.voxels</entry>
         <entry encoding="base64">XDxzZXRfZGF0YVw+</entry>
         <entry>self.voxels1</entry>
-        <entry encoding="base64">XDxjcmVhdGVGVlw+</entry>
         <entry>multi</entry>
         <entry>multiscale</entry>
         <entry encoding="base64">XDx0cmFpblw+</entry>
+        <entry encoding="base64">XDxjcmVhdGVGVlw+</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
