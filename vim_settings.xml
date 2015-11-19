@@ -10,7 +10,7 @@
         <mark key="." line="146" column="70" />
         <mark key="^" line="146" column="69" />
       </file>
-      <file name="/Python Console" timestamp="1447869399574">
+      <file name="/Python Console" timestamp="1447921606757">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/pysegbase/distr.sh" timestamp="1447869905121">
@@ -19,15 +19,16 @@
         <mark key="^" line="11" column="21" />
         <mark key="." line="11" column="21" />
       </file>
-      <file name="/a.dummy" timestamp="1447869624963">
+      <file name="/a.dummy" timestamp="1447921678276">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" timestamp="1447920578361">
-        <mark key="a" line="1206" column="14" />
-        <mark key="'" line="171" column="8" />
-        <mark key="[" line="996" column="0" />
-        <mark key="]" line="996" column="0" />
-        <mark key="." line="996" column="0" />
+      <file name="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" timestamp="1447921558875">
+        <mark key="a" line="1214" column="14" />
+        <mark key="'" line="981" column="41" />
+        <mark key="[" line="996" column="52" />
+        <mark key="]" line="996" column="56" />
+        <mark key="." line="996" column="56" />
+        <mark key="^" line="996" column="56" />
       </file>
       <file name="$USER_HOME$/projects/pysegbase/meta.yaml" timestamp="1447869593090">
         <mark key="[" line="7" column="0" />
@@ -96,55 +97,85 @@
       <jump line="995" column="17" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
       <jump line="996" column="17" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
       <jump line="171" column="8" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="979" column="8" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="1039" column="8" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="1139" column="29" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="1152" column="44" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="554" column="13" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="557" column="15" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="560" column="15" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="672" column="26" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="1066" column="8" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="1177" column="22" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="642" column="33" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="1042" column="26" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="1046" column="64" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="1154" column="44" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="627" column="13" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="673" column="56" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="864" column="38" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="886" column="8" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="898" column="24" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="1161" column="8" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="405" column="8" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="437" column="14" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="438" column="14" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="555" column="13" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="558" column="15" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="561" column="15" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="674" column="47" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="887" column="13" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="900" column="38" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="981" column="41" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm1kbC50cmFpbkZyb21Tb21ldGhpbmcoZGF0YSwgc2VlZHMsIDIsICkK</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>Something</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0cmFpbkZyb21Tb21ldGhpbmdcPg==</text>
+        <text encoding="base64">XDx2b3hlbHMxXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm1kbC50cmFpbkZyb21Tb21ldGhpbmcoZGF0YSwgc2VlZHMsIDEsIHZveGVsczEpCiAgICAgICAgc2VsZi5tZGwudHJhaW5Gcm9tU29tZXRoaW5nKGRhdGEsIHNlZWRzLCAyLCB2b3hlbHMyKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZ4MSA9IGRhdGFbc2VlZHM9PTJdCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm1kbC50cmFpbkZyb21Tb21ldGhpbmcoZGF0YSwgc2VlZHMsIDIsICkK</text>
+      <register name="1" type="4">
+        <text>s</text>
       </register>
       <register name="2" type="4">
-        <text>Something</text>
+        <text>l</text>
       </register>
       <register name="3" type="4">
-        <text>voxels2</text>
+        <text>e</text>
       </register>
       <register name="4" type="4">
-        <text>voxels1</text>
+        <text>x</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIG1kbC50cmFpbkZyb21JbWFnZUFuZFNlZWRzKGRhdGEsIHNlZWRzLCAxKQogICAgICAgICMgbWRsLnRyYWluRnJvbUltYWdlQW5kU2VlZHMoZGF0YSwgc2VlZHMsIDIpCg==</text>
+      <register name="5" type="4">
+        <text>o</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIG1kbC50cmFpbih2b3hlbHMxLCAxKQogICAgICAgICMgbWRsLnRyYWluKHZveGVsczIsIDIpCiAgICAgICAgIyBwZGIuc2V0X3RyYWNlKCk7CiAgICAgICAgIyB0ZGF0YSA9IHt9Cg==</text>
+      <register name="6" type="4">
+        <text>s</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiBjcmVhdGVGVihzZWxmLCBkYXRhLCBzZWVkcz1Ob25lLCBjbD1Ob25lLCB2b3hlbHM9Tm9uZSk6CiAgICAgICAgIiIiCiAgICAgICAgSW5wdXQgZGF0YSBpcyAzZCBpbWFnZQoKICAgICAgICA6cGFyYW0gZGF0YTogaXMgM2QgaW1hZ2UKICAgICAgICA6cGFyYW0gc2VlZHM6IG5kaW1hZ2Ugd2l0aCBzYW1lIHNoYXBlIGFzIGRhdGEsIG5vbnplcm8gdmFsdWVzIG1lYW5zIHNlZWRzLgogICAgICAgIDpwYXJhbSBjbDogY2FuIHNlbGVjdCBvbmx5IGZ2IGZvciBzZWVkcyBmcm9tIHNwZWNpZmljIGNsYXNzCgogICAgICAgIGZ1bmNpb24gaXMgY2FsbGVkIHR3aWNlIGluIGdyYXBoIGN1dAogICAgICAgIGZpcnN0IGNhbGwgaXMgd2l0aCBhbGwgcGFyYW1zLCBzZWNvbmQgaXMgb25seSB3aXRoIGRhdGEuCgogICAgICAgIGJhc2VkIG9uIHNlbGYubW9kZWxwYXJhbXNbJ2Z2X3R5cGUnXSB0aGUgZmVhdHVyZSB2ZWN0b3IgaXMgY29tcHV0ZWQKICAgICAgICBrZXl3b3JkcyAiaW50ZW5zaXR5IiwgInZveGVscyIsICJmdjAwMSIsICJmdl9leHRlcm4iICBjYW4gYmUgdXNlZC4KICAgICAgICBtb2RlbHBhcmFtc1snZnZfdHlwZSddID0gJ2Z2X2V4dGVybicgYWxsb3dzIHRvIHVzZSBleHRlcm5hbCBmdiBmdW5jdGlvbgoKICAgICAgICBkZWYgZnZfZnVuY3Rpb24oZGF0YSwgc2VlZHM9Tm9uZSwgY2w9Tm9uZSk6CiAgICAgICAgICAgIGlmIHNlZWRzIGlzIE5vbmU6CiAgICAgICAgICAgICAgICBmdiA9IG5wLmFzYXJyYXkoZGF0YSkucmVzaGFwZSgtMSwxKQogICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgZnYgPSBucC5hc2FycmF5KGRhdGFbc2VlZHM9PWNsXSkucmVzaGFwZSgtMSwxKQogICAgICAgICAgICByZXR1cm4gZnYKCiAgICAgICAgbW9kZWxwYXJhbXNbJ2Z2X2V4dGVyJ10gPSBmdl9mdW5jdGlvbgogICAgICAgICIiIgogICAgICAgIGZ2X3R5cGUgPSBzZWxmLm1vZGVscGFyYW1zWydmdl90eXBlJ10KICAgICAgICBsb2dnZXIuZGVidWcoImZ2X3R5cGUgIiArIGZ2X3R5cGUpCiAgICAgICAgaWYgZnZfdHlwZSA9PSAnaW50ZW5zaXR5JzoKCiAgICAgICAgICAgIGlmIHNlZWRzIGlzIG5vdCBOb25lOgogICAgICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgICAgIGZ2ID0gZGF0YVtzZWVkcyA9PSBjbF0KICAgICAgICAgICAgICAgICAgICBmdiA9IGZ2LnJlc2hhcGUoLTEsIDEpCiAgICAgICAgICAgICAgICBleGNlcHQ6CiAgICAgICAgICAgICAgICAgICAgaW1wb3J0IGlwZGIKICAgICAgICAgICAgICAgICAgICBpcGRiLnNldF90cmFjZSgpCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBmdiA9IGRhdGEKICAgICAgICAgICAgICAgIGZ2ID0gZnYucmVzaGFwZSgtMSwgMSkKICAgICAgICAgICAgICAgICMgcHJpbnQgZnYuc2hhcGUKICAgICAgICBlbGlmIGZ2X3R5cGUgaW4gKCJ2b3hlbHMiKToKICAgICAgICAgICAgaWYgc2VlZHMgaXMgbm90IE5vbmU6CiAgICAgICAgICAgICAgICBmdiA9IG5wLmFzYXJyYXkodm94ZWxzKS5yZXNoYXBlKC0xLCAxKQogICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgZnYgPSBkYXRhCiAgICAgICAgICAgICAgICBmdiA9IGZ2LnJlc2hhcGUoLTEsIDEpCiAgICAgICAgZWxpZiBmdl90eXBlID09ICdmdjAwMSc6CiAgICAgICAgICAgICMgaW50ZW5zaXR5IGluIHBpeGVsLCBnYXVzc2lhbiBibHVyIGludGVuc2l0eQogICAgICAgICAgICBkYXRhMiA9IHNjaXB5Lm5kaW1hZ2UuZmlsdGVycy5nYXVzc2lhbl9maWx0ZXIoZGF0YSwgc2lnbWE9NSkKICAgICAgICAgICAgZGF0YTIgPSBkYXRhMiAtIGRhdGEKICAgICAgICAgICAgaWYgc2VlZHMgaXMgbm90IE5vbmU6CgogICAgICAgICAgICAgICAgZnYxID0gZGF0YVtzZWVkcyA9PSBjbF0ucmVzaGFwZSgtMSwgMSkKICAgICAgICAgICAgICAgIGZ2MiA9IGRhdGEyW3NlZWRzID09IGNsXS5yZXNoYXBlKC0xLCAxKQogICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgZnYxID0gZGF0YS5yZXNoYXBlKC0xLCAxKQogICAgICAgICAgICAgICAgZnYyID0gZGF0YTIucmVzaGFwZSgtMSwgMSkKICAgICAgICAgICAgZnYgPSBucC5oc3RhY2soKGZ2MSwgZnYyKSkKICAgICAgICAgICAgZnYgPSBmdi5yZXNoYXBlKC0xLCAyKQogICAgICAgICAgICBsb2dnZXIuZGVidWcoc3RyKGZ2WzoxMCwgOl0pKQoKICAgICAgICAgICAgIyBmcm9tIFB5UXQ0LlF0Q29yZSBpbXBvcnQgcHlxdFJlbW92ZUlucHV0SG9vawogICAgICAgICAgICAjIHB5cXRSZW1vdmVJbnB1dEhvb2soKQoKICAgICAgICAgICAgIyBwcmludCBmdjEuc2hhcGUKICAgICAgICAgICAgIyBwcmludCBmdjIuc2hhcGUKICAgICAgICAgICAgIyBwcmludCBmdi5zaGFwZQogICAgICAgIGVsaWYgZnZfdHlwZSA9PSAiZnZfZXh0ZXJuIjoKICAgICAgICAgICAgZnZfZnVuY3Rpb24gPSBzZWxmLm1vZGVscGFyYW1zWydmdl9leHRlcm4nXQogICAgICAgICAgICBmdiA9IGZ2X2Z1bmN0aW9uKGRhdGEsIHNlZWRzLCBjbCkKCiAgICAgICAgZWxzZToKICAgICAgICAgICAgbG9nZ2VyLmVycm9yKCJVbmtub3duIGZlYXR1cmUgdmVjdG9yIHR5cGU6ICIgKwogICAgICAgICAgICAgICAgICAgICAgICAgc2VsZi5tb2RlbHBhcmFtc1snZnZfdHlwZSddKQogICAgICAgIHJldHVybiBmdgoK</text>
+      <register name="7" type="4">
+        <text>l</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIGksICBpbiBlbnVtZXJhdGUoZ21tX19jdnR5cGUpOgo=</text>
+      <register name="8" type="4">
+        <text>e</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">IyAgZ2l0X3VybDogaHR0cHM6Ly9naXRodWIuY29tL21qaXJpay9weXNlZ19iYXNlLmdpdAo=</text>
+      <register name="9" type="4">
+        <text>o</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0cmFpbkZyb21Tb21ldGhpbmdcPg==</last-search>
+      <last-search encoding="base64">XDx2b3hlbHMxXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0cmFpbkZyb21Tb21ldGhpbmdcPg==</last-pattern>
+      <last-pattern encoding="base64">XDx2b3hlbHMxXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -153,6 +184,12 @@
         <entry>mdl</entry>
         <entry encoding="base64">XDxtZGxcPg==</entry>
         <entry encoding="base64">XDx0cmFpbkZyb21Tb21ldGhpbmdcPg==</entry>
+        <entry encoding="base64">XDxfX3NpbWlsYXJpdHlfZm9yX3RsaW5rc19vYmpfYmdyXD4=</entry>
+        <entry encoding="base64">XDxfX2NyZWF0ZV90bGlua3NcPg==</entry>
+        <entry encoding="base64">XDxfX2NyZWF0ZV9ubGlua3NcPg==</entry>
+        <entry encoding="base64">XDxzZXRfZGF0YVw+</entry>
+        <entry>self.voxels</entry>
+        <entry encoding="base64">XDx2b3hlbHMxXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
