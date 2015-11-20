@@ -28,8 +28,10 @@
       <file name="/a.dummy" timestamp="1447940390455">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/requirements_conda.txt" timestamp="1447941864661">
-        <mark key="[" line="25" column="6" />
+      <file name="$USER_HOME$/projects/lisa/requirements_conda.txt" timestamp="1448004338958">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="31" column="12" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" timestamp="1447939906323">
         <mark key="a" line="1007" column="17" />
@@ -45,11 +47,11 @@
         <mark key="^" line="44" column="9" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/requirements_pip.txt" timestamp="1447941892683">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="1" />
-        <mark key="^" line="8" column="1" />
-        <mark key="." line="8" column="1" />
+      <file name="$USER_HOME$/projects/lisa/requirements_pip.txt" timestamp="1448004337211">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="4" column="1" />
+        <mark key="." line="1" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -155,8 +157,8 @@
       <jump line="81" column="37" filename="$USER_HOME$/projects/pysegbase/tests/pycut_test.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>(</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">c2VkMz49MS4xLjE3CmlvM2Q+PTEuMC4xOAo=</text>
       </register>
       <register name="-" type="4">
         <text>(</text>
@@ -167,32 +169,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZGF0YTIgPSBzY2lweS5uZGltYWdlLmZpbHRlcnMuZ2F1c3NpYW5fZmlsdGVyKGRhdGEsIHNpZ21hPTUpCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>(</text>
+      <register name="1" type="2">
+        <text encoding="base64">c2VkMz49MS4xLjE3CmlvM2Q+PTEuMC4xOAo=</text>
       </register>
-      <register name="2" type="4">
-        <text>prod</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>.</text>
+      <register name="3" type="2">
+        <text encoding="base64">cHlzZWdiYXNlPj0xLjAuMzkK</text>
       </register>
-      <register name="4" type="4">
-        <text>np</text>
+      <register name="4" type="2">
+        <text encoding="base64">cHlkaWNvbT49MC45LjkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRhdGEyID0gc2NpcHkubmRpbWFnZS5maWx0ZXJzLmdhdXNzaWFuX2ZpbHRlcihkYXRhLCBzaWdtYT01KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>[</text>
+      <register name="6" type="2">
+        <text encoding="base64">aW10b29scz49MC4wLjEK</text>
       </register>
       <register name="7" type="4">
-        <text>]</text>
+        <text>(</text>
       </register>
       <register name="8" type="4">
-        <text>selection</text>
+        <text>prod</text>
       </register>
       <register name="9" type="4">
-        <text>x</text>
+        <text>.</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
