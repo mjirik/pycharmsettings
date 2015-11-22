@@ -3,16 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1448218046233">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/lisa/setup.py" timestamp="1448178861025">
         <mark key="[" line="14" column="18" />
         <mark key="]" line="14" column="18" />
         <mark key="." line="14" column="18" />
         <mark key="^" line="14" column="16" />
       </file>
-      <file name="/a.dummy" timestamp="1448218046403">
+      <file name="/a.dummy" timestamp="1448226098197">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/lisa/distr.sh" timestamp="1448180090834">
@@ -21,44 +18,55 @@
         <mark key="^" line="11" column="34" />
         <mark key="." line="11" column="34" />
       </file>
+      <file name="$USER_HOME$/projects/lisa/INSTALL.md" timestamp="1448226647092">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/lisa/setup.cfg" timestamp="1448178813478">
         <mark key="[" line="1" column="22" />
         <mark key="]" line="1" column="22" />
         <mark key="." line="1" column="22" />
         <mark key="^" line="1" column="22" />
       </file>
+      <file name="$USER_HOME$/projects/lisa/install_windows.md" timestamp="1448226690985">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="8" column="0" />
+      </file>
     </filemarks>
     <jumps />
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC0gc2VkMwo=</text>
+        <text encoding="base64">KiBEb3dubG9hZCBhbmQgaW5zdGFsbCBbR2l0XShodHRwOi8vd3d3LmdpdC1zY20uY29tL2Rvd25sb2FkL3dpbikKICAgICBTZWxlY3QgIlJ1biBHaXQgZnJvbSB0aGUgV2luZG93cyBDb21tYW5kIFByb21wdCIgb3IgIlJ1biBHaXQgYW5kIGluY2x1ZGVkIFVuaXggdG9vbHMgZnJvbSB0aGUgV2luZG93cyBDb21tYW5kIFByb21wdCIKKiBEb3dubG9hZCBhbmQgaW5zdGFsbCBbQ01ha2VdKGh0dHA6Ly93d3cuY21ha2Uub3JnL2Rvd25sb2FkLyNsYXRlc3QpCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC0gc2VkMwo=</text>
+        <text encoding="base64">KiBEb3dubG9hZCBhbmQgaW5zdGFsbCBbR2l0XShodHRwOi8vd3d3LmdpdC1zY20uY29tL2Rvd25sb2FkL3dpbikKICAgICBTZWxlY3QgIlJ1biBHaXQgZnJvbSB0aGUgV2luZG93cyBDb21tYW5kIFByb21wdCIgb3IgIlJ1biBHaXQgYW5kIGluY2x1ZGVkIFVuaXggdG9vbHMgZnJvbSB0aGUgV2luZG93cyBDb21tYW5kIFByb21wdCIKKiBEb3dubG9hZCBhbmQgaW5zdGFsbCBbQ01ha2VdKGh0dHA6Ly93d3cuY21ha2Uub3JnL2Rvd25sb2FkLyNsYXRlc3QpCg==</text>
       </register>
-      <register name="2" type="4">
-        <text>7</text>
+      <register name="2" type="2">
+        <text encoding="base64">KiBEb3dubG9hZCBhbmQgaW5zdGFsbCBbQ01ha2VdKGh0dHA6Ly93d3cuY21ha2Uub3JnL2Rvd25sb2FkLyNsYXRlc3QpCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>1</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>.</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>0</text>
+      <register name="5" type="2">
+        <text encoding="base64">PT09PT0K</text>
       </register>
-      <register name="6" type="4">
-        <text>.</text>
+      <register name="6" type="2">
+        <text encoding="base64">RGV2ZWxvcAo=</text>
       </register>
-      <register name="7" type="4">
-        <text>imtools</text>
+      <register name="7" type="2">
+        <text encoding="base64">KiBEb3dubG9hZCBhbmQgaW5zdGFsbCBbR2l0XShodHRwOi8vd3d3LmdpdC1zY20uY29tL2Rvd25sb2FkL3dpbikKICAgICBTZWxlY3QgIlJ1biBHaXQgZnJvbSB0aGUgV2luZG93cyBDb21tYW5kIFByb21wdCIgb3IgIlJ1biBHaXQgYW5kIGluY2x1ZGVkIFVuaXggdG9vbHMgZnJvbSB0aGUgV2luZG93cyBDb21tYW5kIFByb21wdCIKKiBEb3dubG9hZCBhbmQgaW5zdGFsbCBbQ01ha2VdKGh0dHA6Ly93d3cuY21ha2Uub3JnL2Rvd25sb2FkLyNsYXRlc3QpCg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="8" type="2">
+        <text encoding="base64">KiBEb3dubG9hZCBhbmQgaW5zdGFsbCBbR2l0XShodHRwOi8vd3d3LmdpdC1zY20uY29tL2Rvd25sb2FkL3dpbikK</text>
       </register>
-      <register name="9" type="4">
-        <text>Ryba</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBta2RpciBwcm9qZWN0cwogICAgICAgIGNkIHByb2plY3RzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -86,6 +94,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
