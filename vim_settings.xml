@@ -12,13 +12,19 @@
         <mark key="^" line="0" column="67" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/lisa/MANIFEST.in" timestamp="1448277256264">
+        <mark key="[" line="1" column="8" />
+        <mark key="]" line="1" column="28" />
+        <mark key="." line="1" column="28" />
+        <mark key="^" line="1" column="28" />
+      </file>
       <file name="$USER_HOME$/projects/lisa/setup.py" timestamp="1448273904220">
         <mark key="[" line="65" column="9" />
         <mark key="]" line="84" column="0" />
         <mark key="." line="84" column="0" />
         <mark key="^" line="65" column="13" />
       </file>
-      <file name="/a.dummy" timestamp="1448275813414">
+      <file name="/a.dummy" timestamp="1448277285269">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1448275806345">
@@ -50,46 +56,52 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/lisa/meta.yaml" timestamp="1448276624808">
+        <mark key="[" line="85" column="40" />
+        <mark key="]" line="87" column="26" />
+        <mark key="^" line="87" column="26" />
+        <mark key="." line="87" column="26" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="99" column="65" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyBjb25kYSBpbnN0YWxsIC15IC1jIFNpbXBsZUlUSyAtYyBtamlyaWsgbGlzYQo=</text>
+      <register name="&quot;" type="4">
+        <text>lesioneditor</text>
       </register>
       <register name="-" type="4">
-        <text>sample</text>
+        <text>lesioneditor</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxMSVNBMjU2XD4=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">IyBjb25kYSBpbnN0YWxsIC15IC1jIFNpbXBsZUlUSyAtYyBtamlyaWsgbGlzYQo=</text>
+      <register name="1" type="4">
+        <text>lesioneditor</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">S3VwdWrtY+0gcPhldnphbCBtYWz9IGEgdmVsa/0gdGVjaG5pY2v9IHBy+WtheiBhIG9kZXZ6ZGFsIHByb2ThdmFq7WPtbXUgemVsZW5vdSBrYXJ0dS4K</text>
+        <text encoding="base64">cmVjdXJzaXZlLWluY2x1ZGUgbGlzYS9pY29ucyAqCmluY2x1ZGUgbGVzaW9uZWRpdG9yL2NvbmZpZy5pbmkK</text>
       </register>
       <register name="3" type="4">
-        <text>sample</text>
+        <text>r</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Y29uZGEgaW5zdGFsbCAteSAtYyBTaW1wbGVJVEsgLWMgbWppcmlrIGxpc2EK</text>
+      <register name="4" type="4">
+        <text>o</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">KiBEb3dubG9hZCBhbmQgaW5zdGFsbCBbR2l0XShodHRwOi8vd3d3LmdpdC1zY20uY29tL2Rvd25sb2FkL3dpbikKICAgICBTZWxlY3QgIlJ1biBHaXQgZnJvbSB0aGUgV2luZG93cyBDb21tYW5kIFByb21wdCIgb3IgIlJ1biBHaXQgYW5kIGluY2x1ZGVkIFVuaXggdG9vbHMgZnJvbSB0aGUgV2luZG93cyBDb21tYW5kIFByb21wdCIKKiBEb3dubG9hZCBhbmQgaW5zdGFsbCBbQ01ha2VdKGh0dHA6Ly93d3cuY21ha2Uub3JnL2Rvd25sb2FkLyNsYXRlc3QpCg==</text>
+      <register name="5" type="4">
+        <text>t</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">KiBEb3dubG9hZCBhbmQgaW5zdGFsbCBbQ01ha2VdKGh0dHA6Ly93d3cuY21ha2Uub3JnL2Rvd25sb2FkLyNsYXRlc3QpCg==</text>
+      <register name="6" type="4">
+        <text>i</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>d</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>e</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">PT09PT0K</text>
+      <register name="9" type="4">
+        <text>n</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
