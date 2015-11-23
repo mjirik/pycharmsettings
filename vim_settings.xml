@@ -18,13 +18,13 @@
         <mark key="." line="84" column="0" />
         <mark key="^" line="65" column="13" />
       </file>
-      <file name="/a.dummy" timestamp="1448273962968">
+      <file name="/a.dummy" timestamp="1448275813414">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1448269271127">
-        <mark key="'" line="99" column="65" />
+      <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1448275806345">
+        <mark key="'" line="98" column="65" />
         <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="44" />
+        <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/projects/lisa/distr.sh" timestamp="1448180090834">
@@ -56,7 +56,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">S3VwdWrtY+0gcPhldnphbCBtYWz9IGEgdmVsa/0gdGVjaG5pY2v9IHBy+WtheiBhIG9kZXZ6ZGFsIHByb2ThdmFq7WPtbXUgemVsZW5vdSBrYXJ0dS4K</text>
+        <text encoding="base64">IyBjb25kYSBpbnN0YWxsIC15IC1jIFNpbXBsZUlUSyAtYyBtamlyaWsgbGlzYQo=</text>
       </register>
       <register name="-" type="4">
         <text>sample</text>
@@ -65,31 +65,31 @@
         <text encoding="base64">XDxMSVNBMjU2XD4=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">IyBjb25kYSBpbnN0YWxsIC15IC1jIFNpbXBsZUlUSyAtYyBtamlyaWsgbGlzYQo=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">S3VwdWrtY+0gcPhldnphbCBtYWz9IGEgdmVsa/0gdGVjaG5pY2v9IHBy+WtheiBhIG9kZXZ6ZGFsIHByb2ThdmFq7WPtbXUgemVsZW5vdSBrYXJ0dS4K</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>sample</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Y29uZGEgaW5zdGFsbCAteSAtYyBTaW1wbGVJVEsgLWMgbWppcmlrIGxpc2EK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">KiBEb3dubG9hZCBhbmQgaW5zdGFsbCBbR2l0XShodHRwOi8vd3d3LmdpdC1zY20uY29tL2Rvd25sb2FkL3dpbikKICAgICBTZWxlY3QgIlJ1biBHaXQgZnJvbSB0aGUgV2luZG93cyBDb21tYW5kIFByb21wdCIgb3IgIlJ1biBHaXQgYW5kIGluY2x1ZGVkIFVuaXggdG9vbHMgZnJvbSB0aGUgV2luZG93cyBDb21tYW5kIFByb21wdCIKKiBEb3dubG9hZCBhbmQgaW5zdGFsbCBbQ01ha2VdKGh0dHA6Ly93d3cuY21ha2Uub3JnL2Rvd25sb2FkLyNsYXRlc3QpCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">KiBEb3dubG9hZCBhbmQgaW5zdGFsbCBbQ01ha2VdKGh0dHA6Ly93d3cuY21ha2Uub3JnL2Rvd25sb2FkLyNsYXRlc3QpCg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KiBEb3dubG9hZCBhbmQgaW5zdGFsbCBbQ01ha2VdKGh0dHA6Ly93d3cuY21ha2Uub3JnL2Rvd25sb2FkLyNsYXRlc3QpCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PT09PT0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">RGV2ZWxvcAo=</text>
+        <text encoding="base64">PT09PT0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
