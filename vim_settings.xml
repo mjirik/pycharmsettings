@@ -27,11 +27,14 @@
       <file name="/a.dummy" timestamp="1448277285269">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1448275806345">
-        <mark key="'" line="98" column="65" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1448289063583">
+        <mark key="a" line="107" column="23" />
+        <mark key="b" line="53" column="4" />
+        <mark key="'" line="48" column="4" />
+        <mark key="[" line="108" column="24" />
+        <mark key="]" line="108" column="27" />
+        <mark key="." line="108" column="27" />
+        <mark key="^" line="108" column="27" />
       </file>
       <file name="$USER_HOME$/projects/lisa/distr.sh" timestamp="1448180090834">
         <mark key="[" line="11" column="12" />
@@ -65,58 +68,68 @@
     </filemarks>
     <jumps>
       <jump line="99" column="65" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="79" column="14" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="101" column="23" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="53" column="4" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="108" column="20" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="48" column="4" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>lesioneditor</text>
+        <text>images</text>
       </register>
       <register name="-" type="4">
-        <text>lesioneditor</text>
+        <text>images</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxMSVNBMjU2XD4=</text>
+        <text encoding="base64">XDxmaW5kX2ltYWdlc1w+</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGlmIG9zLnBhdGguZXhpc3RzKGxvZ29wYXRoKToKICAgICAgICByZXR1cm4gbG9nb3BhdGgK</text>
       </register>
       <register name="1" type="4">
-        <text>lesioneditor</text>
+        <text>images</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cmVjdXJzaXZlLWluY2x1ZGUgbGlzYS9pY29ucyAqCmluY2x1ZGUgbGVzaW9uZWRpdG9yL2NvbmZpZy5pbmkK</text>
+        <text encoding="base64">ICAgICAgICBsb2dvcGF0aCA9IG9zLnBhdGguam9pbihwYXRoX3RvX3NjcmlwdCwgIi4uL2FwcGxpY2F0aW9ucy9MSVNBMjU2LnBuZyIpCg==</text>
       </register>
       <register name="3" type="4">
-        <text>r</text>
+        <text encoding="base64">aW1hZ2VzX3BhdGgg</text>
       </register>
       <register name="4" type="4">
-        <text>o</text>
+        <text encoding="base64">aW5zdGFsbCA=</text>
       </register>
       <register name="5" type="4">
-        <text>t</text>
+        <text>)</text>
       </register>
       <register name="6" type="4">
-        <text>i</text>
+        <text>/</text>
       </register>
       <register name="7" type="4">
-        <text>d</text>
+        <text>icons</text>
       </register>
       <register name="8" type="4">
-        <text>e</text>
+        <text>.</text>
       </register>
       <register name="9" type="4">
-        <text>n</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxMSVNBMjU2XD4=</last-search>
+      <last-search encoding="base64">XDxmaW5kX2ltYWdlc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxMSVNBMjU2XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxmaW5kX2ltYWdlc1w+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry encoding="base64">XDxMSVNBMjU2XD4=</entry>
+        <entry>LISA256</entry>
+        <entry encoding="base64">XDxmaW5kX2ltYWdlc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
