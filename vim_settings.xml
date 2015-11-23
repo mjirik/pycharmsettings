@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1448311814454">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/lisa/lisa/update_stable.py" timestamp="1448309859773">
         <mark key="[" line="57" column="0" />
         <mark key="]" line="57" column="51" />
@@ -41,20 +44,20 @@
         <mark key="." line="204" column="30" />
         <mark key="^" line="204" column="30" />
       </file>
-      <file name="/a.dummy" timestamp="1448311106623">
+      <file name="/a.dummy" timestamp="1448311814461">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/qmisc.py" timestamp="1448311068049">
         <mark key="'" line="210" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1448311082186">
-        <mark key="a" line="697" column="0" />
+      <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1448311796243">
+        <mark key="a" line="698" column="41" />
         <mark key="b" line="53" column="4" />
-        <mark key="'" line="111" column="50" />
-        <mark key="[" line="698" column="49" />
-        <mark key="]" line="698" column="54" />
-        <mark key="." line="698" column="54" />
-        <mark key="^" line="698" column="54" />
+        <mark key="'" line="437" column="24" />
+        <mark key="[" line="700" column="38" />
+        <mark key="]" line="700" column="42" />
+        <mark key="." line="700" column="42" />
+        <mark key="^" line="700" column="42" />
       </file>
       <file name="$USER_HOME$/projects/lisa/distr.sh" timestamp="1448180090834">
         <mark key="[" line="11" column="12" />
@@ -116,7 +119,6 @@
       <jump line="75" column="46" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="76" column="10" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="86" column="7" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
-      <jump line="122" column="40" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="11" column="16" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="697" column="8" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="138" column="17" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
@@ -124,55 +126,62 @@
       <jump line="210" column="13" filename="$USER_HOME$/projects/lisa/lisa/qmisc.py" />
       <jump line="696" column="0" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="111" column="50" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="122" column="23" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="127" column="12" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="128" column="12" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="129" column="37" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="130" column="27" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="414" column="24" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="437" column="24" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">PT0g</text>
+        <text>Ready</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PT0g</text>
+        <text>Ready</text>
       </register>
       <register name="/" type="4">
-        <text>version</text>
+        <text>update</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3VicHJvY2Vzcy5jYWxsKCdnaXQgcHVsbCcsIHNoZWxsPVRydWUpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnN0YXR1c0JhcigpLnNob3dNZXNzYWdlKCdDaGVja2luZyBmb3IgdXBkYXRlIC4uLicpCg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">PT0g</text>
+        <text>Ready</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnZlcnNpb24gPSAiMS42LjEzIgo=</text>
+      <register name="2" type="4">
+        <text>.</text>
       </register>
       <register name="3" type="4">
-        <text>config</text>
+        <text>.</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">OncK</text>
+      <register name="4" type="4">
+        <text>.</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">dXBkYXRlIA==</text>
       </register>
       <register name="6" type="4">
-        <text>pull</text>
+        <text encoding="base64">Zm9yIA==</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">Z2l0IA==</text>
+        <text encoding="base64">Q2hlY2tpbmcg</text>
       </register>
       <register name="8" type="4">
-        <text>Configuration</text>
+        <text>data</text>
       </register>
       <register name="9" type="4">
-        <text>dcmdir</text>
+        <text encoding="base64">c2VnbWVudGF0aW9uIA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>version</last-search>
+      <last-search>update</last-search>
       <last-offset />
-      <last-pattern>version</last-pattern>
+      <last-pattern>update</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -186,6 +195,7 @@
         <entry encoding="base64">XDxidG5Db25maWdcPg==</entry>
         <entry encoding="base64">XDxidG5VcGRhdGVcPg==</entry>
         <entry>version</entry>
+        <entry>update</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
