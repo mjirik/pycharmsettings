@@ -184,6 +184,7 @@
         <entry key="libsodium" value="1.0.3" />
         <entry key="libtiff" value="4.0.6" />
         <entry key="line_profiler" value="1.0" />
+        <entry key="lisa" value="1.6.7" />
         <entry key="llvm" value="3.3" />
         <entry key="llvmlite" value="0.8.0" />
         <entry key="llvmmath" value="0.1.2" />
@@ -2384,6 +2385,14 @@
           <value>
             <list>
               <option value="1.0" />
+            </list>
+          </value>
+        </entry>
+        <entry key="lisa">
+          <value>
+            <list>
+              <option value="1.6.1" />
+              <option value="1.6.7" />
             </list>
           </value>
         </entry>
@@ -4793,6 +4802,6 @@
     <option name="CONDA_CHANNELS">
       <set />
     </option>
-    <option name="LAST_TIME_CHECKED" value="1448178055592" />
+    <option name="LAST_TIME_CHECKED" value="1448264516542" />
   </component>
 </application>
