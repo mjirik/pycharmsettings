@@ -30,13 +30,20 @@
         <mark key="." line="84" column="0" />
         <mark key="^" line="65" column="13" />
       </file>
-      <file name="/a.dummy" timestamp="1448293022579">
+      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1448296477626">
+        <mark key="'" line="86" column="7" />
+        <mark key="[" line="203" column="24" />
+        <mark key="]" line="203" column="24" />
+        <mark key="." line="203" column="24" />
+        <mark key="^" line="203" column="23" />
+      </file>
+      <file name="/a.dummy" timestamp="1448296512650">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1448292062544">
+      <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1448296392141">
         <mark key="a" line="113" column="23" />
         <mark key="b" line="53" column="4" />
-        <mark key="'" line="50" column="50" />
+        <mark key="'" line="392" column="39" />
         <mark key="[" line="58" column="15" />
         <mark key="]" line="59" column="47" />
         <mark key="^" line="59" column="47" />
@@ -54,11 +61,11 @@
         <mark key="^" line="45" column="1" />
         <mark key="." line="45" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/setup.cfg" timestamp="1448178813478">
-        <mark key="[" line="1" column="22" />
-        <mark key="]" line="1" column="22" />
-        <mark key="." line="1" column="22" />
-        <mark key="^" line="1" column="22" />
+      <file name="$USER_HOME$/projects/lisa/setup.cfg" timestamp="1448296509330">
+        <mark key="[" line="2" column="26" />
+        <mark key="]" line="2" column="52" />
+        <mark key="." line="2" column="52" />
+        <mark key="^" line="2" column="52" />
       </file>
       <file name="$USER_HOME$/projects/lisa/install_windows.md" timestamp="1448226690985">
         <mark key="[" line="0" column="0" />
@@ -66,9 +73,9 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/meta.yaml" timestamp="1448296142072">
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="18" />
+      <file name="$USER_HOME$/projects/lisa/meta.yaml" timestamp="1448296471442">
+        <mark key="[" line="2" column="11" />
+        <mark key="]" line="2" column="18" />
         <mark key="^" line="49" column="17" />
         <mark key="." line="67" column="0" />
       </file>
@@ -83,55 +90,74 @@
       <jump line="107" column="23" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="106" column="23" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="50" column="50" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="59" column="47" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="110" column="50" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="85" column="32" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="400" column="31" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="423" column="31" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="530" column="26" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="561" column="26" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="677" column="34" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="736" column="30" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="751" column="37" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="328" column="10" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="357" column="10" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="392" column="39" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="0" column="16" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="72" column="2" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="73" column="32" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="75" column="46" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="76" column="10" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="86" column="7" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC0gc2Npa2l0LWltYWdlCg==</text>
+      <register name="&quot;" type="4">
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>learn</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmaW5kX2ltYWdlc1w+</text>
+        <text>version</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIC0gc2Npa2l0LWltYWdlCg==</text>
+      <register name="0" type="4">
+        <text>&quot;1.6.11&quot;</text>
       </register>
       <register name="1" type="4">
-        <text>learn</text>
+        <text>&quot;</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">V2luZG93cyA=</text>
+        <text>&quot;</text>
       </register>
       <register name="3" type="4">
+        <text>learn</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">V2luZG93cyA=</text>
+      </register>
+      <register name="5" type="4">
         <text>Lisa for Windows</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIGVsc2U6Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGlmIG9zLnBhdGguZXhpc3RzKGxvZ29wYXRoKToKICAgICAgICByZXR1cm4gbG9nb3BhdGgK</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICB3Z2V0LmRvd25sb2FkKCJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vbWppcmlrL2xpc2EvbWFzdGVyL2xpc2EvaWNvbnMvTElTQTI1Ni5wbmciKQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbG9nb3BhdGgK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIG9zLnBhdGguZXhpc3RzKGxvZ29wYXRoKToK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHdnZXQuZG93bmxvYWQoImh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9tamlyaWsvbGlzYS9tYXN0ZXIvbGlzYS9pY29ucy9MSVNBMjU2LnBuZyIpCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbG9nb3BhdGgK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmaW5kX2ltYWdlc1w+</last-search>
+      <last-search>version</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmaW5kX2ltYWdlc1w+</last-pattern>
+      <last-pattern>version</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -140,6 +166,9 @@
         <entry encoding="base64">XDxMSVNBMjU2XD4=</entry>
         <entry>LISA256</entry>
         <entry encoding="base64">XDxmaW5kX2ltYWdlc1w+</entry>
+        <entry encoding="base64">XDx2ZXJzaW9uXD4=</entry>
+        <entry>get_</entry>
+        <entry>version</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
