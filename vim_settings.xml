@@ -34,21 +34,24 @@
         <mark key="." line="84" column="0" />
         <mark key="^" line="65" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1448296477626">
+      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1448311091897">
         <mark key="'" line="86" column="7" />
-        <mark key="[" line="203" column="24" />
-        <mark key="]" line="203" column="24" />
-        <mark key="." line="203" column="24" />
-        <mark key="^" line="203" column="23" />
+        <mark key="[" line="204" column="24" />
+        <mark key="]" line="204" column="30" />
+        <mark key="." line="204" column="30" />
+        <mark key="^" line="204" column="30" />
       </file>
-      <file name="/a.dummy" timestamp="1448310356541">
+      <file name="/a.dummy" timestamp="1448311106623">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1448310339444">
+      <file name="$USER_HOME$/projects/lisa/lisa/qmisc.py" timestamp="1448311068049">
+        <mark key="'" line="210" column="13" />
+      </file>
+      <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1448311082186">
         <mark key="a" line="697" column="0" />
         <mark key="b" line="53" column="4" />
-        <mark key="'" line="138" column="17" />
-        <mark key="[" line="698" column="51" />
+        <mark key="'" line="111" column="50" />
+        <mark key="[" line="698" column="49" />
         <mark key="]" line="698" column="54" />
         <mark key="." line="698" column="54" />
         <mark key="^" line="698" column="54" />
@@ -117,55 +120,59 @@
       <jump line="11" column="16" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="697" column="8" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="138" column="17" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/lisa/lisa/qmisc.py" />
+      <jump line="210" column="13" filename="$USER_HOME$/projects/lisa/lisa/qmisc.py" />
+      <jump line="696" column="0" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="111" column="50" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>config</text>
+        <text encoding="base64">PT0g</text>
       </register>
       <register name="-" type="4">
-        <text>config</text>
+        <text encoding="base64">PT0g</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxidG5VcGRhdGVcPg==</text>
+        <text>version</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc3VicHJvY2Vzcy5jYWxsKCdnaXQgcHVsbCcsIHNoZWxsPVRydWUpCg==</text>
       </register>
       <register name="1" type="4">
-        <text>config</text>
+        <text encoding="base64">PT0g</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">OncK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnZlcnNpb24gPSAiMS42LjEzIgo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="4">
-        <text>pull</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">Z2l0IA==</text>
-      </register>
-      <register name="6" type="4">
-        <text>Configuration</text>
-      </register>
-      <register name="7" type="4">
-        <text>dcmdir</text>
-      </register>
-      <register name="8" type="4">
+      <register name="3" type="4">
         <text>config</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">OncK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
+        <text>pull</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">Z2l0IA==</text>
+      </register>
+      <register name="8" type="4">
+        <text>Configuration</text>
+      </register>
       <register name="9" type="4">
-        <text>Config</text>
+        <text>dcmdir</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxidG5VcGRhdGVcPg==</last-search>
+      <last-search>version</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxidG5VcGRhdGVcPg==</last-pattern>
+      <last-pattern>version</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -176,9 +183,9 @@
         <entry encoding="base64">XDxmaW5kX2ltYWdlc1w+</entry>
         <entry encoding="base64">XDx2ZXJzaW9uXD4=</entry>
         <entry>get_</entry>
-        <entry>version</entry>
         <entry encoding="base64">XDxidG5Db25maWdcPg==</entry>
         <entry encoding="base64">XDxidG5VcGRhdGVcPg==</entry>
+        <entry>version</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
