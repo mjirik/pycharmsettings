@@ -66,11 +66,11 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/meta.yaml" timestamp="1448276624808">
-        <mark key="[" line="85" column="40" />
-        <mark key="]" line="87" column="26" />
-        <mark key="^" line="87" column="26" />
-        <mark key="." line="87" column="26" />
+      <file name="$USER_HOME$/projects/lisa/meta.yaml" timestamp="1448296142072">
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="18" />
+        <mark key="^" line="49" column="17" />
+        <mark key="." line="67" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -85,44 +85,44 @@
       <jump line="50" column="50" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">V2luZG93cyA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC0gc2Npa2l0LWltYWdlCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">V2luZG93cyA=</text>
+        <text>learn</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaW5kX2ltYWdlc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmIG9zLnBhdGguZXhpc3RzKGxvZ29wYXRoKToK</text>
+        <text encoding="base64">ICAgIC0gc2Npa2l0LWltYWdlCg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">V2luZG93cyA=</text>
+        <text>learn</text>
       </register>
       <register name="2" type="4">
+        <text encoding="base64">V2luZG93cyA=</text>
+      </register>
+      <register name="3" type="4">
         <text>Lisa for Windows</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIGVsc2U6Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIGlmIG9zLnBhdGguZXhpc3RzKGxvZ29wYXRoKToKICAgICAgICByZXR1cm4gbG9nb3BhdGgK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICB3Z2V0LmRvd25sb2FkKCJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vbWppcmlrL2xpc2EvbWFzdGVyL2xpc2EvaWNvbnMvTElTQTI1Ni5wbmciKQo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gbG9nb3BhdGgK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGlmIG9zLnBhdGguZXhpc3RzKGxvZ29wYXRoKToK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHdnZXQuZG93bmxvYWQoImh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9tamlyaWsvbGlzYS9tYXN0ZXIvbGlzYS9pY29ucy9MSVNBMjU2LnBuZyIpCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9tamlyaWsvbGlzYS9tYXN0ZXIvbGlzYS9pY29ucy9MSVNBMjU2LnBuZwo=</text>
+        <text encoding="base64">ICAgIHdnZXQuZG93bmxvYWQoImh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9tamlyaWsvbGlzYS9tYXN0ZXIvbGlzYS9pY29ucy9MSVNBMjU2LnBuZyIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
