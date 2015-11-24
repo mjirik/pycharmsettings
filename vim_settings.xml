@@ -209,11 +209,13 @@
         <mark key="]" line="1" column="22" />
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1445344116537">
-        <mark key="]" line="1086" column="20" />
-        <mark key="^" line="1086" column="20" />
-        <mark key="." line="1086" column="20" />
-        <mark key="[" line="1086" column="8" />
+      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1448368210014">
+        <mark key="'" line="1280" column="30" />
+        <mark key="a" line="1280" column="30" />
+        <mark key="]" line="1281" column="43" />
+        <mark key="^" line="1281" column="43" />
+        <mark key="." line="1281" column="43" />
+        <mark key="[" line="1281" column="32" />
       </file>
       <file name="$USER_HOME$/projects/skelet3d/skelet3d/skeletonizer.py" timestamp="1446806786688">
         <mark key="]" line="35" column="50" />
@@ -298,6 +300,10 @@
         <mark key="." line="24" column="40" />
         <mark key="[" line="24" column="40" />
       </file>
+      <file name="$USER_HOME$/projects/lisa/organ_segmentation.config" timestamp="1448367437856">
+        <mark key="]" line="22" column="14" />
+        <mark key="[" line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/skelet3d/src/setup.py.in" timestamp="1446536159668">
         <mark key="]" line="10" column="51" />
         <mark key="^" line="14" column="7" />
@@ -348,11 +354,11 @@
         <mark key="." line="97" column="0" />
         <mark key="[" line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/meta.yaml" timestamp="1448364110346">
-        <mark key="]" line="72" column="32" />
-        <mark key="^" line="51" column="31" />
-        <mark key="." line="72" column="0" />
-        <mark key="[" line="72" column="0" />
+      <file name="$USER_HOME$/projects/lisa/meta.yaml" timestamp="1448367089215">
+        <mark key="]" line="73" column="9" />
+        <mark key="^" line="51" column="8" />
+        <mark key="." line="73" column="0" />
+        <mark key="[" line="73" column="0" />
       </file>
       <file name="$USER_HOME$/projects/imtools/setup.py" timestamp="1445352304600">
         <mark key="]" line="13" column="18" />
@@ -390,6 +396,12 @@
         <mark key="." line="3" column="12" />
         <mark key="[" line="3" column="10" />
       </file>
+      <file name="$USER_HOME$/projects/lisa/lisa/config_default.py" timestamp="1448367914102">
+        <mark key="]" line="18" column="81" />
+        <mark key="^" line="18" column="47" />
+        <mark key="." line="18" column="81" />
+        <mark key="[" line="18" column="80" />
+      </file>
       <file name="$USER_HOME$/projects/lisa/.travis.yml" timestamp="1445352391957">
         <mark key="]" line="37" column="5" />
         <mark key="^" line="37" column="5" />
@@ -403,49 +415,53 @@
         <mark key="[" line="107" column="37" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="967" column="0" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="1280" column="30" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+    </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICMganVzdCBmb3IgcGlwIGluc3RhbGwgcHlnY28K</text>
+      <register name="&quot;" type="4">
+        <text>null</text>
       </register>
       <register name="3" type="4">
-        <text>5</text>
+        <text>nul</text>
       </register>
       <register name="2" type="4">
-        <text>dtype</text>
+        <text>l</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwaXAgaW5zdGFsbCBweXdnZXQK</text>
+      <register name="1" type="4">
+        <text>null</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICMganVzdCBmb3IgcGlwIGluc3RhbGwgcHlnY28K</text>
+        <text encoding="base64">YXV0b2Nyb3BfbWFyZ2luX21tOiBbMTAsIDEwLCAxMF0KZGF0YTNkOiBudWxsCmRhdGFwYXRoOiBudWxsCmVkaXRfZGF0YTogZmFsc2UKbWFudWFscm9pOiB0cnVlCm1ldGFkYXRhOiBudWxsCm91dHB1dF9sYWJlbDogMQpxdF9hcHA6IG51bGwKcm9pOiBudWxsCnNlZWRzOiBudWxsCnNlZ21lbnRhdGlvbl9zbW9vdGhpbmc6IGZhbHNlCnNlZ21vZGVscGFyYW1zOgogIHBhcmFtczoge2NvdmFyaWFuY2VfdHlwZTogZnVsbCwgbl9jb21wb25lbnRzOiAzfQogIHR5cGU6IGdtbXNhbWUKc2VncGFyYW1zOiB7InBhaXJ3aXNlX2FscGhhX3Blcl9tbTIiOjQ1LCByZXR1cm5fb25seV9vYmplY3Rfd2l0aF9zZWVkczogdHJ1ZX0Kc2VyaWVzX251bWJlcjogbnVsbApzbGFiOiB7fQpzbW9vdGhpbmdfbW06IDQKdGV4dHVyZV9hbmFseXNpczogbnVsbAp3b3JraW5nX3ZveGVsc2l6ZV9tbTogMi4wCnZpZXdlcm1heDogMjI1CnZpZXdlcm1pbjogLTEyNQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBieXRlc3BlcmJsb2NrID0gYml0c3BlcmJsb2NrIC8gOAo=</text>
+      <register name="7" type="4">
+        <text>nul</text>
       </register>
       <register name="6" type="4">
-        <text>['box']</text>
+        <text>l</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgCg==</text>
+      <register name="5" type="4">
+        <text>null</text>
       </register>
       <register name="4" type="4">
-        <text>[1024,1024,-1]</text>
+        <text>null</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>w</text>
+        <text>}</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgbnVtcHkgYXMgbnAK</text>
+      <register name="8" type="4">
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkYXRhM2RcPg==</text>
       </register>
       <register name="-" type="4">
-        <text>dtype</text>
+        <text>null</text>
       </register>
     </registers>
     <search>
@@ -536,6 +552,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
