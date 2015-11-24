@@ -240,6 +240,12 @@
         <mark key="." line="19" column="21" />
         <mark key="[" line="19" column="7" />
       </file>
+      <file name="$USER_HOME$/projects/lisa/INSTALL.md" timestamp="1448362583478">
+        <mark key="]" line="53" column="80" />
+        <mark key="^" line="53" column="80" />
+        <mark key="." line="53" column="80" />
+        <mark key="[" line="53" column="67" />
+      </file>
       <file name="$USER_HOME$/projects/io3d/io3d/datawriter.py" timestamp="1443769554803">
         <mark key="]" line="66" column="0" />
         <mark key="^" line="41" column="16" />
@@ -400,40 +406,40 @@
     <jumps />
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC0gcHlxdGNvbmZpZwo=</text>
+        <text encoding="base64">ICAgICAgICBwaXAgaW5zdGFsbCBweXdnZXQK</text>
       </register>
       <register name="3" type="4">
-        <text>[1024,1024,-1]</text>
-      </register>
-      <register name="2" type="4">
         <text>5</text>
       </register>
-      <register name="1" type="4">
+      <register name="2" type="4">
         <text>dtype</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBwaXAgaW5zdGFsbCBweXdnZXQK</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC0gcHlxdGNvbmZpZwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgbnVtcHkgYXMgbnAK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBieXRlc3BlcmJsb2NrID0gYml0c3BlcmJsb2NrIC8gOAo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>['box']</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBpbXBvcnQgCg==</text>
+      </register>
+      <register name="4" type="4">
+        <text>[1024,1024,-1]</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>:</text>
-      </register>
-      <register name="8" type="4">
         <text>w</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgbnVtcHkgYXMgbnAK</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkYXRhM2RcPg==</text>
