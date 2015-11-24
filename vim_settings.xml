@@ -115,7 +115,7 @@
         <mark key="." line="168" column="119" />
         <mark key="[" line="169" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1448369493765">
+      <file name="/a.dummy" timestamp="1448371570195">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/io3d/io3d/__init__.py" timestamp="1446814722799">
@@ -271,6 +271,10 @@
         <mark key="." line="31" column="21" />
         <mark key="[" line="31" column="20" />
       </file>
+      <file name="$USER_HOME$/projects/lisa/lisa/config.py" timestamp="1448371455850">
+        <mark key="]" line="1" column="22" />
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/quanta/README.md" timestamp="1446550184867">
         <mark key="]" line="23" column="25" />
         <mark key="^" line="28" column="26" />
@@ -328,6 +332,9 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
         <mark key="[" line="9" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1448371570181">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/quanta/distr.sh" timestamp="1446813652569">
         <mark key="]" line="16" column="4" />
@@ -400,11 +407,11 @@
         <mark key="." line="3" column="12" />
         <mark key="[" line="3" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/config_default.py" timestamp="1448367914102">
-        <mark key="]" line="18" column="81" />
-        <mark key="^" line="18" column="47" />
-        <mark key="." line="18" column="81" />
-        <mark key="[" line="18" column="80" />
+      <file name="$USER_HOME$/projects/lisa/lisa/config_default.py" timestamp="1448371484397">
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="[" line="1" column="23" />
       </file>
       <file name="$USER_HOME$/projects/lisa/.travis.yml" timestamp="1445352391957">
         <mark key="]" line="37" column="5" />
@@ -418,6 +425,11 @@
         <mark key="." line="109" column="20" />
         <mark key="[" line="107" column="37" />
       </file>
+      <file name="$USER_HOME$/projects/lisa/.ropeproject/config.py" timestamp="1448371468408">
+        <mark key="]" line="1" column="23" />
+        <mark key="." line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="967" column="0" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
@@ -428,40 +440,40 @@
     </jumps>
     <registers>
       <register name="3" type="4">
-        <text>nul</text>
+        <text>l</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>null</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="4">
-        <text>l</text>
-      </register>
-      <register name="1" type="4">
         <text>null</text>
       </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="0" type="2">
-        <text encoding="base64">YXV0b2Nyb3BfbWFyZ2luX21tOiBbMTAsIDEwLCAxMF0KZGF0YTNkOiBudWxsCmRhdGFwYXRoOiBudWxsCmVkaXRfZGF0YTogZmFsc2UKbWFudWFscm9pOiB0cnVlCm1ldGFkYXRhOiBudWxsCm91dHB1dF9sYWJlbDogMQpxdF9hcHA6IG51bGwKcm9pOiBudWxsCnNlZWRzOiBudWxsCnNlZ21lbnRhdGlvbl9zbW9vdGhpbmc6IGZhbHNlCnNlZ21vZGVscGFyYW1zOgogIHBhcmFtczoge2NvdmFyaWFuY2VfdHlwZTogZnVsbCwgbl9jb21wb25lbnRzOiAzfQogIHR5cGU6IGdtbXNhbWUKc2VncGFyYW1zOiB7InBhaXJ3aXNlX2FscGhhX3Blcl9tbTIiOjQ1LCByZXR1cm5fb25seV9vYmplY3Rfd2l0aF9zZWVkczogdHJ1ZX0Kc2VyaWVzX251bWJlcjogbnVsbApzbGFiOiB7fQpzbW9vdGhpbmdfbW06IDQKdGV4dHVyZV9hbmFseXNpczogbnVsbAp3b3JraW5nX3ZveGVsc2l6ZV9tbTogMi4wCnZpZXdlcm1heDogMjI1CnZpZXdlcm1pbjogLTEyNQo=</text>
+        <text encoding="base64">IyEgL3Vzci9iaW4vcHl0aG9uCiMgLSotIGNvZGluZzogdXRmLTggLSotCg==</text>
       </register>
       <register name="7" type="4">
-        <text>nul</text>
+        <text>l</text>
       </register>
       <register name="6" type="4">
-        <text>l</text>
+        <text>null</text>
       </register>
       <register name="5" type="4">
         <text>null</text>
       </register>
       <register name="4" type="4">
-        <text>null</text>
+        <text>nul</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>}</text>
+        <text>null</text>
       </register>
       <register name="8" type="4">
-        <text>null</text>
+        <text>nul</text>
       </register>
       <register name="/" type="4">
         <text>config</text>
