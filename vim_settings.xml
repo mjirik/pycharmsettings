@@ -81,18 +81,18 @@
         <mark key="." line="104" column="32" />
         <mark key="[" line="104" column="23" />
       </file>
+      <file name="$USER_HOME$/projects/quanta/quantan/__main__.py" timestamp="1446553214305">
+        <mark key="]" line="1" column="6" />
+        <mark key="^" line="1" column="6" />
+        <mark key="." line="1" column="6" />
+        <mark key="[" line="0" column="13" />
+      </file>
       <file name="$USER_HOME$/projects/lisa/lisa/vesseltree_export.py" timestamp="1445327936618">
         <mark key="'" line="88" column="42" />
         <mark key="]" line="33" column="8" />
         <mark key="^" line="27" column="68" />
         <mark key="." line="33" column="8" />
         <mark key="[" line="33" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/quanta/quantan/__main__.py" timestamp="1446553214305">
-        <mark key="]" line="1" column="6" />
-        <mark key="^" line="1" column="6" />
-        <mark key="." line="1" column="6" />
-        <mark key="[" line="0" column="13" />
       </file>
       <file name="/fragment.py" timestamp="1447142136580">
         <mark key="[" line="0" column="0" />
@@ -290,9 +290,6 @@
         <mark key="." line="20" column="12" />
         <mark key="[" line="20" column="5" />
       </file>
-      <file name="/None" timestamp="1444651185031">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/quanta/.travis.yml" timestamp="1446734696649">
         <mark key="'" line="40" column="43" />
         <mark key="]" line="24" column="40" />
@@ -300,9 +297,13 @@
         <mark key="." line="24" column="40" />
         <mark key="[" line="24" column="40" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/organ_segmentation.config" timestamp="1448367437856">
-        <mark key="]" line="22" column="14" />
-        <mark key="[" line="1" column="0" />
+      <file name="/None" timestamp="1444651185031">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/sed3/setup.py" timestamp="1445444515071">
+        <mark key="]" line="14" column="19" />
+        <mark key="." line="14" column="19" />
+        <mark key="[" line="14" column="17" />
       </file>
       <file name="$USER_HOME$/projects/skelet3d/src/setup.py.in" timestamp="1446536159668">
         <mark key="]" line="10" column="51" />
@@ -310,10 +311,9 @@
         <mark key="." line="14" column="7" />
         <mark key="[" line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/sed3/setup.py" timestamp="1445444515071">
-        <mark key="]" line="14" column="19" />
-        <mark key="." line="14" column="19" />
-        <mark key="[" line="14" column="17" />
+      <file name="$USER_HOME$/projects/lisa/organ_segmentation.config" timestamp="1448367437856">
+        <mark key="]" line="22" column="14" />
+        <mark key="[" line="1" column="0" />
       </file>
       <file name="/start_script.py" timestamp="1443779873025">
         <mark key="[" line="0" column="0" />
@@ -345,6 +345,13 @@
         <mark key="." line="166" column="54" />
         <mark key="[" line="164" column="73" />
       </file>
+      <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1448369487377">
+        <mark key="'" line="703" column="15" />
+        <mark key="]" line="699" column="91" />
+        <mark key="^" line="699" column="91" />
+        <mark key="." line="699" column="91" />
+        <mark key="[" line="699" column="56" />
+      </file>
       <file name="$USER_HOME$/projects/lisa/docs/index.rst" timestamp="1444650684200">
         <mark key="[" line="6" column="31" />
       </file>
@@ -360,18 +367,18 @@
         <mark key="." line="73" column="0" />
         <mark key="[" line="73" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/imtools/setup.py" timestamp="1445352304600">
-        <mark key="]" line="13" column="18" />
-        <mark key="^" line="56" column="60" />
-        <mark key="." line="13" column="18" />
-        <mark key="[" line="13" column="17" />
-      </file>
       <file name="$USER_HOME$/projects/skelet3d/setup.py" timestamp="1446541768915">
         <mark key="'" line="57" column="4" />
         <mark key="]" line="2" column="0" />
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
         <mark key="[" line="1" column="39" />
+      </file>
+      <file name="$USER_HOME$/projects/imtools/setup.py" timestamp="1445352304600">
+        <mark key="]" line="13" column="18" />
+        <mark key="^" line="56" column="60" />
+        <mark key="." line="13" column="18" />
+        <mark key="[" line="13" column="17" />
       </file>
       <file name="$USER_HOME$/projects/io3d/tests/datawriter_test.py" timestamp="1443767919770">
         <mark key="]" line="88" column="52" />
@@ -419,13 +426,15 @@
       <jump line="967" column="0" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="1280" column="30" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="426" column="48" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="703" column="15" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>null</text>
-      </register>
       <register name="3" type="4">
         <text>nul</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>null</text>
       </register>
       <register name="2" type="4">
         <text>l</text>
@@ -458,22 +467,21 @@
         <text>null</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkYXRhM2RcPg==</text>
+        <text>config</text>
       </register>
       <register name="-" type="4">
         <text>null</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkYXRhM2RcPg==</last-search>
+      <last-search>config</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkYXRhM2RcPg==</last-pattern>
+      <last-pattern>config</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>showSe</entry>
         <entry encoding="base64">XDxmaW5pc2hlZFw+</entry>
         <entry encoding="base64">XDxtYW51YWxfY3JvcF96X2VcPg==</entry>
         <entry encoding="base64">XDx0aHJlc2hvbGRpbmdfZnVuY3Rpb25zXD4=</entry>
@@ -493,6 +501,7 @@
         <entry>quanta</entry>
         <entry encoding="base64">XDxxdWFudGFuXD4=</entry>
         <entry encoding="base64">XDxkYXRhM2RcPg==</entry>
+        <entry>config</entry>
       </history-search>
       <history-cmd>
         <entry>e</entry>
