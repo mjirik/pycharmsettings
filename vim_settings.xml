@@ -9,6 +9,13 @@
         <mark key="^" line="142" column="23" />
         <mark key="." line="142" column="23" />
       </file>
+      <file name="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" timestamp="1448403573573">
+        <mark key="'" line="1186" column="26" />
+        <mark key="[" line="689" column="51" />
+        <mark key="]" line="689" column="56" />
+        <mark key="^" line="689" column="56" />
+        <mark key="." line="689" column="56" />
+      </file>
       <file name="$USER_HOME$/projects/lisa/installer.bat" timestamp="1448389020321">
         <mark key="[" line="5" column="35" />
         <mark key="]" line="6" column="23" />
@@ -26,13 +33,38 @@
       </file>
       <file name="$USER_HOME$/projects/pysegbase/tests/pycut_test.py" timestamp="1448400979654" />
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="172" column="32" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="188" column="24" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="316" column="37" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="86" column="8" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="166" column="8" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="219" column="12" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="993" column="8" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="1060" column="8" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="912" column="24" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="1160" column="8" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="1162" column="8" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="913" column="24" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="1178" column="26" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="1064" column="8" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="961" column="15" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="1069" column="30" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="997" column="8" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="1180" column="26" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="687" column="26" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="1065" column="8" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="1185" column="26" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+    </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">ICAgICRFTlZ7SE9NRX0vYW5hY29uZGEvCg==</text>
       </register>
       <register name="-" type="4">
         <text>2</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxfX2NyZWF0ZV90bGlua3NcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICRFTlZ7SE9NRX0vYW5hY29uZGEvCg==</text>
@@ -65,18 +97,28 @@
         <text>i</text>
       </register>
       <register name=":" type="4">
-        <text>157</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search encoding="base64">XDxfX2NyZWF0ZV90bGlua3NcPg==</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxfX2NyZWF0ZV90bGlua3NcPg==</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry encoding="base64">XDxjcmVhdGVGVlw+</entry>
+        <entry encoding="base64">XDx0cmFpbkZyb21JbWFnZUFuZFNlZWRzXD4=</entry>
+        <entry encoding="base64">XDxzZXRfZGF0YVw+</entry>
+        <entry>voxelsize</entry>
+        <entry encoding="base64">XDxfX3NpbWlsYXJpdHlfZm9yX3RsaW5rc19vYmpfYmdyXD4=</entry>
+        <entry encoding="base64">XDxfX2NyZWF0ZV90bGlua3NcPg==</entry>
+      </history-search>
       <history-cmd>
-        <entry>w</entry>
         <entry>157</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
