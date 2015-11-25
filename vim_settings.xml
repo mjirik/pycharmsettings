@@ -115,7 +115,9 @@
         <mark key="." line="168" column="119" />
         <mark key="[" line="169" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1448403596965">
+      <file name="/a.dummy" timestamp="1448449836370">
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/io3d/io3d/__init__.py" timestamp="1446814722799">
@@ -191,7 +193,7 @@
         <mark key="." line="15" column="12" />
         <mark key="[" line="15" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1447142252483">
+      <file name="/Python Console" timestamp="1448449665307">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/quanta/setup.py" timestamp="1446640023460">
@@ -205,12 +207,12 @@
         <mark key="." line="71" column="0" />
         <mark key="[" line="71" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" timestamp="1448445271880">
-        <mark key="'" line="1186" column="26" />
-        <mark key="]" line="1188" column="56" />
-        <mark key="^" line="1188" column="56" />
-        <mark key="." line="1188" column="56" />
-        <mark key="[" line="1188" column="56" />
+      <file name="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" timestamp="1448450936823">
+        <mark key="'" line="460" column="17" />
+        <mark key="]" line="118" column="36" />
+        <mark key="^" line="118" column="36" />
+        <mark key="." line="118" column="36" />
+        <mark key="[" line="118" column="31" />
       </file>
       <file name="$USER_HOME$/projects/io3d/io3d/dcmreaddata.py" timestamp="1446815145839">
         <mark key="]" line="1" column="22" />
@@ -466,64 +468,71 @@
       <jump line="687" column="26" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
       <jump line="1065" column="8" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
       <jump line="1185" column="26" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="1067" column="8" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="1187" column="26" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="688" column="26" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="1068" column="8" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="1188" column="26" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="1080" column="30" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="381" column="8" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="401" column="37" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="416" column="13" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="450" column="17" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="460" column="17" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
     </jumps>
     <registers>
       <register name="3" type="4">
-        <text>2</text>
+        <text>data</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICRFTlZ7SE9NRX0vYW5hY29uZGEvCg==</text>
+      <register name="&quot;" type="4">
+        <text>data</text>
       </register>
       <register name="2" type="4">
-        <text>2</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="1" type="4">
-        <text>2</text>
+        <text>data</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICRFTlZ7SE9NRX0vYW5hY29uZGEvCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>i</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5wLmFzYXJyYXkobG9zZWVkcy5zaGFwZSkuYXN0eXBlKG5wLmZsb2F0KSAvIGltZ19vcmlnLnNoYXBlLAo=</text>
       </register>
       <register name="6" type="4">
-        <text>n</text>
+        <text>None</text>
       </register>
       <register name="5" type="4">
-        <text>i</text>
+        <text>feature_vector</text>
       </register>
-      <register name="4" type="4">
-        <text>2</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgImRhdGEiICwgZGF0YQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>i</text>
+        <text>2</text>
       </register>
       <register name="8" type="4">
-        <text>m</text>
+        <text>data</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfX2NyZWF0ZV90bGlua3NcPg==</text>
+        <text encoding="base64">XDxzZXRfc2VlZHNcPg==</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>data</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfX2NyZWF0ZV90bGlua3NcPg==</last-search>
+      <last-search encoding="base64">XDxzZXRfc2VlZHNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfX2NyZWF0ZV90bGlua3NcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxzZXRfc2VlZHNcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmaW5pc2hlZFw+</entry>
-        <entry encoding="base64">XDxtYW51YWxfY3JvcF96X2VcPg==</entry>
-        <entry encoding="base64">XDx0aHJlc2hvbGRpbmdfZnVuY3Rpb25zXD4=</entry>
-        <entry>Histolog</entry>
         <entry encoding="base64">XDxzZXRfeXRpY2tsYWJlbHNcPg==</entry>
         <entry encoding="base64">XDx2b3hlbHNpemVtbVw+</entry>
         <entry encoding="base64">XDxhY3R1YWxfdm94ZWxzaXplXD4=</entry>
@@ -540,6 +549,10 @@
         <entry encoding="base64">XDxxdWFudGFuXD4=</entry>
         <entry encoding="base64">XDxkYXRhM2RcPg==</entry>
         <entry>config</entry>
+        <entry encoding="base64">XDxfX2NyZWF0ZV90bGlua3NcPg==</entry>
+        <entry encoding="base64">XDxfX3NpbWlsYXJpdHlfZm9yX3RsaW5rc19vYmpfYmdyXD4=</entry>
+        <entry>seeds</entry>
+        <entry encoding="base64">XDxzZXRfc2VlZHNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>e</entry>
