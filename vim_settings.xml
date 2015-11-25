@@ -97,6 +97,12 @@
       <file name="/fragment.py" timestamp="1447142136580">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/pysegbase/tests/pycut_test.py" timestamp="1448453287636">
+        <mark key="]" line="101" column="46" />
+        <mark key="^" line="101" column="46" />
+        <mark key="." line="101" column="46" />
+        <mark key="[" line="101" column="40" />
+      </file>
       <file name="$USER_HOME$/projects/pysegbase/meta.yaml" timestamp="1446724431868">
         <mark key="]" line="42" column="12" />
         <mark key="^" line="42" column="12" />
@@ -207,12 +213,12 @@
         <mark key="." line="71" column="0" />
         <mark key="[" line="71" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" timestamp="1448452192484">
+      <file name="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" timestamp="1448453218792">
         <mark key="'" line="922" column="24" />
-        <mark key="]" line="1197" column="46" />
-        <mark key="^" line="1197" column="46" />
-        <mark key="." line="1197" column="46" />
-        <mark key="[" line="1197" column="42" />
+        <mark key="]" line="1253" column="54" />
+        <mark key="^" line="1253" column="54" />
+        <mark key="." line="1253" column="54" />
+        <mark key="[" line="1253" column="52" />
       </file>
       <file name="$USER_HOME$/projects/io3d/io3d/dcmreaddata.py" timestamp="1446815145839">
         <mark key="]" line="1" column="22" />
@@ -484,40 +490,40 @@
     </jumps>
     <registers>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICBkYXRhLAo=</text>
-      </register>
-      <register name="&quot;" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICBzZWVkcz1GYWxzZSwK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICB2b3hlbHNpemUsCg==</text>
+      <register name="&quot;" type="4">
+        <text>data</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICBzZWVkcz1GYWxzZSwK</text>
+      <register name="2" type="4">
+        <text>data</text>
+      </register>
+      <register name="1" type="4">
+        <text>data</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICRFTlZ7SE9NRX0vYW5hY29uZGEvCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgImRhdGEiICwgZGF0YQo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="6" type="4">
         <text>data</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICBkYXRhLAo=</text>
       </register>
-      <register name="4" type="4">
-        <text>data</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICB2b3hlbHNpemUsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="4">
-        <text>None</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgImRhdGEiICwgZGF0YQo=</text>
       </register>
       <register name="8" type="4">
-        <text>feature_vector</text>
+        <text>data</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXRfZGF0YVw+</text>
