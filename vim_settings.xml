@@ -122,7 +122,7 @@
         <mark key="." line="168" column="119" />
         <mark key="[" line="169" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1448552327759">
+      <file name="/a.dummy" timestamp="1448553872641">
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -194,14 +194,14 @@
         <mark key="." line="170" column="30" />
         <mark key="[" line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" timestamp="1448552949136">
+      <file name="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" timestamp="1448554166797">
         <mark key="r" line="122" column="22" />
-        <mark key="'" line="23" column="10" />
+        <mark key="'" line="165" column="107" />
         <mark key="a" line="156" column="3" />
-        <mark key="]" line="114" column="14" />
-        <mark key="^" line="114" column="14" />
-        <mark key="." line="114" column="14" />
-        <mark key="[" line="114" column="15" />
+        <mark key="]" line="237" column="0" />
+        <mark key="^" line="246" column="59" />
+        <mark key="." line="237" column="0" />
+        <mark key="[" line="237" column="0" />
       </file>
       <file name="$USER_HOME$/projects/pyseg_base/tests/pycut_test.py" timestamp="1444664727080">
         <mark key="]" line="46" column="25" />
@@ -545,49 +545,50 @@
       <jump line="451" column="17" filename="$USER_HOME$/projects/lisa/mysetup.py" />
       <jump line="469" column="13" filename="$USER_HOME$/projects/lisa/mysetup.py" />
       <jump line="471" column="14" filename="$USER_HOME$/projects/lisa/mysetup.py" />
+      <jump line="165" column="107" filename="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHNlZDMK</text>
+        <text encoding="base64">ICAgICAgICAjIHJlcXVpcmVkPVRydWUsCg==</text>
       </register>
       <register name="3" type="4">
-        <text>[::, :, :]</text>
+        <text>outputfile</text>
       </register>
       <register name="2" type="4">
-        <text>[::, :,:]</text>
+        <text>None</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHNlZDMK</text>
+        <text encoding="base64">ICAgICAgICAjIHJlcXVpcmVkPVRydWUsCg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhM2QsIG1ldGFkYXRhID0gZHIuR2V0M0REYXRhKG9wLmpvaW4oc2FtcGxlX2RhdGFfcGF0aCAsICdsaXZlci1vcmlnMDAxLm1oZCcpKQo=</text>
+        <text encoding="base64">ICAgICMgcGFyc2VyLmFkZF9hcmd1bWVudCgKICAgICMgICAgICctaScsICctLWlucHV0ZmlsZScsCiAgICAjICAgICBkZWZhdWx0PU5vbmUsCiAgICAjICAgICByZXF1aXJlZD1UcnVlLAogICAgIyAgICAgaGVscD0naW5wdXQgZmlsZScKICAgICMgKQo=</text>
       </register>
       <register name="7" type="4">
-        <text>r</text>
+        <text>[::, :,:]</text>
       </register>
-      <register name="6" type="4">
-        <text>i</text>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IHNlZDMK</text>
       </register>
       <register name="5" type="4">
-        <text>g</text>
+        <text>inputfile</text>
       </register>
       <register name="4" type="4">
-        <text>data3d</text>
+        <text encoding="base64">aW5wdXQg</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>dnteractive</text>
+        <text>data3d</text>
       </register>
       <register name="8" type="4">
-        <text>o</text>
+        <text>[::, :, :]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRfc2FtcGxlX2RhdGFcPg==</text>
       </register>
       <register name="-" type="4">
-        <text>[::, :,:]</text>
+        <text>None</text>
       </register>
     </registers>
     <search>
