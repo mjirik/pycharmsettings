@@ -122,7 +122,7 @@
         <mark key="." line="168" column="119" />
         <mark key="[" line="169" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1448550213628">
+      <file name="/a.dummy" timestamp="1448552327759">
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -194,13 +194,14 @@
         <mark key="." line="170" column="30" />
         <mark key="[" line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" timestamp="1448549870682">
+      <file name="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" timestamp="1448552949136">
+        <mark key="r" line="122" column="22" />
         <mark key="'" line="23" column="10" />
-        <mark key="a" line="144" column="3" />
-        <mark key="]" line="150" column="30" />
-        <mark key="^" line="92" column="70" />
-        <mark key="." line="150" column="30" />
-        <mark key="[" line="150" column="28" />
+        <mark key="a" line="156" column="3" />
+        <mark key="]" line="114" column="14" />
+        <mark key="^" line="114" column="14" />
+        <mark key="." line="114" column="14" />
+        <mark key="[" line="114" column="15" />
       </file>
       <file name="$USER_HOME$/projects/pyseg_base/tests/pycut_test.py" timestamp="1444664727080">
         <mark key="]" line="46" column="25" />
@@ -217,10 +218,11 @@
       <file name="/Python Console" timestamp="1448549351788">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/tests/organ_localizator_test.py" timestamp="1448552314591">
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-        <mark key="[" line="24" column="0" />
+      <file name="$USER_HOME$/projects/lisa/tests/organ_localizator_test.py" timestamp="1448553864772">
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="38" column="20" />
+        <mark key="." line="12" column="0" />
+        <mark key="[" line="12" column="0" />
       </file>
       <file name="$USER_HOME$/projects/quanta/setup.py" timestamp="1446640023460">
         <mark key="]" line="58" column="115" />
@@ -375,9 +377,6 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
         <mark key="[" line="9" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1448550213622">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/quanta/distr.sh" timestamp="1446813652569">
         <mark key="]" line="16" column="4" />
@@ -549,46 +548,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBvbC5wcmVkaWN0KCkK</text>
+        <text encoding="base64">aW1wb3J0IHNlZDMK</text>
       </register>
       <register name="3" type="4">
-        <text>i</text>
+        <text>[::, :, :]</text>
       </register>
       <register name="2" type="4">
-        <text>g</text>
+        <text>[::, :,:]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBvbC5wcmVkaWN0KCkK</text>
+        <text encoding="base64">aW1wb3J0IHNlZDMK</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3JpZ19wYXR0ZXJuPSIqb3JpZyowMDEubWhkIiwK</text>
+        <text encoding="base64">ICAgICAgICBkYXRhM2QsIG1ldGFkYXRhID0gZHIuR2V0M0REYXRhKG9wLmpvaW4oc2FtcGxlX2RhdGFfcGF0aCAsICdsaXZlci1vcmlnMDAxLm1oZCcpKQo=</text>
       </register>
       <register name="7" type="4">
-        <text>i</text>
+        <text>r</text>
       </register>
       <register name="6" type="4">
-        <text>g</text>
+        <text>i</text>
       </register>
       <register name="5" type="4">
-        <text>o</text>
+        <text>g</text>
       </register>
       <register name="4" type="4">
-        <text>r</text>
+        <text>data3d</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>o</text>
+        <text>dnteractive</text>
       </register>
       <register name="8" type="4">
-        <text>r</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRfc2FtcGxlX2RhdGFcPg==</text>
       </register>
       <register name="-" type="4">
-        <text>g</text>
+        <text>[::, :,:]</text>
       </register>
     </registers>
     <search>
