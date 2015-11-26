@@ -43,7 +43,7 @@
         <mark key="^" line="88" column="52" />
         <mark key="." line="88" column="52" />
       </file>
-      <file name="/a.dummy" timestamp="1448555508633">
+      <file name="/a.dummy" timestamp="1448571482075">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -342,14 +342,14 @@
         <mark key="^" line="58" column="115" />
         <mark key="." line="58" column="115" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" timestamp="1448570693725">
-        <mark key="a" line="157" column="3" />
-        <mark key="r" line="123" column="22" />
-        <mark key="'" line="166" column="107" />
-        <mark key="[" line="89" column="8" />
-        <mark key="]" line="80" column="11" />
-        <mark key="^" line="80" column="11" />
-        <mark key="." line="80" column="11" />
+      <file name="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" timestamp="1448571518442">
+        <mark key="a" line="158" column="3" />
+        <mark key="r" line="124" column="22" />
+        <mark key="'" line="167" column="107" />
+        <mark key="[" line="61" column="21" />
+        <mark key="]" line="61" column="21" />
+        <mark key="^" line="62" column="30" />
+        <mark key="." line="61" column="21" />
       </file>
       <file name="$USER_HOME$/projects/lisa/docs/index.rst" timestamp="1444650684200">
         <mark key="[" line="6" column="31" />
@@ -575,11 +575,11 @@
       <jump line="165" column="107" filename="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjIHJlcXVpcmVkPVRydWUsCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>None</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRfc2FtcGxlX2RhdGFcPg==</text>
@@ -587,32 +587,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICMgcGFyc2VyLmFkZF9hcmd1bWVudCgKICAgICMgICAgICctaScsICctLWlucHV0ZmlsZScsCiAgICAjICAgICBkZWZhdWx0PU5vbmUsCiAgICAjICAgICByZXF1aXJlZD1UcnVlLAogICAgIyAgICAgaGVscD0naW5wdXQgZmlsZScKICAgICMgKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIHJlcXVpcmVkPVRydWUsCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="4">
-        <text>None</text>
+        <text>,</text>
       </register>
       <register name="3" type="4">
-        <text>outputfile</text>
+        <text>e</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">aW5wdXQg</text>
+        <text>n</text>
       </register>
       <register name="5" type="4">
-        <text>inputfile</text>
+        <text>o</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHNlZDMK</text>
+      <register name="6" type="4">
+        <text>N</text>
       </register>
       <register name="7" type="4">
-        <text>[::, :,:]</text>
+        <text>=</text>
       </register>
       <register name="8" type="4">
-        <text>[::, :, :]</text>
+        <text>feature_function</text>
       </register>
-      <register name="9" type="4">
-        <text>data3d</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAjIHJlcXVpcmVkPVRydWUsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
