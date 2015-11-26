@@ -188,11 +188,13 @@
         <mark key="." line="170" column="30" />
         <mark key="[" line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" timestamp="1448546666772">
-        <mark key="]" line="16" column="17" />
-        <mark key="^" line="16" column="17" />
-        <mark key="." line="16" column="17" />
-        <mark key="[" line="15" column="12" />
+      <file name="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" timestamp="1448548304836">
+        <mark key="'" line="141" column="22" />
+        <mark key="a" line="144" column="3" />
+        <mark key="]" line="23" column="10" />
+        <mark key="^" line="23" column="10" />
+        <mark key="." line="23" column="10" />
+        <mark key="[" line="22" column="14" />
       </file>
       <file name="$USER_HOME$/projects/pyseg_base/tests/pycut_test.py" timestamp="1444664727080">
         <mark key="]" line="46" column="25" />
@@ -206,8 +208,14 @@
         <mark key="." line="15" column="12" />
         <mark key="[" line="15" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1448539511351">
+      <file name="/Python Console" timestamp="1448548579115">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/lisa/tests/organ_localizator_test.py" timestamp="1448548555852">
+        <mark key="]" line="11" column="77" />
+        <mark key="^" line="11" column="77" />
+        <mark key="." line="11" column="77" />
+        <mark key="[" line="10" column="29" />
       </file>
       <file name="$USER_HOME$/projects/quanta/setup.py" timestamp="1446640023460">
         <mark key="]" line="58" column="115" />
@@ -505,40 +513,47 @@
       <jump line="196" column="0" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
       <jump line="331" column="11" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
       <jump line="117" column="23" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="87" column="7" filename="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" />
+      <jump line="143" column="37" filename="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" />
+      <jump line="145" column="3" filename="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" />
+      <jump line="18" column="10" filename="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" />
+      <jump line="148" column="8" filename="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" />
+      <jump line="19" column="19" filename="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" />
+      <jump line="141" column="22" filename="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>working_</text>
+        <text>ModelTrainer</text>
       </register>
-      <register name="3" type="4">
-        <text>modelparams</text>
+      <register name="3" type="2">
+        <text encoding="base64">I2lmIG9wLmV4aXN0cyhmbmFtZV92cykgYW5kIG9wLmV4aXN0cyhmbmFtZV9maHMpIGFuZCAoZm9yY2UgaXMgRmFsc2UpOgojICAgIGRmdnMgPSBwZC5yZWFkX2NzdihmbmFtZV92cywgaW5kZXhfY29sPTApCiMgICAgZmhzX2xpc3QgPSBpbzNkLm1pc2Mub2JqX2Zyb21fZmlsZShmbmFtZV9maHMsICdhdXRvJykKCiNlbHNlOgo=</text>
       </register>
-      <register name="2" type="4">
-        <text>MAIL</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>working_</text>
+        <text>ModelTrainer</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCBuT2JqZWN0cz0yLCBtb2RlbHBhcmFtcz17fSk6Cg==</text>
+        <text encoding="base64">ICAgICAgICBvcmlnX3BhdHRlcm49Im9yaWcqWzEtNV0ubWhkIiwK</text>
       </register>
       <register name="7" type="4">
-        <text>modelparams</text>
+        <text>&quot;~/data/medical/orig/sliver07/training/&quot;</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJhbWV0ZXJzCg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJhbWV0ZXJzCg==</text>
+      <register name="5" type="4">
+        <text>&quot;*orig*[1-5].mhd&quot;</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+        <text>&quot;*seg*[1-5].mhd&quot;</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>#</text>
+        <text>g</text>
       </register>
       <register name="8" type="4">
         <text encoding="base64">IA==</text>
@@ -547,7 +562,7 @@
         <text encoding="base64">XDxzZXRfZGF0YVw+</text>
       </register>
       <register name="-" type="4">
-        <text>working_</text>
+        <text>ModelTrainer</text>
       </register>
     </registers>
     <search>
