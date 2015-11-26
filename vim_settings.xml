@@ -103,7 +103,7 @@
         <mark key="." line="42" column="12" />
         <mark key="[" line="41" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/pysegbase/tests/pycut_test.py" timestamp="1448456549449">
+      <file name="$USER_HOME$/projects/pysegbase/tests/pycut_test.py" timestamp="1448528976250">
         <mark key="'" line="33" column="28" />
         <mark key="]" line="109" column="38" />
         <mark key="^" line="109" column="49" />
@@ -488,6 +488,7 @@
       <jump line="588" column="45" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
       <jump line="385" column="32" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
       <jump line="33" column="28" filename="$USER_HOME$/projects/pysegbase/tests/pycut_test.py" />
+      <jump line="109" column="38" filename="$USER_HOME$/projects/pysegbase/tests/pycut_test.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -627,6 +628,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed T</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
