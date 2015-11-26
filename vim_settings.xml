@@ -214,12 +214,13 @@
         <mark key="." line="71" column="0" />
         <mark key="[" line="71" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" timestamp="1448530014267">
-        <mark key="'" line="351" column="39" />
-        <mark key="]" line="82" column="0" />
-        <mark key="^" line="82" column="0" />
-        <mark key="." line="82" column="0" />
-        <mark key="[" line="81" column="44" />
+      <file name="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" timestamp="1448531186845">
+        <mark key="'" line="210" column="0" />
+        <mark key="a" line="108" column="20" />
+        <mark key="]" line="121" column="0" />
+        <mark key="^" line="121" column="0" />
+        <mark key="." line="121" column="0" />
+        <mark key="[" line="120" column="32" />
       </file>
       <file name="$USER_HOME$/projects/io3d/io3d/dcmreaddata.py" timestamp="1446815145839">
         <mark key="]" line="1" column="22" />
@@ -495,43 +496,44 @@
       <jump line="19" column="58" filename="$USER_HOME$/projects/pysegbase/tests/pycut_test.py" />
       <jump line="9" column="0" filename="$USER_HOME$/projects/pysegbase/tests/pycut_test.py" />
       <jump line="349" column="39" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="196" column="0" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCBuT2JqZWN0cz0yLCBtb2RlbHBhcmFtcz17fSk6Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBmaXRfZnJvbV9pbWFnZShzZWxmLCBkYXRhLCB2b3hlbHNpemUsIHNlZWRzLCBjbHMpOgogICAgICAgICIiIgogICAgICAgIFRoaXMgTWV0aG9kIGFsbG93cyBjb21wdXRlcyBmZWF0dXJlIHZlY3RvciBhbmQgdHJhaW4gbW9kZWwuCgogICAgICAgIDpjbHM6IGxpc3Qgb2YgaW5kZXggbnVtYmVyIG9mIHJlcXVlc3RlZCBjbGFzc2VzIGluIHNlZWRzCiAgICAgICAgIiIiCiAgICAgICAgZnZzLCBjbHNzZWxlY3RlZCA9IHNlbGYuZmVhdHVyZXNfZnJvbV9pbWFnZShkYXRhLCB2b3hlbHNpemUsIHNlZWRzLCBjbHMpCiAgICAgICAgIyBpbXBvcnQgcGRiCiAgICAgICAgIyBwZGIuc2V0X3RyYWNlKCkKICAgICAgICBzZWxmLmZpdChmdnMsIGNsc3NlbGVjdGVkKQogICAgICAgICMgZm9yIGZ2LCBjbCBpbiB6aXAoZnZzLCBjbHMpOgogICAgICAgICMgICAgIGxvZ2dlci5kZWJ1ZygnY2w6ICcgKyBzdHIoY2wpKQogICAgICAgICMgICAgIHNlbGYudHJhaW4oZnYsIGNsKQo=</text>
       </register>
-      <register name="3" type="4">
-        <text>voxelsize</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAncGFyYW1zJyBpbiBtb2RlbHBhcmFtcy5rZXlzKCkgYW5kIFwKICAgICAgICAgICAgICAgICAgICAgICAgZ21tX19jdnR5cGVfYmFkIGluIG1vZGVscGFyYW1zWydwYXJhbXMnXToKICAgICAgICAgICAgdmFsdWUgPSBtb2RlbHBhcmFtc1sncGFyYW1zJ10ucG9wKGdtbV9fY3Z0eXBlX2JhZCkKICAgICAgICAgICAgbW9kZWxwYXJhbXNbJ3BhcmFtcyddW2dtbV9fY3Z0eXBlXSA9IHZhbHVlCgogICAgICAgIHNlbGYubWRsID0ge30KICAgICAgICBzZWxmLm1vZGVscGFyYW1zID0gZGVmYXVsdG1vZGVscGFyYW1zLmNvcHkoKQogICAgICAgIHNlbGYubW9kZWxwYXJhbXMudXBkYXRlKHsKICAgICAgICAgICAgJ2ZvcmJpZF9yZXRyYWluaW5nJzogRmFsc2UsCiAgICAgICAgfSkKICAgICAgICBpZiAibWRsX3N0b3JlZF9maWxlIiBpbiBtb2RlbHBhcmFtcy5rZXlzKCkgYW5kIG1vZGVscGFyYW1zWydtZGxfc3RvcmVkX2ZpbGUnXToKICAgICAgICAgICAgbWRsX2ZpbGUgPSBtb2RlbHBhcmFtc1snbWRsX3N0b3JlZF9maWxlJ10KICAgICAgICAgICAgc2VsZi5sb2FkKG1kbF9maWxlKQogICAgICAgIHNlbGYubW9kZWxwYXJhbXMudXBkYXRlKG1vZGVscGFyYW1zKQo=</text>
       </register>
-      <register name="2" type="4">
-        <text>=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGRlZiBmaXQoc2VsZiwgY2x4LCBjbGEpOgogICAgICAgICIiIgoKICAgICAgICBBcmdzOgogICAgICAgICAgICBjbHg6IGZlYXR1cmUgdmVjdG9yCiAgICAgICAgICAgIGNsOiBjbGFzcywgc2NhbGFyIG9yIGFycmF5CgogICAgICAgIFJldHVybnM6CgogICAgICAgICIiIgogICAgICAgICMgVE9ETyBmb3Igbm93IG9ubHkgc2NsYXIgaXMgdXNlZC4gRG8gbm90IHVzZSBzY2FsYXIgY2wgaWYgZnV0dXJlLgogICAgICAgICMgTW9kZWwgaXMgbm90IHRyYWluZWQgZnJvbSBvdGhlciBjbGFzcyBrb253bGVkZ2UKICAgICAgICAjIHVzZSBtb2RlbCB0cmFpbmVkIGJ5IGFsbCBjbGFzc2VzIG51bWJlci4KICAgICAgICBpZiBucC5pc3NjYWxhcihjbGEpOgogICAgICAgICAgICBzZWxmLl9maXRfb25lX2NsYXNzKGNseCwgY2xhKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIGNsYSA9IG5wLmFzYXJyYXkoY2xhKQogICAgICAgICAgICBjbHggPSBucC5hc2FycmF5KGNseCkKICAgICAgICAgICAgIyBpbXBvcnQgcGRiCiAgICAgICAgICAgICMgcGRiLnNldF90cmFjZSgpCiAgICAgICAgICAgIGZvciBjbGkgaW4gbnAudW5pcXVlKGNsYSk6CiAgICAgICAgICAgICAgICBzZWxlY3Rpb24gPSBjbGEgPT0gY2xpCiAgICAgICAgICAgICAgICBjbHhzZWwgPSBjbHhbbnAubm9uemVybyhzZWxlY3Rpb24pWzBdXQogICAgICAgICAgICAgICAgc2VsZi5fZml0X29uZV9jbGFzcyhjbHhzZWwsIGNsaSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAncGFyYW1zJyBpbiBtb2RlbHBhcmFtcy5rZXlzKCkgYW5kIFwKICAgICAgICAgICAgICAgICAgICAgICAgZ21tX19jdnR5cGVfYmFkIGluIG1vZGVscGFyYW1zWydwYXJhbXMnXToKICAgICAgICAgICAgdmFsdWUgPSBtb2RlbHBhcmFtc1sncGFyYW1zJ10ucG9wKGdtbV9fY3Z0eXBlX2JhZCkKICAgICAgICAgICAgbW9kZWxwYXJhbXNbJ3BhcmFtcyddW2dtbV9fY3Z0eXBlXSA9IHZhbHVlCgogICAgICAgIHNlbGYubWRsID0ge30KICAgICAgICBzZWxmLm1vZGVscGFyYW1zID0gZGVmYXVsdG1vZGVscGFyYW1zLmNvcHkoKQogICAgICAgIHNlbGYubW9kZWxwYXJhbXMudXBkYXRlKHsKICAgICAgICAgICAgJ2ZvcmJpZF9yZXRyYWluaW5nJzogRmFsc2UsCiAgICAgICAgfSkKICAgICAgICBpZiAibWRsX3N0b3JlZF9maWxlIiBpbiBtb2RlbHBhcmFtcy5rZXlzKCkgYW5kIG1vZGVscGFyYW1zWydtZGxfc3RvcmVkX2ZpbGUnXToKICAgICAgICAgICAgbWRsX2ZpbGUgPSBtb2RlbHBhcmFtc1snbWRsX3N0b3JlZF9maWxlJ10KICAgICAgICAgICAgc2VsZi5sb2FkKG1kbF9maWxlKQogICAgICAgIHNlbGYubW9kZWxwYXJhbXMudXBkYXRlKG1vZGVscGFyYW1zKQo=</text>
+        <text encoding="base64">ICAgIGRlZiBmaXRfZnJvbV9pbWFnZShzZWxmLCBkYXRhLCB2b3hlbHNpemUsIHNlZWRzLCBjbHMpOgogICAgICAgICIiIgogICAgICAgIFRoaXMgTWV0aG9kIGFsbG93cyBjb21wdXRlcyBmZWF0dXJlIHZlY3RvciBhbmQgdHJhaW4gbW9kZWwuCgogICAgICAgIDpjbHM6IGxpc3Qgb2YgaW5kZXggbnVtYmVyIG9mIHJlcXVlc3RlZCBjbGFzc2VzIGluIHNlZWRzCiAgICAgICAgIiIiCiAgICAgICAgZnZzLCBjbHNzZWxlY3RlZCA9IHNlbGYuZmVhdHVyZXNfZnJvbV9pbWFnZShkYXRhLCB2b3hlbHNpemUsIHNlZWRzLCBjbHMpCiAgICAgICAgIyBpbXBvcnQgcGRiCiAgICAgICAgIyBwZGIuc2V0X3RyYWNlKCkKICAgICAgICBzZWxmLmZpdChmdnMsIGNsc3NlbGVjdGVkKQogICAgICAgICMgZm9yIGZ2LCBjbCBpbiB6aXAoZnZzLCBjbHMpOgogICAgICAgICMgICAgIGxvZ2dlci5kZWJ1ZygnY2w6ICcgKyBzdHIoY2wpKQogICAgICAgICMgICAgIHNlbGYudHJhaW4oZnYsIGNsKQo=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCBuT2JqZWN0cz0yLCBtb2RlbHBhcmFtcz17fSk6Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="4">
-        <text>None</text>
-      </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>[1,1,1]</text>
+      </register>
+      <register name="5" type="4">
+        <text>voxelsize</text>
+      </register>
+      <register name="4" type="4">
+        <text>=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">em9vbSA=</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="4">
-        <text>zoom</text>
+        <text>None</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXRfZGF0YVw+</text>
