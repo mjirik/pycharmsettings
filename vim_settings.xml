@@ -122,10 +122,16 @@
         <mark key="." line="168" column="119" />
         <mark key="[" line="169" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1448544678676">
+      <file name="/a.dummy" timestamp="1448550213628">
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/lisa/lisa/data.py" timestamp="1448552139365">
+        <mark key="]" line="27" column="46" />
+        <mark key="^" line="27" column="65" />
+        <mark key="." line="27" column="46" />
+        <mark key="[" line="27" column="46" />
       </file>
       <file name="$USER_HOME$/projects/io3d/io3d/__init__.py" timestamp="1446814722799">
         <mark key="]" line="7" column="27" />
@@ -188,13 +194,13 @@
         <mark key="." line="170" column="30" />
         <mark key="[" line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" timestamp="1448548304836">
-        <mark key="'" line="141" column="22" />
+      <file name="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" timestamp="1448549870682">
+        <mark key="'" line="23" column="10" />
         <mark key="a" line="144" column="3" />
-        <mark key="]" line="23" column="10" />
-        <mark key="^" line="23" column="10" />
-        <mark key="." line="23" column="10" />
-        <mark key="[" line="22" column="14" />
+        <mark key="]" line="150" column="30" />
+        <mark key="^" line="92" column="70" />
+        <mark key="." line="150" column="30" />
+        <mark key="[" line="150" column="28" />
       </file>
       <file name="$USER_HOME$/projects/pyseg_base/tests/pycut_test.py" timestamp="1444664727080">
         <mark key="]" line="46" column="25" />
@@ -208,14 +214,13 @@
         <mark key="." line="15" column="12" />
         <mark key="[" line="15" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1448548579115">
+      <file name="/Python Console" timestamp="1448549351788">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/tests/organ_localizator_test.py" timestamp="1448548555852">
-        <mark key="]" line="11" column="77" />
-        <mark key="^" line="11" column="77" />
-        <mark key="." line="11" column="77" />
-        <mark key="[" line="10" column="29" />
+      <file name="$USER_HOME$/projects/lisa/tests/organ_localizator_test.py" timestamp="1448552314591">
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="[" line="24" column="0" />
       </file>
       <file name="$USER_HOME$/projects/quanta/setup.py" timestamp="1446640023460">
         <mark key="]" line="58" column="115" />
@@ -353,6 +358,13 @@
       <file name="/start_script.py" timestamp="1443779873025">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/lisa/mysetup.py" timestamp="1448551743639">
+        <mark key="'" line="471" column="14" />
+        <mark key="]" line="478" column="34" />
+        <mark key="^" line="478" column="34" />
+        <mark key="." line="478" column="34" />
+        <mark key="[" line="478" column="21" />
+      </file>
       <file name="$USER_HOME$/projects/io3d/setup.py" timestamp="1446723377861">
         <mark key="]" line="56" column="0" />
         <mark key="^" line="57" column="8" />
@@ -363,6 +375,9 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
         <mark key="[" line="9" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1448550213622">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/quanta/distr.sh" timestamp="1446813652569">
         <mark key="]" line="16" column="4" />
@@ -404,6 +419,12 @@
         <mark key="^" line="51" column="8" />
         <mark key="." line="73" column="0" />
         <mark key="[" line="73" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/imtools/imtools/ml/gmmcl.py" timestamp="1448550206184">
+        <mark key="]" line="12" column="21" />
+        <mark key="^" line="12" column="21" />
+        <mark key="." line="12" column="21" />
+        <mark key="[" line="11" column="14" />
       </file>
       <file name="$USER_HOME$/projects/imtools/setup.py" timestamp="1445352304600">
         <mark key="]" line="13" column="18" />
@@ -520,61 +541,65 @@
       <jump line="148" column="8" filename="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" />
       <jump line="19" column="19" filename="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" />
       <jump line="141" column="22" filename="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" />
+      <jump line="23" column="10" filename="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" />
+      <jump line="232" column="4" filename="$USER_HOME$/projects/lisa/mysetup.py" />
+      <jump line="451" column="17" filename="$USER_HOME$/projects/lisa/mysetup.py" />
+      <jump line="469" column="13" filename="$USER_HOME$/projects/lisa/mysetup.py" />
+      <jump line="471" column="14" filename="$USER_HOME$/projects/lisa/mysetup.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>ModelTrainer</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBvbC5wcmVkaWN0KCkK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">I2lmIG9wLmV4aXN0cyhmbmFtZV92cykgYW5kIG9wLmV4aXN0cyhmbmFtZV9maHMpIGFuZCAoZm9yY2UgaXMgRmFsc2UpOgojICAgIGRmdnMgPSBwZC5yZWFkX2NzdihmbmFtZV92cywgaW5kZXhfY29sPTApCiMgICAgZmhzX2xpc3QgPSBpbzNkLm1pc2Mub2JqX2Zyb21fZmlsZShmbmFtZV9maHMsICdhdXRvJykKCiNlbHNlOgo=</text>
+      <register name="3" type="4">
+        <text>i</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>g</text>
       </register>
-      <register name="1" type="4">
-        <text>ModelTrainer</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBvbC5wcmVkaWN0KCkK</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBvcmlnX3BhdHRlcm49Im9yaWcqWzEtNV0ubWhkIiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3JpZ19wYXR0ZXJuPSIqb3JpZyowMDEubWhkIiwK</text>
       </register>
       <register name="7" type="4">
-        <text>&quot;~/data/medical/orig/sliver07/training/&quot;</text>
+        <text>i</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+      <register name="6" type="4">
+        <text>g</text>
       </register>
       <register name="5" type="4">
-        <text>&quot;*orig*[1-5].mhd&quot;</text>
+        <text>o</text>
       </register>
       <register name="4" type="4">
-        <text>&quot;*seg*[1-5].mhd&quot;</text>
+        <text>r</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>g</text>
+        <text>o</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZXRfZGF0YVw+</text>
+        <text encoding="base64">XDxnZXRfc2FtcGxlX2RhdGFcPg==</text>
       </register>
       <register name="-" type="4">
-        <text>ModelTrainer</text>
+        <text>g</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZXRfZGF0YVw+</last-search>
+      <last-search encoding="base64">XDxnZXRfc2FtcGxlX2RhdGFcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZXRfZGF0YVw+</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRfc2FtcGxlX2RhdGFcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx2b3hlbHNpemVtbVw+</entry>
         <entry encoding="base64">XDxhY3R1YWxfdm94ZWxzaXplXD4=</entry>
         <entry encoding="base64">XDx2b3hlbHNpemVcPg==</entry>
         <entry encoding="base64">XDx2dGZpbGVcPg==</entry>
@@ -594,6 +619,7 @@
         <entry>seeds</entry>
         <entry encoding="base64">XDxzZXRfc2VlZHNcPg==</entry>
         <entry encoding="base64">XDxzZXRfZGF0YVw+</entry>
+        <entry encoding="base64">XDxnZXRfc2FtcGxlX2RhdGFcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>e</entry>
