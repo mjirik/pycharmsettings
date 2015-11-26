@@ -372,7 +372,7 @@
       <file name="$USER_HOME$/projects/lisa/docs/index.rst" timestamp="1444650684200">
         <mark key="[" line="6" column="31" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1448544729740">
+      <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1448544749449">
         <mark key="'" line="703" column="15" />
         <mark key="]" line="699" column="91" />
         <mark key="^" line="699" column="91" />
@@ -502,28 +502,28 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>modelparams</text>
+        <text>MAIL</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJhbWV0ZXJzCg==</text>
-      </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="1" type="4">
+      <register name="2" type="4">
         <text>modelparams</text>
+      </register>
+      <register name="1" type="4">
+        <text>MAIL</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCBuT2JqZWN0cz0yLCBtb2RlbHBhcmFtcz17fSk6Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>#</text>
-      </register>
-      <register name="6" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>modelparams</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBwYXJhbWV0ZXJzCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBwYXJhbWV0ZXJzCg==</text>
@@ -531,17 +531,17 @@
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="4">
-        <text>modelparams</text>
-      </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBpZiAncGFyYW1zJyBpbiBtb2RlbHBhcmFtcy5rZXlzKCkgYW5kIFwKICAgICAgICAgICAgICAgICAgICAgICAgZ21tX19jdnR5cGVfYmFkIGluIG1vZGVscGFyYW1zWydwYXJhbXMnXToKICAgICAgICAgICAgdmFsdWUgPSBtb2RlbHBhcmFtc1sncGFyYW1zJ10ucG9wKGdtbV9fY3Z0eXBlX2JhZCkKICAgICAgICAgICAgbW9kZWxwYXJhbXNbJ3BhcmFtcyddW2dtbV9fY3Z0eXBlXSA9IHZhbHVlCgogICAgICAgIHNlbGYubWRsID0ge30KICAgICAgICBzZWxmLm1vZGVscGFyYW1zID0gZGVmYXVsdG1vZGVscGFyYW1zLmNvcHkoKQogICAgICAgIHNlbGYubW9kZWxwYXJhbXMudXBkYXRlKHsKICAgICAgICAgICAgJ2ZvcmJpZF9yZXRyYWluaW5nJzogRmFsc2UsCiAgICAgICAgfSkK</text>
+      </register>
+      <register name="8" type="4">
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXRfZGF0YVw+</text>
       </register>
       <register name="-" type="4">
-        <text>modelparams</text>
+        <text>MAIL</text>
       </register>
     </registers>
     <search>
