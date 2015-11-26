@@ -188,6 +188,12 @@
         <mark key="." line="170" column="30" />
         <mark key="[" line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" timestamp="1448546666772">
+        <mark key="]" line="16" column="17" />
+        <mark key="^" line="16" column="17" />
+        <mark key="." line="16" column="17" />
+        <mark key="[" line="15" column="12" />
+      </file>
       <file name="$USER_HOME$/projects/pyseg_base/tests/pycut_test.py" timestamp="1444664727080">
         <mark key="]" line="46" column="25" />
         <mark key="^" line="46" column="25" />
@@ -502,46 +508,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>MAIL</text>
+        <text>working_</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="2" type="4">
         <text>modelparams</text>
       </register>
-      <register name="1" type="4">
+      <register name="2" type="4">
         <text>MAIL</text>
+      </register>
+      <register name="1" type="4">
+        <text>working_</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCBuT2JqZWN0cz0yLCBtb2RlbHBhcmFtcz17fSk6Cg==</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="6" type="4">
         <text>modelparams</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBwYXJhbWV0ZXJzCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBwYXJhbWV0ZXJzCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJhbWV0ZXJzCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAncGFyYW1zJyBpbiBtb2RlbHBhcmFtcy5rZXlzKCkgYW5kIFwKICAgICAgICAgICAgICAgICAgICAgICAgZ21tX19jdnR5cGVfYmFkIGluIG1vZGVscGFyYW1zWydwYXJhbXMnXToKICAgICAgICAgICAgdmFsdWUgPSBtb2RlbHBhcmFtc1sncGFyYW1zJ10ucG9wKGdtbV9fY3Z0eXBlX2JhZCkKICAgICAgICAgICAgbW9kZWxwYXJhbXNbJ3BhcmFtcyddW2dtbV9fY3Z0eXBlXSA9IHZhbHVlCgogICAgICAgIHNlbGYubWRsID0ge30KICAgICAgICBzZWxmLm1vZGVscGFyYW1zID0gZGVmYXVsdG1vZGVscGFyYW1zLmNvcHkoKQogICAgICAgIHNlbGYubW9kZWxwYXJhbXMudXBkYXRlKHsKICAgICAgICAgICAgJ2ZvcmJpZF9yZXRyYWluaW5nJzogRmFsc2UsCiAgICAgICAgfSkK</text>
+      <register name="9" type="4">
+        <text>#</text>
       </register>
       <register name="8" type="4">
-        <text>#</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXRfZGF0YVw+</text>
       </register>
       <register name="-" type="4">
-        <text>MAIL</text>
+        <text>working_</text>
       </register>
     </registers>
     <search>
