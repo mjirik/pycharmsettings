@@ -3,257 +3,635 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/start_script.py" timestamp="1447935631677">
+      <file name="$USER_HOME$/projects/imtools/.travis.yml" timestamp="1446735015929">
+        <mark key="]" line="14" column="40" />
+        <mark key="^" line="14" column="40" />
+        <mark key="." line="14" column="40" />
+        <mark key="[" line="14" column="40" />
+      </file>
+      <file name="$USER_HOME$/projects/imtools/imtools/thresholding_functions.py" timestamp="1445342541968">
+        <mark key="]" line="160" column="19" />
+        <mark key="^" line="160" column="19" />
+        <mark key="." line="160" column="19" />
+        <mark key="[" line="160" column="17" />
+      </file>
+      <file name="$USER_HOME$/projects/lisa/lisa/gen_volume_tree.py" timestamp="1444722987176">
+        <mark key="]" line="155" column="15" />
+        <mark key="^" line="155" column="15" />
+        <mark key="." line="155" column="15" />
+        <mark key="[" line="156" column="51" />
+      </file>
+      <file name="$USER_HOME$/projects/quanta/requirements_conda.txt" timestamp="1446808657714">
+        <mark key="]" line="8" column="17" />
+        <mark key="^" line="8" column="17" />
+        <mark key="." line="8" column="17" />
+        <mark key="[" line="13" column="4" />
+      </file>
+      <file name="$USER_HOME$/projects/lisa/docs/lisa.extern.rst" timestamp="1444650677823">
+        <mark key="[" line="1" column="18" />
+      </file>
+      <file name="$USER_HOME$/projects/skelet3d/skelet3d/skeleton_analyser.py" timestamp="1446803225277">
+        <mark key="]" line="1" column="22" />
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/install_osx.md" timestamp="1448122216203">
+      <file name="$USER_HOME$/projects/pysegbase/setup.py" timestamp="1446724411661">
+        <mark key="]" line="57" column="47" />
+        <mark key="^" line="57" column="47" />
+        <mark key="." line="57" column="47" />
+        <mark key="[" line="57" column="39" />
+      </file>
+      <file name="$USER_HOME$/projects/imtools/imtools/uiThreshold.py" timestamp="1445968599726">
+        <mark key="'" line="128" column="29" />
+        <mark key="]" line="67" column="28" />
+        <mark key="^" line="67" column="28" />
+        <mark key="." line="67" column="28" />
+        <mark key="[" line="67" column="27" />
+      </file>
+      <file name="$USER_HOME$/projects/quanta/tests/histology_test.py" timestamp="1446553069746">
+        <mark key="'" line="15" column="11" />
+        <mark key="]" line="14" column="19" />
+        <mark key="^" line="14" column="19" />
+        <mark key="." line="14" column="19" />
+        <mark key="[" line="14" column="19" />
+      </file>
+      <file name="$USER_HOME$/projects/lisa/lisa/histology_analyser.py" timestamp="1444738796915">
+        <mark key="]" line="621" column="25" />
+        <mark key="^" line="621" column="25" />
+        <mark key="." line="621" column="25" />
+        <mark key="[" line="621" column="17" />
+      </file>
+      <file name="/False" timestamp="1444651185027">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="92" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/quanta/requirements_pip.txt" timestamp="1446724903102">
+        <mark key="]" line="4" column="1" />
+        <mark key="^" line="4" column="1" />
+        <mark key="." line="4" column="1" />
+        <mark key="[" line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/imtools/requirements_conda.txt" timestamp="1445340490067">
+        <mark key="]" line="6" column="9" />
+        <mark key="^" line="6" column="9" />
+        <mark key="." line="6" column="9" />
+        <mark key="[" line="5" column="6" />
+      </file>
+      <file name="$USER_HOME$/projects/lisa/tests/histology_test.py" timestamp="1444816181235">
+        <mark key="]" line="104" column="32" />
+        <mark key="^" line="104" column="32" />
+        <mark key="." line="104" column="32" />
+        <mark key="[" line="104" column="23" />
+      </file>
+      <file name="$USER_HOME$/projects/lisa/lisa/vesseltree_export.py" timestamp="1445327936618">
+        <mark key="'" line="88" column="42" />
+        <mark key="]" line="33" column="8" />
+        <mark key="^" line="27" column="68" />
+        <mark key="." line="33" column="8" />
+        <mark key="[" line="33" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/quanta/quantan/__main__.py" timestamp="1446553214305">
+        <mark key="]" line="1" column="6" />
+        <mark key="^" line="1" column="6" />
+        <mark key="." line="1" column="6" />
+        <mark key="[" line="0" column="13" />
+      </file>
+      <file name="/fragment.py" timestamp="1447142136580">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/pysegbase/meta.yaml" timestamp="1446724431868">
+        <mark key="]" line="42" column="12" />
+        <mark key="^" line="42" column="12" />
+        <mark key="." line="42" column="12" />
+        <mark key="[" line="41" column="10" />
+      </file>
+      <file name="$USER_HOME$/projects/pysegbase/tests/pycut_test.py" timestamp="1448529399511">
+        <mark key="'" line="9" column="0" />
+        <mark key="]" line="19" column="55" />
+        <mark key="^" line="19" column="55" />
+        <mark key="." line="27" column="56" />
+        <mark key="[" line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/quanta/quanta/__main__.py" timestamp="1446549342592">
+        <mark key="]" line="1" column="12" />
+        <mark key="^" line="1" column="12" />
+        <mark key="." line="1" column="12" />
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/larVolumeToObj/tests/common_test.py" timestamp="1443787510519">
+        <mark key="]" line="169" column="109" />
+        <mark key="^" line="168" column="119" />
+        <mark key="." line="168" column="119" />
+        <mark key="[" line="169" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1448555508633">
+        <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/pysegbase/tests/pycut_test.py" timestamp="1447940372074">
-        <mark key="'" line="86" column="37" />
-        <mark key="[" line="23" column="65" />
-        <mark key="]" line="23" column="64" />
-        <mark key="." line="23" column="64" />
-        <mark key="^" line="23" column="64" />
-      </file>
-      <file name="/Python Console" timestamp="1447939704131">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/pysegbase/distr.sh" timestamp="1447869905121">
-        <mark key="[" line="11" column="12" />
-        <mark key="]" line="11" column="21" />
-        <mark key="^" line="11" column="21" />
-        <mark key="." line="11" column="21" />
+      <file name="$USER_HOME$/projects/lisa/lisa/data.py" timestamp="1448552139365">
+        <mark key="]" line="27" column="46" />
+        <mark key="^" line="27" column="65" />
+        <mark key="." line="27" column="46" />
+        <mark key="[" line="27" column="46" />
       </file>
-      <file name="/fragment.py" timestamp="1447939702559">
+      <file name="$USER_HOME$/projects/io3d/io3d/__init__.py" timestamp="1446814722799">
+        <mark key="]" line="7" column="27" />
+        <mark key="^" line="7" column="27" />
+        <mark key="." line="7" column="27" />
+        <mark key="[" line="7" column="22" />
+      </file>
+      <file name="$USER_HOME$/projects/sed3/sed3/sed3.py" timestamp="1445590367084">
+        <mark key="]" line="412" column="0" />
+        <mark key="^" line="62" column="26" />
+        <mark key="." line="412" column="0" />
+        <mark key="[" line="412" column="0" />
+      </file>
+      <file name="/" timestamp="1444651185024">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1448122668109">
+      <file name="$USER_HOME$/projects/io3d/tests/dcmreaddata_test.py" timestamp="1446816832515">
+        <mark key="'" line="0" column="0" />
+        <mark key="]" line="327" column="85" />
+        <mark key="^" line="327" column="85" />
+        <mark key="." line="327" column="85" />
+        <mark key="[" line="327" column="86" />
+      </file>
+      <file name="$USER_HOME$/projects/io3d/io3d/idxformat.py" timestamp="1447143786214">
+        <mark key="'" line="29" column="47" />
+        <mark key="]" line="44" column="50" />
+        <mark key="^" line="44" column="50" />
+        <mark key="." line="44" column="50" />
+        <mark key="[" line="44" column="43" />
+      </file>
+      <file name="$USER_HOME$/projects/lisa/lisa/experiments.py" timestamp="1444721689004">
+        <mark key="]" line="20" column="12" />
+        <mark key="^" line="20" column="12" />
+        <mark key="." line="20" column="12" />
+        <mark key="[" line="19" column="16" />
+      </file>
+      <file name="$USER_HOME$/projects/pyseg_base/setup.py" timestamp="1446642726739">
+        <mark key="]" line="58" column="5" />
+        <mark key="^" line="58" column="5" />
+        <mark key="." line="58" column="5" />
+        <mark key="[" line="58" column="4" />
+      </file>
+      <file name="$USER_HOME$/projects/quaha/quaha/histology_analyser.py" timestamp="1445350234957">
+        <mark key="'" line="502" column="11" />
+        <mark key="]" line="502" column="16" />
+        <mark key="^" line="502" column="16" />
+        <mark key="." line="502" column="16" />
+        <mark key="[" line="502" column="4" />
+      </file>
+      <file name="$USER_HOME$/projects/skelet3d/src/skelet3d/__init__.py" timestamp="1445328719706">
+        <mark key="]" line="0" column="40" />
+        <mark key="^" line="0" column="40" />
+        <mark key="." line="0" column="40" />
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/requirements_conda.txt" timestamp="1448122520861">
-        <mark key="[" line="35" column="11" />
-        <mark key="]" line="36" column="7" />
-        <mark key="^" line="36" column="7" />
-        <mark key="." line="36" column="7" />
+      <file name="$USER_HOME$/projects/io3d/io3d/datareader.py" timestamp="1446818660722">
+        <mark key="'" line="98" column="12" />
+        <mark key="]" line="17" column="35" />
+        <mark key="^" line="170" column="30" />
+        <mark key="." line="170" column="30" />
+        <mark key="[" line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/requirements_pip.txt" timestamp="1448122472086">
-        <mark key="[" line="7" column="20" />
-        <mark key="]" line="8" column="4" />
-        <mark key="^" line="8" column="4" />
-        <mark key="." line="8" column="4" />
+      <file name="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" timestamp="1448555407427">
+        <mark key="r" line="123" column="22" />
+        <mark key="'" line="166" column="107" />
+        <mark key="a" line="157" column="3" />
+        <mark key="]" line="34" column="24" />
+        <mark key="^" line="34" column="24" />
+        <mark key="." line="34" column="24" />
+        <mark key="[" line="34" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/INSTALL.md" timestamp="1448122631372">
-        <mark key="[" line="58" column="20" />
-        <mark key="]" line="58" column="21" />
-        <mark key="^" line="58" column="21" />
-        <mark key="." line="58" column="21" />
+      <file name="$USER_HOME$/projects/pyseg_base/tests/pycut_test.py" timestamp="1444664727080">
+        <mark key="]" line="46" column="25" />
+        <mark key="^" line="46" column="25" />
+        <mark key="." line="46" column="25" />
+        <mark key="[" line="46" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/README.md" timestamp="1448121921081">
-        <mark key="[" line="17" column="8" />
-        <mark key="]" line="17" column="77" />
+      <file name="$USER_HOME$/projects/quaha/quaha/histology_report.py" timestamp="1445327745987">
+        <mark key="]" line="15" column="12" />
+        <mark key="^" line="15" column="12" />
+        <mark key="." line="15" column="12" />
+        <mark key="[" line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" timestamp="1447939906323">
-        <mark key="a" line="1007" column="17" />
-        <mark key="'" line="86" column="8" />
-        <mark key="[" line="134" column="0" />
-        <mark key="]" line="134" column="72" />
-        <mark key="^" line="214" column="43" />
-        <mark key="." line="214" column="43" />
+      <file name="/Python Console" timestamp="1448549351788">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/pysegbase/meta.yaml" timestamp="1447869593090">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="52" />
-        <mark key="^" line="44" column="9" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/projects/lisa/tests/organ_localizator_test.py" timestamp="1448553864772">
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="38" column="20" />
+        <mark key="." line="12" column="0" />
+        <mark key="[" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/install_windows.md" timestamp="1448122137784">
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="147" column="0" />
-        <mark key="." line="58" column="0" />
+      <file name="$USER_HOME$/projects/quanta/setup.py" timestamp="1446640023460">
+        <mark key="]" line="58" column="115" />
+        <mark key="^" line="58" column="115" />
+        <mark key="." line="58" column="115" />
+        <mark key="[" line="58" column="105" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/install_linux.md" timestamp="1448122179647">
-        <mark key="[" line="138" column="40" />
-        <mark key="]" line="138" column="47" />
-        <mark key="." line="138" column="47" />
-        <mark key="^" line="138" column="47" />
+      <file name="$USER_HOME$/projects/skelet3d/src/skelet3d/skelet3d.py" timestamp="1445867155334">
+        <mark key="]" line="71" column="0" />
+        <mark key="." line="71" column="0" />
+        <mark key="[" line="71" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" timestamp="1448544397867">
+        <mark key="'" line="118" column="23" />
+        <mark key="a" line="85" column="20" />
+        <mark key="]" line="67" column="33" />
+        <mark key="^" line="67" column="33" />
+        <mark key="." line="67" column="33" />
+        <mark key="[" line="126" column="38" />
+      </file>
+      <file name="$USER_HOME$/projects/io3d/io3d/dcmreaddata.py" timestamp="1446815145839">
+        <mark key="]" line="1" column="22" />
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1448368210014">
+        <mark key="'" line="1280" column="30" />
+        <mark key="a" line="1280" column="30" />
+        <mark key="]" line="1281" column="43" />
+        <mark key="^" line="1281" column="43" />
+        <mark key="." line="1281" column="43" />
+        <mark key="[" line="1281" column="32" />
+      </file>
+      <file name="$USER_HOME$/projects/skelet3d/skelet3d/skeletonizer.py" timestamp="1446806786688">
+        <mark key="]" line="35" column="50" />
+        <mark key="^" line="35" column="50" />
+        <mark key="." line="35" column="50" />
+        <mark key="[" line="34" column="29" />
+      </file>
+      <file name="$USER_HOME$/projects/lisa/lisa/viewer.py" timestamp="1444650851289">
+        <mark key="]" line="79" column="46" />
+        <mark key="^" line="79" column="46" />
+        <mark key="." line="79" column="46" />
+        <mark key="[" line="79" column="48" />
+      </file>
+      <file name="$USER_HOME$/projects/quanta/quantan/histology_analyser_gui.py" timestamp="1446553541813">
+        <mark key="'" line="38" column="7" />
+        <mark key="]" line="38" column="13" />
+        <mark key="^" line="38" column="13" />
+        <mark key="." line="38" column="13" />
+        <mark key="[" line="38" column="13" />
+      </file>
+      <file name="$USER_HOME$/projects/skelet3d/.travis.yml" timestamp="1446542849391">
+        <mark key="]" line="19" column="21" />
+        <mark key="^" line="19" column="21" />
+        <mark key="." line="19" column="21" />
+        <mark key="[" line="19" column="7" />
+      </file>
+      <file name="$USER_HOME$/projects/lisa/INSTALL.md" timestamp="1448364047278">
+        <mark key="]" line="53" column="80" />
+        <mark key="^" line="53" column="80" />
+        <mark key="." line="53" column="80" />
+        <mark key="[" line="53" column="67" />
+      </file>
+      <file name="$USER_HOME$/projects/io3d/io3d/datawriter.py" timestamp="1443769554803">
+        <mark key="]" line="66" column="0" />
+        <mark key="^" line="41" column="16" />
+        <mark key="." line="66" column="0" />
+        <mark key="[" line="66" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/imtools/imtools/segmentation.py" timestamp="1445348745980">
+        <mark key="]" line="229" column="0" />
+        <mark key="." line="229" column="0" />
+        <mark key="[" line="229" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/quanta/meta.yaml" timestamp="1446809867792">
+        <mark key="]" line="45" column="10" />
+        <mark key="^" line="45" column="10" />
+        <mark key="." line="45" column="10" />
+        <mark key="[" line="58" column="10" />
+      </file>
+      <file name="$USER_HOME$/projects/lisa/lisa/lisa_server.py" timestamp="1445344066359">
+        <mark key="]" line="31" column="21" />
+        <mark key="^" line="31" column="21" />
+        <mark key="." line="31" column="21" />
+        <mark key="[" line="31" column="20" />
+      </file>
+      <file name="$USER_HOME$/projects/lisa/lisa/config.py" timestamp="1448371455850">
+        <mark key="]" line="1" column="22" />
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/quanta/README.md" timestamp="1446550184867">
+        <mark key="]" line="23" column="25" />
+        <mark key="^" line="28" column="26" />
+        <mark key="." line="23" column="0" />
+        <mark key="[" line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/skelet3d/bld.bat" timestamp="1446806979486">
+        <mark key="]" line="64" column="22" />
+        <mark key="^" line="64" column="22" />
+        <mark key="." line="64" column="22" />
+        <mark key="[" line="55" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/lisa/tests/vessels_segmentation_test.py" timestamp="1445339956308">
+        <mark key="'" line="118" column="36" />
+        <mark key="]" line="20" column="12" />
+        <mark key="^" line="20" column="12" />
+        <mark key="." line="20" column="12" />
+        <mark key="[" line="20" column="5" />
+      </file>
+      <file name="/None" timestamp="1444651185031">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/quanta/.travis.yml" timestamp="1446734696649">
+        <mark key="'" line="40" column="43" />
+        <mark key="]" line="24" column="40" />
+        <mark key="^" line="24" column="40" />
+        <mark key="." line="24" column="40" />
+        <mark key="[" line="24" column="40" />
+      </file>
+      <file name="$USER_HOME$/projects/lisa/organ_segmentation.config" timestamp="1448367437856">
+        <mark key="]" line="22" column="14" />
+        <mark key="[" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/skelet3d/src/setup.py.in" timestamp="1446536159668">
+        <mark key="]" line="10" column="51" />
+        <mark key="^" line="14" column="7" />
+        <mark key="." line="14" column="7" />
+        <mark key="[" line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/sed3/setup.py" timestamp="1445444515071">
+        <mark key="]" line="14" column="19" />
+        <mark key="." line="14" column="19" />
+        <mark key="[" line="14" column="17" />
+      </file>
+      <file name="/start_script.py" timestamp="1443779873025">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/lisa/mysetup.py" timestamp="1448551743639">
+        <mark key="'" line="471" column="14" />
+        <mark key="]" line="478" column="34" />
+        <mark key="^" line="478" column="34" />
+        <mark key="." line="478" column="34" />
+        <mark key="[" line="478" column="21" />
+      </file>
+      <file name="$USER_HOME$/projects/io3d/setup.py" timestamp="1446723377861">
+        <mark key="]" line="56" column="0" />
+        <mark key="^" line="57" column="8" />
+        <mark key="." line="56" column="0" />
+        <mark key="[" line="56" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/quanta/build.sh" timestamp="1446809956975">
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="[" line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/quanta/distr.sh" timestamp="1446813652569">
+        <mark key="]" line="16" column="4" />
+        <mark key="^" line="15" column="0" />
+        <mark key="." line="16" column="4" />
+        <mark key="[" line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/lisa/installer.bat" timestamp="1448389020321">
+        <mark key="]" line="6" column="23" />
+        <mark key="^" line="6" column="23" />
+        <mark key="." line="6" column="23" />
+        <mark key="[" line="5" column="35" />
+      </file>
+      <file name="$USER_HOME$/projects/skelet3d/CMakeLists.txt" timestamp="1448396251885">
+        <mark key="'" line="146" column="26" />
+        <mark key="]" line="142" column="23" />
+        <mark key="^" line="142" column="23" />
+        <mark key="." line="142" column="23" />
+        <mark key="[" line="142" column="23" />
+      </file>
+      <file name="$USER_HOME$/projects/lisa/docs/index.rst" timestamp="1444650684200">
+        <mark key="[" line="6" column="31" />
+      </file>
+      <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1448544749449">
+        <mark key="'" line="703" column="15" />
+        <mark key="]" line="699" column="91" />
+        <mark key="^" line="699" column="91" />
+        <mark key="." line="699" column="91" />
+        <mark key="[" line="699" column="56" />
+      </file>
+      <file name="$USER_HOME$/projects/lisa/tests/experiments_test.py" timestamp="1444654761029">
+        <mark key="]" line="46" column="31" />
+        <mark key="^" line="52" column="53" />
+        <mark key="." line="97" column="0" />
+        <mark key="[" line="44" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/lisa/meta.yaml" timestamp="1448367089215">
+        <mark key="]" line="73" column="9" />
+        <mark key="^" line="51" column="8" />
+        <mark key="." line="73" column="0" />
+        <mark key="[" line="73" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/imtools/imtools/ml/gmmcl.py" timestamp="1448550206184">
+        <mark key="]" line="12" column="21" />
+        <mark key="^" line="12" column="21" />
+        <mark key="." line="12" column="21" />
+        <mark key="[" line="11" column="14" />
+      </file>
+      <file name="$USER_HOME$/projects/imtools/setup.py" timestamp="1445352304600">
+        <mark key="]" line="13" column="18" />
+        <mark key="^" line="56" column="60" />
+        <mark key="." line="13" column="18" />
+        <mark key="[" line="13" column="17" />
+      </file>
+      <file name="$USER_HOME$/projects/skelet3d/setup.py" timestamp="1446541768915">
+        <mark key="'" line="57" column="4" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="[" line="1" column="39" />
+      </file>
+      <file name="$USER_HOME$/projects/io3d/tests/datawriter_test.py" timestamp="1443767919770">
+        <mark key="]" line="88" column="52" />
+        <mark key="^" line="88" column="52" />
+        <mark key="." line="88" column="52" />
+        <mark key="[" line="88" column="49" />
+      </file>
+      <file name="$USER_HOME$/projects/lisa/lisa/support_structure_segmentation.py" timestamp="1445339541667">
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+        <mark key="[" line="40" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/skelet3d/skelet3d/libfixer.py" timestamp="1448392595043">
+        <mark key="]" line="56" column="30" />
+        <mark key="^" line="58" column="23" />
+        <mark key="." line="56" column="30" />
+        <mark key="[" line="56" column="30" />
+      </file>
+      <file name="$USER_HOME$/projects/lisa/requirements_pip.txt" timestamp="1445260339043">
+        <mark key="]" line="3" column="12" />
+        <mark key="^" line="1" column="16" />
+        <mark key="." line="3" column="12" />
+        <mark key="[" line="3" column="10" />
+      </file>
+      <file name="$USER_HOME$/projects/lisa/lisa/config_default.py" timestamp="1448371484397">
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="[" line="1" column="23" />
+      </file>
+      <file name="$USER_HOME$/projects/lisa/.travis.yml" timestamp="1445352391957">
+        <mark key="]" line="37" column="5" />
+        <mark key="^" line="37" column="5" />
+        <mark key="." line="37" column="5" />
+        <mark key="[" line="38" column="4" />
+      </file>
+      <file name="$USER_HOME$/projects/lisa/lisa/volumetry_evaluation.py" timestamp="1444652408996">
+        <mark key="]" line="109" column="20" />
+        <mark key="^" line="109" column="20" />
+        <mark key="." line="109" column="20" />
+        <mark key="[" line="107" column="37" />
+      </file>
+      <file name="vim_settings.xml" timestamp="1448529046036">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/lisa/.ropeproject/config.py" timestamp="1448371468408">
+        <mark key="]" line="1" column="23" />
+        <mark key="." line="0" column="0" />
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="329" column="22" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="399" column="13" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="987" column="13" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="988" column="10" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="999" column="25" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="1000" column="25" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="1020" column="42" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="1021" column="42" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="80" column="13" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="83" column="93" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="267" column="62" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="132" column="46" filename="$USER_HOME$/projects/pysegbase/tests/pycut_test.py" />
-      <jump line="1310" column="24" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="76" column="13" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="223" column="26" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="236" column="17" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="237" column="17" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="245" column="17" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="253" column="17" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="258" column="17" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="264" column="17" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="272" column="17" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="288" column="24" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="296" column="23" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="321" column="22" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="326" column="22" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="332" column="31" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="334" column="29" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="344" column="22" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="346" column="22" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="415" column="13" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="991" column="10" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="992" column="10" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="993" column="17" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="994" column="17" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="38" column="0" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="148" column="22" filename="$USER_HOME$/projects/pysegbase/tests/pycut_test.py" />
-      <jump line="995" column="17" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="979" column="8" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="1039" column="8" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="1139" column="29" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="1152" column="44" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="554" column="13" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="557" column="15" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="560" column="15" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="672" column="26" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="1066" column="8" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="1177" column="22" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="642" column="33" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="1042" column="26" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="1046" column="64" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="1154" column="44" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="627" column="13" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="673" column="56" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="864" column="38" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="886" column="8" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="898" column="24" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="1161" column="8" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="405" column="8" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="437" column="14" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="555" column="13" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="558" column="15" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="561" column="15" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="674" column="47" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="887" column="13" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="900" column="38" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="981" column="41" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="161" column="8" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="208" column="12" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="168" column="18" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="171" column="8" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="951" column="12" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="982" column="50" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="989" column="34" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="990" column="22" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="996" column="57" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="1036" column="27" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="1044" column="26" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="406" column="8" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="438" column="14" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="1143" column="8" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="182" column="8" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="997" column="0" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="998" column="52" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="1001" column="27" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="1002" column="27" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="439" column="14" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="390" column="43" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="172" column="22" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="183" column="22" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="309" column="37" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="175" column="19" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="188" column="22" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="314" column="37" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="58" column="29" filename="$USER_HOME$/projects/pysegbase/tests/pycut_test.py" />
-      <jump line="49" column="10" filename="$USER_HOME$/projects/pysegbase/tests/pycut_test.py" />
-      <jump line="191" column="8" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="241" column="45" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="172" column="32" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="188" column="24" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="316" column="37" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
       <jump line="86" column="8" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="81" column="37" filename="$USER_HOME$/projects/pysegbase/tests/pycut_test.py" />
+      <jump line="166" column="8" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="219" column="12" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="993" column="8" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="1060" column="8" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="912" column="24" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="1160" column="8" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="1162" column="8" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="913" column="24" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="1178" column="26" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="1064" column="8" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="961" column="15" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="1069" column="30" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="997" column="8" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="1180" column="26" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="687" column="26" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="1065" column="8" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="1185" column="26" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="1067" column="8" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="1187" column="26" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="688" column="26" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="1068" column="8" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="1188" column="26" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="1080" column="30" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="381" column="8" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="401" column="37" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="416" column="13" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="450" column="17" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="460" column="17" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="1182" column="8" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="922" column="24" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="588" column="45" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="385" column="32" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="33" column="28" filename="$USER_HOME$/projects/pysegbase/tests/pycut_test.py" />
+      <jump line="109" column="38" filename="$USER_HOME$/projects/pysegbase/tests/pycut_test.py" />
+      <jump line="19" column="58" filename="$USER_HOME$/projects/pysegbase/tests/pycut_test.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/projects/pysegbase/tests/pycut_test.py" />
+      <jump line="349" column="39" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="196" column="0" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="331" column="11" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="117" column="23" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="87" column="7" filename="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" />
+      <jump line="143" column="37" filename="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" />
+      <jump line="145" column="3" filename="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" />
+      <jump line="18" column="10" filename="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" />
+      <jump line="148" column="8" filename="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" />
+      <jump line="19" column="19" filename="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" />
+      <jump line="141" column="22" filename="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" />
+      <jump line="23" column="10" filename="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" />
+      <jump line="232" column="4" filename="$USER_HOME$/projects/lisa/mysetup.py" />
+      <jump line="451" column="17" filename="$USER_HOME$/projects/lisa/mysetup.py" />
+      <jump line="469" column="13" filename="$USER_HOME$/projects/lisa/mysetup.py" />
+      <jump line="471" column="14" filename="$USER_HOME$/projects/lisa/mysetup.py" />
+      <jump line="165" column="107" filename="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBlYXN5X2luc3RhbGwgU2ltcGxlSVRLIG1haG90YXMK</text>
+        <text encoding="base64">ICAgICAgICAjIHJlcXVpcmVkPVRydWUsCg==</text>
       </register>
-      <register name="-" type="4">
-        <text encoding="base64">Y29tbWVudHMg</text>
+      <register name="3" type="4">
+        <text>outputfile</text>
       </register>
-      <register name="/" type="4">
-        <text encoding="base64">XDxjcmVhdGVGVlw+</text>
-      </register>
-      <register name="0" type="4">
-        <text>[install notes](https://github.com/mjirik/lisa/blob/master/INSTALL.md)</text>
+      <register name="2" type="4">
+        <text>None</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBlYXN5X2luc3RhbGwgU2ltcGxlSVRLIG1haG90YXMK</text>
+        <text encoding="base64">ICAgICAgICAjIHJlcXVpcmVkPVRydWUsCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICMgcGFyc2VyLmFkZF9hcmd1bWVudCgKICAgICMgICAgICctaScsICctLWlucHV0ZmlsZScsCiAgICAjICAgICBkZWZhdWx0PU5vbmUsCiAgICAjICAgICByZXF1aXJlZD1UcnVlLAogICAgIyAgICAgaGVscD0naW5wdXQgZmlsZScKICAgICMgKQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">VXNlIFZpcnR1YWxCb3gKPT09PT09PT09PT09PT0KCiogSW5zdGFsbCBWaXJ0dWFsQm94IChodHRwczovL3d3dy52aXJ0dWFsYm94Lm9yZy8pCiogRG93bmxvYWQgTGlzYSBJbWFnZSAoaHR0cDovL3Vsb3oudG8veFU0b0hmS3cvbGlzYS11YnVudHUxNC0wNC12ZGkpCgpvciAKKiBEb3dubG9hZCBMaXNhIEltYWdlIChodHRwOi8vMTQ3LjIyOC4yNDAuNjEvcXVlZXRlY2gvaW5zdGFsbC9saXNhX3VidW50dTE0LjA0LnZkaSkKCkluIFZpcnR1YWxCb3gKCiogQ3JlYXRlIG5ldyBjb21wdXRlcgoKICAgICogTmFtZTogTGlzYQogICAgKiBUeXBlOiBMaW51eAogICAgKiBWZXJzaW9uOiBVYnVudHUgKDMyYml0KQogICAgCiogU2V0IG1lbW9yeSBzaXplIHRvIDEwMjRNQiBhbmQgbW9yZQoqIFVzZSBleGlzdGluZyBoYXJkIGRpc2sgYW5kIGxvY2F0ZSBkb3dubG9hZGVkIExpc2EgSW1hZ2UgKGxpc2FfdWJ1bnR1MTQuMDQudmRpKQoqIFBhc3N3b3JkIHRvIExpc2EgYWNjb3VudCBpczogTDF2M3IuCg==</text>
+      <register name="7" type="4">
+        <text>[::, :,:]</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">SW5zdGFsbCBNYWMgT1MgKExpc2EgdW50aWwgdmVyc2lvbiAxLjQpCj09PT09PT09PT09PT09CgogKiBYY29kZSwgZ2NjIGFuZCBtYWtlCgogICAgSW5zdGFsbCBYY29kZSBmcm9tIGFwcHN0b3JlLiBZb3Ugd2lsbCBuZWVkIGFuIEFwcGxlSUQuCiAgICBUaGVuIGFkZCB0ZXJtaW5hbCB0b29scyAoaHR0cDovL3N0YWNrb3ZlcmZsb3cuY29tL3F1ZXN0aW9ucy8xMDI2NTc0Mi9ob3ctdG8taW5zdGFsbC1tYWtlLWFuZC1nY2Mtb24tYS1tYWMpCiAgICAqIFN0YXJ0IFhDb2RlCiAgICAqIEdvIHRvIFhDb2RlL1ByZWZlcmVuY2VzLgogICAgKiBDbGljayB0aGUgIkRvd25sb2FkcyIgdGFiLgogICAgKiBDbGljayAiQ29tcG9uZW50cyIuCiAgICAqIENsaWNrICJJbnN0YWxsIiBvbiB0aGUgY29tbWFuZCBsaW5lIHRvb2xzIGxpbmUuCgoKICogTWFjUG9ydHMKCiAgICBVc2Ugc3RhbmRhcmQgcGtnIHBhY2thZ2UuIChodHRwOi8vd3d3Lm1hY3BvcnRzLm9yZy9pbnN0YWxsLnBocCkKICAgIAogICAgVGVzdGVkIG9uIFtPUyBYIDEwLjggTW91bnRhaW4gTGlvbiBpbnN0YWxsZXJdKGh0dHBzOi8vZGlzdGZpbGVzLm1hY3BvcnRzLm9yZy9NYWNQb3J0cy9NYWNQb3J0cy0yLjIuMS0xMC44LU1vdW50YWluTGlvbi5wa2cpCiAgICBhbmQgW09TWCAxMC45IE1hdmVyaWNrcyBpbnN0YWxsZXJdKGh0dHBzOi8vZGlzdGZpbGVzLm1hY3BvcnRzLm9yZy9NYWNQb3J0cy9NYWNQb3J0cy0yLjIuMS0xMC45LU1hdmVyaWNrcy5wa2cpCgoKICogR0lUCgogICAgVXNlIG1hYyBwb3J0cwoKICAgICAgICBzdWRvIHBvcnQgaW5zdGFsbCBnaXQtY29yZSArc3ZuICtkb2MgK2Jhc2hfY29tcGxldGlvbiArZ2l0d2ViCgogICAgVXNlIG1hYyBpbnN0YWxsZXIgIChodHRwOi8vZ2l0LXNjbS5jb20vZG93bmxvYWQvbWFjKQogICAgVGhlcmUgaXMgYSBuZWVkIHRvIGFsbG93IGluc3RhbGwgYXBwbGljYXRpb25zIGZyb20gdW5rbm93biBkZXZlbG9wZXJzCiAgICAoU2V0dGluZ3MgLSBTZWN1cml0eSAmIFByaXZhY3kgLSBHZW5lcmFsIC0gQWxsb3cgYXBwbGljYXRpb25zIGRvd25sb2FkZWQgZnJvbSkKCiAqIE51bXB5LCBTY2lweSwgLi4uCgpjCiAgICAgICAgc3VkbyBwb3J0IHNlbGZ1cGRhdGUKICAgICAgICBzdWRvIHBvcnQgdXBncmFkZSBvdXRkYXRlZAogICAgICAgIHN1ZG8gcG9ydCBpbnN0YWxsIHB5MjctcHlxdDQgcHkyNy1udW1weSBweTI3LXNjaXB5IHB5MjctbWF0cGxvdGxpYiBweTI3LWlweXRob24gK25vdGVib29rIHB5MjctcGFuZGFzIHB5Mjctc3ltcHkgcHkyNy1ub3NlICBweS1zY2lraXQtbGVhcm4gcHktcHlkaWNvbSBweTI3LXlhbWwgcHkyNy1jeXRob24gdnRrNSArcXQ0X21hYyArcHl0aG9uMjcgcHkyNy1kaXN0dXRpbHMtZXh0cmEKIAoKICogU2VsZWN0IGRlZmF1bHQgcHl0aG9uCgoKICAgICAgICBzdWRvIHBvcnQgc2VsZWN0IC0tc2V0IHB5dGhvbiBweXRob24yNwoKICogQ3l0aG9uIChtYXkgd29yayBmcm9tIHBvcnQpCgoKICAgICAgICBzdWRvIGVhc3lfaW5zdGFsbCBjeXRob24KICAgICAgICAKICAgIG9yCgogICAgICAgIHN1ZG8gLUUgZWFzeV9pbnN0YWxsIGN5dGhvbgoKICogZ2NvX3B5dGhvbgoKICAgIFRyeSB0aGlzCgogICAgICAgIGdpdCBjbG9uZSBodHRwczovL2dpdGh1Yi5jb20vYW11ZWxsZXIvZ2NvX3B5dGhvbi5naXQKICAgICAgICBjZCBnY29fcHl0aG9uCiAgICAgICAgbWFrZQogICAgICAgIHN1ZG8gLUUgcHl0aG9uIHNldHVwLnB5IGluc3RhbGwKCiAgICBvciB0aGlzCgogICAgU2VlIGluc3RhbGwgbm90ZXMgdG8gcHlzZWdfYmFzZSAoaHR0cHM6Ly9naXRodWIuY29tL21qaXJpay9weXNlZ19iYXNlL2Jsb2IvbWFzdGVyL0lOU1RBTEwpLgogICAgSWYgdGhlcmUgaXMgYSBwcm9ibGVtIHdpdGggY2xhbmcgY29tcGlsZXIsIHlvdSBhcmUgc2hvdWxkIGVkaXQgZ2NvIAogICAgc291cmNlIGZpbGVzIGFuZCBhZGQgInRoaXMtPiIgc3RyaW5nLiBBbHNvIHlvdSBjYW4gdXNlIHBhdGNoIGZyb20gcHlzZWdfYmFzZQoKICogc291cmNlIGZpbGVzCgoKICAgICAgICBnaXQgY2xvbmUgZ2l0QGdpdGh1Yi5jb206bWppcmlrL3B5c2VnX2Jhc2UuZ2l0CiAgICAgICAgZ2l0IHN1Ym1vZHVsZSB1cGRhdGUgLS1pbml0IC0tcmVjdXJzaXZlCgoKIyMjIEtub3duIHByb2JsZW1zIG9uIE1hYyBPUyAKCiAqIEN5dGhvbiBpbnN0YWxsYXRpb24gZmFpbAoKICAgICAgICBjb21tYW5kICdjYycgZmFpbGVkIHdpdGggZXhpdCBzdGF0dXMgMQogICAgICAgIAogICAgb3IKICAgIAogICAgICAgIGltcG9ydCBDeXRob24uRGlzdHV0aWxzCgogICAgSW5zdGFsbCBjeXRob24gd2l0aCBlYXN5X2luc3RhbGwgCiAgICAKICAgICAgICBzdWRvIC1FIGVhc3lfaW5zdGFsbCBjeXRob24KICAgIAogICAgCgoK</text>
+        <text encoding="base64">aW1wb3J0IHNlZDMK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ClRlc3RvdsOhbsOtIGZ1bmvEjW5vc3RpIHdpbmRvd3MgcG9tb2PDrSB3aW5lCj09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KCgogICAgc3VkbyBhcHQtZ2V0IGluc3RhbGwgd2luZQoKICAgIG1rZGlyIH4vdG1wL3dpbnB5dGhvbgoKICAgIHdnZXQgLVAgfi90bXAvd2lucHl0aG9uLyBodHRwOi8vbXN5c2dpdC5nb29nbGVjb2RlLmNvbS9maWxlcy9HaXQtMS44LjAtcHJldmlldzIwMTIxMDIyLmV4ZQoKIyBJbnN0YWxsIHdpdGggbGludXggdG9vbHMKICAgIHdpbmUgfi90bXAvd2lucHl0aG9uL0dpdC0xLjguMC1wcmV2aWV3MjAxMjEwMjIuZXhlCgoKTmV4dCwgTmV4dCwgTmV4dCwgRmluaXNoCiAgICB3Z2V0IC1QIH4vdG1wL3dpbnB5dGhvbi8gaHR0cDovL3d3dy5weXRob24ub3JnL2Z0cC9weXRob24vMi43LjMvcHl0aG9uLTIuNy4zLm1zaQogICAgd2luZSBtc2lleGVjIC9pIC9ob21lL21qaXJpay90bXAvd2lucHl0aG9uL3B5dGhvbi0yLjcuMy5tc2kKCiAgICB3Z2V0IC1QIH4vdG1wL3dpbnB5dGhvbi8gIGh0dHA6Ly93d3cuY21ha2Uub3JnL2ZpbGVzL3YyLjgvY21ha2UtMi44LjEwLjItd2luMzIteDg2LmV4ZQogICAgd2luZSB+L3RtcC93aW5weXRob24vY21ha2UtMi44LjEwLjItd2luMzIteDg2LmV4ZQoKQWRkIENNYWtlIHRvIHN5c3RlbSBQQVRIIGZvciBhbGwgdXNlcnMKCgpCYWzDrWt5IChudW1weSBhIHNjaXB5KSBsemUgesOtc2thZCB6IG7DoXNsZWR1asOtY8OtY2ggc3Ryw6FuZWssIAoKaHR0cDovL3d3dy5sZmQudWNpLmVkdS9+Z29obGtlL3B5dGhvbmxpYnMvCgogICAgClRlb3JldGlja3kgYnkgbW9obG8gasOtdCBzdMOhaG5vdXQgc291Ym9yeSBwxZllcyB3Z2V0LCBhbGUgb2LEjWFzIHNlIHptxJtuw60gCm7DoXpldiBzb3Vib3J1ICh6YSBuxJtqIHNlIHDFmWlkw6Egem5hayAnJCcpLCBuZWJvIHNlIHNvdWJvciBuZXN0w6FobmUgY2Vsw70KCiAgICB3Z2V0IC1QIH4vdG1wL3dpbnB5dGhvbi8gaHR0cDovL3d3dy5sZmQudWNpLmVkdS9+Z29obGtlL3B5dGhvbmxpYnMvejg2bXRrdGgvbnVtcHktTUtMLTEuNi4yLndpbjMyLXB5Mi43LmV4ZQogICAgd2dldCAtUCB+L3RtcC93aW5weXRob24vIGh0dHA6Ly93d3cubGZkLnVjaS5lZHUvfmdvaGxrZS9weXRob25saWJzL3o4Nm10a3RoL3NjaXB5LTAuMTEuMC53aW4zMi1weTIuNy5leGUKCgppbnN0YWxhY2UgcG9tb2PDrSBwaXAKCk5lanBydmUgcG90xZllYnVqZW1lIGRpc3RyaWJ1dGUgYSBwaXAKCiAgICB3Z2V0IC1QIH4vdG1wL3dpbnB5dGhvbi8gaHR0cDovL3B5dGhvbi1kaXN0cmlidXRlLm9yZy9kaXN0cmlidXRlX3NldHVwLnB5cAogICAgd2luZSBjOlxccHl0aG9uMjdcXHB5dGhvbiAvaG9tZS9tamlyaWsvdG1wL3dpbnB5dGhvbi9kaXN0cmlidXRlX3NldHVwLnB5CgoKCiAgICB3Z2V0IC1QIH4vdG1wL3dpbnB5dGhvbi8gaHR0cHM6Ly9yYXcuZ2l0aHViLmNvbS9weXBhL3BpcC9tYXN0ZXIvY29udHJpYi9nZXQtcGlwLnB5CiAgICB3aW5lIGM6XFxweXRob24yN1xccHl0aG9uIC9ob21lL21qaXJpay90bXAvd2lucHl0aG9uL2dldC1waXAucHkKCgpjeXRob24gbmFpbnN0YWx1amVtZSBwb21vY8OtIHBpcCwgbW/Fvm7DoSBieSB0YWsgxaFsbyBpbnN0YWxvdmF0IGkgbnVtcHkgYSBzY2lweQogICAgd2luZSBjbWQKICAgIGM6XFxweXRob24yN1xcc2NyaXB0c1xccGlwIGluc3RhbGwgY3l0aG9uCiAgICBjOlxccHl0aG9uMjdcXHNjcmlwdHNcXHBpcCBpbnN0YWxsIG1hdHBsb3RsaWIKICAgIGV4aXQKCmluc3RhbGFjZSBnY28KCiAgICB3Z2V0IC1QIH4vdG1wL3dpbnB5dGhvbi8gaHR0cDovL3Zpc2lvbi5jc2QudXdvLmNhL2NvZGUvZ2NvLXYzLjAuemlwCiAgICB1bnppcCAvaG9tZS9tamlyaWsvdG1wL3dpbnB5dGhvbi9nY28tdjMuMC56aXAgLWQvaG9tZS9tamlyaWsvdG1wL3dpbnB5dGhvbi9nY28vCgogICAgY2Qgfi90bXAvd2lucHl0aG9uLwogICAgd2luZSBjbWQKCmdpdCBjbG9uZSBweWNhdAoKCgo=</text>
+      <register name="5" type="4">
+        <text>inputfile</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">V2luZG93cyBJbnN0YWxsIC0gb2xkIHZlcnNpb24gaW4gY3plY2gKPT09PT09PT09PT09PT09PT0KCmh0dHA6Ly93d3cubGZkLnVjaS5lZHUvfmdvaGxrZS9weXRob25saWJzLwoKMS4gUHl0aG9uICgqKQoyLiBOdW1weSAobXVzaSBieXQgbmFpbnN0YWxvdmFuIGRyaXZlIG5leiBTY2lweSkgKCopCjMuIFNjaXB5IChtdXNpIGJ5dCBuYWluc3RhbG92YW4gcG8gTnVtcHkpICgqKQoKKikgUG96bmFta3k6CglKZSBwb3RyZWJhIHBvem9ybmUgdm9saXQgNjQvMzIgYml0IGtuaWhvdm55IGEgbmV6YW1lbm92YXQgamUuIFB5dGhvbiwgaSBrbmlob3ZueSBtdXNlamkgYnl0IGplbiA2NCBiaXQgbmVibyBqZW4gMzIgYml0LiBEb3BvcnVjdWplbWUgdXppdmF0IE51bXB5IE1LTC4gSnNvdSB0byB2eXBvY2V0bmkgb3B0aW1hbGl6YWNlLCBrdGVyZSBwb3pkZWppIHBvemFkdWppY2kgbmF2YXp1amljaSBiYWxpa3kuCgpFcnJvcnk6CgoxLiBWIHByaXBhZGUgemF2YXpuZWpzaWNoIHByb2JsZW11ICh0em4uIG5lZnVua2Nub3N0KSAJdnltYXphdCBkYW5lIHZlcnplIFB5dGhvbnUsIE51bXB5IGEgU2NpcHkgYSBwcmVpbnN0YWxvdmF0IAlqZS4KMi4gUmVzaXQgbmEgc3RyYW5rYWNoIHZ5cm9iY2Ugc29mdHdhcnUuCgpEb2RhdGVjbmUgaW5zdGFsYWNlOgoKMS4gbWF0cGxvdGxpYgogICAgTmF2b2QgamUgemRlOiAoaHR0cDovL21hdHBsb3RsaWIub3JnL3VzZXJzL2luc3RhbGxpbmcuaHRtbCkKICAgIE1lbG8gYnkgc3RhY2l0IHplIHN0cmFua3kgKGh0dHA6Ly9zb3VyY2Vmb3JnZS5uZXQvcHJvamVjdHMvbWF0cGxvdGxpYi9maWxlcy8pCiAgICB2ZSBzbG96Y2UgIm1hdHBsb3RsaWIiIHN0YWhub3V0IHByaXNsdXNub3UgdmVyemkgbWF0cGxvdGxpYiBhIG5haW5zdGFsb3ZhdCBwbyBuYWluc3RhbG92YW5pIE51bXB5IGEgU2NpcHkuCgoKZ2NvX3B5dGhvbiB2IHNlZG1pIHNuYWRuw71jaCBrcm9jw61jaAotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQoKb3bEm8WZZW5vIHBybyBweXRob24gMi43IDMyICAgCgoxKSBQeXRob24gMi43IHBybyAzMi1iaXQgYXJjaGl0ZWt0dXJ1CgoyKSBaZHJvam92w6kga8OzZHkKClYgesOhc2FkxJsgamUgcG90xZllYmEgbcOtdCB6ZHJvam92w6kga8OzZHkgZ2NvIGEgZ2NvX3B5dGhvbi4gIAogICAgCiAgKiBnY29fcHl0aG9uIChodHRwczovL2dpdGh1Yi5jb20vYW11ZWxsZXIvZ2NvX3B5dGhvbi9hcmNoaXZlL21hc3Rlci56aXApCiAgKiBnY28gKGh0dHA6Ly92aXNpb24uY3NkLnV3by5jYS9jb2RlL2djby12My4wLnppcCkKCkdjbyBzZSBub3Jtw6FsbsSbIHDFmWVrbMOhZMOhIHBvbW9jw60gbWF0bGFidS4gTXkgdG8gdWTEm2zDoW1lIGppbmFrLgpaZHJvam92w6kga8OzZHkgdXNwb8WZw6FkZWptZSB0YWssIMW+ZSBidWRlIGFkcmVzw6HFmSBnY29fcHl0aG9uIHNlIHpkcm9qb3bDvW1pIAprw7NkeSBnY29fcHl0aG9uIGEgdiBuxJttIGJ1ZGUgYWRyZXPDocWZIGdjb19zcmMgcyBrw7NkeSBnY28uCgozKSBQxZlla2xhZGHEjQoKUGF0cm7EmyBsemUgcG91xb7DrXQgamFrw71rb2xpdiwgYWxlIG3EmyB0byAocG8gbW5vaGEgcHJvYmzDqW1lY2gpIGZ1bmdvdmFsbyBzIAozMi1iaXRvdsO9bSBtaW5ndwoKNCkgTW9kdWx5IFB5dGhvbnUKCk11c8OtIHNlIGplZG5hdCBvIHDFmcOtc2x1xaFuw6kgdmVyemUgLSAzMmJpdAogICAgCm51bXB5IHNjaXB5IHNjaWtpdC1sZWFybiBtYXRwbG90bGliIGN5dGhvbiBweWRpY29tIHB5eWFtbAoKbHplIG5haW5zdGFsb3ZhdCBwb21vY8OtIHBpcDoKCiAgICBwaXAgaW5zdGFsbCBudW1weSBzY2lweSBzY2lraXQtbGVhcm4gbWF0cGxvdGxpYiBjeXRob24gcHlkaWNvbSBweXlhbWwKCjUpIE9wcmF2YSBrb25maWd1cmHEjW7DrWhvIHNvdWJvcnUgdiBQeXRob251CiAgICBWIGtvbmZpZ3VyYcSNbsOtbSBzb3Vib3J1IGplIHZvbMOhbsOtIGdjYyBzZSB6YXN0YXJhbMO9bSBwYXJhbWV0cmVtIC1tbm8tY3lnd2luLgogICAgSmUgcG90xZllYmEgb2RzdHJhbml0IHbFoWVjaG55IHbDvXNreXR5IHRvaG90byBzbG92YSB6IGtvbmZpZ3VyYcSNbsOtaG8gc291Ym9ydToKCiAgICAiQzpcUHl0aG9uMjdcTGliXGRpc3R1dGlsc1xjeWd3aW5jY29tcGlsZXIucHkiCgo2KSBLb21waWxhY2UKClbFoWVjaG55IG7DoXNsZWR1asOtY8OtIHDFmcOta2F6eSBzcG91xaF0w61tZSB2IGFkcmVzw6HFmWkgZ2NvX3B5dGhvbiBzIHB5dGhvbmVtIDI3CiAgICAKUMWZZWtsYWQgZ2NvX3NyYyBzIHDFmWVrbGFkYcSNZW0gbWluZ3cKCiAgICBweXRob24uZXhlIHNldHVwLnB5IGJ1aWxkX2V4dCAtaSAtLWNvbXBpbGVyPW1pbmd3MzIKClZ5dHZvxZllbsOtIGtuaWhvdmVuIHogZ2NvX3B5dGhvbgoKICAgIHB5dGhvbi5leGUgc2V0dXAucHkgYnVpbGQgLS1jb21waWxlcj1taW5ndzMyCiAgICBweXRob24uZXhlIHNldHVwLnB5IGluc3RhbGwgLS1za2lwLWJ1aWxkCgpuYWtvcMOtcm92w6Fuw60ga25paG92ZW4gbmEgcMWZw61zbHXFoW7DoSBtw61zdGEuIE9kIHRlxI8gcMWvamRlIGtuaWhvdm5hIGdjb19weXRob24gCnZvbGF0IHogamFrw6lob2tvbGl2IHB5dGhvbiBza3JpcHR1LgoKNykgT3bEm8WZZW7DrQoKICAgIHB5dGhvbiBleGFtcGxlLnB5CgpWw71zbGVkZWsgYnkgc2UgbcSbbCBwb2RvYmF0IG9icsOhemvFr20gbmEgYWRyZXNlOgogICAgaHR0cDovL3BlZWthYm9vLXZpc2lvbi5ibG9nc3BvdC5jei8yMDEyLzA1L2dyYXBoY3V0cy1mb3ItcHl0aG9uLXB5Z2NvLmh0bWwKICAgIAoKbmFpbnN0YWxvdmF0IG1pbmd3Cgo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">SW5zdGFsbCBXaW5kb3dzIHdpdGggUHl0aG9uWFkKPT09PT09PT09PT09PT09PT09PT09PQoKCiogUHl0aG9uIFhZIChodHRwOi8vY29kZS5nb29nbGUuY29tL3AvcHl0aG9ueHkvKQoKICAgIEFkZCBhbGwgcGFja2FnZXMuCgoqIEdpdCAoaHR0cDovL3d3dy5naXQtc2NtLmNvbS9kb3dubG9hZC93aW4pCgogICAgU2VsZWN0ICJSdW4gR2l0IGZyb20gdGhlIFdpbmRvd3MgQ29tbWFuZCBQcm9tcHQiIG9yICJSdW4gR2l0IGFuZCBpbmNsdWRlZCBVbml4IHRvb2xzIGZyb20gdGhlIFdpbmRvd3MgQ29tbWFuZCBQcm9tcHQiCiogZ2NvX3B5dGhvbgogICAgCiAgICBGYWxsb3dpbmcgbGluZXMgZG93bmxvYWRzIGdjbyBhbmQgZ2NvX3B5dGhvbi4gVGhlbiBpdCBtYWtlcyBidWlsZCB3aXRoIG1pbmd3IGNvbXBpbGVyIGFuZCBpbnN0YWxsLiAKCgogICAgICAgIGdpdCBjbG9uZSBodHRwczovL2dpdGh1Yi5jb20vYW11ZWxsZXIvZ2NvX3B5dGhvbi5naXQKICAgICAgICBjZCBnY29fcHl0aG9uCiAgICAgICAgbWtkaXIgZ2NvX3NyYyAmJiBjZCBnY29fc3JjCiAgICAgICAgY3VybCAtTyBodHRwOi8vdmlzaW9uLmNzZC51d28uY2EvY29kZS9nY28tdjMuMC56aXAKICAgICAgICB1bnppcCBnY28tdjMuMC56aXAKICAgICAgICBjZCAuLgogICAgICAgIGN1cmwgLU8gaHR0cHM6Ly9yYXcyLmdpdGh1Yi5jb20vbWppcmlrL3B5c2VnX2Jhc2UvbWFzdGVyL2Rpc3RyL2djb19weXRob24ucHl4LnBhdGNoCiAgICAgICAgcGF0Y2ggZ2NvX3B5dGhvbi5weXggPCBnY29fcHl0aG9uLnB5eC5wYXRjaAogICAgICAgIHB5dGhvbiBzZXR1cC5weSBidWlsZF9leHQgLWkgLS1jb21waWxlcj1taW5ndzMyCiAgICAgICAgcHl0aG9uLmV4ZSBzZXR1cC5weSBidWlsZCAtLWNvbXBpbGVyPW1pbmd3MzIKICAgICAgICBweXRob24uZXhlIHNldHVwLnB5IGluc3RhbGwgLS1za2lwLWJ1aWxkCiAgICAgICAgCiogR2V0IHJlcXVlc3RlZCBtb2R1bGVzCgogICAgICAgIHBpcCBpbnN0YWxsIHB5c2VnYmFzZSBkaWNvbTJmZW0gc2VkMwoKUHJvYmxlbXMgb24gV2luZG93czoKCiogQ3l0aG9uIG5vdCBmb3VuZC4gSW5zdGFsbCBjeXRob24gZnJvbSBodHRwczovL2NvZGUuZ29vZ2xlLmNvbS9wL3B5dGhvbnh5L3dpa2kvRG93bmxvYWRzI1BsdWdpbl91cGRhdGVzCiogVW5pY29kZURlY29kZUVycm9yOiAnYXNjaWknIGNvZGVjIGNhbid0IGRlY29kZSBieXRlIDB4ODIgaW4gcG9zaXRpb24gMDogb3JkaW5hbApub3QgaW4gcmFuZ2UoMTI4KQoKICAgIFlvdSBjYW4gZWl0aGVyIGZpbmQgYW5kIHJlbW92ZSB0aGUgb2ZmZW5kaW5nIGZvbnQgKHRoZSBiZXN0IGlkZWEpIG9yIHRyeSB0byBwYXRjaCB5b3VyIGluc3RhbGxhdGlvbiB1c2luZyB0aGUgZm9sbG93aW5nIHByb2NlZHVyZToKCiAgICAqIE9wZW4gdGhlIGZvbGxvd2luZyBpbiBhIHRleHQgZWRpdG9yOgoKICAgICAgICAgICAgXFVzZXJzXGRhZm9uc2VjYVxBcHBEYXRhXExvY2FsXEVudGhvdWdodFxDYW5vcHlcVXNlclxsaWJcc2l0ZS0gcGFja2FnZXNcbWF0cGxvdGxpYlxmb250X21hbmFnZXIucHkKCiAgICAqIFNlYXJjaCBmb3IKICAgIAogICAgICAgICAgICBzZm50NCA9IHNmbnQ0LmRlY29kZSgnYXNjaWknKS5sb3dlcigpCiAgICAgICAgICAgIAogICAgKiBBbmQgcmVwbGFjZSB3aXRoIAogICAgCiAgICAgICAgICAgIHNmbnQ0ID0gc2ZudDQuZGVjb2RlKCdhc2NpaScsICdpZ25vcmUnKS5sb3dlcigpCgogICAgTm90ZSB0aGF0IHRoaXMgYnVnIHdvbid0IGV4aXN0IGluIHRoZSBuZXh0IHJlbGVhc2Ugb2YgbWF0cGxvdGxpYi4KCiAgICBGb3IgbW9yZSBpbmZvcm1hdGlvbiBzZWU6IGh0dHA6Ly9zdGFja292ZXJmbG93LmNvbS9xdWVzdGlvbnMvMTg2ODk4NTQvZW50aG91Z2h0LW1hdHBsb3RsaWItcHJvYmxlbXMtd2l0aC1wbG90LWZ1bmN0aW9uCgoKCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">aW5wdXQg</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
+      <register name="9" type="4">
+        <text>data3d</text>
+      </register>
+      <register name="8" type="4">
+        <text>[::, :, :]</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxnZXRfc2FtcGxlX2RhdGFcPg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>None</text>
+      </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjcmVhdGVGVlw+</last-search>
+      <last-search encoding="base64">XDxnZXRfc2FtcGxlX2RhdGFcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjcmVhdGVGVlw+</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRfc2FtcGxlX2RhdGFcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>mdl</entry>
-        <entry encoding="base64">XDxtZGxcPg==</entry>
-        <entry encoding="base64">XDxfX3NpbWlsYXJpdHlfZm9yX3RsaW5rc19vYmpfYmdyXD4=</entry>
+        <entry encoding="base64">XDxhY3R1YWxfdm94ZWxzaXplXD4=</entry>
+        <entry encoding="base64">XDx2b3hlbHNpemVcPg==</entry>
+        <entry encoding="base64">XDx2dGZpbGVcPg==</entry>
+        <entry encoding="base64">XDxvdXRcPg==</entry>
+        <entry encoding="base64">XDxpbnRlcmFjdGl2aXR5XD4=</entry>
+        <entry encoding="base64">XDxwYWNrYWdlX2Rpclw+</entry>
+        <entry>time</entry>
+        <entry>build</entry>
+        <entry>QuantA</entry>
+        <entry>Quan</entry>
+        <entry>quanta</entry>
+        <entry encoding="base64">XDxxdWFudGFuXD4=</entry>
+        <entry encoding="base64">XDxkYXRhM2RcPg==</entry>
+        <entry>config</entry>
         <entry encoding="base64">XDxfX2NyZWF0ZV90bGlua3NcPg==</entry>
-        <entry encoding="base64">XDxfX2NyZWF0ZV9ubGlua3NcPg==</entry>
-        <entry encoding="base64">XDx2b3hlbHMxXD4=</entry>
-        <entry encoding="base64">XDx0cmFpbkZyb21JbWFnZUFuZFNlZWRzXD4=</entry>
-        <entry encoding="base64">XDx0cmFpbkZyb21Tb21ldGhpbmdcPg==</entry>
-        <entry>voxels</entry>
-        <entry>self.voxels</entry>
+        <entry encoding="base64">XDxfX3NpbWlsYXJpdHlfZm9yX3RsaW5rc19vYmpfYmdyXD4=</entry>
+        <entry>seeds</entry>
+        <entry encoding="base64">XDxzZXRfc2VlZHNcPg==</entry>
         <entry encoding="base64">XDxzZXRfZGF0YVw+</entry>
-        <entry>self.voxels1</entry>
-        <entry>multi</entry>
-        <entry>multiscale</entry>
-        <entry encoding="base64">XDx0cmFpblw+</entry>
-        <entry encoding="base64">XDxjcmVhdGVGVlw+</entry>
+        <entry encoding="base64">XDxnZXRfc2FtcGxlX2RhdGFcPg==</entry>
       </history-search>
       <history-cmd>
+        <entry>e</entry>
+        <entry>98</entry>
+        <entry>124</entry>
+        <entry>230</entry>
+        <entry>416</entry>
+        <entry>709</entry>
+        <entry>551</entry>
+        <entry>588</entry>
+        <entry>wq</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -262,12 +640,6 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed W</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed O</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed U</text>
@@ -279,16 +651,28 @@
         <text>ctrl pressed A</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
-        <text>ctrl pressed B</text>
+        <text>ctrl pressed OPEN_BRACKET</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed X</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed Q</text>
@@ -297,7 +681,13 @@
         <text>ctrl pressed H</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed C</text>
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed T</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
