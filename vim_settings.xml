@@ -103,12 +103,12 @@
         <mark key="." line="42" column="12" />
         <mark key="[" line="41" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/pysegbase/tests/pycut_test.py" timestamp="1448528976250">
-        <mark key="'" line="33" column="28" />
-        <mark key="]" line="109" column="38" />
-        <mark key="^" line="109" column="49" />
-        <mark key="." line="109" column="38" />
-        <mark key="[" line="109" column="38" />
+      <file name="$USER_HOME$/projects/pysegbase/tests/pycut_test.py" timestamp="1448529399511">
+        <mark key="'" line="9" column="0" />
+        <mark key="]" line="19" column="55" />
+        <mark key="^" line="19" column="55" />
+        <mark key="." line="27" column="56" />
+        <mark key="[" line="19" column="0" />
       </file>
       <file name="$USER_HOME$/projects/quanta/quanta/__main__.py" timestamp="1446549342592">
         <mark key="]" line="1" column="12" />
@@ -444,6 +444,9 @@
         <mark key="." line="109" column="20" />
         <mark key="[" line="107" column="37" />
       </file>
+      <file name="vim_settings.xml" timestamp="1448529046036">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/lisa/.ropeproject/config.py" timestamp="1448371468408">
         <mark key="]" line="1" column="23" />
         <mark key="." line="0" column="0" />
@@ -489,6 +492,8 @@
       <jump line="385" column="32" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
       <jump line="33" column="28" filename="$USER_HOME$/projects/pysegbase/tests/pycut_test.py" />
       <jump line="109" column="38" filename="$USER_HOME$/projects/pysegbase/tests/pycut_test.py" />
+      <jump line="19" column="58" filename="$USER_HOME$/projects/pysegbase/tests/pycut_test.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/projects/pysegbase/tests/pycut_test.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -614,7 +619,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed O</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed W</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
