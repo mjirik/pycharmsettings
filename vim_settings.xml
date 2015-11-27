@@ -342,14 +342,14 @@
         <mark key="^" line="58" column="115" />
         <mark key="." line="58" column="115" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" timestamp="1448571518442">
-        <mark key="a" line="158" column="3" />
-        <mark key="r" line="124" column="22" />
-        <mark key="'" line="167" column="107" />
-        <mark key="[" line="61" column="21" />
-        <mark key="]" line="61" column="21" />
-        <mark key="^" line="62" column="30" />
-        <mark key="." line="61" column="21" />
+      <file name="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" timestamp="1448638494445">
+        <mark key="a" line="155" column="3" />
+        <mark key="r" line="122" column="22" />
+        <mark key="'" line="198" column="32" />
+        <mark key="[" line="139" column="0" />
+        <mark key="]" line="139" column="0" />
+        <mark key="^" line="20" column="15" />
+        <mark key="." line="139" column="0" />
       </file>
       <file name="$USER_HOME$/projects/lisa/docs/index.rst" timestamp="1444650684200">
         <mark key="[" line="6" column="31" />
@@ -458,7 +458,6 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/INSTALL.md" timestamp="1448570601058" />
       <file name="$USER_HOME$/projects/io3d/io3d/__init__.py" timestamp="1446814722799">
         <mark key="[" line="7" column="22" />
         <mark key="]" line="7" column="27" />
@@ -573,13 +572,14 @@
       <jump line="469" column="13" filename="$USER_HOME$/projects/lisa/mysetup.py" />
       <jump line="471" column="14" filename="$USER_HOME$/projects/lisa/mysetup.py" />
       <jump line="165" column="107" filename="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" />
+      <jump line="201" column="32" filename="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCAic2hhcGUgcHJlZGljdCAiLCBmdi5zaGFwZSwK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">bGlzYSA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRfc2FtcGxlX2RhdGFcPg==</text>
@@ -587,32 +587,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICMgcGFyc2VyLmFkZF9hcmd1bWVudCgKICAgICMgICAgICctaScsICctLWlucHV0ZmlsZScsCiAgICAjICAgICBkZWZhdWx0PU5vbmUsCiAgICAjICAgICByZXF1aXJlZD1UcnVlLAogICAgIyAgICAgaGVscD0naW5wdXQgZmlsZScKICAgICMgKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCAic2hhcGUgcHJlZGljdCAiLCBmdi5zaGFwZSwK</text>
       </register>
-      <register name="2" type="4">
-        <text>,</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCAicHJlZGljdCAiLCBwcmVkLnNoYXBlLAo=</text>
       </register>
-      <register name="3" type="4">
-        <text>e</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCAic2hhcGUgcHJlZGljdCAiLCBmdi5zaGFwZSwK</text>
       </register>
       <register name="4" type="4">
-        <text>n</text>
+        <text encoding="base64">bGlzYSA=</text>
       </register>
       <register name="5" type="4">
-        <text>o</text>
+        <text encoding="base64">ZnJvbSA=</text>
       </register>
       <register name="6" type="4">
-        <text>N</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="7" type="4">
-        <text>=</text>
+        <text>,</text>
       </register>
       <register name="8" type="4">
-        <text>feature_function</text>
+        <text>e</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIHJlcXVpcmVkPVRydWUsCg==</text>
+      <register name="9" type="4">
+        <text>n</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
