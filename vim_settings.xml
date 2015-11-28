@@ -43,7 +43,7 @@
         <mark key="^" line="88" column="52" />
         <mark key="." line="88" column="52" />
       </file>
-      <file name="/a.dummy" timestamp="1448571521334">
+      <file name="/a.dummy" timestamp="1448743929439">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -218,8 +218,11 @@
       <file name="/" timestamp="1444651185024">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/body_navigation.py" timestamp="1448742647871">
-        <mark key="[" line="130" column="59" />
+      <file name="$USER_HOME$/projects/lisa/lisa/body_navigation.py" timestamp="1448743751912">
+        <mark key="[" line="138" column="14" />
+        <mark key="]" line="138" column="24" />
+        <mark key="^" line="138" column="24" />
+        <mark key="." line="138" column="24" />
       </file>
       <file name="$USER_HOME$/projects/lisa/installer.bat" timestamp="1448389020321">
         <mark key="[" line="5" column="35" />
@@ -333,14 +336,14 @@
         <mark key="^" line="58" column="115" />
         <mark key="." line="58" column="115" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" timestamp="1448638494445">
-        <mark key="a" line="155" column="3" />
-        <mark key="r" line="122" column="22" />
-        <mark key="'" line="198" column="32" />
-        <mark key="[" line="139" column="0" />
-        <mark key="]" line="139" column="0" />
-        <mark key="^" line="20" column="15" />
-        <mark key="." line="139" column="0" />
+      <file name="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" timestamp="1448743569784">
+        <mark key="a" line="156" column="3" />
+        <mark key="r" line="123" column="22" />
+        <mark key="'" line="199" column="32" />
+        <mark key="[" line="74" column="54" />
+        <mark key="]" line="74" column="55" />
+        <mark key="^" line="54" column="49" />
+        <mark key="." line="74" column="55" />
       </file>
       <file name="$USER_HOME$/projects/lisa/docs/index.rst" timestamp="1444650684200">
         <mark key="[" line="6" column="31" />
@@ -412,6 +415,9 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="92" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1448743929429">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/viewer.py" timestamp="1444650851289">
         <mark key="[" line="79" column="48" />
@@ -566,44 +572,44 @@
       <jump line="201" column="32" filename="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAic2hhcGUgcHJlZGljdCAiLCBmdi5zaGFwZSwK</text>
+      <register name="&quot;" type="4">
+        <text>coronal</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bGlzYSA=</text>
+        <text>coronal</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRfc2FtcGxlX2RhdGFcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICMgcGFyc2VyLmFkZF9hcmd1bWVudCgKICAgICMgICAgICctaScsICctLWlucHV0ZmlsZScsCiAgICAjICAgICBkZWZhdWx0PU5vbmUsCiAgICAjICAgICByZXF1aXJlZD1UcnVlLAogICAgIyAgICAgaGVscD0naW5wdXQgZmlsZScKICAgICMgKQo=</text>
+        <text encoding="base64">ICAgICAgICBmZDQgPSBzcy5kaXN0X2Nvcm9uYWwoKS5yZXNoYXBlKC0xLCAxKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAic2hhcGUgcHJlZGljdCAiLCBmdi5zaGFwZSwK</text>
+      <register name="1" type="4">
+        <text>coronal</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAicHJlZGljdCAiLCBwcmVkLnNoYXBlLAo=</text>
+      <register name="2" type="4">
+        <text>]</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAic2hhcGUgcHJlZGljdCAiLCBmdi5zaGFwZSwK</text>
+      <register name="3" type="4">
+        <text>1</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">bGlzYSA=</text>
+        <text>[</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">ZnJvbSA=</text>
+        <text>spine_mean</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+        <text>l</text>
       </register>
       <register name="7" type="4">
-        <text>,</text>
+        <text>r</text>
       </register>
       <register name="8" type="4">
-        <text>e</text>
+        <text>l</text>
       </register>
       <register name="9" type="4">
-        <text>n</text>
+        <text>r</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -636,6 +642,7 @@
         <entry encoding="base64">XDxjcmVhdGVGVlw+</entry>
       </history-search>
       <history-cmd>
+        <entry>e</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
