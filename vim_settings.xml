@@ -90,13 +90,15 @@
         <mark key="^" line="155" column="15" />
         <mark key="." line="155" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1448812101342">
-        <mark key="a" line="1176" column="0" />
-        <mark key="'" line="1173" column="0" />
-        <mark key="[" line="1173" column="58" />
-        <mark key="]" line="1175" column="35" />
-        <mark key="^" line="1175" column="35" />
-        <mark key="." line="1175" column="35" />
+      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1448814554967">
+        <mark key="a" line="1175" column="0" />
+        <mark key="b" line="907" column="38" />
+        <mark key="c" line="164" column="18" />
+        <mark key="'" line="166" column="22" />
+        <mark key="[" line="320" column="25" />
+        <mark key="]" line="312" column="22" />
+        <mark key="^" line="312" column="22" />
+        <mark key="." line="312" column="22" />
       </file>
       <file name="$USER_HOME$/projects/lisa/.ropeproject/config.py" timestamp="1448371468408">
         <mark key="[" line="0" column="0" />
@@ -562,43 +564,54 @@
       <jump line="471" column="14" filename="$USER_HOME$/projects/lisa/mysetup.py" />
       <jump line="165" column="107" filename="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" />
       <jump line="1173" column="0" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="906" column="38" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="1174" column="0" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="909" column="21" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="920" column="47" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="1163" column="51" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="907" column="42" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="249" column="33" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="312" column="8" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="163" column="0" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="164" column="30" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="166" column="22" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHNsaXZlcl9ldmFsdWF0aW9uID0gc2xpdmVyX3Njb3JlX29uZV9jb3VwbGUoCiAgICAgICAgZXZhbHVhdGlvbiwKICAgICAgICBrZXlzPVsKICAgICAgICAgICAgJ3NsaXZlcl92ZF9wdHMnLAogICAgICAgICAgICAnc2xpdmVyX3ZvZV9wdHMnLAogICAgICAgICAgICAnc2xpdmVyX2F2Z2RfcHRzJywKICAgICAgICAgICAgJ3NsaXZlcl9ybXNkX3B0cycsCiAgICAgICAgICAgICdzbGl2ZXJfbWF4ZF9wdHMnCiAgICAgICAgXSkKICAgIG92ZXJhbGwgPSBzbGl2ZXJfb3ZlcmFsbF9zY29yZV9mb3Jfb25lX2NvdXBsZShzbGl2ZXJfZXZhbHVhdGlvbikKCiAgICBldmFsdWF0aW9uLnVwZGF0ZShzbGl2ZXJfZXZhbHVhdGlvbikKICAgIGV2YWx1YXRpb25bJ3NsaXZlcl9vdmVyYWxsX3B0cyddID0gb3ZlcmFsbAo=</text>
+      <register name="&quot;" type="4">
+        <text>self</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>self</text>
       </register>
       <register name="/" type="4">
-        <text>hook</text>
+        <text>pycut</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGVmIGNvbXBhcmVfdm9sdW1lcyh2b2wxLCB2b2wyLCB2b3hlbHNpemVfbW0sIHVzZV9sb2dnZXI9RmFsc2UpOgo=</text>
+        <text encoding="base64">ICAgICAgICBvc2VnX3BhcmFtcy5wb3AoJ3NlbGYnKQo=</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text>self</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgIHNsaXZlcl9ldmFsdWF0aW9uID0gc2xpdmVyX3Njb3JlX29uZV9jb3VwbGUoCiAgICAgICAgZXZhbHVhdGlvbiwKICAgICAgICBrZXlzPVsKICAgICAgICAgICAgJ3NsaXZlcl92ZF9wdHMnLAogICAgICAgICAgICAnc2xpdmVyX3ZvZV9wdHMnLAogICAgICAgICAgICAnc2xpdmVyX2F2Z2RfcHRzJywKICAgICAgICAgICAgJ3NsaXZlcl9ybXNkX3B0cycsCiAgICAgICAgICAgICdzbGl2ZXJfbWF4ZF9wdHMnCiAgICAgICAgXSkKICAgIG92ZXJhbGwgPSBzbGl2ZXJfb3ZlcmFsbF9zY29yZV9mb3Jfb25lX2NvdXBsZShzbGl2ZXJfZXZhbHVhdGlvbikKCiAgICBldmFsdWF0aW9uLnVwZGF0ZShzbGl2ZXJfZXZhbHVhdGlvbikKICAgIGV2YWx1YXRpb25bJ3NsaXZlcl9vdmVyYWxsX3B0cyddID0gb3ZlcmFsbAo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>False</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ZGVmIA==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ZGVmIGMK</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="7" type="4">
-        <text>,</text>
-      </register>
       <register name="8" type="4">
-        <text>score</text>
+        <text>,</text>
       </register>
       <register name="9" type="4">
         <text>score</text>
@@ -608,15 +621,14 @@
       </register>
     </registers>
     <search>
-      <last-search>hook</last-search>
+      <last-search>pycut</last-search>
       <last-offset />
-      <last-pattern>hook</last-pattern>
+      <last-pattern>pycut</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>mdl</entry>
         <entry encoding="base64">XDxtZGxcPg==</entry>
         <entry encoding="base64">XDxfX3NpbWlsYXJpdHlfZm9yX3RsaW5rc19vYmpfYmdyXD4=</entry>
         <entry encoding="base64">XDxfX2NyZWF0ZV90bGlua3NcPg==</entry>
@@ -633,6 +645,10 @@
         <entry encoding="base64">XDx0cmFpblw+</entry>
         <entry encoding="base64">XDxjcmVhdGVGVlw+</entry>
         <entry>hook</entry>
+        <entry encoding="base64">XDxvcmdhbl9pbnRlcmFjdGl2aXR5X2NvdW50ZXJcPg==</entry>
+        <entry encoding="base64">XDxvc2VnX2lucHV0X3BhcmFtc1w+</entry>
+        <entry encoding="base64">XDxfX2NsZWFuX29zZWdfaW5wdXRfcGFyYW1zXD4=</entry>
+        <entry>pycut</entry>
       </history-search>
       <history-cmd>
         <entry>e</entry>
