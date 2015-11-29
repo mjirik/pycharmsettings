@@ -90,13 +90,13 @@
         <mark key="^" line="155" column="15" />
         <mark key="." line="155" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1448785535929">
-        <mark key="a" line="1280" column="30" />
-        <mark key="'" line="1280" column="30" />
-        <mark key="[" line="413" column="57" />
-        <mark key="]" line="413" column="63" />
-        <mark key="^" line="413" column="63" />
-        <mark key="." line="413" column="63" />
+      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1448812101342">
+        <mark key="a" line="1176" column="0" />
+        <mark key="'" line="1173" column="0" />
+        <mark key="[" line="1173" column="58" />
+        <mark key="]" line="1175" column="35" />
+        <mark key="^" line="1175" column="35" />
+        <mark key="." line="1175" column="35" />
       </file>
       <file name="$USER_HOME$/projects/lisa/.ropeproject/config.py" timestamp="1448371468408">
         <mark key="[" line="0" column="0" />
@@ -561,6 +561,7 @@
       <jump line="469" column="13" filename="$USER_HOME$/projects/lisa/mysetup.py" />
       <jump line="471" column="14" filename="$USER_HOME$/projects/lisa/mysetup.py" />
       <jump line="165" column="107" filename="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" />
+      <jump line="1173" column="0" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -570,7 +571,7 @@
         <text>=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRfc2FtcGxlX2RhdGFcPg==</text>
+        <text>hook</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZGVmIGNvbXBhcmVfdm9sdW1lcyh2b2wxLCB2b2wyLCB2b3hlbHNpemVfbW0sIHVzZV9sb2dnZXI9RmFsc2UpOgo=</text>
@@ -607,9 +608,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRfc2FtcGxlX2RhdGFcPg==</last-search>
+      <last-search>hook</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRfc2FtcGxlX2RhdGFcPg==</last-pattern>
+      <last-pattern>hook</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -631,6 +632,7 @@
         <entry>multiscale</entry>
         <entry encoding="base64">XDx0cmFpblw+</entry>
         <entry encoding="base64">XDxjcmVhdGVGVlw+</entry>
+        <entry>hook</entry>
       </history-search>
       <history-cmd>
         <entry>e</entry>
