@@ -217,6 +217,7 @@
         <entry key="libgcc" value="4.8.5" />
         <entry key="libgdal" value="2.0.0" />
         <entry key="libgfortran" value="1.0" />
+        <entry key="libhlc" value="0.1" />
         <entry key="libnetcdf" value="4.3.3.1" />
         <entry key="libnvvm" value="1.0" />
         <entry key="libpng" value="1.6.17" />
@@ -2775,6 +2776,13 @@
           <value>
             <list>
               <option value="1.0" />
+            </list>
+          </value>
+        </entry>
+        <entry key="libhlc">
+          <value>
+            <list>
+              <option value="0.1" />
             </list>
           </value>
         </entry>
@@ -5825,6 +5833,6 @@
     <option name="CONDA_CHANNELS">
       <set />
     </option>
-    <option name="LAST_TIME_CHECKED" value="1448544728921" />
+    <option name="LAST_TIME_CHECKED" value="1448882568399" />
   </component>
 </application>
