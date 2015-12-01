@@ -71,6 +71,12 @@
         <mark key="." line="4" column="1" />
         <mark key="[" line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/lisa/tests/convert_test.py" timestamp="1448963836835">
+        <mark key="]" line="22" column="68" />
+        <mark key="^" line="22" column="68" />
+        <mark key="." line="22" column="68" />
+        <mark key="[" line="22" column="32" />
+      </file>
       <file name="$USER_HOME$/projects/lisa/lisa/delwriter.py" timestamp="1448829479942">
         <mark key="]" line="10" column="32" />
         <mark key="^" line="10" column="32" />
@@ -234,7 +240,7 @@
         <mark key="." line="15" column="12" />
         <mark key="[" line="15" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1448549351788">
+      <file name="/Python Console" timestamp="1448963865196">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/lisa/tests/organ_localizator_test.py" timestamp="1448553864772">
@@ -253,14 +259,6 @@
         <mark key="]" line="71" column="0" />
         <mark key="." line="71" column="0" />
         <mark key="[" line="71" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" timestamp="1448544397867">
-        <mark key="'" line="118" column="23" />
-        <mark key="a" line="85" column="20" />
-        <mark key="]" line="67" column="33" />
-        <mark key="^" line="67" column="33" />
-        <mark key="." line="67" column="33" />
-        <mark key="[" line="126" column="38" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1448814554967">
         <mark key="b" line="907" column="38" />
@@ -447,11 +445,11 @@
       <file name="$USER_HOME$/projects/lisa/docs/index.rst" timestamp="1444650684200">
         <mark key="[" line="6" column="31" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/tests/experiments_test.py" timestamp="1444654761029">
-        <mark key="]" line="46" column="31" />
+      <file name="$USER_HOME$/projects/lisa/tests/experiments_test.py" timestamp="1448963549011">
+        <mark key="]" line="18" column="58" />
         <mark key="^" line="52" column="53" />
         <mark key="." line="97" column="0" />
-        <mark key="[" line="44" column="0" />
+        <mark key="[" line="18" column="0" />
       </file>
       <file name="$USER_HOME$/projects/lisa/meta.yaml" timestamp="1448367089215">
         <mark key="]" line="73" column="9" />
@@ -613,46 +611,46 @@
     </jumps>
     <registers>
       <register name="3" type="4">
-        <text>o</text>
+        <text>t</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>False</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBsaXNhLmNvbnZlcnQuc2VnMnN0bChzZWcpCg==</text>
       </register>
       <register name="2" type="4">
-        <text>n</text>
+        <text>l</text>
       </register>
-      <register name="1" type="4">
-        <text>False</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBsaXNhLmNvbnZlcnQuc2VnMnN0bChzZWcpCg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBvdXRwdXRmaWxlPSJvdXRwdXQuc3RsIiwK</text>
+        <text encoding="base64">ICAgICAgICBvcy5yZW1vdmUoZm5fc3RsKQo=</text>
       </register>
       <register name="7" type="4">
-        <text>t</text>
+        <text encoding="base64">c3RsIA==</text>
       </register>
       <register name="6" type="4">
-        <text>a</text>
+        <text>stl</text>
       </register>
-      <register name="5" type="4">
-        <text>t</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKFRydWUsIEZhbHNlKQo=</text>
       </register>
       <register name="4" type="4">
-        <text>i</text>
+        <text>s</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>e</text>
+        <text>ath</text>
       </register>
       <register name="8" type="4">
-        <text>n</text>
+        <text>op.join(path_to_script, 'test_stl.stl')</text>
       </register>
       <register name="/" type="4">
         <text>quah</text>
       </register>
       <register name="-" type="4">
-        <text>False</text>
+        <text>l</text>
       </register>
     </registers>
     <search>
