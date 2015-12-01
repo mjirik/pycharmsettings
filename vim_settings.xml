@@ -284,11 +284,12 @@
         <mark key="." line="79" column="46" />
         <mark key="[" line="79" column="48" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/convert.py" timestamp="1448831555629">
-        <mark key="]" line="38" column="4" />
-        <mark key="^" line="71" column="42" />
-        <mark key="." line="38" column="4" />
-        <mark key="[" line="38" column="0" />
+      <file name="$USER_HOME$/projects/lisa/lisa/convert.py" timestamp="1448959872560">
+        <mark key="'" line="108" column="0" />
+        <mark key="]" line="50" column="20" />
+        <mark key="^" line="50" column="20" />
+        <mark key="." line="50" column="20" />
+        <mark key="[" line="48" column="22" />
       </file>
       <file name="$USER_HOME$/projects/quanta/quantan/histology_analyser_gui.py" timestamp="1446553541813">
         <mark key="'" line="38" column="7" />
@@ -411,7 +412,7 @@
         <mark key="." line="9" column="0" />
         <mark key="[" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/dicom2fem/dicom2fem/vtk2stl.py" timestamp="1448959249839">
+      <file name="$USER_HOME$/projects/dicom2fem/dicom2fem/vtk2stl.py" timestamp="1448959466140">
         <mark key="]" line="22" column="23" />
         <mark key="^" line="23" column="8" />
         <mark key="." line="22" column="23" />
@@ -439,13 +440,9 @@
         <mark key="." line="142" column="23" />
         <mark key="[" line="142" column="23" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1448958545469">
+      <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1448959677235">
         <mark key="'" line="717" column="15" />
         <mark key="a" line="85" column="26" />
-        <mark key="]" line="106" column="23" />
-        <mark key="^" line="106" column="23" />
-        <mark key="." line="106" column="23" />
-        <mark key="[" line="103" column="45" />
       </file>
       <file name="$USER_HOME$/projects/lisa/docs/index.rst" timestamp="1444650684200">
         <mark key="[" line="6" column="31" />
@@ -612,61 +609,61 @@
       <jump line="163" column="0" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="164" column="30" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="166" column="22" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="94" column="0" filename="$USER_HOME$/projects/lisa/lisa/convert.py" />
     </jumps>
     <registers>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtZW51YmFyID0gc2VsZi5tZW51QmFyKCkK</text>
+      <register name="3" type="4">
+        <text>]</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>Data</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaW50IG5wLnVuaXF1ZShkcykK</text>
       </register>
-      <register name="2" type="4">
-        <text>Data</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCBucC5zdW0oZGFkZCkK</text>
       </register>
-      <register name="1" type="4">
-        <text>Data</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHByaW50IG5wLnVuaXF1ZShkcykK</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB3cml0ZXIuU2V0SW5wdXREYXRhKGdmaWx0ZXIuR2V0T3V0cHV0KCkpCg==</text>
+        <text encoding="base64">ICAgIGRzID0gbnAuemVyb3MoZGF0YVsnc2VnbWVudGF0aW9uJ10uc2hhcGUsIG5wLmJvb2wpCiAgICBwcmludCAnbGFiZWxzOiAnLCBucC51bmlxdWUoZGF0YVsnc2VnbWVudGF0aW9uJ10pCiAgICBwcmludCBucC5zdW0oZGF0YVsnc2VnbWVudGF0aW9uJ10gPT0gMCkKICAgIHByaW50IGFyZ3MubGFiZWxzCiAgICAjIGZvciBpIGluIHJhbmdlKDAsIGxlbihhcmdzLmxhYmVsKSk6CiAgICBwcmludCBhcmdzLmxhYmVsc1swXSArIDEKICAgIGZvciBsYWIgaW4gYXJncy5sYWJlbHM6CiAgICAgICAgcHJpbnQgInByaW50IHpwcmFjb3ZhdmFtICIsIGxhYgogICAgICAgIGRhZGQgPSAoZGF0YVsnc2VnbWVudGF0aW9uJ10gPT0gbGFiKQogICAgICAgIHByaW50IG5wLnN1bShkYWRkKQoKICAgICAgICBkcyA9IGRzIHwgZGFkZAoKICAgIHByaW50IG5wLnVuaXF1ZShkcykK</text>
       </register>
       <register name="7" type="4">
-        <text>sphereSource</text>
+        <text>a</text>
       </register>
       <register name="6" type="4">
-        <text>True</text>
+        <text>[</text>
       </register>
       <register name="5" type="4">
-        <text>reader.GetOutputPort()</text>
+        <text>'</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ZXhpdEFjdGlvbiA9IFF0R3VpLlFBY3Rpb24oUXRHdWkuUUljb24oJ2V4aXQucG5nJyksICcmRXhpdCcsIHNlbGYpICAgICAgICAKICAgICAgICBleGl0QWN0aW9uLnNldFNob3J0Y3V0KCdDdHJsK1EnKQogICAgICAgIGV4aXRBY3Rpb24uc2V0U3RhdHVzVGlwKCdFeGl0IGFwcGxpY2F0aW9uJykKICAgICAgICBleGl0QWN0aW9uLnRyaWdnZXJlZC5jb25uZWN0KFF0R3VpLnFBcHAucXVpdCkK</text>
+      <register name="4" type="4">
+        <text>'</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>mapper</text>
+        <text>a</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBwZGI7IHBkYi5zZXRfdHJhY2UoKQo=</text>
+      <register name="8" type="4">
+        <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>pycut</text>
+        <text>quah</text>
       </register>
       <register name="-" type="4">
-        <text>Data</text>
+        <text>]</text>
       </register>
     </registers>
     <search>
-      <last-search>pycut</last-search>
+      <last-search>quah</last-search>
       <last-offset />
-      <last-pattern>pycut</last-pattern>
+      <last-pattern>quah</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhY3R1YWxfdm94ZWxzaXplXD4=</entry>
         <entry encoding="base64">XDx2b3hlbHNpemVcPg==</entry>
         <entry encoding="base64">XDx2dGZpbGVcPg==</entry>
         <entry encoding="base64">XDxvdXRcPg==</entry>
@@ -686,6 +683,7 @@
         <entry encoding="base64">XDxzZXRfc2VlZHNcPg==</entry>
         <entry encoding="base64">XDxzZXRfZGF0YVw+</entry>
         <entry encoding="base64">XDxnZXRfc2FtcGxlX2RhdGFcPg==</entry>
+        <entry>quah</entry>
       </history-search>
       <history-cmd>
         <entry>e</entry>
