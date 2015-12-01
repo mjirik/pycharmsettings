@@ -214,12 +214,7 @@
         <mark key="[" line="16" column="0" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" timestamp="1448825465165">
-        <mark key="'" line="167" column="107" />
-        <mark key="r" line="124" column="22" />
-        <mark key="a" line="158" column="3" />
         <mark key="]" line="243" column="25" />
-        <mark key="^" line="62" column="30" />
-        <mark key="." line="74" column="55" />
         <mark key="[" line="241" column="0" />
       </file>
       <file name="$USER_HOME$/projects/pyseg_base/tests/pycut_test.py" timestamp="1444664727080">
@@ -430,12 +425,13 @@
         <mark key="." line="142" column="23" />
         <mark key="[" line="142" column="23" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1448957571162">
-        <mark key="'" line="717" column="15" />
-        <mark key="]" line="106" column="23" />
-        <mark key="^" line="106" column="23" />
-        <mark key="." line="106" column="23" />
-        <mark key="[" line="103" column="45" />
+      <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1448957773410">
+        <mark key="'" line="34" column="22" />
+        <mark key="a" line="85" column="26" />
+        <mark key="]" line="86" column="35" />
+        <mark key="^" line="34" column="22" />
+        <mark key="." line="86" column="35" />
+        <mark key="[" line="86" column="35" />
       </file>
       <file name="$USER_HOME$/projects/lisa/docs/index.rst" timestamp="1444650684200">
         <mark key="[" line="6" column="31" />
@@ -602,49 +598,52 @@
       <jump line="163" column="0" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="164" column="30" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="166" column="22" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="32" column="0" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="86" column="21" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="34" column="22" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
     </jumps>
     <registers>
       <register name="3" type="4">
-        <text>reader.GetOutputPort()</text>
+        <text>.</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBtZW51YmFyID0gc2VsZi5tZW51QmFyKCkK</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ZXhpdEFjdGlvbiA9IFF0R3VpLlFBY3Rpb24oUXRHdWkuUUljb24oJ2V4aXQucG5nJyksICcmRXhpdCcsIHNlbGYpICAgICAgICAKICAgICAgICBleGl0QWN0aW9uLnNldFNob3J0Y3V0KCdDdHJsK1EnKQogICAgICAgIGV4aXRBY3Rpb24uc2V0U3RhdHVzVGlwKCdFeGl0IGFwcGxpY2F0aW9uJykKICAgICAgICBleGl0QWN0aW9uLnRyaWdnZXJlZC5jb25uZWN0KFF0R3VpLnFBcHAucXVpdCkK</text>
+      <register name="2" type="4">
+        <text>PyQt4</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtZW51YmFyID0gc2VsZi5tZW51QmFyKCkK</text>
+      <register name="1" type="4">
+        <text>.</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICMgICAgIGltcG9ydCBwZGI7IHBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="7" type="4">
-        <text>mapper</text>
+        <text>reader.GetOutputPort()</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBwZGI7IHBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ZXhpdEFjdGlvbiA9IFF0R3VpLlFBY3Rpb24oUXRHdWkuUUljb24oJ2V4aXQucG5nJyksICcmRXhpdCcsIHNlbGYpICAgICAgICAKICAgICAgICBleGl0QWN0aW9uLnNldFNob3J0Y3V0KCdDdHJsK1EnKQogICAgICAgIGV4aXRBY3Rpb24uc2V0U3RhdHVzVGlwKCdFeGl0IGFwcGxpY2F0aW9uJykKICAgICAgICBleGl0QWN0aW9uLnRyaWdnZXJlZC5jb25uZWN0KFF0R3VpLnFBcHAucXVpdCkK</text>
       </register>
-      <register name="5" type="4">
-        <text>sphereSource</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBtZW51YmFyID0gc2VsZi5tZW51QmFyKCkK</text>
       </register>
       <register name="4" type="4">
-        <text>True</text>
+        <text>PyQt4</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>mapper</text>
+        <text>sphereSource</text>
       </register>
       <register name="8" type="4">
-        <text>e</text>
+        <text>True</text>
       </register>
       <register name="/" type="4">
         <text>pycut</text>
       </register>
       <register name="-" type="4">
-        <text>reader.GetOutputPort()</text>
+        <text>.</text>
       </register>
     </registers>
     <search>
