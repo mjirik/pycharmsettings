@@ -142,7 +142,7 @@
         <mark key="." line="168" column="119" />
         <mark key="[" line="169" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1448959259716">
+      <file name="/a.dummy" timestamp="1448963924608">
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -282,12 +282,12 @@
         <mark key="." line="79" column="46" />
         <mark key="[" line="79" column="48" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/convert.py" timestamp="1448963100090">
-        <mark key="'" line="117" column="0" />
-        <mark key="]" line="42" column="21" />
-        <mark key="^" line="42" column="21" />
-        <mark key="." line="42" column="21" />
-        <mark key="[" line="42" column="18" />
+      <file name="$USER_HOME$/projects/lisa/lisa/convert.py" timestamp="1448964381884">
+        <mark key="'" line="108" column="0" />
+        <mark key="]" line="25" column="42" />
+        <mark key="^" line="25" column="42" />
+        <mark key="." line="25" column="42" />
+        <mark key="[" line="25" column="0" />
       </file>
       <file name="$USER_HOME$/projects/quanta/quantan/histology_analyser_gui.py" timestamp="1446553541813">
         <mark key="'" line="38" column="7" />
@@ -416,8 +416,10 @@
         <mark key="." line="22" column="23" />
         <mark key="[" line="22" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1448959259709">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/projects/lisa/lisa/data_manipulation.py" timestamp="1448964232212">
+        <mark key="]" line="28" column="13" />
+        <mark key="." line="20" column="0" />
+        <mark key="[" line="20" column="0" />
       </file>
       <file name="$USER_HOME$/projects/quanta/distr.sh" timestamp="1446813652569">
         <mark key="]" line="16" column="4" />
@@ -611,40 +613,40 @@
     </jumps>
     <registers>
       <register name="3" type="4">
-        <text>t</text>
-      </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBsaXNhLmNvbnZlcnQuc2VnMnN0bChzZWcpCg==</text>
-      </register>
-      <register name="2" type="4">
         <text>l</text>
       </register>
-      <register name="1" type="2">
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZGVmIHNlbGVjdF9sYWJlbHMoc2VnbWVudGF0aW9uLCBsYWJlbHMpOgogICAgZHMgPSBucC56ZXJvcyhzZWdtZW50YXRpb24uc2hhcGUsIG5wLmJvb2wpCiAgICBmb3IgbGFiIGluIGxhYmVsczoKICAgICAgICBwcmludCAicHJpbnQgenByYWNvdmF2YW0gIiwgbGFiCiAgICAgICAgZGFkZCA9IChzZWdtZW50YXRpb24gPT0gbGFiKQoKICAgICAgICBkcyA9IGRzIHwgZGFkZAoKICAgIHJldHVybiBkcwo=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBsaXNhLmNvbnZlcnQuc2VnMnN0bChzZWcpCg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ZGVmIHNlbGVjdF9sYWJlbHMoc2VnbWVudGF0aW9uLCBsYWJlbHMpOgogICAgZHMgPSBucC56ZXJvcyhzZWdtZW50YXRpb24uc2hhcGUsIG5wLmJvb2wpCiAgICBmb3IgbGFiIGluIGxhYmVsczoKICAgICAgICBwcmludCAicHJpbnQgenByYWNvdmF2YW0gIiwgbGFiCiAgICAgICAgZGFkZCA9IChzZWdtZW50YXRpb24gPT0gbGFiKQoKICAgICAgICBkcyA9IGRzIHwgZGFkZAoKICAgIHJldHVybiBkcwo=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBvcy5yZW1vdmUoZm5fc3RsKQo=</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">c3RsIA==</text>
-      </register>
-      <register name="6" type="4">
         <text>stl</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKFRydWUsIEZhbHNlKQo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>s</text>
+      </register>
+      <register name="4" type="4">
+        <text>t</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>ath</text>
+        <text>op.join(path_to_script, 'test_stl.stl')</text>
       </register>
       <register name="8" type="4">
-        <text>op.join(path_to_script, 'test_stl.stl')</text>
+        <text encoding="base64">c3RsIA==</text>
       </register>
       <register name="/" type="4">
         <text>quah</text>
