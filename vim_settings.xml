@@ -43,7 +43,7 @@
         <mark key="^" line="88" column="52" />
         <mark key="." line="88" column="52" />
       </file>
-      <file name="/a.dummy" timestamp="1448975143712">
+      <file name="/a.dummy" timestamp="1449095448584">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -268,13 +268,13 @@
         <mark key="^" line="27" column="68" />
         <mark key="." line="33" column="8" />
       </file>
-      <file name="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" timestamp="1449093922533">
+      <file name="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" timestamp="1449095246432">
         <mark key="a" line="91" column="20" />
-        <mark key="'" line="1351" column="18" />
-        <mark key="[" line="284" column="21" />
-        <mark key="]" line="284" column="41" />
-        <mark key="." line="284" column="41" />
-        <mark key="^" line="284" column="41" />
+        <mark key="'" line="46" column="24" />
+        <mark key="[" line="282" column="22" />
+        <mark key="]" line="284" column="17" />
+        <mark key="." line="284" column="17" />
+        <mark key="^" line="284" column="17" />
       </file>
       <file name="/None" timestamp="1444651185031">
         <mark key="[" line="0" column="0" />
@@ -447,9 +447,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="92" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1449047941775">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/viewer.py" timestamp="1444650851289">
         <mark key="[" line="79" column="48" />
@@ -630,61 +627,61 @@
       <jump line="703" column="23" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
       <jump line="1167" column="27" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
       <jump line="1349" column="18" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="46" column="24" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>()&quot;)</text>
+        <text>sample with two dimensional feature vector</text>
       </register>
       <register name="-" type="4">
-        <text>()&quot;)</text>
+        <text>sample with two dimensional feature vector</text>
       </register>
       <register name="/" type="4">
-        <text>ipdb</text>
+        <text encoding="base64">XDxtdWx0aXNjYWxlX2dyYXBoY3V0XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoIl9maXQoKSIpCg==</text>
       </register>
       <register name="1" type="4">
-        <text>()&quot;)</text>
+        <text>sample with two dimensional feature vector</text>
       </register>
       <register name="2" type="4">
+        <text>()&quot;)</text>
+      </register>
+      <register name="3" type="4">
         <text>_fit</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBpcGRiCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBsb2dnZXIuCg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLgo=</text>
-      </register>
-      <register name="9" type="4">
-        <text>n</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>ipdb</last-search>
+      <last-search encoding="base64">XDxtdWx0aXNjYWxlX2dyYXBoY3V0XD4=</last-search>
       <last-offset />
-      <last-pattern>ipdb</last-pattern>
+      <last-pattern encoding="base64">XDxtdWx0aXNjYWxlX2dyYXBoY3V0XD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfX3NpbWlsYXJpdHlfZm9yX3RsaW5rc19vYmpfYmdyXD4=</entry>
         <entry encoding="base64">XDxfX2NyZWF0ZV90bGlua3NcPg==</entry>
         <entry encoding="base64">XDxfX2NyZWF0ZV9ubGlua3NcPg==</entry>
         <entry encoding="base64">XDx2b3hlbHMxXD4=</entry>
@@ -704,6 +701,7 @@
         <entry>pycut</entry>
         <entry>hook</entry>
         <entry>ipdb</entry>
+        <entry encoding="base64">XDxtdWx0aXNjYWxlX2dyYXBoY3V0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>e</entry>
