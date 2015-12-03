@@ -115,7 +115,7 @@
         <mark key="." line="101" column="0" />
         <mark key="[" line="94" column="57" />
       </file>
-      <file name="/fragment.py" timestamp="1449148058647">
+      <file name="/fragment.py" timestamp="1449150838940">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/pysegbase/tests/pycut_test.py" timestamp="1448529399511">
@@ -232,7 +232,7 @@
         <mark key="." line="15" column="12" />
         <mark key="[" line="15" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1449148134952">
+      <file name="/Python Console" timestamp="1449151903938">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/lisa/tests/organ_localizator_test.py" timestamp="1448553864772">
@@ -252,12 +252,12 @@
         <mark key="." line="71" column="0" />
         <mark key="[" line="71" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" timestamp="1449148171657">
-        <mark key="'" line="132" column="37" />
-        <mark key="]" line="132" column="77" />
-        <mark key="^" line="98" column="85" />
-        <mark key="." line="132" column="77" />
-        <mark key="[" line="132" column="77" />
+      <file name="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" timestamp="1449151886499">
+        <mark key="'" line="134" column="37" />
+        <mark key="]" line="87" column="46" />
+        <mark key="^" line="87" column="46" />
+        <mark key="." line="87" column="46" />
+        <mark key="[" line="86" column="106" />
       </file>
       <file name="$USER_HOME$/projects/lisa/tests/organ_segmentation_test.py" timestamp="1449132499644">
         <mark key="'" line="144" column="64" />
@@ -645,38 +645,38 @@
       <jump line="132" column="37" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="4">
-        <text>]</text>
-      </register>
-      <register name="2" type="4">
-        <text>#</text>
-      </register>
-      <register name="1" type="4">
         <text encoding="base64">IA==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLm1vZGVscGFyYW1zLnVwZGF0ZShtb2RlbHBhcmFtcykK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBmdnMsIGNsc3NlbGVjdGVkID0gc2VsZi5mZWF0dXJlc19mcm9tX2ltYWdlKGRhdGEsIHZveGVsc2l6ZSwgc2VlZHMsIGNscykK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc2VsZi5maXQoZnZzLCBjbHNzZWxlY3RlZCkK</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>[</text>
+      </register>
+      <register name="5" type="4">
+        <text>]</text>
+      </register>
+      <register name="4" type="4">
+        <text>#</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmZpdChmdnMsIGNsc3NlbGVjdGVkKQo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="8" type="4">
         <text encoding="base64">IA==</text>
