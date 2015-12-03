@@ -145,7 +145,7 @@
         <mark key="." line="168" column="119" />
         <mark key="[" line="169" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1449142513851">
+      <file name="/a.dummy" timestamp="1449161870593">
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -411,6 +411,9 @@
         <mark key="." line="9" column="0" />
         <mark key="[" line="9" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1449161874785">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/dicom2fem/dicom2fem/vtk2stl.py" timestamp="1448959466140">
         <mark key="]" line="22" column="23" />
         <mark key="^" line="23" column="8" />
@@ -646,47 +649,47 @@
       <jump line="239" column="41" filename="$USER_HOME$/projects/lisa/tests/liver_segmentation_test.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAiYm91bmRhcnkgcGVuYWx0aWVzIgo=</text>
+      <register name="&quot;" type="4">
+        <text>remove test outputs</text>
       </register>
       <register name="3" type="4">
-        <text>,</text>
-      </register>
-      <register name="2" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="1" type="2">
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAiYm91bmRhcnkgcGVuYWx0aWVzIgo=</text>
+      </register>
+      <register name="1" type="4">
+        <text>remove test outputs</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB6X21tID0gbnAuYXJyYXkoel9tbSkK</text>
       </register>
       <register name="7" type="4">
-        <text>+</text>
-      </register>
-      <register name="6" type="4">
         <text>0</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBubiA9IDIwMAo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>150</text>
       </register>
-      <register name=":" type="4">
-        <text>w</text>
+      <register name="4" type="4">
+        <text>,</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBvc2VnLmFkZF9zZWVkc19tbShbMTEwLCAxNTBdLCBbMTEwLCAxMDBdLCBbbm4rMV0sIGxhYmVsPTEsIHJhZGl1cz0zMCkKICAgICAgICBvc2VnLmFkZF9zZWVkc19tbShbMTEwLCAxNTBdLCBbMTEwLCAxMDBdLCBbbm4rMl0sIGxhYmVsPTEsIHJhZGl1cz0zMCkKICAgICAgICBvc2VnLmFkZF9zZWVkc19tbShbMTEwLCAxNTBdLCBbMTEwLCAxMDBdLCBbbm4rM10sIGxhYmVsPTEsIHJhZGl1cz0zMCkKICAgICAgICBvc2VnLmFkZF9zZWVkc19tbShbMTEwLCAxNTBdLCBbMTEwLCAxMDBdLCBbbm4rNF0sIGxhYmVsPTEsIHJhZGl1cz0zMCkKCg==</text>
+      <register name=":" type="4">
+        <text>q</text>
+      </register>
+      <register name="9" type="4">
+        <text>nn</text>
       </register>
       <register name="8" type="4">
-        <text>nn</text>
+        <text>+</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmZWF0dXJlc19mcm9tX2ltYWdlXD4=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>remove test outputs</text>
       </register>
     </registers>
     <search>
@@ -730,8 +733,8 @@
         <entry>588</entry>
         <entry>wq</entry>
         <entry>ww</entry>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
