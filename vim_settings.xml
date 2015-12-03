@@ -89,7 +89,7 @@
         <mark key="." line="104" column="32" />
         <mark key="[" line="104" column="23" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/tests/liver_segmentation_test.py" timestamp="1449142906368">
+      <file name="$USER_HOME$/projects/lisa/tests/liver_segmentation_test.py" timestamp="1449145083281">
         <mark key="'" line="210" column="0" />
         <mark key="]" line="19" column="50" />
         <mark key="^" line="19" column="50" />
@@ -241,7 +241,7 @@
         <mark key="." line="15" column="12" />
         <mark key="[" line="15" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1449143960161">
+      <file name="/Python Console" timestamp="1449144223648">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/lisa/tests/organ_localizator_test.py" timestamp="1448553864772">
@@ -261,10 +261,12 @@
         <mark key="." line="71" column="0" />
         <mark key="[" line="71" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" timestamp="1449143986376">
-        <mark key="]" line="273" column="0" />
-        <mark key="." line="273" column="0" />
-        <mark key="[" line="273" column="0" />
+      <file name="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" timestamp="1449144945222">
+        <mark key="'" line="132" column="37" />
+        <mark key="]" line="176" column="38" />
+        <mark key="^" line="176" column="38" />
+        <mark key="." line="176" column="38" />
+        <mark key="[" line="176" column="38" />
       </file>
       <file name="$USER_HOME$/projects/lisa/tests/organ_segmentation_test.py" timestamp="1449132499644">
         <mark key="'" line="144" column="64" />
@@ -648,61 +650,62 @@
       <jump line="273" column="22" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
       <jump line="76" column="0" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="208" column="0" filename="$USER_HOME$/projects/lisa/tests/liver_segmentation_test.py" />
+      <jump line="102" column="36" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="132" column="37" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>extern</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoJ2NseCByYXcgJyArIHN0cihjbHgpKQo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="4">
-        <text>_</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="1" type="4">
-        <text>extern</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cGF0aF90b19zY3JpcHQgPSBvcy5wYXRoLmRpcm5hbWUob3MucGF0aC5hYnNwYXRoKF9fZmlsZV9fKSkKc3lzLnBhdGguYXBwZW5kKG9zLnBhdGguam9pbihwYXRoX3RvX3NjcmlwdCwgIi4uL2V4dGVybi9weXNlZ2Jhc2Uvc3JjIikpCg==</text>
+        <text encoding="base64">ICAgICAgICBmdnMsIGNsc3NlbGVjdGVkID0gc2VsZi5mZWF0dXJlc19mcm9tX2ltYWdlKGRhdGEsIHZveGVsc2l6ZSwgc2VlZHMsIGNscykK</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">ICAgIyBAVE9ETyBkb2xhZGl0IGJvdW5kYXJ5IHBlbmFsdGllcwogICAgIyBAdW5pdHRlc3Quc2tpcElmKG5vdCBpbnRlcmFjdGl2ZVRlc3QsICJpbnRlcmFjdGl2ZSB0ZXN0IikKICAgICMgQHVuaXR0ZXN0LnNraXAoImludGVyYWN0aXZpdHkgcGFyYW1zIGFyZSBvYnNvbGV0ZSIpCiAgICBkZWYgdGVzdF9vcmdhbl9zZWdtZW50YXRpb25fd2l0aF9wcmV0cmFpbmVkX2NsYXNzaWZpZXIoc2VsZik6CiAgICAgICAgIiIiCiAgICAgICAgSW50ZXJhY3Rpdml0eSBpcyBzdG9yZWQgdG8gZmlsZQogICAgICAgICIiIgogICAgICAgIGRjbWRpciA9IG9zLnBhdGguam9pbihwYXRoX3RvX3NjcmlwdCwgJy4vLi4vc2FtcGxlX2RhdGEvamF0cmFfNW1tJykKCiAgICAgICAgcHJpbnQgIkludGVyYWN0aXZlIHRlc3Q6IHdpdGggbGVmdCBtb3VzZSBidXR0b24gc2VsZWN0IGxpdmVyLCBcCiAgICAgICAgICAgIHdpdGggcmlnaHQgbW91c2UgYnV0dG9uIHNlbGVjdCBvdGhlciB0aXNzdWVzIgogICAgICAgICMgZ2NwYXJhbXMgPSB7J3BhaXJ3aXNlQWxwaGEnOjEwLCAndXNlX2JvdW5kYXJ5X3BlbmFsdGllcyc6VHJ1ZX0KICAgICAgICBzZWdwYXJhbXMgPSB7J3BhaXJ3aXNlX2FscGhhX3Blcic6IDMsCiAgICAgICAgICAgICAgICAgICAgICd1c2VfYm91bmRhcnlfcGVuYWx0aWVzJzogVHJ1ZSwKICAgICAgICAgICAgICAgICAgICAgJ2JvdW5kYXJ5X3BlbmFsdGllc19zaWdtYSc6IDIwMH0KICAgICAgICBvc2VnID0gb3JnYW5fc2VnbWVudGF0aW9uLk9yZ2FuU2VnbWVudGF0aW9uKAogICAgICAgICAgICBkY21kaXIsIHdvcmtpbmdfdm94ZWxzaXplX21tPTQsIHNlZ3BhcmFtcz1zZWdwYXJhbXMpCiAgICAgICAgb3NlZy5hZGRfc2VlZHNfbW0oWzEyMF0sIFsxMjBdLCBbNDAwXSwgbGFiZWw9MSwgcmFkaXVzPTMwKQogICAgICAgIG9zZWcuYWRkX3NlZWRzX21tKFsxNzAsIDIyMCwgMjUwXSwgWzI1MCwgMjgwLCAyMDBdLCBbNDAwXSwgbGFiZWw9MiwKICAgICAgICAgICAgICAgICAgICAgICAgICByYWRpdXM9MzApCgogICAgICAgICJib3VuZGFyeSBwZW5hbHRpZXMiCiAgICAgICAgb3NlZy5pbnRlcmFjdGl2aXR5KCkKICAgICAgICAjIG9zZWcubmludGVyYWN0aXZpdHkoKQoKICAgICAgICB2b2x1bWUgPSBvc2VnLmdldF9zZWdtZW50ZWRfdm9sdW1lX3NpemVfbW0zKCkKCiAgICAgICAgIyBtaXNjLm9ial90b19maWxlKG9zZWcuZ2V0X2lwYXJhbXMoKSwnaXBhcmFtcy5wa2wnLCBmaWxldHlwZT0ncGlja2xlJykKCiAgICAgICAgc2VsZi5hc3NlcnRHcmVhdGVyKHZvbHVtZSwgMTAwMDAwMCk=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="6" type="4">
-        <text>lisa</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="5" type="4">
-        <text>.</text>
+        <text>s</text>
       </register>
-      <register name="4" type="4">
-        <text>'organ.pkl'</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmZpdChmdnMsIGNsc3NlbGVjdGVkKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>with_boundary_penalties</text>
+        <text>_</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICMgQFRPRE8gZG9sYWRpdCBib3VuZGFyeSBwZW5hbHRpZXMKICAgICMgQHVuaXR0ZXN0LnNraXBJZihub3QgaW50ZXJhY3RpdmVUZXN0LCAiaW50ZXJhY3RpdmUgdGVzdCIpCiAgICAjIEB1bml0dGVzdC5za2lwKCJpbnRlcmFjdGl2aXR5IHBhcmFtcyBhcmUgb2Jzb2xldGUiKQogICAgZGVmIHRlc3Rfb3JnYW5fc2VnbWVudGF0aW9uX3dpdGhfcHJldHJhaW5lZF9jbGFzc2lmaWVyKHNlbGYpOgogICAgICAgICIiIgogICAgICAgIEludGVyYWN0aXZpdHkgaXMgc3RvcmVkIHRvIGZpbGUKICAgICAgICAiIiIKICAgICAgICBkY21kaXIgPSBvcy5wYXRoLmpvaW4ocGF0aF90b19zY3JpcHQsICcuLy4uL3NhbXBsZV9kYXRhL2phdHJhXzVtbScpCgogICAgICAgIHByaW50ICJJbnRlcmFjdGl2ZSB0ZXN0OiB3aXRoIGxlZnQgbW91c2UgYnV0dG9uIHNlbGVjdCBsaXZlciwgXAogICAgICAgICAgICB3aXRoIHJpZ2h0IG1vdXNlIGJ1dHRvbiBzZWxlY3Qgb3RoZXIgdGlzc3VlcyIKICAgICAgICAjIGdjcGFyYW1zID0geydwYWlyd2lzZUFscGhhJzoxMCwgJ3VzZV9ib3VuZGFyeV9wZW5hbHRpZXMnOlRydWV9CiAgICAgICAgc2VncGFyYW1zID0geydwYWlyd2lzZV9hbHBoYV9wZXInOiAzLAogICAgICAgICAgICAgICAgICAgICAndXNlX2JvdW5kYXJ5X3BlbmFsdGllcyc6IFRydWUsCiAgICAgICAgICAgICAgICAgICAgICdib3VuZGFyeV9wZW5hbHRpZXNfc2lnbWEnOiAyMDB9CiAgICAgICAgb3NlZyA9IG9yZ2FuX3NlZ21lbnRhdGlvbi5PcmdhblNlZ21lbnRhdGlvbigKICAgICAgICAgICAgZGNtZGlyLCB3b3JraW5nX3ZveGVsc2l6ZV9tbT00LCBzZWdwYXJhbXM9c2VncGFyYW1zKQogICAgICAgIG9zZWcuYWRkX3NlZWRzX21tKFsxMjBdLCBbMTIwXSwgWzQwMF0sIGxhYmVsPTEsIHJhZGl1cz0zMCkKICAgICAgICBvc2VnLmFkZF9zZWVkc19tbShbMTcwLCAyMjAsIDI1MF0sIFsyNTAsIDI4MCwgMjAwXSwgWzQwMF0sIGxhYmVsPTIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgcmFkaXVzPTMwKQoKICAgICAgICAiYm91bmRhcnkgcGVuYWx0aWVzIgogICAgICAgIG9zZWcuaW50ZXJhY3Rpdml0eSgpCiAgICAgICAgIyBvc2VnLm5pbnRlcmFjdGl2aXR5KCkKCiAgICAgICAgdm9sdW1lID0gb3NlZy5nZXRfc2VnbWVudGVkX3ZvbHVtZV9zaXplX21tMygpCgogICAgICAgICMgbWlzYy5vYmpfdG9fZmlsZShvc2VnLmdldF9pcGFyYW1zKCksJ2lwYXJhbXMucGtsJywgZmlsZXR5cGU9J3BpY2tsZScpCgogICAgICAgIHNlbGYuYXNzZXJ0R3JlYXRlcih2b2x1bWUsIDEwMDAwMDApCg==</text>
+      <register name="8" type="4">
+        <text>extern</text>
       </register>
       <register name="/" type="4">
-        <text>clx</text>
+        <text encoding="base64">XDxmZWF0dXJlc19mcm9tX2ltYWdlXD4=</text>
       </register>
       <register name="-" type="4">
-        <text>extern</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
-      <last-search>clx</last-search>
+      <last-search encoding="base64">XDxmZWF0dXJlc19mcm9tX2ltYWdlXD4=</last-search>
       <last-offset />
-      <last-pattern>clx</last-pattern>
+      <last-pattern encoding="base64">XDxmZWF0dXJlc19mcm9tX2ltYWdlXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxvdXRcPg==</entry>
         <entry encoding="base64">XDxpbnRlcmFjdGl2aXR5XD4=</entry>
         <entry encoding="base64">XDxwYWNrYWdlX2Rpclw+</entry>
         <entry>time</entry>
@@ -722,6 +725,7 @@
         <entry>quah</entry>
         <entry>jatra_5</entry>
         <entry>clx</entry>
+        <entry encoding="base64">XDxmZWF0dXJlc19mcm9tX2ltYWdlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>e</entry>
