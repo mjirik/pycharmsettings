@@ -89,12 +89,12 @@
         <mark key="." line="104" column="32" />
         <mark key="[" line="104" column="23" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/tests/liver_segmentation_test.py" timestamp="1449148498553">
-        <mark key="'" line="210" column="0" />
-        <mark key="]" line="238" column="93" />
-        <mark key="^" line="238" column="93" />
-        <mark key="." line="238" column="93" />
-        <mark key="[" line="238" column="63" />
+      <file name="$USER_HOME$/projects/lisa/tests/liver_segmentation_test.py" timestamp="1449158727561">
+        <mark key="'" line="240" column="41" />
+        <mark key="]" line="240" column="35" />
+        <mark key="^" line="240" column="35" />
+        <mark key="." line="240" column="35" />
+        <mark key="[" line="240" column="35" />
       </file>
       <file name="$USER_HOME$/projects/quanta/quantan/__main__.py" timestamp="1446553214305">
         <mark key="]" line="1" column="6" />
@@ -254,7 +254,7 @@
         <mark key="." line="71" column="0" />
         <mark key="[" line="71" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" timestamp="1449153001315">
+      <file name="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" timestamp="1449157153356">
         <mark key="'" line="134" column="37" />
         <mark key="]" line="87" column="46" />
         <mark key="^" line="87" column="46" />
@@ -267,15 +267,15 @@
         <mark key="." line="104" column="0" />
         <mark key="[" line="104" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1449059148677">
+      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1449157805822">
         <mark key="b" line="909" column="38" />
         <mark key="c" line="166" column="18" />
-        <mark key="'" line="168" column="22" />
+        <mark key="'" line="879" column="0" />
         <mark key="a" line="1177" column="0" />
-        <mark key="]" line="48" column="61" />
+        <mark key="]" line="1465" column="39" />
         <mark key="^" line="48" column="61" />
         <mark key="." line="48" column="61" />
-        <mark key="[" line="48" column="49" />
+        <mark key="[" line="1464" column="0" />
       </file>
       <file name="$USER_HOME$/projects/skelet3d/skelet3d/skeletonizer.py" timestamp="1446806786688">
         <mark key="]" line="35" column="50" />
@@ -450,8 +450,8 @@
       <file name="$USER_HOME$/projects/lisa/docs/index.rst" timestamp="1444650684200">
         <mark key="[" line="6" column="31" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1449142860118">
-        <mark key="'" line="74" column="0" />
+      <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1449157772198">
+        <mark key="'" line="796" column="12" />
         <mark key="a" line="83" column="26" />
         <mark key="]" line="29" column="71" />
         <mark key="^" line="30" column="0" />
@@ -645,34 +645,51 @@
       <jump line="208" column="0" filename="$USER_HOME$/projects/lisa/tests/liver_segmentation_test.py" />
       <jump line="102" column="36" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
       <jump line="132" column="37" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="31" column="0" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="796" column="12" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="879" column="0" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="239" column="41" filename="$USER_HOME$/projects/lisa/tests/liver_segmentation_test.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>lisa.</text>
+      <register name="&quot;" type="8">
+        <text>0
+0
+0
+0
+0</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm1vZGVscGFyYW1zLnVwZGF0ZShtb2RlbHBhcmFtcykK</text>
+      <register name="3" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="2" type="8">
+        <text>0
+0
+0
+0
+0</text>
       </register>
-      <register name="1" type="4">
-        <text>lisa.</text>
+      <register name="1" type="8">
+        <text>0
+0
+0
+0
+0</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmdnMsIGNsc3NlbGVjdGVkID0gc2VsZi5mZWF0dXJlc19mcm9tX2ltYWdlKGRhdGEsIHZveGVsc2l6ZSwgc2VlZHMsIGNscykK</text>
+        <text encoding="base64">ICAgICAgICBvc2VnLmFkZF9zZWVkc19tbShbMTAwXSwgWzEwMF0sIFtubiszXSwgbGFiZWw9MSwgcmFkaXVzPTMwKQo=</text>
       </register>
       <register name="7" type="4">
-        <text>[</text>
+        <text>,</text>
       </register>
       <register name="6" type="4">
-        <text>]</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="5" type="4">
-        <text>#</text>
+        <text>100</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+        <text>,</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -680,14 +697,14 @@
       <register name="9" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5maXQoZnZzLCBjbHNzZWxlY3RlZCkK</text>
+      <register name="8" type="4">
+        <text>100</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmZWF0dXJlc19mcm9tX2ltYWdlXD4=</text>
       </register>
       <register name="-" type="4">
-        <text>lisa.</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
