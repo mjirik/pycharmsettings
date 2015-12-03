@@ -95,10 +95,11 @@
         <mark key="." line="104" column="32" />
         <mark key="[" line="104" column="23" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/tests/liver_segmentation_test.py" timestamp="1449132516055">
-        <mark key="]" line="237" column="43" />
-        <mark key="." line="208" column="0" />
-        <mark key="[" line="207" column="0" />
+      <file name="$USER_HOME$/projects/lisa/tests/liver_segmentation_test.py" timestamp="1449136941245">
+        <mark key="]" line="23" column="17" />
+        <mark key="^" line="23" column="9" />
+        <mark key="." line="23" column="17" />
+        <mark key="[" line="23" column="17" />
       </file>
       <file name="$USER_HOME$/projects/quanta/quantan/__main__.py" timestamp="1446553214305">
         <mark key="]" line="1" column="6" />
@@ -158,11 +159,11 @@
         <mark key="." line="7" column="27" />
         <mark key="[" line="7" column="22" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/data.py" timestamp="1448552139365">
-        <mark key="]" line="27" column="46" />
-        <mark key="^" line="27" column="65" />
-        <mark key="." line="27" column="46" />
-        <mark key="[" line="27" column="46" />
+      <file name="$USER_HOME$/projects/lisa/lisa/data.py" timestamp="1449137182940">
+        <mark key="]" line="64" column="20" />
+        <mark key="^" line="64" column="20" />
+        <mark key="." line="64" column="20" />
+        <mark key="[" line="63" column="0" />
       </file>
       <file name="$USER_HOME$/projects/sed3/sed3/sed3.py" timestamp="1445590367084">
         <mark key="]" line="412" column="0" />
@@ -644,47 +645,47 @@
       <jump line="144" column="64" filename="$USER_HOME$/projects/lisa/tests/organ_segmentation_test.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICMgQFRPRE8gZG9sYWRpdCBib3VuZGFyeSBwZW5hbHRpZXMKICAgICMgQHVuaXR0ZXN0LnNraXBJZihub3QgaW50ZXJhY3RpdmVUZXN0LCAiaW50ZXJhY3RpdmUgdGVzdCIpCiAgICAjIEB1bml0dGVzdC5za2lwKCJpbnRlcmFjdGl2aXR5IHBhcmFtcyBhcmUgb2Jzb2xldGUiKQogICAgZGVmIHRlc3Rfb3JnYW5fc2VnbWVudGF0aW9uX3dpdGhfcHJldHJhaW5lZF9jbGFzc2lmaWVyKHNlbGYpOgogICAgICAgICIiIgogICAgICAgIEludGVyYWN0aXZpdHkgaXMgc3RvcmVkIHRvIGZpbGUKICAgICAgICAiIiIKICAgICAgICBkY21kaXIgPSBvcy5wYXRoLmpvaW4ocGF0aF90b19zY3JpcHQsICcuLy4uL3NhbXBsZV9kYXRhL2phdHJhXzVtbScpCgogICAgICAgIHByaW50ICJJbnRlcmFjdGl2ZSB0ZXN0OiB3aXRoIGxlZnQgbW91c2UgYnV0dG9uIHNlbGVjdCBsaXZlciwgXAogICAgICAgICAgICB3aXRoIHJpZ2h0IG1vdXNlIGJ1dHRvbiBzZWxlY3Qgb3RoZXIgdGlzc3VlcyIKICAgICAgICAjIGdjcGFyYW1zID0geydwYWlyd2lzZUFscGhhJzoxMCwgJ3VzZV9ib3VuZGFyeV9wZW5hbHRpZXMnOlRydWV9CiAgICAgICAgc2VncGFyYW1zID0geydwYWlyd2lzZV9hbHBoYV9wZXInOiAzLAogICAgICAgICAgICAgICAgICAgICAndXNlX2JvdW5kYXJ5X3BlbmFsdGllcyc6IFRydWUsCiAgICAgICAgICAgICAgICAgICAgICdib3VuZGFyeV9wZW5hbHRpZXNfc2lnbWEnOiAyMDB9CiAgICAgICAgb3NlZyA9IG9yZ2FuX3NlZ21lbnRhdGlvbi5PcmdhblNlZ21lbnRhdGlvbigKICAgICAgICAgICAgZGNtZGlyLCB3b3JraW5nX3ZveGVsc2l6ZV9tbT00LCBzZWdwYXJhbXM9c2VncGFyYW1zKQogICAgICAgIG9zZWcuYWRkX3NlZWRzX21tKFsxMjBdLCBbMTIwXSwgWzQwMF0sIGxhYmVsPTEsIHJhZGl1cz0zMCkKICAgICAgICBvc2VnLmFkZF9zZWVkc19tbShbMTcwLCAyMjAsIDI1MF0sIFsyNTAsIDI4MCwgMjAwXSwgWzQwMF0sIGxhYmVsPTIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgcmFkaXVzPTMwKQoKICAgICAgICAiYm91bmRhcnkgcGVuYWx0aWVzIgogICAgICAgIG9zZWcuaW50ZXJhY3Rpdml0eSgpCiAgICAgICAgIyBvc2VnLm5pbnRlcmFjdGl2aXR5KCkKCiAgICAgICAgdm9sdW1lID0gb3NlZy5nZXRfc2VnbWVudGVkX3ZvbHVtZV9zaXplX21tMygpCgogICAgICAgICMgbWlzYy5vYmpfdG9fZmlsZShvc2VnLmdldF9pcGFyYW1zKCksJ2lwYXJhbXMucGtsJywgZmlsZXR5cGU9J3BpY2tsZScpCgogICAgICAgIHNlbGYuYXNzZXJ0R3JlYXRlcih2b2x1bWUsIDEwMDAwMDApCg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="3" type="4">
-        <text>sample with two dimensional feature vector</text>
+        <text encoding="base64">ICAgIyBAVE9ETyBkb2xhZGl0IGJvdW5kYXJ5IHBlbmFsdGllcwogICAgIyBAdW5pdHRlc3Quc2tpcElmKG5vdCBpbnRlcmFjdGl2ZVRlc3QsICJpbnRlcmFjdGl2ZSB0ZXN0IikKICAgICMgQHVuaXR0ZXN0LnNraXAoImludGVyYWN0aXZpdHkgcGFyYW1zIGFyZSBvYnNvbGV0ZSIpCiAgICBkZWYgdGVzdF9vcmdhbl9zZWdtZW50YXRpb25fd2l0aF9wcmV0cmFpbmVkX2NsYXNzaWZpZXIoc2VsZik6CiAgICAgICAgIiIiCiAgICAgICAgSW50ZXJhY3Rpdml0eSBpcyBzdG9yZWQgdG8gZmlsZQogICAgICAgICIiIgogICAgICAgIGRjbWRpciA9IG9zLnBhdGguam9pbihwYXRoX3RvX3NjcmlwdCwgJy4vLi4vc2FtcGxlX2RhdGEvamF0cmFfNW1tJykKCiAgICAgICAgcHJpbnQgIkludGVyYWN0aXZlIHRlc3Q6IHdpdGggbGVmdCBtb3VzZSBidXR0b24gc2VsZWN0IGxpdmVyLCBcCiAgICAgICAgICAgIHdpdGggcmlnaHQgbW91c2UgYnV0dG9uIHNlbGVjdCBvdGhlciB0aXNzdWVzIgogICAgICAgICMgZ2NwYXJhbXMgPSB7J3BhaXJ3aXNlQWxwaGEnOjEwLCAndXNlX2JvdW5kYXJ5X3BlbmFsdGllcyc6VHJ1ZX0KICAgICAgICBzZWdwYXJhbXMgPSB7J3BhaXJ3aXNlX2FscGhhX3Blcic6IDMsCiAgICAgICAgICAgICAgICAgICAgICd1c2VfYm91bmRhcnlfcGVuYWx0aWVzJzogVHJ1ZSwKICAgICAgICAgICAgICAgICAgICAgJ2JvdW5kYXJ5X3BlbmFsdGllc19zaWdtYSc6IDIwMH0KICAgICAgICBvc2VnID0gb3JnYW5fc2VnbWVudGF0aW9uLk9yZ2FuU2VnbWVudGF0aW9uKAogICAgICAgICAgICBkY21kaXIsIHdvcmtpbmdfdm94ZWxzaXplX21tPTQsIHNlZ3BhcmFtcz1zZWdwYXJhbXMpCiAgICAgICAgb3NlZy5hZGRfc2VlZHNfbW0oWzEyMF0sIFsxMjBdLCBbNDAwXSwgbGFiZWw9MSwgcmFkaXVzPTMwKQogICAgICAgIG9zZWcuYWRkX3NlZWRzX21tKFsxNzAsIDIyMCwgMjUwXSwgWzI1MCwgMjgwLCAyMDBdLCBbNDAwXSwgbGFiZWw9MiwKICAgICAgICAgICAgICAgICAgICAgICAgICByYWRpdXM9MzApCgogICAgICAgICJib3VuZGFyeSBwZW5hbHRpZXMiCiAgICAgICAgb3NlZy5pbnRlcmFjdGl2aXR5KCkKICAgICAgICAjIG9zZWcubmludGVyYWN0aXZpdHkoKQoKICAgICAgICB2b2x1bWUgPSBvc2VnLmdldF9zZWdtZW50ZWRfdm9sdW1lX3NpemVfbW0zKCkKCiAgICAgICAgIyBtaXNjLm9ial90b19maWxlKG9zZWcuZ2V0X2lwYXJhbXMoKSwnaXBhcmFtcy5wa2wnLCBmaWxldHlwZT0ncGlja2xlJykKCiAgICAgICAgc2VsZi5hc3NlcnRHcmVhdGVyKHZvbHVtZSwgMTAwMDAwMCk=</text>
       </register>
       <register name="2" type="4">
-        <text>with_boundary_penalties</text>
+        <text>lisa</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICMgQFRPRE8gZG9sYWRpdCBib3VuZGFyeSBwZW5hbHRpZXMKICAgICMgQHVuaXR0ZXN0LnNraXBJZihub3QgaW50ZXJhY3RpdmVUZXN0LCAiaW50ZXJhY3RpdmUgdGVzdCIpCiAgICAjIEB1bml0dGVzdC5za2lwKCJpbnRlcmFjdGl2aXR5IHBhcmFtcyBhcmUgb2Jzb2xldGUiKQogICAgZGVmIHRlc3Rfb3JnYW5fc2VnbWVudGF0aW9uX3dpdGhfcHJldHJhaW5lZF9jbGFzc2lmaWVyKHNlbGYpOgogICAgICAgICIiIgogICAgICAgIEludGVyYWN0aXZpdHkgaXMgc3RvcmVkIHRvIGZpbGUKICAgICAgICAiIiIKICAgICAgICBkY21kaXIgPSBvcy5wYXRoLmpvaW4ocGF0aF90b19zY3JpcHQsICcuLy4uL3NhbXBsZV9kYXRhL2phdHJhXzVtbScpCgogICAgICAgIHByaW50ICJJbnRlcmFjdGl2ZSB0ZXN0OiB3aXRoIGxlZnQgbW91c2UgYnV0dG9uIHNlbGVjdCBsaXZlciwgXAogICAgICAgICAgICB3aXRoIHJpZ2h0IG1vdXNlIGJ1dHRvbiBzZWxlY3Qgb3RoZXIgdGlzc3VlcyIKICAgICAgICAjIGdjcGFyYW1zID0geydwYWlyd2lzZUFscGhhJzoxMCwgJ3VzZV9ib3VuZGFyeV9wZW5hbHRpZXMnOlRydWV9CiAgICAgICAgc2VncGFyYW1zID0geydwYWlyd2lzZV9hbHBoYV9wZXInOiAzLAogICAgICAgICAgICAgICAgICAgICAndXNlX2JvdW5kYXJ5X3BlbmFsdGllcyc6IFRydWUsCiAgICAgICAgICAgICAgICAgICAgICdib3VuZGFyeV9wZW5hbHRpZXNfc2lnbWEnOiAyMDB9CiAgICAgICAgb3NlZyA9IG9yZ2FuX3NlZ21lbnRhdGlvbi5PcmdhblNlZ21lbnRhdGlvbigKICAgICAgICAgICAgZGNtZGlyLCB3b3JraW5nX3ZveGVsc2l6ZV9tbT00LCBzZWdwYXJhbXM9c2VncGFyYW1zKQogICAgICAgIG9zZWcuYWRkX3NlZWRzX21tKFsxMjBdLCBbMTIwXSwgWzQwMF0sIGxhYmVsPTEsIHJhZGl1cz0zMCkKICAgICAgICBvc2VnLmFkZF9zZWVkc19tbShbMTcwLCAyMjAsIDI1MF0sIFsyNTAsIDI4MCwgMjAwXSwgWzQwMF0sIGxhYmVsPTIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgcmFkaXVzPTMwKQoKICAgICAgICAiYm91bmRhcnkgcGVuYWx0aWVzIgogICAgICAgIG9zZWcuaW50ZXJhY3Rpdml0eSgpCiAgICAgICAgIyBvc2VnLm5pbnRlcmFjdGl2aXR5KCkKCiAgICAgICAgdm9sdW1lID0gb3NlZy5nZXRfc2VnbWVudGVkX3ZvbHVtZV9zaXplX21tMygpCgogICAgICAgICMgbWlzYy5vYmpfdG9fZmlsZShvc2VnLmdldF9pcGFyYW1zKCksJ2lwYXJhbXMucGtsJywgZmlsZXR5cGU9J3BpY2tsZScpCgogICAgICAgIHNlbGYuYXNzZXJ0R3JlYXRlcih2b2x1bWUsIDEwMDAwMDApCg==</text>
+      <register name="1" type="4">
+        <text>.</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">IyBAVE9ETyBkb2xhZGl0IGJvdW5kYXJ5IHBlbmFsdGllcwogICAgIyBAdW5pdHRlc3Quc2tpcElmKG5vdCBpbnRlcmFjdGl2ZVRlc3QsICJpbnRlcmFjdGl2ZSB0ZXN0IikKICAgIEB1bml0dGVzdC5za2lwKCJpbnRlcmFjdGl2aXR5IHBhcmFtcyBhcmUgb2Jzb2xldGUiKQogICAgZGVmIHRlc3Rfb3JnYW5fc2VnbWVudGF0aW9uX3dpdGhfYm91bmRhcnlfcGVuYWx0aWVzKHNlbGYpOgogICAgICAgICIiIgogICAgICAgIEludGVyYWN0aXZpdHkgaXMgc3RvcmVkIHRvIGZpbGUKICAgICAgICAiIiIKICAgICAgICBkY21kaXIgPSBvcy5wYXRoLmpvaW4ocGF0aF90b19zY3JpcHQsICcuLy4uL3NhbXBsZV9kYXRhL2phdHJhXzVtbScpCgogICAgICAgIHByaW50ICJJbnRlcmFjdGl2ZSB0ZXN0OiB3aXRoIGxlZnQgbW91c2UgYnV0dG9uIHNlbGVjdCBsaXZlciwgXAogICAgICAgICAgICB3aXRoIHJpZ2h0IG1vdXNlIGJ1dHRvbiBzZWxlY3Qgb3RoZXIgdGlzc3VlcyIKICAgICAgICAjIGdjcGFyYW1zID0geydwYWlyd2lzZUFscGhhJzoxMCwgJ3VzZV9ib3VuZGFyeV9wZW5hbHRpZXMnOlRydWV9CiAgICAgICAgc2VncGFyYW1zID0geydwYWlyd2lzZV9hbHBoYV9wZXInOiAzLAogICAgICAgICAgICAgICAgICAgICAndXNlX2JvdW5kYXJ5X3BlbmFsdGllcyc6IFRydWUsCiAgICAgICAgICAgICAgICAgICAgICdib3VuZGFyeV9wZW5hbHRpZXNfc2lnbWEnOiAyMDB9CiAgICAgICAgb3NlZyA9IG9yZ2FuX3NlZ21lbnRhdGlvbi5PcmdhblNlZ21lbnRhdGlvbigKICAgICAgICAgICAgZGNtZGlyLCB3b3JraW5nX3ZveGVsc2l6ZV9tbT00LCBzZWdwYXJhbXM9c2VncGFyYW1zKQogICAgICAgIG9zZWcuYWRkX3NlZWRzX21tKFsxMjBdLCBbMTIwXSwgWzQwMF0sIGxhYmVsPTEsIHJhZGl1cz0zMCkKICAgICAgICBvc2VnLmFkZF9zZWVkc19tbShbMTcwLCAyMjAsIDI1MF0sIFsyNTAsIDI4MCwgMjAwXSwgWzQwMF0sIGxhYmVsPTIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgcmFkaXVzPTMwKQoKICAgICAgICAiYm91bmRhcnkgcGVuYWx0aWVzIgogICAgICAgIG9zZWcuaW50ZXJhY3Rpdml0eSgpCiAgICAgICAgIyBvc2VnLm5pbnRlcmFjdGl2aXR5KCkKCiAgICAgICAgdm9sdW1lID0gb3NlZy5nZXRfc2VnbWVudGVkX3ZvbHVtZV9zaXplX21tMygpCgogICAgICAgICMgbWlzYy5vYmpfdG9fZmlsZShvc2VnLmdldF9pcGFyYW1zKCksJ2lwYXJhbXMucGtsJywgZmlsZXR5cGU9J3BpY2tsZScpCgogICAgICAgIHNlbGYuYXNzZXJ0R3JlYXRlcih2b2x1bWUsIDEwMDAwMDApCg==</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+        <text>()&quot;)</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcK</text>
+      <register name="6" type="4">
+        <text>sample with two dimensional feature vector</text>
       </register>
       <register name="5" type="4">
-        <text>_fit</text>
+        <text>with_boundary_penalties</text>
       </register>
-      <register name="4" type="4">
-        <text>()&quot;)</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICMgQFRPRE8gZG9sYWRpdCBib3VuZGFyeSBwZW5hbHRpZXMKICAgICMgQHVuaXR0ZXN0LnNraXBJZihub3QgaW50ZXJhY3RpdmVUZXN0LCAiaW50ZXJhY3RpdmUgdGVzdCIpCiAgICAjIEB1bml0dGVzdC5za2lwKCJpbnRlcmFjdGl2aXR5IHBhcmFtcyBhcmUgb2Jzb2xldGUiKQogICAgZGVmIHRlc3Rfb3JnYW5fc2VnbWVudGF0aW9uX3dpdGhfcHJldHJhaW5lZF9jbGFzc2lmaWVyKHNlbGYpOgogICAgICAgICIiIgogICAgICAgIEludGVyYWN0aXZpdHkgaXMgc3RvcmVkIHRvIGZpbGUKICAgICAgICAiIiIKICAgICAgICBkY21kaXIgPSBvcy5wYXRoLmpvaW4ocGF0aF90b19zY3JpcHQsICcuLy4uL3NhbXBsZV9kYXRhL2phdHJhXzVtbScpCgogICAgICAgIHByaW50ICJJbnRlcmFjdGl2ZSB0ZXN0OiB3aXRoIGxlZnQgbW91c2UgYnV0dG9uIHNlbGVjdCBsaXZlciwgXAogICAgICAgICAgICB3aXRoIHJpZ2h0IG1vdXNlIGJ1dHRvbiBzZWxlY3Qgb3RoZXIgdGlzc3VlcyIKICAgICAgICAjIGdjcGFyYW1zID0geydwYWlyd2lzZUFscGhhJzoxMCwgJ3VzZV9ib3VuZGFyeV9wZW5hbHRpZXMnOlRydWV9CiAgICAgICAgc2VncGFyYW1zID0geydwYWlyd2lzZV9hbHBoYV9wZXInOiAzLAogICAgICAgICAgICAgICAgICAgICAndXNlX2JvdW5kYXJ5X3BlbmFsdGllcyc6IFRydWUsCiAgICAgICAgICAgICAgICAgICAgICdib3VuZGFyeV9wZW5hbHRpZXNfc2lnbWEnOiAyMDB9CiAgICAgICAgb3NlZyA9IG9yZ2FuX3NlZ21lbnRhdGlvbi5PcmdhblNlZ21lbnRhdGlvbigKICAgICAgICAgICAgZGNtZGlyLCB3b3JraW5nX3ZveGVsc2l6ZV9tbT00LCBzZWdwYXJhbXM9c2VncGFyYW1zKQogICAgICAgIG9zZWcuYWRkX3NlZWRzX21tKFsxMjBdLCBbMTIwXSwgWzQwMF0sIGxhYmVsPTEsIHJhZGl1cz0zMCkKICAgICAgICBvc2VnLmFkZF9zZWVkc19tbShbMTcwLCAyMjAsIDI1MF0sIFsyNTAsIDI4MCwgMjAwXSwgWzQwMF0sIGxhYmVsPTIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgcmFkaXVzPTMwKQoKICAgICAgICAiYm91bmRhcnkgcGVuYWx0aWVzIgogICAgICAgIG9zZWcuaW50ZXJhY3Rpdml0eSgpCiAgICAgICAgIyBvc2VnLm5pbnRlcmFjdGl2aXR5KCkKCiAgICAgICAgdm9sdW1lID0gb3NlZy5nZXRfc2VnbWVudGVkX3ZvbHVtZV9zaXplX21tMygpCgogICAgICAgICMgbWlzYy5vYmpfdG9fZmlsZShvc2VnLmdldF9pcGFyYW1zKCksJ2lwYXJhbXMucGtsJywgZmlsZXR5cGU9J3BpY2tsZScpCgogICAgICAgIHNlbGYuYXNzZXJ0R3JlYXRlcih2b2x1bWUsIDEwMDAwMDApCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpcGRiCg==</text>
+      <register name="8" type="4">
+        <text>_fit</text>
       </register>
       <register name="/" type="4">
         <text>jatra_5</text>
       </register>
       <register name="-" type="4">
-        <text>with_boundary_penalties</text>
+        <text>.</text>
       </register>
     </registers>
     <search>
