@@ -173,11 +173,13 @@
         <mark key="^" line="20" column="12" />
         <mark key="." line="20" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/tests/liver_segmentation_test.py" timestamp="1449387474128">
-        <mark key="[" line="221" column="39" />
-        <mark key="]" line="226" column="0" />
-        <mark key="." line="226" column="0" />
-        <mark key="^" line="226" column="0" />
+      <file name="$USER_HOME$/projects/lisa/tests/liver_segmentation_test.py" timestamp="1449392678008">
+        <mark key="a" line="233" column="17" />
+        <mark key="'" line="27" column="0" />
+        <mark key="[" line="233" column="73" />
+        <mark key="]" line="233" column="73" />
+        <mark key="." line="233" column="73" />
+        <mark key="^" line="233" column="73" />
       </file>
       <file name="$USER_HOME$/projects/quanta/quantan/histology_analyser_gui.py" timestamp="1446553541813">
         <mark key="'" line="38" column="7" />
@@ -629,13 +631,15 @@
       <jump line="1167" column="27" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
       <jump line="1349" column="18" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
       <jump line="46" column="24" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="233" column="17" filename="$USER_HOME$/projects/lisa/tests/liver_segmentation_test.py" />
+      <jump line="27" column="0" filename="$USER_HOME$/projects/lisa/tests/liver_segmentation_test.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>sample with two dimensional feature vector</text>
+        <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>sample with two dimensional feature vector</text>
+        <text>k</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtdWx0aXNjYWxlX2dyYXBoY3V0XD4=</text>
@@ -644,31 +648,31 @@
         <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoIl9maXQoKSIpCg==</text>
       </register>
       <register name="1" type="4">
-        <text>sample with two dimensional feature vector</text>
+        <text>k</text>
       </register>
       <register name="2" type="4">
-        <text>()&quot;)</text>
+        <text>i</text>
       </register>
       <register name="3" type="4">
-        <text>_fit</text>
+        <text>r</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcK</text>
+      <register name="4" type="4">
+        <text>i</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+        <text>j</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpcGRiCg==</text>
+      <register name="6" type="4">
+        <text>m</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+      <register name="7" type="4">
+        <text>/</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuCg==</text>
+      <register name="8" type="4">
+        <text>e</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLgo=</text>
+      <register name="9" type="4">
+        <text>m</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
