@@ -52,7 +52,7 @@
         <mark key="." line="1" column="6" />
         <mark key="[" line="0" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/tests/liver_segmentation_test.py" timestamp="1449489438266">
+      <file name="$USER_HOME$/projects/lisa/tests/liver_segmentation_test.py" timestamp="1449490657147">
         <mark key="'" line="26" column="0" />
         <mark key="a" line="57" column="17" />
         <mark key="]" line="19" column="67" />
@@ -349,7 +349,7 @@
         <mark key="." line="168" column="119" />
         <mark key="[" line="169" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1449487866271">
+      <file name="/a.dummy" timestamp="1449490550240">
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -512,12 +512,13 @@
         <mark key="." line="142" column="23" />
         <mark key="[" line="142" column="23" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/liver_segmentation_training.py" timestamp="1449489563875">
-        <mark key="'" line="38" column="0" />
-        <mark key="a" line="93" column="28" />
-        <mark key="]" line="34" column="14" />
-        <mark key="." line="34" column="14" />
-        <mark key="[" line="34" column="14" />
+      <file name="$USER_HOME$/projects/lisa/lisa/liver_segmentation_training.py" timestamp="1449490476384">
+        <mark key="'" line="233" column="4" />
+        <mark key="a" line="92" column="28" />
+        <mark key="]" line="269" column="38" />
+        <mark key="^" line="269" column="38" />
+        <mark key="." line="269" column="38" />
+        <mark key="[" line="269" column="4" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1448959677235">
         <mark key="'" line="717" column="15" />
@@ -655,49 +656,51 @@
       <jump line="196" column="28" filename="$USER_HOME$/projects/lisa/lisa/liver_segmentation_training.py" />
       <jump line="23" column="9" filename="$USER_HOME$/projects/lisa/lisa/liver_segmentation_training.py" />
       <jump line="38" column="0" filename="$USER_HOME$/projects/lisa/lisa/liver_segmentation_training.py" />
+      <jump line="168" column="14" filename="$USER_HOME$/projects/lisa/lisa/liver_segmentation_training.py" />
+      <jump line="233" column="4" filename="$USER_HOME$/projects/lisa/lisa/liver_segmentation_training.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>liver segmentation tests</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGlvM2QK</text>
+        <text encoding="base64">ZGVmIHRyYWluX2xpdmVyX21vZGVsX2Zyb21fc2xpdmVyX2RhdGEoCiAgICAgICAgb3V0cHV0X2ZpbGU9In4vbGlzYV9kYXRhL2xpdmVyX2ludGVuc2l0eS5Nb2RlbC5wIiwKICAgICAgICBzbGl2ZXJfcmVmZXJlbmNlX2Rpcj0nfi9kYXRhL21lZGljYWwvb3JpZy9zbGl2ZXIwNy90cmFpbmluZy8nLAogICAgICAgIG9yaWdfcGF0dGVybj0iKm9yaWcqWzEtOV0ubWhkIiwKICAgICAgICByZWZfcGF0dGVybj0iKnNlZypbMS05XS5taGQiKToKICAgIGZvcmNlID0gVHJ1ZQogICAgZm9yY2UgPSBGYWxzZQogICAgZm5hbWVfdnMgPSAndnNfc3RhdHMuY3N2JwogICAgZm5hbWVfZmhzID0gJ2Zoc19zdGF0cy5wa2x6JwoKICAgIHNsaXZlcl9yZWZlcmVuY2VfZGlyID0gb3AuZXhwYW5kdXNlcihzbGl2ZXJfcmVmZXJlbmNlX2RpcikKCiAgICBvcmlnX2ZuYW1lcyA9IGdsb2IuZ2xvYihzbGl2ZXJfcmVmZXJlbmNlX2RpciArIG9yaWdfcGF0dGVybikKCiAgICByZWZfZm5hbWVzID0gZ2xvYi5nbG9iKHNsaXZlcl9yZWZlcmVuY2VfZGlyICsgcmVmX3BhdHRlcm4pCgogICAgb3JpZ19mbmFtZXMuc29ydCgpCiAgICByZWZfZm5hbWVzLnNvcnQoKQoKCiAgICAjaWYgb3AuZXhpc3RzKGZuYW1lX3ZzKSBhbmQgb3AuZXhpc3RzKGZuYW1lX2ZocykgYW5kIChmb3JjZSBpcyBGYWxzZSk6CiAgICAjICAgIGRmdnMgPSBwZC5yZWFkX2NzdihmbmFtZV92cywgaW5kZXhfY29sPTApCiAgICAjICAgIGZoc19saXN0ID0gaW8zZC5taXNjLm9ial9mcm9tX2ZpbGUoZm5hbWVfZmhzLCAnYXV0bycpCgogICAgI2Vsc2U6CgogICAgc2YgPSBNb2RlbFRyYWluZXIoKQogICAgZm9yIG9uYW1lLCBybmFtZSBpbiB6aXAob3JpZ19mbmFtZXMsIHJlZl9mbmFtZXMpOgogICAgICAgIHByaW50IG9uYW1lCiAgICAgICAgZGF0YTNkX29yaWcsIG1ldGFkYXRhID0gaW8zZC5kYXRhcmVhZGVyLnJlYWQob25hbWUpCiAgICAgICAgdnNfbW0xID0gbWV0YWRhdGFbJ3ZveGVsc2l6ZV9tbSddCiAgICAgICAgZGF0YTNkX3NlZywgbWV0YWRhdGEgPSBpbzNkLmRhdGFyZWFkZXIucmVhZChybmFtZSkKICAgICAgICB2c19tbSA9IG1ldGFkYXRhWyd2b3hlbHNpemVfbW0nXQoKICAgICAgICAjIGxpdmVyIGhhdmUgbGFiZWwgMSwgYmFja2dyb3VuZCBoYXZlIGxhYmVsIDIKICAgICAgICBkYXRhM2Rfc2VnID0gMiAtIGRhdGEzZF9zZWcKCiAgICAjICAgICBzZi5hZGRfdHJhaW5fZGF0YShkYXRhM2Rfb3JpZywgZGF0YTNkX3NlZywgdm94ZWxzaXplX21tPXZzX21tKQogICAgICAgIHRyeToKICAgICAgICAgICAgc2YuYWRkX3RyYWluX2RhdGEoZGF0YTNkX29yaWcsIGRhdGEzZF9zZWcsIHZveGVsc2l6ZV9tbT12c19tbSkKICAgICAgICBleGNlcHQ6CiAgICAgICAgICAgIHRyYWNlYmFjay5wcmludF9leGMoKQogICAgICAgICAgICBwcmludCAicHJvYmxlbSAtIGxpdmVyIG1vZGVsIgogICAgICAgICAgICBwYXNzCiAgICAgICAgIyBmdmhuID0gY29weS5kZWVwY29weShmdmgpCiAgICAgICAgI2Zoc19saXN0LmFwcGVuZChmdmgpCgoKICAgIHNmLmZpdCgpCgogICAgb3V0cHV0X2ZpbGUgPSBvcC5leHBhbmR1c2VyKG91dHB1dF9maWxlKQogICAgc2YuY2wuc2F2ZShvdXRwdXRmaWxlPW91dHB1dF9maWxlKQoK</text>
       </register>
       <register name="2" type="4">
-        <text>e</text>
+        <text>train_liver_localizator_from_sliver_data</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+        <text>liver segmentation tests</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">cGF0aF90b19zY3JpcHQgPSBvcy5wYXRoLmRpcm5hbWUob3MucGF0aC5hYnNwYXRoKF9fZmlsZV9fKSkKc3lzLnBhdGguYXBwZW5kKG9zLnBhdGguam9pbihwYXRoX3RvX3NjcmlwdCwgIi4uLy4uL3B5c2VnYmFzZS9zcmMiKSkK</text>
       </register>
-      <register name="7" type="4">
-        <text>/</text>
+      <register name="7" type="2">
+        <text encoding="base64">cGF0aF90b19zY3JpcHQgPSAK</text>
       </register>
       <register name="6" type="4">
-        <text>home</text>
+        <text>src</text>
       </register>
       <register name="5" type="4">
-        <text>/</text>
+        <text>src</text>
       </register>
       <register name="4" type="4">
-        <text>mjirik</text>
+        <text encoding="base64">aW1wb3J0IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>&quot;/home/mjirik/lisa_data/liver_intensity.Model.p&quot;</text>
+        <text>op.dirname(os.path.abspath(__file__))</text>
       </register>
       <register name="8" type="4">
-        <text>e=&quot;liver.ol.p&quot;</text>
+        <text>path_to_script</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtdWx0aXNjYWxlX2dyYXBoY3V0XD4=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>liver segmentation tests</text>
       </register>
     </registers>
     <search>
