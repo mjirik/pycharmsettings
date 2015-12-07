@@ -28,7 +28,7 @@
         <mark key="^" line="44" column="50" />
         <mark key="." line="44" column="50" />
       </file>
-      <file name="/a.dummy" timestamp="1449429906677">
+      <file name="/a.dummy" timestamp="1449520788070">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -173,14 +173,6 @@
         <mark key="^" line="20" column="12" />
         <mark key="." line="20" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/tests/liver_segmentation_test.py" timestamp="1449392678008">
-        <mark key="a" line="233" column="17" />
-        <mark key="'" line="27" column="0" />
-        <mark key="[" line="233" column="73" />
-        <mark key="]" line="233" column="73" />
-        <mark key="." line="233" column="73" />
-        <mark key="^" line="233" column="73" />
-      </file>
       <file name="$USER_HOME$/projects/quanta/quantan/histology_analyser_gui.py" timestamp="1446553541813">
         <mark key="'" line="38" column="7" />
         <mark key="[" line="38" column="13" />
@@ -195,6 +187,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="92" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/lisa/lisa/liver_model.py" timestamp="1449520723781">
+        <mark key="[" line="184" column="36" />
+        <mark key="]" line="208" column="44" />
+        <mark key="^" line="208" column="44" />
+        <mark key="." line="208" column="44" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/vesseltree_export.py" timestamp="1445327936618">
         <mark key="'" line="88" column="42" />
@@ -458,11 +456,6 @@
         <mark key="^" line="58" column="115" />
         <mark key="." line="58" column="115" />
       </file>
-      <file name="/Dummy.txt" timestamp="1449429924681">
-        <mark key="[" line="0" column="11" />
-        <mark key="]" line="0" column="11" />
-        <mark key="." line="0" column="11" />
-      </file>
       <file name="$USER_HOME$/projects/lisa/lisa/data_manipulation.py" timestamp="1448964232212">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="28" column="13" />
@@ -635,11 +628,11 @@
       <jump line="27" column="0" filename="$USER_HOME$/projects/lisa/tests/liver_segmentation_test.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>ith check of conda installation</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ3R5cGUnOiAnZ21tc2FtZScsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>ith check of conda installation</text>
+        <text>default</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtdWx0aXNjYWxlX2dyYXBoY3V0XD4=</text>
@@ -647,32 +640,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoIl9maXQoKSIpCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>ith check of conda installation</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ3R5cGUnOiAnZ21tc2FtZScsCg==</text>
       </register>
       <register name="2" type="4">
-        <text>k</text>
+        <text>default</text>
       </register>
       <register name="3" type="4">
-        <text>i</text>
+        <text>ith check of conda installation</text>
       </register>
       <register name="4" type="4">
-        <text>r</text>
+        <text>k</text>
       </register>
       <register name="5" type="4">
         <text>i</text>
       </register>
       <register name="6" type="4">
-        <text>j</text>
+        <text>r</text>
       </register>
       <register name="7" type="4">
-        <text>m</text>
+        <text>i</text>
       </register>
       <register name="8" type="4">
-        <text>/</text>
+        <text>j</text>
       </register>
       <register name="9" type="4">
-        <text>e</text>
+        <text>m</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

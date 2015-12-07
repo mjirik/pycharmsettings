@@ -182,7 +182,7 @@
         <entry key="ipaddress" value="1.0.14" />
         <entry key="ipykernel" value="4.1.1" />
         <entry key="ipyparallel" value="4.1.0" />
-        <entry key="ipython" value="4.0.0" />
+        <entry key="ipython" value="4.0.1" />
         <entry key="ipython-notebook" value="4.0.4" />
         <entry key="ipython-qtconsole" value="4.0.1" />
         <entry key="ipython_genutils" value="0.1.0" />
@@ -387,7 +387,7 @@
         <entry key="pyreadline" value="2.1" />
         <entry key="pysal" value="1.10.0" />
         <entry key="pysam" value="0.6" />
-        <entry key="pysegbase" value="1.1.2" />
+        <entry key="pysegbase" value="1.2.0" />
         <entry key="pyserial" value="2.7" />
         <entry key="pyside" value="1.2.1" />
         <entry key="pysnmp" value="4.2.5" />
@@ -2479,6 +2479,7 @@
               <option value="2.2.0" />
               <option value="0.13" />
               <option value="2.4.1" />
+              <option value="4.0.1" />
             </list>
           </value>
         </entry>
@@ -4444,6 +4445,7 @@
               <option value="1.1.0" />
               <option value="1.1.1" />
               <option value="1.1.2" />
+              <option value="1.2.0" />
             </list>
           </value>
         </entry>
@@ -5861,6 +5863,6 @@
     <option name="CONDA_CHANNELS">
       <set />
     </option>
-    <option name="LAST_TIME_CHECKED" value="1449385363321" />
+    <option name="LAST_TIME_CHECKED" value="1449519534596" />
   </component>
 </application>
