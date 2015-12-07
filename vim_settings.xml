@@ -59,12 +59,17 @@
         <mark key="." line="45" column="0" />
         <mark key="[" line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/pysegbase/tests/pycut_test.py" timestamp="1448529399511">
-        <mark key="'" line="9" column="0" />
-        <mark key="]" line="19" column="55" />
-        <mark key="^" line="19" column="55" />
-        <mark key="." line="27" column="56" />
-        <mark key="[" line="19" column="0" />
+      <file name="/fragment.py" timestamp="1449491882761">
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/pysegbase/tests/pycut_test.py" timestamp="1449492307701">
+        <mark key="'" line="91" column="29" />
+        <mark key="]" line="149" column="10" />
+        <mark key="^" line="149" column="10" />
+        <mark key="." line="149" column="10" />
+        <mark key="[" line="149" column="11" />
       </file>
       <file name="$USER_HOME$/projects/quanta/quanta/__main__.py" timestamp="1446549342592">
         <mark key="]" line="1" column="12" />
@@ -108,7 +113,7 @@
         <mark key="." line="502" column="16" />
         <mark key="[" line="502" column="4" />
       </file>
-      <file name="/Python Console" timestamp="1449385924253">
+      <file name="/Python Console" timestamp="1449492331204">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/quanta/setup.py" timestamp="1446640023460">
@@ -658,61 +663,62 @@
       <jump line="38" column="0" filename="$USER_HOME$/projects/lisa/lisa/liver_segmentation_training.py" />
       <jump line="168" column="14" filename="$USER_HOME$/projects/lisa/lisa/liver_segmentation_training.py" />
       <jump line="233" column="4" filename="$USER_HOME$/projects/lisa/lisa/liver_segmentation_training.py" />
+      <jump line="21" column="4" filename="$USER_HOME$/projects/pysegbase/tests/pycut_test.py" />
+      <jump line="91" column="29" filename="$USER_HOME$/projects/pysegbase/tests/pycut_test.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>liver segmentation tests</text>
+        <text>,</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ZGVmIHRyYWluX2xpdmVyX21vZGVsX2Zyb21fc2xpdmVyX2RhdGEoCiAgICAgICAgb3V0cHV0X2ZpbGU9In4vbGlzYV9kYXRhL2xpdmVyX2ludGVuc2l0eS5Nb2RlbC5wIiwKICAgICAgICBzbGl2ZXJfcmVmZXJlbmNlX2Rpcj0nfi9kYXRhL21lZGljYWwvb3JpZy9zbGl2ZXIwNy90cmFpbmluZy8nLAogICAgICAgIG9yaWdfcGF0dGVybj0iKm9yaWcqWzEtOV0ubWhkIiwKICAgICAgICByZWZfcGF0dGVybj0iKnNlZypbMS05XS5taGQiKToKICAgIGZvcmNlID0gVHJ1ZQogICAgZm9yY2UgPSBGYWxzZQogICAgZm5hbWVfdnMgPSAndnNfc3RhdHMuY3N2JwogICAgZm5hbWVfZmhzID0gJ2Zoc19zdGF0cy5wa2x6JwoKICAgIHNsaXZlcl9yZWZlcmVuY2VfZGlyID0gb3AuZXhwYW5kdXNlcihzbGl2ZXJfcmVmZXJlbmNlX2RpcikKCiAgICBvcmlnX2ZuYW1lcyA9IGdsb2IuZ2xvYihzbGl2ZXJfcmVmZXJlbmNlX2RpciArIG9yaWdfcGF0dGVybikKCiAgICByZWZfZm5hbWVzID0gZ2xvYi5nbG9iKHNsaXZlcl9yZWZlcmVuY2VfZGlyICsgcmVmX3BhdHRlcm4pCgogICAgb3JpZ19mbmFtZXMuc29ydCgpCiAgICByZWZfZm5hbWVzLnNvcnQoKQoKCiAgICAjaWYgb3AuZXhpc3RzKGZuYW1lX3ZzKSBhbmQgb3AuZXhpc3RzKGZuYW1lX2ZocykgYW5kIChmb3JjZSBpcyBGYWxzZSk6CiAgICAjICAgIGRmdnMgPSBwZC5yZWFkX2NzdihmbmFtZV92cywgaW5kZXhfY29sPTApCiAgICAjICAgIGZoc19saXN0ID0gaW8zZC5taXNjLm9ial9mcm9tX2ZpbGUoZm5hbWVfZmhzLCAnYXV0bycpCgogICAgI2Vsc2U6CgogICAgc2YgPSBNb2RlbFRyYWluZXIoKQogICAgZm9yIG9uYW1lLCBybmFtZSBpbiB6aXAob3JpZ19mbmFtZXMsIHJlZl9mbmFtZXMpOgogICAgICAgIHByaW50IG9uYW1lCiAgICAgICAgZGF0YTNkX29yaWcsIG1ldGFkYXRhID0gaW8zZC5kYXRhcmVhZGVyLnJlYWQob25hbWUpCiAgICAgICAgdnNfbW0xID0gbWV0YWRhdGFbJ3ZveGVsc2l6ZV9tbSddCiAgICAgICAgZGF0YTNkX3NlZywgbWV0YWRhdGEgPSBpbzNkLmRhdGFyZWFkZXIucmVhZChybmFtZSkKICAgICAgICB2c19tbSA9IG1ldGFkYXRhWyd2b3hlbHNpemVfbW0nXQoKICAgICAgICAjIGxpdmVyIGhhdmUgbGFiZWwgMSwgYmFja2dyb3VuZCBoYXZlIGxhYmVsIDIKICAgICAgICBkYXRhM2Rfc2VnID0gMiAtIGRhdGEzZF9zZWcKCiAgICAjICAgICBzZi5hZGRfdHJhaW5fZGF0YShkYXRhM2Rfb3JpZywgZGF0YTNkX3NlZywgdm94ZWxzaXplX21tPXZzX21tKQogICAgICAgIHRyeToKICAgICAgICAgICAgc2YuYWRkX3RyYWluX2RhdGEoZGF0YTNkX29yaWcsIGRhdGEzZF9zZWcsIHZveGVsc2l6ZV9tbT12c19tbSkKICAgICAgICBleGNlcHQ6CiAgICAgICAgICAgIHRyYWNlYmFjay5wcmludF9leGMoKQogICAgICAgICAgICBwcmludCAicHJvYmxlbSAtIGxpdmVyIG1vZGVsIgogICAgICAgICAgICBwYXNzCiAgICAgICAgIyBmdmhuID0gY29weS5kZWVwY29weShmdmgpCiAgICAgICAgI2Zoc19saXN0LmFwcGVuZChmdmgpCgoKICAgIHNmLmZpdCgpCgogICAgb3V0cHV0X2ZpbGUgPSBvcC5leHBhbmR1c2VyKG91dHB1dF9maWxlKQogICAgc2YuY2wuc2F2ZShvdXRwdXRmaWxlPW91dHB1dF9maWxlKQoK</text>
+      <register name="3" type="4">
+        <text>int</text>
       </register>
-      <register name="2" type="4">
-        <text>train_liver_localizator_from_sliver_data</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbnAuc3VtKAogICAgICAgICAgICAgICAgbnAuYWJzKAogICAgICAgICAgICAgICAgICAgIChnYy5zZWdtZW50YXRpb24gPT0gMCkuYXN0eXBlKG5wLmludDgpIC0gc2VnLmFzdHlwZShucC5pbnQ4KSkKICAgICAgICAgICAgKSwK</text>
       </register>
       <register name="1" type="4">
-        <text>liver segmentation tests</text>
+        <text>,</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">cGF0aF90b19zY3JpcHQgPSBvcy5wYXRoLmRpcm5hbWUob3MucGF0aC5hYnNwYXRoKF9fZmlsZV9fKSkKc3lzLnBhdGguYXBwZW5kKG9zLnBhdGguam9pbihwYXRoX3RvX3NjcmlwdCwgIi4uLy4uL3B5c2VnYmFzZS9zcmMiKSkK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">cGF0aF90b19zY3JpcHQgPSAK</text>
+      <register name="7" type="4">
+        <text>liver segmentation tests</text>
       </register>
       <register name="6" type="4">
-        <text>src</text>
+        <text>=</text>
       </register>
       <register name="5" type="4">
-        <text>src</text>
+        <text>=</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">aW1wb3J0IA==</text>
+        <text>0</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="4">
-        <text>op.dirname(os.path.abspath(__file__))</text>
+      <register name="9" type="2">
+        <text encoding="base64">ZGVmIHRyYWluX2xpdmVyX21vZGVsX2Zyb21fc2xpdmVyX2RhdGEoCiAgICAgICAgb3V0cHV0X2ZpbGU9In4vbGlzYV9kYXRhL2xpdmVyX2ludGVuc2l0eS5Nb2RlbC5wIiwKICAgICAgICBzbGl2ZXJfcmVmZXJlbmNlX2Rpcj0nfi9kYXRhL21lZGljYWwvb3JpZy9zbGl2ZXIwNy90cmFpbmluZy8nLAogICAgICAgIG9yaWdfcGF0dGVybj0iKm9yaWcqWzEtOV0ubWhkIiwKICAgICAgICByZWZfcGF0dGVybj0iKnNlZypbMS05XS5taGQiKToKICAgIGZvcmNlID0gVHJ1ZQogICAgZm9yY2UgPSBGYWxzZQogICAgZm5hbWVfdnMgPSAndnNfc3RhdHMuY3N2JwogICAgZm5hbWVfZmhzID0gJ2Zoc19zdGF0cy5wa2x6JwoKICAgIHNsaXZlcl9yZWZlcmVuY2VfZGlyID0gb3AuZXhwYW5kdXNlcihzbGl2ZXJfcmVmZXJlbmNlX2RpcikKCiAgICBvcmlnX2ZuYW1lcyA9IGdsb2IuZ2xvYihzbGl2ZXJfcmVmZXJlbmNlX2RpciArIG9yaWdfcGF0dGVybikKCiAgICByZWZfZm5hbWVzID0gZ2xvYi5nbG9iKHNsaXZlcl9yZWZlcmVuY2VfZGlyICsgcmVmX3BhdHRlcm4pCgogICAgb3JpZ19mbmFtZXMuc29ydCgpCiAgICByZWZfZm5hbWVzLnNvcnQoKQoKCiAgICAjaWYgb3AuZXhpc3RzKGZuYW1lX3ZzKSBhbmQgb3AuZXhpc3RzKGZuYW1lX2ZocykgYW5kIChmb3JjZSBpcyBGYWxzZSk6CiAgICAjICAgIGRmdnMgPSBwZC5yZWFkX2NzdihmbmFtZV92cywgaW5kZXhfY29sPTApCiAgICAjICAgIGZoc19saXN0ID0gaW8zZC5taXNjLm9ial9mcm9tX2ZpbGUoZm5hbWVfZmhzLCAnYXV0bycpCgogICAgI2Vsc2U6CgogICAgc2YgPSBNb2RlbFRyYWluZXIoKQogICAgZm9yIG9uYW1lLCBybmFtZSBpbiB6aXAob3JpZ19mbmFtZXMsIHJlZl9mbmFtZXMpOgogICAgICAgIHByaW50IG9uYW1lCiAgICAgICAgZGF0YTNkX29yaWcsIG1ldGFkYXRhID0gaW8zZC5kYXRhcmVhZGVyLnJlYWQob25hbWUpCiAgICAgICAgdnNfbW0xID0gbWV0YWRhdGFbJ3ZveGVsc2l6ZV9tbSddCiAgICAgICAgZGF0YTNkX3NlZywgbWV0YWRhdGEgPSBpbzNkLmRhdGFyZWFkZXIucmVhZChybmFtZSkKICAgICAgICB2c19tbSA9IG1ldGFkYXRhWyd2b3hlbHNpemVfbW0nXQoKICAgICAgICAjIGxpdmVyIGhhdmUgbGFiZWwgMSwgYmFja2dyb3VuZCBoYXZlIGxhYmVsIDIKICAgICAgICBkYXRhM2Rfc2VnID0gMiAtIGRhdGEzZF9zZWcKCiAgICAjICAgICBzZi5hZGRfdHJhaW5fZGF0YShkYXRhM2Rfb3JpZywgZGF0YTNkX3NlZywgdm94ZWxzaXplX21tPXZzX21tKQogICAgICAgIHRyeToKICAgICAgICAgICAgc2YuYWRkX3RyYWluX2RhdGEoZGF0YTNkX29yaWcsIGRhdGEzZF9zZWcsIHZveGVsc2l6ZV9tbT12c19tbSkKICAgICAgICBleGNlcHQ6CiAgICAgICAgICAgIHRyYWNlYmFjay5wcmludF9leGMoKQogICAgICAgICAgICBwcmludCAicHJvYmxlbSAtIGxpdmVyIG1vZGVsIgogICAgICAgICAgICBwYXNzCiAgICAgICAgIyBmdmhuID0gY29weS5kZWVwY29weShmdmgpCiAgICAgICAgI2Zoc19saXN0LmFwcGVuZChmdmgpCgoKICAgIHNmLmZpdCgpCgogICAgb3V0cHV0X2ZpbGUgPSBvcC5leHBhbmR1c2VyKG91dHB1dF9maWxlKQogICAgc2YuY2wuc2F2ZShvdXRwdXRmaWxlPW91dHB1dF9maWxlKQoK</text>
       </register>
       <register name="8" type="4">
-        <text>path_to_script</text>
+        <text>train_liver_localizator_from_sliver_data</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtdWx0aXNjYWxlX2dyYXBoY3V0XD4=</text>
+        <text encoding="base64">XDxmdl9mdW5jdGlvblw+</text>
       </register>
       <register name="-" type="4">
-        <text>liver segmentation tests</text>
+        <text>,</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtdWx0aXNjYWxlX2dyYXBoY3V0XD4=</last-search>
+      <last-search encoding="base64">XDxmdl9mdW5jdGlvblw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtdWx0aXNjYWxlX2dyYXBoY3V0XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxmdl9mdW5jdGlvblw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpbnRlcmFjdGl2aXR5XD4=</entry>
         <entry encoding="base64">XDxwYWNrYWdlX2Rpclw+</entry>
         <entry>time</entry>
         <entry>build</entry>
@@ -732,6 +738,7 @@
         <entry>jatra_5</entry>
         <entry>clx</entry>
         <entry encoding="base64">XDxmZWF0dXJlc19mcm9tX2ltYWdlXD4=</entry>
+        <entry encoding="base64">XDxmdl9mdW5jdGlvblw+</entry>
       </history-search>
       <history-cmd>
         <entry>e</entry>
