@@ -52,13 +52,13 @@
         <mark key="." line="1" column="6" />
         <mark key="[" line="0" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/tests/liver_segmentation_test.py" timestamp="1449494401163">
+      <file name="$USER_HOME$/projects/lisa/tests/liver_segmentation_test.py" timestamp="1449495084636">
         <mark key="'" line="26" column="0" />
         <mark key="a" line="59" column="17" />
-        <mark key="]" line="39" column="29" />
-        <mark key="^" line="39" column="29" />
-        <mark key="." line="39" column="29" />
-        <mark key="[" line="39" column="19" />
+        <mark key="]" line="43" column="34" />
+        <mark key="^" line="43" column="34" />
+        <mark key="." line="43" column="34" />
+        <mark key="[" line="43" column="34" />
       </file>
       <file name="/fragment.py" timestamp="1449491882761">
         <mark key="]" line="0" column="0" />
@@ -355,7 +355,7 @@
         <mark key="." line="168" column="119" />
         <mark key="[" line="169" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1449494438540">
+      <file name="/a.dummy" timestamp="1449494533445">
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -472,6 +472,11 @@
         <mark key="." line="20" column="12" />
         <mark key="[" line="20" column="5" />
       </file>
+      <file name="$USER_HOME$/projects/lisa/lisa/liver_model.py" timestamp="1449495206937">
+        <mark key="]" line="229" column="15" />
+        <mark key="." line="229" column="15" />
+        <mark key="[" line="229" column="15" />
+      </file>
       <file name="/None" timestamp="1444651185031">
         <mark key="[" line="0" column="0" />
       </file>
@@ -498,9 +503,6 @@
         <mark key="^" line="23" column="8" />
         <mark key="." line="22" column="23" />
         <mark key="[" line="22" column="23" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1449494442424">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/quanta/distr.sh" timestamp="1446813652569">
         <mark key="]" line="16" column="4" />
@@ -672,46 +674,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>classifier</text>
+        <text>=</text>
       </register>
       <register name="3" type="4">
-        <text>Less</text>
+        <text>&quot;test_liver_intensity.Model.p&quot;</text>
       </register>
       <register name="2" type="4">
-        <text>Less</text>
+        <text>outputfile</text>
       </register>
       <register name="1" type="4">
-        <text>classifier</text>
+        <text>=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBlcnIgPSBucC5zdW0obnAuYWJzKChnYy5zZWdtZW50YXRpb24gPT0gMCkuYXN0eXBlKG5wLmludDgpIC0gc2VnLmFzdHlwZShucC5pbnQ4KSkpCiAgICAgICAgc2VsZi5hc3NlcnRMZXNzKGVyciwgNjAwKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3JpZ19wYXR0ZXJuPSIqb3JpZyowMS5taGQiLAo=</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+        <text>o</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydExlc3MoCiAgICAgICAgICAgIG5wLnN1bSgKICAgICAgICAgICAgICAgIG5wLmFicygKICAgICAgICAgICAgICAgICAgICAoZ2Muc2VnbWVudGF0aW9uID09IDApLmFzdHlwZShucC5pbnQ4KSAtIHNlZy5hc3R5cGUobnAuaW50OCkpCiAgICAgICAgICAgICksCiAgICAgICAgICAgIDYwMCkK</text>
+      <register name="6" type="4">
+        <text>r</text>
       </register>
       <register name="5" type="4">
-        <text>forbid_retraining</text>
+        <text>i</text>
       </register>
       <register name="4" type="4">
-        <text>True</text>
+        <text>g</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text>i</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+        <text>g</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmdl9mdW5jdGlvblw+</text>
       </register>
       <register name="-" type="4">
-        <text>classifier</text>
+        <text>=</text>
       </register>
     </registers>
     <search>
