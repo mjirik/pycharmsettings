@@ -48,10 +48,21 @@
     <option name="SHOW_PATH" value="true" />
   </component>
   <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="C:\Miniconda2\python.exe" value="false" />
+      </map>
+    </option>
     <option name="SDK_TO_NOSETEST">
       <map>
         <entry key="$USER_HOME$/miniconda/bin/python" value="true" />
         <entry key="$USER_HOME$/miniconda2/bin/python" value="true" />
+        <entry key="C:\Miniconda2\python.exe" value="true" />
+      </map>
+    </option>
+    <option name="SDK_TO_ATTEST">
+      <map>
+        <entry key="C:\Miniconda2\python.exe" value="false" />
       </map>
     </option>
   </component>

@@ -12,7 +12,7 @@
         <entry key="alabaster" value="0.7.6" />
         <entry key="anaconda" value="2.4.0" />
         <entry key="anaconda-build" value="0.13.2" />
-        <entry key="anaconda-client" value="1.1.2" />
+        <entry key="anaconda-client" value="1.2.1" />
         <entry key="ansi2html" value="1.1.0" />
         <entry key="apptools" value="4.3.0" />
         <entry key="argcomplete" value="1.0.0" />
@@ -69,12 +69,12 @@
         <entry key="cligj" value="0.2.0" />
         <entry key="cloog" value="0.18.0" />
         <entry key="cloudpickle" value="0.1.1" />
-        <entry key="clyent" value="1.1.0" />
+        <entry key="clyent" value="1.2.0" />
         <entry key="cmake" value="3.3.1" />
         <entry key="coffee-grunt" value="0.0" />
         <entry key="colorama" value="0.3.3" />
         <entry key="comtypes" value="1.1.2" />
-        <entry key="conda" value="3.18.7" />
+        <entry key="conda" value="3.18.8" />
         <entry key="conda-api" value="1.1.0" />
         <entry key="conda-build" value="1.18.2" />
         <entry key="conda-env" value="2.4.4" />
@@ -105,7 +105,7 @@
         <entry key="dbf" value="0.96.003" />
         <entry key="debug" value="1.0" />
         <entry key="decorator" value="4.0.4" />
-        <entry key="dicom2fem" value="1.0.8" />
+        <entry key="dicom2fem" value="1.0.9" />
         <entry key="dill" value="0.2.4" />
         <entry key="disco" value="0.4.4" />
         <entry key="distribute" value="0.6.45" />
@@ -175,9 +175,9 @@
         <entry key="icu" value="54.1" />
         <entry key="idna" value="2.0" />
         <entry key="imaging" value="1.1.7" />
-        <entry key="imtools" value="0.0.17" />
+        <entry key="imtools" value="0.0.18" />
         <entry key="into" value="0.2.2" />
-        <entry key="io3d" value="1.0.25" />
+        <entry key="io3d" value="1.0.26" />
         <entry key="iopro" value="1.7.2" />
         <entry key="ipaddress" value="1.0.14" />
         <entry key="ipykernel" value="4.1.1" />
@@ -228,7 +228,7 @@
         <entry key="libxslt" value="1.1.28" />
         <entry key="lighttpd" value="1.4.36" />
         <entry key="line_profiler" value="1.0" />
-        <entry key="lisa" value="1.6.19" />
+        <entry key="lisa" value="1.6.20" />
         <entry key="llvm" value="3.3" />
         <entry key="llvmlite" value="0.8.0" />
         <entry key="llvmmath" value="0.1.2" />
@@ -249,7 +249,7 @@
         <entry key="mccabe" value="0.3" />
         <entry key="mdp" value="3.3" />
         <entry key="meld3" value="1.0.2" />
-        <entry key="menuinst" value="1.2.2" />
+        <entry key="menuinst" value="1.3.1" />
         <entry key="mercurial" value="3.6.1" />
         <entry key="mesa" value="10.5.4" />
         <entry key="meta" value="0.4.2.dev" />
@@ -387,7 +387,7 @@
         <entry key="pyreadline" value="2.1" />
         <entry key="pysal" value="1.10.0" />
         <entry key="pysam" value="0.6" />
-        <entry key="pysegbase" value="1.1.0" />
+        <entry key="pysegbase" value="1.1.2" />
         <entry key="pyserial" value="2.7" />
         <entry key="pyside" value="1.2.1" />
         <entry key="pysnmp" value="4.2.5" />
@@ -447,7 +447,7 @@
         <entry key="singledispatch" value="3.4.0.3" />
         <entry key="sip" value="4.16.9" />
         <entry key="six" value="1.10.0" />
-        <entry key="skelet3d" value="1.4.10" />
+        <entry key="skelet3d" value="1.4.11" />
         <entry key="snowballstemmer" value="1.2.0" />
         <entry key="snuggs" value="1.3.1" />
         <entry key="sockjs-tornado" value="1.0.1" />
@@ -654,6 +654,7 @@
               <option value="1.0.2" />
               <option value="1.1.2" />
               <option value="1.1.0" />
+              <option value="1.2.1" />
             </list>
           </value>
         </entry>
@@ -1260,6 +1261,7 @@
               <option value="0.3.4" />
               <option value="0.4.0" />
               <option value="1.0.0" />
+              <option value="1.2.0" />
             </list>
           </value>
         </entry>
@@ -1404,6 +1406,7 @@
               <option value="1.0" />
               <option value="1.4.5" />
               <option value="3.18.7" />
+              <option value="3.18.8" />
             </list>
           </value>
         </entry>
@@ -1750,6 +1753,7 @@
           <value>
             <list>
               <option value="1.0.8" />
+              <option value="1.0.9" />
             </list>
           </value>
         </entry>
@@ -2366,6 +2370,7 @@
               <option value="0.0.11" />
               <option value="0.0.16" />
               <option value="0.0.17" />
+              <option value="0.0.18" />
             </list>
           </value>
         </entry>
@@ -2384,6 +2389,7 @@
             <list>
               <option value="1.0.25" />
               <option value="1.0.23" />
+              <option value="1.0.26" />
             </list>
           </value>
         </entry>
@@ -2882,6 +2888,7 @@
               <option value="1.6.1" />
               <option value="1.6.16" />
               <option value="1.6.7" />
+              <option value="1.6.20" />
             </list>
           </value>
         </entry>
@@ -3103,6 +3110,8 @@
               <option value="1.0.0" />
               <option value="1.1.3" />
               <option value="1.0.1" />
+              <option value="1.3.0" />
+              <option value="1.3.1" />
             </list>
           </value>
         </entry>
@@ -4433,6 +4442,8 @@
               <option value="1.0.49" />
               <option value="1.0.48" />
               <option value="1.1.0" />
+              <option value="1.1.1" />
+              <option value="1.1.2" />
             </list>
           </value>
         </entry>
@@ -5097,6 +5108,7 @@
               <option value="1.4.3" />
               <option value="1.4.6" />
               <option value="1.4.5" />
+              <option value="1.4.11" />
             </list>
           </value>
         </entry>
@@ -5849,6 +5861,6 @@
     <option name="CONDA_CHANNELS">
       <set />
     </option>
-    <option name="LAST_TIME_CHECKED" value="1449130630683" />
+    <option name="LAST_TIME_CHECKED" value="1449385363321" />
   </component>
 </application>
