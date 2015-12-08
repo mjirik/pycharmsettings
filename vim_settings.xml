@@ -61,10 +61,10 @@
         <mark key="." line="91" column="36" />
         <mark key="[" line="91" column="37" />
       </file>
-      <file name="/fragment.py" timestamp="1449491882761">
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="[" line="0" column="0" />
+      <file name="/fragment.py" timestamp="1449579618800">
+        <mark key="]" line="0" column="11" />
+        <mark key="." line="0" column="11" />
+        <mark key="[" line="0" column="11" />
       </file>
       <file name="$USER_HOME$/projects/pysegbase/tests/pycut_test.py" timestamp="1449493782026">
         <mark key="'" line="91" column="29" />
@@ -115,7 +115,7 @@
         <mark key="." line="502" column="16" />
         <mark key="[" line="502" column="4" />
       </file>
-      <file name="/Python Console" timestamp="1449496664716">
+      <file name="/Python Console" timestamp="1449577273307">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/quanta/setup.py" timestamp="1446640023460">
@@ -129,12 +129,12 @@
         <mark key="." line="71" column="0" />
         <mark key="[" line="71" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" timestamp="1449493506636">
+      <file name="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" timestamp="1449577252140">
         <mark key="'" line="46" column="24" />
-        <mark key="]" line="86" column="17" />
-        <mark key="^" line="86" column="17" />
-        <mark key="." line="86" column="17" />
-        <mark key="[" line="420" column="45" />
+        <mark key="]" line="122" column="31" />
+        <mark key="^" line="122" column="31" />
+        <mark key="." line="122" column="31" />
+        <mark key="[" line="122" column="14" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1449569009873">
         <mark key="b" line="908" column="38" />
@@ -692,46 +692,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">aGlzdG9sb2d5X2FuYWx5c2VyIA==</text>
+        <text>;</text>
       </register>
       <register name="3" type="4">
-        <text>lisa</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="4">
-        <text>quantan</text>
+        <text>marshal</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">aGlzdG9sb2d5X2FuYWx5c2VyIA==</text>
+        <text>;</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBkY21kaXIgPSBvcy5wYXRoLmpvaW4obGlzYS5kYXRhLnNhbXBsZV9kYXRhX3BhdGgoKSwgJ2phdHJhXzVtbScpCg==</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">ZnJvbSA=</text>
+        <text>lisa</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">c2tlbGV0M2Qg</text>
+        <text>lisa</text>
       </register>
       <register name="5" type="4">
-        <text>lisa</text>
+        <text>quantan</text>
       </register>
       <register name="4" type="4">
-        <text>lisa</text>
+        <text encoding="base64">aGlzdG9sb2d5X2FuYWx5c2VyIA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">c2tlbGV0M2Qg</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+        <text>lisa</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxIaXN0b2xvZ3lBbmFseXNlclw+</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aGlzdG9sb2d5X2FuYWx5c2VyIA==</text>
+        <text>;</text>
       </register>
     </registers>
     <search>
