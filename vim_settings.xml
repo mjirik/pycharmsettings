@@ -61,11 +61,11 @@
         <mark key="." line="91" column="36" />
         <mark key="[" line="91" column="37" />
       </file>
-      <file name="/fragment.py" timestamp="1449581801488">
+      <file name="/fragment.py" timestamp="1449583881099">
         <mark key="]" line="0" column="15" />
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="15" />
-        <mark key="[" line="1" column="7" />
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/pysegbase/tests/pycut_test.py" timestamp="1449493782026">
         <mark key="'" line="91" column="29" />
@@ -143,7 +143,7 @@
         <mark key="." line="122" column="31" />
         <mark key="[" line="122" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1449582957579">
+      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1449583567527">
         <mark key="b" line="908" column="38" />
         <mark key="c" line="166" column="18" />
         <mark key="'" line="168" column="22" />
@@ -702,10 +702,10 @@
         <text>.</text>
       </register>
       <register name="3" type="4">
-        <text>.</text>
+        <text>s</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+        <text>a</text>
       </register>
       <register name="1" type="4">
         <text>.</text>
@@ -714,22 +714,22 @@
         <text encoding="base64">ICAgICAgICBkY21kaXIgPSBvcy5wYXRoLmpvaW4obGlzYS5kYXRhLnNhbXBsZV9kYXRhX3BhdGgoKSwgJ2phdHJhXzVtbScpCg==</text>
       </register>
       <register name="7" type="4">
-        <text>o</text>
+        <text>t</text>
       </register>
       <register name="6" type="4">
-        <text>m</text>
-      </register>
-      <register name="5" type="4">
         <text encoding="base64">IA==</text>
       </register>
+      <register name="5" type="4">
+        <text>l</text>
+      </register>
       <register name="4" type="4">
-        <text>.</text>
+        <text>i</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>f</text>
+        <text>o</text>
       </register>
       <register name="8" type="4">
         <text>r</text>
