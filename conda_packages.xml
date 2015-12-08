@@ -182,7 +182,7 @@
         <entry key="ipaddress" value="1.0.14" />
         <entry key="ipykernel" value="4.1.1" />
         <entry key="ipyparallel" value="4.1.0" />
-        <entry key="ipython" value="4.0.0" />
+        <entry key="ipython" value="4.0.1" />
         <entry key="ipython-notebook" value="4.0.4" />
         <entry key="ipython-qtconsole" value="4.0.1" />
         <entry key="ipython_genutils" value="0.1.0" />
@@ -396,7 +396,7 @@
         <entry key="pytest" value="2.8.1" />
         <entry key="pytest-cache" value="1.0" />
         <entry key="pytest-pep8" value="1.0.6" />
-        <entry key="python" value="3.5.0" />
+        <entry key="python" value="3.5.1" />
         <entry key="python-dateutil" value="2.4.2" />
         <entry key="python-gdbm" value="1.0" />
         <entry key="python-gflags" value="2.0" />
@@ -2479,6 +2479,7 @@
               <option value="2.2.0" />
               <option value="0.13" />
               <option value="2.4.1" />
+              <option value="4.0.1" />
             </list>
           </value>
         </entry>
@@ -4555,6 +4556,8 @@
               <option value="2.7.8" />
               <option value="3.5.0rc4" />
               <option value="1.0.1" />
+              <option value="3.5.1" />
+              <option value="2.7.11" />
             </list>
           </value>
         </entry>
@@ -5861,6 +5864,6 @@
     <option name="CONDA_CHANNELS">
       <set />
     </option>
-    <option name="LAST_TIME_CHECKED" value="1449385363321" />
+    <option name="LAST_TIME_CHECKED" value="1449569203390" />
   </component>
 </application>
