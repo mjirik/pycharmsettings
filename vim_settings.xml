@@ -61,10 +61,11 @@
         <mark key="." line="91" column="36" />
         <mark key="[" line="91" column="37" />
       </file>
-      <file name="/fragment.py" timestamp="1449579618800">
-        <mark key="]" line="0" column="11" />
-        <mark key="." line="0" column="11" />
-        <mark key="[" line="0" column="11" />
+      <file name="/fragment.py" timestamp="1449581801488">
+        <mark key="]" line="0" column="15" />
+        <mark key="^" line="0" column="15" />
+        <mark key="." line="0" column="15" />
+        <mark key="[" line="1" column="7" />
       </file>
       <file name="$USER_HOME$/projects/pysegbase/tests/pycut_test.py" timestamp="1449493782026">
         <mark key="'" line="91" column="29" />
@@ -78,6 +79,12 @@
         <mark key="^" line="1" column="12" />
         <mark key="." line="1" column="12" />
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/lisa/lisa/data.py" timestamp="1448552139365">
+        <mark key="]" line="27" column="46" />
+        <mark key="^" line="27" column="65" />
+        <mark key="." line="27" column="46" />
+        <mark key="[" line="27" column="46" />
       </file>
       <file name="$USER_HOME$/projects/sed3/sed3/sed3.py" timestamp="1445590367084">
         <mark key="]" line="412" column="0" />
@@ -692,16 +699,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>pickles</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="2" type="4">
         <text>marshal</text>
       </register>
-      <register name="1" type="4">
+      <register name="2" type="4">
         <text>;</text>
+      </register>
+      <register name="1" type="4">
+        <text>pickles</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBkY21kaXIgPSBvcy5wYXRoLmpvaW4obGlzYS5kYXRhLnNhbXBsZV9kYXRhX3BhdGgoKSwgJ2phdHJhXzVtbScpCg==</text>
@@ -710,19 +717,19 @@
         <text>lisa</text>
       </register>
       <register name="6" type="4">
-        <text>lisa</text>
-      </register>
-      <register name="5" type="4">
         <text>quantan</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">aGlzdG9sb2d5X2FuYWx5c2VyIA==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">c2tlbGV0M2Qg</text>
+        <text>lisa</text>
       </register>
       <register name="8" type="4">
         <text>lisa</text>
@@ -731,7 +738,7 @@
         <text encoding="base64">XDxIaXN0b2xvZ3lBbmFseXNlclw+</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>pickles</text>
       </register>
     </registers>
     <search>
