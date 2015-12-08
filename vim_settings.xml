@@ -170,6 +170,12 @@
         <mark key="." line="11" column="21" />
         <mark key="[" line="11" column="12" />
       </file>
+      <file name="$USER_HOME$/projects/lisa/tests/skeleton_test.py" timestamp="1449567663255">
+        <mark key="]" line="14" column="14" />
+        <mark key="^" line="14" column="14" />
+        <mark key="." line="14" column="14" />
+        <mark key="[" line="14" column="7" />
+      </file>
       <file name="$USER_HOME$/projects/quanta/meta.yaml" timestamp="1446809867792">
         <mark key="]" line="45" column="10" />
         <mark key="^" line="45" column="10" />
@@ -473,9 +479,9 @@
         <mark key="[" line="20" column="5" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/liver_model.py" timestamp="1449495206937">
-        <mark key="]" line="229" column="15" />
-        <mark key="." line="229" column="15" />
-        <mark key="[" line="229" column="15" />
+        <mark key="]" line="233" column="15" />
+        <mark key="." line="233" column="15" />
+        <mark key="[" line="233" column="15" />
       </file>
       <file name="/None" timestamp="1444651185031">
         <mark key="[" line="0" column="0" />
@@ -674,46 +680,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>lisa</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">b3V0cHV0X2ZuIA==</text>
-      </register>
-      <register name="2" type="4">
         <text>output_fn</text>
       </register>
-      <register name="1" type="4">
+      <register name="2" type="4">
         <text encoding="base64">IA==</text>
+      </register>
+      <register name="1" type="4">
+        <text>lisa</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwYXRoX3RvX2RhdGEgPSBsaXNhLmRhdGEuc2FtcGxlX2RhdGFfcGF0aCgpCiAgICAgICAgZGNtZGlyID0gb3MucGF0aC5qb2luKHBhdGhfdG9fZGF0YSwgJy4vbGl2ZXItb3JpZzAwMS5taGQnKQoKICAgICAgICBwcmludCAiSW50ZXJhY3RpdmUgdGVzdDogd2l0aCBsZWZ0IG1vdXNlIGJ1dHRvbiBzZWxlY3QgbGl2ZXIsIFwKICAgICAgICAgICAgd2l0aCByaWdodCBtb3VzZSBidXR0b24gc2VsZWN0IG90aGVyIHRpc3N1ZXMiCiAgICAgICAgIyBnY3BhcmFtcyA9IHsncGFpcndpc2VBbHBoYSc6MTAsICd1c2VfYm91bmRhcnlfcGVuYWx0aWVzJzpUcnVlfQogICAgICAgIGZuX21kbCA9IG9zLnBhdGguZXhwYW5kdXNlcigifi9saXNhX2RhdGEvbGl2ZXJfaW50ZW5zaXR5Lk1vZGVsLnAiKQogICAgICAgIHNlZ3BhcmFtcyA9IHt9CiAgICAgICAgc2VnbW9kZWxwYXJhbXM9eydtZGxfc3RvcmVkX2ZpbGUnOiBmbl9tZGx9CiAgICAgICAgIyAncGFpcndpc2VfYWxwaGFfcGVyJzogMywKICAgICAgICAjICAgICAgICAgICAgICAndXNlX2JvdW5kYXJ5X3BlbmFsdGllcyc6IFRydWUsCiAgICAgICAgIyAgICAgICAgICAgICAgJ2JvdW5kYXJ5X3BlbmFsdGllc19zaWdtYSc6IDIwMH0KICAgICAgICBvc2VnID0gb3JnYW5fc2VnbWVudGF0aW9uLk9yZ2FuU2VnbWVudGF0aW9uKAogICAgICAgICAgICBkY21kaXIsIHdvcmtpbmdfdm94ZWxzaXplX21tPTQsIHNlZ3BhcmFtcz1zZWdwYXJhbXMsIHNlZ21vZGVscGFyYW1zPXNlZ21vZGVscGFyYW1zKQogICAgICAgIG9zZWcuYWRkX3NlZWRzX21tKFsxMTAsIDE1MF0sIFsxMTAsIDEwMF0sIFsyMDBdLCBsYWJlbD0xLCByYWRpdXM9MzAsIHdpZHRoPTUpCiAgICAgICAgb3NlZy5hZGRfc2VlZHNfbW0oWzI1MCwgMjMwXSwgWzIxMCwgMjYwXSwgWzIwMF0sIGxhYmVsPTIsIHJhZGl1cz01MCwgd2lkdGg9NSkKCiAgICAgICAgZnJvbSBQeVF0NC5RdEd1aSBpbXBvcnQgUUFwcGxpY2F0aW9uCiAgICAgICAgYXBwID0gUUFwcGxpY2F0aW9uKHN5cy5hcmd2KQogICAgICAgIG9zZWcuaW50ZXJhY3Rpdml0eSgpCiAgICAgICAgIyBvc2VnLm5pbnRlcmFjdGl2aXR5KCkKCiAgICAgICAgdm9sdW1lID0gb3NlZy5nZXRfc2VnbWVudGVkX3ZvbHVtZV9zaXplX21tMygpCgogICAgICAgICMgbWlzYy5vYmpfdG9fZmlsZShvc2VnLmdldF9pcGFyYW1zKCksJ2lwYXJhbXMucGtsJywgZmlsZXR5cGU9J3BpY2tsZScpCgogICAgICAgIHNlbGYuYXNzZXJ0R3JlYXRlcih2b2x1bWUsIDEwMDAwMDApCiAgICAgICAgc2VsZi5hc3NlcnRMZXNzKHZvbHVtZSwgMjAwMDAwMCkK</text>
       </register>
       <register name="7" type="4">
-        <text>outputfile</text>
-      </register>
-      <register name="6" type="4">
         <text>=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">b3V0cHV0X2ZuIA==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>output_fn</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">b3V0cHV0X2ZuIA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>g</text>
+        <text>&quot;test_liver_intensity.Model.p&quot;</text>
       </register>
       <register name="8" type="4">
-        <text>&quot;test_liver_intensity.Model.p&quot;</text>
+        <text>outputfile</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmdl9mdW5jdGlvblw+</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>lisa</text>
       </register>
     </registers>
     <search>
