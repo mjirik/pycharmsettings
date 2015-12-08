@@ -143,15 +143,15 @@
         <mark key="." line="122" column="31" />
         <mark key="[" line="122" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1449569009873">
+      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1449582957579">
         <mark key="b" line="908" column="38" />
         <mark key="c" line="166" column="18" />
         <mark key="'" line="168" column="22" />
         <mark key="a" line="1176" column="0" />
-        <mark key="]" line="1084" column="8" />
-        <mark key="^" line="1085" column="21" />
-        <mark key="." line="1084" column="8" />
-        <mark key="[" line="1084" column="8" />
+        <mark key="]" line="64" column="6" />
+        <mark key="^" line="64" column="6" />
+        <mark key="." line="64" column="6" />
+        <mark key="[" line="64" column="6" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/viewer.py" timestamp="1444650851289">
         <mark key="]" line="79" column="46" />
@@ -699,46 +699,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>pickles</text>
+        <text>.</text>
       </register>
       <register name="3" type="4">
-        <text>marshal</text>
+        <text>.</text>
       </register>
       <register name="2" type="4">
-        <text>;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="1" type="4">
-        <text>pickles</text>
+        <text>.</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBkY21kaXIgPSBvcy5wYXRoLmpvaW4obGlzYS5kYXRhLnNhbXBsZV9kYXRhX3BhdGgoKSwgJ2phdHJhXzVtbScpCg==</text>
       </register>
       <register name="7" type="4">
-        <text>lisa</text>
+        <text>o</text>
       </register>
       <register name="6" type="4">
-        <text>quantan</text>
+        <text>m</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">aGlzdG9sb2d5X2FuYWx5c2VyIA==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>lisa</text>
+        <text>f</text>
       </register>
       <register name="8" type="4">
-        <text>lisa</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxIaXN0b2xvZ3lBbmFseXNlclw+</text>
       </register>
       <register name="-" type="4">
-        <text>pickles</text>
+        <text>.</text>
       </register>
     </registers>
     <search>
