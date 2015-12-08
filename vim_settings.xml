@@ -107,11 +107,11 @@
         <mark key="]" line="92" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/liver_model.py" timestamp="1449597707804">
-        <mark key="[" line="33" column="56" />
-        <mark key="]" line="33" column="42" />
-        <mark key="^" line="33" column="42" />
-        <mark key="." line="33" column="42" />
+      <file name="$USER_HOME$/projects/lisa/lisa/liver_model.py" timestamp="1449598753670">
+        <mark key="[" line="34" column="68" />
+        <mark key="]" line="35" column="21" />
+        <mark key="^" line="35" column="21" />
+        <mark key="." line="35" column="21" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/vesseltree_export.py" timestamp="1445327936618">
         <mark key="'" line="88" column="42" />
@@ -689,11 +689,11 @@
       <jump line="57" column="13" filename="$USER_HOME$/projects/lisa/tests/histology_test.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBtb2RlbHBhcmFtc1tdCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxIaXN0b2xvZ3lBbmFseXNlclw+</text>
@@ -701,32 +701,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICdmdl90eXBlJzogImZ2X2V4dGVybiIsCiAgICAgICAgICAgICAgICAnZnZfZXh0ZXJuJzogZnZfZnVuY3Rpb24sCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBtb2RlbHBhcmFtc1tdCg==</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+        <text>_</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWdwYXJhbXNbXQo=</text>
+      <register name="3" type="4">
+        <text>v</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2Z2X3R5cGUnOiAiZnZfZXh0ZXJuIiwK</text>
+      <register name="4" type="4">
+        <text>f</text>
       </register>
       <register name="5" type="4">
-        <text>]</text>
+        <text>_</text>
       </register>
       <register name="6" type="4">
-        <text>[</text>
+        <text>v</text>
       </register>
       <register name="7" type="4">
-        <text>.</text>
+        <text>f</text>
       </register>
       <register name="8" type="4">
-        <text>self</text>
+        <text>externfvmodel</text>
       </register>
       <register name="9" type="4">
-        <text>_</text>
+        <text>externfvmodel</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
