@@ -28,7 +28,7 @@
         <entry key="backports_abc" value="0.4" />
         <entry key="bandersnatch" value="1.4" />
         <entry key="basemap" value="1.0.7" />
-        <entry key="bcolz" value="0.12.0" />
+        <entry key="bcolz" value="0.12.1" />
         <entry key="beautiful-soup" value="4.3.2" />
         <entry key="beautifulsoup4" value="4.4.1" />
         <entry key="binstar" value="0.12" />
@@ -387,7 +387,7 @@
         <entry key="pyreadline" value="2.1" />
         <entry key="pysal" value="1.10.0" />
         <entry key="pysam" value="0.6" />
-        <entry key="pysegbase" value="1.2.0" />
+        <entry key="pysegbase" value="1.1.2" />
         <entry key="pyserial" value="2.7" />
         <entry key="pyside" value="1.2.1" />
         <entry key="pysnmp" value="4.2.5" />
@@ -434,7 +434,7 @@
         <entry key="scons" value="2.3.0" />
         <entry key="scrapy" value="1.0.3" />
         <entry key="seaborn" value="0.6.0" />
-        <entry key="sed3" value="1.1.20" />
+        <entry key="sed3" value="1.1.19" />
         <entry key="semantic_version" value="2.4.2" />
         <entry key="setuptools" value="18.5" />
         <entry key="setuptools_scm" value="1.9.0" />
@@ -830,6 +830,7 @@
               <option value="0.11.0" />
               <option value="0.12.0" />
               <option value="0.7.0" />
+              <option value="0.12.1" />
             </list>
           </value>
         </entry>
@@ -4448,7 +4449,6 @@
               <option value="1.1.0" />
               <option value="1.1.1" />
               <option value="1.1.2" />
-              <option value="1.2.0" />
             </list>
           </value>
         </entry>
@@ -4950,7 +4950,6 @@
             <list>
               <option value="1.1.19" />
               <option value="1.1.18" />
-              <option value="1.1.20" />
             </list>
           </value>
         </entry>
@@ -5869,6 +5868,6 @@
     <option name="CONDA_CHANNELS">
       <set />
     </option>
-    <option name="LAST_TIME_CHECKED" value="1449847035523" />
+    <option name="LAST_TIME_CHECKED" value="1449820778778" />
   </component>
 </application>

@@ -1,15 +1,10 @@
 <templateSet group="Python">
-  <template name="ipdb" value="import ipdb; ipdb.set_trace()" description="ipdb breakpoint here" toReformat="false" toShortenFQNames="true">
+  <template name="ipdb" value="import ipdb; ipdb.set_trace()" description="ipdb breakpoint" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="Python" value="true" />
     </context>
   </template>
-  <template name="hook" value="from PyQt4 import QtCore; QtCore.pyqtRemoveInputHook()" description="remove input hook" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="Python" value="true" />
-    </context>
-  </template>
-  <template name="pdb" value="import pdb; pdb.set_trace()" toReformat="false" toShortenFQNames="true">
+  <template name="hook" value="import PyQt4; PyQt4.QtCore.pyqtRemoveInputHook()" description="remove input hook" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="Python" value="true" />
     </context>
