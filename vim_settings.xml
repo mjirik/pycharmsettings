@@ -191,11 +191,11 @@
         <mark key="." line="45" column="10" />
         <mark key="[" line="58" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/body_navigation.py" timestamp="1449731466410">
-        <mark key="]" line="208" column="44" />
-        <mark key="^" line="208" column="44" />
-        <mark key="." line="208" column="44" />
-        <mark key="[" line="208" column="42" />
+      <file name="$USER_HOME$/projects/lisa/lisa/body_navigation.py" timestamp="1449837978136">
+        <mark key="]" line="196" column="54" />
+        <mark key="^" line="196" column="54" />
+        <mark key="." line="196" column="54" />
+        <mark key="[" line="194" column="0" />
       </file>
       <file name="$USER_HOME$/projects/lisa/requirements_conda.txt" timestamp="1448122520861">
         <mark key="]" line="36" column="7" />
@@ -701,47 +701,47 @@
       <jump line="744" column="23" filename="$USER_HOME$/projects/sed3/sed3/sed3.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>g</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGRlZiBnZXRfZGlhcGhyYWdtX21hc2soc2VsZiwgYXhpcz0wKToK</text>
       </register>
       <register name="3" type="4">
-        <text>A</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="4">
-        <text>g</text>
+        <text>mask</text>
       </register>
-      <register name="1" type="4">
-        <text>g</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGRlZiBnZXRfZGlhcGhyYWdtX21hc2soc2VsZiwgYXhpcz0wKToK</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZyb20gbWF0cGxvdGxpYi5iYWNrZW5kcy5iYWNrZW5kX3F0NGFnZyBpbXBvcnQgTmF2aWdhdGlvblRvb2xiYXIyUVRBZ2cgYXMgTmF2aWdhdGlvblRvb2xiYXIK</text>
+        <text encoding="base64">ICAgIGRlZiBnZXRfZGlhcGhyYWdtX21hc2soc2VsZiwgYXhpcz0wKToK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmb3JjZSA9IFRydWUKICAgICAgICBmb3JjZSA9IEZhbHNlCiAgICAgICAgZm5hbWVfdnMgPSAndnNfc3RhdHMuY3N2JwogICAgICAgIGZuYW1lX2ZocyA9ICdmaHNfc3RhdHMucGtseicK</text>
+      <register name="7" type="4">
+        <text encoding="base64">cHJpbnQg</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>A</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">cHJpbnQg</text>
+        <text>g</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">cHJpbnQg</text>
+        <text>g</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="4">
-        <text>f</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZiA9IE1vZGVsVHJhaW5lcihtb2RlbHBhcmFtcz1tb2RlbHBhcmFtcykK</text>
+      <register name="8" type="4">
+        <text encoding="base64">cHJpbnQg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxOYXZpZ2F0aW9uVG9vbGJhclw+</text>
       </register>
       <register name="-" type="4">
-        <text>g</text>
+        <text>mask</text>
       </register>
     </registers>
     <search>
