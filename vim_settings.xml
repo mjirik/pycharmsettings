@@ -15,7 +15,7 @@
         <mark key="^" line="62" column="30" />
         <mark key="." line="74" column="55" />
       </file>
-      <file name="/a.dummy" timestamp="1449610042743">
+      <file name="/a.dummy" timestamp="1449847540919">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -157,11 +157,11 @@
         <mark key="." line="0" column="10" />
         <mark key="^" line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/body_navigation.py" timestamp="1448743751912">
-        <mark key="[" line="138" column="14" />
-        <mark key="]" line="138" column="24" />
-        <mark key="^" line="138" column="24" />
-        <mark key="." line="138" column="24" />
+      <file name="$USER_HOME$/projects/lisa/lisa/body_navigation.py" timestamp="1449847538130">
+        <mark key="[" line="199" column="50" />
+        <mark key="]" line="199" column="65" />
+        <mark key="^" line="199" column="65" />
+        <mark key="." line="199" column="65" />
       </file>
       <file name="$USER_HOME$/projects/quaha/quaha/histology_report.py" timestamp="1445327745987">
         <mark key="[" line="15" column="0" />
@@ -694,10 +694,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxIaXN0b2xvZ3lBbmFseXNlclw+</text>
@@ -706,31 +706,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICdmdl90eXBlJzogImZ2X2V4dGVybiIsCiAgICAgICAgICAgICAgICAnZnZfZXh0ZXJuJzogZnZfZnVuY3Rpb24sCg==</text>
       </register>
       <register name="1" type="4">
-        <text>e</text>
-      </register>
-      <register name="2" type="4">
         <text>t</text>
       </register>
+      <register name="2" type="4">
+        <text>w</text>
+      </register>
       <register name="3" type="4">
-        <text>a</text>
-      </register>
-      <register name="4" type="4">
-        <text>d</text>
-      </register>
-      <register name="5" type="4">
-        <text>p</text>
-      </register>
-      <register name="6" type="4">
-        <text>u</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlbHBhcmFtc1tdCg==</text>
-      </register>
-      <register name="8" type="4">
         <text>_</text>
       </register>
+      <register name="4" type="4">
+        <text>t</text>
+      </register>
+      <register name="5" type="4">
+        <text>e</text>
+      </register>
+      <register name="6" type="4">
+        <text>t</text>
+      </register>
+      <register name="7" type="4">
+        <text>a</text>
+      </register>
+      <register name="8" type="4">
+        <text>d</text>
+      </register>
       <register name="9" type="4">
-        <text>v</text>
+        <text>p</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
