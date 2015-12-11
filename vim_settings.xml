@@ -15,7 +15,7 @@
         <mark key="^" line="62" column="30" />
         <mark key="." line="74" column="55" />
       </file>
-      <file name="/a.dummy" timestamp="1449847663675">
+      <file name="/a.dummy" timestamp="1449848115498">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -161,11 +161,12 @@
         <mark key="." line="0" column="10" />
         <mark key="^" line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/body_navigation.py" timestamp="1449847653751">
-        <mark key="[" line="194" column="8" />
-        <mark key="]" line="194" column="12" />
-        <mark key="^" line="194" column="12" />
-        <mark key="." line="194" column="12" />
+      <file name="$USER_HOME$/projects/lisa/lisa/body_navigation.py" timestamp="1449848108172">
+        <mark key="'" line="307" column="4" />
+        <mark key="[" line="7" column="14" />
+        <mark key="]" line="8" column="14" />
+        <mark key="^" line="8" column="14" />
+        <mark key="." line="8" column="14" />
       </file>
       <file name="$USER_HOME$/projects/quaha/quaha/histology_report.py" timestamp="1445327745987">
         <mark key="[" line="15" column="0" />
@@ -599,9 +600,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="997" column="8" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="1180" column="26" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="687" column="26" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
       <jump line="1065" column="8" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
       <jump line="1185" column="26" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
       <jump line="1067" column="8" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
@@ -699,55 +697,58 @@
       <jump line="260" column="18" filename="$USER_HOME$/projects/lisa/lisa/liver_model.py" />
       <jump line="261" column="28" filename="$USER_HOME$/projects/lisa/lisa/liver_model.py" />
       <jump line="744" column="23" filename="$USER_HOME$/projects/sed3/sed3/sed3.py" />
+      <jump line="252" column="0" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
+      <jump line="8" column="7" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
+      <jump line="307" column="4" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXRfZGlhcGhyYWdtX21hc2soc2VsZiwgYXhpcz0wKToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>mask</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxOYXZpZ2F0aW9uVG9vbGJhclw+</text>
+        <text encoding="base64">XDxhcmdwYXJzZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXRfZGlhcGhyYWdtX21hc2soc2VsZiwgYXhpcz0wKToK</text>
+        <text encoding="base64">ICAgICAgICBpYSwgaWIsIGljID0gc2VsZi5fZ2V0X2lhX2liX2ljKGF4aXMpCg==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBheGlzID09IDA6CiAgICAgICAgICAgIGlhID0gMAogICAgICAgICAgICBpYiA9IDEKICAgICAgICAgICAgaWMgPSAyCiAgICAgICAgZWxpZiBheGlzID09IDE6CiAgICAgICAgICAgIGlhID0gMQogICAgICAgICAgICBpYiA9IDAKICAgICAgICAgICAgaWMgPSAyCiAgICAgICAgZWxpZiBheGlzID09IDI6CiAgICAgICAgICAgIGlhID0gMgogICAgICAgICAgICBpYiA9IDAKICAgICAgICAgICAgaWMgPSAxCg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGRlZiBnZXRfZGlhcGhyYWdtX21hc2soc2VsZiwgYXhpcz0wKToK</text>
       </register>
-      <register name="2" type="4">
+      <register name="8" type="4">
         <text>mask</text>
       </register>
-      <register name="3" type="4">
+      <register name="9" type="4">
         <text encoding="base64">IA==</text>
-      </register>
-      <register name="4" type="4">
-        <text>g</text>
-      </register>
-      <register name="5" type="4">
-        <text>g</text>
-      </register>
-      <register name="6" type="4">
-        <text>A</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">cHJpbnQg</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">cHJpbnQg</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxOYXZpZ2F0aW9uVG9vbGJhclw+</last-search>
+      <last-search encoding="base64">XDxhcmdwYXJzZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxOYXZpZ2F0aW9uVG9vbGJhclw+</last-pattern>
+      <last-pattern encoding="base64">XDxhcmdwYXJzZVw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -759,6 +760,7 @@
         <entry>voxelsize</entry>
         <entry encoding="base64">XDxfX3NpbWlsYXJpdHlfZm9yX3RsaW5rc19vYmpfYmdyXD4=</entry>
         <entry encoding="base64">XDxfX2NyZWF0ZV90bGlua3NcPg==</entry>
+        <entry encoding="base64">XDxhcmdwYXJzZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>157</entry>
