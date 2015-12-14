@@ -145,15 +145,14 @@
         <mark key="." line="144" column="39" />
         <mark key="[" line="144" column="38" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1449658074041">
+      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1450102662537">
         <mark key="b" line="911" column="38" />
-        <mark key="'" line="167" column="22" />
         <mark key="c" line="165" column="18" />
-        <mark key="a" line="1181" column="0" />
-        <mark key="]" line="64" column="0" />
-        <mark key="^" line="596" column="62" />
-        <mark key="." line="64" column="0" />
-        <mark key="[" line="64" column="0" />
+        <mark key="a" line="1138" column="0" />
+        <mark key="]" line="959" column="0" />
+        <mark key="^" line="957" column="11" />
+        <mark key="." line="959" column="0" />
+        <mark key="[" line="959" column="0" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/viewer.py" timestamp="1444650851289">
         <mark key="]" line="79" column="46" />
@@ -218,6 +217,12 @@
         <mark key="." line="14" column="7" />
         <mark key="[" line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/lisa/lisa/liver_seeds.py" timestamp="1450102869705">
+        <mark key="]" line="22" column="56" />
+        <mark key="^" line="22" column="56" />
+        <mark key="." line="22" column="56" />
+        <mark key="[" line="18" column="53" />
+      </file>
       <file name="/start_script.py" timestamp="1449047976347">
         <mark key="[" line="0" column="0" />
       </file>
@@ -233,10 +238,11 @@
         <mark key="." line="9" column="0" />
         <mark key="[" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/data_manipulation.py" timestamp="1448964232212">
-        <mark key="]" line="28" column="13" />
-        <mark key="." line="20" column="0" />
-        <mark key="[" line="20" column="0" />
+      <file name="$USER_HOME$/projects/lisa/lisa/data_manipulation.py" timestamp="1450102573147">
+        <mark key="]" line="115" column="7" />
+        <mark key="^" line="119" column="33" />
+        <mark key="." line="104" column="0" />
+        <mark key="[" line="104" column="0" />
       </file>
       <file name="$USER_HOME$/projects/lisa/docs/index.rst" timestamp="1444650684200">
         <mark key="[" line="6" column="31" />
@@ -373,7 +379,7 @@
         <mark key="." line="168" column="119" />
         <mark key="[" line="169" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1450101303334">
+      <file name="/a.dummy" timestamp="1450102673864">
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -598,8 +604,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="196" column="0" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="331" column="11" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
       <jump line="117" column="23" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
       <jump line="87" column="7" filename="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" />
       <jump line="143" column="37" filename="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" />
@@ -698,61 +702,62 @@
       <jump line="116" column="25" filename="$USER_HOME$/projects/lisa/tests/liver_segmentation_test.py" />
       <jump line="141" column="7" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
       <jump line="17" column="19" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="954" column="17" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="957" column="8" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
     </jumps>
     <registers>
-      <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB6X21tID0gbnAuYXJyYXkoel9tbSkKICAgICAgICAjIHJlcGVhdCBjaXJjbGUgZXZlcnkgbWlsaW1pdGVyCiAgICAgICAgZm9yIGkgaW4gcmFuZ2UoMCwgd2lkdGggKyAxKToKICAgICAgICAgICAgc2VsZi5fYWRkX3NlZWRzX21tKHhfbW0sIHlfbW0sIHpfbW0gKyBpLCBsYWJlbCwgcmFkaXVzKQogICAgICAgIAoKCiAgICBkZWYgX2FkZF9zZWVkc19tbShzZWxmLCB4X21tLCB5X21tLCB6X21tLCBsYWJlbCwgcmFkaXVzKToK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>center computation</text>
+        <text>vs_mmr</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlZ21vZGVscGFyYW1zPXsnbWRsX3N0b3JlZF9maWxlJzogZm5fbWRsfQo=</text>
+      <register name="2" type="4">
+        <text>vs_mmr</text>
       </register>
       <register name="1" type="4">
-        <text>center computation</text>
+        <text>vs_mmr</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWdtb2RlbHBhcmFtcz17CiAgICAgICAgICAgICdtZGxfc3RvcmVkX2ZpbGUnOiBmbl9tZGwsCiAgICAgICAgICAgICdmdl90eXBlJzonZnZfZXh0ZXJuJywKICAgICAgICAgICAgJ2Z2X2V4dGVybic6ICJpbnRlbnNpdHlfbG9jYWxpemF0aW9uX2Z2IgogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAiIiIKICAgICAgICBGdW5jdGlvbiBhZGQgY2lyY2xlIHNlZWRzIHRvIG9uZSBzbGljZSB3aXRoIGRlZmluZWQgcmFkaXVzLgoKICAgICAgICBJdCBpcyBwb3NzaWJsZSBzZXQgbW9yZSBzZWVkcyBvbiBvbmUgc2xpY2Ugd2l0aCBvbmUgZGltZW5zaW9uCgogICAgICAgIHhfbW0sIHlfbW0gY29vcmRpbmF0ZXMgb2YgY2lyY2xlIGluIG1tLiBJdCBtYXkgYmUgYXJyYXkuCiAgICAgICAgel9tbSA9IHNsaWNlIGNvb3JkaW5hdGVzICBpbiBtbS4gSXQgbWF5IGJlIGFycmF5CiAgICAgICAgOnBhcmFtIGxhYmVsOiBvbmUgbnVtYmVyLiAxIGlzIG9iamVjdCBzZWVkLCAyIGlzIGJhY2tncm91bmQgc2VlZAogICAgICAgIDpwYXJhbSByYWRpdXM6IGlzIHJhZGl1cyBvZiBjaXJjbGUgaW4gbW0KICAgICAgICA6cGFyYW0gd2lkdGg6IG1ha2VzIGNpcmNsZSB3aXRoIGRlZmluZWQgd2lkdGggKHJlcGVhdCBjaXJjbGUgZXZlcnkgbWlsaW1ldGVyKQoKICAgICAgICAiIiIK</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">bW0g</text>
+        <text>_in_one_slice</text>
       </register>
       <register name="6" type="4">
-        <text>type</text>
+        <text>self</text>
       </register>
       <register name="5" type="4">
-        <text>type</text>
+        <text>.</text>
       </register>
-      <register name="4" type="4">
-        <text>'intensity'</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">b3JpZ2luMCA=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICMgIFFNYWluV2luZG93CiAgICAjIG1wb3J0IHNlZDMKICAgICMgcj1zZWQzLnNlZDMoc2VsZi5zZWVkcyk7IHJyLnNob3coKQoKICAgICMgcm9tIHNlZWRfZWRpdG9yX3F0IGltcG9ydCBRVFNlZWRFZGl0b3IKICAgICMgcm9tIFB5UXQ0LlF0R3VpIGltcG9ydCBRQXBwbGljYXRpb24KICAgICMgcHAgPSBRQXBwbGljYXRpb24oc3lzLmFyZ3YpCiAgICAjIHllZCA9IFFUU2VlZEVkaXRvcihjaXJjbGUpCiAgICAjIHllZC5leGVjXygpCgogICAgIyBwcC5leGl0KCkKICAgICMgbXBzbGljZSA9ICMgcC5sb2dpY2FsX2FuZCgKICAgICMgaXJjbGUgPCAoNjQwMCArIDYwKSwgY2lyY2xlID4gKDY0MDAgLSA2MCkpCg==</text>
       </register>
       <register name="8" type="4">
-        <text>center0</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
-        <text>mean</text>
+        <text encoding="base64">XDxfYWRkX3NlZWRzX21tXD4=</text>
       </register>
       <register name="-" type="4">
-        <text>center computation</text>
+        <text>vs_mmr</text>
       </register>
     </registers>
     <search>
-      <last-search>mean</last-search>
+      <last-search encoding="base64">XDxfYWRkX3NlZWRzX21tXD4=</last-search>
       <last-offset />
-      <last-pattern>mean</last-pattern>
+      <last-pattern encoding="base64">XDxfYWRkX3NlZWRzX21tXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>config</entry>
         <entry encoding="base64">XDxfX2NyZWF0ZV90bGlua3NcPg==</entry>
         <entry encoding="base64">XDxfX3NpbWlsYXJpdHlfZm9yX3RsaW5rc19vYmpfYmdyXD4=</entry>
         <entry>seeds</entry>
@@ -772,6 +777,7 @@
         <entry encoding="base64">XDxOYXZpZ2F0aW9uVG9vbGJhclw+</entry>
         <entry>cente</entry>
         <entry>mean</entry>
+        <entry encoding="base64">XDxfYWRkX3NlZWRzX21tXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>e</entry>
