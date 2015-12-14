@@ -47,13 +47,13 @@
         <mark key="." line="15" column="20" />
         <mark key="[" line="15" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/tests/liver_segmentation_test.py" timestamp="1450098513107">
-        <mark key="'" line="116" column="25" />
+      <file name="$USER_HOME$/projects/lisa/tests/liver_segmentation_test.py" timestamp="1450101273283">
+        <mark key="'" line="120" column="25" />
         <mark key="a" line="59" column="17" />
-        <mark key="]" line="117" column="7" />
-        <mark key="^" line="117" column="7" />
-        <mark key="." line="117" column="7" />
-        <mark key="[" line="116" column="52" />
+        <mark key="]" line="73" column="0" />
+        <mark key="^" line="118" column="34" />
+        <mark key="." line="73" column="0" />
+        <mark key="[" line="73" column="0" />
       </file>
       <file name="$USER_HOME$/projects/quanta/quantan/__main__.py" timestamp="1446553214305">
         <mark key="]" line="1" column="6" />
@@ -373,7 +373,7 @@
         <mark key="." line="168" column="119" />
         <mark key="[" line="169" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1450099595059">
+      <file name="/a.dummy" timestamp="1450101303334">
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -701,46 +701,46 @@
     </jumps>
     <registers>
       <register name="3" type="4">
-        <text>type</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>center computation</text>
       </register>
-      <register name="2" type="4">
-        <text>'intensity'</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAjIHNlZ21vZGVscGFyYW1zPXsnbWRsX3N0b3JlZF9maWxlJzogZm5fbWRsfQo=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+        <text>center computation</text>
       </register>
-      <register name="0" type="4">
-        <text>&quot;intensity_localization_fv&quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBzZWdtb2RlbHBhcmFtcz17CiAgICAgICAgICAgICdtZGxfc3RvcmVkX2ZpbGUnOiBmbl9tZGwsCiAgICAgICAgICAgICdmdl90eXBlJzonZnZfZXh0ZXJuJywKICAgICAgICAgICAgJ2Z2X2V4dGVybic6ICJpbnRlbnNpdHlfbG9jYWxpemF0aW9uX2Z2IgogICAgICAgIH0K</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">b3JpZ2luMCA=</text>
-      </register>
-      <register name="6" type="4">
-        <text>center0</text>
-      </register>
-      <register name="5" type="4">
         <text encoding="base64">bW0g</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>type</text>
+      </register>
+      <register name="5" type="4">
+        <text>type</text>
+      </register>
+      <register name="4" type="4">
+        <text>'intensity'</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm9yaWdpbjE9c3BpbmVfbWVhbgo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">b3JpZ2luMCA=</text>
       </register>
       <register name="8" type="4">
-        <text>[1.5, 1.5, 1.5]</text>
+        <text>center0</text>
       </register>
       <register name="/" type="4">
         <text>mean</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>center computation</text>
       </register>
     </registers>
     <search>
