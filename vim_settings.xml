@@ -191,12 +191,13 @@
         <mark key="." line="45" column="10" />
         <mark key="[" line="58" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/body_navigation.py" timestamp="1450086684105">
-        <mark key="'" line="52" column="26" />
-        <mark key="]" line="120" column="55" />
-        <mark key="^" line="193" column="15" />
-        <mark key="." line="193" column="15" />
-        <mark key="[" line="120" column="0" />
+      <file name="$USER_HOME$/projects/lisa/lisa/body_navigation.py" timestamp="1450094004000">
+        <mark key="'" line="33" column="50" />
+        <mark key="a" line="278" column="92" />
+        <mark key="]" line="130" column="54" />
+        <mark key="^" line="34" column="35" />
+        <mark key="." line="130" column="54" />
+        <mark key="[" line="130" column="53" />
       </file>
       <file name="$USER_HOME$/projects/lisa/requirements_conda.txt" timestamp="1448122520861">
         <mark key="]" line="36" column="7" />
@@ -599,7 +600,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="109" column="38" filename="$USER_HOME$/projects/pysegbase/tests/pycut_test.py" />
       <jump line="19" column="58" filename="$USER_HOME$/projects/pysegbase/tests/pycut_test.py" />
       <jump line="9" column="0" filename="$USER_HOME$/projects/pysegbase/tests/pycut_test.py" />
       <jump line="349" column="39" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
@@ -699,49 +699,50 @@
       <jump line="276" column="57" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
       <jump line="51" column="26" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
       <jump line="52" column="26" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
+      <jump line="33" column="50" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
     </jumps>
     <registers>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm9yaWdpbjE9c3BpbmVfbWVhbgo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">bW0g</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzcGluZV9tZWFuID0gbnAubWVhbihucC5ub256ZXJvKHNlbGYuc3BpbmUpLCAxKQo=</text>
+      <register name="&quot;" type="4">
+        <text>type</text>
       </register>
       <register name="2" type="4">
-        <text>[1.5, 1.5, 1.5]</text>
+        <text>type</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">b3JpZ2luMCA=</text>
+        <text>type</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzcGluZV9tZWFuID0gbnAubWVhbihucC5ub256ZXJvKHNlbGYuc3BpbmUpLCAxKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNlbnRlcl9tbSA9IHNlbGYuY2VudGVyICogc2VsZi53b3JraW5nX3ZzCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">cHJvZmlsZSA=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLm9yaWdpbjE9c3BpbmVfbWVhbgo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIG1vZGVscHJhCg==</text>
+      <register name="6" type="4">
+        <text>[1.5, 1.5, 1.5]</text>
       </register>
       <register name="5" type="4">
-        <text>'</text>
+        <text encoding="base64">b3JpZ2luMCA=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIG1vZGVscHJhCg==</text>
+      <register name="4" type="4">
+        <text>center0</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0b2xlcmFuY2UgPSA4MAo=</text>
+      <register name="9" type="4">
+        <text>'</text>
       </register>
-      <register name="8" type="4">
-        <text>profile</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGlmIG1vZGVscHJhCg==</text>
       </register>
       <register name="/" type="4">
         <text>mean</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">b3JpZ2luMCA=</text>
+        <text>type</text>
       </register>
     </registers>
     <search>
@@ -789,6 +790,7 @@
         <entry>408</entry>
         <entry>33</entry>
         <entry>745</entry>
+        <entry>131</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
