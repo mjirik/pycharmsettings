@@ -217,11 +217,11 @@
         <mark key="." line="14" column="7" />
         <mark key="[" line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/liver_seeds.py" timestamp="1450102869705">
-        <mark key="]" line="22" column="56" />
-        <mark key="^" line="22" column="56" />
-        <mark key="." line="22" column="56" />
-        <mark key="[" line="18" column="53" />
+      <file name="$USER_HOME$/projects/lisa/lisa/liver_seeds.py" timestamp="1450103803191">
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="[" line="16" column="15" />
       </file>
       <file name="/start_script.py" timestamp="1449047976347">
         <mark key="[" line="0" column="0" />
@@ -706,47 +706,47 @@
       <jump line="957" column="8" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
     </jumps>
     <registers>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB6X21tID0gbnAuYXJyYXkoel9tbSkKICAgICAgICAjIHJlcGVhdCBjaXJjbGUgZXZlcnkgbWlsaW1pdGVyCiAgICAgICAgZm9yIGkgaW4gcmFuZ2UoMCwgd2lkdGggKyAxKToKICAgICAgICAgICAgc2VsZi5fYWRkX3NlZWRzX21tKHhfbW0sIHlfbW0sIHpfbW0gKyBpLCBsYWJlbCwgcmFkaXVzKQogICAgICAgIAoKCiAgICBkZWYgX2FkZF9zZWVkc19tbShzZWxmLCB4X21tLCB5X21tLCB6X21tLCBsYWJlbCwgcmFkaXVzKToK</text>
+      <register name="3" type="4">
+        <text>get_center</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>vs_mmr</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
       </register>
       <register name="2" type="4">
-        <text>vs_mmr</text>
+        <text>()</text>
       </register>
-      <register name="1" type="4">
-        <text>vs_mmr</text>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAiIiIKICAgICAgICBGdW5jdGlvbiBhZGQgY2lyY2xlIHNlZWRzIHRvIG9uZSBzbGljZSB3aXRoIGRlZmluZWQgcmFkaXVzLgoKICAgICAgICBJdCBpcyBwb3NzaWJsZSBzZXQgbW9yZSBzZWVkcyBvbiBvbmUgc2xpY2Ugd2l0aCBvbmUgZGltZW5zaW9uCgogICAgICAgIHhfbW0sIHlfbW0gY29vcmRpbmF0ZXMgb2YgY2lyY2xlIGluIG1tLiBJdCBtYXkgYmUgYXJyYXkuCiAgICAgICAgel9tbSA9IHNsaWNlIGNvb3JkaW5hdGVzICBpbiBtbS4gSXQgbWF5IGJlIGFycmF5CiAgICAgICAgOnBhcmFtIGxhYmVsOiBvbmUgbnVtYmVyLiAxIGlzIG9iamVjdCBzZWVkLCAyIGlzIGJhY2tncm91bmQgc2VlZAogICAgICAgIDpwYXJhbSByYWRpdXM6IGlzIHJhZGl1cyBvZiBjaXJjbGUgaW4gbW0KICAgICAgICA6cGFyYW0gd2lkdGg6IG1ha2VzIGNpcmNsZSB3aXRoIGRlZmluZWQgd2lkdGggKHJlcGVhdCBjaXJjbGUgZXZlcnkgbWlsaW1ldGVyKQoKICAgICAgICAiIiIK</text>
       </register>
       <register name="7" type="4">
-        <text>_in_one_slice</text>
+        <text encoding="base64">c2VlZDJfbW0g</text>
       </register>
       <register name="6" type="4">
-        <text>self</text>
+        <text>=</text>
       </register>
       <register name="5" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">c2VlZDJfbW0g</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICMgIFFNYWluV2luZG93CiAgICAjIG1wb3J0IHNlZDMKICAgICMgcj1zZWQzLnNlZDMoc2VsZi5zZWVkcyk7IHJyLnNob3coKQoKICAgICMgcm9tIHNlZWRfZWRpdG9yX3F0IGltcG9ydCBRVFNlZWRFZGl0b3IKICAgICMgcm9tIFB5UXQ0LlF0R3VpIGltcG9ydCBRQXBwbGljYXRpb24KICAgICMgcHAgPSBRQXBwbGljYXRpb24oc3lzLmFyZ3YpCiAgICAjIHllZCA9IFFUU2VlZEVkaXRvcihjaXJjbGUpCiAgICAjIHllZC5leGVjXygpCgogICAgIyBwcC5leGl0KCkKICAgICMgbXBzbGljZSA9ICMgcC5sb2dpY2FsX2FuZCgKICAgICMgaXJjbGUgPCAoNjQwMCArIDYwKSwgY2lyY2xlID4gKDY0MDAgLSA2MCkpCg==</text>
+      <register name="9" type="4">
+        <text>&quot;</text>
       </register>
-      <register name="8" type="4">
-        <text>_</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfYWRkX3NlZWRzX21tXD4=</text>
       </register>
       <register name="-" type="4">
-        <text>vs_mmr</text>
+        <text>()</text>
       </register>
     </registers>
     <search>
