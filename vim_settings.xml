@@ -137,12 +137,13 @@
         <mark key="." line="71" column="0" />
         <mark key="[" line="71" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" timestamp="1449595635107">
-        <mark key="'" line="46" column="24" />
-        <mark key="]" line="128" column="29" />
-        <mark key="^" line="128" column="29" />
-        <mark key="." line="128" column="29" />
-        <mark key="[" line="128" column="27" />
+      <file name="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" timestamp="1450099588817">
+        <mark key="'" line="17" column="19" />
+        <mark key="a" line="141" column="7" />
+        <mark key="]" line="144" column="39" />
+        <mark key="^" line="144" column="39" />
+        <mark key="." line="144" column="39" />
+        <mark key="[" line="144" column="38" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1449658074041">
         <mark key="b" line="911" column="38" />
@@ -269,11 +270,11 @@
         <mark key="." line="40" column="0" />
         <mark key="[" line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/config_default.py" timestamp="1450003534149">
-        <mark key="]" line="18" column="47" />
-        <mark key="^" line="18" column="47" />
-        <mark key="." line="18" column="47" />
-        <mark key="[" line="18" column="47" />
+      <file name="$USER_HOME$/projects/lisa/lisa/config_default.py" timestamp="1450099427996">
+        <mark key="]" line="17" column="64" />
+        <mark key="^" line="17" column="64" />
+        <mark key="." line="17" column="64" />
+        <mark key="[" line="16" column="23" />
       </file>
       <file name="$USER_HOME$/projects/lisa/.travis.yml" timestamp="1445352391957">
         <mark key="]" line="37" column="5" />
@@ -597,8 +598,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="0" filename="$USER_HOME$/projects/pysegbase/tests/pycut_test.py" />
-      <jump line="349" column="39" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
       <jump line="196" column="0" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
       <jump line="331" column="11" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
       <jump line="117" column="23" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
@@ -697,6 +696,8 @@
       <jump line="52" column="26" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
       <jump line="33" column="50" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
       <jump line="116" column="25" filename="$USER_HOME$/projects/lisa/tests/liver_segmentation_test.py" />
+      <jump line="141" column="7" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="17" column="19" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
     </jumps>
     <registers>
       <register name="3" type="4">
