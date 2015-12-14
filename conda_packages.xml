@@ -175,6 +175,7 @@
         <entry key="icu" value="54.1" />
         <entry key="idna" value="2.0" />
         <entry key="imaging" value="1.1.7" />
+        <entry key="iminuit" value="1.1.1" />
         <entry key="imtools" value="0.0.18" />
         <entry key="into" value="0.2.2" />
         <entry key="io3d" value="1.0.26" />
@@ -2367,6 +2368,13 @@
           <value>
             <list>
               <option value="1.1.7" />
+            </list>
+          </value>
+        </entry>
+        <entry key="iminuit">
+          <value>
+            <list>
+              <option value="1.1.1" />
             </list>
           </value>
         </entry>
@@ -5874,6 +5882,6 @@
     <option name="CONDA_CHANNELS">
       <set />
     </option>
-    <option name="LAST_TIME_CHECKED" value="1450001606664" />
+    <option name="LAST_TIME_CHECKED" value="1450091700085" />
   </component>
 </application>
