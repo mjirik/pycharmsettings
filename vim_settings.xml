@@ -47,13 +47,13 @@
         <mark key="." line="15" column="20" />
         <mark key="[" line="15" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/tests/liver_segmentation_test.py" timestamp="1450107027728">
+      <file name="$USER_HOME$/projects/lisa/tests/liver_segmentation_test.py" timestamp="1450182868741">
         <mark key="'" line="120" column="25" />
         <mark key="a" line="59" column="17" />
-        <mark key="]" line="170" column="23" />
+        <mark key="]" line="83" column="55" />
         <mark key="^" line="170" column="23" />
-        <mark key="." line="170" column="23" />
-        <mark key="[" line="169" column="87" />
+        <mark key="." line="83" column="55" />
+        <mark key="[" line="83" column="55" />
       </file>
       <file name="$USER_HOME$/projects/quanta/quantan/__main__.py" timestamp="1446553214305">
         <mark key="]" line="1" column="6" />
@@ -145,15 +145,15 @@
         <mark key="." line="156" column="59" />
         <mark key="[" line="156" column="58" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1450104710517">
+      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1450182918730">
         <mark key="b" line="911" column="38" />
         <mark key="'" line="62" column="17" />
         <mark key="c" line="165" column="18" />
         <mark key="a" line="939" column="7" />
-        <mark key="]" line="939" column="84" />
-        <mark key="^" line="939" column="81" />
-        <mark key="." line="939" column="84" />
-        <mark key="[" line="939" column="84" />
+        <mark key="]" line="958" column="29" />
+        <mark key="^" line="958" column="17" />
+        <mark key="." line="958" column="29" />
+        <mark key="[" line="958" column="29" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/viewer.py" timestamp="1444650851289">
         <mark key="]" line="79" column="46" />
@@ -218,11 +218,12 @@
         <mark key="." line="14" column="7" />
         <mark key="[" line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/liver_seeds.py" timestamp="1450107827279">
-        <mark key="]" line="54" column="14" />
-        <mark key="^" line="54" column="14" />
-        <mark key="." line="54" column="14" />
-        <mark key="[" line="54" column="14" />
+      <file name="$USER_HOME$/projects/lisa/lisa/liver_seeds.py" timestamp="1450183145435">
+        <mark key="'" line="46" column="0" />
+        <mark key="]" line="53" column="16" />
+        <mark key="^" line="63" column="17" />
+        <mark key="." line="53" column="16" />
+        <mark key="[" line="53" column="15" />
       </file>
       <file name="/start_script.py" timestamp="1449047976347">
         <mark key="[" line="0" column="0" />
@@ -239,11 +240,11 @@
         <mark key="." line="9" column="0" />
         <mark key="[" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/data_manipulation.py" timestamp="1450107171390">
-        <mark key="]" line="128" column="20" />
+      <file name="$USER_HOME$/projects/lisa/lisa/data_manipulation.py" timestamp="1450182208464">
+        <mark key="]" line="127" column="82" />
         <mark key="^" line="128" column="20" />
-        <mark key="." line="128" column="20" />
-        <mark key="[" line="127" column="110" />
+        <mark key="." line="127" column="72" />
+        <mark key="[" line="127" column="72" />
       </file>
       <file name="$USER_HOME$/projects/lisa/docs/index.rst" timestamp="1444650684200">
         <mark key="[" line="6" column="31" />
@@ -380,7 +381,7 @@
         <mark key="." line="168" column="119" />
         <mark key="[" line="169" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1450107680123">
+      <file name="/a.dummy" timestamp="1450182937846">
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -609,7 +610,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="143" column="37" filename="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" />
       <jump line="145" column="3" filename="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" />
       <jump line="18" column="10" filename="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" />
       <jump line="148" column="8" filename="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" />
@@ -709,49 +709,50 @@
       <jump line="957" column="8" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="939" column="7" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="62" column="17" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="46" column="0" filename="$USER_HOME$/projects/lisa/lisa/liver_seeds.py" />
     </jumps>
     <registers>
       <register name="3" type="4">
-        <text>g</text>
+        <text>1</text>
       </register>
       <register name="&quot;" type="4">
-        <text>n</text>
+        <text>5</text>
       </register>
       <register name="2" type="4">
-        <text>a</text>
+        <text>0</text>
       </register>
       <register name="1" type="4">
-        <text>n</text>
+        <text>5</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBhdHRyKCdpbnRlcmFjdGl2ZScpCiAgICBAYXR0cignc2xvdycpCiAgICBkZWYgdGVzdF9vcmdhbl9zZWdtZW50YXRpb25fd2l0aF9wcmV0cmFpbmVkX2NsYXNzaWZpZXIoc2VsZik6CiAgICAgICAgIiIiCiAgICAgICAgSW50ZXJhY3Rpdml0eSBpcyBzdG9yZWQgdG8gZmlsZQogICAgICAgIDpydHlwZTogb2JqZWN0CiAgICAgICAgIiIiCgogICAgICAgIHBhdGhfdG9fZGF0YSA9IGxpc2EuZGF0YS5zYW1wbGVfZGF0YV9wYXRoKCkKICAgICAgICBkY21kaXIgPSBvcy5wYXRoLmpvaW4ocGF0aF90b19kYXRhLCAnLi9saXZlci1vcmlnMDAxLm1oZCcpCgogICAgICAgIHByaW50ICJJbnRlcmFjdGl2ZSB0ZXN0OiB3aXRoIGxlZnQgbW91c2UgYnV0dG9uIHNlbGVjdCBsaXZlciwgXAogICAgICAgICAgICB3aXRoIHJpZ2h0IG1vdXNlIGJ1dHRvbiBzZWxlY3Qgb3RoZXIgdGlzc3VlcyIKICAgICAgICAjIGdjcGFyYW1zID0geydwYWlyd2lzZUFscGhhJzoxMCwgJ3VzZV9ib3VuZGFyeV9wZW5hbHRpZXMnOlRydWV9CiAgICAgICAgZm5fbWRsID0gb3MucGF0aC5leHBhbmR1c2VyKCJ+L2xpc2FfZGF0YS9saXZlcl9pbnRlbnNpdHkuTW9kZWwucCIpCiAgICAgICAgc2VncGFyYW1zID0ge30KICAgICAgICBzZWdtb2RlbHBhcmFtcz17CiAgICAgICAgICAgICdtZGxfc3RvcmVkX2ZpbGUnOiBmbl9tZGwsCiAgICAgICAgICAgICdmdl90eXBlJzonZnZfZXh0ZXJuJywKICAgICAgICAgICAgJ2Z2X2V4dGVybic6ICJpbnRlbnNpdHlfbG9jYWxpemF0aW9uX2Z2IgogICAgICAgIH0KICAgICAgICAjICdwYWlyd2lzZV9hbHBoYV9wZXInOiAzLAogICAgICAgICMgICAgICAgICAgICAgICd1c2VfYm91bmRhcnlfcGVuYWx0aWVzJzogVHJ1ZSwKICAgICAgICAjICAgICAgICAgICAgICAnYm91bmRhcnlfcGVuYWx0aWVzX3NpZ21hJzogMjAwfQogICAgICAgIG9zZWcgPSBvcmdhbl9zZWdtZW50YXRpb24uT3JnYW5TZWdtZW50YXRpb24oCiAgICAgICAgICAgIGRjbWRpciwgd29ya2luZ192b3hlbHNpemVfbW09NCwgc2VncGFyYW1zPXNlZ3BhcmFtcywgc2VnbW9kZWxwYXJhbXM9c2VnbW9kZWxwYXJhbXMpCiAgICAgICAgb3NlZy5hZGRfc2VlZHNfbW0oWzExMCwgMTUwXSwgWzExMCwgMTAwXSwgWzIwMF0sIGxhYmVsPTEsIHJhZGl1cz0zMCwgd2lkdGg9NSkKICAgICAgICBvc2VnLmFkZF9zZWVkc19tbShbMjUwLCAyMzBdLCBbMjEwLCAyNjBdLCBbMjAwXSwgbGFiZWw9MiwgcmFkaXVzPTUwLCB3aWR0aD01KQoKICAgICAgICBmcm9tIFB5UXQ0LlF0R3VpIGltcG9ydCBRQXBwbGljYXRpb24KICAgICAgICBhcHAgPSBRQXBwbGljYXRpb24oc3lzLmFyZ3YpCiAgICAgICAgb3NlZy5pbnRlcmFjdGl2aXR5KCkKICAgICAgICAjIG9zZWcubmludGVyYWN0aXZpdHkoKQoKICAgICAgICB2b2x1bWUgPSBvc2VnLmdldF9zZWdtZW50ZWRfdm9sdW1lX3NpemVfbW0zKCkKCiAgICAgICAgIyBtaXNjLm9ial90b19maWxlKG9zZWcuZ2V0X2lwYXJhbXMoKSwnaXBhcmFtcy5wa2wnLCBmaWxldHlwZT0ncGlja2xlJykKCiAgICAgICAgc2VsZi5hc3NlcnRHcmVhdGVyKHZvbHVtZSwgMTAwMDAwMCkKICAgICAgICBzZWxmLmFzc2VydExlc3Modm9sdW1lLCAyMDAwMDAwKQo=</text>
       </register>
       <register name="7" type="4">
-        <text>Exit</text>
+        <text>m</text>
       </register>
       <register name="6" type="4">
-        <text>segmentation_with_pretrained_classifier</text>
+        <text>m</text>
       </register>
       <register name="5" type="4">
-        <text>o</text>
+        <text>,</text>
       </register>
       <register name="4" type="4">
-        <text>r</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">RXhpdCA=</text>
+        <text>z</text>
       </register>
       <register name="8" type="4">
-        <text>application</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfYWRkX3NlZWRzX21tXD4=</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>5</text>
       </register>
     </registers>
     <search>
@@ -856,6 +857,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
