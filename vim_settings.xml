@@ -47,6 +47,12 @@
         <mark key="." line="15" column="20" />
         <mark key="[" line="15" column="13" />
       </file>
+      <file name="$USER_HOME$/projects/quanta/quantan/__main__.py" timestamp="1446553214305">
+        <mark key="]" line="1" column="6" />
+        <mark key="^" line="1" column="6" />
+        <mark key="." line="1" column="6" />
+        <mark key="[" line="0" column="13" />
+      </file>
       <file name="$USER_HOME$/projects/lisa/tests/liver_segmentation_test.py" timestamp="1450182868741">
         <mark key="'" line="120" column="25" />
         <mark key="a" line="59" column="17" />
@@ -54,12 +60,6 @@
         <mark key="^" line="170" column="23" />
         <mark key="." line="83" column="55" />
         <mark key="[" line="83" column="55" />
-      </file>
-      <file name="$USER_HOME$/projects/quanta/quantan/__main__.py" timestamp="1446553214305">
-        <mark key="]" line="1" column="6" />
-        <mark key="^" line="1" column="6" />
-        <mark key="." line="1" column="6" />
-        <mark key="[" line="0" column="13" />
       </file>
       <file name="/fragment.py" timestamp="1449586744450">
         <mark key="]" line="0" column="10" />
@@ -147,8 +147,8 @@
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1450182918730">
         <mark key="b" line="911" column="38" />
-        <mark key="'" line="62" column="17" />
         <mark key="c" line="165" column="18" />
+        <mark key="'" line="62" column="17" />
         <mark key="a" line="939" column="7" />
         <mark key="]" line="958" column="29" />
         <mark key="^" line="958" column="17" />
@@ -254,17 +254,17 @@
         <mark key="." line="97" column="0" />
         <mark key="[" line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/imtools/imtools/ml/gmmcl.py" timestamp="1448550206184">
-        <mark key="]" line="12" column="21" />
-        <mark key="^" line="12" column="21" />
-        <mark key="." line="12" column="21" />
-        <mark key="[" line="11" column="14" />
-      </file>
       <file name="$USER_HOME$/projects/imtools/setup.py" timestamp="1445352304600">
         <mark key="]" line="13" column="18" />
         <mark key="^" line="56" column="60" />
         <mark key="." line="13" column="18" />
         <mark key="[" line="13" column="17" />
+      </file>
+      <file name="$USER_HOME$/projects/imtools/imtools/ml/gmmcl.py" timestamp="1448550206184">
+        <mark key="]" line="12" column="21" />
+        <mark key="^" line="12" column="21" />
+        <mark key="." line="12" column="21" />
+        <mark key="[" line="11" column="14" />
       </file>
       <file name="$USER_HOME$/projects/io3d/tests/datawriter_test.py" timestamp="1443767919770">
         <mark key="]" line="88" column="52" />
@@ -416,8 +416,8 @@
         <mark key="[" line="16" column="0" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" timestamp="1450186409188">
-        <mark key="r" line="123" column="22" />
         <mark key="'" line="92" column="15" />
+        <mark key="r" line="123" column="22" />
         <mark key="a" line="157" column="3" />
         <mark key="]" line="208" column="38" />
         <mark key="^" line="208" column="38" />
@@ -599,12 +599,12 @@
         <mark key="." line="109" column="20" />
         <mark key="[" line="298" column="73" />
       </file>
+      <file name="vim_settings.xml" timestamp="1449175692195">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/lisa/.ropeproject/config.py" timestamp="1448371468408">
         <mark key="]" line="1" column="23" />
         <mark key="." line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="vim_settings.xml" timestamp="1449175692195">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -711,11 +711,11 @@
       <jump line="46" column="0" filename="$USER_HOME$/projects/lisa/lisa/liver_seeds.py" />
     </jumps>
     <registers>
-      <register name="3" type="4">
-        <text encoding="base64">ZGw+MA==</text>
-      </register>
       <register name="&quot;" type="4">
         <text>1</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">ZGw+MA==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIGltcG9ydCBQeVF0NDsgUHlRdDQuUXRDb3JlLnB5cXRSZW1vdmVJbnB1dEhvb2soKQogICAgaW1wb3J0IGlwZGI7IGlwZGIuc2V0X3RyYWNlKCkK</text>
