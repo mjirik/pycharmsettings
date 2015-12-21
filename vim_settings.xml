@@ -253,12 +253,13 @@
         <mark key="." line="97" column="0" />
         <mark key="[" line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/quanta/quantan/histology_report.py" timestamp="1450706999425">
-        <mark key="'" line="521" column="11" />
-        <mark key="]" line="69" column="11" />
-        <mark key="^" line="69" column="11" />
-        <mark key="." line="69" column="11" />
-        <mark key="[" line="68" column="62" />
+      <file name="$USER_HOME$/projects/quanta/quantan/histology_report.py" timestamp="1450708931454">
+        <mark key="'" line="31" column="0" />
+        <mark key="a" line="67" column="0" />
+        <mark key="]" line="77" column="69" />
+        <mark key="^" line="72" column="22" />
+        <mark key="." line="72" column="22" />
+        <mark key="[" line="503" column="0" />
       </file>
       <file name="$USER_HOME$/projects/imtools/setup.py" timestamp="1445352304600">
         <mark key="]" line="13" column="18" />
@@ -583,10 +584,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="529" column="23" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="703" column="23" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="1167" column="27" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="1349" column="18" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
       <jump line="46" column="24" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
       <jump line="233" column="17" filename="$USER_HOME$/projects/lisa/tests/liver_segmentation_test.py" />
       <jump line="27" column="0" filename="$USER_HOME$/projects/lisa/tests/liver_segmentation_test.py" />
@@ -683,49 +680,53 @@
       <jump line="68" column="8" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
       <jump line="395" column="16" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
       <jump line="520" column="11" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
+      <jump line="77" column="0" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
+      <jump line="67" column="0" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
+      <jump line="31" column="0" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRlZiB3cnV0ZVJlcG9ydFRvQ1NWCg==</text>
+        <text encoding="base64">ICAgICAgICByZXBvcnRfZGF0YSA9IHtrOmRhdGFfbVtrXSBmb3IgayBpbiByZXFfa2V5cyBpZiBrIGluIGRhdGFfbX0gCg==</text>
       </register>
       <register name="3" type="4">
-        <text>sklabel</text>
+        <text encoding="base64">cmVwb3J0X2RhdGEg</text>
       </register>
       <register name="2" type="4">
-        <text>image</text>
+        <text>=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlZiB3cnV0ZVJlcG9ydFRvQ1NWCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiB3cml0ZVJlcG9ydFRvQ1NWKHNlbGYsIGZpbGVuYW1lPSdoaXN0X3JlcG9ydC5jc3YnKToK</text>
+        <text encoding="base64">ICAgICAgICByZXBvcnRfZGF0YSA9IHtrOmRhdGFfbVtrXSBmb3IgayBpbiByZXFfa2V5cyBpZiBrIGluIGRhdGFfbX0gCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">W2xhYmVsZWQgc2tlbGV0b24gKERJQ09NKV0oaHR0cDovLzE0Ny4yMjguMjQwLjYxL3F1ZWV0ZWNoL3d3dy9sYWJlbGVkX3NrZWxldG9uLmRjbSkK</text>
+        <text encoding="base64">ICAgICAgICAnVmVzc2VsIHZvbHVtZSBmcmFjdGlvbiAoVnYpJywKICAgICAgICAnU3VyZmFjZSBkZW5zaXR5IChTdiknLAogICAgICAgICdMZW5ndGggZGVuc2l0eSAoTHYpJywKICAgICAgICAnVG9ydHVvc2l0eScsCiAgICAgICAgJ052JywKICAgICAgICAnVnJlZicsCg==</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">bGFiZWxlZCA=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">c2tlbGV0b24g</text>
+        <text>('key1','key2','key99')</text>
       </register>
-      <register name="4" type="4">
-        <text>labeled_skeleton</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>o</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="8" type="4">
-        <text>_</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3cml0ZVJlcG9ydFRvQ1NWXD4=</text>
       </register>
       <register name="-" type="4">
-        <text>image</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
@@ -778,6 +779,7 @@
         <entry>256</entry>
         <entry>257</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
