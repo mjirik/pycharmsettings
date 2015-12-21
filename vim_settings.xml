@@ -395,7 +395,7 @@
         <mark key="." line="168" column="119" />
         <mark key="[" line="169" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1450698964513">
+      <file name="/a.dummy" timestamp="1450702779456">
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -501,11 +501,11 @@
         <mark key="." line="31" column="21" />
         <mark key="[" line="31" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/quanta/README.md" timestamp="1446550184867">
-        <mark key="]" line="23" column="25" />
-        <mark key="^" line="28" column="26" />
-        <mark key="." line="23" column="0" />
-        <mark key="[" line="23" column="0" />
+      <file name="$USER_HOME$/projects/quanta/README.md" timestamp="1450702558563">
+        <mark key="]" line="65" column="69" />
+        <mark key="^" line="65" column="69" />
+        <mark key="." line="65" column="69" />
+        <mark key="[" line="65" column="58" />
       </file>
       <file name="$USER_HOME$/projects/lisa/tests/vessels_segmentation_test.py" timestamp="1445339956308">
         <mark key="'" line="118" column="36" />
@@ -726,47 +726,47 @@
       <jump line="480" column="66" filename="$USER_HOME$/projects/quanta/quantan/histology_analyser_gui.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgUHlRdDQ7IFB5UXQ0LlF0Q29yZS5weXF0UmVtb3ZlSW5wdXRIb29rKCkKICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+      <register name="&quot;" type="4">
+        <text>labeled_skeleton</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgUHlRdDQ7IFB5UXQ0LlF0Q29yZS5weXF0UmVtb3ZlSW5wdXRIb29rKCkKICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">bGFiZWxlZCA=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgUHlRdDQ7IFB5UXQ0LlF0Q29yZS5weXF0UmVtb3ZlSW5wdXRIb29rKCkKICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">c2tlbGV0b24g</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgUHlRdDQ7IFB5UXQ0LlF0Q29yZS5weXF0UmVtb3ZlSW5wdXRIb29rKCkKICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+      <register name="1" type="4">
+        <text>labeled_skeleton</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnVpX2dyaWRMYXlvdXQuYWRkV2lkZ2V0KGJ0bl9zYXZlX3NrZWxldG9uLCByc3RhcnQgKyA2LCAxKQo=</text>
+        <text encoding="base64">W2xhYmVsZWQgc2tlbGV0b24gKERJQ09NKV0oaHR0cDovLzE0Ny4yMjguMjQwLjYxL3F1ZWV0ZWNoL3d3dy9sYWJlbGVkX3NrZWxldG9uLmRjbSkK</text>
       </register>
       <register name="7" type="4">
-        <text>labeled</text>
+        <text>png</text>
       </register>
       <register name="6" type="4">
+        <text>o</text>
+      </register>
+      <register name="5" type="4">
         <text>_</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnVpX2dyaWRMYXlvdXQuYWRkV2lkZ2V0KGJ0bl9zdGF0cywgcnN0YXJ0ICsgNywgMSkK</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnVpX2dyaWRMYXlvdXQuYWRkV2lkZ2V0KGJ0bl9zYXZlX3NlZ21lbnRhdGlvbiwgcnN0YXJ0ICsgNSwgMSkKICAgICAgICBzZWxmLnVpX2dyaWRMYXlvdXQuYWRkV2lkZ2V0KGJ0bl9zYXZlX3NrZWxldG9uLCByc3RhcnQgKyA2LCAxKQogICAgICAgIHNlbGYudWlfZ3JpZExheW91dC5hZGRXaWRnZXQoYnRuX3NhdmVfbGFiZWxlZF9za2VsZXRvbiwgcnN0YXJ0ICsgNiwgMSkK</text>
+        <text encoding="base64">W2xhYmVsZWQgc2tlbGV0b24gKERJQ09NKV0oaHR0cDovLzE0Ny4yMjguMjQwLjYxL3F1ZWV0ZWNoL3d3dy9sYWJlbGVkX3NrZWxldG9uLmRjbSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">bGFiZWxlZCA=</text>
+        <text encoding="base64">b2Yg</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">bGFiZWxlZCA=</text>
+        <text>ou</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzYXZlX2xhYmVsZWRfc2tlbGV0b25cPg==</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>labeled_skeleton</text>
       </register>
     </registers>
     <search>
