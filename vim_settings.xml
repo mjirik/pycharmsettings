@@ -47,13 +47,12 @@
         <mark key="." line="15" column="20" />
         <mark key="[" line="15" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/quanta/quantan/quantan.py" timestamp="1450698121286">
+      <file name="$USER_HOME$/projects/quanta/quantan/quantan.py" timestamp="1450698768411">
         <mark key="'" line="76" column="8" />
         <mark key="a" line="76" column="24" />
-        <mark key="]" line="77" column="19" />
-        <mark key="^" line="73" column="18" />
-        <mark key="." line="77" column="0" />
-        <mark key="[" line="77" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="." line="74" column="0" />
+        <mark key="[" line="74" column="0" />
       </file>
       <file name="$USER_HOME$/projects/quanta/quantan/__main__.py" timestamp="1446553214305">
         <mark key="]" line="1" column="6" />
@@ -726,40 +725,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaW8zZAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
-      </register>
-      <register name="1" type="2">
         <text encoding="base64">ZGVmIGdldFNhdmVQYXRoKHNlbGYsIG9maWxlbmFtZT0ic3RhdHMiLCBleHRlbnNpb249InlhbWwiKToKICAgIGxvZ2dlci5kZWJ1ZygiR2V0U2F2ZVBhdGhEaWFsb2ciKQoKICAgIGZpbGVuYW1lID0gc3RyKFFGaWxlRGlhbG9nLmdldFNhdmVGaWxlTmFtZShzZWxmLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJTYXZlIGZpbGUiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICIuLyIgKyBvZmlsZW5hbWUgKyAiLiIgKyBleHRlbnNpb24sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZmlsdGVyPSIqLiIgKyBleHRlbnNpb24pKQoKICAgIHJldHVybiBmaWxlbmFtZQoK</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaW8zZAo=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="0" type="4">
+        <text>, metadata=self.metadata</text>
       </register>
       <register name="7" type="4">
-        <text>keleton</text>
-      </register>
-      <register name="6" type="4">
         <text>keletonsklabel</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>segmentation</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>skeleton</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>Dialog</text>
+        <text>Segmentation Query Dialog</text>
       </register>
       <register name="8" type="4">
-        <text>Segmentation Query Dialog</text>
+        <text>keleton</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzYXZlX3NlZ21lbnRhdGlvblw+</text>
