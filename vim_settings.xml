@@ -47,13 +47,13 @@
         <mark key="." line="15" column="20" />
         <mark key="[" line="15" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/quanta/quantan/quantan.py" timestamp="1450713848388">
-        <mark key="'" line="780" column="11" />
+      <file name="$USER_HOME$/projects/quanta/quantan/quantan.py" timestamp="1450715196914">
+        <mark key="'" line="763" column="7" />
         <mark key="a" line="80" column="24" />
-        <mark key="]" line="704" column="31" />
-        <mark key="^" line="704" column="31" />
-        <mark key="." line="704" column="31" />
-        <mark key="[" line="704" column="31" />
+        <mark key="]" line="761" column="27" />
+        <mark key="^" line="761" column="27" />
+        <mark key="." line="761" column="27" />
+        <mark key="[" line="760" column="22" />
       </file>
       <file name="$USER_HOME$/projects/quanta/quantan/__main__.py" timestamp="1446553214305">
         <mark key="]" line="1" column="6" />
@@ -253,14 +253,14 @@
         <mark key="." line="97" column="0" />
         <mark key="[" line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/quanta/quantan/histology_report.py" timestamp="1450713146500">
-        <mark key="b" line="462" column="28" />
-        <mark key="'" line="462" column="8" />
+      <file name="$USER_HOME$/projects/quanta/quantan/histology_report.py" timestamp="1450715963719">
+        <mark key="b" line="463" column="28" />
+        <mark key="'" line="337" column="40" />
         <mark key="a" line="67" column="0" />
-        <mark key="]" line="93" column="0" />
-        <mark key="^" line="95" column="24" />
-        <mark key="." line="93" column="0" />
-        <mark key="[" line="93" column="0" />
+        <mark key="]" line="350" column="67" />
+        <mark key="^" line="342" column="54" />
+        <mark key="." line="350" column="67" />
+        <mark key="[" line="350" column="66" />
       </file>
       <file name="$USER_HOME$/projects/imtools/setup.py" timestamp="1445352304600">
         <mark key="]" line="13" column="18" />
@@ -378,7 +378,7 @@
         <mark key="." line="168" column="119" />
         <mark key="[" line="169" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1450712705259">
+      <file name="/a.dummy" timestamp="1450715314005">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/io3d/io3d/__init__.py" timestamp="1448883347734">
@@ -585,10 +585,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="39" filename="$USER_HOME$/projects/lisa/tests/histology_test.py" />
-      <jump line="57" column="13" filename="$USER_HOME$/projects/lisa/tests/histology_test.py" />
-      <jump line="247" column="4" filename="$USER_HOME$/projects/lisa/lisa/liver_model.py" />
-      <jump line="260" column="18" filename="$USER_HOME$/projects/lisa/lisa/liver_model.py" />
       <jump line="261" column="28" filename="$USER_HOME$/projects/lisa/lisa/liver_model.py" />
       <jump line="744" column="23" filename="$USER_HOME$/projects/sed3/sed3/sed3.py" />
       <jump line="252" column="0" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
@@ -675,65 +671,69 @@
       <jump line="485" column="79" filename="$USER_HOME$/projects/quanta/quantan/quantan.py" />
       <jump line="517" column="75" filename="$USER_HOME$/projects/quanta/quantan/quantan.py" />
       <jump line="755" column="7" filename="$USER_HOME$/projects/quanta/quantan/quantan.py" />
-      <jump line="125" column="8" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
+      <jump line="462" column="8" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
+      <jump line="799" column="8" filename="$USER_HOME$/projects/quanta/quantan/quantan.py" />
+      <jump line="774" column="11" filename="$USER_HOME$/projects/quanta/quantan/quantan.py" />
       <jump line="386" column="17" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
       <jump line="394" column="13" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
       <jump line="414" column="17" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
       <jump line="432" column="17" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
       <jump line="446" column="17" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
       <jump line="460" column="17" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
-      <jump line="462" column="8" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
-      <jump line="799" column="8" filename="$USER_HOME$/projects/quanta/quantan/quantan.py" />
-      <jump line="774" column="11" filename="$USER_HOME$/projects/quanta/quantan/quantan.py" />
+      <jump line="125" column="8" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
+      <jump line="773" column="11" filename="$USER_HOME$/projects/quanta/quantan/quantan.py" />
+      <jump line="775" column="11" filename="$USER_HOME$/projects/quanta/quantan/quantan.py" />
+      <jump line="763" column="7" filename="$USER_HOME$/projects/quanta/quantan/quantan.py" />
+      <jump line="337" column="40" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIE5vbmUK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">cm93IA==</text>
       </register>
       <register name="3" type="4">
-        <text>vtfile</text>
+        <text>WithOthers</text>
       </register>
       <register name="2" type="4">
-        <text>None</text>
+        <text encoding="base64">cm93IA==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIE5vbmUK</text>
+      <register name="1" type="4">
+        <text encoding="base64">cm93IA==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoCiAgICAgICAgJy12dGYnLCAnLS12dGZpbGUnLAogICAgICAgIGRlZmF1bHQ9Tm9uZSwKICAgICAgICBoZWxwPSduYW1lIG9mIG91dHB1dCB2ZXNzZWwgdHJlZSBmaWxlJykK</text>
+        <text encoding="base64">ICAgIGRlZiBhZGRSZXN1bHRzUmVjb3JkV2l0aE90aGVycyhzZWxmLCByZWNvcmRmaWxlbmFtZT0nc3RhdHNSZWNvcmRzLmNzdicpOgogICAgICAgICMgQWRkIHJlc3VsdHMgUmVjb3JkCiAgICAgICAgIyBpZiBub3Qgc2VsZi5yZWNvcmRBZGRlZDoKICAgICAgICBsYWJlbCA9ICJHVUkgbW9kZSIKICAgICAgICBpZiBzZWxmLm1haW5XaW5kb3cuaW5wdXRmaWxlIGlzIE5vbmUgb3Igc2VsZi5tYWluV2luZG93LmlucHV0ZmlsZSA9PSAiIjoKICAgICAgICAgICAgc2VsZi5oci5hZGRSZXN1bHRzUmVjb3JkKGxhYmVsPWxhYmVsLCByZWNvcmRmaWxlbmFtZT1yZWNvcmRmaWxlbmFtZSkKICAgICAgICBlbHNlOgogICAgICAgICAgICBzZWxmLmhyLmFkZFJlc3VsdHNSZWNvcmQobGFiZWw9bGFiZWwsIGRhdGFwYXRoPXNlbGYubWFpbldpbmRvdy5pbnB1dGZpbGUsIHJlY29yZGZpbGVuYW1lPXJlY29yZGZpbGVuYW1lKQo=</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">c3RhdGlzdGljcyA=</text>
+        <text>'</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">c3RhdGlzdGljcyA=</text>
+        <text>,</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlZiB3cml0ZVJlcG9ydFRvQ1NWTmV3KHNlbGYsIGZpbGVuYW1lPSdoaXN0X3JlcG9ydC5jc3YnKToKICAgICAgICBwYXNzCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="4" type="4">
-        <text>vtf</text>
+        <text>recordfilename=recordfilename</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>=</text>
+        <text>.</text>
       </register>
       <register name="8" type="4">
-        <text>addResultsRecord</text>
+        <text>csv</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwYXJzZXJfaW5pdFw+</text>
+        <text encoding="base64">XDxidG5Xcml0ZUxhYmVsZWRTa2VsZXRvblw+</text>
       </register>
       <register name="-" type="4">
-        <text>None</text>
+        <text encoding="base64">cm93IA==</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwYXJzZXJfaW5pdFw+</last-search>
+      <last-search encoding="base64">XDxidG5Xcml0ZUxhYmVsZWRTa2VsZXRvblw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwYXJzZXJfaW5pdFw+</last-pattern>
+      <last-pattern encoding="base64">XDxidG5Xcml0ZUxhYmVsZWRTa2VsZXRvblw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -750,18 +750,17 @@
         <entry encoding="base64">XDxzaG93U2VnbWVudGVkRGF0YVw+</entry>
         <entry encoding="base64">XDxzYXZlX2xhYmVsZWRfc2tlbGV0b25cPg==</entry>
         <entry encoding="base64">XDxidG5Xcml0ZURhdGEzZFw+</entry>
-        <entry encoding="base64">XDxidG5Xcml0ZUxhYmVsZWRTa2VsZXRvblw+</entry>
         <entry encoding="base64">XDx3cml0ZVN0YXRzVG9DU1ZcPg==</entry>
         <entry encoding="base64">XDx3cml0ZVJlcG9ydENTVlw+</entry>
         <entry>csv</entry>
         <entry>report</entry>
         <entry encoding="base64">XDx3cml0ZVJlcG9ydFRvQ1NWXD4=</entry>
-        <entry encoding="base64">XDxhZGRSZXN1bHRzUmVjb3JkXD4=</entry>
         <entry encoding="base64">XDxwcm9jZXNzRGF0YVw+</entry>
         <entry encoding="base64">XDxwYXJzZXJfaW5pdFw+</entry>
+        <entry encoding="base64">XDxhZGRSZXN1bHRzUmVjb3JkXD4=</entry>
+        <entry encoding="base64">XDxidG5Xcml0ZUxhYmVsZWRTa2VsZXRvblw+</entry>
       </history-search>
       <history-cmd>
-        <entry>98</entry>
         <entry>124</entry>
         <entry>230</entry>
         <entry>416</entry>
@@ -780,6 +779,7 @@
         <entry>W</entry>
         <entry>:w</entry>
         <entry>q</entry>
+        <entry>482</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
