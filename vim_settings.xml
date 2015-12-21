@@ -253,12 +253,12 @@
         <mark key="." line="97" column="0" />
         <mark key="[" line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/quanta/quantan/histology_report.py" timestamp="1450706447229">
-        <mark key="'" line="321" column="8" />
-        <mark key="]" line="357" column="22" />
-        <mark key="^" line="357" column="22" />
-        <mark key="." line="357" column="22" />
-        <mark key="[" line="357" column="14" />
+      <file name="$USER_HOME$/projects/quanta/quantan/histology_report.py" timestamp="1450706999425">
+        <mark key="'" line="521" column="11" />
+        <mark key="]" line="69" column="11" />
+        <mark key="^" line="69" column="11" />
+        <mark key="." line="69" column="11" />
+        <mark key="[" line="68" column="62" />
       </file>
       <file name="$USER_HOME$/projects/imtools/setup.py" timestamp="1445352304600">
         <mark key="]" line="13" column="18" />
@@ -376,7 +376,7 @@
         <mark key="." line="168" column="119" />
         <mark key="[" line="169" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1450706466548">
+      <file name="/a.dummy" timestamp="1450706508549">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/io3d/io3d/__init__.py" timestamp="1448883347734">
@@ -583,11 +583,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="163" column="0" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
-      <jump line="164" column="30" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
-      <jump line="166" column="22" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
-      <jump line="94" column="0" filename="$USER_HOME$/projects/lisa/lisa/convert.py" />
-      <jump line="228" column="30" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
       <jump line="529" column="23" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
       <jump line="703" column="23" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
       <jump line="1167" column="27" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
@@ -683,63 +678,65 @@
       <jump line="480" column="66" filename="$USER_HOME$/projects/quanta/quantan/histology_analyser_gui.py" />
       <jump line="289" column="40" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
       <jump line="321" column="8" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
+      <jump line="95" column="8" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
+      <jump line="367" column="16" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
+      <jump line="68" column="8" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
+      <jump line="395" column="16" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
+      <jump line="520" column="11" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>image</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGRlZiB3cnV0ZVJlcG9ydFRvQ1NWCg==</text>
       </register>
       <register name="3" type="4">
-        <text>labeled_skeleton</text>
-      </register>
-      <register name="2" type="4">
         <text>sklabel</text>
       </register>
-      <register name="1" type="4">
+      <register name="2" type="4">
         <text>image</text>
       </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGRlZiB3cnV0ZVJlcG9ydFRvQ1NWCg==</text>
+      </register>
       <register name="0" type="2">
+        <text encoding="base64">ICAgIGRlZiB3cml0ZVJlcG9ydFRvQ1NWKHNlbGYsIGZpbGVuYW1lPSdoaXN0X3JlcG9ydC5jc3YnKToK</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">W2xhYmVsZWQgc2tlbGV0b24gKERJQ09NKV0oaHR0cDovLzE0Ny4yMjguMjQwLjYxL3F1ZWV0ZWNoL3d3dy9sYWJlbGVkX3NrZWxldG9uLmRjbSkK</text>
       </register>
-      <register name="7" type="4">
-        <text>_</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">W2xhYmVsZWQgc2tlbGV0b24gKERJQ09NKV0oaHR0cDovLzE0Ny4yMjguMjQwLjYxL3F1ZWV0ZWNoL3d3dy9sYWJlbGVkX3NrZWxldG9uLmRjbSkK</text>
-      </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">bGFiZWxlZCA=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">c2tlbGV0b24g</text>
+      </register>
+      <register name="4" type="4">
+        <text>labeled_skeleton</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>png</text>
-      </register>
-      <register name="8" type="4">
         <text>o</text>
       </register>
+      <register name="8" type="4">
+        <text>_</text>
+      </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxidG5Xcml0ZUxhYmVsZWRTa2VsZXRvblw+</text>
+        <text encoding="base64">XDx3cml0ZVJlcG9ydFRvQ1NWXD4=</text>
       </register>
       <register name="-" type="4">
         <text>image</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxidG5Xcml0ZUxhYmVsZWRTa2VsZXRvblw+</last-search>
+      <last-search encoding="base64">XDx3cml0ZVJlcG9ydFRvQ1NWXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxidG5Xcml0ZUxhYmVsZWRTa2VsZXRvblw+</last-pattern>
+      <last-pattern encoding="base64">XDx3cml0ZVJlcG9ydFRvQ1NWXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZXRfZGF0YVw+</entry>
-        <entry encoding="base64">XDxnZXRfc2FtcGxlX2RhdGFcPg==</entry>
-        <entry>quah</entry>
         <entry>jatra_5</entry>
         <entry>clx</entry>
         <entry encoding="base64">XDxmZWF0dXJlc19mcm9tX2ltYWdlXD4=</entry>
@@ -757,6 +754,9 @@
         <entry encoding="base64">XDxzYXZlX2xhYmVsZWRfc2tlbGV0b25cPg==</entry>
         <entry encoding="base64">XDxidG5Xcml0ZURhdGEzZFw+</entry>
         <entry encoding="base64">XDxidG5Xcml0ZUxhYmVsZWRTa2VsZXRvblw+</entry>
+        <entry encoding="base64">XDxhZGRSZXN1bHRzUmVjb3JkXD4=</entry>
+        <entry encoding="base64">XDx3cml0ZVN0YXRzVG9DU1ZcPg==</entry>
+        <entry encoding="base64">XDx3cml0ZVJlcG9ydFRvQ1NWXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>e</entry>
