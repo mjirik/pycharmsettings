@@ -47,12 +47,13 @@
         <mark key="." line="15" column="20" />
         <mark key="[" line="15" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/quanta/quantan/quantan.py" timestamp="1450698768411">
-        <mark key="'" line="76" column="8" />
-        <mark key="a" line="76" column="24" />
-        <mark key="]" line="74" column="0" />
-        <mark key="." line="74" column="0" />
-        <mark key="[" line="74" column="0" />
+      <file name="$USER_HOME$/projects/quanta/quantan/quantan.py" timestamp="1450699507315">
+        <mark key="'" line="78" column="8" />
+        <mark key="a" line="78" column="24" />
+        <mark key="]" line="76" column="124" />
+        <mark key="^" line="76" column="124" />
+        <mark key="." line="76" column="124" />
+        <mark key="[" line="76" column="63" />
       </file>
       <file name="$USER_HOME$/projects/quanta/quantan/__main__.py" timestamp="1446553214305">
         <mark key="]" line="1" column="6" />
@@ -393,7 +394,7 @@
         <mark key="." line="168" column="119" />
         <mark key="[" line="169" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1450695254762">
+      <file name="/a.dummy" timestamp="1450698964513">
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -724,47 +725,47 @@
       <jump line="954" column="0" filename="$USER_HOME$/projects/quanta/quantan/histology_analyser_gui.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>6</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ZGVmIGdldFNhdmVQYXRoKHNlbGYsIG9maWxlbmFtZT0ic3RhdHMiLCBleHRlbnNpb249InlhbWwiKToKICAgIGxvZ2dlci5kZWJ1ZygiR2V0U2F2ZVBhdGhEaWFsb2ciKQoKICAgIGZpbGVuYW1lID0gc3RyKFFGaWxlRGlhbG9nLmdldFNhdmVGaWxlTmFtZShzZWxmLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJTYXZlIGZpbGUiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICIuLyIgKyBvZmlsZW5hbWUgKyAiLiIgKyBleHRlbnNpb24sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZmlsdGVyPSIqLiIgKyBleHRlbnNpb24pKQoKICAgIHJldHVybiBmaWxlbmFtZQoK</text>
-      </register>
-      <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="0" type="4">
-        <text>, metadata=self.metadata</text>
+      <register name="2" type="4">
+        <text>1</text>
+      </register>
+      <register name="1" type="4">
+        <text>6</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgUHlRdDQ7IFB5UXQ0LlF0Q29yZS5weXF0UmVtb3ZlSW5wdXRIb29rKCkKICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="7" type="4">
-        <text>keletonsklabel</text>
-      </register>
-      <register name="6" type="4">
-        <text>segmentation</text>
-      </register>
-      <register name="5" type="4">
         <text>skeleton</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ZGVmIGdldFNhdmVQYXRoKHNlbGYsIG9maWxlbmFtZT0ic3RhdHMiLCBleHRlbnNpb249InlhbWwiKToKICAgIGxvZ2dlci5kZWJ1ZygiR2V0U2F2ZVBhdGhEaWFsb2ciKQoKICAgIGZpbGVuYW1lID0gc3RyKFFGaWxlRGlhbG9nLmdldFNhdmVGaWxlTmFtZShzZWxmLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJTYXZlIGZpbGUiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICIuLyIgKyBvZmlsZW5hbWUgKyAiLiIgKyBleHRlbnNpb24sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZmlsdGVyPSIqLiIgKyBleHRlbnNpb24pKQoKICAgIHJldHVybiBmaWxlbmFtZQoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>Segmentation Query Dialog</text>
+        <text>keletonsklabel</text>
       </register>
       <register name="8" type="4">
-        <text>keleton</text>
+        <text>segmentation</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzYXZlX3NlZ21lbnRhdGlvblw+</text>
       </register>
       <register name="-" type="4">
-        <text>skeleton</text>
+        <text>6</text>
       </register>
     </registers>
     <search>
