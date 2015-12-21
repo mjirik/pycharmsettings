@@ -253,13 +253,14 @@
         <mark key="." line="97" column="0" />
         <mark key="[" line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/quanta/quantan/histology_report.py" timestamp="1450709778581">
-        <mark key="'" line="365" column="17" />
+      <file name="$USER_HOME$/projects/quanta/quantan/histology_report.py" timestamp="1450712320819">
+        <mark key="b" line="459" column="28" />
+        <mark key="'" line="122" column="77" />
         <mark key="a" line="67" column="0" />
-        <mark key="]" line="373" column="0" />
-        <mark key="^" line="367" column="28" />
-        <mark key="." line="373" column="0" />
-        <mark key="[" line="373" column="0" />
+        <mark key="]" line="331" column="44" />
+        <mark key="^" line="331" column="44" />
+        <mark key="." line="331" column="44" />
+        <mark key="[" line="331" column="37" />
       </file>
       <file name="$USER_HOME$/projects/imtools/setup.py" timestamp="1445352304600">
         <mark key="]" line="13" column="18" />
@@ -584,18 +585,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="91" column="28" filename="$USER_HOME$/projects/lisa/lisa/liver_segmentation_training.py" />
-      <jump line="16" column="10" filename="$USER_HOME$/projects/lisa/lisa/liver_segmentation_training.py" />
-      <jump line="126" column="27" filename="$USER_HOME$/projects/lisa/lisa/liver_segmentation_training.py" />
-      <jump line="17" column="15" filename="$USER_HOME$/projects/lisa/lisa/liver_segmentation_training.py" />
-      <jump line="136" column="42" filename="$USER_HOME$/projects/lisa/lisa/liver_segmentation_training.py" />
-      <jump line="18" column="19" filename="$USER_HOME$/projects/lisa/lisa/liver_segmentation_training.py" />
-      <jump line="196" column="28" filename="$USER_HOME$/projects/lisa/lisa/liver_segmentation_training.py" />
-      <jump line="23" column="9" filename="$USER_HOME$/projects/lisa/lisa/liver_segmentation_training.py" />
-      <jump line="38" column="0" filename="$USER_HOME$/projects/lisa/lisa/liver_segmentation_training.py" />
-      <jump line="168" column="14" filename="$USER_HOME$/projects/lisa/lisa/liver_segmentation_training.py" />
-      <jump line="233" column="4" filename="$USER_HOME$/projects/lisa/lisa/liver_segmentation_training.py" />
-      <jump line="21" column="4" filename="$USER_HOME$/projects/pysegbase/tests/pycut_test.py" />
       <jump line="91" column="29" filename="$USER_HOME$/projects/pysegbase/tests/pycut_test.py" />
       <jump line="402" column="26" filename="$USER_HOME$/projects/lisa/tests/organ_segmentation_test.py" />
       <jump line="76" column="12" filename="$USER_HOME$/projects/lisa/tests/organ_segmentation_test.py" />
@@ -684,49 +673,61 @@
       <jump line="504" column="21" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
       <jump line="322" column="45" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
       <jump line="365" column="17" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
+      <jump line="323" column="45" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
+      <jump line="366" column="17" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
+      <jump line="374" column="13" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
+      <jump line="394" column="17" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
+      <jump line="412" column="17" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
+      <jump line="426" column="17" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
+      <jump line="440" column="17" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
+      <jump line="442" column="8" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
+      <jump line="446" column="20" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
+      <jump line="448" column="20" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
+      <jump line="340" column="45" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
+      <jump line="122" column="77" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmhhLndyaXRlU3RhdHNUb1lBTUwoZmlsZW5hbWUpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">c3RhdGlzdGljcyA=</text>
       </register>
       <register name="3" type="4">
-        <text>yaml</text>
+        <text>addResultsRecord</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">WUFNTCA=</text>
+        <text encoding="base64">c3RhdGlzdGljcyA=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmhhLndyaXRlU3RhdHNUb1lBTUwoZmlsZW5hbWUpCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">c3RhdGlzdGljcyA=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5hZGRSZXN1bHRzUmVjb3JkKCkK</text>
+      <register name="0" type="4">
+        <text>recordfilename='statsRecords.csv'</text>
       </register>
       <register name="7" type="4">
-        <text>ReportCSV</text>
+        <text encoding="base64">bGVuZ3RoIA==</text>
       </register>
-      <register name="6" type="4">
-        <text>write</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLnVpX2dyaWRMYXlvdXQuYWRkV2lkZ2V0KGJ0bl9kYXRhM2QsIHJzdGFydCArIDAsIDEpCg==</text>
       </register>
       <register name="5" type="4">
-        <text>rep_csv</text>
+        <text>filename</text>
       </register>
       <register name="4" type="4">
-        <text>hist_stats</text>
+        <text>=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>v</text>
+        <text encoding="base64">bGVuZ3RoIA==</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">cmVwb3J0IA==</text>
+        <text encoding="base64">QXZnIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhZGRSZXN1bHRzUmVjb3JkXD4=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">WUFNTCA=</text>
+        <text encoding="base64">c3RhdGlzdGljcyA=</text>
       </register>
     </registers>
     <search>
