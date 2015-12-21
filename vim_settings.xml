@@ -47,13 +47,13 @@
         <mark key="." line="15" column="20" />
         <mark key="[" line="15" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/quanta/quantan/quantan.py" timestamp="1450699507315">
+      <file name="$USER_HOME$/projects/quanta/quantan/quantan.py" timestamp="1450700295631">
         <mark key="'" line="78" column="8" />
         <mark key="a" line="78" column="24" />
-        <mark key="]" line="76" column="124" />
-        <mark key="^" line="76" column="124" />
-        <mark key="." line="76" column="124" />
-        <mark key="[" line="76" column="63" />
+        <mark key="]" line="76" column="54" />
+        <mark key="^" line="76" column="54" />
+        <mark key="." line="76" column="54" />
+        <mark key="[" line="76" column="42" />
       </file>
       <file name="$USER_HOME$/projects/quanta/quantan/__main__.py" timestamp="1446553214305">
         <mark key="]" line="1" column="6" />
@@ -169,7 +169,8 @@
         <mark key="." line="79" column="46" />
         <mark key="[" line="79" column="48" />
       </file>
-      <file name="$USER_HOME$/projects/quanta/quantan/histology_analyser_gui.py" timestamp="1450695209083">
+      <file name="$USER_HOME$/projects/quanta/quantan/histology_analyser_gui.py" timestamp="1450700257668">
+        <mark key="'" line="408" column="26" />
         <mark key="a" line="258" column="14" />
         <mark key="]" line="264" column="17" />
         <mark key="^" line="264" column="17" />
@@ -623,8 +624,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1174" column="0" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
-      <jump line="909" column="21" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="920" column="47" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="1163" column="51" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="907" column="42" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
@@ -723,61 +722,62 @@
       <jump line="72" column="8" filename="$USER_HOME$/projects/quanta/quantan/quantan.py" />
       <jump line="75" column="8" filename="$USER_HOME$/projects/quanta/quantan/quantan.py" />
       <jump line="954" column="0" filename="$USER_HOME$/projects/quanta/quantan/histology_analyser_gui.py" />
+      <jump line="461" column="41" filename="$USER_HOME$/projects/quanta/quantan/histology_analyser_gui.py" />
+      <jump line="408" column="26" filename="$USER_HOME$/projects/quanta/quantan/histology_analyser_gui.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>6</text>
+        <text>sklabel</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="3" type="4">
+        <text>)</text>
       </register>
-      <register name="2" type="4">
-        <text>1</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBkZWwoc2thbikK</text>
       </register>
       <register name="1" type="4">
-        <text>6</text>
+        <text>sklabel</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgUHlRdDQ7IFB5UXQ0LlF0Q29yZS5weXF0UmVtb3ZlSW5wdXRIb29rKCkKICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICBza2FuID0gU2tlbGV0b25BbmFseXNlcigKICAgICAgICAgICAgc2VsZi5kYXRhM2Rfc2tlbCwKICAgICAgICAgICAgdm9sdW1lX2RhdGE9c2VsZi5kYXRhM2RfdGhyLAogICAgICAgICAgICB2b3hlbHNpemVfbW09c2VsZi5tZXRhZGF0YVsndm94ZWxzaXplX21tJ10sCiAgICAgICAgICAgIGFnZ3JlZ2F0ZV9uZWFyX25vZGVzX2Rpc3RhbmNlID0gc2VsZi5hZ2dyZWdhdGVfbmVhcl9ub2Rlc19kaXN0YW5jZSwKICAgICAgICAgICAgKQogICAgICAgIGRhdGEzZF9ub2Rlc192aXMgPSBza2FuLnNrbGFiZWwuY29weSgpCiAgICAgICAgZGVsKHNrYW4pCg==</text>
       </register>
       <register name="7" type="4">
-        <text>skeleton</text>
+        <text>sklabel</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+      <register name="6" type="4">
+        <text>.</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+      <register name="5" type="4">
+        <text>copy</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ZGVmIGdldFNhdmVQYXRoKHNlbGYsIG9maWxlbmFtZT0ic3RhdHMiLCBleHRlbnNpb249InlhbWwiKToKICAgIGxvZ2dlci5kZWJ1ZygiR2V0U2F2ZVBhdGhEaWFsb2ciKQoKICAgIGZpbGVuYW1lID0gc3RyKFFGaWxlRGlhbG9nLmdldFNhdmVGaWxlTmFtZShzZWxmLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJTYXZlIGZpbGUiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICIuLyIgKyBvZmlsZW5hbWUgKyAiLiIgKyBleHRlbnNpb24sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZmlsdGVyPSIqLiIgKyBleHRlbnNpb24pKQoKICAgIHJldHVybiBmaWxlbmFtZQoK</text>
+      <register name="4" type="4">
+        <text>(</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>keletonsklabel</text>
+        <text>skan</text>
       </register>
       <register name="8" type="4">
-        <text>segmentation</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzYXZlX3NlZ21lbnRhdGlvblw+</text>
+        <text encoding="base64">XDxzaG93U2VnbWVudGVkRGF0YVw+</text>
       </register>
       <register name="-" type="4">
-        <text>6</text>
+        <text>sklabel</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzYXZlX3NlZ21lbnRhdGlvblw+</last-search>
+      <last-search encoding="base64">XDxzaG93U2VnbWVudGVkRGF0YVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzYXZlX3NlZ21lbnRhdGlvblw+</last-pattern>
+      <last-pattern encoding="base64">XDxzaG93U2VnbWVudGVkRGF0YVw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfX2NyZWF0ZV90bGlua3NcPg==</entry>
         <entry encoding="base64">XDxfX3NpbWlsYXJpdHlfZm9yX3RsaW5rc19vYmpfYmdyXD4=</entry>
         <entry>seeds</entry>
         <entry encoding="base64">XDxzZXRfc2VlZHNcPg==</entry>
@@ -797,6 +797,7 @@
         <entry>cente</entry>
         <entry>mean</entry>
         <entry encoding="base64">XDxfYWRkX3NlZWRzX21tXD4=</entry>
+        <entry encoding="base64">XDxzaG93U2VnbWVudGVkRGF0YVw+</entry>
       </history-search>
       <history-cmd>
         <entry>e</entry>
