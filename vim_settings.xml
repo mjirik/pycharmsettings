@@ -164,11 +164,11 @@
         <mark key="." line="79" column="46" />
         <mark key="[" line="79" column="48" />
       </file>
-      <file name="$USER_HOME$/projects/quanta/quantan/histology_analyser_gui.py" timestamp="1450793218812">
-        <mark key="'" line="583" column="17" />
+      <file name="$USER_HOME$/projects/quanta/quantan/histology_analyser_gui.py" timestamp="1450794264108">
+        <mark key="'" line="581" column="17" />
         <mark key="a" line="267" column="14" />
-        <mark key="]" line="523" column="37" />
-        <mark key="^" line="589" column="35" />
+        <mark key="]" line="522" column="0" />
+        <mark key="^" line="587" column="35" />
         <mark key="." line="522" column="0" />
         <mark key="[" line="522" column="0" />
       </file>
@@ -253,11 +253,11 @@
         <mark key="." line="97" column="0" />
         <mark key="[" line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/quanta/quantan/histology_report.py" timestamp="1450787415595">
-        <mark key="b" line="507" column="28" />
-        <mark key="'" line="634" column="8" />
+      <file name="$USER_HOME$/projects/quanta/quantan/histology_report.py" timestamp="1450794233775">
+        <mark key="b" line="505" column="28" />
+        <mark key="'" line="632" column="8" />
         <mark key="a" line="125" column="28" />
-        <mark key="]" line="262" column="37" />
+        <mark key="]" line="261" column="0" />
         <mark key="^" line="186" column="26" />
         <mark key="." line="261" column="0" />
         <mark key="[" line="261" column="0" />
@@ -378,7 +378,7 @@
         <mark key="." line="168" column="119" />
         <mark key="[" line="169" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1450716003539">
+      <file name="/a.dummy" timestamp="1450794272543">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/io3d/io3d/__init__.py" timestamp="1448883347734">
@@ -472,11 +472,11 @@
         <mark key="." line="31" column="21" />
         <mark key="[" line="31" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/quanta/README.md" timestamp="1450703230103">
-        <mark key="]" line="66" column="9" />
-        <mark key="^" line="66" column="9" />
-        <mark key="." line="66" column="9" />
-        <mark key="[" line="66" column="8" />
+      <file name="$USER_HOME$/projects/quanta/README.md" timestamp="1450794162505">
+        <mark key="]" line="58" column="50" />
+        <mark key="^" line="58" column="51" />
+        <mark key="." line="58" column="50" />
+        <mark key="[" line="58" column="50" />
       </file>
       <file name="$USER_HOME$/projects/lisa/tests/vessels_segmentation_test.py" timestamp="1445339956308">
         <mark key="'" line="118" column="36" />
@@ -507,6 +507,11 @@
         <mark key="^" line="57" column="8" />
         <mark key="." line="56" column="0" />
         <mark key="[" line="56" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1450794285513">
+        <mark key="]" line="0" column="5" />
+        <mark key="." line="0" column="5" />
+        <mark key="[" line="0" column="5" />
       </file>
       <file name="$USER_HOME$/projects/dicom2fem/dicom2fem/vtk2stl.py" timestamp="1448959466140">
         <mark key="]" line="22" column="23" />
@@ -687,59 +692,58 @@
       <jump line="581" column="17" filename="$USER_HOME$/projects/quanta/quantan/histology_analyser_gui.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgUHlRdDQ7IFB5UXQ0LlF0Q29yZS5weXF0UmVtb3ZlSW5wdXRIb29rKCkKICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+      <register name="&quot;" type="4">
+        <text>csv report buttons</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBpbXBvcnQgUHlRdDQ7IFB5UXQ0LlF0Q29yZS5weXF0UmVtb3ZlSW5wdXRIb29rKCkKICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="1" type="2">
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBpbXBvcnQgUHlRdDQ7IFB5UXQ0LlF0Q29yZS5weXF0UmVtb3ZlSW5wdXRIb29rKCkKICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+      </register>
+      <register name="1" type="4">
+        <text>csv report buttons</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzdGF0c1snTWFpbiddWydOdiddID0gc2VsZi5kYXRhWydnZW5lcmFsJ11bJ052J10gCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>h</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgUHlRdDQ7IFB5UXQ0LlF0Q29yZS5weXF0UmVtb3ZlSW5wdXRIb29rKCkKICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="6" type="4">
-        <text>r</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="5" type="4">
-        <text>.</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgUHlRdDQ7IFB5UXQ0LlF0Q29yZS5weXF0UmVtb3ZlSW5wdXRIb29rKCkKICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdsYWJlbCc6ICcnCg==</text>
+      <register name="4" type="4">
+        <text>0</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>r</text>
-      </register>
-      <register name="8" type="4">
         <text>.</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdsYWJlbCc6ICcnCg==</text>
+      </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTdGF0c1dvcmtlclw+</text>
+        <text>hook</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>csv report buttons</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxTdGF0c1dvcmtlclw+</last-search>
+      <last-search>hook</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTdGF0c1dvcmtlclw+</last-pattern>
+      <last-pattern>hook</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwYXJzZXJfaW5pdFw+</entry>
         <entry encoding="base64">XDxhZGRSZXN1bHRzUmVjb3JkXD4=</entry>
         <entry encoding="base64">XDxidG5Xcml0ZUxhYmVsZWRTa2VsZXRvblw+</entry>
         <entry>save_sk</entry>
@@ -759,6 +763,7 @@
         <entry encoding="base64">XDxIaXN0b2xvZ3lSZXBvcnREaWFsb2dcPg==</entry>
         <entry encoding="base64">XDxzaG93SGlzdG9sb2d5UmVwb3J0RGlhbG9nXD4=</entry>
         <entry encoding="base64">XDxTdGF0c1dvcmtlclw+</entry>
+        <entry>hook</entry>
       </history-search>
       <history-cmd>
         <entry>709</entry>
