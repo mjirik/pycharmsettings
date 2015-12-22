@@ -164,13 +164,13 @@
         <mark key="." line="79" column="46" />
         <mark key="[" line="79" column="48" />
       </file>
-      <file name="$USER_HOME$/projects/quanta/quantan/histology_analyser_gui.py" timestamp="1450787479579">
+      <file name="$USER_HOME$/projects/quanta/quantan/histology_analyser_gui.py" timestamp="1450788927952">
         <mark key="'" line="41" column="29" />
         <mark key="a" line="267" column="14" />
-        <mark key="]" line="294" column="70" />
-        <mark key="^" line="273" column="38" />
-        <mark key="." line="294" column="70" />
-        <mark key="[" line="294" column="70" />
+        <mark key="]" line="295" column="36" />
+        <mark key="^" line="295" column="36" />
+        <mark key="." line="295" column="36" />
+        <mark key="[" line="293" column="40" />
       </file>
       <file name="$USER_HOME$/projects/io3d/io3d/datawriter.py" timestamp="1450698545682">
         <mark key="]" line="48" column="65" />
@@ -585,7 +585,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="939" column="7" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="62" column="17" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="46" column="0" filename="$USER_HOME$/projects/lisa/lisa/liver_seeds.py" />
       <jump line="435" column="49" filename="$USER_HOME$/projects/quanta/quantan/histology_analyser_gui.py" />
@@ -684,6 +683,7 @@
       <jump line="773" column="22" filename="$USER_HOME$/projects/quanta/quantan/quantan.py" />
       <jump line="760" column="9" filename="$USER_HOME$/projects/quanta/quantan/quantan.py" />
       <jump line="34" column="29" filename="$USER_HOME$/projects/quanta/quantan/quantan.py" />
+      <jump line="445" column="55" filename="$USER_HOME$/projects/quanta/quantan/histology_analyser_gui.py" />
       <jump line="41" column="29" filename="$USER_HOME$/projects/quanta/quantan/histology_analyser_gui.py" />
     </jumps>
     <registers>
@@ -756,8 +756,8 @@
         <entry encoding="base64">XDxyZXBvcnRfb1w+</entry>
         <entry encoding="base64">XDxnZW5lcmF0ZVN0YXRzXD4=</entry>
         <entry encoding="base64">XDxfX29uX2NoYW5nZWRfbGFiZWxcPg==</entry>
-        <entry>report</entry>
         <entry encoding="base64">XDxIaXN0b2xvZ3lSZXBvcnRcPg==</entry>
+        <entry>report</entry>
         <entry encoding="base64">XDxIaXN0b2xvZ3lSZXBvcnREaWFsb2dcPg==</entry>
       </history-search>
       <history-cmd>
