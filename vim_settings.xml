@@ -724,22 +724,21 @@
         <text encoding="base64">bGFiZWxlZF9za2VsZXRvbiA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfX29uX2NoYW5nZWRfYWdncmVnYXRlXD4=</text>
+        <text>line</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfX29uX2NoYW5nZWRfYWdncmVnYXRlXD4=</last-search>
+      <last-search>line</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfX29uX2NoYW5nZWRfYWdncmVnYXRlXD4=</last-pattern>
+      <last-pattern>line</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfYWRkX3NlZWRzX21tXD4=</entry>
         <entry encoding="base64">XDxzaG93U2VnbWVudGVkRGF0YVw+</entry>
         <entry encoding="base64">XDxidG5Xcml0ZURhdGEzZFw+</entry>
         <entry encoding="base64">XDx3cml0ZVN0YXRzVG9DU1ZcPg==</entry>
@@ -759,6 +758,7 @@
         <entry encoding="base64">XDxzYXZlX2xhYmVsZWRfc2tlbGV0b25cPg==</entry>
         <entry>label</entry>
         <entry encoding="base64">XDxfX29uX2NoYW5nZWRfYWdncmVnYXRlXD4=</entry>
+        <entry>line</entry>
       </history-search>
       <history-cmd>
         <entry>124</entry>
