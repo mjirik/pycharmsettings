@@ -253,14 +253,14 @@
         <mark key="." line="97" column="0" />
         <mark key="[" line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/quanta/quantan/histology_report.py" timestamp="1450784861345">
-        <mark key="b" line="504" column="28" />
-        <mark key="'" line="286" column="8" />
+      <file name="$USER_HOME$/projects/quanta/quantan/histology_report.py" timestamp="1450786172954">
+        <mark key="b" line="507" column="28" />
+        <mark key="'" line="289" column="8" />
         <mark key="a" line="125" column="28" />
-        <mark key="]" line="142" column="19" />
-        <mark key="^" line="142" column="19" />
-        <mark key="." line="142" column="19" />
-        <mark key="[" line="142" column="18" />
+        <mark key="]" line="199" column="0" />
+        <mark key="^" line="186" column="26" />
+        <mark key="." line="199" column="0" />
+        <mark key="[" line="199" column="0" />
       </file>
       <file name="$USER_HOME$/projects/imtools/setup.py" timestamp="1445352304600">
         <mark key="]" line="13" column="18" />
@@ -687,47 +687,47 @@
       <jump line="286" column="8" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>hr</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdsYWJlbCc6ICcnCg==</text>
       </register>
       <register name="3" type="4">
-        <text>.</text>
+        <text>r</text>
       </register>
       <register name="2" type="4">
-        <text>data</text>
+        <text>.</text>
       </register>
-      <register name="1" type="4">
-        <text>hr</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdsYWJlbCc6ICcnCg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzdGF0c1snTWFpbiddWydOdiddID0gc2VsZi5kYXRhWydnZW5lcmFsJ11bJ052J10gCg==</text>
       </register>
       <register name="7" type="4">
-        <text>['Other']</text>
+        <text>h</text>
       </register>
       <register name="6" type="4">
-        <text>Others</text>
+        <text>r</text>
       </register>
       <register name="5" type="4">
-        <text>Other</text>
+        <text>.</text>
       </register>
       <register name="4" type="4">
-        <text>hr</text>
+        <text>h</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="4">
-        <text>]</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICByZXBvcnRfbyA9IHsnbGFiZWwnOicnfQogICAgICAgIHJlcG9ydF9vLnVwZGF0ZShzZWxmLmhyLmRhdGFbJ2dlbmVyYWwnXSkKICAgICAgICBzZWxmLmhyLmRhdGFbJ2dlbmVyYWwnXSA9IHJlcG9ydF9vCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>Report</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICByZXBvcnRfbyA9IHsnbGFiZWwnOicnfQogICAgICAgIHJlcG9ydF9vLnVwZGF0ZShzZWxmLmhyLmRhdGFbJ2dlbmVyYWwnXSkKICAgICAgICBzZWxmLmhyLmRhdGFbJ2dlbmVyYWwnXSA9IHJlcG9ydF9vCg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfX29uX2NoYW5nZWRfbGFiZWxcPg==</text>
       </register>
       <register name="-" type="4">
-        <text>hr</text>
+        <text>.</text>
       </register>
     </registers>
     <search>
