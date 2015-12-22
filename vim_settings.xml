@@ -164,8 +164,8 @@
         <mark key="." line="79" column="46" />
         <mark key="[" line="79" column="48" />
       </file>
-      <file name="$USER_HOME$/projects/quanta/quantan/histology_analyser_gui.py" timestamp="1450716863155">
-        <mark key="'" line="274" column="16" />
+      <file name="$USER_HOME$/projects/quanta/quantan/histology_analyser_gui.py" timestamp="1450775068146">
+        <mark key="'" line="466" column="51" />
         <mark key="a" line="267" column="14" />
         <mark key="]" line="273" column="38" />
         <mark key="^" line="273" column="38" />
@@ -585,7 +585,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="90" column="17" filename="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" />
       <jump line="91" column="17" filename="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" />
       <jump line="73" column="33" filename="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" />
       <jump line="92" column="15" filename="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" />
@@ -685,6 +684,7 @@
       <jump line="80" column="39" filename="$USER_HOME$/projects/quanta/quantan/quantan.py" />
       <jump line="284" column="30" filename="$USER_HOME$/projects/quanta/quantan/quantan.py" />
       <jump line="285" column="48" filename="$USER_HOME$/projects/quanta/quantan/quantan.py" />
+      <jump line="466" column="51" filename="$USER_HOME$/projects/quanta/quantan/histology_analyser_gui.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -724,22 +724,21 @@
         <text encoding="base64">bGFiZWxlZF9za2VsZXRvbiA=</text>
       </register>
       <register name="/" type="4">
-        <text>label</text>
+        <text encoding="base64">XDxfX29uX2NoYW5nZWRfYWdncmVnYXRlXD4=</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
       </register>
     </registers>
     <search>
-      <last-search>label</last-search>
+      <last-search encoding="base64">XDxfX29uX2NoYW5nZWRfYWdncmVnYXRlXD4=</last-search>
       <last-offset />
-      <last-pattern>label</last-pattern>
+      <last-pattern encoding="base64">XDxfX29uX2NoYW5nZWRfYWdncmVnYXRlXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>mean</entry>
         <entry encoding="base64">XDxfYWRkX3NlZWRzX21tXD4=</entry>
         <entry encoding="base64">XDxzaG93U2VnbWVudGVkRGF0YVw+</entry>
         <entry encoding="base64">XDxidG5Xcml0ZURhdGEzZFw+</entry>
@@ -759,6 +758,7 @@
         <entry encoding="base64">XDxnZXRfc2tsYWJlbFw+</entry>
         <entry encoding="base64">XDxzYXZlX2xhYmVsZWRfc2tlbGV0b25cPg==</entry>
         <entry>label</entry>
+        <entry encoding="base64">XDxfX29uX2NoYW5nZWRfYWdncmVnYXRlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>124</entry>
