@@ -47,13 +47,13 @@
         <mark key="." line="15" column="20" />
         <mark key="[" line="15" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/quanta/quantan/quantan.py" timestamp="1450778407406">
+      <file name="$USER_HOME$/projects/quanta/quantan/quantan.py" timestamp="1450782459270">
         <mark key="'" line="285" column="48" />
         <mark key="a" line="82" column="24" />
-        <mark key="]" line="775" column="6" />
-        <mark key="^" line="775" column="52" />
-        <mark key="." line="775" column="6" />
-        <mark key="[" line="775" column="6" />
+        <mark key="]" line="776" column="29" />
+        <mark key="^" line="776" column="29" />
+        <mark key="." line="776" column="29" />
+        <mark key="[" line="776" column="32" />
       </file>
       <file name="$USER_HOME$/projects/quanta/quantan/__main__.py" timestamp="1446553214305">
         <mark key="]" line="1" column="6" />
@@ -253,14 +253,14 @@
         <mark key="." line="97" column="0" />
         <mark key="[" line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/quanta/quantan/histology_report.py" timestamp="1450782041401">
-        <mark key="b" line="502" column="28" />
+      <file name="$USER_HOME$/projects/quanta/quantan/histology_report.py" timestamp="1450782762602">
+        <mark key="b" line="504" column="28" />
         <mark key="'" line="172" column="8" />
         <mark key="a" line="125" column="28" />
-        <mark key="]" line="285" column="27" />
-        <mark key="^" line="285" column="27" />
-        <mark key="." line="285" column="27" />
-        <mark key="[" line="285" column="20" />
+        <mark key="]" line="269" column="31" />
+        <mark key="^" line="269" column="28" />
+        <mark key="." line="269" column="31" />
+        <mark key="[" line="269" column="31" />
       </file>
       <file name="$USER_HOME$/projects/imtools/setup.py" timestamp="1445352304600">
         <mark key="]" line="13" column="18" />
@@ -688,46 +688,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">VE9ETyA=</text>
+        <text>['Other']</text>
       </register>
       <register name="3" type="4">
-        <text>btn_yaml</text>
+        <text>]</text>
       </register>
       <register name="2" type="4">
-        <text>data</text>
+        <text>Report</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">VE9ETyA=</text>
+        <text>['Other']</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnVpX2dyaWRMYXlvdXQuYWRkV2lkZ2V0KHVpX2NvbW1lbnQsIHJzdGFydCArIDAsIDApCg==</text>
+        <text encoding="base64">ICAgICAgICBzdGF0c1snTWFpbiddWydOdiddID0gc2VsZi5kYXRhWydnZW5lcmFsJ11bJ052J10gCg==</text>
       </register>
       <register name="7" type="4">
-        <text>comment</text>
+        <text>Report</text>
       </register>
       <register name="6" type="4">
-        <text>comment</text>
+        <text>['</text>
       </register>
       <register name="5" type="4">
-        <text>comment</text>
+        <text>Main</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGFiZWwsCg==</text>
+      <register name="4" type="4">
+        <text>'</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>comment</text>
+        <text>Other</text>
       </register>
-      <register name="8" type="4">
-        <text>comment</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAjIGFkZCBjb21tZW50IHRhZwogICAgICAgIGltcG9ydCBQeVF0NDsgUHlRdDQuUXRDb3JlLnB5cXRSZW1vdmVJbnB1dEhvb2soKQogICAgICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCiAgICAgICAgcmVwb3J0X28gPSB7J2xhYmVsJzonJ30KICAgICAgICByZXBvcnRfby51cGRhdGUoc2VsZi5oci5kYXRhWydSZXBvcnQnXVsnTWFpbiddKQogICAgICAgIHNlbGYuaHIuZGF0YVsnUmVwb3J0J11bJ090aGVyJ10gPSByZXBvcnRfbwo=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZW5lcmF0ZVN0YXRzXD4=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">VE9ETyA=</text>
+        <text>['Other']</text>
       </register>
     </registers>
     <search>
