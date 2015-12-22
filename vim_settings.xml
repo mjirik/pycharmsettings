@@ -253,9 +253,9 @@
         <mark key="." line="97" column="0" />
         <mark key="[" line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/quanta/quantan/histology_report.py" timestamp="1450778511114">
+      <file name="$USER_HOME$/projects/quanta/quantan/histology_report.py" timestamp="1450782041401">
         <mark key="b" line="502" column="28" />
-        <mark key="'" line="330" column="50" />
+        <mark key="'" line="172" column="8" />
         <mark key="a" line="125" column="28" />
         <mark key="]" line="285" column="27" />
         <mark key="^" line="285" column="27" />
@@ -585,9 +585,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="276" column="57" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
-      <jump line="51" column="26" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
-      <jump line="52" column="26" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
       <jump line="33" column="50" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
       <jump line="116" column="25" filename="$USER_HOME$/projects/lisa/tests/liver_segmentation_test.py" />
       <jump line="141" column="7" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
@@ -685,6 +682,9 @@
       <jump line="324" column="50" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
       <jump line="329" column="51" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
       <jump line="330" column="50" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
+      <jump line="263" column="16" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
+      <jump line="632" column="11" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
+      <jump line="172" column="8" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -724,22 +724,21 @@
         <text>comment</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZXBvcnRfb1w+</text>
+        <text encoding="base64">XDxnZW5lcmF0ZVN0YXRzXD4=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">VE9ETyA=</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZXBvcnRfb1w+</last-search>
+      <last-search encoding="base64">XDxnZW5lcmF0ZVN0YXRzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZXBvcnRfb1w+</last-pattern>
+      <last-pattern encoding="base64">XDxnZW5lcmF0ZVN0YXRzXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxidG5Xcml0ZURhdGEzZFw+</entry>
         <entry encoding="base64">XDx3cml0ZVN0YXRzVG9DU1ZcPg==</entry>
         <entry encoding="base64">XDx3cml0ZVJlcG9ydENTVlw+</entry>
         <entry>csv</entry>
@@ -759,6 +758,7 @@
         <entry encoding="base64">XDxfX29uX2NoYW5nZWRfYWdncmVnYXRlXD4=</entry>
         <entry>line</entry>
         <entry encoding="base64">XDxyZXBvcnRfb1w+</entry>
+        <entry encoding="base64">XDxnZW5lcmF0ZVN0YXRzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>230</entry>
