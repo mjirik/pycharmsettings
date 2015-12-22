@@ -253,14 +253,14 @@
         <mark key="." line="97" column="0" />
         <mark key="[" line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/quanta/quantan/histology_report.py" timestamp="1450782762602">
+      <file name="$USER_HOME$/projects/quanta/quantan/histology_report.py" timestamp="1450784460988">
         <mark key="b" line="504" column="28" />
-        <mark key="'" line="172" column="8" />
+        <mark key="'" line="286" column="8" />
         <mark key="a" line="125" column="28" />
-        <mark key="]" line="269" column="31" />
-        <mark key="^" line="269" column="28" />
-        <mark key="." line="269" column="31" />
-        <mark key="[" line="269" column="31" />
+        <mark key="]" line="287" column="15" />
+        <mark key="^" line="287" column="15" />
+        <mark key="." line="287" column="15" />
+        <mark key="[" line="287" column="13" />
       </file>
       <file name="$USER_HOME$/projects/imtools/setup.py" timestamp="1445352304600">
         <mark key="]" line="13" column="18" />
@@ -585,7 +585,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="50" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
       <jump line="116" column="25" filename="$USER_HOME$/projects/lisa/tests/liver_segmentation_test.py" />
       <jump line="141" column="7" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
       <jump line="17" column="19" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
@@ -624,7 +623,6 @@
       <jump line="504" column="21" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
       <jump line="322" column="45" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
       <jump line="365" column="17" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
-      <jump line="366" column="17" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
       <jump line="374" column="13" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
       <jump line="412" column="17" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
       <jump line="426" column="17" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
@@ -685,61 +683,62 @@
       <jump line="263" column="16" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
       <jump line="632" column="11" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
       <jump line="172" column="8" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
+      <jump line="366" column="44" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
+      <jump line="286" column="8" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>['Other']</text>
+        <text>hr</text>
       </register>
       <register name="3" type="4">
-        <text>]</text>
+        <text>.</text>
       </register>
       <register name="2" type="4">
-        <text>Report</text>
+        <text>data</text>
       </register>
       <register name="1" type="4">
-        <text>['Other']</text>
+        <text>hr</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzdGF0c1snTWFpbiddWydOdiddID0gc2VsZi5kYXRhWydnZW5lcmFsJ11bJ052J10gCg==</text>
       </register>
       <register name="7" type="4">
-        <text>Report</text>
+        <text>['Other']</text>
       </register>
       <register name="6" type="4">
-        <text>['</text>
+        <text>Others</text>
       </register>
       <register name="5" type="4">
-        <text>Main</text>
+        <text>Other</text>
       </register>
       <register name="4" type="4">
-        <text>'</text>
+        <text>hr</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>Other</text>
+        <text>]</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIGFkZCBjb21tZW50IHRhZwogICAgICAgIGltcG9ydCBQeVF0NDsgUHlRdDQuUXRDb3JlLnB5cXRSZW1vdmVJbnB1dEhvb2soKQogICAgICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCiAgICAgICAgcmVwb3J0X28gPSB7J2xhYmVsJzonJ30KICAgICAgICByZXBvcnRfby51cGRhdGUoc2VsZi5oci5kYXRhWydSZXBvcnQnXVsnTWFpbiddKQogICAgICAgIHNlbGYuaHIuZGF0YVsnUmVwb3J0J11bJ090aGVyJ10gPSByZXBvcnRfbwo=</text>
+      <register name="8" type="4">
+        <text>Report</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZW5lcmF0ZVN0YXRzXD4=</text>
+        <text encoding="base64">XDxfX29uX2NoYW5nZWRfbGFiZWxcPg==</text>
       </register>
       <register name="-" type="4">
-        <text>['Other']</text>
+        <text>hr</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZW5lcmF0ZVN0YXRzXD4=</last-search>
+      <last-search encoding="base64">XDxfX29uX2NoYW5nZWRfbGFiZWxcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZW5lcmF0ZVN0YXRzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxfX29uX2NoYW5nZWRfbGFiZWxcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx3cml0ZVN0YXRzVG9DU1ZcPg==</entry>
         <entry encoding="base64">XDx3cml0ZVJlcG9ydENTVlw+</entry>
         <entry>csv</entry>
         <entry>report</entry>
@@ -759,9 +758,9 @@
         <entry>line</entry>
         <entry encoding="base64">XDxyZXBvcnRfb1w+</entry>
         <entry encoding="base64">XDxnZW5lcmF0ZVN0YXRzXD4=</entry>
+        <entry encoding="base64">XDxfX29uX2NoYW5nZWRfbGFiZWxcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>230</entry>
         <entry>416</entry>
         <entry>709</entry>
         <entry>551</entry>
@@ -780,6 +779,7 @@
         <entry>q</entry>
         <entry>482</entry>
         <entry>267</entry>
+        <entry>366</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
