@@ -47,8 +47,8 @@
         <mark key="." line="15" column="20" />
         <mark key="[" line="15" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/quanta/quantan/quantan.py" timestamp="1450782459270">
-        <mark key="'" line="285" column="48" />
+      <file name="$USER_HOME$/projects/quanta/quantan/quantan.py" timestamp="1450787436708">
+        <mark key="'" line="34" column="29" />
         <mark key="a" line="82" column="24" />
         <mark key="]" line="776" column="29" />
         <mark key="^" line="776" column="29" />
@@ -164,13 +164,13 @@
         <mark key="." line="79" column="46" />
         <mark key="[" line="79" column="48" />
       </file>
-      <file name="$USER_HOME$/projects/quanta/quantan/histology_analyser_gui.py" timestamp="1450776843312">
-        <mark key="'" line="466" column="51" />
+      <file name="$USER_HOME$/projects/quanta/quantan/histology_analyser_gui.py" timestamp="1450787479579">
+        <mark key="'" line="41" column="29" />
         <mark key="a" line="267" column="14" />
-        <mark key="]" line="466" column="74" />
+        <mark key="]" line="294" column="70" />
         <mark key="^" line="273" column="38" />
-        <mark key="." line="273" column="38" />
-        <mark key="[" line="466" column="0" />
+        <mark key="." line="294" column="70" />
+        <mark key="[" line="294" column="70" />
       </file>
       <file name="$USER_HOME$/projects/io3d/io3d/datawriter.py" timestamp="1450698545682">
         <mark key="]" line="48" column="65" />
@@ -253,14 +253,14 @@
         <mark key="." line="97" column="0" />
         <mark key="[" line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/quanta/quantan/histology_report.py" timestamp="1450786172954">
+      <file name="$USER_HOME$/projects/quanta/quantan/histology_report.py" timestamp="1450787415595">
         <mark key="b" line="507" column="28" />
-        <mark key="'" line="289" column="8" />
+        <mark key="'" line="634" column="8" />
         <mark key="a" line="125" column="28" />
-        <mark key="]" line="199" column="0" />
+        <mark key="]" line="262" column="37" />
         <mark key="^" line="186" column="26" />
-        <mark key="." line="199" column="0" />
-        <mark key="[" line="199" column="0" />
+        <mark key="." line="261" column="0" />
+        <mark key="[" line="261" column="0" />
       </file>
       <file name="$USER_HOME$/projects/imtools/setup.py" timestamp="1445352304600">
         <mark key="]" line="13" column="18" />
@@ -585,11 +585,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="116" column="25" filename="$USER_HOME$/projects/lisa/tests/liver_segmentation_test.py" />
-      <jump line="141" column="7" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="17" column="19" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="954" column="17" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
-      <jump line="957" column="8" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="939" column="7" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="62" column="17" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="46" column="0" filename="$USER_HOME$/projects/lisa/lisa/liver_seeds.py" />
@@ -653,7 +648,6 @@
       <jump line="446" column="17" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
       <jump line="460" column="17" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
       <jump line="125" column="8" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
-      <jump line="773" column="11" filename="$USER_HOME$/projects/quanta/quantan/quantan.py" />
       <jump line="775" column="11" filename="$USER_HOME$/projects/quanta/quantan/quantan.py" />
       <jump line="763" column="7" filename="$USER_HOME$/projects/quanta/quantan/quantan.py" />
       <jump line="337" column="40" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
@@ -685,63 +679,66 @@
       <jump line="172" column="8" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
       <jump line="366" column="44" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
       <jump line="286" column="8" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
+      <jump line="256" column="6" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
+      <jump line="634" column="8" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
+      <jump line="773" column="22" filename="$USER_HOME$/projects/quanta/quantan/quantan.py" />
+      <jump line="760" column="9" filename="$USER_HOME$/projects/quanta/quantan/quantan.py" />
+      <jump line="34" column="29" filename="$USER_HOME$/projects/quanta/quantan/quantan.py" />
+      <jump line="41" column="29" filename="$USER_HOME$/projects/quanta/quantan/histology_analyser_gui.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICdsYWJlbCc6ICcnCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>r</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgUHlRdDQ7IFB5UXQ0LlF0Q29yZS5weXF0UmVtb3ZlSW5wdXRIb29rKCkKICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
-      <register name="2" type="4">
-        <text>.</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdsYWJlbCc6ICcnCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzdGF0c1snTWFpbiddWydOdiddID0gc2VsZi5kYXRhWydnZW5lcmFsJ11bJ052J10gCg==</text>
       </register>
       <register name="7" type="4">
-        <text>h</text>
-      </register>
-      <register name="6" type="4">
-        <text>r</text>
-      </register>
-      <register name="5" type="4">
         <text>.</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>h</text>
+      </register>
+      <register name="5" type="4">
+        <text>r</text>
+      </register>
+      <register name="4" type="4">
+        <text>.</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXBvcnRfbyA9IHsnbGFiZWwnOicnfQogICAgICAgIHJlcG9ydF9vLnVwZGF0ZShzZWxmLmhyLmRhdGFbJ2dlbmVyYWwnXSkKICAgICAgICBzZWxmLmhyLmRhdGFbJ2dlbmVyYWwnXSA9IHJlcG9ydF9vCg==</text>
+      <register name="9" type="4">
+        <text>h</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXBvcnRfbyA9IHsnbGFiZWwnOicnfQogICAgICAgIHJlcG9ydF9vLnVwZGF0ZShzZWxmLmhyLmRhdGFbJ2dlbmVyYWwnXSkKICAgICAgICBzZWxmLmhyLmRhdGFbJ2dlbmVyYWwnXSA9IHJlcG9ydF9vCg==</text>
+      <register name="8" type="4">
+        <text>r</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfX29uX2NoYW5nZWRfbGFiZWxcPg==</text>
+        <text encoding="base64">XDxIaXN0b2xvZ3lSZXBvcnREaWFsb2dcPg==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfX29uX2NoYW5nZWRfbGFiZWxcPg==</last-search>
+      <last-search encoding="base64">XDxIaXN0b2xvZ3lSZXBvcnREaWFsb2dcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfX29uX2NoYW5nZWRfbGFiZWxcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxIaXN0b2xvZ3lSZXBvcnREaWFsb2dcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx3cml0ZVJlcG9ydENTVlw+</entry>
-        <entry>csv</entry>
-        <entry>report</entry>
         <entry encoding="base64">XDx3cml0ZVJlcG9ydFRvQ1NWXD4=</entry>
         <entry encoding="base64">XDxwcm9jZXNzRGF0YVw+</entry>
         <entry encoding="base64">XDxwYXJzZXJfaW5pdFw+</entry>
@@ -759,6 +756,9 @@
         <entry encoding="base64">XDxyZXBvcnRfb1w+</entry>
         <entry encoding="base64">XDxnZW5lcmF0ZVN0YXRzXD4=</entry>
         <entry encoding="base64">XDxfX29uX2NoYW5nZWRfbGFiZWxcPg==</entry>
+        <entry>report</entry>
+        <entry encoding="base64">XDxIaXN0b2xvZ3lSZXBvcnRcPg==</entry>
+        <entry encoding="base64">XDxIaXN0b2xvZ3lSZXBvcnREaWFsb2dcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>709</entry>
