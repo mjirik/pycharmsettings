@@ -47,13 +47,13 @@
         <mark key="." line="15" column="20" />
         <mark key="[" line="15" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/quanta/quantan/quantan.py" timestamp="1450717842688">
+      <file name="$USER_HOME$/projects/quanta/quantan/quantan.py" timestamp="1450778407406">
         <mark key="'" line="285" column="48" />
         <mark key="a" line="82" column="24" />
-        <mark key="]" line="80" column="43" />
-        <mark key="^" line="80" column="43" />
-        <mark key="." line="80" column="43" />
-        <mark key="[" line="80" column="37" />
+        <mark key="]" line="775" column="6" />
+        <mark key="^" line="775" column="52" />
+        <mark key="." line="775" column="6" />
+        <mark key="[" line="775" column="6" />
       </file>
       <file name="$USER_HOME$/projects/quanta/quantan/__main__.py" timestamp="1446553214305">
         <mark key="]" line="1" column="6" />
@@ -164,13 +164,13 @@
         <mark key="." line="79" column="46" />
         <mark key="[" line="79" column="48" />
       </file>
-      <file name="$USER_HOME$/projects/quanta/quantan/histology_analyser_gui.py" timestamp="1450775068146">
+      <file name="$USER_HOME$/projects/quanta/quantan/histology_analyser_gui.py" timestamp="1450776843312">
         <mark key="'" line="466" column="51" />
         <mark key="a" line="267" column="14" />
-        <mark key="]" line="273" column="38" />
+        <mark key="]" line="466" column="74" />
         <mark key="^" line="273" column="38" />
         <mark key="." line="273" column="38" />
-        <mark key="[" line="273" column="31" />
+        <mark key="[" line="466" column="0" />
       </file>
       <file name="$USER_HOME$/projects/io3d/io3d/datawriter.py" timestamp="1450698545682">
         <mark key="]" line="48" column="65" />
@@ -253,14 +253,14 @@
         <mark key="." line="97" column="0" />
         <mark key="[" line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/quanta/quantan/histology_report.py" timestamp="1450717380037">
-        <mark key="b" line="482" column="28" />
-        <mark key="'" line="398" column="24" />
-        <mark key="a" line="398" column="16" />
-        <mark key="]" line="353" column="69" />
-        <mark key="^" line="354" column="52" />
-        <mark key="." line="353" column="69" />
-        <mark key="[" line="353" column="68" />
+      <file name="$USER_HOME$/projects/quanta/quantan/histology_report.py" timestamp="1450778511114">
+        <mark key="b" line="502" column="28" />
+        <mark key="'" line="330" column="50" />
+        <mark key="a" line="125" column="28" />
+        <mark key="]" line="285" column="27" />
+        <mark key="^" line="285" column="27" />
+        <mark key="." line="285" column="27" />
+        <mark key="[" line="285" column="20" />
       </file>
       <file name="$USER_HOME$/projects/imtools/setup.py" timestamp="1445352304600">
         <mark key="]" line="13" column="18" />
@@ -585,14 +585,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="91" column="17" filename="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" />
-      <jump line="73" column="33" filename="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" />
-      <jump line="92" column="15" filename="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" />
-      <jump line="144" column="82" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
-      <jump line="243" column="0" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
-      <jump line="193" column="15" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
-      <jump line="268" column="13" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
-      <jump line="272" column="12" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
       <jump line="276" column="57" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
       <jump line="51" column="26" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
       <jump line="52" column="26" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
@@ -635,7 +627,6 @@
       <jump line="504" column="21" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
       <jump line="322" column="45" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
       <jump line="365" column="17" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
-      <jump line="323" column="45" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
       <jump line="366" column="17" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
       <jump line="374" column="13" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
       <jump line="412" column="17" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
@@ -685,61 +676,69 @@
       <jump line="284" column="30" filename="$USER_HOME$/projects/quanta/quantan/quantan.py" />
       <jump line="285" column="48" filename="$USER_HOME$/projects/quanta/quantan/quantan.py" />
       <jump line="466" column="51" filename="$USER_HOME$/projects/quanta/quantan/histology_analyser_gui.py" />
+      <jump line="126" column="52" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
+      <jump line="305" column="8" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
+      <jump line="315" column="66" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
+      <jump line="316" column="65" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
+      <jump line="317" column="65" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
+      <jump line="323" column="51" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
+      <jump line="324" column="50" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
+      <jump line="329" column="51" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
+      <jump line="330" column="50" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text encoding="base64">VE9ETyA=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnVpX2dyaWRMYXlvdXQuYWRkV2lkZ2V0KGJ0bl9hZGRfcm93X2NzdiwgcnN0YXJ0ICsgMSwgMSkK</text>
+      <register name="3" type="4">
+        <text>btn_yaml</text>
       </register>
       <register name="2" type="4">
-        <text>labeled_skeleton</text>
+        <text>data</text>
       </register>
       <register name="1" type="4">
-        <text>.</text>
+        <text encoding="base64">VE9ETyA=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnVpX2dyaWRMYXlvdXQuYWRkV2lkZ2V0KGJ0bl9sYWJlbGVkX3NrZWxldG9uLCByc3RhcnQgKyAwLCAxKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnVpX2dyaWRMYXlvdXQuYWRkV2lkZ2V0KHVpX2NvbW1lbnQsIHJzdGFydCArIDAsIDApCg==</text>
       </register>
       <register name="7" type="4">
-        <text>labeled_skeleton</text>
+        <text>comment</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">bGFiZWxlZCA=</text>
+        <text>comment</text>
       </register>
       <register name="5" type="4">
-        <text>skeleton</text>
+        <text>comment</text>
       </register>
-      <register name="4" type="4">
-        <text>LabeledSkeleton</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbGFiZWwsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>a</text>
+        <text>comment</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">bGFiZWxlZF9za2VsZXRvbiA=</text>
+        <text>comment</text>
       </register>
       <register name="/" type="4">
-        <text>line</text>
+        <text encoding="base64">XDxyZXBvcnRfb1w+</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">VE9ETyA=</text>
       </register>
     </registers>
     <search>
-      <last-search>line</last-search>
+      <last-search encoding="base64">XDxyZXBvcnRfb1w+</last-search>
       <last-offset />
-      <last-pattern>line</last-pattern>
+      <last-pattern encoding="base64">XDxyZXBvcnRfb1w+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzaG93U2VnbWVudGVkRGF0YVw+</entry>
         <entry encoding="base64">XDxidG5Xcml0ZURhdGEzZFw+</entry>
         <entry encoding="base64">XDx3cml0ZVN0YXRzVG9DU1ZcPg==</entry>
         <entry encoding="base64">XDx3cml0ZVJlcG9ydENTVlw+</entry>
@@ -759,9 +758,9 @@
         <entry>label</entry>
         <entry encoding="base64">XDxfX29uX2NoYW5nZWRfYWdncmVnYXRlXD4=</entry>
         <entry>line</entry>
+        <entry encoding="base64">XDxyZXBvcnRfb1w+</entry>
       </history-search>
       <history-cmd>
-        <entry>124</entry>
         <entry>230</entry>
         <entry>416</entry>
         <entry>709</entry>
@@ -780,6 +779,7 @@
         <entry>:w</entry>
         <entry>q</entry>
         <entry>482</entry>
+        <entry>267</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
