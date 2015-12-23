@@ -170,12 +170,12 @@
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/Dropbox/studium/dizertace/data/jkunes/compare_histology_results.py" timestamp="1450861374496">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="217" column="229" />
-        <mark key="]" line="212" column="102" />
-        <mark key="." line="212" column="102" />
-        <mark key="^" line="205" column="49" />
+      <file name="$USER_HOME$/Dropbox/studium/dizertace/data/jkunes/compare_histology_results.py" timestamp="1450862143914">
+        <mark key="'" line="322" column="8" />
+        <mark key="[" line="205" column="71" />
+        <mark key="]" line="206" column="49" />
+        <mark key="." line="206" column="49" />
+        <mark key="^" line="206" column="49" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/body_navigation.py" timestamp="1450094004000">
         <mark key="a" line="278" column="92" />
@@ -631,12 +631,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="920" column="47" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
-      <jump line="1163" column="51" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
-      <jump line="907" column="42" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
-      <jump line="249" column="33" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
-      <jump line="312" column="8" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
-      <jump line="163" column="0" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="164" column="30" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="166" column="22" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="94" column="0" filename="$USER_HOME$/projects/lisa/lisa/convert.py" />
@@ -731,62 +725,66 @@
       <jump line="954" column="0" filename="$USER_HOME$/projects/quanta/quantan/histology_analyser_gui.py" />
       <jump line="89" column="0" filename="$USER_HOME$/Dropbox/studium/dizertace/data/jkunes/compare_histology_results.py" />
       <jump line="1" column="0" filename="$USER_HOME$/Dropbox/studium/dizertace/data/jkunes/compare_histology_results.py" />
+      <jump line="82" column="4" filename="$USER_HOME$/Dropbox/studium/dizertace/data/jkunes/compare_histology_results.py" />
+      <jump line="282" column="21" filename="$USER_HOME$/Dropbox/studium/dizertace/data/jkunes/compare_histology_results.py" />
+      <jump line="319" column="21" filename="$USER_HOME$/Dropbox/studium/dizertace/data/jkunes/compare_histology_results.py" />
+      <jump line="34" column="4" filename="$USER_HOME$/Dropbox/studium/dizertace/data/jkunes/compare_histology_results.py" />
+      <jump line="283" column="8" filename="$USER_HOME$/Dropbox/studium/dizertace/data/jkunes/compare_histology_results.py" />
+      <jump line="320" column="8" filename="$USER_HOME$/Dropbox/studium/dizertace/data/jkunes/compare_histology_results.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>aggregatenearnodes</text>
+        <text>histology_analyser</text>
       </register>
       <register name="-" type="4">
-        <text>aggregatenearnodes</text>
+        <text>histology_analyser</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzYXZlX3NlZ21lbnRhdGlvblw+</text>
+        <text encoding="base64">XDxzYXZlX3Jlc3VsdHNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBERUJVRywKICAgICAgICBIQV9QQVRILAogICAgICAgIGFyZ3MsCiAgICAgICAgUkVBTERBVEFfRVhDRUxGSUxFX1BBVEgK</text>
+        <text encoding="base64">ICAgIEhBX1BBVEggPSBvcy5wYXRoLmV4cGFuZHVzZXIoIn4vcHJvamVjdHMvcXVhbnRhbi9xdWFudGFuL2hpc3RvbG9neV9hbmFseXNlci5weSIpCg==</text>
       </register>
       <register name="1" type="4">
-        <text>aggregatenearnodes</text>
+        <text>histology_analyser</text>
       </register>
-      <register name="2" type="4">
-        <text>+</text>
+      <register name="2" type="8">
+        <text encoding="base64">LS1iaW5hcnlvcGVuaW5nIDEgLS1iaW5hcnljbG9zaW5nIDIg</text>
       </register>
-      <register name="3" type="4">
-        <text>+</text>
+      <register name="3" type="8">
+        <text encoding="base64">LS1iaW5hcnlvcGVuaW5nIDEgLS1iaW5hcnljbG9zaW5nIDIg</text>
       </register>
       <register name="4" type="4">
-        <text>aggregatenearnodes</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="5" type="4">
-        <text>+</text>
+        <text>2</text>
       </register>
-      <register name="6" type="4">
-        <text>aggregatenearnodes</text>
+      <register name="6" type="8">
+        <text encoding="base64">LS1iaW5hcnlvcGVuaW5nIDEgLS1iaW5hcnljbG9zaW5nIA==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">OTQ0Xzk4M2JfU0VHTV9BUkdTIA==</text>
+      <register name="7" type="8">
+        <text encoding="base64">LS1iaW5hcnlvcGVuaW5nIDEgLS1iaW5hcnljbG9zaW5nIDIg</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IC0tYmluYXJ5b3BlbmluZyAxIC0tYmluYXJ5Y2xvc2luZyAx</text>
+        <text encoding="base64">YWdncmVnYXRlbmVhcm5vZGVzIA==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="9" type="4">
+        <text>+</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzYXZlX3NlZ21lbnRhdGlvblw+</last-search>
+      <last-search encoding="base64">XDxzYXZlX3Jlc3VsdHNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzYXZlX3NlZ21lbnRhdGlvblw+</last-pattern>
+      <last-pattern encoding="base64">XDxzYXZlX3Jlc3VsdHNcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>quah</entry>
-        <entry>jatra_5</entry>
         <entry>clx</entry>
         <entry encoding="base64">XDxmZWF0dXJlc19mcm9tX2ltYWdlXD4=</entry>
         <entry encoding="base64">XDxmdl9mdW5jdGlvblw+</entry>
@@ -805,6 +803,8 @@
         <entry encoding="base64">XDxkYXRhM2RfdGhyXD4=</entry>
         <entry encoding="base64">XDxzYXZlX3NrZWxldG9uXD4=</entry>
         <entry encoding="base64">XDxzYXZlX3NlZ21lbnRhdGlvblw+</entry>
+        <entry encoding="base64">XDxjb21wYXJlX2RhdGFcPg==</entry>
+        <entry encoding="base64">XDxzYXZlX3Jlc3VsdHNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>e</entry>
