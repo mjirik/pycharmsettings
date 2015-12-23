@@ -170,6 +170,13 @@
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="10" />
       </file>
+      <file name="$USER_HOME$/Dropbox/studium/dizertace/data/jkunes/compare_histology_results.py" timestamp="1450861374496">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="217" column="229" />
+        <mark key="]" line="212" column="102" />
+        <mark key="." line="212" column="102" />
+        <mark key="^" line="205" column="49" />
+      </file>
       <file name="$USER_HOME$/projects/lisa/lisa/body_navigation.py" timestamp="1450094004000">
         <mark key="a" line="278" column="92" />
         <mark key="'" line="33" column="50" />
@@ -624,8 +631,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1174" column="0" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
-      <jump line="909" column="21" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="920" column="47" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="1163" column="51" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="907" column="42" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
@@ -724,46 +729,48 @@
       <jump line="72" column="8" filename="$USER_HOME$/projects/quanta/quantan/quantan.py" />
       <jump line="75" column="8" filename="$USER_HOME$/projects/quanta/quantan/quantan.py" />
       <jump line="954" column="0" filename="$USER_HOME$/projects/quanta/quantan/histology_analyser_gui.py" />
+      <jump line="89" column="0" filename="$USER_HOME$/Dropbox/studium/dizertace/data/jkunes/compare_histology_results.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/Dropbox/studium/dizertace/data/jkunes/compare_histology_results.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+      <register name="&quot;" type="4">
+        <text>aggregatenearnodes</text>
       </register>
       <register name="-" type="4">
-        <text>skeleton</text>
+        <text>aggregatenearnodes</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzYXZlX3NlZ21lbnRhdGlvblw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmbiA9IGdldFNhdmVQYXRoKCdza2VsZXRvbicsICdkY20nKQo=</text>
+        <text encoding="base64">ICAgICAgICBERUJVRywKICAgICAgICBIQV9QQVRILAogICAgICAgIGFyZ3MsCiAgICAgICAgUkVBTERBVEFfRVhDRUxGSUxFX1BBVEgK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+      <register name="1" type="4">
+        <text>aggregatenearnodes</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+      <register name="2" type="4">
+        <text>+</text>
       </register>
       <register name="3" type="4">
-        <text>skeleton</text>
+        <text>+</text>
       </register>
       <register name="4" type="4">
-        <text>segmentation</text>
+        <text>aggregatenearnodes</text>
       </register>
       <register name="5" type="4">
-        <text>keletonsklabel</text>
+        <text>+</text>
       </register>
       <register name="6" type="4">
-        <text>keleton</text>
+        <text>aggregatenearnodes</text>
       </register>
       <register name="7" type="4">
-        <text>Segmentation Query Dialog</text>
+        <text encoding="base64">OTQ0Xzk4M2JfU0VHTV9BUkdTIA==</text>
       </register>
       <register name="8" type="4">
-        <text>Dialog</text>
+        <text encoding="base64">IC0tYmluYXJ5b3BlbmluZyAxIC0tYmluYXJ5Y2xvc2luZyAx</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">UXVlcnkg</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
