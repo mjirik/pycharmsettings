@@ -6,20 +6,20 @@
         <entry key="_license" value="1.1" />
         <entry key="_windows" value="1.0" />
         <entry key="abstract-rendering" value="0.5.1" />
-        <entry key="accelerate" value="1.14.0" />
+        <entry key="accelerate" value="2.0" />
         <entry key="accelerate_cudalib" value="2.0" />
         <entry key="affine" value="1.2.0" />
         <entry key="alabaster" value="0.7.6" />
-        <entry key="anaconda" value="2.4.0" />
+        <entry key="anaconda" value="2.4.1" />
         <entry key="anaconda-build" value="0.13.2" />
-        <entry key="anaconda-client" value="1.1.2" />
+        <entry key="anaconda-client" value="1.2.1" />
         <entry key="ansi2html" value="1.1.0" />
         <entry key="apptools" value="4.3.0" />
         <entry key="argcomplete" value="1.0.0" />
         <entry key="argparse" value="1.3.0" />
         <entry key="arraymanagement" value="0.1" />
         <entry key="astroid" value="1.3.4" />
-        <entry key="astropy" value="1.0.6" />
+        <entry key="astropy" value="1.1" />
         <entry key="aterm" value="2.5" />
         <entry key="atlas" value="3.8.4" />
         <entry key="atom" value="0.3.9" />
@@ -28,7 +28,7 @@
         <entry key="backports_abc" value="0.4" />
         <entry key="bandersnatch" value="1.4" />
         <entry key="basemap" value="1.0.7" />
-        <entry key="bcolz" value="0.12.0" />
+        <entry key="bcolz" value="0.12.1" />
         <entry key="beautiful-soup" value="4.3.2" />
         <entry key="beautifulsoup4" value="4.4.1" />
         <entry key="binstar" value="0.12" />
@@ -69,15 +69,15 @@
         <entry key="cligj" value="0.2.0" />
         <entry key="cloog" value="0.18.0" />
         <entry key="cloudpickle" value="0.1.1" />
-        <entry key="clyent" value="1.1.0" />
+        <entry key="clyent" value="1.2.0" />
         <entry key="cmake" value="3.3.1" />
         <entry key="coffee-grunt" value="0.0" />
         <entry key="colorama" value="0.3.3" />
         <entry key="comtypes" value="1.1.2" />
-        <entry key="conda" value="3.18.7" />
+        <entry key="conda" value="3.19.0" />
         <entry key="conda-api" value="1.1.0" />
         <entry key="conda-build" value="1.18.2" />
-        <entry key="conda-env" value="2.4.4" />
+        <entry key="conda-env" value="2.4.5" />
         <entry key="conda-server" value="0.14.0" />
         <entry key="conda311fix" value="1.0" />
         <entry key="configobj" value="5.0.6" />
@@ -97,15 +97,15 @@
         <entry key="cymem" value="1.30" />
         <entry key="cython" value="0.23.4" />
         <entry key="cytoolz" value="0.7.4" />
-        <entry key="dask" value="0.7.3" />
-        <entry key="datashape" value="0.4.7" />
+        <entry key="dask" value="0.7.5" />
+        <entry key="datashape" value="0.5.0" />
         <entry key="dateutil" value="2.4.1" />
         <entry key="datrie" value="0.7" />
         <entry key="db" value="5.3.28" />
         <entry key="dbf" value="0.96.003" />
         <entry key="debug" value="1.0" />
         <entry key="decorator" value="4.0.4" />
-        <entry key="dicom2fem" value="1.0.8" />
+        <entry key="dicom2fem" value="1.0.9" />
         <entry key="dill" value="0.2.4" />
         <entry key="disco" value="0.4.4" />
         <entry key="distribute" value="0.6.45" />
@@ -119,7 +119,7 @@
         <entry key="ecdsa" value="0.13" />
         <entry key="enable" value="4.5.1" />
         <entry key="enaml" value="0.9.8" />
-        <entry key="enum34" value="1.0.4" />
+        <entry key="enum34" value="1.1.1" />
         <entry key="envisage" value="4.4.0" />
         <entry key="ephem" value="3.7.6.0" />
         <entry key="erlang" value="R15B01" />
@@ -140,6 +140,7 @@
         <entry key="freeglut" value="2.8.1" />
         <entry key="freetype" value="2.5.5" />
         <entry key="funcsigs" value="0.4" />
+        <entry key="functools32" value="3.2.3.2" />
         <entry key="future" value="0.15.2" />
         <entry key="futures" value="3.0.3" />
         <entry key="gawk" value="3.1.6" />
@@ -165,6 +166,7 @@
         <entry key="grin" value="1.2.1" />
         <entry key="gunicorn" value="19.1.0" />
         <entry key="h5py" value="2.5.0" />
+        <entry key="happiness" value="1.0" />
         <entry key="hdf4" value="4.2.11" />
         <entry key="hdf5" value="1.8.15.1" />
         <entry key="headers_workaround" value="0.18" />
@@ -175,14 +177,15 @@
         <entry key="icu" value="54.1" />
         <entry key="idna" value="2.0" />
         <entry key="imaging" value="1.1.7" />
-        <entry key="imtools" value="0.0.17" />
+        <entry key="iminuit" value="1.1.1" />
+        <entry key="imtools" value="0.0.18" />
         <entry key="into" value="0.2.2" />
-        <entry key="io3d" value="1.0.25" />
+        <entry key="io3d" value="1.0.26" />
         <entry key="iopro" value="1.7.2" />
         <entry key="ipaddress" value="1.0.14" />
         <entry key="ipykernel" value="4.1.1" />
         <entry key="ipyparallel" value="4.1.0" />
-        <entry key="ipython" value="4.0.0" />
+        <entry key="ipython" value="4.0.1" />
         <entry key="ipython-notebook" value="4.0.4" />
         <entry key="ipython-qtconsole" value="4.0.1" />
         <entry key="ipython_genutils" value="0.1.0" />
@@ -195,6 +198,7 @@
         <entry key="jinja2" value="2.8" />
         <entry key="joblib" value="0.8.4" />
         <entry key="jom" value="1.1.0" />
+        <entry key="joy" value="1.0" />
         <entry key="jpeg" value="8d" />
         <entry key="jsonschema" value="2.4.0" />
         <entry key="jupyter" value="1.0.0" />
@@ -228,7 +232,7 @@
         <entry key="libxslt" value="1.1.28" />
         <entry key="lighttpd" value="1.4.36" />
         <entry key="line_profiler" value="1.0" />
-        <entry key="lisa" value="1.6.19" />
+        <entry key="lisa" value="1.6.20" />
         <entry key="llvm" value="3.3" />
         <entry key="llvmlite" value="0.8.0" />
         <entry key="llvmmath" value="0.1.2" />
@@ -236,11 +240,11 @@
         <entry key="locket" value="0.2.0" />
         <entry key="lockfile" value="0.10.2" />
         <entry key="logilab-common" value="1.0.2" />
-        <entry key="lxml" value="3.4.4" />
+        <entry key="lxml" value="3.5.0" />
         <entry key="lzo" value="2.06" />
         <entry key="make" value="3.82" />
         <entry key="mako" value="1.0.3" />
-        <entry key="markdown" value="2.6.2" />
+        <entry key="markdown" value="2.6.5" />
         <entry key="markdown2" value="2.3.0" />
         <entry key="markupsafe" value="0.23" />
         <entry key="mathjax" value="2.2" />
@@ -249,7 +253,7 @@
         <entry key="mccabe" value="0.3" />
         <entry key="mdp" value="3.3" />
         <entry key="meld3" value="1.0.2" />
-        <entry key="menuinst" value="1.2.2" />
+        <entry key="menuinst" value="1.3.1" />
         <entry key="mercurial" value="3.6.1" />
         <entry key="mesa" value="10.5.4" />
         <entry key="meta" value="0.4.2.dev" />
@@ -279,7 +283,7 @@
         <entry key="mysql-python" value="1.2.5" />
         <entry key="nano" value="2.4.1" />
         <entry key="natsort" value="4.0.3" />
-        <entry key="nbconvert" value="4.0.0" />
+        <entry key="nbconvert" value="4.1.0" />
         <entry key="nbformat" value="4.0.1" />
         <entry key="ncurses" value="5.9" />
         <entry key="ndg-httpsclient" value="0.3.3" />
@@ -293,10 +297,10 @@
         <entry key="notebook" value="4.0.6" />
         <entry key="nsis" value="2.46" />
         <entry key="numba" value="0.22.1" />
-        <entry key="numbapro" value="0.21.0" />
+        <entry key="numbapro" value="0.22.1" />
         <entry key="numbapro_cudalib" value="0.2" />
         <entry key="numexpr" value="2.4.4" />
-        <entry key="numpy" value="1.10.1" />
+        <entry key="numpy" value="1.10.2" />
         <entry key="numpydoc" value="0.5" />
         <entry key="odo" value="0.3.4" />
         <entry key="openblas" value="0.2.14" />
@@ -306,6 +310,7 @@
         <entry key="openssl" value="1.0.2d" />
         <entry key="oracle-instantclient" value="11.2.0.4.0" />
         <entry key="orange" value="2.7.8" />
+        <entry key="orange-app" value="2.7.8" />
         <entry key="ordereddict" value="1.1" />
         <entry key="pandas" value="0.17.1" />
         <entry key="pandas-datareader" value="0.2.0" />
@@ -323,10 +328,13 @@
         <entry key="pbkdf2" value="1.3" />
         <entry key="pbr" value="1.3.0" />
         <entry key="pcre" value="8.31" />
+        <entry key="peace" value="1.0" />
         <entry key="pep381client" value="1.5" />
         <entry key="pep8" value="1.6.2" />
         <entry key="perl" value="5.20.3.1" />
         <entry key="persistent" value="4.1.1" />
+        <entry key="petl" value="1.0.11" />
+        <entry key="petlx" value="1.0.3" />
         <entry key="pexpect" value="3.3" />
         <entry key="pickleshare" value="0.5" />
         <entry key="pigz" value="2.3" />
@@ -358,7 +366,7 @@
         <entry key="pycosat" value="0.6.1" />
         <entry key="pycparser" value="2.14" />
         <entry key="pycrypto" value="2.6.1" />
-        <entry key="pycurl" value="7.19.5.1" />
+        <entry key="pycurl" value="7.19.5.3" />
         <entry key="pydicom" value="0.9.9" />
         <entry key="pydot" value="1.0.28" />
         <entry key="pydot-ng" value="1.0.0.15" />
@@ -387,7 +395,7 @@
         <entry key="pyreadline" value="2.1" />
         <entry key="pysal" value="1.10.0" />
         <entry key="pysam" value="0.6" />
-        <entry key="pysegbase" value="1.1.0" />
+        <entry key="pysegbase" value="1.2.0" />
         <entry key="pyserial" value="2.7" />
         <entry key="pyside" value="1.2.1" />
         <entry key="pysnmp" value="4.2.5" />
@@ -396,7 +404,7 @@
         <entry key="pytest" value="2.8.1" />
         <entry key="pytest-cache" value="1.0" />
         <entry key="pytest-pep8" value="1.0.6" />
-        <entry key="python" value="3.5.0" />
+        <entry key="python" value="3.5.1" />
         <entry key="python-dateutil" value="2.4.2" />
         <entry key="python-gdbm" value="1.0" />
         <entry key="python-gflags" value="2.0" />
@@ -408,7 +416,7 @@
         <entry key="pywget" value="2.2" />
         <entry key="pywin32" value="219" />
         <entry key="pyyaml" value="3.11" />
-        <entry key="pyzmq" value="14.7.0" />
+        <entry key="pyzmq" value="15.1.0" />
         <entry key="qt" value="4.8.7" />
         <entry key="qtconsole" value="4.1.1" />
         <entry key="quandl" value="2.8.9" />
@@ -420,7 +428,7 @@
         <entry key="redis-py" value="2.10.3" />
         <entry key="reportlab" value="3.2.0" />
         <entry key="repoze.lru" value="0.6" />
-        <entry key="requests" value="2.8.1" />
+        <entry key="requests" value="2.9.0" />
         <entry key="rope" value="0.9.4" />
         <entry key="routes" value="2.2" />
         <entry key="runipy" value="0.1.3" />
@@ -430,16 +438,16 @@
         <entry key="scikit-learn" value="0.17" />
         <entry key="scikit-rf" value="0.14.1" />
         <entry key="scikits-image" value="0.7.1" />
-        <entry key="scipy" value="0.16.0" />
+        <entry key="scipy" value="0.16.1" />
         <entry key="scons" value="2.3.0" />
         <entry key="scrapy" value="1.0.3" />
         <entry key="seaborn" value="0.6.0" />
-        <entry key="sed3" value="1.1.19" />
+        <entry key="sed3" value="1.1.20" />
         <entry key="semantic_version" value="2.4.2" />
-        <entry key="setuptools" value="18.5" />
+        <entry key="setuptools" value="19.1.1" />
         <entry key="setuptools_scm" value="1.9.0" />
         <entry key="sh" value="1.11" />
-        <entry key="shapely" value="1.5.11" />
+        <entry key="shapely" value="1.5.13" />
         <entry key="shiboken" value="1.2.1" />
         <entry key="simplegeneric" value="0.8.1" />
         <entry key="simpleitk" value="0.9.1" />
@@ -447,7 +455,7 @@
         <entry key="singledispatch" value="3.4.0.3" />
         <entry key="sip" value="4.16.9" />
         <entry key="six" value="1.10.0" />
-        <entry key="skelet3d" value="1.4.10" />
+        <entry key="skelet3d" value="1.4.11" />
         <entry key="snowballstemmer" value="1.2.0" />
         <entry key="snuggs" value="1.3.1" />
         <entry key="sockjs-tornado" value="1.0.1" />
@@ -456,9 +464,9 @@
         <entry key="sphinx_rtd_theme" value="0.1.7" />
         <entry key="spyder" value="2.3.8" />
         <entry key="spyder-app" value="2.3.8" />
-        <entry key="sqlalchemy" value="1.0.9" />
+        <entry key="sqlalchemy" value="1.0.10" />
         <entry key="sqlite" value="3.8.4.1" />
-        <entry key="sqlparse" value="0.1.16" />
+        <entry key="sqlparse" value="0.1.18" />
         <entry key="ssh" value="1.8.0" />
         <entry key="ssl_match_hostname" value="3.4.0.2" />
         <entry key="starcluster" value="0.93.3" />
@@ -480,7 +488,7 @@
         <entry key="traitsui" value="4.5.1" />
         <entry key="transaction" value="1.4.4" />
         <entry key="translationstring" value="1.3" />
-        <entry key="twisted" value="15.4.0" />
+        <entry key="twisted" value="15.5.0" />
         <entry key="ujson" value="1.33" />
         <entry key="unicodecsv" value="0.14.1" />
         <entry key="unidecode" value="0.4.17" />
@@ -589,6 +597,7 @@
               <option value="1.7.0" />
               <option value="1.5.2" />
               <option value="1.14.0" />
+              <option value="2.0" />
             </list>
           </value>
         </entry>
@@ -632,6 +641,7 @@
               <option value="2.0.1" />
               <option value="1.9.2" />
               <option value="2.3.0" />
+              <option value="2.4.1" />
             </list>
           </value>
         </entry>
@@ -654,6 +664,7 @@
               <option value="1.0.2" />
               <option value="1.1.2" />
               <option value="1.1.0" />
+              <option value="1.2.1" />
             </list>
           </value>
         </entry>
@@ -738,6 +749,7 @@
               <option value="1.0.3" />
               <option value="0.4.4" />
               <option value="1.0.6" />
+              <option value="1.1" />
             </list>
           </value>
         </entry>
@@ -828,6 +840,7 @@
               <option value="0.11.0" />
               <option value="0.12.0" />
               <option value="0.7.0" />
+              <option value="0.12.1" />
             </list>
           </value>
         </entry>
@@ -1260,6 +1273,7 @@
               <option value="0.3.4" />
               <option value="0.4.0" />
               <option value="1.0.0" />
+              <option value="1.2.0" />
             </list>
           </value>
         </entry>
@@ -1404,6 +1418,9 @@
               <option value="1.0" />
               <option value="1.4.5" />
               <option value="3.18.7" />
+              <option value="3.18.8" />
+              <option value="3.18.9" />
+              <option value="3.19.0" />
             </list>
           </value>
         </entry>
@@ -1477,6 +1494,7 @@
               <option value="2.2.2" />
               <option value="2.1.3" />
               <option value="2.4.0" />
+              <option value="2.4.5" />
             </list>
           </value>
         </entry>
@@ -1679,6 +1697,7 @@
               <option value="0.4.0" />
               <option value="0.7.0" />
               <option value="0.7.1" />
+              <option value="0.7.5" />
             </list>
           </value>
         </entry>
@@ -1696,6 +1715,7 @@
               <option value="0.4.2" />
               <option value="0.4.4" />
               <option value="0.1.0" />
+              <option value="0.5.0" />
             </list>
           </value>
         </entry>
@@ -1750,6 +1770,7 @@
           <value>
             <list>
               <option value="1.0.8" />
+              <option value="1.0.9" />
             </list>
           </value>
         </entry>
@@ -1889,6 +1910,7 @@
             <list>
               <option value="1.0.4" />
               <option value="1.0.3" />
+              <option value="1.1.1" />
             </list>
           </value>
         </entry>
@@ -2050,6 +2072,13 @@
           <value>
             <list>
               <option value="0.4" />
+            </list>
+          </value>
+        </entry>
+        <entry key="functools32">
+          <value>
+            <list>
+              <option value="3.2.3.2" />
             </list>
           </value>
         </entry>
@@ -2283,6 +2312,13 @@
             </list>
           </value>
         </entry>
+        <entry key="happiness">
+          <value>
+            <list>
+              <option value="1.0" />
+            </list>
+          </value>
+        </entry>
         <entry key="hdf4">
           <value>
             <list>
@@ -2360,12 +2396,20 @@
             </list>
           </value>
         </entry>
+        <entry key="iminuit">
+          <value>
+            <list>
+              <option value="1.1.1" />
+            </list>
+          </value>
+        </entry>
         <entry key="imtools">
           <value>
             <list>
               <option value="0.0.11" />
               <option value="0.0.16" />
               <option value="0.0.17" />
+              <option value="0.0.18" />
             </list>
           </value>
         </entry>
@@ -2384,6 +2428,7 @@
             <list>
               <option value="1.0.25" />
               <option value="1.0.23" />
+              <option value="1.0.26" />
             </list>
           </value>
         </entry>
@@ -2473,6 +2518,8 @@
               <option value="2.2.0" />
               <option value="0.13" />
               <option value="2.4.1" />
+              <option value="4.0.1" />
+              <option value="3.2.3" />
             </list>
           </value>
         </entry>
@@ -2593,6 +2640,13 @@
           <value>
             <list>
               <option value="1.1.0" />
+            </list>
+          </value>
+        </entry>
+        <entry key="joy">
+          <value>
+            <list>
+              <option value="1.0" />
             </list>
           </value>
         </entry>
@@ -2882,6 +2936,7 @@
               <option value="1.6.1" />
               <option value="1.6.16" />
               <option value="1.6.7" />
+              <option value="1.6.20" />
             </list>
           </value>
         </entry>
@@ -2981,6 +3036,7 @@
               <option value="3.4.1" />
               <option value="3.1.2" />
               <option value="3.2.1" />
+              <option value="3.5.0" />
             </list>
           </value>
         </entry>
@@ -3018,6 +3074,7 @@
               <option value="2.5.2" />
               <option value="2.5" />
               <option value="2.4" />
+              <option value="2.6.5" />
             </list>
           </value>
         </entry>
@@ -3103,6 +3160,8 @@
               <option value="1.0.0" />
               <option value="1.1.3" />
               <option value="1.0.1" />
+              <option value="1.3.0" />
+              <option value="1.3.1" />
             </list>
           </value>
         </entry>
@@ -3354,6 +3413,7 @@
           <value>
             <list>
               <option value="4.0.0" />
+              <option value="4.1.0" />
             </list>
           </value>
         </entry>
@@ -3555,6 +3615,7 @@
               <option value="0.7.2" />
               <option value="0.6" />
               <option value="0.7.1" />
+              <option value="0.22.1" />
             </list>
           </value>
         </entry>
@@ -3597,6 +3658,7 @@
               <option value="1.5.1" />
               <option value="1.7.0b2" />
               <option value="1.7.0rc1" />
+              <option value="1.10.2" />
             </list>
           </value>
         </entry>
@@ -3675,6 +3737,13 @@
           </value>
         </entry>
         <entry key="orange">
+          <value>
+            <list>
+              <option value="2.7.8" />
+            </list>
+          </value>
+        </entry>
+        <entry key="orange-app">
           <value>
             <list>
               <option value="2.7.8" />
@@ -3840,6 +3909,13 @@
             </list>
           </value>
         </entry>
+        <entry key="peace">
+          <value>
+            <list>
+              <option value="1.0" />
+            </list>
+          </value>
+        </entry>
         <entry key="pep381client">
           <value>
             <list>
@@ -3872,6 +3948,20 @@
             <list>
               <option value="4.1.0" />
               <option value="4.1.1" />
+            </list>
+          </value>
+        </entry>
+        <entry key="petl">
+          <value>
+            <list>
+              <option value="1.0.11" />
+            </list>
+          </value>
+        </entry>
+        <entry key="petlx">
+          <value>
+            <list>
+              <option value="1.0.3" />
             </list>
           </value>
         </entry>
@@ -4178,6 +4268,7 @@
               <option value="7.19.0" />
               <option value="7.19.3.1" />
               <option value="7.19.5" />
+              <option value="7.19.5.3" />
             </list>
           </value>
         </entry>
@@ -4433,6 +4524,9 @@
               <option value="1.0.49" />
               <option value="1.0.48" />
               <option value="1.1.0" />
+              <option value="1.1.1" />
+              <option value="1.1.2" />
+              <option value="1.2.0" />
             </list>
           </value>
         </entry>
@@ -4544,6 +4638,8 @@
               <option value="2.7.8" />
               <option value="3.5.0rc4" />
               <option value="1.0.1" />
+              <option value="3.5.1" />
+              <option value="2.7.11" />
             </list>
           </value>
         </entry>
@@ -4655,6 +4751,7 @@
               <option value="14.5.0" />
               <option value="14.1.1" />
               <option value="2.2.0" />
+              <option value="15.1.0" />
             </list>
           </value>
         </entry>
@@ -4785,6 +4882,7 @@
               <option value="2.7.0" />
               <option value="2.8.0" />
               <option value="2.4.1" />
+              <option value="2.9.0" />
             </list>
           </value>
         </entry>
@@ -4898,6 +4996,7 @@
               <option value="0.13.1" />
               <option value="0.12.0" />
               <option value="0.12.0b1" />
+              <option value="0.16.1" />
             </list>
           </value>
         </entry>
@@ -4932,6 +5031,7 @@
             <list>
               <option value="1.1.19" />
               <option value="1.1.18" />
+              <option value="1.1.20" />
             </list>
           </value>
         </entry>
@@ -4981,6 +5081,8 @@
               <option value="12.1" />
               <option value="17.1.1" />
               <option value="14.0" />
+              <option value="18.8.1" />
+              <option value="19.1.1" />
             </list>
           </value>
         </entry>
@@ -5018,6 +5120,7 @@
               <option value="1.4.0" />
               <option value="1.3.0" />
               <option value="1.4.4" />
+              <option value="1.5.13" />
             </list>
           </value>
         </entry>
@@ -5097,6 +5200,7 @@
               <option value="1.4.3" />
               <option value="1.4.6" />
               <option value="1.4.5" />
+              <option value="1.4.11" />
             </list>
           </value>
         </entry>
@@ -5223,6 +5327,7 @@
               <option value="0.8.3" />
               <option value="0.9.7" />
               <option value="0.9.2" />
+              <option value="1.0.10" />
             </list>
           </value>
         </entry>
@@ -5243,6 +5348,7 @@
               <option value="0.1.16" />
               <option value="0.1.15" />
               <option value="0.1.7" />
+              <option value="0.1.18" />
             </list>
           </value>
         </entry>
@@ -5453,6 +5559,7 @@
               <option value="15.1.0" />
               <option value="12.3.0" />
               <option value="15.0.0" />
+              <option value="15.5.0" />
             </list>
           </value>
         </entry>
@@ -5849,6 +5956,6 @@
     <option name="CONDA_CHANNELS">
       <set />
     </option>
-    <option name="LAST_TIME_CHECKED" value="1449130630683" />
+    <option name="LAST_TIME_CHECKED" value="1450691373012" />
   </component>
 </application>
