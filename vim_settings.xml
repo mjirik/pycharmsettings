@@ -15,7 +15,7 @@
         <mark key="^" line="208" column="38" />
         <mark key="." line="208" column="38" />
       </file>
-      <file name="/a.dummy" timestamp="1450616488235">
+      <file name="/a.dummy" timestamp="1451649983010">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -147,14 +147,6 @@
         <mark key="^" line="25" column="42" />
         <mark key="." line="25" column="42" />
       </file>
-      <file name="$USER_HOME$/projects/quanta/quantan/quantan.py" timestamp="1450616180821">
-        <mark key="a" line="75" column="24" />
-        <mark key="'" line="75" column="8" />
-        <mark key="[" line="76" column="35" />
-        <mark key="]" line="76" column="44" />
-        <mark key="." line="76" column="44" />
-        <mark key="^" line="76" column="44" />
-      </file>
       <file name="/Python Console" timestamp="1450107856950">
         <mark key="[" line="0" column="0" />
       </file>
@@ -272,11 +264,11 @@
         <mark key="^" line="958" column="17" />
         <mark key="." line="958" column="29" />
       </file>
-      <file name="$USER_HOME$/projects/imtools/imtools/thresholding_functions.py" timestamp="1445342541968">
-        <mark key="[" line="160" column="17" />
-        <mark key="]" line="160" column="19" />
-        <mark key="^" line="160" column="19" />
-        <mark key="." line="160" column="19" />
+      <file name="$USER_HOME$/projects/imtools/imtools/thresholding_functions.py" timestamp="1451649170026">
+        <mark key="[" line="164" column="56" />
+        <mark key="]" line="164" column="34" />
+        <mark key="^" line="164" column="34" />
+        <mark key="." line="164" column="34" />
       </file>
       <file name="$USER_HOME$/projects/skelet3d/src/skelet3d/__init__.py" timestamp="1445328719706">
         <mark key="[" line="0" column="0" />
@@ -303,12 +295,6 @@
         <mark key="]" line="73" column="9" />
         <mark key="^" line="51" column="8" />
         <mark key="." line="73" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/quanta/quantan/histology_report.py" timestamp="1450616281296">
-        <mark key="[" line="311" column="0" />
-        <mark key="]" line="319" column="22" />
-        <mark key="^" line="339" column="51" />
-        <mark key="." line="356" column="0" />
       </file>
       <file name="$USER_HOME$/projects/imtools/requirements_conda.txt" timestamp="1445340490067">
         <mark key="[" line="5" column="6" />
@@ -405,14 +391,6 @@
         <mark key="]" line="20" column="12" />
         <mark key="^" line="20" column="12" />
         <mark key="." line="20" column="12" />
-      </file>
-      <file name="$USER_HOME$/projects/quanta/quantan/histology_analyser_gui.py" timestamp="1450616486297">
-        <mark key="a" line="258" column="14" />
-        <mark key="'" line="962" column="0" />
-        <mark key="[" line="258" column="36" />
-        <mark key="]" line="260" column="35" />
-        <mark key="^" line="260" column="35" />
-        <mark key="." line="260" column="35" />
       </file>
       <file name="$USER_HOME$/projects/sed3/sed3/sed3.py" timestamp="1449835672618">
         <mark key="'" line="745" column="23" />
@@ -515,12 +493,12 @@
         <mark key="^" line="24" column="40" />
         <mark key="." line="24" column="40" />
       </file>
-      <file name="$USER_HOME$/projects/imtools/imtools/uiThreshold.py" timestamp="1445968599726">
-        <mark key="'" line="128" column="29" />
-        <mark key="[" line="67" column="27" />
-        <mark key="]" line="67" column="28" />
-        <mark key="^" line="67" column="28" />
-        <mark key="." line="67" column="28" />
+      <file name="$USER_HOME$/projects/imtools/imtools/uiThreshold.py" timestamp="1451649980720">
+        <mark key="'" line="129" column="29" />
+        <mark key="[" line="262" column="48" />
+        <mark key="]" line="262" column="57" />
+        <mark key="^" line="262" column="57" />
+        <mark key="." line="262" column="57" />
       </file>
       <file name="$USER_HOME$/projects/skelet3d/src/setup.py.in" timestamp="1446536159668">
         <mark key="[" line="10" column="0" />
@@ -734,43 +712,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>histology_analyser</text>
+        <text>otsu</text>
       </register>
       <register name="-" type="4">
-        <text>histology_analyser</text>
+        <text>otsu</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzYXZlX3Jlc3VsdHNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEhBX1BBVEggPSBvcy5wYXRoLmV4cGFuZHVzZXIoIn4vcHJvamVjdHMvcXVhbnRhbi9xdWFudGFuL2hpc3RvbG9neV9hbmFseXNlci5weSIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhyZXMgPSB0aHJlc2hvbGRpbmdfZnVuY3Rpb25zLmNhbGN1bGF0ZUF1dG9tYXRpY1RocmVzaG9sZCgKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYuZGF0YSwgc2VsZi5hcnJTZWVkKQo=</text>
       </register>
       <register name="1" type="4">
+        <text>otsu</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcGFzcwo=</text>
+      </register>
+      <register name="3" type="4">
         <text>histology_analyser</text>
       </register>
-      <register name="2" type="8">
+      <register name="4" type="8">
         <text encoding="base64">LS1iaW5hcnlvcGVuaW5nIDEgLS1iaW5hcnljbG9zaW5nIDIg</text>
       </register>
-      <register name="3" type="8">
+      <register name="5" type="8">
         <text encoding="base64">LS1iaW5hcnlvcGVuaW5nIDEgLS1iaW5hcnljbG9zaW5nIDIg</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>2</text>
       </register>
-      <register name="6" type="8">
+      <register name="8" type="8">
         <text encoding="base64">LS1iaW5hcnlvcGVuaW5nIDEgLS1iaW5hcnljbG9zaW5nIA==</text>
       </register>
-      <register name="7" type="8">
+      <register name="9" type="8">
         <text encoding="base64">LS1iaW5hcnlvcGVuaW5nIDEgLS1iaW5hcnljbG9zaW5nIDIg</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">YWdncmVnYXRlbmVhcm5vZGVzIA==</text>
-      </register>
-      <register name="9" type="4">
-        <text>+</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
