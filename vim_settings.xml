@@ -15,7 +15,7 @@
         <mark key="^" line="208" column="38" />
         <mark key="." line="208" column="38" />
       </file>
-      <file name="/a.dummy" timestamp="1451651812950">
+      <file name="/a.dummy" timestamp="1451675421514">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -507,12 +507,12 @@
         <mark key="^" line="24" column="40" />
         <mark key="." line="24" column="40" />
       </file>
-      <file name="$USER_HOME$/projects/imtools/imtools/uiThreshold.py" timestamp="1451651625850">
-        <mark key="'" line="59" column="19" />
-        <mark key="[" line="67" column="27" />
-        <mark key="]" line="67" column="28" />
-        <mark key="^" line="67" column="28" />
-        <mark key="." line="67" column="28" />
+      <file name="$USER_HOME$/projects/imtools/imtools/uiThreshold.py" timestamp="1451675406197">
+        <mark key="'" line="270" column="20" />
+        <mark key="[" line="445" column="52" />
+        <mark key="]" line="446" column="57" />
+        <mark key="." line="446" column="57" />
+        <mark key="^" line="446" column="57" />
       </file>
       <file name="$USER_HOME$/projects/skelet3d/src/setup.py.in" timestamp="1446536159668">
         <mark key="[" line="10" column="0" />
@@ -623,15 +623,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="408" column="26" filename="$USER_HOME$/projects/quanta/quantan/histology_analyser_gui.py" />
-      <jump line="480" column="66" filename="$USER_HOME$/projects/quanta/quantan/histology_analyser_gui.py" />
-      <jump line="289" column="40" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
-      <jump line="321" column="8" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
-      <jump line="95" column="8" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
-      <jump line="367" column="16" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
-      <jump line="68" column="8" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
-      <jump line="395" column="16" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
-      <jump line="520" column="11" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
       <jump line="77" column="0" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
       <jump line="67" column="0" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
@@ -723,43 +714,52 @@
       <jump line="179" column="17" filename="$USER_HOME$/projects/quanta/quantan/histology_analyser_gui.py" />
       <jump line="252" column="13" filename="$USER_HOME$/projects/quanta/quantan/histology_analyser_gui.py" />
       <jump line="254" column="13" filename="$USER_HOME$/projects/quanta/quantan/histology_analyser_gui.py" />
+      <jump line="81" column="27" filename="$USER_HOME$/projects/imtools/imtools/uiThreshold.py" />
+      <jump line="487" column="13" filename="$USER_HOME$/projects/imtools/imtools/uiThreshold.py" />
+      <jump line="489" column="8" filename="$USER_HOME$/projects/imtools/imtools/uiThreshold.py" />
+      <jump line="274" column="46" filename="$USER_HOME$/projects/imtools/imtools/uiThreshold.py" />
+      <jump line="258" column="12" filename="$USER_HOME$/projects/imtools/imtools/uiThreshold.py" />
+      <jump line="259" column="15" filename="$USER_HOME$/projects/imtools/imtools/uiThreshold.py" />
+      <jump line="263" column="24" filename="$USER_HOME$/projects/imtools/imtools/uiThreshold.py" />
+      <jump line="266" column="24" filename="$USER_HOME$/projects/imtools/imtools/uiThreshold.py" />
+      <jump line="270" column="20" filename="$USER_HOME$/projects/imtools/imtools/uiThreshold.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKCJzZWxmLnRocmVzaG9sZCBhdCB0aGUgZW5kIG9mIGluaXQoKTogIiArIHN0cihzZWxmLnRocmVzaG9sZCkpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>csv report buttons</text>
+        <text encoding="base64">aW4g</text>
       </register>
       <register name="/" type="4">
-        <text>vessel</text>
+        <text encoding="base64">XDx0aHJlc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXV0b19tZXRob2Q9YXV0b19tZXRob2QsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKCJzZWxmLnRocmVzaG9sZCBhdCB0aGUgZW5kIG9mIGluaXQoKTogIiArIHN0cihzZWxmLnRocmVzaG9sZCkpCg==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKCJzZWxmLnRocmVzaG9sZCBhdCB0aGUgZW5kIG9mIGluaXQoKTogIiArIHN0cihzZWxmLnRocmVzaG9sZCkpCg==</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">aW4g</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>csv report buttons</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBpbXBvcnQgUHlRdDQ7IFB5UXQ0LlF0Q29yZS5weXF0UmVtb3ZlSW5wdXRIb29rKCkKICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgUHlRdDQ7IFB5UXQ0LlF0Q29yZS5weXF0UmVtb3ZlSW5wdXRIb29rKCkKICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
-      </register>
-      <register name="6" type="4">
-        <text>0</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBpbXBvcnQgUHlRdDQ7IFB5UXQ0LlF0Q29yZS5weXF0UmVtb3ZlSW5wdXRIb29rKCkKICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+        <text>0</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBpbXBvcnQgUHlRdDQ7IFB5UXQ0LlF0Q29yZS5weXF0UmVtb3ZlSW5wdXRIb29rKCkKICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
@@ -769,17 +769,14 @@
       </register>
     </registers>
     <search>
-      <last-search>vessel</last-search>
+      <last-search encoding="base64">XDx0aHJlc1w+</last-search>
       <last-offset />
-      <last-pattern>vessel</last-pattern>
+      <last-pattern encoding="base64">XDx0aHJlc1w+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxIaXN0b2xvZ3lBbmFseXNlclw+</entry>
-        <entry encoding="base64">XDxmbmFtZV92c1w+</entry>
-        <entry encoding="base64">XDxOYXZpZ2F0aW9uVG9vbGJhclw+</entry>
         <entry>cente</entry>
         <entry>mean</entry>
         <entry encoding="base64">XDxfYWRkX3NlZWRzX21tXD4=</entry>
@@ -797,6 +794,9 @@
         <entry encoding="base64">XDx2ZXNzZWxTZWdtZW50YXRpb25cPg==</entry>
         <entry>segment</entry>
         <entry>vessel</entry>
+        <entry>Update cycle</entry>
+        <entry encoding="base64">XDxkZWJ1Z0luZm9cPg==</entry>
+        <entry encoding="base64">XDx0aHJlc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>e</entry>
