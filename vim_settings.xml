@@ -272,6 +272,13 @@
         <mark key="^" line="958" column="17" />
         <mark key="." line="958" column="29" />
       </file>
+      <file name="$USER_HOME$/projects/imtools/imtools/thresholding_functions.py" timestamp="1451680565812">
+        <mark key="'" line="76" column="4" />
+        <mark key="[" line="160" column="17" />
+        <mark key="]" line="76" column="21" />
+        <mark key="^" line="76" column="21" />
+        <mark key="." line="76" column="21" />
+      </file>
       <file name="$USER_HOME$/projects/skelet3d/src/skelet3d/__init__.py" timestamp="1445328719706">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="40" />
@@ -623,7 +630,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
       <jump line="77" column="0" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
       <jump line="67" column="0" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
       <jump line="31" column="0" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
@@ -723,6 +729,7 @@
       <jump line="263" column="24" filename="$USER_HOME$/projects/imtools/imtools/uiThreshold.py" />
       <jump line="266" column="24" filename="$USER_HOME$/projects/imtools/imtools/uiThreshold.py" />
       <jump line="270" column="20" filename="$USER_HOME$/projects/imtools/imtools/uiThreshold.py" />
+      <jump line="76" column="4" filename="$USER_HOME$/projects/imtools/imtools/thresholding_functions.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -732,7 +739,7 @@
         <text encoding="base64">aW4g</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0aHJlc1w+</text>
+        <text encoding="base64">XDxiaW5hcnlDbG9zaW5nT3BlbmluZ1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKCJzZWxmLnRocmVzaG9sZCBhdCB0aGUgZW5kIG9mIGluaXQoKTogIiArIHN0cihzZWxmLnRocmVzaG9sZCkpCg==</text>
@@ -769,15 +776,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0aHJlc1w+</last-search>
+      <last-search encoding="base64">XDxiaW5hcnlDbG9zaW5nT3BlbmluZ1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0aHJlc1w+</last-pattern>
+      <last-pattern encoding="base64">XDxiaW5hcnlDbG9zaW5nT3BlbmluZ1w+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>cente</entry>
         <entry>mean</entry>
         <entry encoding="base64">XDxfYWRkX3NlZWRzX21tXD4=</entry>
         <entry encoding="base64">XDxzaG93U2VnbVF1ZXJ5RGlhbG9nXD4=</entry>
@@ -797,6 +803,7 @@
         <entry>Update cycle</entry>
         <entry encoding="base64">XDxkZWJ1Z0luZm9cPg==</entry>
         <entry encoding="base64">XDx0aHJlc1w+</entry>
+        <entry encoding="base64">XDxiaW5hcnlDbG9zaW5nT3BlbmluZ1w+</entry>
       </history-search>
       <history-cmd>
         <entry>e</entry>
