@@ -147,8 +147,8 @@
         <mark key="^" line="25" column="42" />
         <mark key="." line="25" column="42" />
       </file>
-      <file name="$USER_HOME$/projects/quanta/quantan/quantan.py" timestamp="1451651737104">
-        <mark key="'" line="30" column="20" />
+      <file name="$USER_HOME$/projects/quanta/quantan/quantan.py" timestamp="1451651778872">
+        <mark key="'" line="189" column="34" />
         <mark key="[" line="203" column="0" />
         <mark key="]" line="203" column="0" />
         <mark key="^" line="202" column="30" />
@@ -398,9 +398,9 @@
         <mark key="^" line="20" column="12" />
         <mark key="." line="20" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/quanta/quantan/histology_analyser_gui.py" timestamp="1450794264108">
+      <file name="$USER_HOME$/projects/quanta/quantan/histology_analyser_gui.py" timestamp="1451651798241">
         <mark key="a" line="270" column="14" />
-        <mark key="'" line="584" column="17" />
+        <mark key="'" line="254" column="13" />
         <mark key="[" line="525" column="0" />
         <mark key="]" line="525" column="0" />
         <mark key="^" line="590" column="35" />
@@ -623,14 +623,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="619" column="11" filename="$USER_HOME$/projects/quanta/quantan/quantan.py" />
-      <jump line="178" column="12" filename="$USER_HOME$/projects/quanta/quantan/quantan.py" />
-      <jump line="176" column="8" filename="$USER_HOME$/projects/quanta/quantan/quantan.py" />
-      <jump line="196" column="19" filename="$USER_HOME$/projects/quanta/quantan/quantan.py" />
-      <jump line="72" column="8" filename="$USER_HOME$/projects/quanta/quantan/quantan.py" />
-      <jump line="75" column="8" filename="$USER_HOME$/projects/quanta/quantan/quantan.py" />
-      <jump line="954" column="0" filename="$USER_HOME$/projects/quanta/quantan/histology_analyser_gui.py" />
-      <jump line="461" column="41" filename="$USER_HOME$/projects/quanta/quantan/histology_analyser_gui.py" />
       <jump line="408" column="26" filename="$USER_HOME$/projects/quanta/quantan/histology_analyser_gui.py" />
       <jump line="480" column="66" filename="$USER_HOME$/projects/quanta/quantan/histology_analyser_gui.py" />
       <jump line="289" column="40" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
@@ -723,6 +715,14 @@
       <jump line="705" column="10" filename="$USER_HOME$/projects/imtools/imtools/uiThreshold.py" />
       <jump line="45" column="6" filename="$USER_HOME$/projects/imtools/imtools/uiThreshold.py" />
       <jump line="59" column="19" filename="$USER_HOME$/projects/imtools/imtools/uiThreshold.py" />
+      <jump line="189" column="34" filename="$USER_HOME$/projects/quanta/quantan/quantan.py" />
+      <jump line="55" column="23" filename="$USER_HOME$/projects/quanta/quantan/histology_analyser_gui.py" />
+      <jump line="157" column="15" filename="$USER_HOME$/projects/quanta/quantan/histology_analyser_gui.py" />
+      <jump line="161" column="22" filename="$USER_HOME$/projects/quanta/quantan/histology_analyser_gui.py" />
+      <jump line="171" column="14" filename="$USER_HOME$/projects/quanta/quantan/histology_analyser_gui.py" />
+      <jump line="179" column="17" filename="$USER_HOME$/projects/quanta/quantan/histology_analyser_gui.py" />
+      <jump line="252" column="13" filename="$USER_HOME$/projects/quanta/quantan/histology_analyser_gui.py" />
+      <jump line="254" column="13" filename="$USER_HOME$/projects/quanta/quantan/histology_analyser_gui.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -732,7 +732,7 @@
         <text>csv report buttons</text>
       </register>
       <register name="/" type="4">
-        <text>uiThr</text>
+        <text>vessel</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYXV0b19tZXRob2Q9YXV0b19tZXRob2QsCg==</text>
@@ -769,17 +769,14 @@
       </register>
     </registers>
     <search>
-      <last-search>uiThr</last-search>
+      <last-search>vessel</last-search>
       <last-offset />
-      <last-pattern>uiThr</last-pattern>
+      <last-pattern>vessel</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwYXRoX3RvX3NjcmlwdFw+</entry>
-        <entry encoding="base64">XDxIaXN0b2xvZ3lSZXBvcnRcPg==</entry>
-        <entry>Histo</entry>
         <entry encoding="base64">XDxIaXN0b2xvZ3lBbmFseXNlclw+</entry>
         <entry encoding="base64">XDxmbmFtZV92c1w+</entry>
         <entry encoding="base64">XDxOYXZpZ2F0aW9uVG9vbGJhclw+</entry>
@@ -797,6 +794,9 @@
         <entry>uiT</entry>
         <entry encoding="base64">XDxzZWdtZW50YXRpb25cPg==</entry>
         <entry>uiThr</entry>
+        <entry encoding="base64">XDx2ZXNzZWxTZWdtZW50YXRpb25cPg==</entry>
+        <entry>segment</entry>
+        <entry>vessel</entry>
       </history-search>
       <history-cmd>
         <entry>e</entry>
