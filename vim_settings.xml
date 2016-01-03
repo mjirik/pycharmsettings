@@ -15,7 +15,7 @@
         <mark key="^" line="208" column="38" />
         <mark key="." line="208" column="38" />
       </file>
-      <file name="/a.dummy" timestamp="1451675421514">
+      <file name="/a.dummy" timestamp="1451861440574">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -203,12 +203,12 @@
         <mark key="^" line="38" column="20" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/imtools/imtools/segmentation.py" timestamp="1451850893484">
+      <file name="$USER_HOME$/projects/imtools/imtools/segmentation.py" timestamp="1451859586696">
         <mark key="'" line="53" column="8" />
-        <mark key="[" line="205" column="0" />
-        <mark key="]" line="215" column="25" />
-        <mark key="." line="35" column="32" />
-        <mark key="^" line="35" column="32" />
+        <mark key="[" line="33" column="49" />
+        <mark key="]" line="33" column="53" />
+        <mark key="." line="33" column="53" />
+        <mark key="^" line="33" column="53" />
       </file>
       <file name="$USER_HOME$/projects/quanta/quanta/__main__.py" timestamp="1446549342592">
         <mark key="[" line="0" column="0" />
@@ -465,12 +465,12 @@
       <file name="vim_settings.xml" timestamp="1449175692195">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/imtools/tests/vessels_segmentation_test.py" timestamp="1451856595587">
+      <file name="$USER_HOME$/projects/imtools/tests/vessels_segmentation_test.py" timestamp="1451861420359">
         <mark key="'" line="100" column="25" />
-        <mark key="[" line="116" column="19" />
-        <mark key="]" line="116" column="20" />
-        <mark key="." line="116" column="20" />
-        <mark key="^" line="116" column="20" />
+        <mark key="[" line="136" column="26" />
+        <mark key="]" line="136" column="25" />
+        <mark key="." line="136" column="25" />
+        <mark key="^" line="136" column="25" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/volumetry_evaluation.py" timestamp="1448785771190">
         <mark key="[" line="298" column="73" />
@@ -735,43 +735,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>\</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>\</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkcmF3VmlzdWFsaXphdGlvblw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGF0YSA9IGRhdGEgKiBcCiAgICAgICAgICAgICAgICBzY2lweS5uZGltYWdlLmJpbmFyeV9jbG9zaW5nKGRhdGEsIGl0ZXJhdGlvbnM9Y2xvc2VOdW0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmlnZ2VzdE9iamVjdHM9VHJ1ZSwK</text>
       </register>
       <register name="1" type="4">
-        <text>\</text>
+        <text>1</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIyBwcmVwYXJlZERhdGEsIHZveGVsPXZveGVsLCB0aHJlc2hvbGQ9dGhyZXNob2xkLAogICAgICAgICAgICAjIGludGVyYWN0aXZpdHk9aW50ZXJhY3Rpdml0eSwgbnVtYmVyPW51bWJlciwgaW5wdXRTaWdtYT1pbnB1dFNpZ21hLAogICAgICAgICAgICAjIG5PYmo9bk9iaiwgYmlnZ2VzdE9iamVjdHM9YmlnZ2VzdE9iamVjdHMsCiAgICAgICAgICAgICMgdXNlU2VlZHNPZkNvbXBhY3RPYmplY3RzPXVzZVNlZWRzT2ZDb21wYWN0T2JqZWN0cywKICAgICAgICAgICAgIyBiaW5hcnlDbG9zaW5nSXRlcmF0aW9ucz1jbG9zaW5nLCBiaW5hcnlPcGVuaW5nSXRlcmF0aW9ucz1vcGVuaW5nLAogICAgICAgICAgICAjIHNlZWRzPXNlZWRzLAogICAgICAgICAgICAjIGF1dG9fbWV0aG9kPWF1dG9fbWV0aG9kLAo=</text>
       </register>
       <register name="3" type="4">
-        <text>*</text>
+        <text>1</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">ZGF0YSA=</text>
+        <text>1</text>
       </register>
       <register name="5" type="4">
-        <text>\</text>
+        <text>True</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+        <text>False</text>
       </register>
       <register name="7" type="4">
-        <text>*</text>
+        <text>True</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">ZGF0YSA=</text>
+        <text>\</text>
       </register>
       <register name="9" type="4">
-        <text>n</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
