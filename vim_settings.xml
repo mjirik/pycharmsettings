@@ -154,7 +154,7 @@
         <mark key="^" line="202" column="30" />
         <mark key="." line="203" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1451852155325">
+      <file name="/Python Console" timestamp="1451853179387">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/io3d/io3d/__init__.py" timestamp="1448883347734">
@@ -163,8 +163,8 @@
         <mark key="^" line="7" column="27" />
         <mark key="." line="7" column="27" />
       </file>
-      <file name="/fragment.py" timestamp="1449586744450">
-        <mark key="[" line="0" column="10" />
+      <file name="/fragment.py" timestamp="1451852526857">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="10" />
@@ -522,8 +522,8 @@
         <mark key="^" line="24" column="40" />
         <mark key="." line="24" column="40" />
       </file>
-      <file name="$USER_HOME$/projects/imtools/imtools/uiThreshold.py" timestamp="1451852151930">
-        <mark key="'" line="270" column="20" />
+      <file name="$USER_HOME$/projects/imtools/imtools/uiThreshold.py" timestamp="1451853136733">
+        <mark key="'" line="539" column="8" />
         <mark key="[" line="584" column="36" />
         <mark key="]" line="584" column="35" />
         <mark key="." line="584" column="35" />
@@ -638,16 +638,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="0" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
-      <jump line="504" column="21" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
-      <jump line="322" column="45" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
-      <jump line="365" column="17" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
-      <jump line="374" column="13" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
-      <jump line="412" column="17" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
-      <jump line="426" column="17" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
-      <jump line="440" column="17" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
-      <jump line="442" column="8" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
-      <jump line="448" column="20" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
       <jump line="340" column="45" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
       <jump line="122" column="77" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
       <jump line="445" column="8" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
@@ -738,6 +728,16 @@
       <jump line="76" column="4" filename="$USER_HOME$/projects/imtools/imtools/thresholding_functions.py" />
       <jump line="53" column="8" filename="$USER_HOME$/projects/imtools/imtools/segmentation.py" />
       <jump line="100" column="25" filename="$USER_HOME$/projects/imtools/tests/vessels_segmentation_test.py" />
+      <jump line="493" column="23" filename="$USER_HOME$/projects/imtools/imtools/uiThreshold.py" />
+      <jump line="525" column="17" filename="$USER_HOME$/projects/imtools/imtools/uiThreshold.py" />
+      <jump line="526" column="21" filename="$USER_HOME$/projects/imtools/imtools/uiThreshold.py" />
+      <jump line="547" column="17" filename="$USER_HOME$/projects/imtools/imtools/uiThreshold.py" />
+      <jump line="564" column="21" filename="$USER_HOME$/projects/imtools/imtools/uiThreshold.py" />
+      <jump line="585" column="68" filename="$USER_HOME$/projects/imtools/imtools/uiThreshold.py" />
+      <jump line="388" column="20" filename="$USER_HOME$/projects/imtools/imtools/uiThreshold.py" />
+      <jump line="406" column="17" filename="$USER_HOME$/projects/imtools/imtools/uiThreshold.py" />
+      <jump line="410" column="17" filename="$USER_HOME$/projects/imtools/imtools/uiThreshold.py" />
+      <jump line="539" column="8" filename="$USER_HOME$/projects/imtools/imtools/uiThreshold.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -747,7 +747,7 @@
         <text encoding="base64">b3V0cHV0VG1wIA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkaWxhdGlvbkl0ZXJhdGlvbnNcPg==</text>
+        <text encoding="base64">XDxkcmF3VmlzdWFsaXphdGlvblw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZGF0YTNkLCAgIyAuYXN0eXBlKG5wLnVpbnQ4KSwKICAgICAgICAgICAgc2VnbWVudGF0aW9uPShzZWdtID09IHNsYWJbJ2xpdmVyJ10pLCAgIyAuYXN0eXBlKG5wLnVpbnQ4KSwKICAgICAgICAgICAgIyBzZWdtZW50YXRpb24gPSBvc2VnLm9yaWdfc2NhbGVfc2VnbWVudGF0aW9uLAogICAgICAgICAgICB2b3hlbHNpemVfbW09dm94ZWxzaXplX21tLAogICAgICAgICAgICB0aHJlc2hvbGQ9MTgwLAogICAgICAgICAgICBpbnB1dFNpZ21hPTAuMTUsCiAgICAgICAgICAgIGRpbGF0aW9uSXRlcmF0aW9ucz0yLAogICAgICAgICAgICBuT2JqPTEsCiAgICAgICAgICAgIGludGVyYWN0aXZpdHk9RmFsc2UsCiAgICAgICAgICAgICMgaW50ZXJhY3Rpdml0eT1UcnVlLAogICAgICAgICAgICBiaWdnZXN0T2JqZWN0cz1UcnVlLAogICAgICAgICAgICBiaW5hcnlDbG9zaW5nSXRlcmF0aW9ucz01LAogICAgICAgICAgICBiaW5hcnlPcGVuaW5nSXRlcmF0aW9ucz0xKQo=</text>
@@ -780,21 +780,18 @@
         <text>False</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>586</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkaWxhdGlvbkl0ZXJhdGlvbnNcPg==</last-search>
+      <last-search encoding="base64">XDxkcmF3VmlzdWFsaXphdGlvblw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkaWxhdGlvbkl0ZXJhdGlvbnNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxkcmF3VmlzdWFsaXphdGlvblw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfYWRkX3NlZWRzX21tXD4=</entry>
-        <entry encoding="base64">XDxzaG93U2VnbVF1ZXJ5RGlhbG9nXD4=</entry>
-        <entry>save</entry>
         <entry>segmentation</entry>
         <entry encoding="base64">XDxkYXRhM2RfdGhyXD4=</entry>
         <entry encoding="base64">XDxzYXZlX3NrZWxldG9uXD4=</entry>
@@ -812,6 +809,9 @@
         <entry encoding="base64">XDx0aHJlc1w+</entry>
         <entry encoding="base64">XDxiaW5hcnlDbG9zaW5nT3BlbmluZ1w+</entry>
         <entry encoding="base64">XDxkaWxhdGlvbkl0ZXJhdGlvbnNcPg==</entry>
+        <entry>imgFiltering</entry>
+        <entry encoding="base64">XDxpbWdGaWx0ZXJpbmdcPg==</entry>
+        <entry encoding="base64">XDxkcmF3VmlzdWFsaXphdGlvblw+</entry>
       </history-search>
       <history-cmd>
         <entry>e</entry>
@@ -831,6 +831,7 @@
         <entry>131</entry>
         <entry>24</entry>
         <entry>w</entry>
+        <entry>586</entry>
       </history-cmd>
       <history-expr />
       <history-input />
