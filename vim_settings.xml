@@ -209,9 +209,10 @@
         <mark key="^" line="38" column="20" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/imtools/imtools/segmentation.py" timestamp="1451651705535">
-        <mark key="[" line="35" column="32" />
-        <mark key="]" line="35" column="32" />
+      <file name="$USER_HOME$/projects/imtools/imtools/segmentation.py" timestamp="1451850893484">
+        <mark key="'" line="53" column="8" />
+        <mark key="[" line="205" column="0" />
+        <mark key="]" line="215" column="25" />
         <mark key="." line="35" column="32" />
         <mark key="^" line="35" column="32" />
       </file>
@@ -470,11 +471,12 @@
       <file name="vim_settings.xml" timestamp="1449175692195">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/imtools/tests/vessels_segmentation_test.py" timestamp="1451850576132">
-        <mark key="[" line="54" column="62" />
-        <mark key="]" line="55" column="17" />
-        <mark key="." line="55" column="17" />
-        <mark key="^" line="55" column="17" />
+      <file name="$USER_HOME$/projects/imtools/tests/vessels_segmentation_test.py" timestamp="1451851266058">
+        <mark key="'" line="100" column="25" />
+        <mark key="[" line="141" column="0" />
+        <mark key="]" line="141" column="0" />
+        <mark key="." line="141" column="0" />
+        <mark key="^" line="148" column="16" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/volumetry_evaluation.py" timestamp="1448785771190">
         <mark key="[" line="298" column="73" />
@@ -636,8 +638,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="0" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
-      <jump line="67" column="0" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
       <jump line="31" column="0" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
       <jump line="504" column="21" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
       <jump line="322" column="45" filename="$USER_HOME$/projects/quanta/quantan/histology_report.py" />
@@ -736,61 +736,62 @@
       <jump line="266" column="24" filename="$USER_HOME$/projects/imtools/imtools/uiThreshold.py" />
       <jump line="270" column="20" filename="$USER_HOME$/projects/imtools/imtools/uiThreshold.py" />
       <jump line="76" column="4" filename="$USER_HOME$/projects/imtools/imtools/thresholding_functions.py" />
+      <jump line="53" column="8" filename="$USER_HOME$/projects/imtools/imtools/segmentation.py" />
+      <jump line="100" column="25" filename="$USER_HOME$/projects/imtools/tests/vessels_segmentation_test.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>False</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGlsYXRpb25JdGVyYXRpb25zPTIsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>False</text>
+        <text encoding="base64">b3V0cHV0VG1wIA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxiaW5hcnlDbG9zaW5nT3BlbmluZ1w+</text>
+        <text encoding="base64">XDxkaWxhdGlvbkl0ZXJhdGlvbnNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50ZXJhY3Rpdml0eT1GYWxzZSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGF0YTNkLCAgIyAuYXN0eXBlKG5wLnVpbnQ4KSwKICAgICAgICAgICAgc2VnbWVudGF0aW9uPShzZWdtID09IHNsYWJbJ2xpdmVyJ10pLCAgIyAuYXN0eXBlKG5wLnVpbnQ4KSwKICAgICAgICAgICAgIyBzZWdtZW50YXRpb24gPSBvc2VnLm9yaWdfc2NhbGVfc2VnbWVudGF0aW9uLAogICAgICAgICAgICB2b3hlbHNpemVfbW09dm94ZWxzaXplX21tLAogICAgICAgICAgICB0aHJlc2hvbGQ9MTgwLAogICAgICAgICAgICBpbnB1dFNpZ21hPTAuMTUsCiAgICAgICAgICAgIGRpbGF0aW9uSXRlcmF0aW9ucz0yLAogICAgICAgICAgICBuT2JqPTEsCiAgICAgICAgICAgIGludGVyYWN0aXZpdHk9RmFsc2UsCiAgICAgICAgICAgICMgaW50ZXJhY3Rpdml0eT1UcnVlLAogICAgICAgICAgICBiaWdnZXN0T2JqZWN0cz1UcnVlLAogICAgICAgICAgICBiaW5hcnlDbG9zaW5nSXRlcmF0aW9ucz01LAogICAgICAgICAgICBiaW5hcnlPcGVuaW5nSXRlcmF0aW9ucz0xKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>False</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGlsYXRpb25JdGVyYXRpb25zPTIsCg==</text>
       </register>
       <register name="2" type="4">
-        <text>closing</text>
+        <text encoding="base64">b3V0cHV0VG1wIA==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKCJzZWxmLnRocmVzaG9sZCBhdCB0aGUgZW5kIG9mIGluaXQoKTogIiArIHN0cihzZWxmLnRocmVzaG9sZCkpCg==</text>
+        <text encoding="base64">ICAgICAgICBvdXRwdXRUbXAgPSBzZWdtZW50YXRpb24udmVzc2VsU2VnbWVudGF0aW9uKAogICAgICAgICAgICBkYXRhM2QsICAjIC5hc3R5cGUobnAudWludDgpLAogICAgICAgICAgICBzZWdtZW50YXRpb249KHNlZ20gPT0gc2xhYlsnbGl2ZXInXSksICAjIC5hc3R5cGUobnAudWludDgpLAogICAgICAgICAgICAjIHNlZ21lbnRhdGlvbiA9IG9zZWcub3JpZ19zY2FsZV9zZWdtZW50YXRpb24sCiAgICAgICAgICAgIHZveGVsc2l6ZV9tbT12b3hlbHNpemVfbW0sCiAgICAgICAgICAgIHRocmVzaG9sZD0xODAsCiAgICAgICAgICAgIGlucHV0U2lnbWE9MC4xNSwKICAgICAgICAgICAgZGlsYXRpb25JdGVyYXRpb25zPTIsCiAgICAgICAgICAgIG5PYmo9MSwKICAgICAgICAgICAgaW50ZXJhY3Rpdml0eT1GYWxzZSwKICAgICAgICAgICAgIyBpbnRlcmFjdGl2aXR5PVRydWUsCiAgICAgICAgICAgIGJpZ2dlc3RPYmplY3RzPVRydWUsCiAgICAgICAgICAgIGJpbmFyeUNsb3NpbmdJdGVyYXRpb25zPTUsCiAgICAgICAgICAgIGJpbmFyeU9wZW5pbmdJdGVyYXRpb25zPTEpCg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">aW4g</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="5" type="4">
+        <text>size_mm</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">dWlUIA==</text>
       </register>
-      <register name="7" type="4">
-        <text>csv report buttons</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdWlUID0gdWlUaHJlc2hvbGQudWlUaHJlc2hvbGRRdCgKICAgICAgICAgICAgcHJlcGFyZWREYXRhLCB2b3hlbD12b3hlbCwgdGhyZXNob2xkPXRocmVzaG9sZCwKICAgICAgICAgICAgaW50ZXJhY3Rpdml0eT1pbnRlcmFjdGl2aXR5LCBudW1iZXI9bnVtYmVyLCBpbnB1dFNpZ21hPWlucHV0U2lnbWEsCiAgICAgICAgICAgIG5PYmo9bk9iaiwgYmlnZ2VzdE9iamVjdHM9YmlnZ2VzdE9iamVjdHMsCiAgICAgICAgICAgIHVzZVNlZWRzT2ZDb21wYWN0T2JqZWN0cz11c2VTZWVkc09mQ29tcGFjdE9iamVjdHMsCiAgICAgICAgICAgIGJpbmFyeUNsb3NpbmdJdGVyYXRpb25zPWNsb3NpbmcsIGJpbmFyeU9wZW5pbmdJdGVyYXRpb25zPW9wZW5pbmcsCiAgICAgICAgICAgIHNlZWRzPXNlZWRzLAogICAgICAgICAgICBhdXRvX21ldGhvZD1hdXRvX21ldGhvZCwKICAgICAgICApCgogICAgICAgIG91dHB1dCA9IHVpVC5ydW4oKQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgUHlRdDQ7IFB5UXQ0LlF0Q29yZS5weXF0UmVtb3ZlSW5wdXRIb29rKCkKICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+      <register name="8" type="4">
+        <text>data_segmentation</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgUHlRdDQ7IFB5UXQ0LlF0Q29yZS5weXF0UmVtb3ZlSW5wdXRIb29rKCkKICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+      <register name="9" type="4">
+        <text>False</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxiaW5hcnlDbG9zaW5nT3BlbmluZ1w+</last-search>
+      <last-search encoding="base64">XDxkaWxhdGlvbkl0ZXJhdGlvbnNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxiaW5hcnlDbG9zaW5nT3BlbmluZ1w+</last-pattern>
+      <last-pattern encoding="base64">XDxkaWxhdGlvbkl0ZXJhdGlvbnNcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>mean</entry>
         <entry encoding="base64">XDxfYWRkX3NlZWRzX21tXD4=</entry>
         <entry encoding="base64">XDxzaG93U2VnbVF1ZXJ5RGlhbG9nXD4=</entry>
         <entry>save</entry>
@@ -810,6 +811,7 @@
         <entry encoding="base64">XDxkZWJ1Z0luZm9cPg==</entry>
         <entry encoding="base64">XDx0aHJlc1w+</entry>
         <entry encoding="base64">XDxiaW5hcnlDbG9zaW5nT3BlbmluZ1w+</entry>
+        <entry encoding="base64">XDxkaWxhdGlvbkl0ZXJhdGlvbnNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>e</entry>
