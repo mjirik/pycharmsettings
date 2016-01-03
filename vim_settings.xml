@@ -163,9 +163,6 @@
         <mark key="^" line="7" column="27" />
         <mark key="." line="7" column="27" />
       </file>
-      <file name="/fragment.py" timestamp="1451856918533">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Dropbox/studium/dizertace/data/jkunes/compare_histology_results.py" timestamp="1450862143914">
         <mark key="'" line="322" column="8" />
         <mark key="[" line="205" column="71" />
@@ -270,12 +267,12 @@
         <mark key="^" line="958" column="17" />
         <mark key="." line="958" column="29" />
       </file>
-      <file name="$USER_HOME$/projects/imtools/imtools/thresholding_functions.py" timestamp="1451855957015">
+      <file name="$USER_HOME$/projects/imtools/imtools/thresholding_functions.py" timestamp="1451857919457">
         <mark key="'" line="85" column="4" />
-        <mark key="[" line="94" column="46" />
-        <mark key="]" line="95" column="21" />
-        <mark key="^" line="95" column="21" />
-        <mark key="." line="95" column="21" />
+        <mark key="[" line="129" column="19" />
+        <mark key="]" line="129" column="19" />
+        <mark key="^" line="120" column="20" />
+        <mark key="." line="129" column="19" />
       </file>
       <file name="$USER_HOME$/projects/skelet3d/src/skelet3d/__init__.py" timestamp="1445328719706">
         <mark key="[" line="0" column="0" />
@@ -738,43 +735,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>n</text>
+        <text>\</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>\</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkcmF3VmlzdWFsaXphdGlvblw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBvdXQgKz0gZGF0YSA+PSBtaW5fdGhyZXNob2xkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGF0YSA9IGRhdGEgKiBcCiAgICAgICAgICAgICAgICBzY2lweS5uZGltYWdlLmJpbmFyeV9jbG9zaW5nKGRhdGEsIGl0ZXJhdGlvbnM9Y2xvc2VOdW0pCg==</text>
       </register>
       <register name="1" type="4">
-        <text>n</text>
+        <text>\</text>
       </register>
       <register name="2" type="4">
-        <text>i</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">PT0g</text>
+        <text>*</text>
       </register>
       <register name="4" type="4">
-        <text>True</text>
+        <text encoding="base64">ZGF0YSA=</text>
       </register>
       <register name="5" type="4">
-        <text>info</text>
+        <text>\</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGlsYXRpb25JdGVyYXRpb25zPTIsCg==</text>
+      <register name="7" type="4">
+        <text>*</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">b3V0cHV0VG1wIA==</text>
+        <text encoding="base64">ZGF0YSA=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBvdXRwdXRUbXAgPSBzZWdtZW50YXRpb24udmVzc2VsU2VnbWVudGF0aW9uKAogICAgICAgICAgICBkYXRhM2QsICAjIC5hc3R5cGUobnAudWludDgpLAogICAgICAgICAgICBzZWdtZW50YXRpb249KHNlZ20gPT0gc2xhYlsnbGl2ZXInXSksICAjIC5hc3R5cGUobnAudWludDgpLAogICAgICAgICAgICAjIHNlZ21lbnRhdGlvbiA9IG9zZWcub3JpZ19zY2FsZV9zZWdtZW50YXRpb24sCiAgICAgICAgICAgIHZveGVsc2l6ZV9tbT12b3hlbHNpemVfbW0sCiAgICAgICAgICAgIHRocmVzaG9sZD0xODAsCiAgICAgICAgICAgIGlucHV0U2lnbWE9MC4xNSwKICAgICAgICAgICAgZGlsYXRpb25JdGVyYXRpb25zPTIsCiAgICAgICAgICAgIG5PYmo9MSwKICAgICAgICAgICAgaW50ZXJhY3Rpdml0eT1GYWxzZSwKICAgICAgICAgICAgIyBpbnRlcmFjdGl2aXR5PVRydWUsCiAgICAgICAgICAgIGJpZ2dlc3RPYmplY3RzPVRydWUsCiAgICAgICAgICAgIGJpbmFyeUNsb3NpbmdJdGVyYXRpb25zPTUsCiAgICAgICAgICAgIGJpbmFyeU9wZW5pbmdJdGVyYXRpb25zPTEpCg==</text>
+      <register name="9" type="4">
+        <text>n</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
