@@ -272,12 +272,12 @@
         <mark key="^" line="958" column="17" />
         <mark key="." line="958" column="29" />
       </file>
-      <file name="$USER_HOME$/projects/imtools/imtools/thresholding_functions.py" timestamp="1451680565812">
+      <file name="$USER_HOME$/projects/imtools/imtools/thresholding_functions.py" timestamp="1451847999615">
         <mark key="'" line="76" column="4" />
-        <mark key="[" line="160" column="17" />
-        <mark key="]" line="76" column="21" />
-        <mark key="^" line="76" column="21" />
-        <mark key="." line="76" column="21" />
+        <mark key="[" line="120" column="0" />
+        <mark key="]" line="120" column="35" />
+        <mark key="^" line="129" column="32" />
+        <mark key="." line="120" column="0" />
       </file>
       <file name="$USER_HOME$/projects/skelet3d/src/skelet3d/__init__.py" timestamp="1445328719706">
         <mark key="[" line="0" column="0" />
@@ -733,46 +733,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKCJzZWxmLnRocmVzaG9sZCBhdCB0aGUgZW5kIG9mIGluaXQoKTogIiArIHN0cihzZWxmLnRocmVzaG9sZCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKCdvcGVuaW5nJykK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aW4g</text>
+        <text>closing</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiaW5hcnlDbG9zaW5nT3BlbmluZ1w+</text>
       </register>
       <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKCdvcGVuaW5nJykK</text>
+      </register>
+      <register name="1" type="4">
+        <text>closing</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKCJzZWxmLnRocmVzaG9sZCBhdCB0aGUgZW5kIG9mIGluaXQoKTogIiArIHN0cihzZWxmLnRocmVzaG9sZCkpCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKCJzZWxmLnRocmVzaG9sZCBhdCB0aGUgZW5kIG9mIGluaXQoKTogIiArIHN0cihzZWxmLnRocmVzaG9sZCkpCg==</text>
-      </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">aW4g</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>csv report buttons</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgUHlRdDQ7IFB5UXQ0LlF0Q29yZS5weXF0UmVtb3ZlSW5wdXRIb29rKCkKICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBpbXBvcnQgUHlRdDQ7IFB5UXQ0LlF0Q29yZS5weXF0UmVtb3ZlSW5wdXRIb29rKCkKICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
-      <register name="8" type="4">
-        <text>0</text>
-      </register>
-      <register name="9" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBpbXBvcnQgUHlRdDQ7IFB5UXQ0LlF0Q29yZS5weXF0UmVtb3ZlSW5wdXRIb29rKCkKICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
+      <register name="9" type="4">
+        <text>0</text>
+      </register>
       <register name=":" type="4">
-        <text>24</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -821,8 +821,8 @@
         <entry>33</entry>
         <entry>745</entry>
         <entry>131</entry>
-        <entry>w</entry>
         <entry>24</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
