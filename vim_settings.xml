@@ -470,6 +470,12 @@
       <file name="vim_settings.xml" timestamp="1449175692195">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/imtools/tests/vessels_segmentation_test.py" timestamp="1451849613896">
+        <mark key="[" line="54" column="62" />
+        <mark key="]" line="55" column="17" />
+        <mark key="." line="55" column="17" />
+        <mark key="^" line="55" column="17" />
+      </file>
       <file name="$USER_HOME$/projects/lisa/lisa/volumetry_evaluation.py" timestamp="1448785771190">
         <mark key="[" line="298" column="73" />
         <mark key="]" line="109" column="20" />
@@ -732,44 +738,44 @@
       <jump line="76" column="4" filename="$USER_HOME$/projects/imtools/imtools/thresholding_functions.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKCdvcGVuaW5nJykK</text>
+      <register name="&quot;" type="4">
+        <text>False</text>
       </register>
       <register name="-" type="4">
-        <text>closing</text>
+        <text>False</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiaW5hcnlDbG9zaW5nT3BlbmluZ1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKCdvcGVuaW5nJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50ZXJhY3Rpdml0eT1GYWxzZSwK</text>
       </register>
       <register name="1" type="4">
+        <text>False</text>
+      </register>
+      <register name="2" type="4">
         <text>closing</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKCJzZWxmLnRocmVzaG9sZCBhdCB0aGUgZW5kIG9mIGluaXQoKTogIiArIHN0cihzZWxmLnRocmVzaG9sZCkpCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">aW4g</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>csv report buttons</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgUHlRdDQ7IFB5UXQ0LlF0Q29yZS5weXF0UmVtb3ZlSW5wdXRIb29rKCkKICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBpbXBvcnQgUHlRdDQ7IFB5UXQ0LlF0Q29yZS5weXF0UmVtb3ZlSW5wdXRIb29rKCkKICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
-      <register name="9" type="4">
-        <text>0</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgUHlRdDQ7IFB5UXQ0LlF0Q29yZS5weXF0UmVtb3ZlSW5wdXRIb29rKCkKICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
