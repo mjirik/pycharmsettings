@@ -3,20 +3,89 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/quantan/quantan/quantan.py" timestamp="1451910042589">
+      <file name="$USER_HOME$/projects/quantan/quantan/histology_analyser_gui.py" timestamp="1451911322549">
+        <mark key="b" line="119" column="61" />
+        <mark key="'" line="895" column="4" />
+        <mark key="]" line="120" column="15" />
+        <mark key="^" line="120" column="15" />
+        <mark key="." line="120" column="15" />
+        <mark key="[" line="119" column="55" />
+      </file>
+      <file name="$USER_HOME$/projects/quantan/quantan/quantan.py" timestamp="1451911171680">
         <mark key="'" line="0" column="0" />
+        <mark key="a" line="721" column="35" />
+        <mark key="]" line="844" column="0" />
+        <mark key="." line="844" column="0" />
+        <mark key="[" line="844" column="0" />
       </file>
     </filemarks>
     <jumps>
       <jump line="843" column="8" filename="$USER_HOME$/projects/quantan/quantan/quantan.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/quantan/quantan/quantan.py" />
+      <jump line="402" column="8" filename="$USER_HOME$/projects/quantan/quantan/histology_analyser_gui.py" />
+      <jump line="384" column="40" filename="$USER_HOME$/projects/quantan/quantan/histology_analyser_gui.py" />
+      <jump line="241" column="8" filename="$USER_HOME$/projects/quantan/quantan/histology_analyser_gui.py" />
+      <jump line="328" column="8" filename="$USER_HOME$/projects/quantan/quantan/histology_analyser_gui.py" />
+      <jump line="375" column="37" filename="$USER_HOME$/projects/quantan/quantan/histology_analyser_gui.py" />
+      <jump line="383" column="38" filename="$USER_HOME$/projects/quantan/quantan/histology_analyser_gui.py" />
+      <jump line="423" column="125" filename="$USER_HOME$/projects/quantan/quantan/histology_analyser_gui.py" />
+      <jump line="119" column="61" filename="$USER_HOME$/projects/quantan/quantan/histology_analyser_gui.py" />
+      <jump line="894" column="4" filename="$USER_HOME$/projects/quantan/quantan/histology_analyser_gui.py" />
     </jumps>
-    <registers />
+    <registers>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgYmluYXJ5Q2xvc2luZz1iaW5hcnlDbG9zaW5nLCBiaW5hcnlPcGVuaW5nPWJpbmFyeU9wZW5pbmcsCg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGhhID0gSGlzdG9sb2d5QW5hbHlzZXIoZGF0YTNkLCBtZXRhZGF0YSwgdGhyZXNob2xkLAogICAgICAgICAgICAgICAgICAgICAgICAgICBiaW5hcnlDbG9zaW5nPWJpbmFyeUNsb3NpbmcsIGJpbmFyeU9wZW5pbmc9YmluYXJ5T3BlbmluZywKICAgICAgICAgICAgICAgICAgICAgICAgICAgbm9ndWk9VHJ1ZSwgYWdncmVnYXRlX25lYXJfbm9kZXNfZGlzdGFuY2U9YXJncy5hZ2dyZWdhdGVuZWFybm9kZXMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgIGhpc3RfbGVuZ3RoX3JhbmdlPWFyZ3MuaGlzdF9sZW5ndGhfcmFuZ2UsCiAgICAgICAgICAgICAgICAgICAgICAgICAgIGhpc3RfcmFkaXVzX3JhbmdlPWFyZ3MuaGlzdF9yYWRpdXNfcmFuZ2UKICAgICAgICAgICAgICAgICAgICAgICAgICAgKQo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGhhID0gSGlzdG9sb2d5QW5hbHlzZXIoZGF0YTNkLCBtZXRhZGF0YSwgdGhyZXNob2xkLAogICAgICAgICAgICAgICAgICAgICAgICAgICBub2d1aT1UcnVlLCBhZ2dyZWdhdGVfbmVhcl9ub2Rlc19kaXN0YW5jZT1hcmdzLmFnZ3JlZ2F0ZW5lYXJub2RlcywKICAgICAgICAgICAgICAgICAgICAgICAgICAgaGlzdF9sZW5ndGhfcmFuZ2U9YXJncy5oaXN0X2xlbmd0aF9yYW5nZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgaGlzdF9yYWRpdXNfcmFuZ2U9YXJncy5oaXN0X3JhZGl1c19yYW5nZQogICAgICAgICAgICAgICAgICAgICAgICAgICApCg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGhhID0gSGlzdG9sb2d5QW5hbHlzZXIoZGF0YTNkLCBtZXRhZGF0YSwgdGhyZXNob2xkLAogICAgICAgICAgICAgICAgICAgICAgICAgICBiaW5hcnlDbG9zaW5nPWJpbmFyeUNsb3NpbmcsIGJpbmFyeU9wZW5pbmc9YmluYXJ5T3BlbmluZywKICAgICAgICAgICAgICAgICAgICAgICAgICAgbm9ndWk9VHJ1ZSwgYWdncmVnYXRlX25lYXJfbm9kZXNfZGlzdGFuY2U9YXJncy5hZ2dyZWdhdGVuZWFybm9kZXMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgIGhpc3RfbGVuZ3RoX3JhbmdlPWFyZ3MuaGlzdF9sZW5ndGhfcmFuZ2UsCiAgICAgICAgICAgICAgICAgICAgICAgICAgIGhpc3RfcmFkaXVzX3JhbmdlPWFyZ3MuaGlzdF9yYWRpdXNfcmFuZ2UKICAgICAgICAgICAgICAgICAgICAgICAgICAgKQo=</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGhhID0gSGlzdG9sb2d5QW5hbHlzZXIoZGF0YTNkLCBtZXRhZGF0YSwgdGhyZXNob2xkLCAKICAgICAgICAgICAgIGJpbmFyeUNsb3Npbmc9YmluYXJ5Q2xvc2luZywgYmluYXJ5T3BlbmluZz1iaW5hcnlPcGVuaW5nLCAKICAgICAgICAgICAgIG5vZ3VpPVRydWUsIGFnZ3JlZ2F0ZV9uZWFyX25vZGVzX2Rpc3RhbmNlPWFyZ3MuYWdncmVnYXRlbmVhcm5vZGVzLAogICAgICAgICAgICAgaGlzdF9sZW5ndGhfcmFuZ2U9YXJncy5oaXN0X2xlbmd0aF9yYW5nZSwKICAgICAgICAgICAgIGhpc3RfcmFkaXVzX3JhbmdlPWFyZ3MuaGlzdF9yYWRpdXNfcmFuZ2UKICAgICAgICAgICAgICkK</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+      <register name="/" type="4">
+        <text>vess</text>
+      </register>
+    </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>vess</last-search>
+      <last-offset />
+      <last-pattern>vess</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
-    <shortcut-conflicts />
+    <history>
+      <history-search>
+        <entry encoding="base64">XDxydW5TZWdtTWFudWFsXD4=</entry>
+        <entry encoding="base64">XDxzaG93U2VnbVF1ZXJ5RGlhbG9nXD4=</entry>
+        <entry>segmentation</entry>
+        <entry>uiT</entry>
+        <entry>uiThr</entry>
+        <entry>vess</entry>
+      </history-search>
+      <history-cmd>
+        <entry>q</entry>
+        <entry>w</entry>
+      </history-cmd>
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
