@@ -6,7 +6,7 @@
       <file name="/start_script.py" timestamp="1449047976347">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1452183419673">
+      <file name="/a.dummy" timestamp="1452185563884">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -604,10 +604,10 @@
         <mark key="^" line="20" column="12" />
         <mark key="." line="20" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/skelet3d/skelet3d/libfixer.py" timestamp="1452183415136">
+      <file name="$USER_HOME$/projects/skelet3d/skelet3d/libfixer.py" timestamp="1452185561607">
         <mark key="[" line="65" column="0" />
         <mark key="]" line="65" column="0" />
-        <mark key="^" line="25" column="13" />
+        <mark key="^" line="60" column="16" />
         <mark key="." line="65" column="0" />
       </file>
       <file name="$USER_HOME$/projects/lisa/INSTALL.md" timestamp="1448570601058">
@@ -647,43 +647,43 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>ls</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>vess</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmIG9wLmlzZGlyKG9wLmpvaW4oaG9tZSwgImFuYWNvbmRhIikpOgo=</text>
+        <text encoding="base64">ICAgICAgICBwID0gc3VicHJvY2Vzcy5Qb3BlbihbJ2NvbmRhJywgJ2luZm8nLCAnLS1yb290J10sIHN0ZG91dD1zdWJwcm9jZXNzLlBJUEUsICBzdGRlcnI9c3VicHJvY2Vzcy5QSVBFKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAiZm91bmQiCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgIGltcG9ydCBwZGI7IHBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
-      <register name="6" type="4">
-        <text>ls</text>
-      </register>
-      <register name="7" type="4">
+      <register name="3" type="4">
         <text>i</text>
       </register>
-      <register name="8" type="4">
+      <register name="4" type="4">
         <text>i</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCAiZm91bmQiCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlwZAo=</text>
+        <text encoding="base64">ICAgIGltcG9ydCBwZGI7IHBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>44</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -735,8 +735,8 @@
         <entry>24</entry>
         <entry>586</entry>
         <entry>22</entry>
-        <entry>w</entry>
         <entry>44</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
