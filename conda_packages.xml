@@ -42,7 +42,7 @@
         <entry key="blockspring" value="0.1.13" />
         <entry key="blosc" value="1.7.0" />
         <entry key="blz" value="0.6.2" />
-        <entry key="bokeh" value="0.10.0" />
+        <entry key="bokeh" value="0.11.0" />
         <entry key="boost" value="1.57.0" />
         <entry key="boto" value="2.38.0" />
         <entry key="bottleneck" value="1.0.0" />
@@ -1025,6 +1025,7 @@
               <option value="0.6.1" />
               <option value="0.10.0" />
               <option value="0.3" />
+              <option value="0.11.0" />
             </list>
           </value>
         </entry>
@@ -6001,6 +6002,6 @@
     <option name="CONDA_CHANNELS">
       <set />
     </option>
-    <option name="LAST_TIME_CHECKED" value="1451909601792" />
+    <option name="LAST_TIME_CHECKED" value="1452180819343" />
   </component>
 </application>

@@ -3,14 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/quantan/quantan/histology_analyser_gui.py" timestamp="1451911322549">
-        <mark key="b" line="119" column="61" />
-        <mark key="'" line="895" column="4" />
-        <mark key="]" line="120" column="15" />
-        <mark key="^" line="120" column="15" />
-        <mark key="." line="120" column="15" />
-        <mark key="[" line="119" column="55" />
-      </file>
       <file name="$USER_HOME$/projects/quantan/quantan/quantan.py" timestamp="1451912303686">
         <mark key="'" line="0" column="0" />
         <mark key="a" line="721" column="35" />
@@ -18,6 +10,14 @@
         <mark key="^" line="722" column="35" />
         <mark key="." line="722" column="35" />
         <mark key="[" line="722" column="29" />
+      </file>
+      <file name="$USER_HOME$/projects/quantan/quantan/histology_analyser_gui.py" timestamp="1451911322549">
+        <mark key="b" line="119" column="61" />
+        <mark key="'" line="895" column="4" />
+        <mark key="]" line="120" column="15" />
+        <mark key="^" line="120" column="15" />
+        <mark key="." line="120" column="15" />
+        <mark key="[" line="119" column="55" />
       </file>
       <file name="/a.dummy" timestamp="1451912358577">
         <mark key="[" line="0" column="0" />
@@ -37,11 +37,11 @@
       <jump line="894" column="4" filename="$USER_HOME$/projects/quantan/quantan/histology_analyser_gui.py" />
     </jumps>
     <registers>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGhhID0gSGlzdG9sb2d5QW5hbHlzZXIoZGF0YTNkLCBtZXRhZGF0YSwgdGhyZXNob2xkLAogICAgICAgICAgICAgICAgICAgICAgICAgICBiaW5hcnlDbG9zaW5nPWJpbmFyeUNsb3NpbmcsIGJpbmFyeU9wZW5pbmc9YmluYXJ5T3BlbmluZywKICAgICAgICAgICAgICAgICAgICAgICAgICAgbm9ndWk9VHJ1ZSwgYWdncmVnYXRlX25lYXJfbm9kZXNfZGlzdGFuY2U9YXJncy5hZ2dyZWdhdGVuZWFybm9kZXMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgIGhpc3RfbGVuZ3RoX3JhbmdlPWFyZ3MuaGlzdF9sZW5ndGhfcmFuZ2UsCiAgICAgICAgICAgICAgICAgICAgICAgICAgIGhpc3RfcmFkaXVzX3JhbmdlPWFyZ3MuaGlzdF9yYWRpdXNfcmFuZ2UKICAgICAgICAgICAgICAgICAgICAgICAgICAgKQo=</text>
-      </register>
       <register name="&quot;" type="4">
         <text>closing</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGhhID0gSGlzdG9sb2d5QW5hbHlzZXIoZGF0YTNkLCBtZXRhZGF0YSwgdGhyZXNob2xkLAogICAgICAgICAgICAgICAgICAgICAgICAgICBiaW5hcnlDbG9zaW5nPWJpbmFyeUNsb3NpbmcsIGJpbmFyeU9wZW5pbmc9YmluYXJ5T3BlbmluZywKICAgICAgICAgICAgICAgICAgICAgICAgICAgbm9ndWk9VHJ1ZSwgYWdncmVnYXRlX25lYXJfbm9kZXNfZGlzdGFuY2U9YXJncy5hZ2dyZWdhdGVuZWFybm9kZXMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgIGhpc3RfbGVuZ3RoX3JhbmdlPWFyZ3MuaGlzdF9sZW5ndGhfcmFuZ2UsCiAgICAgICAgICAgICAgICAgICAgICAgICAgIGhpc3RfcmFkaXVzX3JhbmdlPWFyZ3MuaGlzdF9yYWRpdXNfcmFuZ2UKICAgICAgICAgICAgICAgICAgICAgICAgICAgKQo=</text>
       </register>
       <register name="2" type="4">
         <text>opening</text>
@@ -88,6 +88,8 @@
         <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
