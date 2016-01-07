@@ -341,13 +341,13 @@
         <mark key="." line="14" column="19" />
         <mark key="[" line="14" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/quantan/quantan/histology_analyser_gui.py" timestamp="1451911322549">
+      <file name="$USER_HOME$/projects/quantan/quantan/histology_analyser_gui.py" timestamp="1452185716020">
         <mark key="b" line="119" column="61" />
-        <mark key="'" line="895" column="4" />
-        <mark key="]" line="120" column="15" />
+        <mark key="'" line="591" column="17" />
+        <mark key="]" line="595" column="0" />
         <mark key="^" line="120" column="15" />
-        <mark key="." line="120" column="15" />
-        <mark key="[" line="119" column="55" />
+        <mark key="." line="595" column="0" />
+        <mark key="[" line="595" column="0" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/delwriter.py" timestamp="1448829479942">
         <mark key="]" line="10" column="32" />
@@ -641,19 +641,22 @@
       <jump line="119" column="61" filename="$USER_HOME$/projects/quantan/quantan/histology_analyser_gui.py" />
       <jump line="894" column="4" filename="$USER_HOME$/projects/quantan/quantan/histology_analyser_gui.py" />
       <jump line="55" column="37" filename="$USER_HOME$/projects/skelet3d/skelet3d/libfixer.py" />
+      <jump line="596" column="0" filename="$USER_HOME$/projects/quantan/quantan/histology_analyser_gui.py" />
+      <jump line="595" column="23" filename="$USER_HOME$/projects/quantan/quantan/histology_analyser_gui.py" />
+      <jump line="591" column="17" filename="$USER_HOME$/projects/quantan/quantan/histology_analyser_gui.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
-      <register name="3" type="4">
-        <text>i</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBwZGI7IHBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwID0gc3VicHJvY2Vzcy5Qb3BlbihbJ2NvbmRhJywgJ2luZm8nLCAnLS1yb290J10sIHN0ZG91dD1zdWJwcm9jZXNzLlBJUEUsICBzdGRlcnI9c3VicHJvY2Vzcy5QSVBFKQo=</text>
@@ -661,35 +664,35 @@
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAiZm91bmQiCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>i</text>
       </register>
-      <register name=":" type="4">
-        <text>592</text>
+      <register name="5" type="4">
+        <text>i</text>
       </register>
-      <register name="9" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIGltcG9ydCBwZGI7IHBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
-      <register name="8" type="2">
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCAiZm91bmQiCg==</text>
+      </register>
       <register name="/" type="4">
-        <text>vess</text>
+        <text>ipd</text>
       </register>
       <register name="-" type="4">
         <text>i</text>
       </register>
     </registers>
     <search>
-      <last-search>vess</last-search>
+      <last-search>ipd</last-search>
       <last-offset />
-      <last-pattern>vess</last-pattern>
+      <last-pattern>ipd</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -701,11 +704,14 @@
         <entry>uiT</entry>
         <entry>uiThr</entry>
         <entry>vess</entry>
+        <entry>ipy</entry>
+        <entry>ipd</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
-        <entry>w</entry>
+        <entry>291</entry>
         <entry>592</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
