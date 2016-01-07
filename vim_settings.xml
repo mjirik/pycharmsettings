@@ -3,6 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/projects/skelet3d/skelet3d/libfixer.py" timestamp="1452182165239">
+        <mark key="'" line="62" column="37" />
+        <mark key="]" line="58" column="27" />
+        <mark key="^" line="58" column="27" />
+        <mark key="." line="58" column="27" />
+        <mark key="[" line="55" column="28" />
+      </file>
       <file name="$USER_HOME$/projects/quantan/quantan/quantan.py" timestamp="1451912303686">
         <mark key="'" line="0" column="0" />
         <mark key="a" line="721" column="35" />
@@ -35,37 +42,50 @@
       <jump line="423" column="125" filename="$USER_HOME$/projects/quantan/quantan/histology_analyser_gui.py" />
       <jump line="119" column="61" filename="$USER_HOME$/projects/quantan/quantan/histology_analyser_gui.py" />
       <jump line="894" column="4" filename="$USER_HOME$/projects/quantan/quantan/histology_analyser_gui.py" />
+      <jump line="55" column="37" filename="$USER_HOME$/projects/skelet3d/skelet3d/libfixer.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>closing</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCAiIgo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGhhID0gSGlzdG9sb2d5QW5hbHlzZXIoZGF0YTNkLCBtZXRhZGF0YSwgdGhyZXNob2xkLAogICAgICAgICAgICAgICAgICAgICAgICAgICBiaW5hcnlDbG9zaW5nPWJpbmFyeUNsb3NpbmcsIGJpbmFyeU9wZW5pbmc9YmluYXJ5T3BlbmluZywKICAgICAgICAgICAgICAgICAgICAgICAgICAgbm9ndWk9VHJ1ZSwgYWdncmVnYXRlX25lYXJfbm9kZXNfZGlzdGFuY2U9YXJncy5hZ2dyZWdhdGVuZWFybm9kZXMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgIGhpc3RfbGVuZ3RoX3JhbmdlPWFyZ3MuaGlzdF9sZW5ndGhfcmFuZ2UsCiAgICAgICAgICAgICAgICAgICAgICAgICAgIGhpc3RfcmFkaXVzX3JhbmdlPWFyZ3MuaGlzdF9yYWRpdXNfcmFuZ2UKICAgICAgICAgICAgICAgICAgICAgICAgICAgKQo=</text>
+      <register name="3" type="4">
+        <text>op.join(home, anaconda)</text>
       </register>
-      <register name="2" type="4">
-        <text>opening</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGViCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>closing</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCAiIgo=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGhhID0gSGlzdG9sb2d5QW5hbHlzZXIoZGF0YTNkLCBtZXRhZGF0YSwgdGhyZXNob2xkLCAKICAgICAgICAgICAgIGJpbmFyeUNsb3Npbmc9YmluYXJ5Q2xvc2luZywgYmluYXJ5T3BlbmluZz1iaW5hcnlPcGVuaW5nLCAKICAgICAgICAgICAgIG5vZ3VpPVRydWUsIGFnZ3JlZ2F0ZV9uZWFyX25vZGVzX2Rpc3RhbmNlPWFyZ3MuYWdncmVnYXRlbmVhcm5vZGVzLAogICAgICAgICAgICAgaGlzdF9sZW5ndGhfcmFuZ2U9YXJncy5oaXN0X2xlbmd0aF9yYW5nZSwKICAgICAgICAgICAgIGhpc3RfcmFkaXVzX3JhbmdlPWFyZ3MuaGlzdF9yYWRpdXNfcmFuZ2UKICAgICAgICAgICAgICkK</text>
+        <text encoding="base64">ICAgIGlmIG9wLmlzZGlyKG9wLmpvaW4oaG9tZSwgImFuYWNvbmRhIikpOgo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgYmluYXJ5Q2xvc2luZz1iaW5hcnlDbG9zaW5nLCBiaW5hcnlPcGVuaW5nPWJpbmFyeU9wZW5pbmcsCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGhhID0gSGlzdG9sb2d5QW5hbHlzZXIoZGF0YTNkLCBtZXRhZGF0YSwgdGhyZXNob2xkLAogICAgICAgICAgICAgICAgICAgICAgICAgICBub2d1aT1UcnVlLCBhZ2dyZWdhdGVfbmVhcl9ub2Rlc19kaXN0YW5jZT1hcmdzLmFnZ3JlZ2F0ZW5lYXJub2RlcywKICAgICAgICAgICAgICAgICAgICAgICAgICAgaGlzdF9sZW5ndGhfcmFuZ2U9YXJncy5oaXN0X2xlbmd0aF9yYW5nZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgaGlzdF9yYWRpdXNfcmFuZ2U9YXJncy5oaXN0X3JhZGl1c19yYW5nZQogICAgICAgICAgICAgICAgICAgICAgICAgICApCg==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGlmCg==</text>
+      </register>
+      <register name="5" type="4">
+        <text>&quot;</text>
+      </register>
+      <register name="4" type="4">
+        <text>&quot;</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
+      </register>
+      <register name="9" type="4">
+        <text>opening</text>
+      </register>
+      <register name="8" type="4">
+        <text>closing</text>
       </register>
       <register name="/" type="4">
         <text>vess</text>
       </register>
       <register name="-" type="4">
-        <text>closing</text>
+        <text>op.join(home, anaconda)</text>
       </register>
     </registers>
     <search>
@@ -100,6 +120,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
