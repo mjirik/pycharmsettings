@@ -30,7 +30,7 @@
         <mark key="^" line="88" column="52" />
         <mark key="." line="88" column="52" />
       </file>
-      <file name="/a.dummy" timestamp="1452627583609">
+      <file name="/a.dummy" timestamp="1452628022521">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -74,6 +74,9 @@
         <mark key="]" line="547" column="32" />
         <mark key="." line="547" column="32" />
         <mark key="^" line="547" column="32" />
+      </file>
+      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1452627973990">
+        <mark key="'" line="57" column="27" />
       </file>
       <file name="/False" timestamp="1444651185027">
         <mark key="[" line="0" column="0" />
@@ -500,11 +503,12 @@
         <mark key="^" line="6" column="9" />
         <mark key="." line="6" column="9" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/liver_seeds.py" timestamp="1450221383235">
-        <mark key="[" line="111" column="14" />
-        <mark key="]" line="111" column="15" />
+      <file name="$USER_HOME$/projects/lisa/lisa/liver_seeds.py" timestamp="1452628017372">
+        <mark key="'" line="25" column="26" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="31" />
         <mark key="^" line="111" column="14" />
-        <mark key="." line="113" column="15" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/covert.py" timestamp="1448825543836">
         <mark key="[" line="94" column="57" />
@@ -598,9 +602,6 @@
         <mark key="^" line="15" column="20" />
         <mark key="." line="15" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1452627583602">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/lisa/install_osx.md" timestamp="1448122216203">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="92" column="0" />
@@ -667,6 +668,10 @@
       <jump line="29" column="22" filename="$USER_HOME$/projects/lisa/lisa/liver_model.py" />
       <jump line="119" column="30" filename="$USER_HOME$/projects/lisa/lisa/liver_model.py" />
       <jump line="141" column="18" filename="$USER_HOME$/projects/lisa/lisa/liver_model.py" />
+      <jump line="57" column="27" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="19" column="0" filename="$USER_HOME$/projects/lisa/lisa/liver_seeds.py" />
+      <jump line="27" column="10" filename="$USER_HOME$/projects/lisa/lisa/liver_seeds.py" />
+      <jump line="25" column="26" filename="$USER_HOME$/projects/lisa/lisa/liver_seeds.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -684,29 +689,29 @@
       <register name="1" type="2">
         <text encoding="base64">ZnJvbSBweXNlZ2Jhc2UgaW1wb3J0IHB5Y3V0Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">bW9kZWwg</text>
+      <register name="2" type="2">
+        <text encoding="base64">ZnJvbSBweXNlZ2Jhc2UgaW1wb3J0IHB5Y3V0Cg==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">dHJhaW4g</text>
+        <text encoding="base64">bW9kZWwg</text>
       </register>
       <register name="4" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">dHJhaW4g</text>
       </register>
       <register name="5" type="4">
-        <text>p</text>
+        <text>&quot;</text>
       </register>
       <register name="6" type="4">
-        <text>.</text>
+        <text>p</text>
       </register>
       <register name="7" type="4">
-        <text>ol</text>
-      </register>
-      <register name="8" type="4">
         <text>.</text>
       </register>
+      <register name="8" type="4">
+        <text>ol</text>
+      </register>
       <register name="9" type="4">
-        <text>liver</text>
+        <text>.</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -728,6 +733,7 @@
         <entry>uiThr</entry>
         <entry>vess</entry>
         <entry encoding="base64">XDxfX2RvY19fXD4=</entry>
+        <entry>pycut</entry>
         <entry encoding="base64">XDxweWN1dFw+</entry>
       </history-search>
       <history-cmd>
