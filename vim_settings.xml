@@ -3,21 +3,24 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/quantan/quantan/histology_analyser_gui.py" timestamp="1451911322549">
-        <mark key="b" line="119" column="61" />
-        <mark key="'" line="895" column="4" />
-        <mark key="]" line="120" column="15" />
-        <mark key="^" line="120" column="15" />
-        <mark key="." line="120" column="15" />
-        <mark key="[" line="119" column="55" />
+      <file name="$USER_HOME$/projects/lisa/lisa/liver_model.py" timestamp="1452621304326">
+        <mark key="[" line="40" column="97" />
       </file>
       <file name="$USER_HOME$/projects/quantan/quantan/quantan.py" timestamp="1451912303686">
-        <mark key="'" line="0" column="0" />
         <mark key="a" line="721" column="35" />
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="722" column="29" />
         <mark key="]" line="722" column="35" />
         <mark key="^" line="722" column="35" />
         <mark key="." line="722" column="35" />
-        <mark key="[" line="722" column="29" />
+      </file>
+      <file name="$USER_HOME$/projects/quantan/quantan/histology_analyser_gui.py" timestamp="1451911322549">
+        <mark key="b" line="119" column="61" />
+        <mark key="'" line="895" column="4" />
+        <mark key="[" line="119" column="55" />
+        <mark key="]" line="120" column="15" />
+        <mark key="^" line="120" column="15" />
+        <mark key="." line="120" column="15" />
       </file>
     </filemarks>
     <jumps>
@@ -34,8 +37,11 @@
       <jump line="894" column="4" filename="$USER_HOME$/projects/quantan/quantan/histology_analyser_gui.py" />
     </jumps>
     <registers>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGhhID0gSGlzdG9sb2d5QW5hbHlzZXIoZGF0YTNkLCBtZXRhZGF0YSwgdGhyZXNob2xkLAogICAgICAgICAgICAgICAgICAgICAgICAgICBiaW5hcnlDbG9zaW5nPWJpbmFyeUNsb3NpbmcsIGJpbmFyeU9wZW5pbmc9YmluYXJ5T3BlbmluZywKICAgICAgICAgICAgICAgICAgICAgICAgICAgbm9ndWk9VHJ1ZSwgYWdncmVnYXRlX25lYXJfbm9kZXNfZGlzdGFuY2U9YXJncy5hZ2dyZWdhdGVuZWFybm9kZXMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgIGhpc3RfbGVuZ3RoX3JhbmdlPWFyZ3MuaGlzdF9sZW5ndGhfcmFuZ2UsCiAgICAgICAgICAgICAgICAgICAgICAgICAgIGhpc3RfcmFkaXVzX3JhbmdlPWFyZ3MuaGlzdF9yYWRpdXNfcmFuZ2UKICAgICAgICAgICAgICAgICAgICAgICAgICAgKQo=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGhhID0gSGlzdG9sb2d5QW5hbHlzZXIoZGF0YTNkLCBtZXRhZGF0YSwgdGhyZXNob2xkLCAKICAgICAgICAgICAgIGJpbmFyeUNsb3Npbmc9YmluYXJ5Q2xvc2luZywgYmluYXJ5T3BlbmluZz1iaW5hcnlPcGVuaW5nLCAKICAgICAgICAgICAgIG5vZ3VpPVRydWUsIGFnZ3JlZ2F0ZV9uZWFyX25vZGVzX2Rpc3RhbmNlPWFyZ3MuYWdncmVnYXRlbmVhcm5vZGVzLAogICAgICAgICAgICAgaGlzdF9sZW5ndGhfcmFuZ2U9YXJncy5oaXN0X2xlbmd0aF9yYW5nZSwKICAgICAgICAgICAgIGhpc3RfcmFkaXVzX3JhbmdlPWFyZ3MuaGlzdF9yYWRpdXNfcmFuZ2UKICAgICAgICAgICAgICkK</text>
+      </register>
+      <register name="1" type="4">
+        <text>closing</text>
       </register>
       <register name="&quot;" type="4">
         <text>closing</text>
@@ -43,26 +49,23 @@
       <register name="2" type="4">
         <text>opening</text>
       </register>
-      <register name="1" type="4">
-        <text>closing</text>
-      </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGhhID0gSGlzdG9sb2d5QW5hbHlzZXIoZGF0YTNkLCBtZXRhZGF0YSwgdGhyZXNob2xkLCAKICAgICAgICAgICAgIGJpbmFyeUNsb3Npbmc9YmluYXJ5Q2xvc2luZywgYmluYXJ5T3BlbmluZz1iaW5hcnlPcGVuaW5nLCAKICAgICAgICAgICAgIG5vZ3VpPVRydWUsIGFnZ3JlZ2F0ZV9uZWFyX25vZGVzX2Rpc3RhbmNlPWFyZ3MuYWdncmVnYXRlbmVhcm5vZGVzLAogICAgICAgICAgICAgaGlzdF9sZW5ndGhfcmFuZ2U9YXJncy5oaXN0X2xlbmd0aF9yYW5nZSwKICAgICAgICAgICAgIGhpc3RfcmFkaXVzX3JhbmdlPWFyZ3MuaGlzdF9yYWRpdXNfcmFuZ2UKICAgICAgICAgICAgICkK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgYmluYXJ5Q2xvc2luZz1iaW5hcnlDbG9zaW5nLCBiaW5hcnlPcGVuaW5nPWJpbmFyeU9wZW5pbmcsCg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGhhID0gSGlzdG9sb2d5QW5hbHlzZXIoZGF0YTNkLCBtZXRhZGF0YSwgdGhyZXNob2xkLAogICAgICAgICAgICAgICAgICAgICAgICAgICBiaW5hcnlDbG9zaW5nPWJpbmFyeUNsb3NpbmcsIGJpbmFyeU9wZW5pbmc9YmluYXJ5T3BlbmluZywKICAgICAgICAgICAgICAgICAgICAgICAgICAgbm9ndWk9VHJ1ZSwgYWdncmVnYXRlX25lYXJfbm9kZXNfZGlzdGFuY2U9YXJncy5hZ2dyZWdhdGVuZWFybm9kZXMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgIGhpc3RfbGVuZ3RoX3JhbmdlPWFyZ3MuaGlzdF9sZW5ndGhfcmFuZ2UsCiAgICAgICAgICAgICAgICAgICAgICAgICAgIGhpc3RfcmFkaXVzX3JhbmdlPWFyZ3MuaGlzdF9yYWRpdXNfcmFuZ2UKICAgICAgICAgICAgICAgICAgICAgICAgICAgKQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIGhhID0gSGlzdG9sb2d5QW5hbHlzZXIoZGF0YTNkLCBtZXRhZGF0YSwgdGhyZXNob2xkLAogICAgICAgICAgICAgICAgICAgICAgICAgICBub2d1aT1UcnVlLCBhZ2dyZWdhdGVfbmVhcl9ub2Rlc19kaXN0YW5jZT1hcmdzLmFnZ3JlZ2F0ZW5lYXJub2RlcywKICAgICAgICAgICAgICAgICAgICAgICAgICAgaGlzdF9sZW5ndGhfcmFuZ2U9YXJncy5oaXN0X2xlbmd0aF9yYW5nZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgaGlzdF9yYWRpdXNfcmFuZ2U9YXJncy5oaXN0X3JhZGl1c19yYW5nZQogICAgICAgICAgICAgICAgICAgICAgICAgICApCg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgYmluYXJ5Q2xvc2luZz1iaW5hcnlDbG9zaW5nLCBiaW5hcnlPcGVuaW5nPWJpbmFyeU9wZW5pbmcsCg==</text>
+      </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="/" type="4">
-        <text>vess</text>
-      </register>
       <register name="-" type="4">
         <text>closing</text>
+      </register>
+      <register name="/" type="4">
+        <text>vess</text>
       </register>
     </registers>
     <search>
@@ -83,8 +86,11 @@
       </history-search>
       <history-cmd>
         <entry>q</entry>
+        <entry>51</entry>
         <entry>w</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
