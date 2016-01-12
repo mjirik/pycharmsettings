@@ -233,6 +233,13 @@
         <mark key="^" line="58" column="115" />
         <mark key="." line="58" column="115" />
       </file>
+      <file name="$USER_HOME$/projects/lisa/lisa/liver_model.py" timestamp="1452622972998">
+        <mark key="'" line="222" column="0" />
+        <mark key="[" line="9" column="35" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/imtools/tests/vessels_segmentation_test.py" timestamp="1451861420359">
         <mark key="'" line="100" column="25" />
         <mark key="[" line="136" column="26" />
@@ -527,6 +534,12 @@
         <mark key="^" line="170" column="23" />
         <mark key="." line="83" column="55" />
       </file>
+      <file name="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" timestamp="1452622849538">
+        <mark key="'" line="0" column="0" />
+        <mark key="]" line="10" column="48" />
+        <mark key="^" line="10" column="48" />
+        <mark key="." line="10" column="48" />
+      </file>
       <file name="$USER_HOME$/projects/lisa/docs/index.rst" timestamp="1444650684200">
         <mark key="[" line="6" column="31" />
       </file>
@@ -643,55 +656,60 @@
       <jump line="596" column="0" filename="$USER_HOME$/projects/quantan/quantan/histology_analyser_gui.py" />
       <jump line="595" column="23" filename="$USER_HOME$/projects/quantan/quantan/histology_analyser_gui.py" />
       <jump line="591" column="17" filename="$USER_HOME$/projects/quantan/quantan/histology_analyser_gui.py" />
+      <jump line="67" column="11" filename="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" />
+      <jump line="228" column="20" filename="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" />
+      <jump line="10" column="48" filename="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" />
+      <jump line="223" column="0" filename="$USER_HOME$/projects/lisa/lisa/liver_model.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">bW9kZWwg</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text encoding="base64">bW9kZWwg</text>
       </register>
       <register name="/" type="4">
-        <text>ipd</text>
+        <text encoding="base64">XDxfX2RvY19fXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwID0gc3VicHJvY2Vzcy5Qb3BlbihbJ2NvbmRhJywgJ2luZm8nLCAnLS1yb290J10sIHN0ZG91dD1zdWJwcm9jZXNzLlBJUEUsICBzdGRlcnI9c3VicHJvY2Vzcy5QSVBFKQo=</text>
+      <register name="0" type="4">
+        <text>&quot;~/lisa_data/liver_intensity.Model.p&quot;</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">bW9kZWwg</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">dHJhaW4g</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>&quot;</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBwZGI7IHBkYi5zZXRfdHJhY2UoKQo=</text>
+      <register name="4" type="4">
+        <text>p</text>
       </register>
       <register name="5" type="4">
-        <text>i</text>
+        <text>.</text>
       </register>
       <register name="6" type="4">
-        <text>i</text>
+        <text>ol</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>.</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAiZm91bmQiCg==</text>
+      <register name="8" type="4">
+        <text>liver</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>&quot;</text>
       </register>
       <register name=":" type="4">
-        <text>151</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>ipd</last-search>
+      <last-search encoding="base64">XDxfX2RvY19fXD4=</last-search>
       <last-offset />
-      <last-pattern>ipd</last-pattern>
+      <last-pattern encoding="base64">XDxfX2RvY19fXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -703,12 +721,13 @@
         <entry>uiT</entry>
         <entry>uiThr</entry>
         <entry>vess</entry>
+        <entry encoding="base64">XDxfX2RvY19fXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
         <entry>51</entry>
-        <entry>w</entry>
         <entry>151</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
