@@ -75,15 +75,21 @@
         <mark key="." line="547" column="32" />
         <mark key="^" line="547" column="32" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1452627973990">
-        <mark key="'" line="57" column="27" />
+      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1452700391680">
+        <mark key="a" line="525" column="38" />
+        <mark key="b" line="247" column="13" />
+        <mark key="'" line="247" column="13" />
+        <mark key="[" line="528" column="0" />
+        <mark key="]" line="528" column="0" />
+        <mark key="." line="528" column="0" />
+        <mark key="^" line="526" column="39" />
       </file>
       <file name="/False" timestamp="1444651185027">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1452676209755">
-        <mark key="a" line="85" column="26" />
-        <mark key="'" line="596" column="22" />
+      <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1452700296229">
+        <mark key="a" line="475" column="8" />
+        <mark key="'" line="460" column="13" />
         <mark key="[" line="91" column="67" />
         <mark key="]" line="91" column="77" />
         <mark key="^" line="91" column="77" />
@@ -671,60 +677,65 @@
       <jump line="152" column="0" filename="$USER_HOME$/projects/lisa/lisa/liver_seeds.py" />
       <jump line="566" column="8" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="596" column="22" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="417" column="50" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="242" column="13" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="245" column="37" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="581" column="16" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="449" column="29" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="437" column="13" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="460" column="13" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="525" column="16" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="140" column="8" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="247" column="13" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgOiBGYWxzZSwK</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzbGl2ZXJfY29tcGFyZV93aXRoX290aGVyX3ZvbHVtZV9mcm9tX2ZpbGVcPg==</text>
+        <text encoding="base64">XDxhZnRlcl9sb2FkX3Byb2Nlc3NpbmdcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>True</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ3J1bl9hdXRvbWF0aWNfbGl2ZXJfc2VlZHMnOiBGYWxzZSwK</text>
       </register>
-      <register name="1" type="4">
-        <text>1</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgOiBGYWxzZSwK</text>
       </register>
       <register name="2" type="4">
-        <text>1</text>
+        <text>'</text>
       </register>
       <register name="3" type="4">
-        <text>1</text>
+        <text>'</text>
       </register>
       <register name="4" type="4">
-        <text>1</text>
+        <text>'run_automatic_liver_seeds'</text>
       </register>
-      <register name="5" type="4">
-        <text>1</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGRsWzAsOiw6XSA9IDEKICAgIGRsWzosMCw6XSA9IDEKICAgIGRsWzosOiwwXSA9IDEKICAgIGRsWy0xLDosOl0gPSAxCiAgICBkbFs6LC0xLDpdID0gMQogICAgZGxbOiw6LC0xXSA9IDEK</text>
+      <register name="6" type="4">
+        <text>d</text>
       </register>
-      <register name="7" type="8">
-        <text>l
-l
-l
-l
-l
-l</text>
+      <register name="7" type="4">
+        <text>a</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICMgc2VlZDEgPSBucC51bnJhdmVsX2luZGV4KG5wLmFyZ21heChkbCksIGRsLnNoYXBlKQogICAgIyBzZWVkMV9tbSA9IHNlZWQxICogd29ya2luZ192b3hlbHNpemVfbW0KCiAgICAjIGZpbmQgc2xpY2Ugd2l0aCBtYXhpbXVtICBsaXZlciBwcm9maWxlCiAgICAjIHNvcyA9IG5wLnN1bShucC5zdW0oZGwgPiAwLCBheGlzPTEsIGtlZXBkaW1zPVRydWUpLCBheGlzPTIpCiAgICAjIG1heGltYWxfc2xpY2VfaW5kZXggPSBucC5hcmdtYXgoc29zKQogICAgIyBwcmludCBzb3Muc2hhcGUKICAgICMgZGxfc2wgPSBkbFttYXhpbWFsX3NsaWNlX2luZGV4LDosOl0KICAgICMgc20gPSBucC5zdW0oZGxfc2w+MCkKIyBiLCBhID1ucC5oaXN0b2dyYW0oZGxfc2xbZGxfc2w+MF0sIDgwKQojIHBsdC5wbG90KGFbMTpdLGIpCgojIG1lZCA9IG5wLm1lZGlhbihkbF9zbFtkbF9zbD4wXSkKIyAgICAgaGkgPSBucC5wZXJjZW50aWxlKGRsX3NsW2RsX3NsPjBdLDgwKQojICAgICB4eW56ID0gbnAubm9uemVybygoZGw+aGkpW21heGltYWxfc2xpY2VfaW5kZXgsIDosIDpdKQoKCiAgICAjIHNlZWQxID0gbnAuYXJyYXkoW21heGltYWxfc2xpY2VfaW5kZXgsIG5wLm1lYW4oeHluelswXSksIG5wLm1lYW4oeHluelsxXSldKQogICAgIyBzZWVkMV9tbSA9IHNlZWQxICogd29ya2luZ192b3hlbHNpemVfbW0KICAgICMgc2VlZDEgPSBucC51bnJhdmVsX2luZGV4KG5wLmFyZ21heChkbCksIGRsLnNoYXBlKQogICAgIyBzZWVkMV9tbSA9IHNlZWQxICogd29ya2luZ192b3hlbHNpemVfbW0KCiAgICAjICMgYmFja2dyb3VuZCBzZWVkIGNlbnRlcgogICAgIyBibiA9IGJvZHlfbmF2aWdhdGlvbi5Cb2R5TmF2aWdhdGlvbihkYXRhM2QsIHZveGVsc2l6ZV9tbSkKICAgICMKICAgICMgYm4uZ2V0X2NlbnRlcigpCiAgICAjIHNlZWQyX21tID0gYm4uY2VudGVyX21tCg==</text>
+      <register name="8" type="4">
+        <text>o</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICMgZGxsID0gZGwgPCAwCiAgICAjICMgYWJ5IHNlIHBvY2l0YWxvIGkgb2Qgb2tyYWp1IG9icmF6a3UKICAgICMgZGxsWzAsOiw6XSA9IDAKICAgICMgZGxsWzosMCw6XSA9IDAKICAgICMgZGxsWzosOiwwXSA9IDAKICAgICMgZGxsWy0xLDosOl0gPSAwCiAgICAjIGRsbFs6LC0xLDpdID0gMAogICAgIyBkbGxbOiw6LC0xXSA9IDAKCiAgICAjIGRzdCA9IHNjaXB5Lm5kaW1hZ2UubW9ycGhvbG9neS5kaXN0YW5jZV90cmFuc2Zvcm1fZWR0KGRsbCkKICAgICMgIyBuYSBuYXNlbSByZXp1CiAgICAjIGRzdHNsaWNlID0gZHN0W3NlZWQxWzBdLCA6LCA6XQogICAgIyBzZWVkMnh5ID0gbnAudW5yYXZlbF9pbmRleChucC5hcmdtYXgoZHN0c2xpY2UpLCBkc3RzbGljZS5zaGFwZSkKICAgICMgIyBpbXBvcnQgUHlRdDQ7IFB5UXQ0LlF0Q29yZS5weXF0UmVtb3ZlSW5wdXRIb29rKCkKICAgICMgIyBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQogICAgIyBzZWVkMiA9IG5wLmFycmF5KFtzZWVkMVswXSwgc2VlZDJ4eVswXSwgc2VlZDJ4eVsxXV0pCiAgICAjIHNlZWQyX21tID0gc2VlZDIgKiB3b3JraW5nX3ZveGVsc2l6ZV9tbQoKICAgICMgc2VlZHMgc2hvdWxkIGJlIG9uIHNhbWUgc2xpZGUKICAgICMgc2VlZDJfbW1bMF0gPSBzZWVkMV9tbVswXQo=</text>
+      <register name="9" type="4">
+        <text>l</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzbGl2ZXJfY29tcGFyZV93aXRoX290aGVyX3ZvbHVtZV9mcm9tX2ZpbGVcPg==</last-search>
+      <last-search encoding="base64">XDxhZnRlcl9sb2FkX3Byb2Nlc3NpbmdcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzbGl2ZXJfY29tcGFyZV93aXRoX290aGVyX3ZvbHVtZV9mcm9tX2ZpbGVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxhZnRlcl9sb2FkX3Byb2Nlc3NpbmdcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -741,6 +752,11 @@ l</text>
         <entry encoding="base64">XDxweWN1dFw+</entry>
         <entry encoding="base64">XDxfX2V2YWx1YXRpb25fdG9fdGV4dFw+</entry>
         <entry encoding="base64">XDxzbGl2ZXJfY29tcGFyZV93aXRoX290aGVyX3ZvbHVtZV9mcm9tX2ZpbGVcPg==</entry>
+        <entry>seeds</entry>
+        <entry encoding="base64">XDxzZWdfcHJlcHJvY19wYXJzXD4=</entry>
+        <entry encoding="base64">XDxfX2dldF9kYXRhZGlyXD4=</entry>
+        <entry encoding="base64">XDxpbXBvcnREYXRhV2l0aEd1aVw+</entry>
+        <entry encoding="base64">XDxhZnRlcl9sb2FkX3Byb2Nlc3NpbmdcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
