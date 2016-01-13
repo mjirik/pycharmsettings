@@ -503,12 +503,12 @@
         <mark key="^" line="6" column="9" />
         <mark key="." line="6" column="9" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/liver_seeds.py" timestamp="1452639114765">
+      <file name="$USER_HOME$/projects/lisa/lisa/liver_seeds.py" timestamp="1452673369572">
         <mark key="'" line="25" column="26" />
-        <mark key="[" line="131" column="0" />
-        <mark key="]" line="131" column="0" />
-        <mark key="^" line="126" column="50" />
-        <mark key="." line="131" column="0" />
+        <mark key="[" line="150" column="28" />
+        <mark key="]" line="150" column="29" />
+        <mark key="." line="150" column="29" />
+        <mark key="^" line="84" column="23" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/covert.py" timestamp="1448825543836">
         <mark key="[" line="94" column="57" />
@@ -674,44 +674,44 @@
       <jump line="25" column="26" filename="$USER_HOME$/projects/lisa/lisa/liver_seeds.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
+      <register name="&quot;" type="4">
+        <text>_orig</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bW9kZWwg</text>
+        <text>_orig</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxweWN1dFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRsID0gbGlrMiAtIGxpazEK</text>
+        <text encoding="base64">ZGVmIGFkZF9uZWdhdGl2ZV90cmFpbl9zZWVkc19ibG9icygKICAgICAgICBtYXNrX3dvcmtpbmcsIAogICAgICAgIHNlZWRzX29yaWcsIAogICAgICAgIHdvcmtpbmdfdm94ZWxzaXplX21tLCAKICAgICAgICB2b3hlbHNpemVfbW0sCiAgICAgICAgc2VlZDF6LCBuYmxvYj0xKToK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
+      <register name="1" type="4">
+        <text>_orig</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBQeVF0NDsgUHlRdDQuUXRDb3JlLnB5cXRSZW1vdmVJbnB1dEhvb2soKQo=</text>
+      <register name="2" type="4">
+        <text>mask_working</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBweXNlZ2Jhc2UgaW1wb3J0IHB5Y3V0Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ZGVmIA==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBweXNlZ2Jhc2UgaW1wb3J0IHB5Y3V0Cg==</text>
+      <register name="4" type="4">
+        <text>]</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">bW9kZWwg</text>
+        <text>0</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">dHJhaW4g</text>
+        <text>[</text>
       </register>
       <register name="7" type="4">
-        <text>&quot;</text>
+        <text>]</text>
       </register>
       <register name="8" type="4">
-        <text>p</text>
+        <text>0</text>
       </register>
       <register name="9" type="4">
-        <text>.</text>
+        <text>[</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
