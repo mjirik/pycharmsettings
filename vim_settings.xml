@@ -168,12 +168,12 @@
       <file name="/" timestamp="1444651185024">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/body_navigation.py" timestamp="1452762469826">
+      <file name="$USER_HOME$/projects/lisa/lisa/body_navigation.py" timestamp="1452983400258">
         <mark key="a" line="284" column="92" />
         <mark key="'" line="182" column="8" />
-        <mark key="[" line="221" column="63" />
-        <mark key="]" line="221" column="61" />
-        <mark key="." line="221" column="61" />
+        <mark key="[" line="342" column="33" />
+        <mark key="]" line="342" column="33" />
+        <mark key="." line="342" column="33" />
         <mark key="^" line="221" column="61" />
       </file>
       <file name="$USER_HOME$/projects/lisa/installer.bat" timestamp="1448389020321">
@@ -691,10 +691,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>None</text>
+        <text>imin0</text>
       </register>
       <register name="-" type="4">
-        <text>None</text>
+        <text>imin0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfZmlsdGVyX2RpYXBocmFnbV9wcm9maWxlX2ltYWdlX3JlbW92ZV9vdXRsYXllcnNcPg==</text>
@@ -703,31 +703,31 @@
         <text encoding="base64">ICAgICAgICBvdSA9IHNjaXB5Lm5kaW1hZ2UuZmlsdGVycy5tZWRpYW5fZmlsdGVyKG91LCBzaXplPSg0MCw0MCkpCg==</text>
       </register>
       <register name="1" type="4">
-        <text>None</text>
+        <text>imin0</text>
       </register>
       <register name="2" type="4">
-        <text>==</text>
+        <text>None</text>
       </register>
       <register name="3" type="4">
-        <text>=</text>
+        <text>==</text>
       </register>
       <register name="4" type="4">
         <text>=</text>
       </register>
       <register name="5" type="4">
-        <text>t</text>
+        <text>=</text>
       </register>
       <register name="6" type="4">
-        <text>a</text>
+        <text>t</text>
       </register>
       <register name="7" type="4">
+        <text>a</text>
+      </register>
+      <register name="8" type="4">
         <text>ou</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgOiBGYWxzZSwK</text>
-      </register>
-      <register name="9" type="4">
-        <text>'</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
