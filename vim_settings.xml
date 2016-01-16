@@ -168,9 +168,9 @@
       <file name="/" timestamp="1444651185024">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/body_navigation.py" timestamp="1452986354194">
+      <file name="$USER_HOME$/projects/lisa/lisa/body_navigation.py" timestamp="1452987315206">
         <mark key="a" line="127" column="15" />
-        <mark key="'" line="358" column="0" />
+        <mark key="'" line="123" column="8" />
         <mark key="[" line="373" column="72" />
         <mark key="]" line="377" column="39" />
         <mark key="^" line="377" column="39" />
@@ -698,11 +698,20 @@
       <jump line="317" column="30" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
       <jump line="327" column="23" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
       <jump line="329" column="47" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
-      <jump line="335" column="38" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
       <jump line="336" column="39" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
       <jump line="120" column="26" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
       <jump line="129" column="17" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
       <jump line="358" column="0" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
+      <jump line="210" column="38" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
+      <jump line="320" column="48" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
+      <jump line="321" column="47" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
+      <jump line="322" column="6" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
+      <jump line="335" column="42" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
+      <jump line="337" column="24" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
+      <jump line="338" column="18" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
+      <jump line="352" column="6" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
+      <jump line="484" column="5" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
+      <jump line="123" column="8" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -712,7 +721,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmaW5kX3N5bW1ldHJ5XD4=</text>
+        <text>print</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpbWcgPSBucC5zdW0oc2VsZi5kYXRhM2RyID4gNDMwLCBheGlzPTApCiAgICAgICAgdHIwLCB0cjEsIGFuZ2xlID0gZmluZF9zeW1tZXRyeShpbWcsIGRlZ3JhZCkK</text>
@@ -749,15 +758,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmaW5kX3N5bW1ldHJ5XD4=</last-search>
+      <last-search>print</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmaW5kX3N5bW1ldHJ5XD4=</last-pattern>
+      <last-pattern>print</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxydW5TZWdtTWFudWFsXD4=</entry>
         <entry encoding="base64">XDxzaG93U2VnbVF1ZXJ5RGlhbG9nXD4=</entry>
         <entry>segmentation</entry>
         <entry>uiT</entry>
@@ -775,8 +783,9 @@
         <entry encoding="base64">XDxhZnRlcl9sb2FkX3Byb2Nlc3NpbmdcPg==</entry>
         <entry encoding="base64">XDxfZmlsdGVyX2RpYXBocmFnbV9wcm9maWxlX2ltYWdlX3JlbW92ZV9vdXRsYXllcnNcPg==</entry>
         <entry>min</entry>
-        <entry>print</entry>
         <entry encoding="base64">XDxmaW5kX3N5bW1ldHJ5XD4=</entry>
+        <entry>angle</entry>
+        <entry>print</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
