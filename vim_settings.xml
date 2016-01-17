@@ -168,13 +168,13 @@
       <file name="/" timestamp="1444651185024">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/body_navigation.py" timestamp="1452987315206">
+      <file name="$USER_HOME$/projects/lisa/lisa/body_navigation.py" timestamp="1452991410352">
         <mark key="a" line="127" column="15" />
         <mark key="'" line="123" column="8" />
-        <mark key="[" line="373" column="72" />
-        <mark key="]" line="377" column="39" />
-        <mark key="^" line="377" column="39" />
-        <mark key="." line="377" column="39" />
+        <mark key="[" line="419" column="8" />
+        <mark key="]" line="419" column="12" />
+        <mark key="^" line="419" column="12" />
+        <mark key="." line="419" column="12" />
       </file>
       <file name="$USER_HOME$/projects/lisa/installer.bat" timestamp="1448389020321">
         <mark key="[" line="5" column="35" />
@@ -715,10 +715,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>druha</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>druha</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
@@ -727,31 +727,31 @@
         <text encoding="base64">ICAgICAgICBpbWcgPSBucC5zdW0oc2VsZi5kYXRhM2RyID4gNDMwLCBheGlzPTApCiAgICAgICAgdHIwLCB0cjEsIGFuZ2xlID0gZmluZF9zeW1tZXRyeShpbWcsIGRlZ3JhZCkK</text>
       </register>
       <register name="1" type="4">
+        <text>druha</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoYW5nbGUgPCAoMC41Km5wLnBpKSkgb3IgKGFuZ2xlID4gKDEuNSpucC5waSkpOgogICAgICAgICAgICBwcmludCAicHJ2bmkiCiAgICAgICAgICAgIGRydWhhID0gMQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHByaW50ICJkcnVoYSIKICAgICAgICAgICAgZHJ1aGEgPSAtMQo=</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text>[tr0*degrad, tr1*degrad]</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICB0cjAsIHRyMSwgYW5nbGUgPSBmaW5kX3N5bW1ldHJ5KGltZywgZGVncmFkKQo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBpbWcgPSBucC5zdW0oc2VsZi5kYXRhM2RyID4gNDMwLCBheGlzPTApCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>g</text>
       </register>
-      <register name="6" type="4">
-        <text>.</text>
-      </register>
-      <register name="7" type="4">
-        <text>data3dr</text>
-      </register>
       <register name="8" type="4">
-        <text>shape</text>
+        <text>.</text>
       </register>
       <register name="9" type="4">
-        <text>.</text>
+        <text>data3dr</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
