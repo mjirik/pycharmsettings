@@ -168,9 +168,9 @@
       <file name="/" timestamp="1444651185024">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/body_navigation.py" timestamp="1452992590379">
+      <file name="$USER_HOME$/projects/lisa/lisa/body_navigation.py" timestamp="1453022938492">
         <mark key="a" line="151" column="69" />
-        <mark key="'" line="346" column="18" />
+        <mark key="'" line="155" column="12" />
         <mark key="[" line="123" column="0" />
         <mark key="]" line="123" column="0" />
         <mark key="." line="123" column="0" />
@@ -727,6 +727,9 @@
       <jump line="336" column="10" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
       <jump line="343" column="18" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
       <jump line="346" column="18" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
+      <jump line="390" column="4" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
+      <jump line="131" column="12" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
+      <jump line="155" column="12" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -736,7 +739,7 @@
         <text>symmetry_point</text>
       </register>
       <register name="/" type="4">
-        <text>print</text>
+        <text encoding="base64">XDxzcGxpdF93aXRoX2xpbmVcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiBzZWxmLmFuZ2xlIGlzIE5vbmU6CiAgICAgICAgICAgIHNlbGYuZmluZF9zeW1tZXRyeSgpCg==</text>
@@ -773,15 +776,14 @@
       </register>
     </registers>
     <search>
-      <last-search>print</last-search>
+      <last-search encoding="base64">XDxzcGxpdF93aXRoX2xpbmVcPg==</last-search>
       <last-offset />
-      <last-pattern>print</last-pattern>
+      <last-pattern encoding="base64">XDxzcGxpdF93aXRoX2xpbmVcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzaG93U2VnbVF1ZXJ5RGlhbG9nXD4=</entry>
         <entry>segmentation</entry>
         <entry>uiT</entry>
         <entry>uiThr</entry>
@@ -801,6 +803,7 @@
         <entry encoding="base64">XDxmaW5kX3N5bW1ldHJ5XD4=</entry>
         <entry>angle</entry>
         <entry>print</entry>
+        <entry encoding="base64">XDxzcGxpdF93aXRoX2xpbmVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
