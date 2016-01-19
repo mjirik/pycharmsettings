@@ -540,9 +540,10 @@
         <mark key="^" line="170" column="23" />
         <mark key="." line="83" column="55" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" timestamp="1452622849538">
+      <file name="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" timestamp="1453211787907">
         <mark key="'" line="0" column="0" />
-        <mark key="]" line="10" column="48" />
+        <mark key="[" line="164" column="0" />
+        <mark key="]" line="165" column="37" />
         <mark key="^" line="10" column="48" />
         <mark key="." line="10" column="48" />
       </file>
@@ -732,8 +733,8 @@
       <jump line="155" column="12" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>self.working_vs / self.voxelsize_mm.astype(np.double)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBvcmlnX3BhdHRlcm49IipvcmlnKlsxLTldLm1oZCIsCiAgICAgICAgcmVmX3BhdHRlcm49IipzZWcqWzEtOV0ubWhkIik6Cg==</text>
       </register>
       <register name="-" type="4">
         <text>self.symmetry_point</text>
@@ -741,8 +742,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxzcGxpdF93aXRoX2xpbmVcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>self.working_vs / self.voxelsize_mm.astype(np.double)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBvcmlnX3BhdHRlcm49IipvcmlnKlsxLTldLm1oZCIsCiAgICAgICAgcmVmX3BhdHRlcm49IipzZWcqWzEtOV0ubWhkIik6Cg==</text>
       </register>
       <register name="1" type="4">
         <text>self.symmetry_point</text>
