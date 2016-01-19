@@ -168,13 +168,13 @@
       <file name="/" timestamp="1444651185024">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/body_navigation.py" timestamp="1453022938492">
-        <mark key="a" line="151" column="69" />
-        <mark key="'" line="155" column="12" />
-        <mark key="[" line="123" column="0" />
-        <mark key="]" line="123" column="0" />
-        <mark key="." line="123" column="0" />
-        <mark key="^" line="155" column="43" />
+      <file name="$USER_HOME$/projects/lisa/lisa/body_navigation.py" timestamp="1453197918516">
+        <mark key="a" line="152" column="69" />
+        <mark key="'" line="156" column="12" />
+        <mark key="[" line="132" column="28" />
+        <mark key="]" line="132" column="50" />
+        <mark key="." line="132" column="50" />
+        <mark key="^" line="132" column="50" />
       </file>
       <file name="$USER_HOME$/projects/lisa/installer.bat" timestamp="1448389020321">
         <mark key="[" line="5" column="35" />
@@ -732,44 +732,44 @@
       <jump line="155" column="12" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBhbmdsZQo=</text>
+      <register name="&quot;" type="4">
+        <text>self.working_vs / self.voxelsize_mm.astype(np.double)</text>
       </register>
       <register name="-" type="4">
-        <text>symmetry_point</text>
+        <text>self.symmetry_point</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzcGxpdF93aXRoX2xpbmVcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmLmFuZ2xlIGlzIE5vbmU6CiAgICAgICAgICAgIHNlbGYuZmluZF9zeW1tZXRyeSgpCg==</text>
+      <register name="0" type="4">
+        <text>self.working_vs / self.voxelsize_mm.astype(np.double)</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBhbmdsZQo=</text>
+      <register name="1" type="4">
+        <text>self.symmetry_point</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIHByaW50ICd6ICAnLCBucC5tYXgoeiksIG5wLm1pbih6KQoKICAgICAgICBmb3IgaSBpbiByYW5nZShzZWxmLm9yaWdfc2hhcGVbMF0pOgogICAgICAgICAgICBybGRzdFtpICw6ICw6XSA9IHoK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCBhbmdsZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbWlzYy5yZXNpemVfdG9fc2hhcGUocmxkc3QsIHNlbGYub3JpZ19zaGFwZSkK</text>
+        <text encoding="base64">ICAgICAgICAjIHByaW50ICd6ICAnLCBucC5tYXgoeiksIG5wLm1pbih6KQoKICAgICAgICBmb3IgaSBpbiByYW5nZShzZWxmLm9yaWdfc2hhcGVbMF0pOgogICAgICAgICAgICBybGRzdFtpICw6ICw6XSA9IHoK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbWlzYy5yZXNpemVfdG9fc2hhcGUocmxkc3QsIHNlbGYub3JpZ19zaGFwZSkK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>symmetry_point</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>.</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>self</text>
       </register>
-      <register name="8" type="4">
-        <text>self.working_vs</text>
-      </register>
       <register name="9" type="4">
-        <text>orig_shape</text>
+        <text>self.working_vs</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
