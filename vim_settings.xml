@@ -140,13 +140,13 @@
         <mark key="." line="71" column="0" />
         <mark key="[" line="71" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" timestamp="1450174508734">
-        <mark key="'" line="17" column="19" />
+      <file name="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" timestamp="1453299078179">
+        <mark key="'" line="1204" column="12" />
         <mark key="a" line="17" column="7" />
-        <mark key="]" line="156" column="59" />
-        <mark key="^" line="156" column="59" />
-        <mark key="." line="156" column="59" />
-        <mark key="[" line="156" column="58" />
+        <mark key="]" line="209" column="49" />
+        <mark key="^" line="209" column="49" />
+        <mark key="." line="209" column="49" />
+        <mark key="[" line="209" column="37" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1452700391680">
         <mark key="b" line="247" column="13" />
@@ -350,14 +350,6 @@
         <mark key="." line="14" column="19" />
         <mark key="[" line="14" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/quantan/quantan/histology_analyser_gui.py" timestamp="1452185716020">
-        <mark key="b" line="119" column="61" />
-        <mark key="'" line="591" column="17" />
-        <mark key="]" line="595" column="0" />
-        <mark key="^" line="120" column="15" />
-        <mark key="." line="595" column="0" />
-        <mark key="[" line="595" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/lisa/lisa/delwriter.py" timestamp="1448829479942">
         <mark key="]" line="10" column="32" />
         <mark key="^" line="10" column="32" />
@@ -401,7 +393,7 @@
         <mark key="." line="168" column="119" />
         <mark key="[" line="169" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1453295790878">
+      <file name="/a.dummy" timestamp="1453299081067">
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -534,6 +526,12 @@
         <mark key="." line="61" column="18" />
         <mark key="[" line="58" column="50" />
       </file>
+      <file name="$USER_HOME$/projects/pysegbase/README.md" timestamp="1453298728483">
+        <mark key="]" line="99" column="18" />
+        <mark key="^" line="99" column="18" />
+        <mark key="." line="99" column="18" />
+        <mark key="[" line="99" column="17" />
+      </file>
       <file name="$USER_HOME$/projects/lisa/tests/vessels_segmentation_test.py" timestamp="1445339956308">
         <mark key="'" line="118" column="36" />
         <mark key="]" line="20" column="12" />
@@ -645,45 +643,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="843" column="8" filename="$USER_HOME$/projects/quantan/quantan/quantan.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/quantan/quantan/quantan.py" />
-      <jump line="402" column="8" filename="$USER_HOME$/projects/quantan/quantan/histology_analyser_gui.py" />
-      <jump line="384" column="40" filename="$USER_HOME$/projects/quantan/quantan/histology_analyser_gui.py" />
-      <jump line="241" column="8" filename="$USER_HOME$/projects/quantan/quantan/histology_analyser_gui.py" />
-      <jump line="328" column="8" filename="$USER_HOME$/projects/quantan/quantan/histology_analyser_gui.py" />
-      <jump line="375" column="37" filename="$USER_HOME$/projects/quantan/quantan/histology_analyser_gui.py" />
-      <jump line="383" column="38" filename="$USER_HOME$/projects/quantan/quantan/histology_analyser_gui.py" />
-      <jump line="423" column="125" filename="$USER_HOME$/projects/quantan/quantan/histology_analyser_gui.py" />
-      <jump line="119" column="61" filename="$USER_HOME$/projects/quantan/quantan/histology_analyser_gui.py" />
-      <jump line="894" column="4" filename="$USER_HOME$/projects/quantan/quantan/histology_analyser_gui.py" />
-      <jump line="55" column="37" filename="$USER_HOME$/projects/skelet3d/skelet3d/libfixer.py" />
-      <jump line="596" column="0" filename="$USER_HOME$/projects/quantan/quantan/histology_analyser_gui.py" />
-      <jump line="595" column="23" filename="$USER_HOME$/projects/quantan/quantan/histology_analyser_gui.py" />
-      <jump line="591" column="17" filename="$USER_HOME$/projects/quantan/quantan/histology_analyser_gui.py" />
-      <jump line="67" column="11" filename="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" />
-      <jump line="228" column="20" filename="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" />
-      <jump line="10" column="48" filename="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" />
-      <jump line="223" column="0" filename="$USER_HOME$/projects/lisa/lisa/liver_model.py" />
-      <jump line="29" column="22" filename="$USER_HOME$/projects/lisa/lisa/liver_model.py" />
-      <jump line="119" column="30" filename="$USER_HOME$/projects/lisa/lisa/liver_model.py" />
-      <jump line="141" column="18" filename="$USER_HOME$/projects/lisa/lisa/liver_model.py" />
-      <jump line="57" column="27" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
-      <jump line="19" column="0" filename="$USER_HOME$/projects/lisa/lisa/liver_seeds.py" />
-      <jump line="27" column="10" filename="$USER_HOME$/projects/lisa/lisa/liver_seeds.py" />
-      <jump line="25" column="26" filename="$USER_HOME$/projects/lisa/lisa/liver_seeds.py" />
-      <jump line="152" column="0" filename="$USER_HOME$/projects/lisa/lisa/liver_seeds.py" />
-      <jump line="566" column="8" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
-      <jump line="596" column="22" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
-      <jump line="417" column="50" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
-      <jump line="242" column="13" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
-      <jump line="245" column="37" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
-      <jump line="581" column="16" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
-      <jump line="449" column="29" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
-      <jump line="437" column="13" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
-      <jump line="460" column="13" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
-      <jump line="525" column="16" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
-      <jump line="140" column="8" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="247" column="13" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="182" column="8" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
       <jump line="32" column="8" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
@@ -735,55 +694,104 @@
       <jump line="181" column="49" filename="$USER_HOME$/projects/sed3/sed3/sed3.py" />
       <jump line="493" column="44" filename="$USER_HOME$/projects/sed3/sed3/sed3.py" />
       <jump line="494" column="15" filename="$USER_HOME$/projects/sed3/sed3/sed3.py" />
+      <jump line="928" column="8" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="1007" column="26" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="1112" column="16" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="1117" column="16" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="1203" column="12" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="1241" column="58" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="1265" column="24" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="1271" column="10" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="1286" column="10" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="1287" column="10" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="1288" column="10" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="1291" column="10" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="1292" column="10" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="1293" column="10" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="1313" column="10" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="1686" column="10" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="10" column="50" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="138" column="0" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="153" column="14" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="174" column="10" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="209" column="16" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="246" column="14" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="247" column="14" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="248" column="14" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="311" column="10" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="328" column="16" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="344" column="14" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="352" column="14" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="353" column="14" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="365" column="12" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="398" column="32" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="402" column="14" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="499" column="10" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="502" column="10" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="530" column="12" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="769" column="10" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="770" column="10" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="771" column="10" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="773" column="10" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="774" column="10" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="775" column="10" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="795" column="10" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="897" column="10" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="904" column="10" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="905" column="10" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="1008" column="26" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="1113" column="16" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="1118" column="16" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="1204" column="12" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
     </jumps>
     <registers>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGltZyA9IG5wLnplcm9zKFsxMCwgMTAsIDE1XSkKICAgIGltZ1s2OjksIDI6NywgMTo1XSA9IDEKICAgIGltZ1s3OjksIDM6OSwgODoxNF0gPSAyCg==</text>
+      <register name="3" type="4">
+        <text>#</text>
       </register>
       <register name="&quot;" type="4">
-        <text>warning</text>
+        <text>print</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGltZyA9IG5wLnplcm9zKFsxMCwgMTAsIDE1XSkKICAgIGltZ1s2OjksIDI6NywgMTo1XSA9IDEKICAgIGltZ1s3OjksIDM6OSwgODoxNF0gPSAyCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="1" type="4">
-        <text>warning</text>
+        <text>print</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IVtzZWRfc2NyZWVuc2hvdF0oaHR0cDovLzE0Ny4yMjguMjQwLjYxL3F1ZWV0ZWNoL3d3dy9zZWQzX3NjcmVlbnNob3QyLnBuZykK</text>
+        <text encoding="base64">ICAgIGltcG9ydCBweXNlZ2Jhc2UucHljdXQgYXMgcHNwYwo=</text>
       </register>
-      <register name="7" type="4">
-        <text>mode</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGltcG9ydCBweXNlZ2Jhc2UgYXMgcHNiCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGltZyA9IG5wLnplcm9zKFsxMCwgMTAsIDE1XSkK</text>
+      <register name="6" type="4">
+        <text>print</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">c3RhdGljIA==</text>
+        <text encoding="base64">cHJpbnQg</text>
       </register>
       <register name="4" type="4">
-        <text>figure</text>
+        <text>print</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">bG9jYWxpemF0b3Ig</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGltcG9ydCBudW1weSBhcyBucAogICAgaW1wb3J0IHB5c2VnX2Jhc2UgYXMgcHNiCiAgICAKICAgIGRhdGEgPSBucC5yYW5kb20ucmFuZCgzMCwgMzAsIDMwKQogICAgZGF0YVsxMDoyMCwgNToxNSwgMzoxM10gKz0gMQogICAgZGF0YSA9IGRhdGEgKiAzMAogICAgZGF0YSA9IGRhdGEuYXN0eXBlKG5wLmludDE2KQogICAgaWdjID0gcHNiLkltYWdlR3JhcGhDdXQoZGF0YSwgdm94ZWxzaXplPVsxLCAxLCAxXSkKICAgIGlnYy5pbnRlcmFjdGl2aXR5KCkK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">RGVidWcg</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="/" type="4">
-        <text>show_sl</text>
+        <text>&quot;seeds&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>warning</text>
+        <text>print</text>
       </register>
     </registers>
     <search>
-      <last-search>show_sl</last-search>
+      <last-search>&quot;seeds&quot;</last-search>
       <last-offset />
-      <last-pattern>show_sl</last-pattern>
+      <last-pattern>&quot;seeds&quot;</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -803,6 +811,8 @@
         <entry>slice</entry>
         <entry>slices</entry>
         <entry>show_sl</entry>
+        <entry>print</entry>
+        <entry>&quot;seeds&quot;</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
