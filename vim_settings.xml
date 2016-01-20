@@ -88,8 +88,8 @@
         <mark key="." line="27" column="46" />
         <mark key="[" line="27" column="46" />
       </file>
-      <file name="$USER_HOME$/projects/sed3/sed3/sed3.py" timestamp="1453292331947">
-        <mark key="'" line="745" column="23" />
+      <file name="$USER_HOME$/projects/sed3/sed3/sed3.py" timestamp="1453295976459">
+        <mark key="'" line="494" column="15" />
         <mark key="]" line="27" column="71" />
         <mark key="^" line="63" column="26" />
         <mark key="." line="27" column="71" />
@@ -730,6 +730,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
       <jump line="39" column="8" filename="$USER_HOME$/projects/lisa/lisa/training.py" />
       <jump line="19" column="27" filename="$USER_HOME$/projects/io3d/io3d/misc.py" />
+      <jump line="62" column="18" filename="$USER_HOME$/projects/sed3/sed3/sed3.py" />
+      <jump line="69" column="19" filename="$USER_HOME$/projects/sed3/sed3/sed3.py" />
+      <jump line="181" column="49" filename="$USER_HOME$/projects/sed3/sed3/sed3.py" />
+      <jump line="493" column="44" filename="$USER_HOME$/projects/sed3/sed3/sed3.py" />
+      <jump line="494" column="15" filename="$USER_HOME$/projects/sed3/sed3/sed3.py" />
     </jumps>
     <registers>
       <register name="3" type="2">
@@ -769,16 +774,16 @@
         <text encoding="base64">RGVidWcg</text>
       </register>
       <register name="/" type="4">
-        <text>gzip</text>
+        <text>show_sl</text>
       </register>
       <register name="-" type="4">
         <text>warning</text>
       </register>
     </registers>
     <search>
-      <last-search>gzip</last-search>
+      <last-search>show_sl</last-search>
       <last-offset />
-      <last-pattern>gzip</last-pattern>
+      <last-pattern>show_sl</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -795,6 +800,9 @@
         <entry>gzipp</entry>
         <entry>gzi</entry>
         <entry>gzip</entry>
+        <entry>slice</entry>
+        <entry>slices</entry>
+        <entry>show_sl</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
