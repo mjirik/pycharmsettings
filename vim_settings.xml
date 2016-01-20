@@ -30,7 +30,7 @@
         <mark key="^" line="88" column="52" />
         <mark key="." line="88" column="52" />
       </file>
-      <file name="/a.dummy" timestamp="1453333376362">
+      <file name="/a.dummy" timestamp="1453333446087">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -409,17 +409,17 @@
         <mark key="^" line="168" column="119" />
         <mark key="." line="168" column="119" />
       </file>
-      <file name="$USER_HOME$/projects/imtools/docs/conf.py" timestamp="1453333443613">
+      <file name="$USER_HOME$/projects/imtools/docs/conf.py" timestamp="1453333553558">
         <mark key="'" line="38" column="2" />
         <mark key="[" line="33" column="44" />
         <mark key="]" line="33" column="44" />
         <mark key="^" line="33" column="44" />
         <mark key="." line="33" column="44" />
       </file>
-      <file name="$USER_HOME$/projects/imtools/docs/pip_requirements.txt" timestamp="1453333136465">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/projects/imtools/docs/pip_requirements.txt" timestamp="1453333631287">
+        <mark key="]" line="0" column="3" />
+        <mark key="^" line="0" column="3" />
+        <mark key="." line="0" column="3" />
       </file>
       <file name="$USER_HOME$/projects/quaha/quaha/histology_report.py" timestamp="1445327745987">
         <mark key="[" line="15" column="0" />
@@ -648,7 +648,7 @@
         <mark key="]" line="92" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1453333376353">
+      <file name="/Dummy.txt" timestamp="1453333446078">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/io3d/io3d/misc.py" timestamp="1453295785375">
@@ -798,11 +798,11 @@
       <jump line="37" column="2" filename="$USER_HOME$/projects/imtools/docs/conf.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c2Npa2l0LWltYWdlCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bGlzYSA=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>skimage</text>
@@ -810,32 +810,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGltcG9ydCBweXNlZ2Jhc2UucHljdXQgYXMgcHNwYwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">c2Npa2l0LWltYWdlCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">bGlzYSA=</text>
+        <text>,</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">bGlzYSA=</text>
+        <text>'</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">bGlzYSA=</text>
+        <text>restoration</text>
       </register>
       <register name="5" type="4">
-        <text>lisa</text>
+        <text>.</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">bGlzYS5nZW5mZW1fYmFzZSBtb2R1bGUKLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KCi4uIGF1dG9tb2R1bGU6OiBsaXNhLmdlbmZlbV9iYXNlCiAgICA6bWVtYmVyczoKICAgIDp1bmRvYy1tZW1iZXJzOgogICAgOnNob3ctaW5oZXJpdGFuY2U6CgpsaXNhLmdlbl92b2x1bWVfdHJlZSBtb2R1bGUKLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCgouLiBhdXRvbW9kdWxlOjogbGlzYS5nZW5fdm9sdW1lX3RyZWUKICAgIDptZW1iZXJzOgogICAgOnVuZG9jLW1lbWJlcnM6CiAgICA6c2hvdy1pbmhlcml0YW5jZToKCmxpc2EuZ2VuX3Z0a190cmVlIG1vZHVsZQotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KCi4uIGF1dG9tb2R1bGU6OiBsaXNhLmdlbl92dGtfdHJlZQogICAgOm1lbWJlcnM6CiAgICA6dW5kb2MtbWVtYmVyczoKICAgIDpzaG93LWluaGVyaXRhbmNlOgoKbGlzYS5nZW9tZXRyeTNkIG1vZHVsZQotLS0tLS0tLS0tLS0tLS0tLS0tLS0tCgouLiBhdXRvbW9kdWxlOjogbGlzYS5nZW9tZXRyeTNkCiAgICA6bWVtYmVyczoKICAgIDp1bmRvYy1tZW1iZXJzOgogICAgOnNob3ctaW5oZXJpdGFuY2U6CiAgICAKbGlzYS5ndF9sYXJfa3VuZXMgbW9kdWxlCi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQoKLi4gYXV0b21vZHVsZTo6IGxpc2EuZ3RfbGFyX2t1bmVzCiAgICA6bWVtYmVyczoKICAgIDp1bmRvYy1tZW1iZXJzOgogICAgOnByaXZhdGUtbWVtYmVyczoKICAgIDpzaG93LWluaGVyaXRhbmNlOgoKbGlzYS5ndF9sYXIgbW9kdWxlCi0tLS0tLS0tLS0tLS0tLS0tLQoKLi4gYXV0b21vZHVsZTo6IGxpc2EuZ3RfbGFyCiAgICA6bWVtYmVyczoKICAgIDp1bmRvYy1tZW1iZXJzOgogICAgOnNob3ctaW5oZXJpdGFuY2U6CgpsaXNhLmd0X2xhcl9zbW9vdGggbW9kdWxlCi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KCi4uIGF1dG9tb2R1bGU6OiBsaXNhLmd0X2xhcl9zbW9vdGgKICAgIDptZW1iZXJzOgogICAgOnVuZG9jLW1lbWJlcnM6CiAgICA6c2hvdy1pbmhlcml0YW5jZToKICAgIApsaXNhLmhpc3RvbG9neV9hbmFseXNlcl9ndWkgbW9kdWxlCi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KCi4uIGF1dG9tb2R1bGU6OiBsaXNhLmhpc3RvbG9neV9hbmFseXNlcl9ndWkKICAgIDptZW1iZXJzOgogICAgOnVuZG9jLW1lbWJlcnM6CiAgICA6c2hvdy1pbmhlcml0YW5jZToKCmxpc2EuaGlzdG9sb2d5X2FuYWx5c2VyIG1vZHVsZQotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KCi4uIGF1dG9tb2R1bGU6OiBsaXNhLmhpc3RvbG9neV9hbmFseXNlcgogICAgOm1lbWJlcnM6CiAgICA6dW5kb2MtbWVtYmVyczoKICAgIDpzaG93LWluaGVyaXRhbmNlOgoKbGlzYS5oaXN0b2xvZ3lfcmVwb3J0IG1vZHVsZQotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCgouLiBhdXRvbW9kdWxlOjogbGlzYS5oaXN0b2xvZ3lfcmVwb3J0CiAgICA6bWVtYmVyczoKICAgIDp1bmRvYy1tZW1iZXJzOgogICAgOnNob3ctaW5oZXJpdGFuY2U6CgpsaXNhLmxlc2lvbnMgbW9kdWxlCi0tLS0tLS0tLS0tLS0tLS0tLS0KCi4uIGF1dG9tb2R1bGU6OiBsaXNhLmxlc2lvbnMKICAgIDptZW1iZXJzOgogICAgOnVuZG9jLW1lbWJlcnM6CiAgICA6c2hvdy1pbmhlcml0YW5jZToKICAgIApsaXNhLmxpc2Ffc2VydmVyIG1vZHVsZQotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQoKLi4gYXV0b21vZHVsZTo6IGxpc2EubGlzYV9zZXJ2ZXIKICAgIDptZW1iZXJzOgogICAgOnVuZG9jLW1lbWJlcnM6CiAgICA6c2hvdy1pbmhlcml0YW5jZToKCmxpc2EubGlzYVdpbmRvdyBtb2R1bGUKLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQoKLi4gYXV0b21vZHVsZTo6IGxpc2EubGlzYVdpbmRvdwogICAgOm1lbWJlcnM6CiAgICA6dW5kb2MtbWVtYmVyczoKICAgIDpzaG93LWluaGVyaXRhbmNlOgogICAgCmxpc2EubGl2ZXJfc2VnbWVudGF0aW9uIG1vZHVsZQotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KCi4uIGF1dG9tb2R1bGU6OiBsaXNhLmxpdmVyX3NlZ21lbnRhdGlvbgogICAgOm1lbWJlcnM6CiAgICA6dW5kb2MtbWVtYmVyczoKICAgIDpzaG93LWluaGVyaXRhbmNlOgoKbGlzYS5saXZlcl9zdXJnZXJ5IG1vZHVsZQotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCgouLiBhdXRvbW9kdWxlOjogbGlzYS5saXZlcl9zdXJnZXJ5CiAgICA6bWVtYmVyczoKICAgIDp1bmRvYy1tZW1iZXJzOgogICAgOnNob3ctaW5oZXJpdGFuY2U6CgpsaXNhLm1pc2MgbW9kdWxlCi0tLS0tLS0tLS0tLS0tLS0KCi4uIGF1dG9tb2R1bGU6OiBsaXNhLm1pc2MKICAgIDptZW1iZXJzOgogICAgOnVuZG9jLW1lbWJlcnM6CiAgICA6c2hvdy1pbmhlcml0YW5jZToKCmxpc2Eub3JnYW5fc2VnbWVudGF0aW9uIG1vZHVsZQotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KCi4uIGF1dG9tb2R1bGU6OiBsaXNhLm9yZ2FuX3NlZ21lbnRhdGlvbgogICAgOm1lbWJlcnM6CiAgICA6dW5kb2MtbWVtYmVyczoKICAgIDpzaG93LWluaGVyaXRhbmNlOgogICAgCmxpc2EuUGF2ZWxUZXN0aW5nTW9kdWxlIG1vZHVsZQotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KCi4uIGF1dG9tb2R1bGU6OiBsaXNhLlBhdmVsVGVzdGluZ01vZHVsZQogICAgOm1lbWJlcnM6CiAgICA6dW5kb2MtbWVtYmVyczoKICAgIDpzaG93LWluaGVyaXRhbmNlOgoKbGlzYS5wa2x6X2luZm8gbW9kdWxlCi0tLS0tLS0tLS0tLS0tLS0tLS0tLQoKLi4gYXV0b21vZHVsZTo6IGxpc2EucGtsel9pbmZvCiAgICA6bWVtYmVyczoKICAgIDp1bmRvYy1tZW1iZXJzOgogICAgOnNob3ctaW5oZXJpdGFuY2U6CgpsaXNhLnFtaXNjIG1vZHVsZQotLS0tLS0tLS0tLS0tLS0tLQoKLi4gYXV0b21vZHVsZTo6IGxpc2EucW1pc2MKICAgIDptZW1iZXJzOgogICAgOnVuZG9jLW1lbWJlcnM6CiAgICA6c2hvdy1pbmhlcml0YW5jZToKCmxpc2EucmVzZWN0aW9uIG1vZHVsZQotLS0tLS0tLS0tLS0tLS0tLS0tLS0KCi4uIGF1dG9tb2R1bGU6OiBsaXNhLnJlc2VjdGlvbgogICAgOm1lbWJlcnM6CiAgICA6dW5kb2MtbWVtYmVyczoKICAgIDpzaG93LWluaGVyaXRhbmNlOgoKbGlzYS5zZWcybWVzaCBtb2R1bGUKLS0tLS0tLS0tLS0tLS0tLS0tLS0KCi4uIGF1dG9tb2R1bGU6OiBsaXNhLnNlZzJtZXNoCiAgICA6bWVtYmVyczoKICAgIDp1bmRvYy1tZW1iZXJzOgogICAgOnNob3ctaW5oZXJpdGFuY2U6CgpsaXNhLnNlZ21lbnRhdGlvbiBtb2R1bGUKLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCgouLiBhdXRvbW9kdWxlOjogbGlzYS5zZWdtZW50YXRpb24KICAgIDptZW1iZXJzOgogICAgOnVuZG9jLW1lbWJlcnM6CiAgICA6c2hvdy1pbmhlcml0YW5jZToKCmxpc2Euc2hvd19kaWNvbV9vdmVybGF5IG1vZHVsZQotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KCi4uIGF1dG9tb2R1bGU6OiBsaXNhLnNob3dfZGljb21fb3ZlcmxheQogICAgOm1lbWJlcnM6CiAgICA6dW5kb2MtbWVtYmVyczoKICAgIDpzaG93LWluaGVyaXRhbmNlOgoKbGlzYS5zaG93X3NlZ21lbnRhdGlvbiBtb2R1bGUKLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KCi4uIGF1dG9tb2R1bGU6OiBsaXNhLnNob3dfc2VnbWVudGF0aW9uCiAgICA6bWVtYmVyczoKICAgIDp1bmRvYy1tZW1iZXJzOgogICAgOnNob3ctaW5oZXJpdGFuY2U6CgpsaXNhLnNpbXBsZV9zZWdtZW50YXRpb24gbW9kdWxlCi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KCi4uIGF1dG9tb2R1bGU6OiBsaXNhLnNpbXBsZV9zZWdtZW50YXRpb24KICAgIDptZW1iZXJzOgogICAgOnVuZG9jLW1lbWJlcnM6CiAgICA6c2hvdy1pbmhlcml0YW5jZToKCmxpc2Euc2tlbGV0b25fYW5hbHlzZXIgbW9kdWxlCi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCgouLiBhdXRvbW9kdWxlOjogbGlzYS5za2VsZXRvbl9hbmFseXNlcgogICAgOm1lbWJlcnM6CiAgICA6dW5kb2MtbWVtYmVyczoKICAgIDpwcml2YXRlLW1lbWJlcnM6CiAgICA6c2hvdy1pbmhlcml0YW5jZToKCmxpc2Euc3VwcG9ydF9zdHJ1Y3R1cmVfc2VnbWVudGF0aW9uIG1vZHVsZQotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KCi4uIGF1dG9tb2R1bGU6OiBsaXNhLnN1cHBvcnRfc3RydWN0dXJlX3NlZ21lbnRhdGlvbgogICAgOm1lbWJlcnM6CiAgICA6dW5kb2MtbWVtYmVyczoKICAgIDpzaG93LWluaGVyaXRhbmNlOgoKbGlzYS50ZXh0dXJlX2FuYWx5c2lzIG1vZHVsZQotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCgouLiBhdXRvbW9kdWxlOjogbGlzYS50ZXh0dXJlX2FuYWx5c2lzCiAgICA6bWVtYmVyczoKICAgIDp1bmRvYy1tZW1iZXJzOgogICAgOnNob3ctaW5oZXJpdGFuY2U6CgpsaXNhLnRleHR1cmVfZmVhdHVyZXMgbW9kdWxlCi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KCi4uIGF1dG9tb2R1bGU6OiBsaXNhLnRleHR1cmVfZmVhdHVyZXMKICAgIDptZW1iZXJzOgogICAgOnVuZG9jLW1lbWJlcnM6CiAgICA6c2hvdy1pbmhlcml0YW5jZToKCmxpc2EudGhyZXNob2xkaW5nX2Z1bmN0aW9ucyBtb2R1bGUKLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQoKLi4gYXV0b21vZHVsZTo6IGxpc2EudGhyZXNob2xkaW5nX2Z1bmN0aW9ucwogICAgOm1lbWJlcnM6CiAgICA6dW5kb2MtbWVtYmVyczoKICAgIDpzaG93LWluaGVyaXRhbmNlOgoKbGlzYS50b29scyBtb2R1bGUKLS0tLS0tLS0tLS0tLS0tLS0KCi4uIGF1dG9tb2R1bGU6OiBsaXNhLnRvb2xzCiAgICA6bWVtYmVyczoKICAgIDp1bmRvYy1tZW1iZXJzOgogICAgOnNob3ctaW5oZXJpdGFuY2U6CgpsaXNhLnVpVGhyZXNob2xkIG1vZHVsZQotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQoKLi4gYXV0b21vZHVsZTo6IGxpc2EudWlUaHJlc2hvbGQKICAgIDptZW1iZXJzOgogICAgOnVuZG9jLW1lbWJlcnM6CiAgICA6c2hvdy1pbmhlcml0YW5jZToKCmxpc2EudXBkYXRlX3N0YWJsZSBtb2R1bGUKLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQoKLi4gYXV0b21vZHVsZTo6IGxpc2EudXBkYXRlX3N0YWJsZQogICAgOm1lbWJlcnM6CiAgICA6dW5kb2MtbWVtYmVyczoKICAgIDpzaG93LWluaGVyaXRhbmNlOgoKbGlzYS52ZXNzZWxzX3NlZ21lbnRhdGlvbiBtb2R1bGUKLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KCi4uIGF1dG9tb2R1bGU6OiBsaXNhLnZlc3NlbHNfc2VnbWVudGF0aW9uCiAgICA6bWVtYmVyczoKICAgIDp1bmRvYy1tZW1iZXJzOgogICAgOnNob3ctaW5oZXJpdGFuY2U6CgpsaXNhLnZpZXdlcjMgbW9kdWxlCi0tLS0tLS0tLS0tLS0tLS0tLS0KCi4uIGF1dG9tb2R1bGU6OiBsaXNhLnZpZXdlcjMKICAgIDptZW1iZXJzOgogICAgOnVuZG9jLW1lbWJlcnM6CiAgICA6c2hvdy1pbmhlcml0YW5jZToKCmxpc2Eudmlld2VyIG1vZHVsZQotLS0tLS0tLS0tLS0tLS0tLS0KCi4uIGF1dG9tb2R1bGU6OiBsaXNhLnZpZXdlcgogICAgOm1lbWJlcnM6CiAgICA6dW5kb2MtbWVtYmVyczoKICAgIDpzaG93LWluaGVyaXRhbmNlOgoKbGlzYS52aXJ0dWFsX3Jlc2VjdGlvbiBtb2R1bGUKLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KCi4uIGF1dG9tb2R1bGU6OiBsaXNhLnZpcnR1YWxfcmVzZWN0aW9uCiAgICA6bWVtYmVyczoKICAgIDp1bmRvYy1tZW1iZXJzOgogICAgOnNob3ctaW5oZXJpdGFuY2U6CgpsaXNhLnZvbHVtZXRyeV9ldmFsdWF0aW9uIG1vZHVsZQotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQoKLi4gYXV0b21vZHVsZTo6IGxpc2Eudm9sdW1ldHJ5X2V2YWx1YXRpb24KICAgIDptZW1iZXJzOgogICAgOnVuZG9jLW1lbWJlcnM6CiAgICA6c2hvdy1pbmhlcml0YW5jZToK</text>
+      <register name="6" type="4">
+        <text>skimage</text>
       </register>
       <register name="7" type="4">
-        <text>a</text>
+        <text>'</text>
       </register>
       <register name="8" type="4">
-        <text>experiments</text>
+        <text>'</text>
       </register>
-      <register name="9" type="4">
-        <text>lisa</text>
+      <register name="9" type="2">
+        <text encoding="base64">c2Npa2l0LWltYWdlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
