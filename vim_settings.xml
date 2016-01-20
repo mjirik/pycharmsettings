@@ -9,9 +9,6 @@
         <mark key="." line="14" column="40" />
         <mark key="[" line="14" column="40" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/docs/lisa.extern.rst" timestamp="1444650677823">
-        <mark key="[" line="1" column="18" />
-      </file>
       <file name="$USER_HOME$/projects/pysegbase/setup.py" timestamp="1446724411661">
         <mark key="]" line="57" column="47" />
         <mark key="^" line="57" column="47" />
@@ -24,9 +21,6 @@
         <mark key="^" line="547" column="32" />
         <mark key="." line="547" column="32" />
         <mark key="[" line="547" column="30" />
-      </file>
-      <file name="/False" timestamp="1444651185027">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/quanta/requirements_pip.txt" timestamp="1446724903102">
         <mark key="]" line="4" column="1" />
@@ -94,9 +88,6 @@
         <mark key="." line="27" column="71" />
         <mark key="[" line="27" column="71" />
       </file>
-      <file name="/" timestamp="1444651185024">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/io3d/tests/dcmreaddata_test.py" timestamp="1446816832515">
         <mark key="'" line="0" column="0" />
         <mark key="]" line="327" column="85" />
@@ -130,9 +121,6 @@
         <mark key="^" line="502" column="16" />
         <mark key="." line="502" column="16" />
         <mark key="[" line="502" column="4" />
-      </file>
-      <file name="/Python Console" timestamp="1451856815633">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/quanta/setup.py" timestamp="1446640023460">
         <mark key="]" line="58" column="115" />
@@ -231,9 +219,6 @@
         <mark key="." line="96" column="79" />
         <mark key="[" line="96" column="79" />
       </file>
-      <file name="/start_script.py" timestamp="1449047976347">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/lisa/mysetup.py" timestamp="1448551743639">
         <mark key="'" line="471" column="14" />
         <mark key="]" line="478" column="34" />
@@ -251,9 +236,6 @@
         <mark key="^" line="128" column="20" />
         <mark key="." line="127" column="72" />
         <mark key="[" line="127" column="72" />
-      </file>
-      <file name="$USER_HOME$/projects/lisa/docs/index.rst" timestamp="1444650684200">
-        <mark key="[" line="6" column="31" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/training.py" timestamp="1453117814988">
         <mark key="'" line="38" column="8" />
@@ -290,6 +272,12 @@
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
         <mark key="[" line="40" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/sed3/README.md" timestamp="1453288465236">
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="15" column="39" />
+        <mark key="." line="16" column="0" />
+        <mark key="[" line="16" column="23" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/config_default.py" timestamp="1452692757460">
         <mark key="]" line="21" column="41" />
@@ -550,9 +538,6 @@
         <mark key="." line="29" column="0" />
         <mark key="[" line="346" column="0" />
       </file>
-      <file name="/None" timestamp="1444651185031">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/quanta/.travis.yml" timestamp="1446734696649">
         <mark key="'" line="40" column="43" />
         <mark key="]" line="24" column="40" />
@@ -648,9 +633,6 @@
         <mark key="." line="0" column="0" />
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="vim_settings.xml" timestamp="1449175692195">
-        <mark key="[" line="0" column="0" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="843" column="8" filename="$USER_HOME$/projects/quantan/quantan/quantan.py" />
@@ -740,31 +722,31 @@
     </jumps>
     <registers>
       <register name="3" type="4">
-        <text encoding="base64">bG9jYWxpemF0b3Ig</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>mode</text>
-      </register>
-      <register name="2" type="4">
         <text encoding="base64">RGVidWcg</text>
       </register>
-      <register name="1" type="4">
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGltZyA9IG5wLnplcm9zKFsxMCwgMTAsIDE1XSkK</text>
+      </register>
+      <register name="2" type="4">
         <text>mode</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGltZyA9IG5wLnplcm9zKFsxMCwgMTAsIDE1XSkK</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGlmIGFyZ3MubGl2ZXJfbG9jYWxpemF0b3Igb3IgYXJncy5hbGw6Cg==</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">RGVidWcg</text>
+        <text>mode</text>
       </register>
       <register name="6" type="4">
-        <text>mode</text>
+        <text>model</text>
       </register>
       <register name="5" type="4">
         <text>model</text>
       </register>
       <register name="4" type="4">
-        <text>model</text>
+        <text encoding="base64">bG9jYWxpemF0b3Ig</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -773,7 +755,7 @@
         <text>debug</text>
       </register>
       <register name="8" type="4">
-        <text>debug</text>
+        <text encoding="base64">RGVidWcg</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
