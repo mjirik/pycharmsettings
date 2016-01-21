@@ -25,7 +25,7 @@
         <mark key="^" line="88" column="52" />
         <mark key="." line="88" column="52" />
       </file>
-      <file name="/a.dummy" timestamp="1453369643565">
+      <file name="/a.dummy" timestamp="1453371723282">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/quanta/README.md" timestamp="1452510025795">
@@ -427,11 +427,11 @@
         <mark key="^" line="1" column="16" />
         <mark key="." line="3" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/imtools/imtools/misc.py" timestamp="1453370115561">
-        <mark key="[" line="20" column="66" />
-        <mark key="]" line="21" column="36" />
-        <mark key="." line="21" column="36" />
-        <mark key="^" line="21" column="36" />
+      <file name="$USER_HOME$/projects/imtools/imtools/misc.py" timestamp="1453371655481">
+        <mark key="[" line="217" column="0" />
+        <mark key="]" line="243" column="21" />
+        <mark key="." line="217" column="0" />
+        <mark key="^" line="216" column="0" />
       </file>
       <file name="$USER_HOME$/projects/lisa/meta.yaml" timestamp="1448367089215">
         <mark key="[" line="73" column="0" />
@@ -470,6 +470,13 @@
         <mark key="]" line="129" column="19" />
         <mark key="^" line="120" column="20" />
         <mark key="." line="129" column="19" />
+      </file>
+      <file name="$USER_HOME$/projects/imtools/imtools/qmisc.py" timestamp="1453372769423">
+        <mark key="'" line="106" column="23" />
+        <mark key="[" line="109" column="19" />
+        <mark key="]" line="109" column="45" />
+        <mark key="^" line="109" column="45" />
+        <mark key="." line="109" column="45" />
       </file>
       <file name="$USER_HOME$/projects/pyseg_base/tests/pycut_test.py" timestamp="1444664727080">
         <mark key="[" line="46" column="14" />
@@ -660,13 +667,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="335" column="42" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
-      <jump line="338" column="18" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
-      <jump line="352" column="6" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
-      <jump line="484" column="5" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
-      <jump line="145" column="29" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
-      <jump line="168" column="10" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
-      <jump line="337" column="10" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
       <jump line="344" column="18" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
       <jump line="348" column="18" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
       <jump line="362" column="6" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
@@ -760,55 +760,62 @@
       <jump line="1" column="0" filename="$USER_HOME$/projects/imtools/docs/imtools.rst" />
       <jump line="15" column="0" filename="$USER_HOME$/projects/imtools/docs/imtools.rst" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/imtools/docs/imtools.rst" />
+      <jump line="226" column="6" filename="$USER_HOME$/projects/imtools/imtools/qmisc.py" />
+      <jump line="165" column="4" filename="$USER_HOME$/projects/imtools/imtools/qmisc.py" />
+      <jump line="43" column="10" filename="$USER_HOME$/projects/imtools/imtools/qmisc.py" />
+      <jump line="51" column="51" filename="$USER_HOME$/projects/imtools/imtools/qmisc.py" />
+      <jump line="61" column="11" filename="$USER_HOME$/projects/imtools/imtools/qmisc.py" />
+      <jump line="71" column="88" filename="$USER_HOME$/projects/imtools/imtools/qmisc.py" />
+      <jump line="106" column="23" filename="$USER_HOME$/projects/imtools/imtools/qmisc.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEZvciBkZWJ1ZyB5b3UgY2FuIHNldCBhcyBpbnB1dCBpZiBmaWxlIGV4aXN0cyBvciBub3QuCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">YmluYXJ5IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZW5kIA==</text>
+        <text encoding="base64">YmluYXJ5IA==</text>
       </register>
       <register name="/" type="4">
-        <text>lisa</text>
+        <text>uncrop</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICMgQGF0dHIoJ2ludGVyYWN0aXZlJykK</text>
+        <text encoding="base64">ICAgIGltcG9ydCBtaXNjCiAgICByZXR1cm4gbWlzYy5yZXNpemVfdG9fc2hhcGUoKnBhcnMsICoqcGFyYW1zKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIEZvciBkZWJ1ZyB5b3UgY2FuIHNldCBhcyBpbnB1dCBpZiBmaWxlIGV4aXN0cyBvciBub3QuCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">YmluYXJ5IA==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ZW5kIA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>If the path exist</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGlmIG5ld192b3hlbHNpemVfbW0gPT0gJ29yaWcnOgogICAgICAgIG5ld192b3hlbHNpemVfbW0gPSBucC5hcnJheSh2b3hlbHNpemVfbW0pCgogICAgZWxpZiBuZXdfdm94ZWxzaXplX21tID09ICdvcmlnKjInOgogICAgICAgIG5ld192b3hlbHNpemVfbW0gPSBucC5hcnJheSh2b3hlbHNpemVfbW0pICogMgogICAgZWxpZiBuZXdfdm94ZWxzaXplX21tID09ICdvcmlnKjQnOgogICAgICAgIG5ld192b3hlbHNpemVfbW0gPSBucC5hcnJheSh2b3hlbHNpemVfbW0pICogNAogICAgICAgICMgdnhfc2l6ZSA9IG5wLmFycmF5KG1ldGFkYXRhWyd2b3hlbHNpemVfbW0nXSkgKiA0CgogICAgem9vbSA9IHZveGVsc2l6ZV9tbSAvICgxLjAgKiBucC5hcnJheShuZXdfdm94ZWxzaXplX21tKSkKICAgIGRhdGEzZF9yZXMgPSBzY2lweS5uZGltYWdlLnpvb20oCiAgICAgICAgZGF0YTNkLAogICAgICAgIHpvb20sCiAgICAgICAgbW9kZT1tb2RlLAogICAgICAgIG9yZGVyPTEKICAgICkuYXN0eXBlKGRhdGEzZC5kdHlwZSkKICAgIHJldHVybiBkYXRhM2RfcmVzCg==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+        <text>e</text>
       </register>
       <register name="5" type="4">
-        <text>y</text>
+        <text>p</text>
       </register>
       <register name="6" type="4">
-        <text>r</text>
+        <text>a</text>
       </register>
       <register name="7" type="4">
-        <text>T</text>
+        <text>h</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW10b29scy51aVRocmVzaG9sZCBtb2R1bGUKLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCgouLiBhdXRvbW9kdWxlOjogaW10b29scy51aVRocmVzaG9sZAogICAgOm1lbWJlcnM6CiAgICA6dW5kb2MtbWVtYmVyczoKICAgIDpzaG93LWluaGVyaXRhbmNlOgo=</text>
+      <register name="8" type="4">
+        <text>s</text>
       </register>
-      <register name="9" type="4">
-        <text>lisa</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICIiIgogICAgRnVuY3Rpb24gY2FuIHJlc2l6ZSBkYXRhM2Qgb3Igc2VnbWVudGF0aW9uIHRvIHNwZWNpZmVkIHZveGVsc2l6ZV9tbQogICAgOm5ld192b3hlbHNpemVfbW06IHJlcXVlc3RlZCB2b3hlbHNpemUuIExpc3Qgb2YgMyBudW1iZXJzLCBhbHNvIAogICAgICAgIGNhbiBiZSBhIHN0cmluZyAnb3JpZycsICdvcmdpKjInIGFuZCAnb3JnaSo0Jy4KICAgICAgICAKICAgIDp2b3hlbHNpemVfbW06IHNpemUgb2Ygdm94ZWwKICAgIDptb2RlOiBkZWZhdWx0IGlzICduZWFyZXN0JwogICAgIiIiCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>lisa</last-search>
+      <last-search>uncrop</last-search>
       <last-offset />
-      <last-pattern>lisa</last-pattern>
+      <last-pattern>uncrop</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -825,6 +832,8 @@
         <entry>imtool</entry>
         <entry>skimage</entry>
         <entry>lisa</entry>
+        <entry>crop</entry>
+        <entry>uncrop</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
