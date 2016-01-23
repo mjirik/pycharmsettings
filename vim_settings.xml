@@ -25,7 +25,7 @@
         <mark key="^" line="88" column="52" />
         <mark key="." line="88" column="52" />
       </file>
-      <file name="/a.dummy" timestamp="1453371723282">
+      <file name="/a.dummy" timestamp="1453375429861">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/quanta/README.md" timestamp="1452510025795">
@@ -142,10 +142,10 @@
         <mark key="." line="20" column="12" />
       </file>
       <file name="$USER_HOME$/projects/pysegbase/setup.py" timestamp="1446724411661">
-        <mark key="[" line="57" column="39" />
-        <mark key="]" line="57" column="47" />
-        <mark key="^" line="57" column="47" />
-        <mark key="." line="57" column="47" />
+        <mark key="[" line="55" column="39" />
+        <mark key="]" line="55" column="47" />
+        <mark key="^" line="55" column="47" />
+        <mark key="." line="55" column="47" />
       </file>
       <file name="/" timestamp="1444651185024">
         <mark key="[" line="0" column="0" />
@@ -446,13 +446,13 @@
         <mark key="^" line="44" column="50" />
         <mark key="." line="44" column="50" />
       </file>
-      <file name="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" timestamp="1453299078179">
-        <mark key="a" line="17" column="7" />
-        <mark key="'" line="1204" column="12" />
-        <mark key="[" line="209" column="37" />
-        <mark key="]" line="209" column="49" />
-        <mark key="^" line="209" column="49" />
-        <mark key="." line="209" column="49" />
+      <file name="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" timestamp="1453567440715">
+        <mark key="a" line="1110" column="47" />
+        <mark key="'" line="162" column="23" />
+        <mark key="[" line="1110" column="50" />
+        <mark key="]" line="1110" column="62" />
+        <mark key="^" line="1110" column="62" />
+        <mark key="." line="1110" column="62" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/vesseltree_export.py" timestamp="1445327936618">
         <mark key="'" line="88" column="42" />
@@ -505,13 +505,6 @@
         <mark key="]" line="22" column="68" />
         <mark key="^" line="22" column="68" />
         <mark key="." line="22" column="68" />
-      </file>
-      <file name="$USER_HOME$/projects/pysegbase/tests/pycut_test.py" timestamp="1449596316224">
-        <mark key="'" line="91" column="29" />
-        <mark key="[" line="164" column="36" />
-        <mark key="]" line="165" column="7" />
-        <mark key="^" line="165" column="7" />
-        <mark key="." line="165" column="7" />
       </file>
       <file name="$USER_HOME$/projects/imtools/requirements_conda.txt" timestamp="1445340490067">
         <mark key="[" line="5" column="6" />
@@ -667,7 +660,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="344" column="18" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
       <jump line="348" column="18" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
       <jump line="362" column="6" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
       <jump line="407" column="8" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
@@ -767,46 +759,47 @@
       <jump line="61" column="11" filename="$USER_HOME$/projects/imtools/imtools/qmisc.py" />
       <jump line="71" column="88" filename="$USER_HOME$/projects/imtools/imtools/qmisc.py" />
       <jump line="106" column="23" filename="$USER_HOME$/projects/imtools/imtools/qmisc.py" />
+      <jump line="162" column="23" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">YmluYXJ5IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGRhdGExID0gdGRhdGExICogc2VsZi5hcHJpb3JpCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YmluYXJ5IA==</text>
+        <text>apriori</text>
       </register>
       <register name="/" type="4">
         <text>uncrop</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBtaXNjCiAgICByZXR1cm4gbWlzYy5yZXNpemVfdG9fc2hhcGUoKnBhcnMsICoqcGFyYW1zKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGRhdGExID0gdGRhdGExICogc2VsZi5hcHJpb3JpCg==</text>
       </register>
       <register name="1" type="4">
+        <text>apriori</text>
+      </register>
+      <register name="2" type="4">
+        <text>None</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">YmluYXJ5IA==</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIGlmIG5ld192b3hlbHNpemVfbW0gPT0gJ29yaWcnOgogICAgICAgIG5ld192b3hlbHNpemVfbW0gPSBucC5hcnJheSh2b3hlbHNpemVfbW0pCgogICAgZWxpZiBuZXdfdm94ZWxzaXplX21tID09ICdvcmlnKjInOgogICAgICAgIG5ld192b3hlbHNpemVfbW0gPSBucC5hcnJheSh2b3hlbHNpemVfbW0pICogMgogICAgZWxpZiBuZXdfdm94ZWxzaXplX21tID09ICdvcmlnKjQnOgogICAgICAgIG5ld192b3hlbHNpemVfbW0gPSBucC5hcnJheSh2b3hlbHNpemVfbW0pICogNAogICAgICAgICMgdnhfc2l6ZSA9IG5wLmFycmF5KG1ldGFkYXRhWyd2b3hlbHNpemVfbW0nXSkgKiA0CgogICAgem9vbSA9IHZveGVsc2l6ZV9tbSAvICgxLjAgKiBucC5hcnJheShuZXdfdm94ZWxzaXplX21tKSkKICAgIGRhdGEzZF9yZXMgPSBzY2lweS5uZGltYWdlLnpvb20oCiAgICAgICAgZGF0YTNkLAogICAgICAgIHpvb20sCiAgICAgICAgbW9kZT1tb2RlLAogICAgICAgIG9yZGVyPTEKICAgICkuYXN0eXBlKGRhdGEzZC5kdHlwZSkKICAgIHJldHVybiBkYXRhM2RfcmVzCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>e</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>p</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>a</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>h</text>
-      </register>
-      <register name="8" type="4">
-        <text>s</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICIiIgogICAgRnVuY3Rpb24gY2FuIHJlc2l6ZSBkYXRhM2Qgb3Igc2VnbWVudGF0aW9uIHRvIHNwZWNpZmVkIHZveGVsc2l6ZV9tbQogICAgOm5ld192b3hlbHNpemVfbW06IHJlcXVlc3RlZCB2b3hlbHNpemUuIExpc3Qgb2YgMyBudW1iZXJzLCBhbHNvIAogICAgICAgIGNhbiBiZSBhIHN0cmluZyAnb3JpZycsICdvcmdpKjInIGFuZCAnb3JnaSo0Jy4KICAgICAgICAKICAgIDp2b3hlbHNpemVfbW06IHNpemUgb2Ygdm94ZWwKICAgIDptb2RlOiBkZWZhdWx0IGlzICduZWFyZXN0JwogICAgIiIiCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
