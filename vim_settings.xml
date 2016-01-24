@@ -475,13 +475,13 @@
         <mark key="^" line="44" column="50" />
         <mark key="." line="44" column="50" />
       </file>
-      <file name="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" timestamp="1453648982846">
+      <file name="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" timestamp="1453651853246">
         <mark key="a" line="17" column="7" />
         <mark key="'" line="508" column="13" />
-        <mark key="[" line="1130" column="13" />
-        <mark key="]" line="1130" column="14" />
+        <mark key="[" line="1132" column="28" />
+        <mark key="]" line="1132" column="29" />
         <mark key="^" line="1132" column="33" />
-        <mark key="." line="1130" column="14" />
+        <mark key="." line="1132" column="29" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/vesseltree_export.py" timestamp="1445327936618">
         <mark key="'" line="88" column="42" />
@@ -857,7 +857,7 @@
         <text>apriori</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -890,11 +890,11 @@
         <entry>apriori</entry>
       </history-search>
       <history-cmd>
-        <entry>q</entry>
         <entry>291</entry>
         <entry>592</entry>
         <entry>270</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
