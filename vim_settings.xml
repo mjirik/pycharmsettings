@@ -27,7 +27,7 @@
         <mark key="^" line="88" column="52" />
         <mark key="." line="88" column="52" />
       </file>
-      <file name="/a.dummy" timestamp="1453654488349">
+      <file name="/a.dummy" timestamp="1453663978575">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -460,13 +460,13 @@
         <mark key="^" line="44" column="50" />
         <mark key="." line="44" column="50" />
       </file>
-      <file name="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" timestamp="1453654457042">
+      <file name="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" timestamp="1453664026754">
         <mark key="a" line="17" column="7" />
         <mark key="'" line="162" column="8" />
-        <mark key="[" line="1124" column="0" />
-        <mark key="]" line="1125" column="29" />
-        <mark key="." line="1125" column="29" />
-        <mark key="^" line="1125" column="29" />
+        <mark key="[" line="1129" column="27" />
+        <mark key="]" line="1129" column="32" />
+        <mark key="." line="1129" column="32" />
+        <mark key="^" line="1129" column="32" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/vesseltree_export.py" timestamp="1445327936618">
         <mark key="'" line="88" column="42" />
@@ -790,11 +790,11 @@
       <jump line="335" column="21" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjIGFzcwo=</text>
+      <register name="&quot;" type="4">
+        <text>y</text>
       </register>
       <register name="-" type="4">
-        <text>ubfirnatuib</text>
+        <text>y</text>
       </register>
       <register name="/" type="4">
         <text>ipdb</text>
@@ -802,32 +802,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZHR5cGUgPSBucC5mbG9hdDMyCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIGFzcwo=</text>
+      <register name="1" type="4">
+        <text>y</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIHJvbSBQeVF0NC5RdENvcmUgaW1wb3J0IHB5cXRSZW1vdmVJbnB1dEhvb2sKICAgICAgICAjIHlxdFJlbW92ZUlucHV0SG9vaygpCiAgICAgICAgIyBtcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpICMgQlJFQUtQT0lOVAo=</text>
+      <register name="2" type="4">
+        <text>n</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIGZyb20gUHlRdDQuUXRDb3JlIGltcG9ydCBweXF0UmVtb3ZlSW5wdXRIb29rCiAgICAgICAgIyBweXF0UmVtb3ZlSW5wdXRIb29rKCkKICAgICAgICAjIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpICMgIG5vcWEgQlJFQUtQT0lOVAo=</text>
+      <register name="3" type="4">
+        <text>a</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZHR5cGUgPSAKICAgICAgICBkdHlwZSA9IHRkYXRhMS5kdHlwZQo=</text>
+      <register name="4" type="4">
+        <text>y</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkdHlwZSA9IG5wLmZsb2F0MzIK</text>
+      <register name="5" type="4">
+        <text>n</text>
       </register>
       <register name="6" type="4">
-        <text>ubfirnatuib</text>
+        <text>a</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFwcmlvcmlfZ2FtbWE6IGluZmx1ZW5jZSBvZiBhcHJpb3J5IGluZm9ybWF0aW9uLiAwIG1lYW5zIG5vIGluZmx1ZW5jZSwgMS4wIGlzIDEwMCUgdXNlIG9mCiAgICAgICAgICAgICAgICBhcHJpb3JpIHViZmlybmF0dWliCg==</text>
+        <text encoding="base64">ICAgICAgICAjIGFzcwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IFB5UXQ0OyBQeVF0NC5RdENvcmUucHlxdFJlbW92ZUlucHV0SG9vaygpCiAgICAgICAgICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAjIHJvbSBQeVF0NC5RdENvcmUgaW1wb3J0IHB5cXRSZW1vdmVJbnB1dEhvb2sKICAgICAgICAjIHlxdFJlbW92ZUlucHV0SG9vaygpCiAgICAgICAgIyBtcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpICMgQlJFQUtQT0lOVAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IFB5UXQ0OyBQeVF0NC5RdENvcmUucHlxdFJlbW92ZUlucHV0SG9vaygpCiAgICAgICAgICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAjIGZyb20gUHlRdDQuUXRDb3JlIGltcG9ydCBweXF0UmVtb3ZlSW5wdXRIb29rCiAgICAgICAgIyBweXF0UmVtb3ZlSW5wdXRIb29rKCkKICAgICAgICAjIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpICMgIG5vcWEgQlJFQUtQT0lOVAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
