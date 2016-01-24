@@ -75,12 +75,12 @@
         <mark key="^" line="722" column="35" />
         <mark key="." line="722" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1453590820779">
-        <mark key="'" line="317" column="21" />
-        <mark key="[" line="627" column="13" />
-        <mark key="]" line="628" column="33" />
-        <mark key="^" line="628" column="33" />
-        <mark key="." line="628" column="33" />
+      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1453616607284">
+        <mark key="'" line="628" column="27" />
+        <mark key="[" line="951" column="45" />
+        <mark key="]" line="951" column="45" />
+        <mark key="^" line="951" column="45" />
+        <mark key="." line="951" column="45" />
       </file>
       <file name="/False" timestamp="1444651185027">
         <mark key="[" line="0" column="0" />
@@ -91,13 +91,13 @@
         <mark key="^" line="40" column="23" />
         <mark key="." line="38" column="69" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1452700296229">
+      <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1453616298129">
         <mark key="a" line="475" column="8" />
-        <mark key="'" line="460" column="13" />
-        <mark key="[" line="91" column="67" />
-        <mark key="]" line="91" column="77" />
-        <mark key="^" line="91" column="77" />
-        <mark key="." line="91" column="77" />
+        <mark key="'" line="360" column="11" />
+        <mark key="[" line="360" column="11" />
+        <mark key="]" line="360" column="12" />
+        <mark key="^" line="360" column="12" />
+        <mark key="." line="360" column="12" />
       </file>
       <file name="$USER_HOME$/projects/lisa/tests/liver_segmentation_cerveny_test.py" timestamp="1449487905152">
         <mark key="[" line="30" column="23" />
@@ -716,15 +716,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="361" column="6" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
-      <jump line="406" column="8" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
-      <jump line="504" column="5" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
-      <jump line="132" column="10" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
-      <jump line="167" column="10" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
-      <jump line="336" column="10" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
-      <jump line="343" column="18" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
-      <jump line="346" column="18" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
-      <jump line="249" column="33" filename="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" />
       <jump line="153" column="27" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
       <jump line="39" column="8" filename="$USER_HOME$/projects/lisa/lisa/training.py" />
@@ -816,37 +807,46 @@
       <jump line="948" column="19" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="1415" column="15" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="317" column="21" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="478" column="23" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="505" column="26" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="557" column="12" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="589" column="12" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="29" column="9" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="88" column="38" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="354" column="29" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="360" column="11" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="628" column="27" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICApCg==</text>
+      <register name="&quot;" type="4">
+        <text>a</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c2l6ZSA=</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhdXRvbWF0aWNfbGl2ZXJfc2VlZHNcPg==</text>
+        <text encoding="base64">XDxhcHJpb3JpXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRzdGRpciA9ICcnCiAgICB0cnk6CiAgICAgICAgaW1wb3J0IHN1YnByb2Nlc3MKICAgICAgICBpbXBvcnQgcmUKICAgICAgICAjIGNvbmQgaW5mbyAtLXJvb3Qgd29yayBvbmx5IGZvciByb290IGVudmlyb25tZW50CiAgICAgICAgIyBwID0gc3VicHJvY2Vzcy5Qb3BlbihbJ2NvbmRhJywgJ2luZm8nLCAnLS1yb290J10sIHN0ZG91dD1zdWJwcm9jZXNzLlBJUEUsICBzdGRlcnI9c3VicHJvY2Vzcy5QSVBFKQogICAgICAgIHAgPSBzdWJwcm9jZXNzLlBvcGVuKFsnY29uZGEnLCAnaW5mbycsICctZSddLCBzdGRvdXQ9c3VicHJvY2Vzcy5QSVBFLCAgc3RkZXJyPXN1YnByb2Nlc3MuUElQRSkKICAgICAgICBvdXQsIGVyciA9IHAuY29tbXVuaWNhdGUoKQoKICAgICAgICBkc3RkaXIgPSBvdXQuc3RyaXAoKQogICAgICAgIGRzdGRpciA9IHJlLnNlYXJjaCgiXCooLiopXG4iLCBkc3RkaXIpLmdyb3VwKDEpLnN0cmlwKCkKICAgIGV4Y2VwdDoKICAgICAgICBpbXBvcnQgdHJhY2ViYWNrCiAgICAgICAgdHJhY2ViYWNrLnByaW50X2V4YygpCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICApCg==</text>
+      <register name="1" type="4">
+        <text>a</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICApCg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">c2l6ZSAK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">c2l6ZSA=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>g</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">aW10b29scy51aVRocmVzaG9sZCBtb2R1bGUKLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCgouLiBhdXRvbW9kdWxlOjogaW10b29scy51aVRocmVzaG9sZAogICAgOm1lbWJlcnM6CiAgICA6dW5kb2MtbWVtYmVyczoKICAgIDpzaG93LWluaGVyaXRhbmNlOgo=</text>
-      </register>
-      <register name="6" type="4">
-        <text>lisa</text>
       </register>
       <register name="7" type="4">
         <text>lisa</text>
@@ -855,16 +855,16 @@
         <text>lisa</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">bGlzYSA=</text>
+        <text>lisa</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhdXRvbWF0aWNfbGl2ZXJfc2VlZHNcPg==</last-search>
+      <last-search encoding="base64">XDxhcHJpb3JpXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhdXRvbWF0aWNfbGl2ZXJfc2VlZHNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxhcHJpb3JpXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -886,6 +886,9 @@
         <entry>apriori</entry>
         <entry encoding="base64">XDxfX2ltcG9ydF9kYXRhcGx1c19zZWVkc1w+</entry>
         <entry encoding="base64">XDxhdXRvbWF0aWNfbGl2ZXJfc2VlZHNcPg==</entry>
+        <entry>app</entry>
+        <entry>sed3q</entry>
+        <entry encoding="base64">XDxhcHJpb3JpXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
