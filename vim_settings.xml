@@ -475,12 +475,13 @@
         <mark key="^" line="44" column="50" />
         <mark key="." line="44" column="50" />
       </file>
-      <file name="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" timestamp="1453619090637">
+      <file name="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" timestamp="1453648982846">
         <mark key="a" line="17" column="7" />
         <mark key="'" line="508" column="13" />
-        <mark key="[" line="1126" column="0" />
-        <mark key="]" line="1126" column="0" />
-        <mark key="." line="1126" column="0" />
+        <mark key="[" line="1130" column="13" />
+        <mark key="]" line="1130" column="14" />
+        <mark key="^" line="1132" column="33" />
+        <mark key="." line="1130" column="14" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/vesseltree_export.py" timestamp="1445327936618">
         <mark key="'" line="88" column="42" />
@@ -817,43 +818,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYTEgPSAoMSAtIGdhbW1hKSArIGdhbW1hICogKDEgLSBzZWxmLmFwcmlvcmkpCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>apriori</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmLnNlZWRzIGlzIG5vdCBOb25lOgogICAgICAgICAgICBzZWVkc19yZXMgPSBtaXNjLnJlc2l6ZV90b19zaGFwZSgKICAgICAgICAgICAgIyBzZWVkc19yZXMgPSBzY2lweS5uZGltYWdlLnpvb20oCiAgICAgICAgICAgICAgICBzZWxmLnNlZWRzLAogICAgICAgICAgICAgICAgZGF0YTNkX3Jlcy5zaGFwZSwKICAgICAgICAgICAgICAgIG1vZGU9J25lYXJlc3QnLAogICAgICAgICAgICAgICAgb3JkZXI9MAogICAgICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IFB5UXQ0OyBQeVF0NC5RdENvcmUucHlxdFJlbW92ZUlucHV0SG9vaygpCiAgICAgICAgICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYTEgPSAoMSAtIGdhbW1hKSArIGdhbW1hICogKDEgLSBzZWxmLmFwcmlvcmkpCg==</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="3" type="4">
-        <text>-</text>
+        <text>apriori</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="5" type="4">
-        <text>1</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgUHlRdDQ7IFB5UXQ0LlF0Q29yZS5weXF0UmVtb3ZlSW5wdXRIb29rKCkKICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgUHlRdDQ7IFB5UXQ0LlF0Q29yZS5weXF0UmVtb3ZlSW5wdXRIb29rKCkKICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
-      </register>
-      <register name="8" type="4">
         <text>.</text>
       </register>
-      <register name="9" type="4">
+      <register name="5" type="4">
         <text>self</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">LSA=</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">MSA=</text>
+      </register>
+      <register name="8" type="4">
+        <text>(</text>
+      </register>
+      <register name="9" type="4">
+        <text>apriori</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
