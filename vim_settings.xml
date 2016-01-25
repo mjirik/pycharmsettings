@@ -27,7 +27,7 @@
         <mark key="^" line="88" column="52" />
         <mark key="." line="88" column="52" />
       </file>
-      <file name="/a.dummy" timestamp="1453664188874">
+      <file name="/a.dummy" timestamp="1453723907744">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -72,12 +72,12 @@
         <mark key="^" line="722" column="35" />
         <mark key="." line="722" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1453723903766">
-        <mark key="'" line="250" column="13" />
-        <mark key="[" line="928" column="23" />
-        <mark key="]" line="928" column="29" />
-        <mark key="." line="928" column="29" />
-        <mark key="^" line="928" column="29" />
+      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1453724729566">
+        <mark key="'" line="962" column="36" />
+        <mark key="[" line="532" column="67" />
+        <mark key="]" line="534" column="3" />
+        <mark key="." line="534" column="3" />
+        <mark key="^" line="534" column="3" />
       </file>
       <file name="$USER_HOME$/projects/sed3/README.md" timestamp="1453293282274">
         <mark key="[" line="38" column="68" />
@@ -689,9 +689,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1271" column="10" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="1286" column="10" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="1287" column="10" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
       <jump line="1288" column="10" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
       <jump line="1291" column="10" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
       <jump line="1292" column="10" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
@@ -789,43 +786,46 @@
       <jump line="754" column="0" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="822" column="0" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="335" column="21" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="487" column="8" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="960" column="8" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="961" column="36" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>self.data3d.shape, dtype=np.int8)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgCg==</text>
       </register>
       <register name="-" type="4">
         <text>self.data3d.shape, dtype=np.int8)</text>
       </register>
       <register name="/" type="4">
-        <text>ipdb</text>
+        <text encoding="base64">XDxhdXRvbWF0aWNfbGl2ZXJfc2VlZHNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoJ3NlZ21lbnRhdGlvbicgaW4gZHBrZXlzKSBhbmQgZGF0YXBbJ3NlZ21lbnRhdGlvbiddIGlzIG5vdCBOb25lOgogICAgICAgICAgICBzZWxmLnNlZ21lbnRhdGlvbiA9IGRhdGFwWydzZWdtZW50YXRpb24nXQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHNlbGYuc2VnbWVudGF0aW9uID0gbnAuemVyb3Moc2VsZi5kYXRhM2Quc2hhcGUsIGR0eXBlPW5wLmludDgpCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>self.data3d.shape, dtype=np.int8)</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgCg==</text>
       </register>
       <register name="2" type="4">
-        <text>(</text>
+        <text>self.data3d.shape, dtype=np.int8)</text>
       </register>
       <register name="3" type="4">
-        <text>zeros</text>
+        <text>(</text>
       </register>
       <register name="4" type="4">
-        <text>.</text>
+        <text>zeros</text>
       </register>
       <register name="5" type="4">
-        <text>np</text>
+        <text>.</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">c2VnbWVudGF0aW9uIA==</text>
+        <text>np</text>
       </register>
       <register name="7" type="4">
         <text encoding="base64">c2VnbWVudGF0aW9uIA==</text>
       </register>
       <register name="8" type="4">
-        <text>segmentation</text>
+        <text encoding="base64">c2VnbWVudGF0aW9uIA==</text>
       </register>
       <register name="9" type="4">
         <text>segmentation</text>
@@ -835,15 +835,14 @@
       </register>
     </registers>
     <search>
-      <last-search>ipdb</last-search>
+      <last-search encoding="base64">XDxhdXRvbWF0aWNfbGl2ZXJfc2VlZHNcPg==</last-search>
       <last-offset />
-      <last-pattern>ipdb</last-pattern>
+      <last-pattern encoding="base64">XDxhdXRvbWF0aWNfbGl2ZXJfc2VlZHNcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>segmentation</entry>
         <entry>uiT</entry>
         <entry>uiThr</entry>
         <entry>vess</entry>
@@ -855,7 +854,6 @@
         <entry>crop</entry>
         <entry>uncrop</entry>
         <entry encoding="base64">XDxfX2ltcG9ydF9kYXRhcGx1c19zZWVkc1w+</entry>
-        <entry encoding="base64">XDxhdXRvbWF0aWNfbGl2ZXJfc2VlZHNcPg==</entry>
         <entry>app</entry>
         <entry>sed3q</entry>
         <entry encoding="base64">XDxhcHJpb3JpXD4=</entry>
@@ -863,6 +861,8 @@
         <entry>self.like</entry>
         <entry encoding="base64">XDxsaWtlbGlob29kX2Zyb21faW1hZ2VcPg==</entry>
         <entry>ipdb</entry>
+        <entry>after</entry>
+        <entry encoding="base64">XDxhdXRvbWF0aWNfbGl2ZXJfc2VlZHNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>291</entry>
@@ -929,6 +929,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
