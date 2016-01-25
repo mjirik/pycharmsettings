@@ -72,11 +72,12 @@
         <mark key="^" line="722" column="35" />
         <mark key="." line="722" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1453664186071">
+      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1453723903766">
         <mark key="'" line="250" column="13" />
-        <mark key="[" line="634" column="0" />
-        <mark key="]" line="634" column="0" />
-        <mark key="." line="634" column="0" />
+        <mark key="[" line="928" column="23" />
+        <mark key="]" line="928" column="29" />
+        <mark key="." line="928" column="29" />
+        <mark key="^" line="928" column="29" />
       </file>
       <file name="$USER_HOME$/projects/sed3/README.md" timestamp="1453293282274">
         <mark key="[" line="38" column="68" />
@@ -790,44 +791,44 @@
       <jump line="335" column="21" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjIHRvZG8gcmVtb3ZlIDEgLQogICAgICAgIGltcG9ydCBQeVF0NDsgUHlRdDQuUXRDb3JlLnB5cXRSZW1vdmVJbnB1dEhvb2soKQogICAgICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
+      <register name="&quot;" type="4">
+        <text>self.data3d.shape, dtype=np.int8)</text>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text>self.data3d.shape, dtype=np.int8)</text>
       </register>
       <register name="/" type="4">
         <text>ipdb</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZHR5cGUgPSBucC5mbG9hdDMyCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoJ3NlZ21lbnRhdGlvbicgaW4gZHBrZXlzKSBhbmQgZGF0YXBbJ3NlZ21lbnRhdGlvbiddIGlzIG5vdCBOb25lOgogICAgICAgICAgICBzZWxmLnNlZ21lbnRhdGlvbiA9IGRhdGFwWydzZWdtZW50YXRpb24nXQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHNlbGYuc2VnbWVudGF0aW9uID0gbnAuemVyb3Moc2VsZi5kYXRhM2Quc2hhcGUsIGR0eXBlPW5wLmludDgpCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIHRvZG8gcmVtb3ZlIDEgLQogICAgICAgIGltcG9ydCBQeVF0NDsgUHlRdDQuUXRDb3JlLnB5cXRSZW1vdmVJbnB1dEhvb2soKQogICAgICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
+      <register name="1" type="4">
+        <text>self.data3d.shape, dtype=np.int8)</text>
       </register>
       <register name="2" type="4">
-        <text>y</text>
+        <text>(</text>
       </register>
       <register name="3" type="4">
-        <text>n</text>
+        <text>zeros</text>
       </register>
       <register name="4" type="4">
-        <text>a</text>
+        <text>.</text>
       </register>
       <register name="5" type="4">
-        <text>y</text>
+        <text>np</text>
       </register>
       <register name="6" type="4">
-        <text>n</text>
+        <text encoding="base64">c2VnbWVudGF0aW9uIA==</text>
       </register>
       <register name="7" type="4">
-        <text>a</text>
+        <text encoding="base64">c2VnbWVudGF0aW9uIA==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIGFzcwo=</text>
+      <register name="8" type="4">
+        <text>segmentation</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIHJvbSBQeVF0NC5RdENvcmUgaW1wb3J0IHB5cXRSZW1vdmVJbnB1dEhvb2sKICAgICAgICAjIHlxdFJlbW92ZUlucHV0SG9vaygpCiAgICAgICAgIyBtcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpICMgQlJFQUtQT0lOVAo=</text>
+      <register name="9" type="4">
+        <text>segmentation</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
