@@ -45,7 +45,7 @@
         <entry key="blz" value="0.6.2" />
         <entry key="bokeh" value="0.11.0" />
         <entry key="boost" value="1.57.0" />
-        <entry key="boto" value="2.38.0" />
+        <entry key="boto" value="2.39.0" />
         <entry key="bottleneck" value="1.0.0" />
         <entry key="bsddb" value="1.0" />
         <entry key="bsdiff4" value="1.1.4" />
@@ -95,6 +95,7 @@
         <entry key="cubes" value="1.0.1" />
         <entry key="cudatoolkit" value="7.0" />
         <entry key="curl" value="7.45.0" />
+        <entry key="cvxcanon" value="0.0.23.3" />
         <entry key="cvxopt" value="1.1.8" />
         <entry key="cx_oracle" value="5.1.2" />
         <entry key="cycler" value="0.9.0" />
@@ -121,6 +122,7 @@
         <entry key="dropbox" value="1.5.1" />
         <entry key="dynd-python" value="0.7.0" />
         <entry key="ecdsa" value="0.13" />
+        <entry key="ecos" value="2.0.4" />
         <entry key="enable" value="4.5.1" />
         <entry key="enaml" value="0.9.8" />
         <entry key="enum34" value="1.1.2" />
@@ -144,6 +146,7 @@
         <entry key="folder_shortcut" value="0.1.0" />
         <entry key="fontconfig" value="2.11.1" />
         <entry key="freeglut" value="2.8.1" />
+        <entry key="freeimage" value="3.17.0" />
         <entry key="freetype" value="2.5.5" />
         <entry key="funcsigs" value="0.4" />
         <entry key="functools32" value="3.2.3.2" />
@@ -309,7 +312,7 @@
         <entry key="nose" value="1.3.7" />
         <entry key="notebook" value="4.1.0" />
         <entry key="nsis" value="2.46" />
-        <entry key="numba" value="0.23.0" />
+        <entry key="numba" value="0.23.1" />
         <entry key="numbapro" value="0.22.1" />
         <entry key="numbapro_cudalib" value="0.2" />
         <entry key="numexpr" value="2.4.6" />
@@ -353,7 +356,7 @@
         <entry key="pigz" value="2.3" />
         <entry key="pil" value="1.1.7" />
         <entry key="pillow" value="3.1.0" />
-        <entry key="pip" value="7.1.2" />
+        <entry key="pip" value="8.0.1" />
         <entry key="pixman" value="0.32.6" />
         <entry key="pkgconfig" value="1.1.0" />
         <entry key="plac" value="0.9.1" />
@@ -463,7 +466,7 @@
         <entry key="semantic_version" value="2.4.2" />
         <entry key="serf" value="1.3.8" />
         <entry key="service_identity" value="14.0.0" />
-        <entry key="setuptools" value="19.2" />
+        <entry key="setuptools" value="19.4" />
         <entry key="setuptools_scm" value="1.9.0" />
         <entry key="sh" value="1.11" />
         <entry key="shapely" value="1.5.13" />
@@ -1104,6 +1107,7 @@
               <option value="2.9.6" />
               <option value="2.15.0" />
               <option value="2.30.0" />
+              <option value="2.39.0" />
             </list>
           </value>
         </entry>
@@ -1678,6 +1682,13 @@
             </list>
           </value>
         </entry>
+        <entry key="cvxcanon">
+          <value>
+            <list>
+              <option value="0.0.23.3" />
+            </list>
+          </value>
+        </entry>
         <entry key="cvxopt">
           <value>
             <list>
@@ -1946,6 +1957,13 @@
             </list>
           </value>
         </entry>
+        <entry key="ecos">
+          <value>
+            <list>
+              <option value="2.0.4" />
+            </list>
+          </value>
+        </entry>
         <entry key="enable">
           <value>
             <list>
@@ -2136,6 +2154,13 @@
           <value>
             <list>
               <option value="2.8.1" />
+            </list>
+          </value>
+        </entry>
+        <entry key="freeimage">
+          <value>
+            <list>
+              <option value="3.17.0" />
             </list>
           </value>
         </entry>
@@ -3718,6 +3743,7 @@
               <option value="0.1.1" />
               <option value="0.2" />
               <option value="0.23.0" />
+              <option value="0.23.1" />
             </list>
           </value>
         </entry>
@@ -4179,6 +4205,7 @@
               <option value="1.5.6" />
               <option value="1.3.1" />
               <option value="1.5" />
+              <option value="8.0.1" />
             </list>
           </value>
         </entry>
@@ -5283,6 +5310,7 @@
               <option value="18.8.1" />
               <option value="19.1.1" />
               <option value="19.2" />
+              <option value="19.4" />
             </list>
           </value>
         </entry>
@@ -6219,6 +6247,6 @@
     <option name="CONDA_CHANNELS">
       <set />
     </option>
-    <option name="LAST_TIME_CHECKED" value="1453383966997" />
+    <option name="LAST_TIME_CHECKED" value="1453732836044" />
   </component>
 </application>
