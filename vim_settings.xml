@@ -461,9 +461,9 @@
         <mark key="^" line="44" column="50" />
         <mark key="." line="44" column="50" />
       </file>
-      <file name="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" timestamp="1453975490612">
+      <file name="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" timestamp="1453975525272">
         <mark key="a" line="17" column="7" />
-        <mark key="'" line="623" column="31" />
+        <mark key="'" line="481" column="13" />
         <mark key="[" line="1135" column="64" />
         <mark key="]" line="1136" column="73" />
         <mark key="." line="1136" column="73" />
@@ -689,9 +689,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="557" column="12" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
-      <jump line="589" column="12" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
-      <jump line="29" column="9" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="88" column="38" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="354" column="29" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="360" column="11" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
@@ -789,6 +786,9 @@
       <jump line="614" column="8" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
       <jump line="622" column="8" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
       <jump line="623" column="31" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="1134" column="36" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="455" column="16" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="481" column="13" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -798,7 +798,7 @@
         <text>A</text>
       </register>
       <register name="/" type="4">
-        <text>sp</text>
+        <text encoding="base64">XDxhcHJpb3JpX2dhbW1hXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHNlZWQxID0gbnAudW5yYXZlbF9pbmRleChucC5hcmdtYXgoZHN0KSwgZHN0LnNoYXBlKQo=</text>
@@ -835,15 +835,14 @@
       </register>
     </registers>
     <search>
-      <last-search>sp</last-search>
+      <last-search encoding="base64">XDxhcHJpb3JpX2dhbW1hXD4=</last-search>
       <last-offset />
-      <last-pattern>sp</last-pattern>
+      <last-pattern encoding="base64">XDxhcHJpb3JpX2dhbW1hXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>ipd</entry>
         <entry>imtool</entry>
         <entry>skimage</entry>
         <entry>lisa</entry>
@@ -863,6 +862,7 @@
         <entry>spine</entry>
         <entry>print</entry>
         <entry>sp</entry>
+        <entry encoding="base64">XDxhcHJpb3JpX2dhbW1hXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>291</entry>
