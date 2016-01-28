@@ -155,13 +155,13 @@
         <mark key="^" line="57" column="47" />
         <mark key="." line="57" column="47" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/body_navigation.py" timestamp="1453982997880">
-        <mark key="a" line="227" column="35" />
+      <file name="$USER_HOME$/projects/lisa/lisa/body_navigation.py" timestamp="1453993680297">
+        <mark key="a" line="228" column="35" />
         <mark key="'" line="207" column="8" />
-        <mark key="[" line="273" column="37" />
-        <mark key="]" line="274" column="53" />
-        <mark key="^" line="274" column="53" />
-        <mark key="." line="274" column="53" />
+        <mark key="[" line="273" column="55" />
+        <mark key="]" line="273" column="58" />
+        <mark key="^" line="273" column="58" />
+        <mark key="." line="273" column="58" />
       </file>
       <file name="$USER_HOME$/projects/lisa/installer.bat" timestamp="1448389020321">
         <mark key="[" line="5" column="35" />
@@ -792,10 +792,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>False</text>
+        <text>data</text>
       </register>
       <register name="-" type="4">
-        <text>False</text>
+        <text>data</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfZmlsdGVyX2RpYXBocmFnbV9wcm9maWxlX2ltYWdlX3JlbW92ZV9vdXRsYXllcnNcPg==</text>
@@ -804,31 +804,31 @@
         <text encoding="base64">ICAgICAgICBpbmRpY2VzID0gc2NpcHkubmRpbWFnZS5tb3JwaG9sb2d5LmRpc3RhbmNlX3RyYW5zZm9ybV9lZHQoZmxhdD09MCwgcmV0dXJuX2luZGljZXM9VHJ1ZSwgcmV0dXJuX2Rpc3RhbmNlcz1GYWxzZSkK</text>
       </register>
       <register name="1" type="4">
-        <text>False</text>
+        <text>data</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmbGF0W2ZsYXQ9PTBdID0gbnAuTmFOCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ZGF0YV9vdXQg</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKToK</text>
+        <text encoding="base64">a2VybmVsID0gbnAub25lcyhbNSw1LDVdKQo=</text>
       </register>
       <register name="4" type="4">
-        <text>True</text>
+        <text>False</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmbGF0W2ZsYXQ9PTBdID0gTmFOCg==</text>
+        <text encoding="base64">ICAgICAgICBmbGF0W2ZsYXQ9PTBdID0gbnAuTmFOCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>10</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKToK</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">LCA=</text>
+        <text>True</text>
       </register>
-      <register name="8" type="4">
-        <text>[5,5,5]</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBmbGF0W2ZsYXQ9PTBdID0gTmFOCg==</text>
       </register>
       <register name="9" type="4">
-        <text>r</text>
+        <text>10</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
