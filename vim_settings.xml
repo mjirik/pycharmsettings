@@ -27,7 +27,7 @@
         <mark key="^" line="88" column="52" />
         <mark key="." line="88" column="52" />
       </file>
-      <file name="/a.dummy" timestamp="1454102706731">
+      <file name="/a.dummy" timestamp="1454103442247">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -607,13 +607,13 @@
         <mark key="^" line="206" column="49" />
         <mark key="." line="206" column="49" />
       </file>
-      <file name="$USER_HOME$/projects/sed3/sed3/sed3.py" timestamp="1454103119470">
-        <mark key="b" line="726" column="0" />
-        <mark key="'" line="456" column="11" />
-        <mark key="[" line="411" column="48" />
-        <mark key="]" line="411" column="54" />
-        <mark key="." line="411" column="54" />
-        <mark key="^" line="411" column="54" />
+      <file name="$USER_HOME$/projects/sed3/sed3/sed3.py" timestamp="1454103440175">
+        <mark key="b" line="729" column="0" />
+        <mark key="'" line="459" column="11" />
+        <mark key="[" line="72" column="21" />
+        <mark key="]" line="72" column="33" />
+        <mark key="." line="72" column="33" />
+        <mark key="^" line="72" column="33" />
       </file>
       <file name="$USER_HOME$/projects/pysegbase/meta.yaml" timestamp="1446724431868">
         <mark key="[" line="41" column="10" />
@@ -793,43 +793,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>seeds</text>
+        <text>m</text>
       </register>
       <register name="-" type="4">
-        <text>seeds</text>
+        <text>m</text>
       </register>
       <register name="/" type="4">
         <text>flip</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzbGljZXNlZWRzID0gc2VsZi5fX2ZsaXAoc2xpY2VzZWVkcykK</text>
+        <text encoding="base64">ICAgICAgICA6cGFyYW0gZmxpcEg6Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>seeds</text>
+        <text>m</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">c2VlZHMg</text>
+        <text>m</text>
       </register>
       <register name="3" type="4">
-        <text>self.contour[:, :, int(self.actual_slice)]</text>
+        <text>seeds</text>
       </register>
       <register name="4" type="4">
-        <text>img</text>
+        <text encoding="base64">c2VlZHMg</text>
       </register>
       <register name="5" type="4">
+        <text>self.contour[:, :, int(self.actual_slice)]</text>
+      </register>
+      <register name="6" type="4">
+        <text>img</text>
+      </register>
+      <register name="7" type="4">
         <text encoding="base64">aW1nIA==</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc2VsZi5zZWVkc1s6LCA6LCBpbnQoc2VsZi5hY3R1YWxfc2xpY2UpXQo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBpZiBzZWxmLmZsaXBIOgogICAgICAgICAgICBzbGljZWltZyA9IHNsaWNlaW1nWzosIC0xOjA6LTFdCgogICAgICAgIGlmIHNlbGYuZmxpcFY6CiAgICAgICAgICAgIHNsaWNlaW1nID0gc2xpY2VpbWcgWy0xOjA6LTEsOl0K</text>
-      </register>
-      <register name="8" type="4">
-        <text>data2d</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">ZGF0YTJkIA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
