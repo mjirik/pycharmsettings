@@ -27,7 +27,7 @@
         <mark key="^" line="88" column="52" />
         <mark key="." line="88" column="52" />
       </file>
-      <file name="/a.dummy" timestamp="1454088615409">
+      <file name="/a.dummy" timestamp="1454090092856">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -607,12 +607,12 @@
         <mark key="^" line="206" column="49" />
         <mark key="." line="206" column="49" />
       </file>
-      <file name="$USER_HOME$/projects/sed3/sed3/sed3.py" timestamp="1454089672760">
+      <file name="$USER_HOME$/projects/sed3/sed3/sed3.py" timestamp="1454090081749">
         <mark key="'" line="611" column="49" />
-        <mark key="[" line="702" column="39" />
-        <mark key="]" line="702" column="39" />
-        <mark key="^" line="702" column="31" />
-        <mark key="." line="702" column="39" />
+        <mark key="[" line="709" column="0" />
+        <mark key="]" line="709" column="12" />
+        <mark key="^" line="699" column="18" />
+        <mark key="." line="709" column="12" />
       </file>
       <file name="$USER_HOME$/projects/pysegbase/meta.yaml" timestamp="1446724431868">
         <mark key="[" line="41" column="10" />
@@ -791,44 +791,44 @@
       <jump line="611" column="49" filename="$USER_HOME$/projects/sed3/sed3/sed3.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>:</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBjb250b3VyMmQgaXMgbm90IE5vbmU6Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text encoding="base64">ZGF0YTJkIA==</text>
       </register>
       <register name="/" type="4">
         <text>flip</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhMmQgPSBkYXRhMmRbLTE6MDotMSw6XQogICAgICAgIHNlZWRzMmQgPSBzZWVkczJkWy0xOjA6LTEsOl0KICAgICAgICBjb250b3VyMmQ9IGNvbnRvdXIyZFstMTowOi0xLDpdCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBjb250b3VyMmQgaXMgbm90IE5vbmU6Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>:</text>
+        <text encoding="base64">ZGF0YTJkIA==</text>
       </register>
       <register name="2" type="4">
-        <text>,</text>
+        <text>:</text>
       </register>
       <register name="3" type="4">
-        <text>:</text>
+        <text>,</text>
       </register>
       <register name="4" type="4">
-        <text>,</text>
-      </register>
-      <register name="5" type="4">
         <text>:</text>
       </register>
-      <register name="6" type="4">
+      <register name="5" type="4">
         <text>,</text>
       </register>
+      <register name="6" type="4">
+        <text>:</text>
+      </register>
       <register name="7" type="4">
-        <text>seeds2d</text>
+        <text>,</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">c2VlZHMyZCA=</text>
+        <text>seeds2d</text>
       </register>
       <register name="9" type="4">
-        <text>data2d</text>
+        <text encoding="base64">c2VlZHMyZCA=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
