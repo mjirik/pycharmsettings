@@ -27,7 +27,7 @@
         <mark key="^" line="88" column="52" />
         <mark key="." line="88" column="52" />
       </file>
-      <file name="/a.dummy" timestamp="1454101764100">
+      <file name="/a.dummy" timestamp="1454102706731">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -607,12 +607,13 @@
         <mark key="^" line="206" column="49" />
         <mark key="." line="206" column="49" />
       </file>
-      <file name="$USER_HOME$/projects/sed3/sed3/sed3.py" timestamp="1454093547536">
-        <mark key="'" line="611" column="49" />
-        <mark key="[" line="695" column="11" />
-        <mark key="]" line="695" column="12" />
-        <mark key="^" line="683" column="76" />
-        <mark key="." line="695" column="12" />
+      <file name="$USER_HOME$/projects/sed3/sed3/sed3.py" timestamp="1454103119470">
+        <mark key="b" line="726" column="0" />
+        <mark key="'" line="456" column="11" />
+        <mark key="[" line="411" column="48" />
+        <mark key="]" line="411" column="54" />
+        <mark key="." line="411" column="54" />
+        <mark key="^" line="411" column="54" />
       </file>
       <file name="$USER_HOME$/projects/pysegbase/meta.yaml" timestamp="1446724431868">
         <mark key="[" line="41" column="10" />
@@ -689,19 +690,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="635" column="12" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
-      <jump line="958" column="13" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
-      <jump line="250" column="13" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
-      <jump line="442" column="31" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="454" column="52" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="478" column="17" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="508" column="13" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="556" column="34" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="501" column="0" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="165" column="16" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="162" column="8" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="577" column="8" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
-      <jump line="754" column="0" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="822" column="0" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="335" column="21" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="129" column="0" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
@@ -786,49 +774,62 @@
       <jump line="207" column="8" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
       <jump line="682" column="4" filename="$USER_HOME$/projects/sed3/sed3/sed3.py" />
       <jump line="493" column="15" filename="$USER_HOME$/projects/sed3/sed3/sed3.py" />
-      <jump line="631" column="14" filename="$USER_HOME$/projects/sed3/sed3/sed3.py" />
       <jump line="601" column="47" filename="$USER_HOME$/projects/sed3/sed3/sed3.py" />
       <jump line="611" column="49" filename="$USER_HOME$/projects/sed3/sed3/sed3.py" />
+      <jump line="632" column="14" filename="$USER_HOME$/projects/sed3/sed3/sed3.py" />
+      <jump line="633" column="4" filename="$USER_HOME$/projects/sed3/sed3/sed3.py" />
+      <jump line="683" column="4" filename="$USER_HOME$/projects/sed3/sed3/sed3.py" />
+      <jump line="494" column="15" filename="$USER_HOME$/projects/sed3/sed3/sed3.py" />
+      <jump line="656" column="4" filename="$USER_HOME$/projects/sed3/sed3/sed3.py" />
+      <jump line="623" column="19" filename="$USER_HOME$/projects/sed3/sed3/sed3.py" />
+      <jump line="626" column="19" filename="$USER_HOME$/projects/sed3/sed3/sed3.py" />
+      <jump line="631" column="15" filename="$USER_HOME$/projects/sed3/sed3/sed3.py" />
+      <jump line="693" column="0" filename="$USER_HOME$/projects/sed3/sed3/sed3.py" />
+      <jump line="650" column="4" filename="$USER_HOME$/projects/sed3/sed3/sed3.py" />
+      <jump line="704" column="0" filename="$USER_HOME$/projects/sed3/sed3/sed3.py" />
+      <jump line="718" column="0" filename="$USER_HOME$/projects/sed3/sed3/sed3.py" />
+      <jump line="120" column="25" filename="$USER_HOME$/projects/sed3/sed3/sed3.py" />
+      <jump line="441" column="11" filename="$USER_HOME$/projects/sed3/sed3/sed3.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>-</text>
+        <text>seeds</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>seeds</text>
       </register>
       <register name="/" type="4">
         <text>flip</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBjb250b3VyMmQgaXMgbm90IE5vbmU6Cg==</text>
+        <text encoding="base64">ICAgICAgICBzbGljZXNlZWRzID0gc2VsZi5fX2ZsaXAoc2xpY2VzZWVkcykK</text>
       </register>
       <register name="1" type="4">
-        <text>-</text>
+        <text>seeds</text>
       </register>
       <register name="2" type="4">
-        <text>additional_angle</text>
+        <text encoding="base64">c2VlZHMg</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">YWRkaXRpb25hbF9hbmdsZSA=</text>
+        <text>self.contour[:, :, int(self.actual_slice)]</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+        <text>img</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">aW1nIA==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5zZWVkc1s6LCA6LCBpbnQoc2VsZi5hY3R1YWxfc2xpY2UpXQo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLmZsaXBIOgogICAgICAgICAgICBzbGljZWltZyA9IHNsaWNlaW1nWzosIC0xOjA6LTFdCgogICAgICAgIGlmIHNlbGYuZmxpcFY6CiAgICAgICAgICAgIHNsaWNlaW1nID0gc2xpY2VpbWcgWy0xOjA6LTEsOl0K</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA6cGFyYW0gc2lnbWE6Cg==</text>
+      <register name="8" type="4">
+        <text>data2d</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ZGF0YTJkIA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -843,7 +844,6 @@
     </search>
     <history>
       <history-search>
-        <entry>crop</entry>
         <entry>uncrop</entry>
         <entry encoding="base64">XDxfX2ltcG9ydF9kYXRhcGx1c19zZWVkc1w+</entry>
         <entry>app</entry>
@@ -862,6 +862,7 @@
         <entry encoding="base64">XDxhcHJpb3JpX2dhbW1hXD4=</entry>
         <entry encoding="base64">XDxfZmlsdGVyX2RpYXBocmFnbV9wcm9maWxlX2ltYWdlX3JlbW92ZV9vdXRsYXllcnNcPg==</entry>
         <entry encoding="base64">XDxzaG93X3NsaWNlXD4=</entry>
+        <entry encoding="base64">XDxfX3B1dF9zbGljZV9pbl9zbGltXD4=</entry>
         <entry>flip</entry>
       </history-search>
       <history-cmd>
