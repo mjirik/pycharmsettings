@@ -27,7 +27,7 @@
         <mark key="^" line="88" column="52" />
         <mark key="." line="88" column="52" />
       </file>
-      <file name="/a.dummy" timestamp="1453995650088">
+      <file name="/a.dummy" timestamp="1454065841762">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -607,12 +607,12 @@
         <mark key="^" line="206" column="49" />
         <mark key="." line="206" column="49" />
       </file>
-      <file name="$USER_HOME$/projects/sed3/sed3/sed3.py" timestamp="1453295976459">
-        <mark key="'" line="494" column="15" />
-        <mark key="[" line="27" column="71" />
-        <mark key="]" line="27" column="71" />
-        <mark key="^" line="63" column="26" />
-        <mark key="." line="27" column="71" />
+      <file name="$USER_HOME$/projects/sed3/sed3/sed3.py" timestamp="1454065724760">
+        <mark key="'" line="631" column="14" />
+        <mark key="[" line="632" column="31" />
+        <mark key="]" line="632" column="56" />
+        <mark key="^" line="632" column="56" />
+        <mark key="." line="632" column="56" />
       </file>
       <file name="$USER_HOME$/projects/pysegbase/meta.yaml" timestamp="1446724431868">
         <mark key="[" line="41" column="10" />
@@ -643,6 +643,9 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="92" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1454065841698">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/io3d/io3d/misc.py" timestamp="1453295785375">
         <mark key="'" line="19" column="27" />
@@ -689,9 +692,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="88" column="38" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
-      <jump line="354" column="29" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
-      <jump line="360" column="11" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="628" column="27" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="951" column="13" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="635" column="12" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
@@ -789,61 +789,63 @@
       <jump line="455" column="16" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
       <jump line="481" column="13" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
       <jump line="207" column="8" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
+      <jump line="682" column="4" filename="$USER_HOME$/projects/sed3/sed3/sed3.py" />
+      <jump line="493" column="15" filename="$USER_HOME$/projects/sed3/sed3/sed3.py" />
+      <jump line="631" column="14" filename="$USER_HOME$/projects/sed3/sed3/sed3.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAna3MgJywga2VybmVsX3NpemUK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ZmxpcCA=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c2VnIA==</text>
+        <text encoding="base64">ZmxpcCA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfZmlsdGVyX2RpYXBocmFnbV9wcm9maWxlX2ltYWdlX3JlbW92ZV9vdXRsYXllcnNcPg==</text>
+        <text encoding="base64">XDxzaG93X3NsaWNlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAna3MgJywga2VybmVsX3NpemUK</text>
+        <text encoding="base64">ICAgIGlmIGZsaXBIOgogICAgICAgIGRhdGEyZCA9IGRhdGEyZFs6Oi0xLDpdCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAK</text>
+      <register name="1" type="4">
+        <text encoding="base64">ZmxpcCA=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIG1ldG9kYSAxCg==</text>
+      <register name="2" type="4">
+        <text>y</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">c2VnIA==</text>
+        <text>l</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">KiA=</text>
+        <text>:</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">ZmxhdCA=</text>
+        <text>,</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCAK</text>
       </register>
-      <register name="7" type="4">
-        <text>-</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAjIG1ldG9kYSAxCg==</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">c2VnIA==</text>
       </register>
       <register name="9" type="4">
-        <text>1</text>
+        <text encoding="base64">KiA=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfZmlsdGVyX2RpYXBocmFnbV9wcm9maWxlX2ltYWdlX3JlbW92ZV9vdXRsYXllcnNcPg==</last-search>
+      <last-search encoding="base64">XDxzaG93X3NsaWNlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfZmlsdGVyX2RpYXBocmFnbV9wcm9maWxlX2ltYWdlX3JlbW92ZV9vdXRsYXllcnNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxzaG93X3NsaWNlXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>skimage</entry>
         <entry>lisa</entry>
         <entry>crop</entry>
         <entry>uncrop</entry>
@@ -863,6 +865,7 @@
         <entry>sp</entry>
         <entry encoding="base64">XDxhcHJpb3JpX2dhbW1hXD4=</entry>
         <entry encoding="base64">XDxfZmlsdGVyX2RpYXBocmFnbV9wcm9maWxlX2ltYWdlX3JlbW92ZV9vdXRsYXllcnNcPg==</entry>
+        <entry encoding="base64">XDxzaG93X3NsaWNlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>291</entry>
