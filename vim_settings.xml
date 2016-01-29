@@ -27,7 +27,7 @@
         <mark key="^" line="88" column="52" />
         <mark key="." line="88" column="52" />
       </file>
-      <file name="/a.dummy" timestamp="1454065841762">
+      <file name="/a.dummy" timestamp="1454088615409">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -607,12 +607,12 @@
         <mark key="^" line="206" column="49" />
         <mark key="." line="206" column="49" />
       </file>
-      <file name="$USER_HOME$/projects/sed3/sed3/sed3.py" timestamp="1454065724760">
-        <mark key="'" line="632" column="14" />
-        <mark key="[" line="633" column="31" />
-        <mark key="]" line="633" column="56" />
-        <mark key="^" line="633" column="56" />
-        <mark key="." line="633" column="56" />
+      <file name="$USER_HOME$/projects/sed3/sed3/sed3.py" timestamp="1454088609867">
+        <mark key="'" line="601" column="47" />
+        <mark key="[" line="577" column="58" />
+        <mark key="]" line="577" column="62" />
+        <mark key="^" line="577" column="62" />
+        <mark key="." line="577" column="62" />
       </file>
       <file name="$USER_HOME$/projects/pysegbase/meta.yaml" timestamp="1446724431868">
         <mark key="[" line="41" column="10" />
@@ -643,9 +643,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="92" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1454065841698">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/io3d/io3d/misc.py" timestamp="1453295785375">
         <mark key="'" line="19" column="27" />
@@ -692,7 +689,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="628" column="27" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="951" column="13" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="635" column="12" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="958" column="13" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
@@ -792,61 +788,61 @@
       <jump line="682" column="4" filename="$USER_HOME$/projects/sed3/sed3/sed3.py" />
       <jump line="493" column="15" filename="$USER_HOME$/projects/sed3/sed3/sed3.py" />
       <jump line="631" column="14" filename="$USER_HOME$/projects/sed3/sed3/sed3.py" />
+      <jump line="601" column="47" filename="$USER_HOME$/projects/sed3/sed3/sed3.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ZmxpcCA=</text>
+        <text>True</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZmxpcCA=</text>
+        <text>True</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzaG93X3NsaWNlXD4=</text>
+        <text>flip</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGlmIGZsaXBIOgogICAgICAgIGRhdGEyZCA9IGRhdGEyZFs6Oi0xLDpdCg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ZmxpcCA=</text>
+        <text>True</text>
       </register>
       <register name="2" type="4">
-        <text>y</text>
+        <text>True</text>
       </register>
       <register name="3" type="4">
-        <text>l</text>
+        <text encoding="base64">ZmxpcCA=</text>
       </register>
       <register name="4" type="4">
-        <text>:</text>
+        <text>y</text>
       </register>
       <register name="5" type="4">
+        <text>l</text>
+      </register>
+      <register name="6" type="4">
+        <text>:</text>
+      </register>
+      <register name="7" type="4">
         <text>,</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCAK</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAjIG1ldG9kYSAxCg==</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">c2VnIA==</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">KiA=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzaG93X3NsaWNlXD4=</last-search>
+      <last-search>flip</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzaG93X3NsaWNlXD4=</last-pattern>
+      <last-pattern>flip</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>lisa</entry>
         <entry>crop</entry>
         <entry>uncrop</entry>
         <entry encoding="base64">XDxfX2ltcG9ydF9kYXRhcGx1c19zZWVkc1w+</entry>
@@ -866,6 +862,7 @@
         <entry encoding="base64">XDxhcHJpb3JpX2dhbW1hXD4=</entry>
         <entry encoding="base64">XDxfZmlsdGVyX2RpYXBocmFnbV9wcm9maWxlX2ltYWdlX3JlbW92ZV9vdXRsYXllcnNcPg==</entry>
         <entry encoding="base64">XDxzaG93X3NsaWNlXD4=</entry>
+        <entry>flip</entry>
       </history-search>
       <history-cmd>
         <entry>291</entry>
