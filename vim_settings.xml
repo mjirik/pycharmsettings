@@ -155,13 +155,13 @@
         <mark key="^" line="57" column="47" />
         <mark key="." line="57" column="47" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/body_navigation.py" timestamp="1454091053209">
+      <file name="$USER_HOME$/projects/lisa/lisa/body_navigation.py" timestamp="1454092458408">
         <mark key="a" line="224" column="35" />
         <mark key="'" line="203" column="8" />
-        <mark key="[" line="293" column="28" />
-        <mark key="]" line="293" column="33" />
-        <mark key="." line="293" column="33" />
-        <mark key="^" line="293" column="33" />
+        <mark key="[" line="257" column="53" />
+        <mark key="]" line="257" column="59" />
+        <mark key="." line="257" column="59" />
+        <mark key="^" line="257" column="59" />
       </file>
       <file name="$USER_HOME$/projects/lisa/installer.bat" timestamp="1448389020321">
         <mark key="[" line="5" column="35" />
@@ -792,10 +792,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>-</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text>flip</text>
@@ -804,31 +804,31 @@
         <text encoding="base64">ICAgICAgICBpZiBjb250b3VyMmQgaXMgbm90IE5vbmU6Cg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+        <text>-</text>
       </register>
       <register name="2" type="4">
-        <text>=</text>
+        <text>additional_angle</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">ZmxhdCA=</text>
+        <text encoding="base64">YWRkaXRpb25hbF9hbmdsZSA=</text>
       </register>
       <register name="4" type="4">
-        <text>True</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="5" type="4">
-        <text>True</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIGZsaXBIOgo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIGZsaXBIOgo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ZGF0YTJkIA==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICA6cGFyYW0gc2lnbWE6Cg==</text>
       </register>
       <register name="9" type="4">
-        <text>:</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
