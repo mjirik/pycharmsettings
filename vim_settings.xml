@@ -155,14 +155,13 @@
         <mark key="^" line="57" column="47" />
         <mark key="." line="57" column="47" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/body_navigation.py" timestamp="1454179013181">
-        <mark key="a" line="328" column="48" />
-        <mark key="b" line="539" column="0" />
-        <mark key="'" line="539" column="0" />
-        <mark key="[" line="343" column="39" />
-        <mark key="]" line="344" column="61" />
-        <mark key="." line="344" column="61" />
-        <mark key="^" line="344" column="61" />
+      <file name="$USER_HOME$/projects/lisa/lisa/body_navigation.py" timestamp="1454189510096">
+        <mark key="a" line="326" column="48" />
+        <mark key="b" line="537" column="0" />
+        <mark key="'" line="356" column="8" />
+        <mark key="[" line="122" column="0" />
+        <mark key="]" line="122" column="0" />
+        <mark key="." line="122" column="0" />
       </file>
       <file name="$USER_HOME$/projects/lisa/installer.bat" timestamp="1448389020321">
         <mark key="[" line="5" column="35" />
@@ -691,7 +690,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="129" column="0" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
       <jump line="127" column="0" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
       <jump line="132" column="29" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
       <jump line="68" column="64" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
@@ -791,61 +789,61 @@
       <jump line="328" column="48" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
       <jump line="532" column="0" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
+      <jump line="358" column="8" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBmaWx0ZXIgd2l0aCBiaWcgbWFzawogICAgICAgICAgICBvdSA9IGZpbGxfbmFuX3dpdGhfbmVhcmVzdChmbGF0KQogICAgICAgICAgICBvdSA9IHNjaXB5Lm5kaW1hZ2UuZmlsdGVycy5nYXVzc2lhbl9maWx0ZXIob3UsIHNpZ21hPTEwKQoKCiAgICAgICAgICAgICMgZ2V0IGJhY2sgdmFsaWQgdmFsdWVzIG9uIGl0cyBwbGFjZXMKICAgICAgICAgICAgdmFsaWRfZmxhdF9pbmRzID0gMSAtIG5wLmlzbmFuKGZsYXQpCiAgICAgICAgICAgIG91W3ZhbGlkX2ZsYXRfaW5kc10gPSBmbGF0W3ZhbGlkX2ZsYXRfaW5kc10KICAgICAgICAgICAgZmxhdCA9IG91Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
-        <text>flip</text>
+        <text>pizza</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBvdSA9IHNjaXB5Lm5kaW1hZ2UuZmlsdGVycy5nYXVzc2lhbl9maWx0ZXIob3UsIHNpZ21hPTMpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBmaWx0ZXIgd2l0aCBiaWcgbWFzawogICAgICAgICAgICBvdSA9IGZpbGxfbmFuX3dpdGhfbmVhcmVzdChmbGF0KQogICAgICAgICAgICBvdSA9IHNjaXB5Lm5kaW1hZ2UuZmlsdGVycy5nYXVzc2lhbl9maWx0ZXIob3UsIHNpZ21hPTEwKQoKCiAgICAgICAgICAgICMgZ2V0IGJhY2sgdmFsaWQgdmFsdWVzIG9uIGl0cyBwbGFjZXMKICAgICAgICAgICAgdmFsaWRfZmxhdF9pbmRzID0gMSAtIG5wLmlzbmFuKGZsYXQpCiAgICAgICAgICAgIG91W3ZhbGlkX2ZsYXRfaW5kc10gPSBmbGF0W3ZhbGlkX2ZsYXRfaW5kc10KICAgICAgICAgICAgZmxhdCA9IG91Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>_</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGRlZiByb3RhdGVfYnlfc3ltbWV0cnlfcG9pbnQoc2VsZik6Cg==</text>
       </register>
       <register name="3" type="4">
-        <text>_</text>
+        <text>4</text>
       </register>
-      <register name="4" type="4">
-        <text>.</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIyBmaWx0ZXIgd2l0aCBiaWcgbWFzawogICAgICAgICAgICBvdSA9IGZpbGxfbmFuX3dpdGhfbmVhcmVzdChmbGF0KQogICAgICAgICAgICBvdSA9IHNjaXB5Lm5kaW1hZ2UuZmlsdGVycy5nYXVzc2lhbl9maWx0ZXIob3UsIHNpZ21hPTEwKQoKCiAgICAgICAgICAgICMgZ2V0IGJhY2sgdmFsaWQgdmFsdWVzIG9uIGl0cyBwbGFjZXMKICAgICAgICAgICAgdmFsaWRfZmxhdF9pbmRzID0gMSAtIG5wLmlzbmFuKGZsYXQpCiAgICAgICAgICAgIG91W3ZhbGlkX2ZsYXRfaW5kc10gPSBmbGF0W3ZhbGlkX2ZsYXRfaW5kc10KICAgICAgICAgICAgZmxhdCA9IG91Cg==</text>
       </register>
       <register name="5" type="4">
-        <text>self</text>
+        <text>_</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">b3JpZ2luYWwg</text>
+        <text>_</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsaWRfZmxhdF9pbmRzID0gMSAtIG5wLmlzbmFuKGZsYXQpCiAgICAgICAgICAgIG91W3ZhbGlkX2ZsYXRfaW5kc10gPSBmbGF0W3ZhbGlkX2ZsYXRfaW5kc10K</text>
+      <register name="7" type="4">
+        <text>.</text>
       </register>
       <register name="8" type="4">
-        <text>(</text>
+        <text>self</text>
       </register>
       <register name="9" type="4">
-        <text>.</text>
+        <text encoding="base64">b3JpZ2luYWwg</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>flip</last-search>
+      <last-search>pizza</last-search>
       <last-offset />
-      <last-pattern>flip</last-pattern>
+      <last-pattern>pizza</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>uncrop</entry>
         <entry encoding="base64">XDxfX2ltcG9ydF9kYXRhcGx1c19zZWVkc1w+</entry>
         <entry>app</entry>
         <entry>sed3q</entry>
@@ -865,6 +863,7 @@
         <entry encoding="base64">XDxzaG93X3NsaWNlXD4=</entry>
         <entry encoding="base64">XDxfX3B1dF9zbGljZV9pbl9zbGltXD4=</entry>
         <entry>flip</entry>
+        <entry>pizza</entry>
       </history-search>
       <history-cmd>
         <entry>291</entry>
