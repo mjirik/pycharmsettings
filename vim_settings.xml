@@ -155,13 +155,14 @@
         <mark key="^" line="57" column="47" />
         <mark key="." line="57" column="47" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/body_navigation.py" timestamp="1454097291154">
-        <mark key="a" line="224" column="35" />
-        <mark key="'" line="203" column="8" />
-        <mark key="[" line="271" column="80" />
-        <mark key="]" line="271" column="80" />
-        <mark key="." line="271" column="80" />
-        <mark key="^" line="271" column="80" />
+      <file name="$USER_HOME$/projects/lisa/lisa/body_navigation.py" timestamp="1454179013181">
+        <mark key="a" line="328" column="48" />
+        <mark key="b" line="539" column="0" />
+        <mark key="'" line="539" column="0" />
+        <mark key="[" line="343" column="39" />
+        <mark key="]" line="344" column="61" />
+        <mark key="." line="344" column="61" />
+        <mark key="^" line="344" column="61" />
       </file>
       <file name="$USER_HOME$/projects/lisa/installer.bat" timestamp="1448389020321">
         <mark key="[" line="5" column="35" />
@@ -690,8 +691,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="822" column="0" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
-      <jump line="335" column="21" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="129" column="0" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
       <jump line="127" column="0" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
       <jump line="132" column="29" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
@@ -701,7 +700,6 @@
       <jump line="231" column="7" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
       <jump line="245" column="45" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
       <jump line="247" column="29" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
       <jump line="40" column="13" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
       <jump line="47" column="12" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
       <jump line="113" column="0" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
@@ -790,46 +788,49 @@
       <jump line="718" column="0" filename="$USER_HOME$/projects/sed3/sed3/sed3.py" />
       <jump line="120" column="25" filename="$USER_HOME$/projects/sed3/sed3/sed3.py" />
       <jump line="441" column="11" filename="$USER_HOME$/projects/sed3/sed3/sed3.py" />
+      <jump line="328" column="48" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
+      <jump line="532" column="0" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>m</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIyBmaWx0ZXIgd2l0aCBiaWcgbWFzawogICAgICAgICAgICBvdSA9IGZpbGxfbmFuX3dpdGhfbmVhcmVzdChmbGF0KQogICAgICAgICAgICBvdSA9IHNjaXB5Lm5kaW1hZ2UuZmlsdGVycy5nYXVzc2lhbl9maWx0ZXIob3UsIHNpZ21hPTEwKQoKCiAgICAgICAgICAgICMgZ2V0IGJhY2sgdmFsaWQgdmFsdWVzIG9uIGl0cyBwbGFjZXMKICAgICAgICAgICAgdmFsaWRfZmxhdF9pbmRzID0gMSAtIG5wLmlzbmFuKGZsYXQpCiAgICAgICAgICAgIG91W3ZhbGlkX2ZsYXRfaW5kc10gPSBmbGF0W3ZhbGlkX2ZsYXRfaW5kc10KICAgICAgICAgICAgZmxhdCA9IG91Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>flip</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA6cGFyYW0gZmxpcEg6Cg==</text>
+        <text encoding="base64">ICAgICAgICBvdSA9IHNjaXB5Lm5kaW1hZ2UuZmlsdGVycy5nYXVzc2lhbl9maWx0ZXIob3UsIHNpZ21hPTMpCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>m</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIyBmaWx0ZXIgd2l0aCBiaWcgbWFzawogICAgICAgICAgICBvdSA9IGZpbGxfbmFuX3dpdGhfbmVhcmVzdChmbGF0KQogICAgICAgICAgICBvdSA9IHNjaXB5Lm5kaW1hZ2UuZmlsdGVycy5nYXVzc2lhbl9maWx0ZXIob3UsIHNpZ21hPTEwKQoKCiAgICAgICAgICAgICMgZ2V0IGJhY2sgdmFsaWQgdmFsdWVzIG9uIGl0cyBwbGFjZXMKICAgICAgICAgICAgdmFsaWRfZmxhdF9pbmRzID0gMSAtIG5wLmlzbmFuKGZsYXQpCiAgICAgICAgICAgIG91W3ZhbGlkX2ZsYXRfaW5kc10gPSBmbGF0W3ZhbGlkX2ZsYXRfaW5kc10KICAgICAgICAgICAgZmxhdCA9IG91Cg==</text>
       </register>
       <register name="2" type="4">
-        <text>m</text>
+        <text>_</text>
       </register>
       <register name="3" type="4">
-        <text>seeds</text>
+        <text>_</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">c2VlZHMg</text>
+        <text>.</text>
       </register>
       <register name="5" type="4">
-        <text>self.contour[:, :, int(self.actual_slice)]</text>
+        <text>self</text>
       </register>
       <register name="6" type="4">
-        <text>img</text>
+        <text encoding="base64">b3JpZ2luYWwg</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">aW1nIA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFsaWRfZmxhdF9pbmRzID0gMSAtIG5wLmlzbmFuKGZsYXQpCiAgICAgICAgICAgIG91W3ZhbGlkX2ZsYXRfaW5kc10gPSBmbGF0W3ZhbGlkX2ZsYXRfaW5kc10K</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5zZWVkc1s6LCA6LCBpbnQoc2VsZi5hY3R1YWxfc2xpY2UpXQo=</text>
+      <register name="8" type="4">
+        <text>(</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmLmZsaXBIOgogICAgICAgICAgICBzbGljZWltZyA9IHNsaWNlaW1nWzosIC0xOjA6LTFdCgogICAgICAgIGlmIHNlbGYuZmxpcFY6CiAgICAgICAgICAgIHNsaWNlaW1nID0gc2xpY2VpbWcgWy0xOjA6LTEsOl0K</text>
+      <register name="9" type="4">
+        <text>.</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
