@@ -155,14 +155,14 @@
         <mark key="^" line="57" column="47" />
         <mark key="." line="57" column="47" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/body_navigation.py" timestamp="1454192086106">
+      <file name="$USER_HOME$/projects/lisa/lisa/body_navigation.py" timestamp="1454196241095">
         <mark key="a" line="354" column="48" />
         <mark key="b" line="566" column="0" />
         <mark key="'" line="385" column="8" />
-        <mark key="[" line="382" column="61" />
-        <mark key="]" line="382" column="61" />
-        <mark key="^" line="382" column="61" />
-        <mark key="." line="382" column="61" />
+        <mark key="[" line="380" column="35" />
+        <mark key="]" line="380" column="36" />
+        <mark key="^" line="380" column="36" />
+        <mark key="." line="380" column="36" />
       </file>
       <file name="$USER_HOME$/projects/lisa/installer.bat" timestamp="1448389020321">
         <mark key="[" line="5" column="35" />
@@ -793,11 +793,11 @@
       <jump line="358" column="8" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>flat</text>
       </register>
       <register name="-" type="4">
-        <text>4</text>
+        <text>flat</text>
       </register>
       <register name="/" type="4">
         <text>pizza</text>
@@ -805,32 +805,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBvdSA9IHNjaXB5Lm5kaW1hZ2UuZmlsdGVycy5nYXVzc2lhbl9maWx0ZXIob3UsIHNpZ21hPTMpCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>flat</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIHNrbGVhcm4uY292YXJpYW5jZSBpbXBvcnQgRWxsaXB0aWNFbnZlbG9wZQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBucC5zdW0oeV9wcmVkID4gMCkK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBkYXRhCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBmcm9tIHNrbGVhcm4uY292YXJpYW5jZSBpbXBvcnQgRWxsaXB0aWNFbnZlbG9wZQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBucC5zdW0oeV9wcmVkID4gMCkK</text>
+      </register>
       <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGRlZiByb3RhdGVfYnlfc3ltbWV0cnlfcG9pbnQoc2VsZik6Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>4</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgIyBmaWx0ZXIgd2l0aCBiaWcgbWFzawogICAgICAgICAgICBvdSA9IGZpbGxfbmFuX3dpdGhfbmVhcmVzdChmbGF0KQogICAgICAgICAgICBvdSA9IHNjaXB5Lm5kaW1hZ2UuZmlsdGVycy5nYXVzc2lhbl9maWx0ZXIob3UsIHNpZ21hPTEwKQoKCiAgICAgICAgICAgICMgZ2V0IGJhY2sgdmFsaWQgdmFsdWVzIG9uIGl0cyBwbGFjZXMKICAgICAgICAgICAgdmFsaWRfZmxhdF9pbmRzID0gMSAtIG5wLmlzbmFuKGZsYXQpCiAgICAgICAgICAgIG91W3ZhbGlkX2ZsYXRfaW5kc10gPSBmbGF0W3ZhbGlkX2ZsYXRfaW5kc10KICAgICAgICAgICAgZmxhdCA9IG91Cg==</text>
-      </register>
-      <register name="9" type="4">
-        <text>_</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
