@@ -247,12 +247,12 @@
         <mark key="^" line="136" column="25" />
         <mark key="." line="136" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/liver_model.py" timestamp="1453115786759">
+      <file name="$USER_HOME$/projects/lisa/lisa/liver_model.py" timestamp="1454205639099">
         <mark key="'" line="140" column="18" />
-        <mark key="[" line="346" column="0" />
-        <mark key="]" line="346" column="55" />
-        <mark key="^" line="10" column="0" />
-        <mark key="." line="29" column="0" />
+        <mark key="[" line="61" column="63" />
+        <mark key="]" line="61" column="64" />
+        <mark key="^" line="61" column="64" />
+        <mark key="." line="61" column="64" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/config_default.py" timestamp="1452692757460">
         <mark key="[" line="19" column="50" />
@@ -571,12 +571,12 @@
         <mark key="^" line="170" column="23" />
         <mark key="." line="83" column="55" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" timestamp="1453115710502">
-        <mark key="'" line="249" column="33" />
-        <mark key="[" line="249" column="0" />
-        <mark key="]" line="249" column="61" />
+      <file name="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" timestamp="1454205216818">
+        <mark key="'" line="65" column="8" />
+        <mark key="[" line="75" column="54" />
+        <mark key="]" line="75" column="55" />
         <mark key="^" line="10" column="48" />
-        <mark key="." line="162" column="33" />
+        <mark key="." line="75" column="55" />
       </file>
       <file name="$USER_HOME$/projects/imtools/imtools/sample_data.py" timestamp="1453385263482">
         <mark key="'" line="220" column="4" />
@@ -691,11 +691,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="127" column="0" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
-      <jump line="132" column="29" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
-      <jump line="68" column="64" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
-      <jump line="138" column="85" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
-      <jump line="147" column="24" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
       <jump line="231" column="7" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
       <jump line="245" column="45" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
       <jump line="247" column="29" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
@@ -791,6 +786,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
       <jump line="532" column="0" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
       <jump line="358" column="8" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
+      <jump line="74" column="32" filename="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" />
+      <jump line="83" column="39" filename="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" />
+      <jump line="93" column="38" filename="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" />
+      <jump line="97" column="20" filename="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" />
+      <jump line="65" column="8" filename="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -800,7 +800,7 @@
         <text>flat</text>
       </register>
       <register name="/" type="4">
-        <text>pizza</text>
+        <text encoding="base64">XDxmZWF0dXJlX2Z1bmN0aW9uXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBvdSA9IHNjaXB5Lm5kaW1hZ2UuZmlsdGVycy5nYXVzc2lhbl9maWx0ZXIob3UsIHNpZ21hPTMpCg==</text>
@@ -837,15 +837,14 @@
       </register>
     </registers>
     <search>
-      <last-search>pizza</last-search>
+      <last-search encoding="base64">XDxmZWF0dXJlX2Z1bmN0aW9uXD4=</last-search>
       <last-offset />
-      <last-pattern>pizza</last-pattern>
+      <last-pattern encoding="base64">XDxmZWF0dXJlX2Z1bmN0aW9uXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfX2ltcG9ydF9kYXRhcGx1c19zZWVkc1w+</entry>
         <entry>app</entry>
         <entry>sed3q</entry>
         <entry encoding="base64">XDxhcHJpb3JpXD4=</entry>
@@ -865,6 +864,7 @@
         <entry encoding="base64">XDxfX3B1dF9zbGljZV9pbl9zbGltXD4=</entry>
         <entry>flip</entry>
         <entry>pizza</entry>
+        <entry encoding="base64">XDxmZWF0dXJlX2Z1bmN0aW9uXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>291</entry>
