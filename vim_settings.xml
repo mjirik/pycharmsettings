@@ -529,12 +529,12 @@
         <mark key="^" line="6" column="9" />
         <mark key="." line="6" column="9" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/liver_seeds.py" timestamp="1453962546110">
-        <mark key="'" line="118" column="0" />
-        <mark key="[" line="54" column="4" />
-        <mark key="]" line="54" column="8" />
-        <mark key="^" line="54" column="8" />
-        <mark key="." line="54" column="8" />
+      <file name="$USER_HOME$/projects/lisa/lisa/liver_seeds.py" timestamp="1454232318188">
+        <mark key="'" line="75" column="9" />
+        <mark key="[" line="54" column="17" />
+        <mark key="]" line="55" column="33" />
+        <mark key="^" line="55" column="33" />
+        <mark key="." line="55" column="33" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/covert.py" timestamp="1448825543836">
         <mark key="[" line="94" column="57" />
@@ -691,10 +691,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="231" column="7" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
-      <jump line="245" column="45" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
-      <jump line="247" column="29" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
-      <jump line="40" column="13" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
       <jump line="47" column="12" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
       <jump line="113" column="0" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
       <jump line="1118" column="36" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
@@ -791,61 +787,64 @@
       <jump line="93" column="38" filename="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" />
       <jump line="97" column="20" filename="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" />
       <jump line="65" column="8" filename="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" />
+      <jump line="56" column="4" filename="$USER_HOME$/projects/lisa/lisa/liver_seeds.py" />
+      <jump line="70" column="9" filename="$USER_HOME$/projects/lisa/lisa/liver_seeds.py" />
+      <jump line="71" column="9" filename="$USER_HOME$/projects/lisa/lisa/liver_seeds.py" />
+      <jump line="72" column="9" filename="$USER_HOME$/projects/lisa/lisa/liver_seeds.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>flat</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGltcG9ydCBzY2lweQo=</text>
       </register>
       <register name="-" type="4">
         <text>flat</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmZWF0dXJlX2Z1bmN0aW9uXD4=</text>
+        <text encoding="base64">XDxzZWVkMV9tbVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBvdSA9IHNjaXB5Lm5kaW1hZ2UuZmlsdGVycy5nYXVzc2lhbl9maWx0ZXIob3UsIHNpZ21hPTMpCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>flat</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGltcG9ydCBzY2lweQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBlc2N0ZSBqaW5hawogICAgc2VlZDEgPSBucC51bnJhdmVsX2luZGV4KG5wLmFyZ21heChkc3QpLCBkc3Quc2hhcGUpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhCg==</text>
+        <text encoding="base64">ICAgIGltcG9ydCBzY2lweQogICAgZHN0ID0gc2NpcHkubmRpbWFnZS5tb3JwaG9sb2d5LmRpc3RhbmNlX3RyYW5zZm9ybV9lZHQoZGw+MCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIHNrbGVhcm4uY292YXJpYW5jZSBpbXBvcnQgRWxsaXB0aWNFbnZlbG9wZQo=</text>
+        <text encoding="base64">ICAgIGRsID0gc2NpcHkubmRpbWFnZS5maWx0ZXJzLmdhdXNzaWFuX2ZpbHRlcihkbCwgc2lnbWE9Z2F1c3NpYW5fc2lnbWFfbW0vd29ya2luZ192b3hlbHNpemVfbW0pCiAgICBzZWVkMSA9IG5wLnVucmF2ZWxfaW5kZXgobnAuYXJnbWF4KGRsKSwgZGwuc2hhcGUpCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBucC5zdW0oeV9wcmVkID4gMCkK</text>
+      <register name="5" type="4">
+        <text>flat</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiByb3RhdGVfYnlfc3ltbWV0cnlfcG9pbnQoc2VsZik6Cg==</text>
+        <text encoding="base64">ICAgICAgICBkYXRhCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>4</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBmcm9tIHNrbGVhcm4uY292YXJpYW5jZSBpbXBvcnQgRWxsaXB0aWNFbnZlbG9wZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBmaWx0ZXIgd2l0aCBiaWcgbWFzawogICAgICAgICAgICBvdSA9IGZpbGxfbmFuX3dpdGhfbmVhcmVzdChmbGF0KQogICAgICAgICAgICBvdSA9IHNjaXB5Lm5kaW1hZ2UuZmlsdGVycy5nYXVzc2lhbl9maWx0ZXIob3UsIHNpZ21hPTEwKQoKCiAgICAgICAgICAgICMgZ2V0IGJhY2sgdmFsaWQgdmFsdWVzIG9uIGl0cyBwbGFjZXMKICAgICAgICAgICAgdmFsaWRfZmxhdF9pbmRzID0gMSAtIG5wLmlzbmFuKGZsYXQpCiAgICAgICAgICAgIG91W3ZhbGlkX2ZsYXRfaW5kc10gPSBmbGF0W3ZhbGlkX2ZsYXRfaW5kc10KICAgICAgICAgICAgZmxhdCA9IG91Cg==</text>
+        <text encoding="base64">ICAgICAgICBucC5zdW0oeV9wcmVkID4gMCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmZWF0dXJlX2Z1bmN0aW9uXD4=</last-search>
+      <last-search encoding="base64">XDxzZWVkMV9tbVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmZWF0dXJlX2Z1bmN0aW9uXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxzZWVkMV9tbVw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>app</entry>
         <entry>sed3q</entry>
         <entry encoding="base64">XDxhcHJpb3JpXD4=</entry>
         <entry>apriori</entry>
@@ -865,6 +864,7 @@
         <entry>flip</entry>
         <entry>pizza</entry>
         <entry encoding="base64">XDxmZWF0dXJlX2Z1bmN0aW9uXD4=</entry>
+        <entry encoding="base64">XDxzZWVkMV9tbVw+</entry>
       </history-search>
       <history-cmd>
         <entry>291</entry>
