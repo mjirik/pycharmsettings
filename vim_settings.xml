@@ -529,10 +529,12 @@
         <mark key="^" line="6" column="9" />
         <mark key="." line="6" column="9" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/liver_seeds.py" timestamp="1454346447437">
+      <file name="$USER_HOME$/projects/lisa/lisa/liver_seeds.py" timestamp="1454348082551">
         <mark key="a" line="68" column="25" />
         <mark key="'" line="124" column="18" />
-        <mark key="[" line="56" column="65" />
+        <mark key="[" line="30" column="33" />
+        <mark key="]" line="30" column="34" />
+        <mark key="." line="30" column="34" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/covert.py" timestamp="1448825543836">
         <mark key="[" line="94" column="57" />
@@ -792,7 +794,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50IAo=</text>
+        <text encoding="base64">ICAgIGRzdCA9IHNjaXB5Lm5kaW1hZ2UuZmlsdGVycy5nYXVzc2lhbl9maWx0ZXIoZGwsIHNpZ21hPWdhdXNzaWFuX3NpZ21hX21tL3dvcmtpbmdfdm94ZWxzaXplX21tKQo=</text>
       </register>
       <register name="-" type="4">
         <text>x</text>
@@ -801,7 +803,7 @@
         <text encoding="base64">XDxnYXVzc2lhbl9zaWdtYV9tbVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWVkMXpfcHhfbWFzayA9IGludChzZWVkMXpfbW0vIG1hc2tfdm94ZWxzaXplX21tWzBdKQo=</text>
+        <text encoding="base64">ICAgIGRzdCA9IHNjaXB5Lm5kaW1hZ2UuZmlsdGVycy5nYXVzc2lhbl9maWx0ZXIoZGwsIHNpZ21hPWdhdXNzaWFuX3NpZ21hX21tL3dvcmtpbmdfdm94ZWxzaXplX21tKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHByaW50IAo=</text>
