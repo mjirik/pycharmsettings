@@ -529,12 +529,12 @@
         <mark key="^" line="6" column="9" />
         <mark key="." line="6" column="9" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/liver_seeds.py" timestamp="1454232318188">
-        <mark key="'" line="75" column="9" />
-        <mark key="[" line="54" column="17" />
-        <mark key="]" line="55" column="33" />
-        <mark key="^" line="55" column="33" />
-        <mark key="." line="55" column="33" />
+      <file name="$USER_HOME$/projects/lisa/lisa/liver_seeds.py" timestamp="1454326948921">
+        <mark key="'" line="51" column="59" />
+        <mark key="[" line="34" column="40" />
+        <mark key="]" line="34" column="51" />
+        <mark key="^" line="34" column="51" />
+        <mark key="." line="34" column="51" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/covert.py" timestamp="1448825543836">
         <mark key="[" line="94" column="57" />
@@ -691,9 +691,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="12" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
-      <jump line="113" column="0" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
-      <jump line="1118" column="36" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
       <jump line="18" column="0" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
       <jump line="328" column="16" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
       <jump line="344" column="14" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
@@ -791,6 +788,9 @@
       <jump line="70" column="9" filename="$USER_HOME$/projects/lisa/lisa/liver_seeds.py" />
       <jump line="71" column="9" filename="$USER_HOME$/projects/lisa/lisa/liver_seeds.py" />
       <jump line="72" column="9" filename="$USER_HOME$/projects/lisa/lisa/liver_seeds.py" />
+      <jump line="30" column="8" filename="$USER_HOME$/projects/lisa/lisa/liver_seeds.py" />
+      <jump line="35" column="35" filename="$USER_HOME$/projects/lisa/lisa/liver_seeds.py" />
+      <jump line="51" column="59" filename="$USER_HOME$/projects/lisa/lisa/liver_seeds.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -800,7 +800,7 @@
         <text>flat</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZWVkMV9tbVw+</text>
+        <text encoding="base64">XDxnYXVzc2lhbl9zaWdtYV9tbVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBvdSA9IHNjaXB5Lm5kaW1hZ2UuZmlsdGVycy5nYXVzc2lhbl9maWx0ZXIob3UsIHNpZ21hPTMpCg==</text>
@@ -837,15 +837,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZWVkMV9tbVw+</last-search>
+      <last-search encoding="base64">XDxnYXVzc2lhbl9zaWdtYV9tbVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZWVkMV9tbVw+</last-pattern>
+      <last-pattern encoding="base64">XDxnYXVzc2lhbl9zaWdtYV9tbVw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>sed3q</entry>
         <entry encoding="base64">XDxhcHJpb3JpXD4=</entry>
         <entry>apriori</entry>
         <entry>self.like</entry>
@@ -865,6 +864,7 @@
         <entry>pizza</entry>
         <entry encoding="base64">XDxmZWF0dXJlX2Z1bmN0aW9uXD4=</entry>
         <entry encoding="base64">XDxzZWVkMV9tbVw+</entry>
+        <entry encoding="base64">XDxnYXVzc2lhbl9zaWdtYV9tbVw+</entry>
       </history-search>
       <history-cmd>
         <entry>291</entry>
