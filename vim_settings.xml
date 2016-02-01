@@ -27,7 +27,7 @@
         <mark key="^" line="88" column="52" />
         <mark key="." line="88" column="52" />
       </file>
-      <file name="/a.dummy" timestamp="1454103442247">
+      <file name="/a.dummy" timestamp="1454329959301">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -529,12 +529,13 @@
         <mark key="^" line="6" column="9" />
         <mark key="." line="6" column="9" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/liver_seeds.py" timestamp="1454326948921">
-        <mark key="'" line="51" column="59" />
-        <mark key="[" line="34" column="40" />
-        <mark key="]" line="34" column="51" />
-        <mark key="^" line="34" column="51" />
-        <mark key="." line="34" column="51" />
+      <file name="$USER_HOME$/projects/lisa/lisa/liver_seeds.py" timestamp="1454330547889">
+        <mark key="a" line="65" column="25" />
+        <mark key="'" line="121" column="18" />
+        <mark key="[" line="136" column="38" />
+        <mark key="]" line="136" column="41" />
+        <mark key="^" line="136" column="41" />
+        <mark key="." line="136" column="41" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/covert.py" timestamp="1448825543836">
         <mark key="[" line="94" column="57" />
@@ -691,7 +692,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="0" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
       <jump line="328" column="16" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
       <jump line="344" column="14" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
       <jump line="352" column="14" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
@@ -791,46 +791,47 @@
       <jump line="30" column="8" filename="$USER_HOME$/projects/lisa/lisa/liver_seeds.py" />
       <jump line="35" column="35" filename="$USER_HOME$/projects/lisa/lisa/liver_seeds.py" />
       <jump line="51" column="59" filename="$USER_HOME$/projects/lisa/lisa/liver_seeds.py" />
+      <jump line="121" column="18" filename="$USER_HOME$/projects/lisa/lisa/liver_seeds.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBzY2lweQo=</text>
+      <register name="&quot;" type="4">
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text>flat</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnYXVzc2lhbl9zaWdtYV9tbVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBvdSA9IHNjaXB5Lm5kaW1hZ2UuZmlsdGVycy5nYXVzc2lhbl9maWx0ZXIob3UsIHNpZ21hPTMpCg==</text>
+        <text encoding="base64">ICAgIHNlZWQxeiA9IHNlZWQxWzBdCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBzY2lweQo=</text>
+      <register name="1" type="4">
+        <text>d</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">IyBlc2N0ZSBqaW5hawogICAgc2VlZDEgPSBucC51bnJhdmVsX2luZGV4KG5wLmFyZ21heChkc3QpLCBkc3Quc2hhcGUpCg==</text>
+      <register name="2" type="4">
+        <text>e</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBzY2lweQogICAgZHN0ID0gc2NpcHkubmRpbWFnZS5tb3JwaG9sb2d5LmRpc3RhbmNlX3RyYW5zZm9ybV9lZHQoZGw+MCkK</text>
+      <register name="3" type="4">
+        <text>e</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGRsID0gc2NpcHkubmRpbWFnZS5maWx0ZXJzLmdhdXNzaWFuX2ZpbHRlcihkbCwgc2lnbWE9Z2F1c3NpYW5fc2lnbWFfbW0vd29ya2luZ192b3hlbHNpemVfbW0pCiAgICBzZWVkMSA9IG5wLnVucmF2ZWxfaW5kZXgobnAuYXJnbWF4KGRsKSwgZGwuc2hhcGUpCg==</text>
+      <register name="4" type="4">
+        <text>s</text>
       </register>
       <register name="5" type="4">
-        <text>flat</text>
+        <text>m</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>m</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhCg==</text>
+      <register name="7" type="4">
+        <text>_</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIHNrbGVhcm4uY292YXJpYW5jZSBpbXBvcnQgRWxsaXB0aWNFbnZlbG9wZQo=</text>
+        <text encoding="base64">ICAgIGltcG9ydCBzY2lweQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBucC5zdW0oeV9wcmVkID4gMCkK</text>
+        <text encoding="base64">IyBlc2N0ZSBqaW5hawogICAgc2VlZDEgPSBucC51bnJhdmVsX2luZGV4KG5wLmFyZ21heChkc3QpLCBkc3Quc2hhcGUpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
