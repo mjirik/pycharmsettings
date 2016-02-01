@@ -27,7 +27,7 @@
         <mark key="^" line="88" column="52" />
         <mark key="." line="88" column="52" />
       </file>
-      <file name="/a.dummy" timestamp="1454329959301">
+      <file name="/a.dummy" timestamp="1454332812535">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -529,13 +529,13 @@
         <mark key="^" line="6" column="9" />
         <mark key="." line="6" column="9" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/liver_seeds.py" timestamp="1454330547889">
+      <file name="$USER_HOME$/projects/lisa/lisa/liver_seeds.py" timestamp="1454332614376">
         <mark key="a" line="65" column="25" />
         <mark key="'" line="121" column="18" />
-        <mark key="[" line="136" column="38" />
-        <mark key="]" line="136" column="41" />
-        <mark key="^" line="136" column="41" />
-        <mark key="." line="136" column="41" />
+        <mark key="[" line="156" column="26" />
+        <mark key="]" line="156" column="26" />
+        <mark key="^" line="156" column="25" />
+        <mark key="." line="156" column="26" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/covert.py" timestamp="1448825543836">
         <mark key="[" line="94" column="57" />
@@ -795,43 +795,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>d</text>
+        <text>x</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>x</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnYXVzc2lhbl9zaWdtYV9tbVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHNlZWQxeiA9IHNlZWQxWzBdCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWVkMXpfcHhfbWFzayA9IGludChzZWVkMXpfbW0vIG1hc2tfdm94ZWxzaXplX21tWzBdKQo=</text>
       </register>
       <register name="1" type="4">
-        <text>d</text>
+        <text>x</text>
       </register>
       <register name="2" type="4">
-        <text>e</text>
+        <text>p</text>
       </register>
       <register name="3" type="4">
-        <text>e</text>
+        <text>seeds</text>
       </register>
       <register name="4" type="4">
-        <text>s</text>
+        <text>int(seed1z_mm/ seeds_voxelsize_mm[0])</text>
       </register>
       <register name="5" type="4">
-        <text>m</text>
+        <text>s</text>
       </register>
       <register name="6" type="4">
-        <text>m</text>
+        <text>mask_voxelsize_mm</text>
       </register>
       <register name="7" type="4">
-        <text>_</text>
+        <text encoding="base64">bWFzayA=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBzY2lweQo=</text>
+      <register name="8" type="4">
+        <text>int(seed1z_mm/ mask_voxelsize_mm[0])</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">IyBlc2N0ZSBqaW5hawogICAgc2VlZDEgPSBucC51bnJhdmVsX2luZGV4KG5wLmFyZ21heChkc3QpLCBkc3Quc2hhcGUpCg==</text>
+      <register name="9" type="4">
+        <text>d</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
