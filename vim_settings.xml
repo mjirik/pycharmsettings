@@ -529,13 +529,10 @@
         <mark key="^" line="6" column="9" />
         <mark key="." line="6" column="9" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/liver_seeds.py" timestamp="1454332614376">
-        <mark key="a" line="65" column="25" />
-        <mark key="'" line="121" column="18" />
-        <mark key="[" line="156" column="26" />
-        <mark key="]" line="156" column="26" />
-        <mark key="^" line="156" column="25" />
-        <mark key="." line="156" column="26" />
+      <file name="$USER_HOME$/projects/lisa/lisa/liver_seeds.py" timestamp="1454346447437">
+        <mark key="a" line="68" column="25" />
+        <mark key="'" line="124" column="18" />
+        <mark key="[" line="56" column="65" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/covert.py" timestamp="1448825543836">
         <mark key="[" line="94" column="57" />
@@ -794,8 +791,8 @@
       <jump line="121" column="18" filename="$USER_HOME$/projects/lisa/lisa/liver_seeds.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>x</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaW50IAo=</text>
       </register>
       <register name="-" type="4">
         <text>x</text>
@@ -806,32 +803,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWVkMXpfcHhfbWFzayA9IGludChzZWVkMXpfbW0vIG1hc2tfdm94ZWxzaXplX21tWzBdKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>x</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHByaW50IAo=</text>
       </register>
       <register name="2" type="4">
-        <text>p</text>
+        <text>x</text>
       </register>
       <register name="3" type="4">
-        <text>seeds</text>
+        <text>p</text>
       </register>
       <register name="4" type="4">
-        <text>int(seed1z_mm/ seeds_voxelsize_mm[0])</text>
+        <text>seeds</text>
       </register>
       <register name="5" type="4">
-        <text>s</text>
+        <text>int(seed1z_mm/ seeds_voxelsize_mm[0])</text>
       </register>
       <register name="6" type="4">
-        <text>mask_voxelsize_mm</text>
+        <text>s</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">bWFzayA=</text>
+        <text>mask_voxelsize_mm</text>
       </register>
       <register name="8" type="4">
-        <text>int(seed1z_mm/ mask_voxelsize_mm[0])</text>
+        <text encoding="base64">bWFzayA=</text>
       </register>
       <register name="9" type="4">
-        <text>d</text>
+        <text>int(seed1z_mm/ mask_voxelsize_mm[0])</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
