@@ -27,7 +27,7 @@
         <mark key="^" line="88" column="52" />
         <mark key="." line="88" column="52" />
       </file>
-      <file name="/a.dummy" timestamp="1454359860074">
+      <file name="/a.dummy" timestamp="1454417106604">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -56,6 +56,13 @@
         <mark key="]" line="31" column="21" />
         <mark key="^" line="31" column="21" />
         <mark key="." line="31" column="21" />
+      </file>
+      <file name="$USER_HOME$/projects/sed3/tests/sed_test.py" timestamp="1454419029948">
+        <mark key="a" line="79" column="37" />
+        <mark key="[" line="94" column="8" />
+        <mark key="]" line="94" column="8" />
+        <mark key="." line="94" column="8" />
+        <mark key="^" line="95" column="29" />
       </file>
       <file name="$USER_HOME$/projects/imtools/imtools/uiThreshold.py" timestamp="1451854356938">
         <mark key="'" line="539" column="8" />
@@ -86,12 +93,12 @@
         <mark key="." line="38" column="69" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1454412580869">
-        <mark key="a" line="584" column="8" />
-        <mark key="'" line="168" column="42" />
-        <mark key="[" line="629" column="36" />
-        <mark key="]" line="629" column="42" />
-        <mark key="^" line="629" column="42" />
-        <mark key="." line="629" column="42" />
+        <mark key="a" line="582" column="8" />
+        <mark key="'" line="166" column="42" />
+        <mark key="[" line="627" column="36" />
+        <mark key="]" line="627" column="42" />
+        <mark key="^" line="627" column="42" />
+        <mark key="." line="627" column="42" />
       </file>
       <file name="$USER_HOME$/projects/lisa/tests/liver_segmentation_cerveny_test.py" timestamp="1449487905152">
         <mark key="[" line="30" column="23" />
@@ -208,6 +215,9 @@
         <mark key="]" line="19" column="14" />
         <mark key="^" line="19" column="14" />
         <mark key="." line="19" column="14" />
+      </file>
+      <file name="/Python Console" timestamp="1454418448086">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/quantan/quantan/histology_report.py" timestamp="1452186060856">
         <mark key="[" line="269" column="34" />
@@ -407,11 +417,6 @@
         <mark key="^" line="3" column="15" />
         <mark key="." line="3" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/imtools/docs/pip_requirements.txt" timestamp="1453333631287">
-        <mark key="]" line="0" column="3" />
-        <mark key="^" line="0" column="3" />
-        <mark key="." line="0" column="3" />
-      </file>
       <file name="$USER_HOME$/projects/quaha/quaha/histology_report.py" timestamp="1445327745987">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="12" />
@@ -609,13 +614,13 @@
         <mark key="^" line="206" column="49" />
         <mark key="." line="206" column="49" />
       </file>
-      <file name="$USER_HOME$/projects/sed3/sed3/sed3.py" timestamp="1454103440175">
-        <mark key="b" line="729" column="0" />
-        <mark key="'" line="459" column="11" />
-        <mark key="[" line="72" column="21" />
-        <mark key="]" line="72" column="33" />
-        <mark key="." line="72" column="33" />
-        <mark key="^" line="72" column="33" />
+      <file name="$USER_HOME$/projects/sed3/sed3/sed3.py" timestamp="1454418864858">
+        <mark key="b" line="747" column="0" />
+        <mark key="'" line="632" column="0" />
+        <mark key="[" line="623" column="33" />
+        <mark key="]" line="624" column="33" />
+        <mark key="^" line="624" column="33" />
+        <mark key="." line="624" column="33" />
       </file>
       <file name="$USER_HOME$/projects/pysegbase/meta.yaml" timestamp="1446724431868">
         <mark key="[" line="41" column="10" />
@@ -747,7 +752,6 @@
       <jump line="494" column="15" filename="$USER_HOME$/projects/sed3/sed3/sed3.py" />
       <jump line="656" column="4" filename="$USER_HOME$/projects/sed3/sed3/sed3.py" />
       <jump line="623" column="19" filename="$USER_HOME$/projects/sed3/sed3/sed3.py" />
-      <jump line="626" column="19" filename="$USER_HOME$/projects/sed3/sed3/sed3.py" />
       <jump line="631" column="15" filename="$USER_HOME$/projects/sed3/sed3/sed3.py" />
       <jump line="693" column="0" filename="$USER_HOME$/projects/sed3/sed3/sed3.py" />
       <jump line="650" column="4" filename="$USER_HOME$/projects/sed3/sed3/sed3.py" />
@@ -792,61 +796,61 @@
       <jump line="730" column="15" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="58" column="21" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="168" column="42" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="626" column="0" filename="$USER_HOME$/projects/sed3/sed3/sed3.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsb2FkRGF0YUZpbGVcPg==</text>
+        <text>first_sl</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBoZWFkLCB0ZWlsID0gb3MucGF0aC5zcGxpdChvc2VnLmRhdGFwYXRoKQogICAgICAgIHNlbGYub3NlZy5jYWNoZS51cGRhdGUoJ2xvYWRmaWxlZGlyJywgaGVhZCkK</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X2ZpcnN0X3NsaWNlX29mZnNldChzZWxmKToKICAgICAgICBpbXBvcnQgc2VkMwogICAgICAgIGltZywgc2VlZHMsIHNlZ21lbnRhdGlvbiA9IHNlbGYuY3JlYXRlX2RhdGEoKQoKICAgICAgICBlZCA9IHNlZDMuc2hvd19zbGljZXMoaW1nLCBzZWVkcz1zZWVkcywgY29udG91cj1zZWdtZW50YXRpb24sIHNsaWNlX3N0ZXA9NSwgZmlyc3Rfc2xpY2Vfb2Zmc2V0X3RvX3NlZV9zZWVkX3dpdGhfbGFiZWw9MSkK</text>
       </register>
       <register name="1" type="4">
-        <text>e</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="4">
-        <text>l</text>
+        <text>=</text>
       </register>
       <register name="3" type="4">
-        <text>i</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="4" type="4">
-        <text>f</text>
+        <text>d</text>
       </register>
       <register name="5" type="4">
-        <text>oseg.datapath</text>
+        <text>e</text>
       </register>
-      <register name="6" type="4">
-        <text>self.oseg.input_datapath_start</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBlZC5zaG93KCkK</text>
       </register>
-      <register name="7" type="4">
-        <text>filedir</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBzZWQK</text>
       </register>
       <register name="8" type="4">
-        <text>filedir</text>
+        <text>run_with_seeds_and_contour</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50IAo=</text>
+        <text encoding="base64">ICAgIGZpcnN0X3NsaWNlX29mZnNldAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsb2FkRGF0YUZpbGVcPg==</last-search>
+      <last-search>first_sl</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsb2FkRGF0YUZpbGVcPg==</last-pattern>
+      <last-pattern>first_sl</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>spine</entry>
         <entry>print</entry>
         <entry>sp</entry>
         <entry encoding="base64">XDxhcHJpb3JpX2dhbW1hXD4=</entry>
@@ -866,6 +870,7 @@
         <entry>load</entry>
         <entry>Load file</entry>
         <entry encoding="base64">XDxsb2FkRGF0YUZpbGVcPg==</entry>
+        <entry>first_sl</entry>
       </history-search>
       <history-cmd>
         <entry>291</entry>
