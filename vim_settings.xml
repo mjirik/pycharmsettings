@@ -85,13 +85,13 @@
         <mark key="^" line="40" column="23" />
         <mark key="." line="38" column="69" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1453663951814">
-        <mark key="a" line="475" column="8" />
-        <mark key="'" line="335" column="21" />
-        <mark key="[" line="822" column="0" />
-        <mark key="]" line="822" column="0" />
-        <mark key="^" line="578" column="9" />
-        <mark key="." line="822" column="0" />
+      <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1454412580869">
+        <mark key="a" line="584" column="8" />
+        <mark key="'" line="168" column="42" />
+        <mark key="[" line="629" column="36" />
+        <mark key="]" line="629" column="42" />
+        <mark key="^" line="629" column="42" />
+        <mark key="." line="629" column="42" />
       </file>
       <file name="$USER_HOME$/projects/lisa/tests/liver_segmentation_cerveny_test.py" timestamp="1449487905152">
         <mark key="[" line="30" column="23" />
@@ -692,24 +692,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="352" column="14" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="353" column="14" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="365" column="12" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="402" column="14" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="519" column="10" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="522" column="10" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="550" column="12" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="789" column="10" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="790" column="10" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="791" column="10" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="793" column="10" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="847" column="10" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="917" column="10" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="924" column="10" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="925" column="10" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="1028" column="26" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="1154" column="16" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="1159" column="16" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
       <jump line="1245" column="12" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
       <jump line="1304" column="24" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
       <jump line="1313" column="10" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
@@ -792,66 +774,78 @@
       <jump line="121" column="18" filename="$USER_HOME$/projects/lisa/lisa/liver_seeds.py" />
       <jump line="120" column="4" filename="$USER_HOME$/projects/lisa/lisa/liver_seeds.py" />
       <jump line="44" column="12" filename="$USER_HOME$/projects/lisa/lisa/liver_seeds.py" />
+      <jump line="336" column="0" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="335" column="21" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="329" column="42" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="594" column="8" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="731" column="15" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="734" column="21" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="736" column="22" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="739" column="8" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="743" column="40" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="746" column="24" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="750" column="40" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="142" column="12" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="143" column="12" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="144" column="33" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="145" column="27" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="730" column="15" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="58" column="21" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="168" column="42" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRzdCA9IHNjaXB5Lm5kaW1hZ2UuZmlsdGVycy5nYXVzc2lhbl9maWx0ZXIoZGwsIHNpZ21hPWdhdXNzaWFuX3NpZ21hX21tL3dvcmtpbmdfdm94ZWxzaXplX21tKQo=</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhZGRfbmVnYXRpdmVfbm90cmFpbl9zZWVkc1w+</text>
+        <text encoding="base64">XDxsb2FkRGF0YUZpbGVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRzdCA9IHNjaXB5Lm5kaW1hZ2UuZmlsdGVycy5nYXVzc2lhbl9maWx0ZXIoZGwsIHNpZ21hPWdhdXNzaWFuX3NpZ21hX21tL3dvcmtpbmdfdm94ZWxzaXplX21tKQo=</text>
+        <text encoding="base64">ICAgICAgICBoZWFkLCB0ZWlsID0gb3MucGF0aC5zcGxpdChvc2VnLmRhdGFwYXRoKQogICAgICAgIHNlbGYub3NlZy5jYWNoZS51cGRhdGUoJ2xvYWRmaWxlZGlyJywgaGVhZCkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50IAo=</text>
+      <register name="1" type="4">
+        <text>e</text>
       </register>
       <register name="2" type="4">
-        <text>x</text>
+        <text>l</text>
       </register>
       <register name="3" type="4">
-        <text>p</text>
+        <text>i</text>
       </register>
       <register name="4" type="4">
-        <text>seeds</text>
+        <text>f</text>
       </register>
       <register name="5" type="4">
-        <text>int(seed1z_mm/ seeds_voxelsize_mm[0])</text>
+        <text>oseg.datapath</text>
       </register>
       <register name="6" type="4">
-        <text>s</text>
+        <text>self.oseg.input_datapath_start</text>
       </register>
       <register name="7" type="4">
-        <text>mask_voxelsize_mm</text>
+        <text>filedir</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">bWFzayA=</text>
+        <text>filedir</text>
       </register>
-      <register name="9" type="4">
-        <text>int(seed1z_mm/ mask_voxelsize_mm[0])</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHByaW50IAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhZGRfbmVnYXRpdmVfbm90cmFpbl9zZWVkc1w+</last-search>
+      <last-search encoding="base64">XDxsb2FkRGF0YUZpbGVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhZGRfbmVnYXRpdmVfbm90cmFpbl9zZWVkc1w+</last-pattern>
+      <last-pattern encoding="base64">XDxsb2FkRGF0YUZpbGVcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>self.like</entry>
-        <entry encoding="base64">XDxsaWtlbGlob29kX2Zyb21faW1hZ2VcPg==</entry>
-        <entry>ipdb</entry>
-        <entry>after</entry>
-        <entry encoding="base64">XDxhdXRvbWF0aWNfbGl2ZXJfc2VlZHNcPg==</entry>
-        <entry>mean</entry>
         <entry>spine</entry>
         <entry>print</entry>
         <entry>sp</entry>
@@ -866,6 +860,12 @@
         <entry encoding="base64">XDxnYXVzc2lhbl9zaWdtYV9tbVw+</entry>
         <entry encoding="base64">XDxhZGRfbmVnYXRpdmVfdHJhaW5fc2VlZHNfYmxvYnNcPg==</entry>
         <entry encoding="base64">XDxhZGRfbmVnYXRpdmVfbm90cmFpbl9zZWVkc1w+</entry>
+        <entry>ipdb</entry>
+        <entry>compare</entry>
+        <entry>config</entry>
+        <entry>load</entry>
+        <entry>Load file</entry>
+        <entry encoding="base64">XDxsb2FkRGF0YUZpbGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>291</entry>
