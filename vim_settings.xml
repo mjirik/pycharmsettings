@@ -695,12 +695,12 @@
         <mark key="]" line="156" column="0" />
         <mark key="." line="67" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/events2calendar/mail2calendar.py" timestamp="1459031251496">
-        <mark key="'" line="30" column="23" />
-        <mark key="[" line="139" column="17" />
-        <mark key="]" line="140" column="10" />
-        <mark key="." line="140" column="10" />
-        <mark key="^" line="140" column="10" />
+      <file name="$USER_HOME$/projects/events2calendar/mail2calendar.py" timestamp="1459035033645">
+        <mark key="'" line="216" column="4" />
+        <mark key="[" line="183" column="16" />
+        <mark key="]" line="183" column="16" />
+        <mark key="^" line="183" column="16" />
+        <mark key="." line="183" column="16" />
       </file>
       <file name="$USER_HOME$/projects/lisa/install_osx.md" timestamp="1448122216203">
         <mark key="[" line="0" column="0" />
@@ -752,10 +752,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="248" column="14" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="311" column="10" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="624" column="10" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="625" column="18" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
       <jump line="626" column="18" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
       <jump line="627" column="25" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
       <jump line="687" column="27" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
@@ -852,61 +848,64 @@
       <jump line="44" column="29" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
       <jump line="158" column="0" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
       <jump line="30" column="23" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
+      <jump line="221" column="12" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
+      <jump line="211" column="4" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
+      <jump line="177" column="4" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
+      <jump line="214" column="4" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>xample</text>
+        <text>čkami</text>
       </register>
       <register name="-" type="4">
-        <text>xample</text>
+        <text>čkami</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzaG93X3NsaWNlXD4=</text>
+        <text encoding="base64">XDxwYXJzZV90ZXh0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5sZS5zZXRUZXh0KHN0cih0ZXh0KSkK</text>
+        <text encoding="base64">ICAgICdkZXNjcmlwdGlvbic6ICdBIGNoYW5jZSB0byBoZWFyIG1vcmUgYWJvdXQgR29vZ2xlXCdzIGRldmVsb3BlciBwcm9kdWN0cy4nLAogICAgJ3N0YXJ0JzogewogICAgICAgICdkYXRlVGltZSc6ICcyMDE2LTAzLTI4VDA5OjAwOjAwLTA3OjAwJywKICAgICAgICAndGltZVpvbmUnOiAnQW1lcmljYS9Mb3NfQW5nZWxlcycsCiAgICB9LAo=</text>
       </register>
       <register name="1" type="4">
-        <text>xample</text>
+        <text>čkami</text>
       </register>
       <register name="2" type="4">
         <text>xample</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIC9ob21lL21qaXJpay9wcm9qZWN0cy9ldmVudHMyY2FsZW5kYXIvbWFpbDJjYWxlbmRhci5weSAK</text>
+        <text encoding="base64">ICAgICAgICBldmVudHMuYXBwZW5kKGV2ZW50KQo=</text>
       </register>
       <register name="4" type="4">
-        <text>text</text>
+        <text>&quot;Processed&quot;</text>
       </register>
-      <register name="5" type="4">
-        <text>le</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBsaW5lCg==</text>
       </register>
       <register name="6" type="4">
-        <text>le</text>
+        <text>out</text>
       </register>
       <register name="7" type="4">
-        <text>Quit</text>
+        <text encoding="base64">b3V0IA==</text>
       </register>
       <register name="8" type="4">
-        <text>Quit</text>
+        <text>'2016-03-28T09:00:00-07:00'</text>
       </register>
-      <register name="9" type="4">
-        <text>Process</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICMgcHJpbnQgY2FzCgogICAgcGFyc2VkID0gZGF0dW0gKyAiICIgKyBjYXMKICAgIHByaW50IHBhcnNlZAoKICAgIG91dCA9IGRhdGVwYXJzZXIucGFyc2UocGFyc2VkKV8K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzaG93X3NsaWNlXD4=</last-search>
+      <last-search encoding="base64">XDxwYXJzZV90ZXh0XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzaG93X3NsaWNlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxwYXJzZV90ZXh0XD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>sp</entry>
         <entry encoding="base64">XDxhcHJpb3JpX2dhbW1hXD4=</entry>
         <entry encoding="base64">XDxfZmlsdGVyX2RpYXBocmFnbV9wcm9maWxlX2ltYWdlX3JlbW92ZV9vdXRsYXllcnNcPg==</entry>
         <entry>flip</entry>
@@ -926,6 +925,7 @@
         <entry>lut</entry>
         <entry encoding="base64">XDxfX3B1dF9zbGljZV9pbl9zbGltXD4=</entry>
         <entry encoding="base64">XDxzaG93X3NsaWNlXD4=</entry>
+        <entry encoding="base64">XDxwYXJzZV90ZXh0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>291</entry>
@@ -933,6 +933,8 @@
         <entry>270</entry>
         <entry>q</entry>
         <entry>638</entry>
+        <entry>178</entry>
+        <entry>220</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
