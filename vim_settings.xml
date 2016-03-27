@@ -695,12 +695,11 @@
         <mark key="]" line="156" column="0" />
         <mark key="." line="67" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/events2calendar/mail2calendar.py" timestamp="1459074229215">
+      <file name="$USER_HOME$/projects/events2calendar/mail2calendar.py" timestamp="1459085455206">
         <mark key="'" line="110" column="66" />
-        <mark key="[" line="114" column="23" />
-        <mark key="]" line="114" column="27" />
-        <mark key="." line="114" column="27" />
-        <mark key="^" line="114" column="27" />
+        <mark key="[" line="128" column="0" />
+        <mark key="]" line="128" column="12" />
+        <mark key="." line="128" column="12" />
       </file>
       <file name="$USER_HOME$/projects/lisa/install_osx.md" timestamp="1448122216203">
         <mark key="[" line="0" column="0" />
@@ -854,44 +853,44 @@
       <jump line="107" column="66" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>now</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGlmIG5vdCBldmVudHM6CiAgICAgICAgcHJpbnQoJ05vIHVwY29taW5nIGV2ZW50cyBmb3VuZC4nKQogICAgZm9yIGV2ZW50IGluIGV2ZW50czoKICAgICAgICBzdGFydCA9IGV2ZW50WydzdGFydCddLmdldCgnZGF0ZVRpbWUnLCBldmVudFsnc3RhcnQnXS5nZXQoJ2RhdGUnKSkKICAgICAgICBwcmludChzdGFydCwgZXZlbnRbJ3N1bW1hcnknXSkK</text>
       </register>
       <register name="-" type="4">
-        <text>now</text>
+        <text>, &quot;%Y-%m-%dT%H:%M:%S&quot;</text>
       </register>
       <register name="/" type="4">
         <text>str</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGV2ZW50c1Jlc3VsdCA9IHNlcnZpY2UuZXZlbnRzKCkubGlzdCgKICAgICAgICBjYWxlbmRhcklkPSdwcmltYXJ5JywgdGltZU1pbj1ub3csIG1heFJlc3VsdHM9MTAsIHNpbmdsZUV2ZW50cz1UcnVlLAogICAgICAgIG9yZGVyQnk9J3N0YXJ0VGltZScpLmV4ZWN1dGUoKQogICAgZXZlbnRzID0gZXZlbnRzUmVzdWx0LmdldCgnaXRlbXMnLCBbXSkK</text>
+        <text encoding="base64">ICAgIGlmIG5vdCBldmVudHM6CiAgICAgICAgcHJpbnQoJ05vIHVwY29taW5nIGV2ZW50cyBmb3VuZC4nKQogICAgZm9yIGV2ZW50IGluIGV2ZW50czoKICAgICAgICBzdGFydCA9IGV2ZW50WydzdGFydCddLmdldCgnZGF0ZVRpbWUnLCBldmVudFsnc3RhcnQnXS5nZXQoJ2RhdGUnKSkKICAgICAgICBwcmludChzdGFydCwgZXZlbnRbJ3N1bW1hcnknXSkK</text>
       </register>
       <register name="1" type="4">
-        <text>now</text>
+        <text>, &quot;%Y-%m-%dT%H:%M:%S&quot;</text>
       </register>
       <register name="2" type="4">
-        <text>.</text>
+        <text>, &quot;%Y-%m-%dT%H:%M:%S&quot;</text>
       </register>
       <register name="3" type="4">
-        <text>())</text>
-      </register>
-      <register name="4" type="4">
-        <text>toUTF8</text>
-      </register>
-      <register name="5" type="4">
-        <text>.toUTF8()</text>
-      </register>
-      <register name="6" type="4">
-        <text>PlainText</text>
-      </register>
-      <register name="7" type="4">
         <text>)</text>
       </register>
+      <register name="4" type="4">
+        <text>datetime.datetime.strptime(</text>
+      </register>
+      <register name="5" type="4">
+        <text>datetime.datetime.strptime(</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">dHog</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
       <register name="8" type="4">
-        <text>'</text>
+        <text>,</text>
       </register>
       <register name="9" type="4">
-        <text>utf8</text>
+        <text>out</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
