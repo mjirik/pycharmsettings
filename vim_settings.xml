@@ -695,12 +695,12 @@
         <mark key="]" line="156" column="0" />
         <mark key="." line="67" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/events2calendar/mail2calendar.py" timestamp="1459037202178">
-        <mark key="'" line="251" column="4" />
-        <mark key="[" line="48" column="27" />
-        <mark key="]" line="48" column="26" />
-        <mark key="." line="48" column="26" />
-        <mark key="^" line="48" column="26" />
+      <file name="$USER_HOME$/projects/events2calendar/mail2calendar.py" timestamp="1459070414680">
+        <mark key="'" line="263" column="4" />
+        <mark key="[" line="259" column="0" />
+        <mark key="]" line="259" column="40" />
+        <mark key="." line="259" column="0" />
+        <mark key="^" line="255" column="37" />
       </file>
       <file name="$USER_HOME$/projects/lisa/install_osx.md" timestamp="1448122216203">
         <mark key="[" line="0" column="0" />
@@ -854,44 +854,44 @@
       <jump line="214" column="4" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Process</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ3RpbWVab25lJzogJ0V1cm9wZS9QcmFndWUnLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>Process</text>
+        <text>start</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXJzZV90ZXh0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmJ0biA9IFF0R3VpLlFQdXNoQnV0dG9uKCdQcm9jZXNzJywgc2VsZikKICAgICAgICBzZWxmLmJ0bi5tb3ZlKDIwLCAyNDApCiAgICAgICAgc2VsZi5idG4uY2xpY2tlZC5jb25uZWN0KHNlbGYuYnV0dG9uUHJvY2VzcykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3RpbWVab25lJzogJ0V1cm9wZS9QcmFndWUnLAo=</text>
       </register>
       <register name="1" type="4">
-        <text>Process</text>
+        <text>start</text>
       </register>
-      <register name="2" type="4">
-        <text>0</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHRpbWVyZSA9IHInXGR7MSwyfTpcZHsyfScKCiAgICBvdXQgPSByZS5zZWFyY2godGltZXJlLCBsaW5ldGV4dCkKCiAgICBsaW5ldGV4dCA9IHJlLnN1Yih0aW1lcmUsICcnLCBsaW5ldGV4dCkKICAgIGlmIG91dCBpcyBOb25lOgogICAgICAgIGNhcyA9ICcnCiAgICBlbHNlOgogICAgICAgIGNhcyA9IG91dC5ncm91cCgwKQo=</text>
       </register>
       <register name="3" type="4">
         <text>Process</text>
       </register>
       <register name="4" type="4">
-        <text>e</text>
+        <text>0</text>
       </register>
       <register name="5" type="4">
-        <text>.</text>
+        <text>Process</text>
       </register>
       <register name="6" type="4">
+        <text>e</text>
+      </register>
+      <register name="7" type="4">
+        <text>.</text>
+      </register>
+      <register name="8" type="4">
         <text>self</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgKCJ0b3RvIGplIHByYXpkbnkgcmFkZWsiKQogICAgICAgICAgICBwcmludCAobGluZXRleHQpCiAgICAgICAgICAgIHN1bW1hcnlwcmVmaXggPSBsaW5ldGV4dAo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">bm90IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
