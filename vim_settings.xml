@@ -695,12 +695,14 @@
         <mark key="]" line="156" column="0" />
         <mark key="." line="67" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/events2calendar/mail2calendar.py" timestamp="1459088767699">
-        <mark key="'" line="80" column="17" />
-        <mark key="[" line="159" column="53" />
-        <mark key="]" line="159" column="51" />
-        <mark key="." line="159" column="51" />
-        <mark key="^" line="159" column="51" />
+      <file name="$USER_HOME$/projects/events2calendar/mail2calendar.py" timestamp="1459096777225">
+        <mark key="s" line="122" column="11" />
+        <mark key="'" line="82" column="17" />
+        <mark key="[" line="69" column="29" />
+        <mark key="m" line="122" column="8" />
+        <mark key="]" line="69" column="42" />
+        <mark key="." line="69" column="42" />
+        <mark key="^" line="69" column="42" />
       </file>
       <file name="$USER_HOME$/projects/lisa/install_osx.md" timestamp="1448122216203">
         <mark key="[" line="0" column="0" />
@@ -752,7 +754,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1280" column="45" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
       <jump line="1331" column="45" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
       <jump line="1367" column="34" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
       <jump line="1442" column="19" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
@@ -852,46 +853,47 @@
       <jump line="114" column="8" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
       <jump line="305" column="4" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
       <jump line="80" column="17" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
+      <jump line="82" column="17" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>decode</text>
+        <text encoding="base64">SW5wdXQg</text>
       </register>
       <register name="-" type="4">
-        <text>decode</text>
+        <text encoding="base64">SW5wdXQg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXJzZV90ZXh0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RhcnQgPSBldmVudGlbJ3N0YXJ0J10uZ2V0KCdkYXRlVGltZScsIGV2ZW50aVsnc3RhcnQnXS5nZXQoJ2RhdGUnKSkK</text>
+        <text encoding="base64">ICAgICMgbGluZXRleHQgPSByZS5zdWIocidcLicsIHInLiAnLCBsaW5ldGV4dCkK</text>
       </register>
       <register name="1" type="4">
-        <text>decode</text>
+        <text encoding="base64">SW5wdXQg</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">RXZlbnQg</text>
       </register>
       <register name="3" type="4">
-        <text>refix</text>
+        <text encoding="base64">RXZlbnQg</text>
       </register>
       <register name="4" type="4">
-        <text>i</text>
+        <text>.</text>
       </register>
       <register name="5" type="4">
-        <text>i</text>
+        <text>.</text>
       </register>
       <register name="6" type="4">
-        <text>created</text>
+        <text>\</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+        <text>le</text>
       </register>
       <register name="8" type="4">
-        <text>)</text>
+        <text>, size=(500,400)</text>
       </register>
       <register name="9" type="4">
-        <text>(</text>
+        <text>)</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
