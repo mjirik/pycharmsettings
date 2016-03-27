@@ -695,12 +695,12 @@
         <mark key="]" line="156" column="0" />
         <mark key="." line="67" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/events2calendar/mail2calendar.py" timestamp="1459035707390">
+      <file name="$USER_HOME$/projects/events2calendar/mail2calendar.py" timestamp="1459036520687">
         <mark key="'" line="223" column="4" />
-        <mark key="[" line="172" column="25" />
-        <mark key="]" line="174" column="62" />
-        <mark key="^" line="174" column="62" />
-        <mark key="." line="174" column="62" />
+        <mark key="[" line="234" column="0" />
+        <mark key="]" line="236" column="36" />
+        <mark key="^" line="234" column="12" />
+        <mark key="." line="234" column="0" />
       </file>
       <file name="$USER_HOME$/projects/lisa/install_osx.md" timestamp="1448122216203">
         <mark key="[" line="0" column="0" />
@@ -854,11 +854,11 @@
       <jump line="214" column="4" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>čkami</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgKCJ0b3RvIGplIHByYXpkbnkgcmFkZWsiKQogICAgICAgICAgICBwcmludCAobGluZXRleHQpCiAgICAgICAgICAgIHN1bW1hcnlwcmVmaXggPSBsaW5ldGV4dAo=</text>
       </register>
       <register name="-" type="4">
-        <text>čkami</text>
+        <text encoding="base64">bm90IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXJzZV90ZXh0XD4=</text>
@@ -866,32 +866,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICdkZXNjcmlwdGlvbic6ICdBIGNoYW5jZSB0byBoZWFyIG1vcmUgYWJvdXQgR29vZ2xlXCdzIGRldmVsb3BlciBwcm9kdWN0cy4nLAogICAgJ3N0YXJ0JzogewogICAgICAgICdkYXRlVGltZSc6ICcyMDE2LTAzLTI4VDA5OjAwOjAwLTA3OjAwJywKICAgICAgICAndGltZVpvbmUnOiAnQW1lcmljYS9Mb3NfQW5nZWxlcycsCiAgICB9LAo=</text>
       </register>
-      <register name="1" type="4">
-        <text>čkami</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgKCJ0b3RvIGplIHByYXpkbnkgcmFkZWsiKQogICAgICAgICAgICBwcmludCAobGluZXRleHQpCiAgICAgICAgICAgIHN1bW1hcnlwcmVmaXggPSBsaW5ldGV4dAo=</text>
       </register>
-      <register name="2" type="4">
-        <text>xample</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBldmVudHMuYXBwZW5kKGV2ZW50KQo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">bm90IA==</text>
       </register>
       <register name="4" type="4">
-        <text>&quot;Processed&quot;</text>
+        <text encoding="base64">c3VtbWFyeXByZWZpeCA=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsaW5lCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="4">
-        <text>out</text>
+        <text>čkami</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">b3V0IA==</text>
+        <text>xample</text>
       </register>
-      <register name="8" type="4">
-        <text>'2016-03-28T09:00:00-07:00'</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBldmVudHMuYXBwZW5kKGV2ZW50KQo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICMgcHJpbnQgY2FzCgogICAgcGFyc2VkID0gZGF0dW0gKyAiICIgKyBjYXMKICAgIHByaW50IHBhcnNlZAoKICAgIG91dCA9IGRhdGVwYXJzZXIucGFyc2UocGFyc2VkKV8K</text>
+      <register name="9" type="4">
+        <text>&quot;Processed&quot;</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
