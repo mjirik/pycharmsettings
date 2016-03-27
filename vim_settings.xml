@@ -695,12 +695,12 @@
         <mark key="]" line="156" column="0" />
         <mark key="." line="67" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/events2calendar/mail2calendar.py" timestamp="1459071100785">
-        <mark key="'" line="108" column="66" />
-        <mark key="[" line="75" column="28" />
-        <mark key="]" line="75" column="31" />
-        <mark key="." line="75" column="31" />
-        <mark key="^" line="75" column="31" />
+      <file name="$USER_HOME$/projects/events2calendar/mail2calendar.py" timestamp="1459074229215">
+        <mark key="'" line="110" column="66" />
+        <mark key="[" line="114" column="23" />
+        <mark key="]" line="114" column="27" />
+        <mark key="." line="114" column="27" />
+        <mark key="^" line="114" column="27" />
       </file>
       <file name="$USER_HOME$/projects/lisa/install_osx.md" timestamp="1448122216203">
         <mark key="[" line="0" column="0" />
@@ -855,43 +855,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>now</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>now</text>
       </register>
       <register name="/" type="4">
         <text>str</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3RpbWVab25lJzogJ0V1cm9wZS9QcmFndWUnLAo=</text>
+        <text encoding="base64">ICAgIGV2ZW50c1Jlc3VsdCA9IHNlcnZpY2UuZXZlbnRzKCkubGlzdCgKICAgICAgICBjYWxlbmRhcklkPSdwcmltYXJ5JywgdGltZU1pbj1ub3csIG1heFJlc3VsdHM9MTAsIHNpbmdsZUV2ZW50cz1UcnVlLAogICAgICAgIG9yZGVyQnk9J3N0YXJ0VGltZScpLmV4ZWN1dGUoKQogICAgZXZlbnRzID0gZXZlbnRzUmVzdWx0LmdldCgnaXRlbXMnLCBbXSkK</text>
       </register>
       <register name="1" type="4">
-        <text>)</text>
+        <text>now</text>
       </register>
       <register name="2" type="4">
-        <text>text</text>
+        <text>.</text>
       </register>
       <register name="3" type="4">
-        <text>(</text>
+        <text>())</text>
       </register>
       <register name="4" type="4">
-        <text>str</text>
+        <text>toUTF8</text>
       </register>
       <register name="5" type="4">
-        <text>start</text>
+        <text>.toUTF8()</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHRpbWVyZSA9IHInXGR7MSwyfTpcZHsyfScKCiAgICBvdXQgPSByZS5zZWFyY2godGltZXJlLCBsaW5ldGV4dCkKCiAgICBsaW5ldGV4dCA9IHJlLnN1Yih0aW1lcmUsICcnLCBsaW5ldGV4dCkKICAgIGlmIG91dCBpcyBOb25lOgogICAgICAgIGNhcyA9ICcnCiAgICBlbHNlOgogICAgICAgIGNhcyA9IG91dC5ncm91cCgwKQo=</text>
+      <register name="6" type="4">
+        <text>PlainText</text>
       </register>
       <register name="7" type="4">
-        <text>Process</text>
+        <text>)</text>
       </register>
       <register name="8" type="4">
-        <text>0</text>
+        <text>'</text>
       </register>
       <register name="9" type="4">
-        <text>Process</text>
+        <text>utf8</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
