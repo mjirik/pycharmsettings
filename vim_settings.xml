@@ -267,12 +267,12 @@
         <mark key="^" line="136" column="25" />
         <mark key="." line="136" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/liver_model.py" timestamp="1454205639099">
-        <mark key="'" line="224" column="18" />
-        <mark key="[" line="61" column="63" />
-        <mark key="]" line="61" column="64" />
-        <mark key="^" line="61" column="64" />
-        <mark key="." line="61" column="64" />
+      <file name="$USER_HOME$/projects/lisa/lisa/liver_model.py" timestamp="1459248276078">
+        <mark key="'" line="238" column="18" />
+        <mark key="[" line="49" column="19" />
+        <mark key="]" line="49" column="21" />
+        <mark key="^" line="49" column="21" />
+        <mark key="." line="49" column="21" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/config_default.py" timestamp="1452692757460">
         <mark key="[" line="19" column="50" />
@@ -862,44 +862,44 @@
       <jump line="41" column="23" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>angelist</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ICJibHVyIGludGVuc2l0eSIK</text>
       </register>
       <register name="-" type="4">
-        <text>angelist</text>
+        <text>near_blur_intensity_localization_fv</text>
       </register>
       <register name="/" type="4">
         <text>calendarID</text>
       </register>
-      <register name="0" type="4">
-        <text>, calendarID=self.calendarID</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZWxpZiBmdl9leHRlcm5fc3RyID09ICJuZWFyX2JsdXJfaW50ZW5zaXR5X2xvY2FsaXphdGlvbl9mdiI6CiAgICAgICAgICAgICAgICBtb2RlbHBhcmFtc1snZnZfZXh0ZXJuJ10gPSBuZWFyX2JsdXJfaW50ZW5zaXR5X2xvY2FsaXphdGlvbl9mdgogICAgICAgICAgICAgICAgcHJpbnQgImJsdXIgaW50ZW5zaXR5Igo=</text>
       </register>
-      <register name="1" type="4">
-        <text>angelist</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ICJibHVyIGludGVuc2l0eSIK</text>
       </register>
       <register name="2" type="4">
-        <text>calendar id</text>
+        <text>near_blur_intensity_localization_fv</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">dsWhZWNoIA==</text>
+        <text>near_blur_intensity_localization_fv</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">dSA=</text>
+        <text encoding="base64">SW1wbGVtZW50YXRlZCA=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">em9icmF6w60g</text>
+      <register name="5" type="2">
+        <text encoding="base64">ZGVmIGFsbF93aXRoX3JpYnNfZnYK</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text>near_blur_intensity_localization_fv</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text>angelist</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text>calendar id</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">dsWhZWNoIA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
