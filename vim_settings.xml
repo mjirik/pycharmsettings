@@ -267,12 +267,12 @@
         <mark key="^" line="136" column="25" />
         <mark key="." line="136" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/liver_model.py" timestamp="1459248276078">
-        <mark key="'" line="238" column="18" />
-        <mark key="[" line="49" column="19" />
-        <mark key="]" line="49" column="21" />
-        <mark key="^" line="49" column="21" />
-        <mark key="." line="49" column="21" />
+      <file name="$USER_HOME$/projects/lisa/lisa/liver_model.py" timestamp="1459249952343">
+        <mark key="'" line="370" column="42" />
+        <mark key="[" line="460" column="25" />
+        <mark key="]" line="460" column="38" />
+        <mark key="." line="460" column="38" />
+        <mark key="^" line="460" column="38" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/config_default.py" timestamp="1452692757460">
         <mark key="[" line="19" column="50" />
@@ -701,9 +701,9 @@
         <mark key="]" line="156" column="0" />
         <mark key="." line="67" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/events2calendar/mail2calendar.py" timestamp="1459099936432">
+      <file name="$USER_HOME$/projects/events2calendar/mail2calendar.py" timestamp="1459249301678">
         <mark key="s" line="161" column="11" />
-        <mark key="'" line="41" column="23" />
+        <mark key="'" line="1" column="0" />
         <mark key="[" line="175" column="76" />
         <mark key="m" line="161" column="8" />
         <mark key="]" line="175" column="77" />
@@ -760,16 +760,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="182" column="61" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="359" column="38" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="416" column="38" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="614" column="8" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="622" column="8" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="623" column="31" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="1134" column="36" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="455" column="16" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="481" column="13" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="207" column="8" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
       <jump line="682" column="4" filename="$USER_HOME$/projects/sed3/sed3/sed3.py" />
       <jump line="493" column="15" filename="$USER_HOME$/projects/sed3/sed3/sed3.py" />
       <jump line="601" column="47" filename="$USER_HOME$/projects/sed3/sed3/sed3.py" />
@@ -847,7 +837,6 @@
       <jump line="107" column="66" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
       <jump line="53" column="27" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
       <jump line="122" column="8" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
-      <jump line="114" column="8" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
       <jump line="305" column="4" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
       <jump line="80" column="17" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
       <jump line="82" column="17" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
@@ -860,61 +849,71 @@
       <jump line="164" column="35" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
       <jump line="180" column="8" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
       <jump line="41" column="23" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
+      <jump line="357" column="30" filename="$USER_HOME$/projects/lisa/lisa/liver_model.py" />
+      <jump line="392" column="19" filename="$USER_HOME$/projects/lisa/lisa/liver_model.py" />
+      <jump line="394" column="17" filename="$USER_HOME$/projects/lisa/lisa/liver_model.py" />
+      <jump line="413" column="11" filename="$USER_HOME$/projects/lisa/lisa/liver_model.py" />
+      <jump line="421" column="13" filename="$USER_HOME$/projects/lisa/lisa/liver_model.py" />
+      <jump line="428" column="13" filename="$USER_HOME$/projects/lisa/lisa/liver_model.py" />
+      <jump line="434" column="11" filename="$USER_HOME$/projects/lisa/lisa/liver_model.py" />
+      <jump line="356" column="7" filename="$USER_HOME$/projects/lisa/lisa/liver_model.py" />
+      <jump line="114" column="8" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
+      <jump line="370" column="42" filename="$USER_HOME$/projects/lisa/lisa/liver_model.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ICJibHVyIGludGVuc2l0eSIK</text>
+      <register name="&quot;" type="4">
+        <text>feature_function</text>
       </register>
       <register name="-" type="4">
-        <text>near_blur_intensity_localization_fv</text>
+        <text>feature_function</text>
       </register>
       <register name="/" type="4">
-        <text>calendarID</text>
+        <text>add</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxpZiBmdl9leHRlcm5fc3RyID09ICJuZWFyX2JsdXJfaW50ZW5zaXR5X2xvY2FsaXphdGlvbl9mdiI6CiAgICAgICAgICAgICAgICBtb2RlbHBhcmFtc1snZnZfZXh0ZXJuJ10gPSBuZWFyX2JsdXJfaW50ZW5zaXR5X2xvY2FsaXphdGlvbl9mdgogICAgICAgICAgICAgICAgcHJpbnQgImJsdXIgaW50ZW5zaXR5Igo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2Z2X3R5cGUnOiAiZnZfZXh0ZXJuIiwKICAgICAgICAgICAgJ2Z2X2V4dGVybic6IGZlYXR1cmVfZnVuY3Rpb24sCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ICJibHVyIGludGVuc2l0eSIK</text>
+      <register name="1" type="4">
+        <text>feature_function</text>
       </register>
-      <register name="2" type="4">
-        <text>near_blur_intensity_localization_fv</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="4">
-        <text>near_blur_intensity_localization_fv</text>
+        <text>file</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">SW1wbGVtZW50YXRlZCA=</text>
+        <text encoding="base64">b3V0cHV0IA==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ZGVmIGFsbF93aXRoX3JpYnNfZnYK</text>
+      <register name="5" type="4">
+        <text>e</text>
       </register>
       <register name="6" type="4">
-        <text>near_blur_intensity_localization_fv</text>
+        <text>m</text>
       </register>
       <register name="7" type="4">
-        <text>angelist</text>
+        <text>a</text>
       </register>
       <register name="8" type="4">
-        <text>calendar id</text>
+        <text>n</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">dsWhZWNoIA==</text>
+        <text>_</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>calendarID</last-search>
+      <last-search>add</last-search>
       <last-offset />
-      <last-pattern>calendarID</last-pattern>
+      <last-pattern>add</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>compare</entry>
         <entry>config</entry>
         <entry>load</entry>
         <entry>Load file</entry>
@@ -934,6 +933,7 @@
         <entry encoding="base64">XDxhZGRfZXZlbnRzXD4=</entry>
         <entry encoding="base64">XDxjaGVja19kdXBsaWNpdHlcPg==</entry>
         <entry>calendarID</entry>
+        <entry>add</entry>
       </history-search>
       <history-cmd>
         <entry>291</entry>
