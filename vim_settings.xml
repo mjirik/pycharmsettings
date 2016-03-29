@@ -267,12 +267,13 @@
         <mark key="^" line="136" column="25" />
         <mark key="." line="136" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/liver_model.py" timestamp="1459249952343">
-        <mark key="'" line="370" column="42" />
-        <mark key="[" line="460" column="25" />
-        <mark key="]" line="460" column="38" />
-        <mark key="." line="460" column="38" />
-        <mark key="^" line="460" column="38" />
+      <file name="$USER_HOME$/projects/lisa/lisa/liver_model.py" timestamp="1459253005019">
+        <mark key="a" line="204" column="24" />
+        <mark key="'" line="37" column="34" />
+        <mark key="[" line="383" column="0" />
+        <mark key="]" line="383" column="0" />
+        <mark key="." line="383" column="0" />
+        <mark key="^" line="384" column="0" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/config_default.py" timestamp="1452692757460">
         <mark key="[" line="19" column="50" />
@@ -760,9 +761,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="682" column="4" filename="$USER_HOME$/projects/sed3/sed3/sed3.py" />
-      <jump line="493" column="15" filename="$USER_HOME$/projects/sed3/sed3/sed3.py" />
-      <jump line="601" column="47" filename="$USER_HOME$/projects/sed3/sed3/sed3.py" />
       <jump line="611" column="49" filename="$USER_HOME$/projects/sed3/sed3/sed3.py" />
       <jump line="632" column="14" filename="$USER_HOME$/projects/sed3/sed3/sed3.py" />
       <jump line="633" column="4" filename="$USER_HOME$/projects/sed3/sed3/sed3.py" />
@@ -859,11 +857,14 @@
       <jump line="356" column="7" filename="$USER_HOME$/projects/lisa/lisa/liver_model.py" />
       <jump line="114" column="8" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
       <jump line="1" column="0" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
+      <jump line="142" column="6" filename="$USER_HOME$/projects/lisa/lisa/liver_model.py" />
       <jump line="370" column="42" filename="$USER_HOME$/projects/lisa/lisa/liver_model.py" />
+      <jump line="37" column="34" filename="$USER_HOME$/projects/lisa/lisa/liver_model.py" />
+      <jump line="371" column="0" filename="$USER_HOME$/projects/lisa/lisa/liver_model.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>feature_function</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>feature_function</text>
@@ -874,32 +875,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJ2Z2X3R5cGUnOiAiZnZfZXh0ZXJuIiwKICAgICAgICAgICAgJ2Z2X2V4dGVybic6IGZlYXR1cmVfZnVuY3Rpb24sCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>feature_function</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="4">
-        <text>file</text>
+        <text>feature_function</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">b3V0cHV0IA==</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="4">
-        <text>e</text>
+        <text>file</text>
       </register>
       <register name="6" type="4">
-        <text>m</text>
+        <text encoding="base64">b3V0cHV0IA==</text>
       </register>
       <register name="7" type="4">
-        <text>a</text>
+        <text>e</text>
       </register>
       <register name="8" type="4">
-        <text>n</text>
+        <text>m</text>
       </register>
       <register name="9" type="4">
-        <text>_</text>
+        <text>a</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1010,6 +1011,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
