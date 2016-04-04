@@ -112,8 +112,8 @@
         <mark key="^" line="12" column="21" />
         <mark key="." line="12" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/bodynavigation/bodynavigation/body_navigation.py" timestamp="1459766314343">
-        <mark key="'" line="45" column="0" />
+      <file name="$USER_HOME$/projects/bodynavigation/bodynavigation/body_navigation.py" timestamp="1459767533601">
+        <mark key="'" line="257" column="8" />
         <mark key="[" line="353" column="41" />
         <mark key="]" line="353" column="47" />
         <mark key="^" line="353" column="47" />
@@ -772,8 +772,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="704" column="0" filename="$USER_HOME$/projects/sed3/sed3/sed3.py" />
-      <jump line="718" column="0" filename="$USER_HOME$/projects/sed3/sed3/sed3.py" />
       <jump line="120" column="25" filename="$USER_HOME$/projects/sed3/sed3/sed3.py" />
       <jump line="441" column="11" filename="$USER_HOME$/projects/sed3/sed3/sed3.py" />
       <jump line="328" column="48" filename="$USER_HOME$/projects/lisa/lisa/body_navigation.py" />
@@ -872,6 +870,8 @@
       <jump line="229" column="10" filename="$USER_HOME$/projects/bodynavigation/bodynavigation/body_navigation.py" />
       <jump line="45" column="0" filename="$USER_HOME$/projects/bodynavigation/bodynavigation/body_navigation.py" />
       <jump line="459" column="8" filename="$USER_HOME$/projects/bodynavigation/bodynavigation/body_navigation.py" />
+      <jump line="210" column="8" filename="$USER_HOME$/projects/bodynavigation/bodynavigation/body_navigation.py" />
+      <jump line="257" column="8" filename="$USER_HOME$/projects/bodynavigation/bodynavigation/body_navigation.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -881,7 +881,7 @@
         <text>j</text>
       </register>
       <register name="/" type="4">
-        <text>12</text>
+        <text encoding="base64">XDxmaWx0ZXJfcmVtb3ZlX291dGxheWVyc1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBmbGF0ID0gc2VsZi5nZXRfZGlhcGhyYWdtX3Byb2ZpbGVfaW1hZ2Vfd2l0aF9lbXB0eV9hcmVhcyhheGlzKQo=</text>
@@ -918,16 +918,14 @@
       </register>
     </registers>
     <search>
-      <last-search>12</last-search>
+      <last-search encoding="base64">XDxmaWx0ZXJfcmVtb3ZlX291dGxheWVyc1w+</last-search>
       <last-offset />
-      <last-pattern>12</last-pattern>
+      <last-pattern encoding="base64">XDxmaWx0ZXJfcmVtb3ZlX291dGxheWVyc1w+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>lut</entry>
-        <entry encoding="base64">XDxfX3B1dF9zbGljZV9pbl9zbGltXD4=</entry>
         <entry encoding="base64">XDxzaG93X3NsaWNlXD4=</entry>
         <entry>str</entry>
         <entry encoding="base64">XDxwYXJzZV90ZXh0XD4=</entry>
@@ -946,6 +944,8 @@
         <entry>return_gra</entry>
         <entry>gradient</entry>
         <entry>12</entry>
+        <entry encoding="base64">XDxfZmlsdGVyX2RpYXBocmFnbV9wcm9maWxlX2ltYWdlX3JlbW92ZV9vdXRsYXllcnNcPg==</entry>
+        <entry encoding="base64">XDxmaWx0ZXJfcmVtb3ZlX291dGxheWVyc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>291</entry>
