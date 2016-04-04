@@ -112,7 +112,8 @@
         <mark key="^" line="12" column="21" />
         <mark key="." line="12" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/bodynavigation/bodynavigation/body_navigation.py" timestamp="1459758017273">
+      <file name="$USER_HOME$/projects/bodynavigation/bodynavigation/body_navigation.py" timestamp="1459759178972">
+        <mark key="'" line="45" column="0" />
         <mark key="[" line="387" column="31" />
         <mark key="]" line="389" column="27" />
         <mark key="^" line="389" column="27" />
@@ -771,7 +772,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="693" column="0" filename="$USER_HOME$/projects/sed3/sed3/sed3.py" />
       <jump line="650" column="4" filename="$USER_HOME$/projects/sed3/sed3/sed3.py" />
       <jump line="704" column="0" filename="$USER_HOME$/projects/sed3/sed3/sed3.py" />
       <jump line="718" column="0" filename="$USER_HOME$/projects/sed3/sed3/sed3.py" />
@@ -871,6 +871,7 @@
       <jump line="440" column="8" filename="$USER_HOME$/projects/bodynavigation/bodynavigation/body_navigation.py" />
       <jump line="223" column="9" filename="$USER_HOME$/projects/bodynavigation/bodynavigation/body_navigation.py" />
       <jump line="229" column="10" filename="$USER_HOME$/projects/bodynavigation/bodynavigation/body_navigation.py" />
+      <jump line="45" column="0" filename="$USER_HOME$/projects/bodynavigation/bodynavigation/body_navigation.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -880,7 +881,7 @@
         <text>j</text>
       </register>
       <register name="/" type="4">
-        <text>gradient</text>
+        <text>12</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBmbGF0ID0gc2VsZi5nZXRfZGlhcGhyYWdtX3Byb2ZpbGVfaW1hZ2Vfd2l0aF9lbXB0eV9hcmVhcyhheGlzKQo=</text>
@@ -917,15 +918,14 @@
       </register>
     </registers>
     <search>
-      <last-search>gradient</last-search>
+      <last-search>12</last-search>
       <last-offset />
-      <last-pattern>gradient</last-pattern>
+      <last-pattern>12</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>first_sl</entry>
         <entry>lut</entry>
         <entry encoding="base64">XDxfX3B1dF9zbGljZV9pbl9zbGltXD4=</entry>
         <entry encoding="base64">XDxzaG93X3NsaWNlXD4=</entry>
@@ -945,6 +945,7 @@
         <entry encoding="base64">XDxyZW1vdmVfcGl6emFcPg==</entry>
         <entry>return_gra</entry>
         <entry>gradient</entry>
+        <entry>12</entry>
       </history-search>
       <history-cmd>
         <entry>291</entry>
