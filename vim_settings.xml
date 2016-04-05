@@ -57,13 +57,6 @@
         <mark key="^" line="31" column="21" />
         <mark key="." line="31" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/sed3/tests/sed_test.py" timestamp="1454424572039">
-        <mark key="a" line="79" column="37" />
-        <mark key="[" line="87" column="24" />
-        <mark key="]" line="87" column="22" />
-        <mark key="." line="87" column="22" />
-        <mark key="^" line="87" column="22" />
-      </file>
       <file name="$USER_HOME$/projects/imtools/imtools/uiThreshold.py" timestamp="1451854356938">
         <mark key="'" line="539" column="8" />
         <mark key="[" line="547" column="30" />
@@ -154,15 +147,6 @@
         <mark key="^" line="57" column="47" />
         <mark key="." line="57" column="47" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/body_navigation.py" timestamp="1454196241095">
-        <mark key="a" line="354" column="48" />
-        <mark key="b" line="566" column="0" />
-        <mark key="'" line="385" column="8" />
-        <mark key="[" line="380" column="35" />
-        <mark key="]" line="380" column="36" />
-        <mark key="^" line="380" column="36" />
-        <mark key="." line="380" column="36" />
-      </file>
       <file name="$USER_HOME$/projects/lisa/installer.bat" timestamp="1448389020321">
         <mark key="[" line="5" column="35" />
         <mark key="]" line="6" column="23" />
@@ -233,11 +217,11 @@
         <mark key="^" line="58" column="115" />
         <mark key="." line="58" column="115" />
       </file>
-      <file name="$USER_HOME$/projects/pysegbase/README.md" timestamp="1453298728483">
-        <mark key="[" line="99" column="17" />
-        <mark key="]" line="99" column="18" />
-        <mark key="^" line="99" column="18" />
-        <mark key="." line="99" column="18" />
+      <file name="$USER_HOME$/projects/pysegbase/README.md" timestamp="1459865043744">
+        <mark key="[" line="128" column="9" />
+        <mark key="]" line="128" column="9" />
+        <mark key="^" line="115" column="0" />
+        <mark key="." line="116" column="0" />
       </file>
       <file name="$USER_HOME$/projects/imtools/tests/vessels_segmentation_test.py" timestamp="1451861420359">
         <mark key="'" line="100" column="25" />
@@ -539,10 +523,10 @@
         <mark key="^" line="22" column="68" />
         <mark key="." line="22" column="68" />
       </file>
-      <file name="$USER_HOME$/projects/pysegbase/tests/pycut_test.py" timestamp="1449596316224">
+      <file name="$USER_HOME$/projects/pysegbase/tests/pycut_test.py" timestamp="1459864962401">
         <mark key="'" line="91" column="29" />
-        <mark key="[" line="164" column="36" />
-        <mark key="]" line="165" column="7" />
+        <mark key="[" line="129" column="0" />
+        <mark key="]" line="141" column="8" />
         <mark key="^" line="165" column="7" />
         <mark key="." line="165" column="7" />
       </file>
@@ -603,15 +587,6 @@
         <mark key="]" line="206" column="49" />
         <mark key="^" line="206" column="49" />
         <mark key="." line="206" column="49" />
-      </file>
-      <file name="$USER_HOME$/projects/sed3/sed3/sed3.py" timestamp="1454426447810">
-        <mark key="a" line="797" column="30" />
-        <mark key="b" line="750" column="0" />
-        <mark key="'" line="679" column="4" />
-        <mark key="[" line="793" column="32" />
-        <mark key="]" line="793" column="33" />
-        <mark key="." line="793" column="33" />
-        <mark key="^" line="793" column="27" />
       </file>
       <file name="$USER_HOME$/projects/pysegbase/meta.yaml" timestamp="1446724431868">
         <mark key="[" line="41" column="10" />
@@ -803,8 +778,8 @@
       <jump line="93" column="20" filename="$USER_HOME$/projects/lisa/lisa/liver_model.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ZnJvbSA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzZWdwYXJhbXMgPSB7CiAgICAgICAgICAgICMgJ21ldGhvZCc6J2dyYXBoY3V0JywKICAgICAgICAgICAgJ21ldGhvZCc6ICdncmFwaGN1dCcsCiAgICAgICAgICAgICd1c2VfYm91bmRhcnlfcGVuYWx0aWVzJzogRmFsc2UsCiAgICAgICAgICAgICdib3VuZGFyeV9kaWxhdGF0aW9uX2Rpc3RhbmNlJzogMiwKICAgICAgICAgICAgJ2JvdW5kYXJ5X3BlbmFsdGllc193ZWlnaHQnOiAxLAogICAgICAgICAgICAnbW9kZWxwYXJhbXMnOiB7CiAgICAgICAgICAgICAgICAndHlwZSc6ICdnbW1zYW1lJywKICAgICAgICAgICAgICAgICdmdl90eXBlJzogImZ2X2V4dGVybiIsCiAgICAgICAgICAgICAgICAnZnZfZXh0ZXJuJzogZnZfZnVuY3Rpb24sCiAgICAgICAgICAgICAgICAnYWRhcHRhdGlvbic6ICdvcmlnaW5hbF9kYXRhJywKICAgICAgICAgICAgfQogICAgICAgIH0K</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ZnJvbSA=</text>
@@ -813,7 +788,7 @@
         <text>naviga</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHN5cwppbXBvcnQgb3MucGF0aCBhcyBvcApzeXMucGF0aC5hcHBlbmQob3Auam9pbihvcC5kaXJuYW1lKG9zLnBhdGguYWJzcGF0aChfX2ZpbGVfXykpLCAiLi4vLi4vcHlzZWdiYXNlLyIpKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWdwYXJhbXMgPSB7CiAgICAgICAgICAgICMgJ21ldGhvZCc6J2dyYXBoY3V0JywKICAgICAgICAgICAgJ21ldGhvZCc6ICdncmFwaGN1dCcsCiAgICAgICAgICAgICd1c2VfYm91bmRhcnlfcGVuYWx0aWVzJzogRmFsc2UsCiAgICAgICAgICAgICdib3VuZGFyeV9kaWxhdGF0aW9uX2Rpc3RhbmNlJzogMiwKICAgICAgICAgICAgJ2JvdW5kYXJ5X3BlbmFsdGllc193ZWlnaHQnOiAxLAogICAgICAgICAgICAnbW9kZWxwYXJhbXMnOiB7CiAgICAgICAgICAgICAgICAndHlwZSc6ICdnbW1zYW1lJywKICAgICAgICAgICAgICAgICdmdl90eXBlJzogImZ2X2V4dGVybiIsCiAgICAgICAgICAgICAgICAnZnZfZXh0ZXJuJzogZnZfZnVuY3Rpb24sCiAgICAgICAgICAgICAgICAnYWRhcHRhdGlvbic6ICdvcmlnaW5hbF9kYXRhJywKICAgICAgICAgICAgfQogICAgICAgIH0K</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">ZnJvbSA=</text>
