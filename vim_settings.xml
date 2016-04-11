@@ -258,9 +258,9 @@
         <mark key="^" line="136" column="25" />
         <mark key="." line="136" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/liver_model.py" timestamp="1459861651584">
+      <file name="$USER_HOME$/projects/lisa/lisa/liver_model.py" timestamp="1460386890576">
         <mark key="a" line="204" column="24" />
-        <mark key="'" line="93" column="20" />
+        <mark key="'" line="301" column="24" />
         <mark key="[" line="19" column="0" />
         <mark key="]" line="21" column="82" />
         <mark key="." line="383" column="0" />
@@ -743,7 +743,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="39" filename="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" />
       <jump line="93" column="38" filename="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" />
       <jump line="97" column="20" filename="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" />
       <jump line="65" column="8" filename="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" />
@@ -843,6 +842,7 @@
       <jump line="167" column="20" filename="$USER_HOME$/projects/lisa/lisa/liver_model.py" />
       <jump line="56" column="42" filename="$USER_HOME$/projects/lisa/lisa/liver_model.py" />
       <jump line="93" column="20" filename="$USER_HOME$/projects/lisa/lisa/liver_model.py" />
+      <jump line="301" column="24" filename="$USER_HOME$/projects/lisa/lisa/liver_model.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -852,7 +852,7 @@
         <text encoding="base64">ZnJvbSA=</text>
       </register>
       <register name="/" type="4">
-        <text>naviga</text>
+        <text>problem</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWdwYXJhbXMgPSB7CiAgICAgICAgICAgICMgJ21ldGhvZCc6J2dyYXBoY3V0JywKICAgICAgICAgICAgJ21ldGhvZCc6ICdncmFwaGN1dCcsCiAgICAgICAgICAgICd1c2VfYm91bmRhcnlfcGVuYWx0aWVzJzogRmFsc2UsCiAgICAgICAgICAgICdib3VuZGFyeV9kaWxhdGF0aW9uX2Rpc3RhbmNlJzogMiwKICAgICAgICAgICAgJ2JvdW5kYXJ5X3BlbmFsdGllc193ZWlnaHQnOiAxLAogICAgICAgICAgICAnbW9kZWxwYXJhbXMnOiB7CiAgICAgICAgICAgICAgICAndHlwZSc6ICdnbW1zYW1lJywKICAgICAgICAgICAgICAgICdmdl90eXBlJzogImZ2X2V4dGVybiIsCiAgICAgICAgICAgICAgICAnZnZfZXh0ZXJuJzogZnZfZnVuY3Rpb24sCiAgICAgICAgICAgICAgICAnYWRhcHRhdGlvbic6ICdvcmlnaW5hbF9kYXRhJywKICAgICAgICAgICAgfQogICAgICAgIH0K</text>
@@ -889,15 +889,14 @@
       </register>
     </registers>
     <search>
-      <last-search>naviga</last-search>
+      <last-search>problem</last-search>
       <last-offset />
-      <last-pattern>naviga</last-pattern>
+      <last-pattern>problem</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzaG93X3NsaWNlXD4=</entry>
         <entry>str</entry>
         <entry encoding="base64">XDxwYXJzZV90ZXh0XD4=</entry>
         <entry>general</entry>
@@ -917,6 +916,7 @@
         <entry>12</entry>
         <entry encoding="base64">XDxmaWx0ZXJfcmVtb3ZlX291dGxheWVyc1w+</entry>
         <entry encoding="base64">XDxfZmlsdGVyX2RpYXBocmFnbV9wcm9maWxlX2ltYWdlX3JlbW92ZV9vdXRsYXllcnNcPg==</entry>
+        <entry>problem</entry>
       </history-search>
       <history-cmd>
         <entry>291</entry>
