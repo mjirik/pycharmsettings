@@ -258,13 +258,13 @@
         <mark key="^" line="136" column="25" />
         <mark key="." line="136" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/liver_model.py" timestamp="1460979634065">
+      <file name="$USER_HOME$/projects/lisa/lisa/liver_model.py" timestamp="1460986271977">
         <mark key="a" line="451" column="12" />
         <mark key="'" line="479" column="71" />
-        <mark key="[" line="470" column="51" />
-        <mark key="]" line="472" column="73" />
-        <mark key="^" line="472" column="73" />
-        <mark key="." line="472" column="73" />
+        <mark key="[" line="493" column="95" />
+        <mark key="]" line="496" column="35" />
+        <mark key="^" line="496" column="35" />
+        <mark key="." line="496" column="35" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/config_default.py" timestamp="1452692757460">
         <mark key="[" line="19" column="50" />
@@ -846,43 +846,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>savefig_fn_prefix + numeric_label</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>savefig_fn_prefix + numeric_label</text>
       </register>
       <register name="/" type="4">
         <text>lisa</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXZhbHVhdGlvblsnbnVtZXJpY19sYWJlbCddID0gbnVtZXJpY19sYWJlbAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBucC5pc3NjYWxhcihsaWtlbGlob29kX3JhdGlvKToK</text>
       </register>
       <register name="1" type="4">
-        <text>.</text>
+        <text>savefig_fn_prefix + numeric_label</text>
       </register>
       <register name="2" type="4">
+        <text>.</text>
+      </register>
+      <register name="3" type="4">
         <text>lisa</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>numeric_</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>_</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>c</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>i</text>
       </register>
-      <register name="8" type="4">
-        <text>r</text>
-      </register>
       <register name="9" type="4">
-        <text>e</text>
+        <text>r</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
