@@ -258,13 +258,13 @@
         <mark key="^" line="136" column="25" />
         <mark key="." line="136" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/liver_model.py" timestamp="1460974187192">
-        <mark key="a" line="204" column="24" />
-        <mark key="'" line="301" column="24" />
-        <mark key="[" line="410" column="15" />
-        <mark key="]" line="411" column="22" />
-        <mark key="." line="411" column="22" />
-        <mark key="^" line="411" column="22" />
+      <file name="$USER_HOME$/projects/lisa/lisa/liver_model.py" timestamp="1460978195270">
+        <mark key="a" line="451" column="12" />
+        <mark key="'" line="445" column="20" />
+        <mark key="[" line="438" column="0" />
+        <mark key="]" line="439" column="30" />
+        <mark key="^" line="439" column="30" />
+        <mark key="." line="439" column="30" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/config_default.py" timestamp="1452692757460">
         <mark key="[" line="19" column="50" />
@@ -743,9 +743,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="38" filename="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" />
-      <jump line="97" column="20" filename="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" />
-      <jump line="65" column="8" filename="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" />
       <jump line="56" column="4" filename="$USER_HOME$/projects/lisa/lisa/liver_seeds.py" />
       <jump line="70" column="9" filename="$USER_HOME$/projects/lisa/lisa/liver_seeds.py" />
       <jump line="71" column="9" filename="$USER_HOME$/projects/lisa/lisa/liver_seeds.py" />
@@ -843,61 +840,63 @@
       <jump line="56" column="42" filename="$USER_HOME$/projects/lisa/lisa/liver_model.py" />
       <jump line="93" column="20" filename="$USER_HOME$/projects/lisa/lisa/liver_model.py" />
       <jump line="301" column="24" filename="$USER_HOME$/projects/lisa/lisa/liver_model.py" />
+      <jump line="433" column="12" filename="$USER_HOME$/projects/lisa/lisa/liver_model.py" />
+      <jump line="29" column="0" filename="$USER_HOME$/projects/lisa/lisa/liver_model.py" />
+      <jump line="445" column="20" filename="$USER_HOME$/projects/lisa/lisa/liver_model.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>problem</text>
+        <text>lisa</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBvdXRwdXRfZmlsZT0ifi9saXNhX2RhdGEvbGl2ZXJfaW50ZW5zaXR5Lk1vZGVsLnAiLAogICAgICAgIHNsaXZlcl9yZWZlcmVuY2VfZGlyPSd+L2RhdGEvbWVkaWNhbC9vcmlnL3NsaXZlcjA3L3RyYWluaW5nLycsCiAgICAgICAgb3JpZ19wYXR0ZXJuPSIqb3JpZypbMS05XS5taGQiLAogICAgICAgIHJlZl9wYXR0ZXJuPSIqc2VnKlsxLTldLm1oZCIsCiAgICAgICAgbW9kZWxwYXJhbXM9e30K</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXZhbHVhdGlvblsnbnVtZXJpY19sYWJlbCddID0gbnVtZXJpY19sYWJlbAo=</text>
       </register>
       <register name="1" type="4">
-        <text>_</text>
+        <text>.</text>
       </register>
       <register name="2" type="4">
-        <text>e</text>
+        <text>lisa</text>
       </register>
-      <register name="3" type="4">
-        <text>r</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="4">
-        <text>u</text>
+        <text>numeric_</text>
       </register>
       <register name="5" type="4">
-        <text>s</text>
+        <text>_</text>
       </register>
       <register name="6" type="4">
-        <text>a</text>
+        <text>c</text>
       </register>
       <register name="7" type="4">
-        <text>e</text>
+        <text>i</text>
       </register>
       <register name="8" type="4">
-        <text>m</text>
+        <text>r</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>e</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>problem</last-search>
+      <last-search>lisa</last-search>
       <last-offset />
-      <last-pattern>problem</last-pattern>
+      <last-pattern>lisa</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>str</entry>
         <entry encoding="base64">XDxwYXJzZV90ZXh0XD4=</entry>
         <entry>general</entry>
         <entry>calendarid</entry>
@@ -917,6 +916,7 @@
         <entry encoding="base64">XDxmaWx0ZXJfcmVtb3ZlX291dGxheWVyc1w+</entry>
         <entry encoding="base64">XDxfZmlsdGVyX2RpYXBocmFnbV9wcm9maWxlX2ltYWdlX3JlbW92ZV9vdXRsYXllcnNcPg==</entry>
         <entry>problem</entry>
+        <entry>lisa</entry>
       </history-search>
       <history-cmd>
         <entry>291</entry>
@@ -933,6 +933,7 @@
         <entry>166</entry>
         <entry>e</entry>
         <entry>292</entry>
+        <entry>11</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
