@@ -72,8 +72,8 @@
         <mark key="^" line="722" column="35" />
         <mark key="." line="722" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1453664186071">
-        <mark key="'" line="250" column="13" />
+      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1461098417076">
+        <mark key="'" line="257" column="28" />
         <mark key="[" line="634" column="0" />
         <mark key="]" line="634" column="0" />
         <mark key="." line="634" column="0" />
@@ -743,8 +743,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="9" filename="$USER_HOME$/projects/lisa/lisa/liver_seeds.py" />
-      <jump line="71" column="9" filename="$USER_HOME$/projects/lisa/lisa/liver_seeds.py" />
       <jump line="72" column="9" filename="$USER_HOME$/projects/lisa/lisa/liver_seeds.py" />
       <jump line="30" column="8" filename="$USER_HOME$/projects/lisa/lisa/liver_seeds.py" />
       <jump line="35" column="35" filename="$USER_HOME$/projects/lisa/lisa/liver_seeds.py" />
@@ -843,6 +841,8 @@
       <jump line="29" column="0" filename="$USER_HOME$/projects/lisa/lisa/liver_model.py" />
       <jump line="445" column="20" filename="$USER_HOME$/projects/lisa/lisa/liver_model.py" />
       <jump line="479" column="71" filename="$USER_HOME$/projects/lisa/lisa/liver_model.py" />
+      <jump line="321" column="8" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="257" column="28" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -852,7 +852,7 @@
         <text>savefig_fn_prefix + numeric_label</text>
       </register>
       <register name="/" type="4">
-        <text>lisa</text>
+        <text encoding="base64">XDxsb2NhbHNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiBucC5pc3NjYWxhcihsaWtlbGlob29kX3JhdGlvKToK</text>
@@ -889,16 +889,14 @@
       </register>
     </registers>
     <search>
-      <last-search>lisa</last-search>
+      <last-search encoding="base64">XDxsb2NhbHNcPg==</last-search>
       <last-offset />
-      <last-pattern>lisa</last-pattern>
+      <last-pattern encoding="base64">XDxsb2NhbHNcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwYXJzZV90ZXh0XD4=</entry>
-        <entry>general</entry>
         <entry>calendarid</entry>
         <entry>ID</entry>
         <entry>id</entry>
@@ -917,6 +915,8 @@
         <entry encoding="base64">XDxfZmlsdGVyX2RpYXBocmFnbV9wcm9maWxlX2ltYWdlX3JlbW92ZV9vdXRsYXllcnNcPg==</entry>
         <entry>problem</entry>
         <entry>lisa</entry>
+        <entry encoding="base64">XDxfX2NsZWFuX29zZWdfaW5wdXRfcGFyYW1zXD4=</entry>
+        <entry encoding="base64">XDxsb2NhbHNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>291</entry>
