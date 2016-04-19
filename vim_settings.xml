@@ -72,12 +72,12 @@
         <mark key="^" line="722" column="35" />
         <mark key="." line="722" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1461098417076">
+      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1461102609081">
         <mark key="'" line="257" column="28" />
-        <mark key="[" line="634" column="0" />
-        <mark key="]" line="634" column="0" />
-        <mark key="." line="634" column="0" />
-        <mark key="^" line="930" column="37" />
+        <mark key="[" line="128" column="22" />
+        <mark key="]" line="128" column="21" />
+        <mark key="." line="128" column="21" />
+        <mark key="^" line="128" column="21" />
       </file>
       <file name="$USER_HOME$/projects/sed3/README.md" timestamp="1453293282274">
         <mark key="[" line="38" column="68" />
@@ -846,43 +846,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>savefig_fn_prefix + numeric_label</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>savefig_fn_prefix + numeric_label</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2NhbHNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBucC5pc3NjYWxhcihsaWtlbGlob29kX3JhdGlvKToK</text>
+        <text encoding="base64">ICAgICAgICBpZiAnd29ya2luZ192b3hlbHNpemVfbW0nIGluIHBhcmFtcy5rZXlzKCk6CiAgICAgICAgICAgIHNlbGYud29ya2luZ192b3hlbHNpemVfbW0gPSBwYXJhbXNbJ3dvcmtpbmdfdm94ZWxzaXplX21tJ10K</text>
       </register>
       <register name="1" type="4">
-        <text>savefig_fn_prefix + numeric_label</text>
+        <text>,</text>
       </register>
       <register name="2" type="4">
-        <text>.</text>
+        <text>working_voxelsize_mm</text>
       </register>
       <register name="3" type="4">
-        <text>lisa</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="4">
-        <text>numeric_</text>
-      </register>
-      <register name="6" type="4">
         <text>_</text>
       </register>
+      <register name="4" type="4">
+        <text>m</text>
+      </register>
+      <register name="5" type="4">
+        <text>m</text>
+      </register>
+      <register name="6" type="4">
+        <text>_voxelsize</text>
+      </register>
       <register name="7" type="4">
-        <text>c</text>
+        <text>working</text>
       </register>
       <register name="8" type="4">
-        <text>i</text>
+        <text>working_voxelsize_mm</text>
       </register>
       <register name="9" type="4">
-        <text>r</text>
+        <text encoding="base64">b3V0cHV0X2xhYmVsIA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
