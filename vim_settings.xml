@@ -72,8 +72,8 @@
         <mark key="^" line="722" column="35" />
         <mark key="." line="722" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1461154811621">
-        <mark key="'" line="782" column="42" />
+      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1461162910527">
+        <mark key="'" line="664" column="24" />
         <mark key="[" line="634" column="0" />
         <mark key="]" line="634" column="0" />
         <mark key="." line="634" column="0" />
@@ -730,15 +730,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="8" filename="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" />
-      <jump line="56" column="4" filename="$USER_HOME$/projects/lisa/lisa/liver_seeds.py" />
-      <jump line="70" column="9" filename="$USER_HOME$/projects/lisa/lisa/liver_seeds.py" />
-      <jump line="71" column="9" filename="$USER_HOME$/projects/lisa/lisa/liver_seeds.py" />
-      <jump line="72" column="9" filename="$USER_HOME$/projects/lisa/lisa/liver_seeds.py" />
-      <jump line="30" column="8" filename="$USER_HOME$/projects/lisa/lisa/liver_seeds.py" />
-      <jump line="35" column="35" filename="$USER_HOME$/projects/lisa/lisa/liver_seeds.py" />
-      <jump line="51" column="59" filename="$USER_HOME$/projects/lisa/lisa/liver_seeds.py" />
-      <jump line="121" column="18" filename="$USER_HOME$/projects/lisa/lisa/liver_seeds.py" />
       <jump line="120" column="4" filename="$USER_HOME$/projects/lisa/lisa/liver_seeds.py" />
       <jump line="44" column="12" filename="$USER_HOME$/projects/lisa/lisa/liver_seeds.py" />
       <jump line="336" column="0" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
@@ -830,6 +821,15 @@
       <jump line="301" column="24" filename="$USER_HOME$/projects/lisa/lisa/liver_model.py" />
       <jump line="43" column="46" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="782" column="42" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="902" column="40" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="930" column="15" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="932" column="13" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="697" column="8" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="780" column="13" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="629" column="48" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="630" column="29" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="663" column="25" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="664" column="24" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -839,7 +839,7 @@
         <text>True</text>
       </register>
       <register name="/" type="4">
-        <text>output_label</text>
+        <text>segmentation</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAia2lkbmV5Ijp7CiAgICAgICAgICAgICJvdXRwdXRfbGFiZWwiOiAyLAogICAgICAgIH0K</text>
@@ -876,18 +876,14 @@
       </register>
     </registers>
     <search>
-      <last-search>output_label</last-search>
+      <last-search>segmentation</last-search>
       <last-offset />
-      <last-pattern>output_label</last-pattern>
+      <last-pattern>segmentation</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>str</entry>
-        <entry encoding="base64">XDxwYXJzZV90ZXh0XD4=</entry>
-        <entry>general</entry>
-        <entry>calendarid</entry>
         <entry>ID</entry>
         <entry>id</entry>
         <entry encoding="base64">XDxwcmltYXJ5XD4=</entry>
@@ -904,6 +900,10 @@
         <entry>naviga</entry>
         <entry>alter</entry>
         <entry>output_label</entry>
+        <entry encoding="base64">XDxzZWdtZW50YXRpb25cPg==</entry>
+        <entry encoding="base64">XDxfaW50ZXJhY3Rpdml0eV9lbmRcPg==</entry>
+        <entry encoding="base64">XDxfX3Jlc2l6ZV90b19vcmlnXD4=</entry>
+        <entry>segmentation</entry>
       </history-search>
       <history-cmd>
         <entry>291</entry>
