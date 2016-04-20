@@ -253,11 +253,11 @@
         <mark key="^" line="136" column="25" />
         <mark key="." line="136" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/config_default.py" timestamp="1461154984945">
-        <mark key="[" line="45" column="9" />
-        <mark key="]" line="45" column="9" />
-        <mark key="^" line="45" column="9" />
-        <mark key="." line="45" column="9" />
+      <file name="$USER_HOME$/projects/lisa/lisa/config_default.py" timestamp="1461159950217">
+        <mark key="[" line="4" column="16" />
+        <mark key="]" line="4" column="20" />
+        <mark key="^" line="4" column="20" />
+        <mark key="." line="4" column="20" />
       </file>
       <file name="$USER_HOME$/projects/skelet3d/src/skelet3d/skelet3d.py" timestamp="1445867155334">
         <mark key="[" line="71" column="0" />
@@ -833,10 +833,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>kidney</text>
+        <text>True</text>
       </register>
       <register name="-" type="4">
-        <text>kidney</text>
+        <text>True</text>
       </register>
       <register name="/" type="4">
         <text>output_label</text>
@@ -845,31 +845,31 @@
         <text encoding="base64">ICAgICAgICAia2lkbmV5Ijp7CiAgICAgICAgICAgICJvdXRwdXRfbGFiZWwiOiAyLAogICAgICAgIH0K</text>
       </register>
       <register name="1" type="4">
-        <text>kidney</text>
+        <text>True</text>
       </register>
       <register name="2" type="4">
-        <text>}</text>
+        <text>kidney</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">ZnJvbSA=</text>
+        <text>}</text>
       </register>
       <register name="4" type="4">
-        <text>_</text>
+        <text encoding="base64">ZnJvbSA=</text>
       </register>
       <register name="5" type="4">
+        <text>_</text>
+      </register>
+      <register name="6" type="4">
         <text>pysegbase</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ZGVmIHJlbW92ZV9waXp6YShmbGF0LCB6ZXJvX3N0cmlwZV93aWR0aD0xMCwgYWxwaGEwPS0yMCwgYWxwaGExPTQwICk6CiAgICAiIiIKICAgIFJlbW92ZSBjaXJjdWxhciBzZWN0b3IgZnJvbSB0aGUgaW1hZ2Ugd2l0aCBjZW50ZXIgaW4gc3BpbmUKICAgIDpwYXJhbSBmbGF0OiBpbnB1dCAyRCBpbWFnZQogICAgOnBhcmFtIHplcm9fc3RyaXBlX3dpZHRoOiBvZmZzZXQgdG8gcGl2b3QgcG9pbnQuIFBpenphIGxpbmUgaXMgemVyb19zdHJpcGVfd2lkdGggZmFyCiAgICA6cGFyYW0gYWxwaGEwOiBBZGRpdGlvbmFsIHN0YXJ0IGFuZ2xlIHJlbGF0aXZlIHRvIGRldGVjdGVkIG9yaWVudGF0aW9uCiAgICA6cGFyYW0gYWxwaGExOiBBZGRpdGlvbmFsIGVuZCBhbmdsZSByZWxhdGl2ZSB0byBkZXRlY3RlZCBvcmllbnRhdGlvbgogICAgOnJldHVybjoKICAgICIiIgogICAgc3BpbmVfbWVhbiA9IG5wLm1lYW4obnAubm9uemVybyhzZWxmLnNwaW5lKSwgMSkKICAgIHNwaW5lX21lYW4gPSBzcGluZV9tZWFuWzE6XQoKICAgIHoxID0gc3BsaXRfd2l0aF9saW5lKHNwaW5lX21lYW4sIHNlbGYuYW5nbGUgKyBhbHBoYTEsIGZsYXQuc2hhcGUpCiAgICB6MiA9IHNwbGl0X3dpdGhfbGluZShzcGluZV9tZWFuLCBzZWxmLmFuZ2xlICsgYWxwaGEwLCBmbGF0LnNoYXBlKQoKICAgIHoxID0gKHoxID4gemVyb19zdHJpcGVfd2lkdGgpLmFzdHlwZShucC5pbnQ4KQogICAgejIgPSAoejIgPCAtemVyb19zdHJpcGVfd2lkdGgpLmFzdHlwZShucC5pbnQ4KQogICAgIyBzZWcgPSAobnAuYWJzKHopID4gemVyb19zdHJpcGVfd2lkdGgpLmFzdHlwZShucC5pbnQpCiAgICBzZWcgPSAoejEgKiB6MikKCiAgICBmbGF0IFtzZWc+MF09IG5wLk5hTiAjICsgc2VnKjEwCiAgICAjIHByaW50ICdzcCAnLCBzcGluZV9tZWFuCiAgICAjIHByaW50ICdzcG9yaWcgJywgc3ltbWV0cnlfcG9pbnRfb3JpZ19yZXMKICAgICMgZmxhdCA9IHNlZwoKICAgIHJldHVybiBmbGF0Cgo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gb3UK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gb3UK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
