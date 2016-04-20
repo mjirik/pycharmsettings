@@ -72,8 +72,8 @@
         <mark key="^" line="722" column="35" />
         <mark key="." line="722" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1453664186071">
-        <mark key="'" line="250" column="13" />
+      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1461154811621">
+        <mark key="'" line="782" column="42" />
         <mark key="[" line="634" column="0" />
         <mark key="]" line="634" column="0" />
         <mark key="." line="634" column="0" />
@@ -84,6 +84,9 @@
         <mark key="]" line="38" column="69" />
         <mark key="^" line="40" column="23" />
         <mark key="." line="38" column="69" />
+      </file>
+      <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1461154505382">
+        <mark key="'" line="43" column="46" />
       </file>
       <file name="$USER_HOME$/projects/lisa/tests/liver_segmentation_cerveny_test.py" timestamp="1449487905152">
         <mark key="[" line="30" column="23" />
@@ -250,11 +253,11 @@
         <mark key="^" line="136" column="25" />
         <mark key="." line="136" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/config_default.py" timestamp="1461153283094">
-        <mark key="[" line="31" column="22" />
-        <mark key="]" line="21" column="41" />
-        <mark key="^" line="21" column="41" />
-        <mark key="." line="21" column="41" />
+      <file name="$USER_HOME$/projects/lisa/lisa/config_default.py" timestamp="1461154984945">
+        <mark key="[" line="45" column="9" />
+        <mark key="]" line="45" column="9" />
+        <mark key="^" line="45" column="9" />
+        <mark key="." line="45" column="9" />
       </file>
       <file name="$USER_HOME$/projects/skelet3d/src/skelet3d/skelet3d.py" timestamp="1445867155334">
         <mark key="[" line="71" column="0" />
@@ -727,8 +730,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="38" filename="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" />
-      <jump line="97" column="20" filename="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" />
       <jump line="65" column="8" filename="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" />
       <jump line="56" column="4" filename="$USER_HOME$/projects/lisa/lisa/liver_seeds.py" />
       <jump line="70" column="9" filename="$USER_HOME$/projects/lisa/lisa/liver_seeds.py" />
@@ -827,62 +828,62 @@
       <jump line="56" column="42" filename="$USER_HOME$/projects/lisa/lisa/liver_model.py" />
       <jump line="93" column="20" filename="$USER_HOME$/projects/lisa/lisa/liver_model.py" />
       <jump line="301" column="24" filename="$USER_HOME$/projects/lisa/lisa/liver_model.py" />
+      <jump line="43" column="46" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="782" column="42" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWdwYXJhbXMgPSB7CiAgICAgICAgICAgICMgJ21ldGhvZCc6J2dyYXBoY3V0JywKICAgICAgICAgICAgJ21ldGhvZCc6ICdncmFwaGN1dCcsCiAgICAgICAgICAgICd1c2VfYm91bmRhcnlfcGVuYWx0aWVzJzogRmFsc2UsCiAgICAgICAgICAgICdib3VuZGFyeV9kaWxhdGF0aW9uX2Rpc3RhbmNlJzogMiwKICAgICAgICAgICAgJ2JvdW5kYXJ5X3BlbmFsdGllc193ZWlnaHQnOiAxLAogICAgICAgICAgICAnbW9kZWxwYXJhbXMnOiB7CiAgICAgICAgICAgICAgICAndHlwZSc6ICdnbW1zYW1lJywKICAgICAgICAgICAgICAgICdmdl90eXBlJzogImZ2X2V4dGVybiIsCiAgICAgICAgICAgICAgICAnZnZfZXh0ZXJuJzogZnZfZnVuY3Rpb24sCiAgICAgICAgICAgICAgICAnYWRhcHRhdGlvbic6ICdvcmlnaW5hbF9kYXRhJywKICAgICAgICAgICAgfQogICAgICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>kidney</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZnJvbSA=</text>
+        <text>kidney</text>
       </register>
       <register name="/" type="4">
-        <text>problem</text>
+        <text>output_label</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWdwYXJhbXMgPSB7CiAgICAgICAgICAgICMgJ21ldGhvZCc6J2dyYXBoY3V0JywKICAgICAgICAgICAgJ21ldGhvZCc6ICdncmFwaGN1dCcsCiAgICAgICAgICAgICd1c2VfYm91bmRhcnlfcGVuYWx0aWVzJzogRmFsc2UsCiAgICAgICAgICAgICdib3VuZGFyeV9kaWxhdGF0aW9uX2Rpc3RhbmNlJzogMiwKICAgICAgICAgICAgJ2JvdW5kYXJ5X3BlbmFsdGllc193ZWlnaHQnOiAxLAogICAgICAgICAgICAnbW9kZWxwYXJhbXMnOiB7CiAgICAgICAgICAgICAgICAndHlwZSc6ICdnbW1zYW1lJywKICAgICAgICAgICAgICAgICdmdl90eXBlJzogImZ2X2V4dGVybiIsCiAgICAgICAgICAgICAgICAnZnZfZXh0ZXJuJzogZnZfZnVuY3Rpb24sCiAgICAgICAgICAgICAgICAnYWRhcHRhdGlvbic6ICdvcmlnaW5hbF9kYXRhJywKICAgICAgICAgICAgfQogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAia2lkbmV5Ijp7CiAgICAgICAgICAgICJvdXRwdXRfbGFiZWwiOiAyLAogICAgICAgIH0K</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ZnJvbSA=</text>
+        <text>kidney</text>
       </register>
       <register name="2" type="4">
-        <text>_</text>
+        <text>}</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">ZnJvbSA=</text>
+      </register>
+      <register name="4" type="4">
+        <text>_</text>
+      </register>
+      <register name="5" type="4">
         <text>pysegbase</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ZGVmIHJlbW92ZV9waXp6YShmbGF0LCB6ZXJvX3N0cmlwZV93aWR0aD0xMCwgYWxwaGEwPS0yMCwgYWxwaGExPTQwICk6CiAgICAiIiIKICAgIFJlbW92ZSBjaXJjdWxhciBzZWN0b3IgZnJvbSB0aGUgaW1hZ2Ugd2l0aCBjZW50ZXIgaW4gc3BpbmUKICAgIDpwYXJhbSBmbGF0OiBpbnB1dCAyRCBpbWFnZQogICAgOnBhcmFtIHplcm9fc3RyaXBlX3dpZHRoOiBvZmZzZXQgdG8gcGl2b3QgcG9pbnQuIFBpenphIGxpbmUgaXMgemVyb19zdHJpcGVfd2lkdGggZmFyCiAgICA6cGFyYW0gYWxwaGEwOiBBZGRpdGlvbmFsIHN0YXJ0IGFuZ2xlIHJlbGF0aXZlIHRvIGRldGVjdGVkIG9yaWVudGF0aW9uCiAgICA6cGFyYW0gYWxwaGExOiBBZGRpdGlvbmFsIGVuZCBhbmdsZSByZWxhdGl2ZSB0byBkZXRlY3RlZCBvcmllbnRhdGlvbgogICAgOnJldHVybjoKICAgICIiIgogICAgc3BpbmVfbWVhbiA9IG5wLm1lYW4obnAubm9uemVybyhzZWxmLnNwaW5lKSwgMSkKICAgIHNwaW5lX21lYW4gPSBzcGluZV9tZWFuWzE6XQoKICAgIHoxID0gc3BsaXRfd2l0aF9saW5lKHNwaW5lX21lYW4sIHNlbGYuYW5nbGUgKyBhbHBoYTEsIGZsYXQuc2hhcGUpCiAgICB6MiA9IHNwbGl0X3dpdGhfbGluZShzcGluZV9tZWFuLCBzZWxmLmFuZ2xlICsgYWxwaGEwLCBmbGF0LnNoYXBlKQoKICAgIHoxID0gKHoxID4gemVyb19zdHJpcGVfd2lkdGgpLmFzdHlwZShucC5pbnQ4KQogICAgejIgPSAoejIgPCAtemVyb19zdHJpcGVfd2lkdGgpLmFzdHlwZShucC5pbnQ4KQogICAgIyBzZWcgPSAobnAuYWJzKHopID4gemVyb19zdHJpcGVfd2lkdGgpLmFzdHlwZShucC5pbnQpCiAgICBzZWcgPSAoejEgKiB6MikKCiAgICBmbGF0IFtzZWc+MF09IG5wLk5hTiAjICsgc2VnKjEwCiAgICAjIHByaW50ICdzcCAnLCBzcGluZV9tZWFuCiAgICAjIHByaW50ICdzcG9yaWcgJywgc3ltbWV0cnlfcG9pbnRfb3JpZ19yZXMKICAgICMgZmxhdCA9IHNlZwoKICAgIHJldHVybiBmbGF0Cgo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gb3UK</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR2YWw9W10K</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>problem</last-search>
+      <last-search>output_label</last-search>
       <last-offset />
-      <last-pattern>problem</last-pattern>
+      <last-pattern>output_label</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfX3B1dF9zbGljZV9pbl9zbGltXD4=</entry>
-        <entry encoding="base64">XDxzaG93X3NsaWNlXD4=</entry>
         <entry>str</entry>
         <entry encoding="base64">XDxwYXJzZV90ZXh0XD4=</entry>
         <entry>general</entry>
@@ -901,6 +902,8 @@
         <entry>gradient</entry>
         <entry>navigation</entry>
         <entry>naviga</entry>
+        <entry>alter</entry>
+        <entry>output_label</entry>
       </history-search>
       <history-cmd>
         <entry>291</entry>
@@ -916,8 +919,8 @@
         <entry>166</entry>
         <entry>e</entry>
         <entry>292</entry>
-        <entry>w</entry>
         <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
