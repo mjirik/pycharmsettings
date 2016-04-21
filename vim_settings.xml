@@ -712,11 +712,9 @@
         <mark key="^" line="56" column="60" />
         <mark key="." line="13" column="18" />
       </file>
-      <file name="$USER_HOME$/projects/pysegbase/pysegbase/seed_editor_qt.py" timestamp="1461228529458">
-        <mark key="[" line="139" column="4" />
-        <mark key="]" line="139" column="7" />
-        <mark key="." line="139" column="7" />
-        <mark key="^" line="99" column="5" />
+      <file name="$USER_HOME$/projects/pysegbase/pysegbase/seed_editor_qt.py" timestamp="1461229214711">
+        <mark key="a" line="1395" column="31" />
+        <mark key="'" line="594" column="0" />
       </file>
       <file name="$USER_HOME$/projects/lisa/mysetup.py" timestamp="1448551743639">
         <mark key="'" line="471" column="14" />
@@ -738,7 +736,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="12" filename="$USER_HOME$/projects/lisa/lisa/liver_seeds.py" />
       <jump line="336" column="0" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="335" column="21" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="329" column="42" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
@@ -838,6 +835,7 @@
       <jump line="663" column="25" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="664" column="24" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="803" column="13" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="594" column="0" filename="$USER_HOME$/projects/pysegbase/pysegbase/seed_editor_qt.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -847,7 +845,7 @@
         <text>4</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfc2VnbWVudGF0aW9uX3Bvc3Rwcm9jZXNzaW5nXD4=</text>
+        <text>delete</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDI2OiBbNjQsIDAsIDBdLAogICAgMjc6IFswLCAwLCA2NF0sCiAgICAyODogWzAsIDY0LCA2NF0sCiAgICAyOTogWzY0LCAxMjgsIDBdLAogICAgMzA6IFs2NCwgMTI4LCA2NF0sCiAgICAzMTogWzY0LCAwLCAxMjhdLAogICAgMzI6IFsxMjgsIDEyOCwgNjRdLAogICAgMzM6IFswLCAxMjgsIDY0XSwKICAgIDM0OiBbMTI4LCAwLCA2NF0sCiAgICAzNTogWzY0LCA2NCwgMF0sCiAgICAzNjogWzAsIDY0LCAwXSwKICAgIDM3OiBbMCwgNjQsIDY0XSwKICAgIDM4OiBbMTI4LCAwLCAwXSwKICAgIDM5OiBbMTI4LCAwLCAwXSwKICAgIDQwOiBbMCwgMCwgMTI4XSwKICAgIDQxOiBbMCwgMTI4LCAxMjhdLAogICAgNDI6IFs2NCwgMTI4LCAwXSwKICAgIDQzOiBbNjQsIDEyOCwgMF0sCiAgICA0NDogWzEyOCwgMCwgMTI4XSwKICAgIDQ1OiBbMTI4LCA2NCwgMTI4XSwKICAgIDQ2OiBbMTI4LCAxMjgsIDY0XSwKICAgIDQ3OiBbMTI4LCA2NCwgMTI4XSwKICAgIDQ4OiBbNjQsIDY0LCAxMjhdLAogICAgNDk6IFswLCA2NCwgMTI4XSwKICAgIDUwOiBbMTI4LCA2NCwgNjRdLAo=</text>
@@ -884,15 +882,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfc2VnbWVudGF0aW9uX3Bvc3Rwcm9jZXNzaW5nXD4=</last-search>
+      <last-search>delete</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfc2VnbWVudGF0aW9uX3Bvc3Rwcm9jZXNzaW5nXD4=</last-pattern>
+      <last-pattern>delete</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>id</entry>
         <entry encoding="base64">XDxwcmltYXJ5XD4=</entry>
         <entry>primary</entry>
         <entry encoding="base64">XDxhZGRfZXZlbnRzXD4=</entry>
@@ -912,6 +909,7 @@
         <entry encoding="base64">XDxfX3Jlc2l6ZV90b19vcmlnXD4=</entry>
         <entry>segmentation</entry>
         <entry encoding="base64">XDxfc2VnbWVudGF0aW9uX3Bvc3Rwcm9jZXNzaW5nXD4=</entry>
+        <entry>delete</entry>
       </history-search>
       <history-cmd>
         <entry>291</entry>
