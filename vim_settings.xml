@@ -712,6 +712,12 @@
         <mark key="^" line="56" column="60" />
         <mark key="." line="13" column="18" />
       </file>
+      <file name="$USER_HOME$/projects/pysegbase/pysegbase/seed_editor_qt.py" timestamp="1461228529458">
+        <mark key="[" line="139" column="4" />
+        <mark key="]" line="139" column="7" />
+        <mark key="." line="139" column="7" />
+        <mark key="^" line="99" column="5" />
+      </file>
       <file name="$USER_HOME$/projects/lisa/mysetup.py" timestamp="1448551743639">
         <mark key="'" line="471" column="14" />
         <mark key="[" line="478" column="21" />
@@ -834,44 +840,44 @@
       <jump line="803" column="13" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIDI2OiBbNjQsIDAsIDBdLAogICAgMjc6IFswLCAwLCA2NF0sCiAgICAyODogWzAsIDY0LCA2NF0sCiAgICAyOTogWzY0LCAxMjgsIDBdLAogICAgMzA6IFs2NCwgMTI4LCA2NF0sCiAgICAzMTogWzY0LCAwLCAxMjhdLAogICAgMzI6IFsxMjgsIDEyOCwgNjRdLAogICAgMzM6IFswLCAxMjgsIDY0XSwKICAgIDM0OiBbMTI4LCAwLCA2NF0sCiAgICAzNTogWzY0LCA2NCwgMF0sCiAgICAzNjogWzAsIDY0LCAwXSwKICAgIDM3OiBbMCwgNjQsIDY0XSwKICAgIDM4OiBbMTI4LCAwLCAwXSwKICAgIDM5OiBbMTI4LCAwLCAwXSwKICAgIDQwOiBbMCwgMCwgMTI4XSwKICAgIDQxOiBbMCwgMTI4LCAxMjhdLAogICAgNDI6IFs2NCwgMTI4LCAwXSwKICAgIDQzOiBbNjQsIDEyOCwgMF0sCiAgICA0NDogWzEyOCwgMCwgMTI4XSwKICAgIDQ1OiBbMTI4LCA2NCwgMTI4XSwKICAgIDQ2OiBbMTI4LCAxMjgsIDY0XSwKICAgIDQ3OiBbMTI4LCA2NCwgMTI4XSwKICAgIDQ4OiBbNjQsIDY0LCAxMjhdLAogICAgNDk6IFswLCA2NCwgMTI4XSwKICAgIDUwOiBbMTI4LCA2NCwgNjRdLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfc2VnbWVudGF0aW9uX3Bvc3Rwcm9jZXNzaW5nXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5zZWdtZW50YXRpb25fcHJldltzZWxmLnNlZ21lbnRhdGlvbl9wcmV2ID09IHNlbGYub3V0cHV0X2xhYmVsXSA9IDAK</text>
+        <text encoding="base64">ICAgIDI2OiBbNjQsIDAsIDBdLAogICAgMjc6IFswLCAwLCA2NF0sCiAgICAyODogWzAsIDY0LCA2NF0sCiAgICAyOTogWzY0LCAxMjgsIDBdLAogICAgMzA6IFs2NCwgMTI4LCA2NF0sCiAgICAzMTogWzY0LCAwLCAxMjhdLAogICAgMzI6IFsxMjgsIDEyOCwgNjRdLAogICAgMzM6IFswLCAxMjgsIDY0XSwKICAgIDM0OiBbMTI4LCAwLCA2NF0sCiAgICAzNTogWzY0LCA2NCwgMF0sCiAgICAzNjogWzAsIDY0LCAwXSwKICAgIDM3OiBbMCwgNjQsIDY0XSwKICAgIDM4OiBbMTI4LCAwLCAwXSwKICAgIDM5OiBbMTI4LCAwLCAwXSwKICAgIDQwOiBbMCwgMCwgMTI4XSwKICAgIDQxOiBbMCwgMTI4LCAxMjhdLAogICAgNDI6IFs2NCwgMTI4LCAwXSwKICAgIDQzOiBbNjQsIDEyOCwgMF0sCiAgICA0NDogWzEyOCwgMCwgMTI4XSwKICAgIDQ1OiBbMTI4LCA2NCwgMTI4XSwKICAgIDQ2OiBbMTI4LCAxMjgsIDY0XSwKICAgIDQ3OiBbMTI4LCA2NCwgMTI4XSwKICAgIDQ4OiBbNjQsIDY0LCAxMjhdLAogICAgNDk6IFswLCA2NCwgMTI4XSwKICAgIDUwOiBbMTI4LCA2NCwgNjRdLAo=</text>
       </register>
       <register name="1" type="4">
-        <text>0</text>
+        <text>4</text>
       </register>
       <register name="2" type="4">
-        <text>self.output_label</text>
+        <text>1</text>
       </register>
       <register name="3" type="4">
-        <text>v</text>
+        <text>2</text>
       </register>
       <register name="4" type="4">
-        <text>e</text>
+        <text>4</text>
       </register>
       <register name="5" type="4">
-        <text>r</text>
+        <text>1</text>
       </register>
       <register name="6" type="4">
-        <text>p</text>
+        <text>3</text>
       </register>
-      <register name="7" type="4">
-        <text>_</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIDI2OiBbMjU1LCAwLCAxMjhdLAo=</text>
       </register>
       <register name="8" type="4">
-        <text>starou</text>
+        <text>255</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">dnltYXphdCA=</text>
+        <text>255</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -987,6 +993,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
