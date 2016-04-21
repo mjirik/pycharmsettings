@@ -211,9 +211,6 @@
         <mark key="^" line="19" column="14" />
         <mark key="." line="19" column="14" />
       </file>
-      <file name="/Python Console" timestamp="1459068144817">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/quantan/quantan/histology_report.py" timestamp="1452186060856">
         <mark key="[" line="269" column="34" />
         <mark key="]" line="269" column="68" />
@@ -502,9 +499,9 @@
         <mark key="^" line="44" column="50" />
         <mark key="." line="44" column="50" />
       </file>
-      <file name="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" timestamp="1459933485720">
+      <file name="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" timestamp="1461243963631">
         <mark key="a" line="17" column="7" />
-        <mark key="'" line="493" column="13" />
+        <mark key="'" line="47" column="26" />
         <mark key="[" line="68" column="56" />
         <mark key="]" line="152" column="100" />
         <mark key="." line="152" column="100" />
@@ -556,8 +553,8 @@
         <mark key="^" line="22" column="68" />
         <mark key="." line="22" column="68" />
       </file>
-      <file name="$USER_HOME$/projects/pysegbase/tests/pycut_test.py" timestamp="1459864962401">
-        <mark key="'" line="91" column="29" />
+      <file name="$USER_HOME$/projects/pysegbase/tests/pycut_test.py" timestamp="1461244024725">
+        <mark key="'" line="29" column="28" />
         <mark key="[" line="129" column="0" />
         <mark key="]" line="141" column="8" />
         <mark key="^" line="165" column="7" />
@@ -712,9 +709,13 @@
         <mark key="^" line="56" column="60" />
         <mark key="." line="13" column="18" />
       </file>
-      <file name="$USER_HOME$/projects/pysegbase/pysegbase/seed_editor_qt.py" timestamp="1461229214711">
-        <mark key="a" line="1395" column="31" />
-        <mark key="'" line="594" column="0" />
+      <file name="$USER_HOME$/projects/pysegbase/pysegbase/seed_editor_qt.py" timestamp="1461229579310">
+        <mark key="a" line="1407" column="31" />
+        <mark key="'" line="703" column="59" />
+        <mark key="[" line="1405" column="44" />
+        <mark key="]" line="1406" column="40" />
+        <mark key="." line="1406" column="40" />
+        <mark key="^" line="1406" column="40" />
       </file>
       <file name="$USER_HOME$/projects/lisa/mysetup.py" timestamp="1448551743639">
         <mark key="'" line="471" column="14" />
@@ -736,9 +737,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="336" column="0" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
-      <jump line="335" column="21" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
-      <jump line="329" column="42" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="594" column="8" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="731" column="15" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="734" column="21" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
@@ -836,62 +834,63 @@
       <jump line="664" column="24" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="803" column="13" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="594" column="0" filename="$USER_HOME$/projects/pysegbase/pysegbase/seed_editor_qt.py" />
+      <jump line="703" column="59" filename="$USER_HOME$/projects/pysegbase/pysegbase/seed_editor_qt.py" />
+      <jump line="47" column="26" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="29" column="28" filename="$USER_HOME$/projects/pysegbase/tests/pycut_test.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDI2OiBbNjQsIDAsIDBdLAogICAgMjc6IFswLCAwLCA2NF0sCiAgICAyODogWzAsIDY0LCA2NF0sCiAgICAyOTogWzY0LCAxMjgsIDBdLAogICAgMzA6IFs2NCwgMTI4LCA2NF0sCiAgICAzMTogWzY0LCAwLCAxMjhdLAogICAgMzI6IFsxMjgsIDEyOCwgNjRdLAogICAgMzM6IFswLCAxMjgsIDY0XSwKICAgIDM0OiBbMTI4LCAwLCA2NF0sCiAgICAzNTogWzY0LCA2NCwgMF0sCiAgICAzNjogWzAsIDY0LCAwXSwKICAgIDM3OiBbMCwgNjQsIDY0XSwKICAgIDM4OiBbMTI4LCAwLCAwXSwKICAgIDM5OiBbMTI4LCAwLCAwXSwKICAgIDQwOiBbMCwgMCwgMTI4XSwKICAgIDQxOiBbMCwgMTI4LCAxMjhdLAogICAgNDI6IFs2NCwgMTI4LCAwXSwKICAgIDQzOiBbNjQsIDEyOCwgMF0sCiAgICA0NDogWzEyOCwgMCwgMTI4XSwKICAgIDQ1OiBbMTI4LCA2NCwgMTI4XSwKICAgIDQ2OiBbMTI4LCAxMjgsIDY0XSwKICAgIDQ3OiBbMTI4LCA2NCwgMTI4XSwKICAgIDQ4OiBbNjQsIDY0LCAxMjhdLAogICAgNDk6IFswLCA2NCwgMTI4XSwKICAgIDUwOiBbMTI4LCA2NCwgNjRdLAo=</text>
+      <register name="&quot;" type="4">
+        <text>contour</text>
       </register>
       <register name="-" type="4">
-        <text>4</text>
+        <text>contour</text>
       </register>
       <register name="/" type="4">
-        <text>delete</text>
+        <text>seed_ed</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDI2OiBbNjQsIDAsIDBdLAogICAgMjc6IFswLCAwLCA2NF0sCiAgICAyODogWzAsIDY0LCA2NF0sCiAgICAyOTogWzY0LCAxMjgsIDBdLAogICAgMzA6IFs2NCwgMTI4LCA2NF0sCiAgICAzMTogWzY0LCAwLCAxMjhdLAogICAgMzI6IFsxMjgsIDEyOCwgNjRdLAogICAgMzM6IFswLCAxMjgsIDY0XSwKICAgIDM0OiBbMTI4LCAwLCA2NF0sCiAgICAzNTogWzY0LCA2NCwgMF0sCiAgICAzNjogWzAsIDY0LCAwXSwKICAgIDM3OiBbMCwgNjQsIDY0XSwKICAgIDM4OiBbMTI4LCAwLCAwXSwKICAgIDM5OiBbMTI4LCAwLCAwXSwKICAgIDQwOiBbMCwgMCwgMTI4XSwKICAgIDQxOiBbMCwgMTI4LCAxMjhdLAogICAgNDI6IFs2NCwgMTI4LCAwXSwKICAgIDQzOiBbNjQsIDEyOCwgMF0sCiAgICA0NDogWzEyOCwgMCwgMTI4XSwKICAgIDQ1OiBbMTI4LCA2NCwgMTI4XSwKICAgIDQ2OiBbMTI4LCAxMjgsIDY0XSwKICAgIDQ3OiBbMTI4LCA2NCwgMTI4XSwKICAgIDQ4OiBbNjQsIDY0LCAxMjhdLAogICAgNDk6IFswLCA2NCwgMTI4XSwKICAgIDUwOiBbMTI4LCA2NCwgNjRdLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29tYm9fY29udG91cl9vcHRpb25zID0gWydmaWxsJywgJ2NvbnRvdXJzJywgJ29mZiddCiAgICAgICAgICAgIGNvbWJvX2NvbnRvdXIgPSBRQ29tYm9Cb3goc2VsZikKICAgICAgICAgICAgY29tYm9fY29udG91ci5hY3RpdmF0ZWRbc3RyXS5jb25uZWN0KHNlbGYuY2hhbmdlQ29udG91ck1vZGUpCiAgICAgICAgICAgIGNvbWJvX2NvbnRvdXIuYWRkSXRlbXMoY29tYm9fY29udG91cl9vcHRpb25zKQogICAgICAgICAgICBzZWxmLmNoYW5nZUNvbnRvdXJNb2RlKGNvbWJvX2NvbnRvdXJfb3B0aW9uc1tjb21ib19jb250b3VyLmN1cnJlbnRJbmRleCgpXSkKICAgICAgICAgICAgdm9wdHMuYXBwZW5kKFFMYWJlbCgnU2VsZWN0aW9uIG1vZGU6JykpCiAgICAgICAgICAgIHZvcHRzLmFwcGVuZChjb21ib19jb250b3VyKQo=</text>
       </register>
       <register name="1" type="4">
-        <text>4</text>
+        <text>contour</text>
       </register>
-      <register name="2" type="4">
-        <text>1</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29tYm9fc2VlZF9sYWJlbF9vcHRpb25zID0gWydhbGwnLCAnMScsICcyJywgJzMnLCAnNCddCiAgICAgICAgICAgIGNvbWJvX3NlZWRfbGFiZWw9IFFDb21ib0JveChzZWxmKQogICAgICAgICAgICBjb21ib19zZWVkX2xhYmVsLmFjdGl2YXRlZFtzdHJdLmNvbm5lY3Qoc2VsZi5jaGFuZ2VDb250b3VyTW9kZSkKICAgICAgICAgICAgY29tYm9fc2VlZF9sYWJlbC5hZGRJdGVtcyhjb21ib19zZWVkX2xhYmVsX29wdGlvbnMpCiAgICAgICAgICAgIHNlbGYuY2hhbmdlRm9jdXNlZExhYmVsKGNvbWJvX3NlZWRfbGFiZWxfb3B0aW9uc1tjb21ib19jb250b3VyLmN1cnJlbnRJbmRleCgpXSkKICAgICAgICAgICAgdm9wdHMuYXBwZW5kKFFMYWJlbCgnTGFiZWwgdG8gZGVsZXRlOicpKQogICAgICAgICAgICB2b3B0cy5hcHBlbmQoY29tYm9fc2VlZF9sYWJlbCkK</text>
       </register>
       <register name="3" type="4">
-        <text>2</text>
+        <text encoding="base64">RGVsZXRlIA==</text>
       </register>
       <register name="4" type="4">
-        <text>4</text>
+        <text>mode</text>
       </register>
       <register name="5" type="4">
-        <text>1</text>
+        <text encoding="base64">U2VsZWN0aW9uIA==</text>
       </register>
       <register name="6" type="4">
-        <text>3</text>
+        <text>contour</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIDI2OiBbMjU1LCAwLCAxMjhdLAo=</text>
+      <register name="7" type="4">
+        <text>contour</text>
       </register>
       <register name="8" type="4">
-        <text>255</text>
+        <text>ContourMode</text>
       </register>
       <register name="9" type="4">
-        <text>255</text>
+        <text>contour_options</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>delete</last-search>
+      <last-search>seed_ed</last-search>
       <last-offset />
-      <last-pattern>delete</last-pattern>
+      <last-pattern>seed_ed</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwcmltYXJ5XD4=</entry>
-        <entry>primary</entry>
         <entry encoding="base64">XDxhZGRfZXZlbnRzXD4=</entry>
         <entry encoding="base64">XDxjaGVja19kdXBsaWNpdHlcPg==</entry>
         <entry>calendarID</entry>
@@ -910,6 +909,8 @@
         <entry>segmentation</entry>
         <entry encoding="base64">XDxfc2VnbWVudGF0aW9uX3Bvc3Rwcm9jZXNzaW5nXD4=</entry>
         <entry>delete</entry>
+        <entry>seed</entry>
+        <entry>seed_ed</entry>
       </history-search>
       <history-cmd>
         <entry>291</entry>
