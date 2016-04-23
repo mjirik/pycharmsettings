@@ -236,11 +236,11 @@
         <mark key="^" line="136" column="25" />
         <mark key="." line="136" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/config_default.py" timestamp="1461159950217">
-        <mark key="[" line="4" column="16" />
-        <mark key="]" line="4" column="20" />
-        <mark key="^" line="4" column="20" />
-        <mark key="." line="4" column="20" />
+      <file name="$USER_HOME$/projects/lisa/lisa/config_default.py" timestamp="1461414871451">
+        <mark key="[" line="52" column="9" />
+        <mark key="]" line="52" column="14" />
+        <mark key="^" line="52" column="14" />
+        <mark key="." line="52" column="14" />
       </file>
       <file name="$USER_HOME$/projects/skelet3d/src/skelet3d/skelet3d.py" timestamp="1445867155334">
         <mark key="[" line="71" column="0" />
@@ -791,44 +791,44 @@
       <jump line="1413" column="8" filename="$USER_HOME$/projects/pysegbase/pysegbase/seed_editor_qt.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>slow</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAia2lkbmV5Ijp7CiAgICAgICAgICAgICJvdXRwdXRfbGFiZWwiOiAxNSwKICAgICAgICB9LAo=</text>
       </register>
       <register name="-" type="4">
-        <text>slow</text>
+        <text>6</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkZWxldGVTbGljZVNlZWRzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdm9wdHMuYXBwZW5kKFFMYWJlbCgnTGFiZWwgdG8gZGVsZXRlOicpKQogICAgICAgICAgICB2b3B0cy5hcHBlbmQoY29tYm9fc2VlZF9sYWJlbCkK</text>
+        <text encoding="base64">ICAgICAgICAia2lkbmV5Ijp7CiAgICAgICAgICAgICJvdXRwdXRfbGFiZWwiOiAxNSwKICAgICAgICB9LAo=</text>
       </register>
       <register name="1" type="4">
+        <text>6</text>
+      </register>
+      <register name="2" type="4">
         <text>slow</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">QGF0dHIoJ3Nsb3cnKQo=</text>
-      </register>
-      <register name="3" type="4">
-        <text>opts</text>
       </register>
       <register name="4" type="4">
         <text>opts</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29tYm9fc2VlZF9sYWJlbF9vcHRpb25zID0gWydhbGwnLCAnMScsICcyJywgJzMnLCAnNCddCiAgICAgICAgICAgIGNvbWJvX3NlZWRfbGFiZWw9IFFDb21ib0JveChzZWxmKQogICAgICAgICAgICBjb21ib19zZWVkX2xhYmVsLmFjdGl2YXRlZFtzdHJdLmNvbm5lY3Qoc2VsZi5jaGFuZ2VGb2N1c2VkTGFiZWwpCiAgICAgICAgICAgIGNvbWJvX3NlZWRfbGFiZWwuYWRkSXRlbXMoY29tYm9fc2VlZF9sYWJlbF9vcHRpb25zKQogICAgICAgICAgICBzZWxmLmNoYW5nZUZvY3VzZWRMYWJlbChjb21ib19zZWVkX2xhYmVsX29wdGlvbnNbY29tYm9fc2VlZF9sYWJlbC5jdXJyZW50SW5kZXgoKV0pCiAgICAgICAgICAgIHZvcHRzLmFwcGVuZChRTGFiZWwoJ0xhYmVsIHRvIGRlbGV0ZTonKSkKICAgICAgICAgICAgdm9wdHMuYXBwZW5kKGNvbWJvX3NlZWRfbGFiZWwpCgo=</text>
+      <register name="5" type="4">
+        <text>opts</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29tYm9fc2VlZF9sYWJlbF9vcHRpb25zID0gWydhbGwnLCAnMScsICcyJywgJzMnLCAnNCddCiAgICAgICAgICAgIGNvbWJvX3NlZWRfbGFiZWw9IFFDb21ib0JveChzZWxmKQogICAgICAgICAgICBjb21ib19zZWVkX2xhYmVsLmFjdGl2YXRlZFtzdHJdLmNvbm5lY3Qoc2VsZi5jaGFuZ2VGb2N1c2VkTGFiZWwpCiAgICAgICAgICAgIGNvbWJvX3NlZWRfbGFiZWwuYWRkSXRlbXMoY29tYm9fc2VlZF9sYWJlbF9vcHRpb25zKQogICAgICAgICAgICBzZWxmLmNoYW5nZUZvY3VzZWRMYWJlbChjb21ib19zZWVkX2xhYmVsX29wdGlvbnNbY29tYm9fc2VlZF9sYWJlbC5jdXJyZW50SW5kZXgoKV0pCiAgICAgICAgICAgIHZvcHRzLmFwcGVuZChRTGFiZWwoJ0xhYmVsIHRvIGRlbGV0ZTonKSkKICAgICAgICAgICAgdm9wdHMuYXBwZW5kKGNvbWJvX3NlZWRfbGFiZWwpCgo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29tYm9fY29udG91cl9vcHRpb25zID0gWydmaWxsJywgJ2NvbnRvdXJzJywgJ29mZiddCiAgICAgICAgICAgIGNvbWJvX2NvbnRvdXIgPSBRQ29tYm9Cb3goc2VsZikKICAgICAgICAgICAgY29tYm9fY29udG91ci5hY3RpdmF0ZWRbc3RyXS5jb25uZWN0KHNlbGYuY2hhbmdlQ29udG91ck1vZGUpCiAgICAgICAgICAgIGNvbWJvX2NvbnRvdXIuYWRkSXRlbXMoY29tYm9fY29udG91cl9vcHRpb25zKQogICAgICAgICAgICBzZWxmLmNoYW5nZUNvbnRvdXJNb2RlKGNvbWJvX2NvbnRvdXJfb3B0aW9uc1tjb21ib19jb250b3VyLmN1cnJlbnRJbmRleCgpXSkKICAgICAgICAgICAgdm9wdHMuYXBwZW5kKFFMYWJlbCgnU2VsZWN0aW9uIG1vZGU6JykpCiAgICAgICAgICAgIHZvcHRzLmFwcGVuZChjb21ib19jb250b3VyKQo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>e</text>
       </register>
-      <register name="8" type="4">
-        <text>c</text>
-      </register>
       <register name="9" type="4">
-        <text>i</text>
+        <text>c</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
