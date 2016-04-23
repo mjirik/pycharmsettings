@@ -236,6 +236,9 @@
         <mark key="^" line="136" column="25" />
         <mark key="." line="136" column="25" />
       </file>
+      <file name="$USER_HOME$/projects/lisa/lisa/liver_model.py" timestamp="1461419382166">
+        <mark key="'" line="564" column="4" />
+      </file>
       <file name="$USER_HOME$/projects/lisa/lisa/config_default.py" timestamp="1461414871451">
         <mark key="[" line="52" column="9" />
         <mark key="]" line="52" column="14" />
@@ -689,7 +692,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="719" column="4" filename="$USER_HOME$/projects/sed3/sed3/sed3.py" />
       <jump line="746" column="4" filename="$USER_HOME$/projects/sed3/sed3/sed3.py" />
       <jump line="518" column="15" filename="$USER_HOME$/projects/sed3/sed3/sed3.py" />
       <jump line="678" column="14" filename="$USER_HOME$/projects/sed3/sed3/sed3.py" />
@@ -789,6 +791,7 @@
       <jump line="1410" column="14" filename="$USER_HOME$/projects/pysegbase/pysegbase/seed_editor_qt.py" />
       <jump line="36" column="41" filename="$USER_HOME$/projects/pysegbase/pysegbase/seed_editor_qt.py" />
       <jump line="1413" column="8" filename="$USER_HOME$/projects/pysegbase/pysegbase/seed_editor_qt.py" />
+      <jump line="564" column="4" filename="$USER_HOME$/projects/lisa/lisa/liver_model.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -798,7 +801,7 @@
         <text>6</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkZWxldGVTbGljZVNlZWRzXD4=</text>
+        <text encoding="base64">XDx0cmFpbl9saXZlcl9tb2RlbF9mcm9tX3NsaXZlcl9kYXRhXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAia2lkbmV5Ijp7CiAgICAgICAgICAgICJvdXRwdXRfbGFiZWwiOiAxNSwKICAgICAgICB9LAo=</text>
@@ -835,15 +838,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkZWxldGVTbGljZVNlZWRzXD4=</last-search>
+      <last-search encoding="base64">XDx0cmFpbl9saXZlcl9tb2RlbF9mcm9tX3NsaXZlcl9kYXRhXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkZWxldGVTbGljZVNlZWRzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDx0cmFpbl9saXZlcl9tb2RlbF9mcm9tX3NsaXZlcl9kYXRhXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>return_gra</entry>
         <entry>gradient</entry>
         <entry>navigation</entry>
         <entry>naviga</entry>
@@ -863,6 +865,7 @@
         <entry>err</entry>
         <entry>error</entry>
         <entry encoding="base64">XDxkZWxldGVTbGljZVNlZWRzXD4=</entry>
+        <entry encoding="base64">XDx0cmFpbl9saXZlcl9tb2RlbF9mcm9tX3NsaXZlcl9kYXRhXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>291</entry>
