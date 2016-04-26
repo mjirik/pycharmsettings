@@ -246,11 +246,11 @@
       <file name="$USER_HOME$/projects/lisa/lisa/liver_model.py" timestamp="1461419382166">
         <mark key="'" line="564" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/config_default.py" timestamp="1461422452437">
-        <mark key="[" line="54" column="9" />
-        <mark key="]" line="54" column="9" />
-        <mark key="^" line="54" column="9" />
-        <mark key="." line="54" column="9" />
+      <file name="$USER_HOME$/projects/lisa/lisa/config_default.py" timestamp="1461676791503">
+        <mark key="[" line="57" column="36" />
+        <mark key="]" line="57" column="37" />
+        <mark key="^" line="46" column="16" />
+        <mark key="." line="57" column="37" />
       </file>
       <file name="$USER_HOME$/projects/skelet3d/src/skelet3d/skelet3d.py" timestamp="1445867155334">
         <mark key="[" line="71" column="0" />
@@ -801,8 +801,8 @@
       <jump line="155" column="15" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>label</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAic2ltcGxlIDIgbW0iOnsKICAgICAgICAgICAgInNlZ21vZGVscGFyYW1zIjogewogICAgICAgICAgICAgICAgJ21kbF9zdG9yZWRfZmlsZSc6IE5vbmUsCiAgICAgICAgICAgICAgICAnZnZfdHlwZSc6ICdpbnRlbnNpdHknLAogICAgICAgICAgICAgICAgJ2Z2X2V4dGVybic6IE5vbmUsCiAgICAgICAgICAgICAgICAjICdtZGxfc3RvcmVkX2ZpbGUnOiAnfi9saXNhX2RhdGEvbGl2ZXJfaW50ZW5zaXR5Lk1vZGVsLnAnLAogICAgICAgICAgICAgICAgIyAiZnZfdHlwZSI6ICdmdl9leHRlcm4nLAogICAgICAgICAgICAgICAgIyAnZnZfZXh0ZXJuJzonaW50ZW5zaXR5X2xvY2FsaXphdGlvbl9mdicsCiAgICAgICAgICAgICAgICAjICdtZXRob2QnOiAnbXVsdGlzY2FsZV9ncmFwaGN1dCcsCiAgICAgICAgICAgICAgICAicGFyYW1zIjogeyJjb3ZhcmlhbmNlX3R5cGUiOiAiZnVsbCIsICJuX2NvbXBvbmVudHMiOiAzfQogICAgICAgICAgICB9LAogICAgICAgICAgICAnd29ya2luZ192b3hlbHNpemVfbW0nOiAyCiAgICAgICAgfSwK</text>
       </register>
       <register name="-" type="4">
         <text>label</text>
@@ -811,7 +811,7 @@
         <text encoding="base64">XDxzbGFiXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAibGFiZWwgbGl2ZXIiOnsKICAgICAgICAgICAgIm91dHB1dF9sYWJlbCI6IDEsCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAic2ltcGxlIDIgbW0iOnsKICAgICAgICAgICAgInNlZ21vZGVscGFyYW1zIjogewogICAgICAgICAgICAgICAgJ21kbF9zdG9yZWRfZmlsZSc6IE5vbmUsCiAgICAgICAgICAgICAgICAnZnZfdHlwZSc6ICdpbnRlbnNpdHknLAogICAgICAgICAgICAgICAgJ2Z2X2V4dGVybic6IE5vbmUsCiAgICAgICAgICAgICAgICAjICdtZGxfc3RvcmVkX2ZpbGUnOiAnfi9saXNhX2RhdGEvbGl2ZXJfaW50ZW5zaXR5Lk1vZGVsLnAnLAogICAgICAgICAgICAgICAgIyAiZnZfdHlwZSI6ICdmdl9leHRlcm4nLAogICAgICAgICAgICAgICAgIyAnZnZfZXh0ZXJuJzonaW50ZW5zaXR5X2xvY2FsaXphdGlvbl9mdicsCiAgICAgICAgICAgICAgICAjICdtZXRob2QnOiAnbXVsdGlzY2FsZV9ncmFwaGN1dCcsCiAgICAgICAgICAgICAgICAicGFyYW1zIjogeyJjb3ZhcmlhbmNlX3R5cGUiOiAiZnVsbCIsICJuX2NvbXBvbmVudHMiOiAzfQogICAgICAgICAgICB9LAogICAgICAgICAgICAnd29ya2luZ192b3hlbHNpemVfbW0nOiAyCiAgICAgICAgfSwK</text>
       </register>
       <register name="1" type="4">
         <text>label</text>
