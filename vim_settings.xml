@@ -162,6 +162,11 @@
         <mark key="^" line="20" column="12" />
         <mark key="." line="20" column="12" />
       </file>
+      <file name="$USER_HOME$/projects/io3d/io3d/sftpsync/__init__.py" timestamp="1462971382654">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/pysegbase/setup.py" timestamp="1446724411661">
         <mark key="[" line="57" column="39" />
         <mark key="]" line="57" column="47" />
@@ -314,10 +319,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/io3d/io3d/connect.py" timestamp="1462970276780">
-        <mark key="[" line="206" column="0" />
-        <mark key="]" line="206" column="0" />
-        <mark key="." line="206" column="0" />
+      <file name="$USER_HOME$/projects/io3d/io3d/connect.py" timestamp="1462972213443">
+        <mark key="[" line="203" column="11" />
+        <mark key="]" line="203" column="11" />
+        <mark key="." line="203" column="11" />
+        <mark key="^" line="203" column="11" />
       </file>
       <file name="$USER_HOME$/projects/quanta/quantan/histology_analyser_gui.py" timestamp="1451682135597">
         <mark key="a" line="272" column="14" />
@@ -859,32 +865,32 @@
       <jump line="355" column="17" filename="$USER_HOME$/projects/pysegbase/pysegbase/seed_editor_qt.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c2VsZi5zZnRwLnB1dChvcy5wYXRoLmpvaW4od2Fsa2VyWzBdLGZpbGUpLG9zLnBhdGguam9pbihyZW1vdGVwYXRoLHdhbGtlclswXSxmaWxlKSkK</text>
+      <register name="&quot;" type="4">
+        <text>lisa_normal</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>lisa_normal</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21wb3NlUmdiYVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZpbGVwYXRoID0gYXJncy5pbnB1dGZpbGUKICAgIGxvY2FscGF0aCA9IGFyZ3MuaW5wdXRmaWxlCg==</text>
+        <text encoding="base64">ICAgIGRzdCA9ICcvaG9tZS9saXNhX25vcm1hbC90ZXN0cy8nCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">c2VsZi5zZnRwLnB1dChvcy5wYXRoLmpvaW4od2Fsa2VyWzBdLGZpbGUpLG9zLnBhdGguam9pbihyZW1vdGVwYXRoLHdhbGtlclswXSxmaWxlKSkK</text>
+      <register name="1" type="4">
+        <text>lisa_normal</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICBzZWxmLnB1dChvcy5wYXRoLmpvaW4od2Fsa2VyWzBdLGZpbGUpLG9zLnBhdGguam9pbihyZW1vdGVwYXRoLHdhbGtlclswXSxmaWxlKSkK</text>
+      <register name="2" type="4">
+        <text>/</text>
       </register>
       <register name="3" type="4">
-        <text>d</text>
+        <text>home</text>
       </register>
       <register name="4" type="4">
-        <text>d</text>
+        <text>/</text>
       </register>
       <register name="5" type="4">
-        <text>s</text>
+        <text>True</text>
       </register>
       <register name="6" type="4">
         <text>/</text>
@@ -896,7 +902,7 @@
         <text>/</text>
       </register>
       <register name="9" type="4">
-        <text>.</text>
+        <text>pokus</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
