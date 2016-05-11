@@ -309,11 +309,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/io3d/io3d/connect.py" timestamp="1462964850793">
-        <mark key="[" line="65" column="16" />
-        <mark key="]" line="65" column="24" />
-        <mark key="." line="65" column="24" />
-        <mark key="^" line="65" column="24" />
+      <file name="$USER_HOME$/projects/io3d/io3d/connect.py" timestamp="1462965661283">
+        <mark key="[" line="64" column="21" />
+        <mark key="]" line="64" column="26" />
+        <mark key="." line="64" column="26" />
+        <mark key="^" line="64" column="26" />
       </file>
       <file name="$USER_HOME$/projects/quanta/quantan/histology_analyser_gui.py" timestamp="1451682135597">
         <mark key="a" line="272" column="14" />
@@ -859,10 +859,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>lisa_sftp</text>
+        <text>sftp</text>
       </register>
       <register name="-" type="4">
-        <text>lisa_sftp</text>
+        <text>sftp</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21wb3NlUmdiYVw+</text>
@@ -871,31 +871,31 @@
         <text encoding="base64">ICAgIHRyYW5zcG9ydC5jb25uZWN0KHVzZXJuYW1lID0gdXNlcm5hbWUsIHBhc3N3b3JkID0gcGFzc3dvcmQpCg==</text>
       </register>
       <register name="1" type="4">
+        <text>sftp</text>
+      </register>
+      <register name="2" type="4">
         <text>lisa_sftp</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgIHVzZXJuYW1lID0gImxpc2Ffc2Z0cCIK</text>
       </register>
-      <register name="3" type="4">
-        <text>mjirik</text>
-      </register>
       <register name="4" type="4">
-        <text>titanic</text>
+        <text>mjirik</text>
       </register>
       <register name="5" type="4">
         <text>titanic</text>
       </register>
       <register name="6" type="4">
-        <text>mjirik</text>
+        <text>titanic</text>
       </register>
       <register name="7" type="4">
-        <text>self</text>
+        <text>mjirik</text>
       </register>
       <register name="8" type="4">
-        <text>connect</text>
+        <text>self</text>
       </register>
       <register name="9" type="4">
-        <text>, look_for_keys=False</text>
+        <text>connect</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
