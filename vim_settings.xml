@@ -78,12 +78,12 @@
         <mark key="^" line="722" column="35" />
         <mark key="." line="722" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1462977449486">
-        <mark key="'" line="131" column="8" />
-        <mark key="[" line="183" column="86" />
-        <mark key="]" line="185" column="82" />
-        <mark key="." line="185" column="82" />
-        <mark key="^" line="185" column="82" />
+      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1462978087256">
+        <mark key="'" line="699" column="12" />
+        <mark key="[" line="715" column="15" />
+        <mark key="]" line="715" column="15" />
+        <mark key="." line="715" column="15" />
+        <mark key="^" line="715" column="15" />
       </file>
       <file name="$USER_HOME$/projects/sed3/README.md" timestamp="1453293282274">
         <mark key="[" line="38" column="68" />
@@ -766,8 +766,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="86" column="24" filename="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" />
-      <jump line="9" column="56" filename="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" />
       <jump line="28" column="74" filename="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" />
       <jump line="38" column="40" filename="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" />
       <jump line="39" column="18" filename="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" />
@@ -866,31 +864,33 @@
       <jump line="1425" column="34" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="1426" column="37" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="131" column="8" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="714" column="51" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="699" column="12" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGV4Y2x1ZGUgPSBbcideTXVzaWMvJywgcideVmlkZW8vJ10KCiAgICBzZnRwLnN5bmMoc3JjLCBkc3QsIGRvd25sb2FkPUZhbHNlLCBleGNsdWRlPWV4Y2x1ZGUsIGRlbGV0ZT1GYWxzZSkK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ZnJvbSA=</text>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text encoding="base64">ZnJvbSA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvdXRwdXRfZGF0YXBhdGhcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGV4Y2x1ZGUgPSBbcideTXVzaWMvJywgcideVmlkZW8vJ10KCiAgICBzZnRwLnN5bmMoc3JjLCBkc3QsIGRvd25sb2FkPUZhbHNlLCBleGNsdWRlPWV4Y2x1ZGUsIGRlbGV0ZT1GYWxzZSkK</text>
+        <text encoding="base64">ICAgICAgICBsb2NhbGZyb20gPSBzZWxmLl9vdXRwdXRfZGF0YXBhdGhfZnJvbV9zZXJ2ZXIK</text>
       </register>
       <register name="1" type="4">
-        <text>m</text>
+        <text encoding="base64">ZnJvbSA=</text>
       </register>
       <register name="2" type="4">
-        <text>o</text>
+        <text>i</text>
       </register>
       <register name="3" type="4">
-        <text>r</text>
+        <text>d</text>
       </register>
       <register name="4" type="4">
-        <text>f</text>
+        <text>r'^Music/', r'^Video/'</text>
       </register>
       <register name="5" type="4">
         <text>m</text>
@@ -904,8 +904,8 @@
       <register name="8" type="4">
         <text>f</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBvZHAgPSBzZWxmLm91dHB1dF9kYXRhcGF0aAogICAgICAgIGlmIG5vdCBvcC5leGlzdHMob2RwKToKICAgICAgICAgICAgb3MubWFrZWRpcnMob2RwKQo=</text>
+      <register name="9" type="4">
+        <text>m</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
