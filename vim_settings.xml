@@ -292,6 +292,11 @@
         <mark key="^" line="20" column="38" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/io3d/io3d/connection_setup.py" timestamp="1462969244545">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="20" column="22" />
+        <mark key="." line="18" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/skelet3d/skelet3d/libfixer.py" timestamp="1453385128707">
         <mark key="[" line="50" column="0" />
         <mark key="]" line="63" column="28" />
@@ -309,11 +314,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/io3d/io3d/connect.py" timestamp="1462965661283">
-        <mark key="[" line="64" column="21" />
-        <mark key="]" line="64" column="26" />
-        <mark key="." line="64" column="26" />
-        <mark key="^" line="64" column="26" />
+      <file name="$USER_HOME$/projects/io3d/io3d/connect.py" timestamp="1462970276780">
+        <mark key="[" line="206" column="0" />
+        <mark key="]" line="206" column="0" />
+        <mark key="." line="206" column="0" />
       </file>
       <file name="$USER_HOME$/projects/quanta/quantan/histology_analyser_gui.py" timestamp="1451682135597">
         <mark key="a" line="272" column="14" />
@@ -700,9 +704,6 @@
         <mark key="]" line="92" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1461762429251">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/io3d/io3d/misc.py" timestamp="1453295785375">
         <mark key="'" line="19" column="27" />
         <mark key="[" line="81" column="15" />
@@ -858,44 +859,44 @@
       <jump line="355" column="17" filename="$USER_HOME$/projects/pysegbase/pysegbase/seed_editor_qt.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>sftp</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">c2VsZi5zZnRwLnB1dChvcy5wYXRoLmpvaW4od2Fsa2VyWzBdLGZpbGUpLG9zLnBhdGguam9pbihyZW1vdGVwYXRoLHdhbGtlclswXSxmaWxlKSkK</text>
       </register>
       <register name="-" type="4">
-        <text>sftp</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21wb3NlUmdiYVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRyYW5zcG9ydC5jb25uZWN0KHVzZXJuYW1lID0gdXNlcm5hbWUsIHBhc3N3b3JkID0gcGFzc3dvcmQpCg==</text>
+        <text encoding="base64">ICAgIGZpbGVwYXRoID0gYXJncy5pbnB1dGZpbGUKICAgIGxvY2FscGF0aCA9IGFyZ3MuaW5wdXRmaWxlCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>sftp</text>
+      <register name="1" type="2">
+        <text encoding="base64">c2VsZi5zZnRwLnB1dChvcy5wYXRoLmpvaW4od2Fsa2VyWzBdLGZpbGUpLG9zLnBhdGguam9pbihyZW1vdGVwYXRoLHdhbGtlclswXSxmaWxlKSkK</text>
       </register>
-      <register name="2" type="4">
-        <text>lisa_sftp</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICBzZWxmLnB1dChvcy5wYXRoLmpvaW4od2Fsa2VyWzBdLGZpbGUpLG9zLnBhdGguam9pbihyZW1vdGVwYXRoLHdhbGtlclswXSxmaWxlKSkK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHVzZXJuYW1lID0gImxpc2Ffc2Z0cCIK</text>
+      <register name="3" type="4">
+        <text>d</text>
       </register>
       <register name="4" type="4">
-        <text>mjirik</text>
+        <text>d</text>
       </register>
       <register name="5" type="4">
-        <text>titanic</text>
+        <text>s</text>
       </register>
       <register name="6" type="4">
-        <text>titanic</text>
+        <text>/</text>
       </register>
       <register name="7" type="4">
-        <text>mjirik</text>
+        <text>.</text>
       </register>
       <register name="8" type="4">
-        <text>self</text>
+        <text>/</text>
       </register>
       <register name="9" type="4">
-        <text>connect</text>
+        <text>.</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
