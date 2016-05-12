@@ -60,7 +60,7 @@
         <mark key="^" line="547" column="32" />
         <mark key="." line="547" column="32" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1463086298213">
+      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1463086937523">
         <mark key="'" line="1530" column="0" />
         <mark key="[" line="103" column="0" />
         <mark key="]" line="104" column="78" />
@@ -73,8 +73,12 @@
         <mark key="^" line="40" column="23" />
         <mark key="." line="38" column="69" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1461154505382">
+      <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1463087143983">
         <mark key="'" line="43" column="46" />
+        <mark key="[" line="453" column="81" />
+        <mark key="]" line="453" column="116" />
+        <mark key="^" line="453" column="116" />
+        <mark key="." line="453" column="116" />
       </file>
       <file name="$USER_HOME$/projects/lisa/tests/liver_segmentation_cerveny_test.py" timestamp="1449487905152">
         <mark key="[" line="30" column="23" />
@@ -763,44 +767,44 @@
       <jump line="1528" column="0" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZGVmIHByaW50VG90YWxzKHRyYW5zZmVycmVkLCB0b0JlVHJhbnNmZXJyZWQpOgogICAgcHJpbnQgIlRyYW5zZmVycmVkOiB7MH1cdE91dCBvZjogezF9Ii5mb3JtYXQodHJhbnNmZXJyZWQsIHRvQmVUcmFuc2ZlcnJlZCkK</text>
+      <register name="&quot;" type="4">
+        <text>finished</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>finished</text>
       </register>
       <register name="/" type="4">
         <text>get</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGV4cG9ydCBQQVRIPSRIT01FRElSL21pbmljb25kYS9iaW46JFBBVEgK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnN0YXR1c0JhcigpLnNob3dNZXNzYWdlKCdTeW5jIGZpbmlzaGVkJykK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ZGVmIHByaW50VG90YWxzKHRyYW5zZmVycmVkLCB0b0JlVHJhbnNmZXJyZWQpOgogICAgcHJpbnQgIlRyYW5zZmVycmVkOiB7MH1cdE91dCBvZjogezF9Ii5mb3JtYXQodHJhbnNmZXJyZWQsIHRvQmVUcmFuc2ZlcnJlZCkK</text>
+      <register name="1" type="4">
+        <text>finished</text>
       </register>
       <register name="2" type="4">
-        <text>r</text>
+        <text>(</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ZGVmIHByaW50VG90YWxzKHRyYW5zZmVycmVkLCB0b0JlVHJhbnNmZXJyZWQpOgogICAgcHJpbnQgIlRyYW5zZmVycmVkOiB7MH1cdE91dCBvZjogezF9Ii5mb3JtYXQodHJhbnNmZXJyZWQsIHRvQmVUcmFuc2ZlcnJlZCkK</text>
       </register>
       <register name="4" type="4">
-        <text>,</text>
+        <text>r</text>
       </register>
       <register name="5" type="4">
-        <text>localfrom</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="6" type="4">
+        <text>,</text>
+      </register>
+      <register name="7" type="4">
+        <text>localfrom</text>
+      </register>
+      <register name="8" type="4">
         <text encoding="base64">Q01BS0VfTU9EVUxFX1BBVEgg</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBleHBvcnQgUEFUSD0kSE9NRURJUi9taW5pY29uZGEvYmluOlwkUEFUSAogICAgICAgIGV4cG9ydCBQQVRIPSRIT01FRElSL21pbmljb25kYTIvYmluOlwkUEFUSAo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBleHBvcnQgUEFUSD0kSE9NRURJUi9taW5pY29uZGEvYmluOlwkUEFUSAogICAgICAgIGV4cG9ydCBQQVRIPSRIT01FRElSL21pbmljb25kYTIvYmluOlwkUEFUSAo=</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">IiA+PiB+Ly5iYXNocmM=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
