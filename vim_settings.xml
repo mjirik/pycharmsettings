@@ -70,12 +70,12 @@
         <mark key="^" line="547" column="32" />
         <mark key="." line="547" column="32" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1462135026072">
+      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1463084618470">
         <mark key="'" line="155" column="15" />
-        <mark key="[" line="633" column="45" />
-        <mark key="]" line="633" column="44" />
-        <mark key="." line="633" column="44" />
-        <mark key="^" line="633" column="44" />
+        <mark key="[" line="731" column="30" />
+        <mark key="]" line="731" column="40" />
+        <mark key="." line="731" column="40" />
+        <mark key="^" line="731" column="40" />
       </file>
       <file name="$USER_HOME$/projects/sed3/README.md" timestamp="1453293282274">
         <mark key="[" line="38" column="68" />
@@ -817,10 +817,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Q01BS0VfTU9EVUxFX1BBVEgg</text>
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Q01BS0VfTU9EVUxFX1BBVEgg</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>itk</text>
@@ -829,31 +829,31 @@
         <text encoding="base64">ICAgIGV4cG9ydCBQQVRIPSRIT01FRElSL21pbmljb25kYS9iaW46JFBBVEgK</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">Q01BS0VfTU9EVUxFX1BBVEgg</text>
+        <text>r</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBleHBvcnQgUEFUSD0kSE9NRURJUi9taW5pY29uZGEvYmluOlwkUEFUSAogICAgICAgIGV4cG9ydCBQQVRIPSRIT01FRElSL21pbmljb25kYTIvYmluOlwkUEFUSAo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBleHBvcnQgUEFUSD0kSE9NRURJUi9taW5pY29uZGEvYmluOlwkUEFUSAogICAgICAgIGV4cG9ydCBQQVRIPSRIT01FRElSL21pbmljb25kYTIvYmluOlwkUEFUSAo=</text>
+      <register name="3" type="4">
+        <text>,</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IiA+PiB+Ly5iYXNocmM=</text>
+        <text>localfrom</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">ID4+IH4vLmJhc2hyYw==</text>
+        <text encoding="base64">Q01BS0VfTU9EVUxFX1BBVEgg</text>
       </register>
-      <register name="6" type="4">
-        <text>export PATH=$HOMEDIR/miniconda/bin:\$PATH</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBleHBvcnQgUEFUSD0kSE9NRURJUi9taW5pY29uZGEvYmluOlwkUEFUSAogICAgICAgIGV4cG9ydCBQQVRIPSRIT01FRElSL21pbmljb25kYTIvYmluOlwkUEFUSAo=</text>
       </register>
-      <register name="7" type="4">
-        <text>&quot;</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBleHBvcnQgUEFUSD0kSE9NRURJUi9taW5pY29uZGEvYmluOlwkUEFUSAogICAgICAgIGV4cG9ydCBQQVRIPSRIT01FRElSL21pbmljb25kYTIvYmluOlwkUEFUSAo=</text>
       </register>
       <register name="8" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">IiA+PiB+Ly5iYXNocmM=</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ID4+IH4vLmJhc2hyYw==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
