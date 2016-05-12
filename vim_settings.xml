@@ -98,11 +98,11 @@
         <mark key="^" line="12" column="21" />
         <mark key="." line="12" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/installer.sh" timestamp="1463066804033">
-        <mark key="[" line="9" column="106" />
-        <mark key="]" line="10" column="1" />
-        <mark key="^" line="10" column="1" />
-        <mark key="." line="10" column="1" />
+      <file name="$USER_HOME$/projects/lisa/installer.sh" timestamp="1463073932735">
+        <mark key="[" line="109" column="9" />
+        <mark key="]" line="109" column="11" />
+        <mark key="^" line="109" column="11" />
+        <mark key="." line="109" column="11" />
       </file>
       <file name="$USER_HOME$/projects/bodynavigation/bodynavigation/body_navigation.py" timestamp="1459337721000">
         <mark key="'" line="267" column="55" />
@@ -599,12 +599,12 @@
         <mark key="^" line="31" column="72" />
         <mark key="." line="31" column="72" />
       </file>
-      <file name="$USER_HOME$/projects/skelet3d/CMakeLists.txt" timestamp="1448396251885">
-        <mark key="'" line="153" column="26" />
-        <mark key="[" line="149" column="23" />
-        <mark key="]" line="149" column="23" />
-        <mark key="^" line="149" column="23" />
-        <mark key="." line="149" column="23" />
+      <file name="$USER_HOME$/projects/skelet3d/CMakeLists.txt" timestamp="1463073515642">
+        <mark key="'" line="12" column="10" />
+        <mark key="[" line="80" column="33" />
+        <mark key="]" line="80" column="50" />
+        <mark key="^" line="80" column="50" />
+        <mark key="." line="80" column="50" />
       </file>
       <file name="$USER_HOME$/Dropbox/studium/dizertace/data/jkunes/compare_histology_results.py" timestamp="1450862143914">
         <mark key="'" line="322" column="8" />
@@ -705,10 +705,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="259" column="32" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
-      <jump line="281" column="48" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
-      <jump line="389" column="20" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
-      <jump line="158" column="8" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
       <jump line="164" column="35" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
       <jump line="180" column="8" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
       <jump line="41" column="23" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
@@ -805,61 +801,64 @@
       <jump line="413" column="25" filename="$USER_HOME$/projects/pysegbase/pysegbase/seed_editor_qt.py" />
       <jump line="424" column="21" filename="$USER_HOME$/projects/pysegbase/pysegbase/seed_editor_qt.py" />
       <jump line="355" column="17" filename="$USER_HOME$/projects/pysegbase/pysegbase/seed_editor_qt.py" />
+      <jump line="11" column="49" filename="$USER_HOME$/projects/skelet3d/CMakeLists.txt" />
+      <jump line="68" column="24" filename="$USER_HOME$/projects/skelet3d/CMakeLists.txt" />
+      <jump line="69" column="63" filename="$USER_HOME$/projects/skelet3d/CMakeLists.txt" />
+      <jump line="12" column="10" filename="$USER_HOME$/projects/skelet3d/CMakeLists.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Jg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBleHBvcnQgUEFUSD0kSE9NRURJUi9taW5pY29uZGEvYmluOlwkUEFUSAogICAgICAgIGV4cG9ydCBQQVRIPSRIT01FRElSL21pbmljb25kYTIvYmluOlwkUEFUSAo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Jg==</text>
+        <text encoding="base64">IiA+PiB+Ly5iYXNocmM=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb21wb3NlUmdiYVw+</text>
+        <text>itk</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhM2RfdG1wID0gc2VsZi5kYXRhM2QuY29weSgpCg==</text>
+        <text encoding="base64">ICAgIGV4cG9ydCBQQVRIPSRIT01FRElSL21pbmljb25kYS9iaW46JFBBVEgK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">Jg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBleHBvcnQgUEFUSD0kSE9NRURJUi9taW5pY29uZGEvYmluOlwkUEFUSAogICAgICAgIGV4cG9ydCBQQVRIPSRIT01FRElSL21pbmljb25kYTIvYmluOlwkUEFUSAo=</text>
       </register>
-      <register name="2" type="4">
-        <text>.</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBleHBvcnQgUEFUSD0kSE9NRURJUi9taW5pY29uZGEvYmluOlwkUEFUSAogICAgICAgIGV4cG9ydCBQQVRIPSRIT01FRElSL21pbmljb25kYTIvYmluOlwkUEFUSAo=</text>
       </register>
       <register name="3" type="4">
-        <text>self</text>
+        <text encoding="base64">IiA+PiB+Ly5iYXNocmM=</text>
       </register>
       <register name="4" type="4">
-        <text>.</text>
+        <text encoding="base64">ID4+IH4vLmJhc2hyYw==</text>
       </register>
       <register name="5" type="4">
-        <text>)</text>
+        <text>export PATH=$HOMEDIR/miniconda/bin:\$PATH</text>
       </register>
       <register name="6" type="4">
-        <text>(</text>
+        <text>&quot;</text>
       </register>
       <register name="7" type="4">
-        <text>copy</text>
+        <text>&quot;</text>
       </register>
       <register name="8" type="4">
-        <text>label</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAnaGVhcnRoJzogMTAK</text>
+      <register name="9" type="4">
+        <text>o</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb21wb3NlUmdiYVw+</last-search>
+      <last-search>itk</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb21wb3NlUmdiYVw+</last-pattern>
+      <last-pattern>itk</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfX3Jlc2l6ZV90b19vcmlnXD4=</entry>
         <entry>segmentation</entry>
         <entry encoding="base64">XDxfc2VnbWVudGF0aW9uX3Bvc3Rwcm9jZXNzaW5nXD4=</entry>
         <entry>delete</entry>
@@ -879,6 +878,7 @@
         <entry encoding="base64">XDxDT05UT1VSU19DT0xPUlRBQkxFXD4=</entry>
         <entry encoding="base64">XDxzZWVkc19jb2xvcnRhYmxlXD4=</entry>
         <entry encoding="base64">XDxjb21wb3NlUmdiYVw+</entry>
+        <entry>itk</entry>
       </history-search>
       <history-cmd>
         <entry>291</entry>
