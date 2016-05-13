@@ -78,12 +78,9 @@
         <mark key="^" line="722" column="35" />
         <mark key="." line="722" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1463139403295">
-        <mark key="'" line="706" column="12" />
-        <mark key="[" line="108" column="17" />
-        <mark key="]" line="109" column="29" />
-        <mark key="." line="109" column="29" />
-        <mark key="^" line="109" column="29" />
+      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1463140683952">
+        <mark key="'" line="713" column="12" />
+        <mark key="[" line="110" column="63" />
       </file>
       <file name="$USER_HOME$/projects/sed3/README.md" timestamp="1453293282274">
         <mark key="[" line="38" column="68" />
@@ -872,11 +869,11 @@
       <jump line="451" column="52" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXygK</text>
+      <register name="&quot;" type="4">
+        <text>set_params</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;lisa_normal&quot;</text>
+        <text>set_params</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2FkRGF0YURpclw+</text>
@@ -884,32 +881,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRlZiBfX2luaXRfXygK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm9zZWcuc3luY19saXNhX2RhdGEoImxpc2Ffbm9ybWFsIiwgIkwxNTQuc2Z0cCIpCg==</text>
+      <register name="1" type="4">
+        <text>set_params</text>
       </register>
       <register name="2" type="4">
-        <text>&quot;lisa_normal&quot;</text>
+        <text>__init__</text>
       </register>
       <register name="3" type="4">
-        <text>m</text>
+        <text>set_params</text>
       </register>
-      <register name="4" type="4">
-        <text>o</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLm9zZWcuc3luY19saXNhX2RhdGEoImxpc2Ffbm9ybWFsIiwgIkwxNTQuc2Z0cCIpCg==</text>
       </register>
       <register name="5" type="4">
-        <text>r</text>
+        <text>&quot;lisa_normal&quot;</text>
       </register>
       <register name="6" type="4">
-        <text>f</text>
+        <text>m</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAuLi4nKQo=</text>
+      <register name="7" type="4">
+        <text>o</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhcmFtaWtvLnV0aWwubG9nX3RvX2ZpbGUoJ3BhcmFtaWtvLmxvZycpCg==</text>
+      <register name="8" type="4">
+        <text>r</text>
       </register>
       <register name="9" type="4">
-        <text>...')</text>
+        <text>f</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
