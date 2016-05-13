@@ -229,6 +229,12 @@
         <mark key="^" line="269" column="68" />
         <mark key="." line="269" column="68" />
       </file>
+      <file name="$USER_HOME$/projects/disco/setup.py" timestamp="1463145773890">
+        <mark key="[" line="13" column="13" />
+        <mark key="]" line="13" column="17" />
+        <mark key="." line="13" column="17" />
+        <mark key="^" line="13" column="17" />
+      </file>
       <file name="$USER_HOME$/projects/imtools/docs/imtools.rst" timestamp="1453362560258">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="65" column="0" />
@@ -253,6 +259,12 @@
         <mark key="]" line="129" column="45" />
         <mark key="^" line="129" column="45" />
         <mark key="." line="129" column="45" />
+      </file>
+      <file name="$USER_HOME$/projects/disco/meta.yaml" timestamp="1463145797714">
+        <mark key="[" line="52" column="10" />
+        <mark key="]" line="52" column="10" />
+        <mark key="." line="52" column="10" />
+        <mark key="^" line="52" column="10" />
       </file>
       <file name="$USER_HOME$/projects/imtools/tests/vessels_segmentation_test.py" timestamp="1451861420359">
         <mark key="'" line="100" column="25" />
@@ -707,6 +719,9 @@
         <mark key="]" line="92" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1463145964379">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/io3d/io3d/misc.py" timestamp="1453295785375">
         <mark key="'" line="19" column="27" />
         <mark key="[" line="81" column="15" />
@@ -862,11 +877,11 @@
       <jump line="197" column="85" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNmdHBfdXNlcm5hbWU9c2Z0cF91c2VybmFtZQogICAgICAgIHNlbGYuc2Z0cF9wYXNzd29yZD1zZnRwX3Bhc3N3b3JkCg==</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>set_params</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZnRwX3VzZXJuYW1lXD4=</text>
@@ -874,32 +889,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRlZiBfX2luaXRfXygK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNmdHBfdXNlcm5hbWU9c2Z0cF91c2VybmFtZQogICAgICAgIHNlbGYuc2Z0cF9wYXNzd29yZD1zZnRwX3Bhc3N3b3JkCg==</text>
+      <register name="1" type="4">
+        <text>1</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBncmlkLmFkZFdpZGdldChidG5fc2VndmlldywgcnN0YXJ0ICsgMCwgNCkK</text>
+      <register name="2" type="4">
+        <text>3</text>
       </register>
       <register name="3" type="4">
-        <text>set_params</text>
+        <text>io3d</text>
       </register>
       <register name="4" type="4">
-        <text>__init__</text>
+        <text>3D data read and write</text>
       </register>
       <register name="5" type="4">
-        <text>set_params</text>
+        <text>io3d</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm9zZWcuc3luY19saXNhX2RhdGEoImxpc2Ffbm9ybWFsIiwgIkwxNTQuc2Z0cCIpCg==</text>
+      <register name="6" type="4">
+        <text>3D data read and write</text>
       </register>
       <register name="7" type="4">
-        <text>&quot;lisa_normal&quot;</text>
+        <text>3</text>
       </register>
       <register name="8" type="4">
-        <text>m</text>
+        <text>3</text>
       </register>
       <register name="9" type="4">
-        <text>o</text>
+        <text>io3d</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
