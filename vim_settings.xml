@@ -176,6 +176,12 @@
         <mark key="^" line="6" column="23" />
         <mark key="." line="6" column="23" />
       </file>
+      <file name="$USER_HOME$/projects/disco/disco/__main__.py" timestamp="1463149420737">
+        <mark key="[" line="55" column="33" />
+        <mark key="]" line="55" column="33" />
+        <mark key="." line="55" column="33" />
+        <mark key="^" line="37" column="33" />
+      </file>
       <file name="$USER_HOME$/projects/pyseg_base/setup.py" timestamp="1446642726739">
         <mark key="[" line="58" column="4" />
         <mark key="]" line="58" column="5" />
@@ -390,6 +396,10 @@
         <mark key="^" line="24" column="40" />
         <mark key="." line="24" column="40" />
       </file>
+      <file name="$USER_HOME$/projects/disco/distr.sh" timestamp="1463148754327">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="37" column="1" />
+      </file>
       <file name="$USER_HOME$/projects/lisa/lisa/histology_analyser.py" timestamp="1444738796915">
         <mark key="[" line="621" column="17" />
         <mark key="]" line="621" column="25" />
@@ -476,6 +486,12 @@
         <mark key="^" line="3" column="15" />
         <mark key="." line="3" column="15" />
       </file>
+      <file name="$USER_HOME$/projects/disco/disco/__init__.py" timestamp="1463148479573">
+        <mark key="[" line="33" column="39" />
+        <mark key="]" line="33" column="20" />
+        <mark key="." line="33" column="20" />
+        <mark key="^" line="33" column="20" />
+      </file>
       <file name="$USER_HOME$/projects/quaha/quaha/histology_report.py" timestamp="1445327745987">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="12" />
@@ -518,11 +534,23 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/disco/.condarc" timestamp="1463149353888">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="11" />
+        <mark key="^" line="2" column="11" />
+        <mark key="." line="2" column="11" />
+      </file>
       <file name="$USER_HOME$/projects/skelet3d/requirements_conda.txt" timestamp="1454932785376">
         <mark key="[" line="0" column="35" />
         <mark key="]" line="2" column="4" />
         <mark key="^" line="2" column="4" />
         <mark key="." line="2" column="4" />
+      </file>
+      <file name="$USER_HOME$/projects/disco/README.md" timestamp="1463149457279">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/projects/lisa/meta.yaml" timestamp="1448367089215">
         <mark key="[" line="73" column="0" />
@@ -705,22 +733,10 @@
         <mark key="]" line="156" column="0" />
         <mark key="." line="67" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/events2calendar/mail2calendar.py" timestamp="1459249301678">
-        <mark key="s" line="161" column="11" />
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="175" column="76" />
-        <mark key="m" line="161" column="8" />
-        <mark key="]" line="175" column="77" />
-        <mark key="." line="175" column="77" />
-        <mark key="^" line="167" column="67" />
-      </file>
       <file name="$USER_HOME$/projects/lisa/install_osx.md" timestamp="1448122216203">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="92" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1463145964379">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/io3d/io3d/misc.py" timestamp="1453295785375">
         <mark key="'" line="19" column="27" />
@@ -878,43 +894,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>condarc added</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>condarc added</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZnRwX3VzZXJuYW1lXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXygK</text>
+        <text encoding="base64">ICAgIHN1YnByb2Nlc3MuY2FsbCgiY29uZGEgYnVpbGQgLWMgbWppcmlrIC1jIFNpbXBsZUlUSyAuIiwgc2hlbGw9VHJ1ZSkK</text>
       </register>
       <register name="1" type="4">
-        <text>1</text>
+        <text>condarc added</text>
       </register>
       <register name="2" type="4">
-        <text>3</text>
+        <text encoding="base64">U2ltcGxlSVRLIA==</text>
       </register>
       <register name="3" type="4">
-        <text>io3d</text>
+        <text encoding="base64">YyA=</text>
       </register>
       <register name="4" type="4">
-        <text>3D data read and write</text>
+        <text>-</text>
       </register>
       <register name="5" type="4">
-        <text>io3d</text>
+        <text encoding="base64">bWppcmlrIA==</text>
       </register>
       <register name="6" type="4">
-        <text>3D data read and write</text>
+        <text encoding="base64">YyA=</text>
       </register>
       <register name="7" type="4">
-        <text>3</text>
+        <text>-</text>
       </register>
-      <register name="8" type="4">
-        <text>3</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGVsaWYgWyAiJDEiID0gInN0YWJsZSIgXTsgdGhlbgo=</text>
       </register>
       <register name="9" type="4">
-        <text>io3d</text>
+        <text>major</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
