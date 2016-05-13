@@ -142,6 +142,12 @@
         <mark key="^" line="14" column="14" />
         <mark key="." line="14" column="14" />
       </file>
+      <file name="$USER_HOME$/projects/discon/discon/__main__.py" timestamp="1463169812494">
+        <mark key="[" line="65" column="24" />
+        <mark key="]" line="65" column="28" />
+        <mark key="." line="65" column="28" />
+        <mark key="^" line="65" column="28" />
+      </file>
       <file name="$USER_HOME$/projects/lisa/tests/vessels_segmentation_test.py" timestamp="1445339956308">
         <mark key="'" line="118" column="36" />
         <mark key="[" line="20" column="5" />
@@ -179,6 +185,12 @@
         <mark key="]" line="203" column="0" />
         <mark key="^" line="202" column="30" />
         <mark key="." line="203" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/discon/meta.yaml" timestamp="1463168676612">
+        <mark key="[" line="1" column="13" />
+        <mark key="]" line="1" column="13" />
+        <mark key="^" line="1" column="13" />
+        <mark key="." line="1" column="13" />
       </file>
       <file name="$USER_HOME$/projects/quanta/quanta/__main__.py" timestamp="1446549342592">
         <mark key="[" line="0" column="0" />
@@ -599,16 +611,7 @@
         <mark key="^" line="170" column="30" />
         <mark key="." line="170" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/events2calendar/mail2calendar.py" timestamp="1459249301678">
-        <mark key="s" line="161" column="11" />
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="175" column="76" />
-        <mark key="m" line="161" column="8" />
-        <mark key="]" line="175" column="77" />
-        <mark key="." line="175" column="77" />
-        <mark key="^" line="167" column="67" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1463085901216">
+      <file name="/Dummy.txt" timestamp="1463168687974">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/io3d/io3d/misc.py" timestamp="1453295785375">
@@ -656,6 +659,12 @@
         <mark key="]" line="7" column="27" />
         <mark key="^" line="7" column="27" />
         <mark key="." line="7" column="27" />
+      </file>
+      <file name="$USER_HOME$/projects/discon/setup.py" timestamp="1463168671552">
+        <mark key="[" line="8" column="15" />
+        <mark key="]" line="8" column="15" />
+        <mark key="^" line="8" column="15" />
+        <mark key="." line="8" column="15" />
       </file>
       <file name="$USER_HOME$/projects/lisa/install_nosudo.sh" timestamp="1463080259990">
         <mark key="[" line="8" column="41" />
@@ -768,43 +777,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>finished</text>
+        <text>clean</text>
       </register>
       <register name="-" type="4">
-        <text>finished</text>
+        <text>clean</text>
       </register>
       <register name="/" type="4">
         <text>get</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnN0YXR1c0JhcigpLnNob3dNZXNzYWdlKCdTeW5jIGZpbmlzaGVkJykK</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZygiY29uZGEgY2xlYW4iKQo=</text>
       </register>
       <register name="1" type="4">
-        <text>finished</text>
+        <text>clean</text>
       </register>
       <register name="2" type="4">
-        <text>(</text>
+        <text>upload</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ZGVmIHByaW50VG90YWxzKHRyYW5zZmVycmVkLCB0b0JlVHJhbnNmZXJyZWQpOgogICAgcHJpbnQgIlRyYW5zZmVycmVkOiB7MH1cdE91dCBvZjogezF9Ii5mb3JtYXQodHJhbnNmZXJyZWQsIHRvQmVUcmFuc2ZlcnJlZCkK</text>
+      <register name="3" type="4">
+        <text encoding="base64">cHlwaSA=</text>
       </register>
       <register name="4" type="4">
-        <text>r</text>
+        <text>files</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">cm0g</text>
       </register>
       <register name="6" type="4">
-        <text>,</text>
+        <text>upload</text>
       </register>
       <register name="7" type="4">
-        <text>localfrom</text>
+        <text encoding="base64">Ymluc3RhciA=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">Q01BS0VfTU9EVUxFX1BBVEgg</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZygiYmluc3RhciB1cGxvYWQiKQo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBleHBvcnQgUEFUSD0kSE9NRURJUi9taW5pY29uZGEvYmluOlwkUEFUSAogICAgICAgIGV4cG9ydCBQQVRIPSRIT01FRElSL21pbmljb25kYTIvYmluOlwkUEFUSAo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">YWZ0ZXIg</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -855,8 +864,8 @@
         <entry>e</entry>
         <entry>292</entry>
         <entry>q</entry>
-        <entry>W</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
