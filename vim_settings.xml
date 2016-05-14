@@ -236,9 +236,6 @@
         <mark key="^" line="19" column="14" />
         <mark key="." line="19" column="14" />
       </file>
-      <file name="/Python Console" timestamp="1461246379864">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/quantan/quantan/histology_report.py" timestamp="1452186060856">
         <mark key="[" line="269" column="34" />
         <mark key="]" line="269" column="68" />
@@ -750,8 +747,11 @@
         <mark key="^" line="7" column="27" />
         <mark key="." line="7" column="27" />
       </file>
-      <file name="$USER_HOME$/projects/discon/README.md" timestamp="1463234671338">
-        <mark key="[" line="2" column="0" />
+      <file name="$USER_HOME$/projects/discon/README.md" timestamp="1463235278331">
+        <mark key="[" line="28" column="48" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="29" column="0" />
       </file>
       <file name="$USER_HOME$/projects/sed3/setup.py" timestamp="1445444515071">
         <mark key="[" line="14" column="17" />
@@ -874,44 +874,44 @@
       <jump line="57" column="2" filename="$USER_HOME$/projects/discon/meta.yaml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC0gcHl5YW1sCg==</text>
+      <register name="&quot;" type="4">
+        <text>This</text>
       </register>
       <register name="-" type="4">
-        <text>scipy</text>
+        <text>This</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZnRwX3VzZXJuYW1lXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHN1YnByb2Nlc3MuY2FsbCgiY29uZGEgYnVpbGQgLWMgbWppcmlrIC1jIFNpbXBsZUlUSyAuIiwgc2hlbGw9VHJ1ZSkK</text>
+        <text encoding="base64">ICAgIHB5dGhvbiAtbSBkaXNjb24gbWlub3IK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIC0gcHl5YW1sCg==</text>
+      <register name="1" type="4">
+        <text>This</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC0gbnVtcHkK</text>
+        <text encoding="base64">ICAgIHB5dGhvbiAtbSBkaXNjb24gcGF0Y2gK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC0gcHl5YW1sCg==</text>
+        <text encoding="base64">IyMgUHJlcmVxdWlzaXRpZXMK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIC0gcHlkaWNvbQo=</text>
+      <register name="4" type="4">
+        <text>u</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIC0gc2NpcHkK</text>
+      <register name="5" type="4">
+        <text>trconda</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIC0gbnVtcHkK</text>
+      <register name="6" type="4">
+        <text>py</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC0gc2NpcHkK</text>
+        <text encoding="base64">ICAgIC0gcHl5YW1sCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC0gcHlkaWNvbQo=</text>
+        <text encoding="base64">ICAgIC0gbnVtcHkK</text>
       </register>
-      <register name="9" type="4">
-        <text>scipy</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIC0gcHl5YW1sCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
