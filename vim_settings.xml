@@ -142,11 +142,11 @@
         <mark key="^" line="14" column="14" />
         <mark key="." line="14" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/discon/discon/__main__.py" timestamp="1463169812494">
-        <mark key="[" line="65" column="24" />
-        <mark key="]" line="65" column="28" />
-        <mark key="." line="65" column="28" />
-        <mark key="^" line="65" column="28" />
+      <file name="$USER_HOME$/projects/discon/discon/__main__.py" timestamp="1463232441901">
+        <mark key="[" line="64" column="11" />
+        <mark key="]" line="64" column="17" />
+        <mark key="." line="64" column="17" />
+        <mark key="^" line="64" column="17" />
       </file>
       <file name="$USER_HOME$/projects/lisa/tests/vessels_segmentation_test.py" timestamp="1445339956308">
         <mark key="'" line="118" column="36" />
@@ -611,9 +611,6 @@
         <mark key="^" line="170" column="30" />
         <mark key="." line="170" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1463168687974">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/io3d/io3d/misc.py" timestamp="1453295785375">
         <mark key="'" line="19" column="27" />
         <mark key="[" line="81" column="15" />
@@ -777,43 +774,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>clean</text>
+        <text>IOError</text>
       </register>
       <register name="-" type="4">
-        <text>clean</text>
+        <text>IOError</text>
       </register>
       <register name="/" type="4">
         <text>get</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZygiY29uZGEgY2xlYW4iKQo=</text>
+        <text encoding="base64">ICAgIHRyeToKICAgICAgICBzdWJwcm9jZXNzLmNhbGwoWyJybSAiLCAiLXJmICIsICJ3aW4tKiJdKQogICAgZXhjZXB0IElPRXJyb3I6CiAgICAgICAgcGFzcwogICAgdHJ5OgogICAgICAgIHN1YnByb2Nlc3MuY2FsbChbInJtICIsICItcmYgIiwgImxpbnV4LSoiXSkKICAgIGV4Y2VwdCBJT0Vycm9yOgogICAgICAgIHBhc3MKICAgIHRyeToKICAgICAgICBzdWJwcm9jZXNzLmNhbGwoWyJybSAiLCAiLXJmICIsICJvc3gtKiJdKQogICAgZXhjZXB0IElPRXJyb3I6CiAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="1" type="4">
-        <text>clean</text>
+        <text>IOError</text>
       </register>
-      <register name="2" type="4">
-        <text>upload</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHN1YnByb2Nlc3MuY2FsbChbInJtIiwgIi1yZiIsICJ3aW4tKiJdKQogICAgc3VicHJvY2Vzcy5jYWxsKFsicm0iLCAiLXJmIiwgImxpbnV4LSoiXSkKICAgIHN1YnByb2Nlc3MuY2FsbChbInJtIiwgIi1yZiIsICJvc3gtKiJdKQo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">cHlwaSA=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="4">
-        <text>files</text>
+        <text>clean</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">cm0g</text>
-      </register>
-      <register name="6" type="4">
         <text>upload</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">Ymluc3RhciA=</text>
+      <register name="6" type="4">
+        <text encoding="base64">cHlwaSA=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZygiYmluc3RhciB1cGxvYWQiKQo=</text>
+      <register name="7" type="4">
+        <text>files</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">cm0g</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">YWZ0ZXIg</text>
+        <text>upload</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -864,8 +861,8 @@
         <entry>e</entry>
         <entry>292</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
