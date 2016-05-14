@@ -217,12 +217,12 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/discon/meta.yaml" timestamp="1463232784701">
-        <mark key="'" line="53" column="11" />
-        <mark key="[" line="53" column="11" />
-        <mark key="]" line="53" column="11" />
-        <mark key="^" line="53" column="11" />
-        <mark key="." line="53" column="11" />
+      <file name="$USER_HOME$/projects/discon/meta.yaml" timestamp="1463233004471">
+        <mark key="'" line="58" column="2" />
+        <mark key="[" line="40" column="17" />
+        <mark key="]" line="41" column="20" />
+        <mark key="^" line="41" column="20" />
+        <mark key="." line="41" column="20" />
       </file>
       <file name="$USER_HOME$/projects/quanta/quanta/__main__.py" timestamp="1446549342592">
         <mark key="[" line="0" column="0" />
@@ -766,7 +766,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="782" column="42" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="902" column="40" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="930" column="15" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="932" column="13" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
@@ -866,10 +865,11 @@
       <jump line="195" column="87" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="197" column="85" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="53" column="11" filename="$USER_HOME$/projects/discon/meta.yaml" />
+      <jump line="57" column="2" filename="$USER_HOME$/projects/discon/meta.yaml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>scipy</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC0gcHl5YW1sCg==</text>
       </register>
       <register name="-" type="4">
         <text>scipy</text>
@@ -880,32 +880,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHN1YnByb2Nlc3MuY2FsbCgiY29uZGEgYnVpbGQgLWMgbWppcmlrIC1jIFNpbXBsZUlUSyAuIiwgc2hlbGw9VHJ1ZSkK</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIC0gcHl5YW1sCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIC0gbnVtcHkK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIC0gcHl5YW1sCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIC0gcHlkaWNvbQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIC0gc2NpcHkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIC0gbnVtcHkK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIC0gc2NpcHkK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIC0gcHlkaWNvbQo=</text>
+      </register>
+      <register name="9" type="4">
         <text>scipy</text>
-      </register>
-      <register name="2" type="4">
-        <text>condarc added</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">U2ltcGxlSVRLIA==</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">YyA=</text>
-      </register>
-      <register name="5" type="4">
-        <text>-</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">bWppcmlrIA==</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">YyA=</text>
-      </register>
-      <register name="8" type="4">
-        <text>-</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGVsaWYgWyAiJDEiID0gInN0YWJsZSIgXTsgdGhlbgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
