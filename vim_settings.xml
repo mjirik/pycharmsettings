@@ -217,12 +217,12 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/discon/meta.yaml" timestamp="1463275218419">
+      <file name="$USER_HOME$/projects/discon/meta.yaml" timestamp="1463300480628">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="7" column="37" />
-        <mark key="]" line="7" column="42" />
-        <mark key="^" line="7" column="42" />
-        <mark key="." line="7" column="42" />
+        <mark key="[" line="36" column="16" />
+        <mark key="]" line="38" column="20" />
+        <mark key="^" line="38" column="20" />
+        <mark key="." line="38" column="20" />
       </file>
       <file name="$USER_HOME$/projects/quanta/quanta/__main__.py" timestamp="1446549342592">
         <mark key="[" line="0" column="0" />
@@ -235,6 +235,9 @@
         <mark key="]" line="19" column="14" />
         <mark key="^" line="19" column="14" />
         <mark key="." line="19" column="14" />
+      </file>
+      <file name="/Python Console" timestamp="1461246379864">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/quantan/quantan/histology_report.py" timestamp="1452186060856">
         <mark key="[" line="269" column="34" />
@@ -704,6 +707,9 @@
         <mark key="]" line="156" column="0" />
         <mark key="." line="67" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1463300586063">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/lisa/install_osx.md" timestamp="1448122216203">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="92" column="0" />
@@ -762,12 +768,12 @@
         <mark key="]" line="14" column="19" />
         <mark key="." line="14" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/discon/setup.py" timestamp="1463275205096">
+      <file name="$USER_HOME$/projects/discon/setup.py" timestamp="1463300583241">
         <mark key="'" line="14" column="40" />
-        <mark key="[" line="14" column="40" />
-        <mark key="]" line="14" column="40" />
+        <mark key="[" line="56" column="22" />
+        <mark key="]" line="56" column="22" />
         <mark key="^" line="14" column="40" />
-        <mark key="." line="14" column="40" />
+        <mark key="." line="56" column="22" />
       </file>
       <file name="$USER_HOME$/projects/lisa/install_nosudo.sh" timestamp="1463080259990">
         <mark key="[" line="8" column="41" />
@@ -880,10 +886,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>io3d</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>io3d</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZnRwX3VzZXJuYW1lXD4=</text>
@@ -892,31 +898,31 @@
         <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoCiAgICAgICAgImJ1bXB0eXBlIiwKICAgICAgICBkZWZhdWx0PU5vbmUpCg==</text>
       </register>
       <register name="1" type="4">
-        <text>io3d</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="4">
-        <text>project_name=args.arg2</text>
+        <text>,</text>
       </register>
       <register name="3" type="4">
-        <text>bumptype</text>
+        <text>'</text>
       </register>
       <register name="4" type="4">
-        <text>stable</text>
+        <text>'</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIG5vdCBvcC5leGlzdHMoInNldHVwLnB5Iik6CiAgICAgICAgd2l0aCBvcGVuKCdzZXR1cC5weScsICdhJykgYXMgdGhlX2ZpbGU6CiAgICAgICAgICAgIHRoZV9maWxlLndyaXRlKF9TRVRVUF9QWSkK</text>
+      <register name="5" type="4">
+        <text>numpy</text>
       </register>
       <register name="6" type="4">
-        <text>SETUP_CFG</text>
+        <text>io3d</text>
       </register>
       <register name="7" type="4">
-        <text>setup.cfg</text>
+        <text>project_name=args.arg2</text>
       </register>
       <register name="8" type="4">
-        <text>cfg</text>
+        <text>bumptype</text>
       </register>
       <register name="9" type="4">
-        <text>setup</text>
+        <text>stable</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
