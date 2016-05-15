@@ -71,11 +71,11 @@
         <mark key="." line="547" column="32" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1463086937523">
-        <mark key="'" line="1530" column="0" />
+        <mark key="'" line="1540" column="0" />
         <mark key="[" line="103" column="0" />
         <mark key="]" line="104" column="78" />
         <mark key="." line="103" column="0" />
-        <mark key="^" line="736" column="100" />
+        <mark key="^" line="746" column="100" />
       </file>
       <file name="$USER_HOME$/projects/sed3/README.md" timestamp="1453293282274">
         <mark key="[" line="38" column="68" />
@@ -85,10 +85,9 @@
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1463140945466">
         <mark key="'" line="453" column="52" />
-        <mark key="[" line="316" column="43" />
-        <mark key="]" line="322" column="47" />
-        <mark key="^" line="322" column="47" />
-        <mark key="." line="322" column="47" />
+        <mark key="]" line="259" column="47" />
+        <mark key="^" line="259" column="47" />
+        <mark key="." line="259" column="47" />
       </file>
       <file name="$USER_HOME$/projects/lisa/tests/liver_segmentation_cerveny_test.py" timestamp="1449487905152">
         <mark key="[" line="30" column="23" />
@@ -886,7 +885,7 @@
         <text>added packages</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZnRwX3VzZXJuYW1lXD4=</text>
+        <text>remov</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHRyeToKICAgICAgICBzdWJwcm9jZXNzLmNhbGwoWyJybSAiLCAiLXJmICIsICJvc3gtKiJdKQogICAgZXhjZXB0IE9TRXJyb3I6CiAgICAgICAgcGFzcwo=</text>
@@ -923,15 +922,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZnRwX3VzZXJuYW1lXD4=</last-search>
+      <last-search>remov</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZnRwX3VzZXJuYW1lXD4=</last-pattern>
+      <last-pattern>remov</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>delete</entry>
         <entry>seed</entry>
         <entry>seed_ed</entry>
         <entry encoding="base64">XDxRQXBwbGljYXRpb25cPg==</entry>
@@ -951,6 +949,7 @@
         <entry>itk</entry>
         <entry>put</entry>
         <entry>get</entry>
+        <entry>remov</entry>
       </history-search>
       <history-cmd>
         <entry>291</entry>
