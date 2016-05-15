@@ -157,11 +157,11 @@
         <mark key="^" line="14" column="14" />
         <mark key="." line="14" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/discon/discon/__main__.py" timestamp="1463234420302">
-        <mark key="[" line="81" column="34" />
-        <mark key="]" line="82" column="19" />
-        <mark key="." line="82" column="19" />
-        <mark key="^" line="82" column="19" />
+      <file name="$USER_HOME$/projects/discon/discon/__main__.py" timestamp="1463274876122">
+        <mark key="[" line="53" column="13" />
+        <mark key="]" line="53" column="25" />
+        <mark key="." line="53" column="25" />
+        <mark key="^" line="53" column="25" />
       </file>
       <file name="$USER_HOME$/projects/lisa/tests/vessels_segmentation_test.py" timestamp="1445339956308">
         <mark key="'" line="118" column="36" />
@@ -217,10 +217,10 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/discon/meta.yaml" timestamp="1463233004471">
-        <mark key="'" line="58" column="2" />
-        <mark key="[" line="40" column="17" />
-        <mark key="]" line="41" column="20" />
+      <file name="$USER_HOME$/projects/discon/meta.yaml" timestamp="1463274579440">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="67" column="33" />
         <mark key="^" line="41" column="20" />
         <mark key="." line="41" column="20" />
       </file>
@@ -747,6 +747,10 @@
         <mark key="^" line="7" column="27" />
         <mark key="." line="7" column="27" />
       </file>
+      <file name="$USER_HOME$/projects/discon/setup.cfg" timestamp="1463274507024">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="8" column="29" />
+      </file>
       <file name="$USER_HOME$/projects/discon/README.md" timestamp="1463235336981">
         <mark key="[" line="15" column="40" />
         <mark key="]" line="29" column="0" />
@@ -758,11 +762,11 @@
         <mark key="]" line="14" column="19" />
         <mark key="." line="14" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/discon/setup.py" timestamp="1463232751850">
-        <mark key="[" line="56" column="32" />
-        <mark key="]" line="56" column="32" />
-        <mark key="^" line="8" column="15" />
-        <mark key="." line="56" column="32" />
+      <file name="$USER_HOME$/projects/discon/setup.py" timestamp="1463274080904">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="82" column="0" />
+        <mark key="^" line="56" column="37" />
+        <mark key="." line="56" column="37" />
       </file>
       <file name="$USER_HOME$/projects/lisa/install_nosudo.sh" timestamp="1463080259990">
         <mark key="[" line="8" column="41" />
@@ -772,8 +776,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="902" column="40" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
-      <jump line="930" column="15" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="932" column="13" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="697" column="8" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="780" column="13" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
@@ -872,46 +874,48 @@
       <jump line="197" column="85" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="53" column="11" filename="$USER_HOME$/projects/discon/meta.yaml" />
       <jump line="57" column="2" filename="$USER_HOME$/projects/discon/meta.yaml" />
+      <jump line="41" column="20" filename="$USER_HOME$/projects/discon/meta.yaml" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/discon/meta.yaml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>This</text>
+        <text>bumptype</text>
       </register>
       <register name="-" type="4">
-        <text>This</text>
+        <text>bumptype</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZnRwX3VzZXJuYW1lXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB5dGhvbiAtbSBkaXNjb24gbWlub3IK</text>
+        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoCiAgICAgICAgImJ1bXB0eXBlIiwKICAgICAgICBkZWZhdWx0PU5vbmUpCg==</text>
       </register>
       <register name="1" type="4">
-        <text>This</text>
+        <text>bumptype</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHB5dGhvbiAtbSBkaXNjb24gcGF0Y2gK</text>
+      <register name="2" type="4">
+        <text>stable</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyMgUHJlcmVxdWlzaXRpZXMK</text>
+        <text encoding="base64">ICAgIGlmIG5vdCBvcC5leGlzdHMoInNldHVwLnB5Iik6CiAgICAgICAgd2l0aCBvcGVuKCdzZXR1cC5weScsICdhJykgYXMgdGhlX2ZpbGU6CiAgICAgICAgICAgIHRoZV9maWxlLndyaXRlKF9TRVRVUF9QWSkK</text>
       </register>
       <register name="4" type="4">
-        <text>u</text>
+        <text>SETUP_CFG</text>
       </register>
       <register name="5" type="4">
-        <text>trconda</text>
+        <text>setup.cfg</text>
       </register>
       <register name="6" type="4">
-        <text>py</text>
+        <text>cfg</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIC0gcHl5YW1sCg==</text>
+      <register name="7" type="4">
+        <text>setup</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIC0gbnVtcHkK</text>
+      <register name="8" type="4">
+        <text>discon</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIC0gcHl5YW1sCg==</text>
+      <register name="9" type="4">
+        <text>discon</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
