@@ -157,11 +157,11 @@
         <mark key="^" line="14" column="14" />
         <mark key="." line="14" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/discon/discon/__main__.py" timestamp="1463274876122">
+      <file name="$USER_HOME$/projects/discon/discon/__main__.py" timestamp="1463275103337">
         <mark key="[" line="53" column="13" />
-        <mark key="]" line="53" column="25" />
-        <mark key="." line="53" column="25" />
-        <mark key="^" line="53" column="25" />
+        <mark key="]" line="53" column="13" />
+        <mark key="." line="53" column="13" />
+        <mark key="^" line="141" column="22" />
       </file>
       <file name="$USER_HOME$/projects/lisa/tests/vessels_segmentation_test.py" timestamp="1445339956308">
         <mark key="'" line="118" column="36" />
@@ -879,10 +879,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>bumptype</text>
+        <text>project_name=args.arg2</text>
       </register>
       <register name="-" type="4">
-        <text>bumptype</text>
+        <text>project_name=args.arg2</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZnRwX3VzZXJuYW1lXD4=</text>
@@ -891,28 +891,28 @@
         <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoCiAgICAgICAgImJ1bXB0eXBlIiwKICAgICAgICBkZWZhdWx0PU5vbmUpCg==</text>
       </register>
       <register name="1" type="4">
-        <text>bumptype</text>
+        <text>project_name=args.arg2</text>
       </register>
       <register name="2" type="4">
+        <text>bumptype</text>
+      </register>
+      <register name="3" type="4">
         <text>stable</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIGlmIG5vdCBvcC5leGlzdHMoInNldHVwLnB5Iik6CiAgICAgICAgd2l0aCBvcGVuKCdzZXR1cC5weScsICdhJykgYXMgdGhlX2ZpbGU6CiAgICAgICAgICAgIHRoZV9maWxlLndyaXRlKF9TRVRVUF9QWSkK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>SETUP_CFG</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>setup.cfg</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>cfg</text>
       </register>
-      <register name="7" type="4">
-        <text>setup</text>
-      </register>
       <register name="8" type="4">
-        <text>discon</text>
+        <text>setup</text>
       </register>
       <register name="9" type="4">
         <text>discon</text>
