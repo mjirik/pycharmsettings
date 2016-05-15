@@ -217,12 +217,12 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/discon/meta.yaml" timestamp="1463274579440">
+      <file name="$USER_HOME$/projects/discon/meta.yaml" timestamp="1463275218419">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="67" column="33" />
-        <mark key="^" line="41" column="20" />
-        <mark key="." line="41" column="20" />
+        <mark key="[" line="7" column="37" />
+        <mark key="]" line="7" column="42" />
+        <mark key="^" line="7" column="42" />
+        <mark key="." line="7" column="42" />
       </file>
       <file name="$USER_HOME$/projects/quanta/quanta/__main__.py" timestamp="1446549342592">
         <mark key="[" line="0" column="0" />
@@ -762,11 +762,12 @@
         <mark key="]" line="14" column="19" />
         <mark key="." line="14" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/discon/setup.py" timestamp="1463274080904">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="82" column="0" />
-        <mark key="^" line="56" column="37" />
-        <mark key="." line="56" column="37" />
+      <file name="$USER_HOME$/projects/discon/setup.py" timestamp="1463275205096">
+        <mark key="'" line="14" column="40" />
+        <mark key="[" line="14" column="40" />
+        <mark key="]" line="14" column="40" />
+        <mark key="^" line="14" column="40" />
+        <mark key="." line="14" column="40" />
       </file>
       <file name="$USER_HOME$/projects/lisa/install_nosudo.sh" timestamp="1463080259990">
         <mark key="[" line="8" column="41" />
@@ -776,7 +777,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="932" column="13" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="697" column="8" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="780" column="13" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="629" column="48" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
@@ -876,13 +876,14 @@
       <jump line="57" column="2" filename="$USER_HOME$/projects/discon/meta.yaml" />
       <jump line="41" column="20" filename="$USER_HOME$/projects/discon/meta.yaml" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/discon/meta.yaml" />
+      <jump line="14" column="40" filename="$USER_HOME$/projects/discon/setup.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>project_name=args.arg2</text>
+        <text>io3d</text>
       </register>
       <register name="-" type="4">
-        <text>project_name=args.arg2</text>
+        <text>io3d</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZnRwX3VzZXJuYW1lXD4=</text>
@@ -891,31 +892,31 @@
         <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoCiAgICAgICAgImJ1bXB0eXBlIiwKICAgICAgICBkZWZhdWx0PU5vbmUpCg==</text>
       </register>
       <register name="1" type="4">
-        <text>project_name=args.arg2</text>
+        <text>io3d</text>
       </register>
       <register name="2" type="4">
-        <text>bumptype</text>
+        <text>project_name=args.arg2</text>
       </register>
       <register name="3" type="4">
+        <text>bumptype</text>
+      </register>
+      <register name="4" type="4">
         <text>stable</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIGlmIG5vdCBvcC5leGlzdHMoInNldHVwLnB5Iik6CiAgICAgICAgd2l0aCBvcGVuKCdzZXR1cC5weScsICdhJykgYXMgdGhlX2ZpbGU6CiAgICAgICAgICAgIHRoZV9maWxlLndyaXRlKF9TRVRVUF9QWSkK</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>SETUP_CFG</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>setup.cfg</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>cfg</text>
       </register>
-      <register name="8" type="4">
-        <text>setup</text>
-      </register>
       <register name="9" type="4">
-        <text>discon</text>
+        <text>setup</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
