@@ -546,11 +546,11 @@
         <mark key="^" line="2" column="4" />
         <mark key="." line="2" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/disco/discon/__main__.py" timestamp="1463397354428">
-        <mark key="[" line="76" column="4" />
-        <mark key="]" line="76" column="4" />
-        <mark key="." line="76" column="4" />
-        <mark key="^" line="76" column="32" />
+      <file name="$USER_HOME$/projects/disco/discon/__main__.py" timestamp="1463397782020">
+        <mark key="[" line="74" column="11" />
+        <mark key="]" line="74" column="14" />
+        <mark key="." line="74" column="14" />
+        <mark key="^" line="74" column="14" />
       </file>
       <file name="$USER_HOME$/projects/lisa/meta.yaml" timestamp="1448367089215">
         <mark key="[" line="73" column="0" />
@@ -894,10 +894,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZnRwX3VzZXJuYW1lXD4=</text>
@@ -906,31 +906,31 @@
         <text encoding="base64">ICAgICMgIyB0aGlzIGZpeGVzIHVwbG9hZCBjb25maWxjdAo=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+        <text>r</text>
       </register>
       <register name="2" type="4">
-        <text>#</text>
+        <text>i</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHRyeToKICAgICAgICBzdWJwcm9jZXNzLmNhbGwoWyJybSAiLCAiLXJmICIsICJ3aW4tKiJdKQogICAgZXhjZXB0IE9TRXJyb3I6CiAgICAgICAgcGFzcwogICAgdHJ5OgogICAgICAgIHN1YnByb2Nlc3MuY2FsbChbInJtICIsICItcmYgIiwgImxpbnV4LSoiXSkKICAgIGV4Y2VwdCBPU0Vycm9yOgogICAgICAgIHBhc3MKICAgIHRyeToKICAgICAgICBzdWJwcm9jZXNzLmNhbGwoWyJybSAiLCAiLXJmICIsICJvc3gtKiJdKQogICAgZXhjZXB0IE9TRXJyb3I6CiAgICAgICAgcGFzcwo=</text>
+      <register name="3" type="4">
+        <text>d</text>
       </register>
       <register name="4" type="4">
-        <text>n</text>
+        <text>onedir</text>
       </register>
-      <register name="5" type="4">
-        <text>i</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBzaHV0aWwucm10cmVlKG9uZWRpcikK</text>
       </register>
       <register name="6" type="4">
-        <text>w</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="7" type="4">
-        <text>n</text>
+        <text>#</text>
       </register>
-      <register name="8" type="4">
-        <text>i</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHRyeToKICAgICAgICBzdWJwcm9jZXNzLmNhbGwoWyJybSAiLCAiLXJmICIsICJ3aW4tKiJdKQogICAgZXhjZXB0IE9TRXJyb3I6CiAgICAgICAgcGFzcwogICAgdHJ5OgogICAgICAgIHN1YnByb2Nlc3MuY2FsbChbInJtICIsICItcmYgIiwgImxpbnV4LSoiXSkKICAgIGV4Y2VwdCBPU0Vycm9yOgogICAgICAgIHBhc3MKICAgIHRyeToKICAgICAgICBzdWJwcm9jZXNzLmNhbGwoWyJybSAiLCAiLXJmICIsICJvc3gtKiJdKQogICAgZXhjZXB0IE9TRXJyb3I6CiAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="9" type="4">
-        <text>w</text>
+        <text>n</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
