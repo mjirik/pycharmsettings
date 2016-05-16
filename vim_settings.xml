@@ -266,10 +266,10 @@
         <mark key="^" line="129" column="45" />
         <mark key="." line="129" column="45" />
       </file>
-      <file name="$USER_HOME$/projects/disco/meta.yaml" timestamp="1463402640064">
-        <mark key="[" line="24" column="16" />
-        <mark key="]" line="24" column="21" />
-        <mark key="." line="24" column="21" />
+      <file name="$USER_HOME$/projects/disco/meta.yaml" timestamp="1463402744720">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
         <mark key="^" line="24" column="21" />
       </file>
       <file name="$USER_HOME$/projects/imtools/tests/vessels_segmentation_test.py" timestamp="1451861420359">
@@ -906,10 +906,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>io3d</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>io3d</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>'sample'</text>
@@ -918,31 +918,31 @@
         <text encoding="base64">ICAgIHB5dGhvbiAtbSBkaXNjb24gaW5pdAo=</text>
       </register>
       <register name="1" type="4">
-        <text>io3d</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">aW8zZCA=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="3" type="4">
-        <text>sample</text>
+        <text>io3d</text>
       </register>
       <register name="4" type="4">
-        <text>sample</text>
+        <text encoding="base64">aW8zZCA=</text>
       </register>
       <register name="5" type="4">
-        <text>None</text>
+        <text>sample</text>
       </register>
       <register name="6" type="4">
+        <text>sample</text>
+      </register>
+      <register name="7" type="4">
         <text>None</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="4">
+        <text>None</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">ICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoCiAgICAgICAgJy1pJywgJy0taW5wdXRmaWxlJywKICAgICAgICBkZWZhdWx0PU5vbmUsCiAgICAgICAgIyByZXF1aXJlZD1UcnVlLAogICAgICAgIGhlbHA9J2lucHV0IGZpbGUnCiAgICApCg==</text>
-      </register>
-      <register name="9" type="4">
-        <text>_</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
