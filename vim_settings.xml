@@ -235,11 +235,11 @@
         <mark key="^" line="269" column="68" />
         <mark key="." line="269" column="68" />
       </file>
-      <file name="$USER_HOME$/projects/disco/setup.py" timestamp="1463145773890">
-        <mark key="[" line="13" column="13" />
-        <mark key="]" line="13" column="17" />
-        <mark key="." line="13" column="17" />
-        <mark key="^" line="13" column="17" />
+      <file name="$USER_HOME$/projects/disco/setup.py" timestamp="1463402531584">
+        <mark key="[" line="79" column="20" />
+        <mark key="]" line="79" column="25" />
+        <mark key="." line="79" column="25" />
+        <mark key="^" line="79" column="25" />
       </file>
       <file name="$USER_HOME$/projects/imtools/docs/imtools.rst" timestamp="1453362560258">
         <mark key="'" line="0" column="0" />
@@ -266,11 +266,11 @@
         <mark key="^" line="129" column="45" />
         <mark key="." line="129" column="45" />
       </file>
-      <file name="$USER_HOME$/projects/disco/meta.yaml" timestamp="1463145797714">
-        <mark key="[" line="52" column="10" />
-        <mark key="]" line="52" column="10" />
-        <mark key="." line="52" column="10" />
-        <mark key="^" line="52" column="10" />
+      <file name="$USER_HOME$/projects/disco/meta.yaml" timestamp="1463402640064">
+        <mark key="[" line="24" column="16" />
+        <mark key="]" line="24" column="21" />
+        <mark key="." line="24" column="21" />
+        <mark key="^" line="24" column="21" />
       </file>
       <file name="$USER_HOME$/projects/imtools/tests/vessels_segmentation_test.py" timestamp="1451861420359">
         <mark key="'" line="100" column="25" />
@@ -905,11 +905,11 @@
       <jump line="306" column="0" filename="$USER_HOME$/projects/disco/discon/__main__.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHB5dGhvbiAtbSBkaXNjb24gaW5pdAo=</text>
+      <register name="&quot;" type="4">
+        <text>io3d</text>
       </register>
       <register name="-" type="4">
-        <text>None</text>
+        <text>io3d</text>
       </register>
       <register name="/" type="4">
         <text>'sample'</text>
@@ -918,31 +918,31 @@
         <text encoding="base64">ICAgIHB5dGhvbiAtbSBkaXNjb24gaW5pdAo=</text>
       </register>
       <register name="1" type="4">
-        <text>None</text>
+        <text>io3d</text>
       </register>
       <register name="2" type="4">
-        <text>None</text>
+        <text encoding="base64">aW8zZCA=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
+      <register name="3" type="4">
+        <text>sample</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoCiAgICAgICAgJy1pJywgJy0taW5wdXRmaWxlJywKICAgICAgICBkZWZhdWx0PU5vbmUsCiAgICAgICAgIyByZXF1aXJlZD1UcnVlLAogICAgICAgIGhlbHA9J2lucHV0IGZpbGUnCiAgICApCg==</text>
+      <register name="4" type="4">
+        <text>sample</text>
       </register>
       <register name="5" type="4">
-        <text>_</text>
+        <text>None</text>
       </register>
       <register name="6" type="4">
-        <text>_</text>
+        <text>None</text>
       </register>
-      <register name="7" type="4">
-        <text>bumptype</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoCiAgICAgICAgJy1pJywgJy0taW5wdXRmaWxlJywKICAgICAgICBkZWZhdWx0PU5vbmUsCiAgICAgICAgIyByZXF1aXJlZD1UcnVlLAogICAgICAgIGhlbHA9J2lucHV0IGZpbGUnCiAgICApCg==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text>_</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
