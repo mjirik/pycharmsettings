@@ -556,11 +556,13 @@
         <mark key="." line="23" column="22" />
         <mark key="^" line="23" column="22" />
       </file>
-      <file name="$USER_HOME$/projects/disco/discon/__main__.py" timestamp="1463399205898">
-        <mark key="[" line="58" column="14" />
-        <mark key="]" line="59" column="13" />
-        <mark key="^" line="59" column="13" />
-        <mark key="." line="59" column="13" />
+      <file name="$USER_HOME$/projects/disco/discon/__main__.py" timestamp="1463401294367">
+        <mark key="a" line="351" column="0" />
+        <mark key="'" line="306" column="0" />
+        <mark key="[" line="306" column="0" />
+        <mark key="]" line="306" column="0" />
+        <mark key="^" line="345" column="17" />
+        <mark key="." line="306" column="0" />
       </file>
       <file name="$USER_HOME$/projects/lisa/meta.yaml" timestamp="1448367089215">
         <mark key="[" line="73" column="0" />
@@ -801,9 +803,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="46" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
-      <jump line="782" column="42" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
-      <jump line="902" column="40" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="930" column="15" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="932" column="13" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="697" column="8" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
@@ -901,61 +900,63 @@
       <jump line="1297" column="19" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="195" column="87" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="197" column="85" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="182" column="51" filename="$USER_HOME$/projects/disco/discon/__main__.py" />
+      <jump line="220" column="12" filename="$USER_HOME$/projects/disco/discon/__main__.py" />
+      <jump line="306" column="0" filename="$USER_HOME$/projects/disco/discon/__main__.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">dG8g</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dG8g</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZnRwX3VzZXJuYW1lXD4=</text>
+        <text>'sample'</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB5dGhvbiAtbSBkaXNjb24gbWFqb3IK</text>
+        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoCiAgICAgICAgImJ1bXB0eXBlIiwKICAgICAgICBkZWZhdWx0PU5vbmUpCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">dG8g</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ZGlzY29uIA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoCiAgICAgICAgJy1pJywgJy0taW5wdXRmaWxlJywKICAgICAgICBkZWZhdWx0PU5vbmUsCiAgICAgICAgIyByZXF1aXJlZD1UcnVlLAogICAgICAgIGhlbHA9J2lucHV0IGZpbGUnCiAgICApCg==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">dXNlIA==</text>
+        <text>_</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">Y2FuIA==</text>
+        <text>_</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>bumptype</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIG91dHB1dF9uYW1lID0gc3VicHJvY2Vzcy5jaGVja19vdXRwdXQoWyJjb25kYSIsICJidWlsZCIsICItLW91dHB1dCIsICIuIl0pCiAgICBwcmludCAiLS0tLS0tLS0tLS0tLS0tIgogICAgcHJpbnQgb3V0cHV0X25hbWUKICAgIHByaW50ICI9PT09PT09PT09PT09PT09PT09PT09IgogICAgcHJpbnQgb3V0cHV0X25hbWUuc3BsaXQoIlxuIilbLTJdCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="7" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>io3d</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50IG91dHB1dF9uYW1lCg==</text>
+      <register name="9" type="4">
+        <text>{</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZnRwX3VzZXJuYW1lXD4=</last-search>
+      <last-search>'sample'</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZnRwX3VzZXJuYW1lXD4=</last-pattern>
+      <last-pattern>'sample'</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>navigation</entry>
         <entry>naviga</entry>
         <entry>alter</entry>
         <entry>output_label</entry>
@@ -975,6 +976,7 @@
         <entry encoding="base64">XDxsb2FkRGF0YURpclw+</entry>
         <entry encoding="base64">XDxfb3V0cHV0X2RhdGFwYXRoX2Zyb21fc2VydmVyXD4=</entry>
         <entry encoding="base64">XDxzZnRwX3VzZXJuYW1lXD4=</entry>
+        <entry>'sample'</entry>
       </history-search>
       <history-cmd>
         <entry>291</entry>
@@ -988,10 +990,11 @@
         <entry>158</entry>
         <entry>154</entry>
         <entry>166</entry>
-        <entry>e</entry>
         <entry>292</entry>
         <entry>q</entry>
         <entry>137</entry>
+        <entry>e</entry>
+        <entry>308</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
