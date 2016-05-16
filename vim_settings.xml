@@ -121,6 +121,12 @@
         <mark key="^" line="138" column="47" />
         <mark key="." line="138" column="47" />
       </file>
+      <file name="$USER_HOME$/projects/disco/discon/__init__.py" timestamp="1463404075948">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="24" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/io3d/tests/dcmreaddata_test.py" timestamp="1446816832515">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="327" column="86" />
@@ -225,9 +231,6 @@
         <mark key="]" line="19" column="14" />
         <mark key="^" line="19" column="14" />
         <mark key="." line="19" column="14" />
-      </file>
-      <file name="/Python Console" timestamp="1461246379864">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/quantan/quantan/histology_report.py" timestamp="1452186060856">
         <mark key="[" line="269" column="34" />
@@ -905,8 +908,8 @@
       <jump line="306" column="0" filename="$USER_HOME$/projects/disco/discon/__main__.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -917,32 +920,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB5dGhvbiAtbSBkaXNjb24gaW5pdAo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="3" type="4">
-        <text>io3d</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">aW8zZCA=</text>
+        <text>io3d</text>
       </register>
       <register name="5" type="4">
-        <text>sample</text>
+        <text encoding="base64">aW8zZCA=</text>
       </register>
       <register name="6" type="4">
         <text>sample</text>
       </register>
       <register name="7" type="4">
-        <text>None</text>
+        <text>sample</text>
       </register>
       <register name="8" type="4">
         <text>None</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
+      <register name="9" type="4">
+        <text>None</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
