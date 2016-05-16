@@ -317,6 +317,10 @@
         <mark key="]" line="20" column="22" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/disco/build.sh" timestamp="1463398902376">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="8" column="75" />
+      </file>
       <file name="$USER_HOME$/projects/skelet3d/skelet3d/libfixer.py" timestamp="1453385128707">
         <mark key="[" line="50" column="0" />
         <mark key="]" line="63" column="28" />
@@ -546,11 +550,10 @@
         <mark key="^" line="2" column="4" />
         <mark key="." line="2" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/disco/discon/__main__.py" timestamp="1463397931502">
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="81" column="0" />
-        <mark key="." line="81" column="0" />
-        <mark key="^" line="136" column="10" />
+      <file name="$USER_HOME$/projects/disco/discon/__main__.py" timestamp="1463399032529">
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/projects/lisa/meta.yaml" timestamp="1448367089215">
         <mark key="[" line="73" column="0" />
@@ -738,6 +741,9 @@
         <mark key="]" line="92" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1463398946891">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/io3d/io3d/misc.py" timestamp="1453295785375">
         <mark key="'" line="19" column="27" />
         <mark key="[" line="81" column="15" />
@@ -894,43 +900,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzaHV0aWwucm10cmVlKG9uZWRpcikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZnRwX3VzZXJuYW1lXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZvciBvbmVkaXIgaW4gZHI6Cg==</text>
+        <text encoding="base64">IyEvYmluL2Jhc2gKCiRQWVRIT04gc2V0dXAucHkgaW5zdGFsbAoKIyBBZGQgbW9yZSBidWlsZCBzdGVwcyBoZXJlLCBpZiB0aGV5IGFyZSBuZWNlc3NhcnkuCgojIFNlZQojIGh0dHA6Ly9kb2NzLmNvbnRpbnV1bS5pby9jb25kYS9idWlsZC5odG1sCiMgZm9yIGEgbGlzdCBvZiBlbnZpcm9ubWVudCB2YXJpYWJsZXMgdGhhdCBhcmUgc2V0IGR1cmluZyB0aGUgYnVpbGQgcHJvY2Vzcy4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzaHV0aWwucm10cmVlKG9uZWRpcikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBvcy5yZW1vdmUob25lZmlsZSkK</text>
+        <text encoding="base64">ICAgIG91dHB1dF9uYW1lID0gc3VicHJvY2Vzcy5jaGVja19vdXRwdXQoWyJjb25kYSIsICJidWlsZCIsICItLW91dHB1dCIsICIuIl0pCiAgICBwcmludCAiLS0tLS0tLS0tLS0tLS0tIgogICAgcHJpbnQgb3V0cHV0X25hbWUKICAgIHByaW50ICI9PT09PT09PT09PT09PT09PT09PT09IgogICAgcHJpbnQgb3V0cHV0X25hbWUuc3BsaXQoIlxuIilbLTJdCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGZvciBvbmVkaXIgaW4gZHI6Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZvciBvbmVmaWxlIGluIGRyOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>r</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHByaW50IG91dHB1dF9uYW1lCg==</text>
       </register>
       <register name="6" type="4">
-        <text>i</text>
+        <text>`conda build --output .`</text>
       </register>
-      <register name="7" type="4">
-        <text>d</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHByaW50ICItLS0tLS0tLS0tLS0tLS0iCg==</text>
       </register>
       <register name="8" type="4">
-        <text>onedir</text>
+        <text>_</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzaHV0aWwucm10cmVlKG9uZWRpcikK</text>
+      <register name="9" type="4">
+        <text encoding="base64">cHJpbnQg</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
