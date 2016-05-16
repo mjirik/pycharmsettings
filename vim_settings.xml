@@ -550,11 +550,11 @@
         <mark key="^" line="2" column="4" />
         <mark key="." line="2" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/disco/README.md" timestamp="1463399177962">
-        <mark key="[" line="23" column="19" />
-        <mark key="]" line="23" column="22" />
-        <mark key="." line="23" column="22" />
-        <mark key="^" line="23" column="22" />
+      <file name="$USER_HOME$/projects/disco/README.md" timestamp="1463402288807">
+        <mark key="[" line="31" column="25" />
+        <mark key="]" line="31" column="37" />
+        <mark key="." line="31" column="37" />
+        <mark key="^" line="31" column="37" />
       </file>
       <file name="$USER_HOME$/projects/disco/discon/__main__.py" timestamp="1463402142207">
         <mark key="a" line="351" column="0" />
@@ -905,8 +905,8 @@
       <jump line="306" column="0" filename="$USER_HOME$/projects/disco/discon/__main__.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>None</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHB5dGhvbiAtbSBkaXNjb24gaW5pdAo=</text>
       </register>
       <register name="-" type="4">
         <text>None</text>
@@ -915,7 +915,7 @@
         <text>'sample'</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoCiAgICAgICAgImJ1bXB0eXBlIiwKICAgICAgICBkZWZhdWx0PU5vbmUpCg==</text>
+        <text encoding="base64">ICAgIHB5dGhvbiAtbSBkaXNjb24gaW5pdAo=</text>
       </register>
       <register name="1" type="4">
         <text>None</text>
