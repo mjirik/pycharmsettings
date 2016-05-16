@@ -556,13 +556,13 @@
         <mark key="." line="23" column="22" />
         <mark key="^" line="23" column="22" />
       </file>
-      <file name="$USER_HOME$/projects/disco/discon/__main__.py" timestamp="1463401294367">
+      <file name="$USER_HOME$/projects/disco/discon/__main__.py" timestamp="1463402142207">
         <mark key="a" line="351" column="0" />
         <mark key="'" line="306" column="0" />
-        <mark key="[" line="306" column="0" />
-        <mark key="]" line="306" column="0" />
-        <mark key="^" line="345" column="17" />
-        <mark key="." line="306" column="0" />
+        <mark key="[" line="346" column="16" />
+        <mark key="]" line="346" column="31" />
+        <mark key="^" line="346" column="31" />
+        <mark key="." line="346" column="31" />
       </file>
       <file name="$USER_HOME$/projects/lisa/meta.yaml" timestamp="1448367089215">
         <mark key="[" line="73" column="0" />
@@ -905,11 +905,11 @@
       <jump line="306" column="0" filename="$USER_HOME$/projects/disco/discon/__main__.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
+      <register name="&quot;" type="4">
+        <text>None</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>None</text>
       </register>
       <register name="/" type="4">
         <text>'sample'</text>
@@ -917,32 +917,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoCiAgICAgICAgImJ1bXB0eXBlIiwKICAgICAgICBkZWZhdWx0PU5vbmUpCg==</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text>None</text>
+      </register>
+      <register name="2" type="4">
+        <text>None</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoCiAgICAgICAgJy1pJywgJy0taW5wdXRmaWxlJywKICAgICAgICBkZWZhdWx0PU5vbmUsCiAgICAgICAgIyByZXF1aXJlZD1UcnVlLAogICAgICAgIGhlbHA9J2lucHV0IGZpbGUnCiAgICApCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>_</text>
-      </register>
-      <register name="4" type="4">
-        <text>_</text>
-      </register>
       <register name="5" type="4">
-        <text>bumptype</text>
+        <text>_</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+        <text>_</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+        <text>bumptype</text>
       </register>
       <register name="8" type="4">
-        <text>io3d</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="9" type="4">
-        <text>{</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
