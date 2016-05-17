@@ -1,0 +1,10 @@
+<keymap version="1" name="Default for XWin copy 2" parent="Default for XWin">
+  <action id="ActivateProjectToolWindow">
+    <keyboard-shortcut first-keystroke="alt 1" />
+    <keyboard-shortcut first-keystroke="alt plus" />
+  </action>
+  <action id="ActivateStructureToolWindow">
+    <keyboard-shortcut first-keystroke="alt 7" />
+    <keyboard-shortcut first-keystroke="alt #10000fd" />
+  </action>
+</keymap>
