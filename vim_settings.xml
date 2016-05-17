@@ -165,6 +165,13 @@
         <mark key="^" line="57" column="47" />
         <mark key="." line="57" column="47" />
       </file>
+      <file name="$USER_HOME$/projects/psongbook/sobo/transpose.py" timestamp="1463474753473">
+        <mark key="'" line="65" column="17" />
+        <mark key="[" line="27" column="22" />
+        <mark key="]" line="27" column="22" />
+        <mark key="^" line="65" column="17" />
+        <mark key="." line="27" column="22" />
+      </file>
       <file name="$USER_HOME$/projects/lisa/installer.bat" timestamp="1448389020321">
         <mark key="[" line="5" column="35" />
         <mark key="]" line="6" column="23" />
@@ -272,10 +279,10 @@
         <mark key="^" line="57" column="38" />
         <mark key="." line="57" column="38" />
       </file>
-      <file name="$USER_HOME$/projects/psongbook/sobo/doc2txt.py" timestamp="1463472366274">
+      <file name="$USER_HOME$/projects/psongbook/sobo/doc2txt.py" timestamp="1463473984670">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="84" column="34" />
-        <mark key="]" line="85" column="48" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="39" column="19" />
         <mark key="^" line="85" column="48" />
         <mark key="." line="85" column="48" />
       </file>
@@ -285,11 +292,11 @@
         <mark key="^" line="3" column="8" />
         <mark key="." line="3" column="8" />
       </file>
-      <file name="$USER_HOME$/projects/psongbook/sobo/__main__.py" timestamp="1463471986407">
-        <mark key="[" line="46" column="73" />
-        <mark key="]" line="47" column="35" />
-        <mark key="^" line="47" column="35" />
-        <mark key="." line="47" column="35" />
+      <file name="$USER_HOME$/projects/psongbook/sobo/__main__.py" timestamp="1463474715402">
+        <mark key="[" line="78" column="8" />
+        <mark key="]" line="78" column="16" />
+        <mark key="^" line="78" column="16" />
+        <mark key="." line="78" column="16" />
       </file>
       <file name="$USER_HOME$/projects/io3d/io3d/datawriter.py" timestamp="1450698545682">
         <mark key="[" line="48" column="60" />
@@ -673,7 +680,7 @@
         <mark key="^" line="39" column="25" />
         <mark key="." line="39" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/psongbook/sobo/psongbook.py" timestamp="1463472120714">
+      <file name="$USER_HOME$/projects/psongbook/sobo/psongbook.py" timestamp="1463475002041">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="303" column="15" />
         <mark key="]" line="304" column="17" />
@@ -774,7 +781,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="803" column="13" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="594" column="0" filename="$USER_HOME$/projects/pysegbase/pysegbase/seed_editor_qt.py" />
       <jump line="703" column="59" filename="$USER_HOME$/projects/pysegbase/pysegbase/seed_editor_qt.py" />
       <jump line="47" column="26" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
@@ -874,46 +880,47 @@
       <jump line="197" column="8" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="1477" column="31" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="1418" column="9" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="65" column="17" filename="$USER_HOME$/projects/psongbook/sobo/transpose.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>h</text>
+        <text>txt</text>
       </register>
       <register name="-" type="4">
-        <text>h</text>
+        <text>txt</text>
       </register>
       <register name="/" type="4">
         <text>-cf</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHBhcnNlcl9kMnQgPSBzdWJwYXJzZXJzLmFkZF9wYXJzZXIoJ2RvYzJ0eHQnLCBoZWxwPSJjb252ZXJ0IGRvYyBmaWxlIHRvIHR4dCBmaWxlIikK</text>
+        <text encoding="base64">ICAgIGVsaWYgYXJncy5tb2RlID09ICdzb2JvJzoKICAgICAgICBwc29uZ2Jvb2subWFpbl9hcmdzKGFyZ3MpCg==</text>
       </register>
       <register name="1" type="4">
-        <text>h</text>
+        <text>txt</text>
       </register>
       <register name="2" type="4">
-        <text>c</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="3" type="4">
-        <text>e</text>
+        <text>,</text>
       </register>
       <register name="4" type="4">
-        <text>m</text>
+        <text>txt</text>
       </register>
       <register name="5" type="4">
-        <text>a</text>
+        <text>psongbook</text>
       </register>
       <register name="6" type="4">
-        <text>n</text>
+        <text>sobo</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHByb2Nlc3NfZmlsZShhcmdzLmlucHV0ZmlsZSkK</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+        <text>psongbook</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">bm90IA==</text>
+        <text>sobo</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
