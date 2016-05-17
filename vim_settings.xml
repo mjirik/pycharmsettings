@@ -361,6 +361,13 @@
         <mark key="^" line="53" column="80" />
         <mark key="." line="53" column="80" />
       </file>
+      <file name="$USER_HOME$/projects/sobo/sobo/psongbook.py" timestamp="1463519245893">
+        <mark key="'" line="90" column="11" />
+        <mark key="[" line="160" column="37" />
+        <mark key="]" line="160" column="37" />
+        <mark key="^" line="160" column="37" />
+        <mark key="." line="160" column="37" />
+      </file>
       <file name="$USER_HOME$/projects/lisa/lisa/data.py" timestamp="1448552139365">
         <mark key="[" line="27" column="46" />
         <mark key="]" line="27" column="46" />
@@ -776,8 +783,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="697" column="8" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
-      <jump line="780" column="13" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="629" column="48" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="630" column="29" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="663" column="25" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
@@ -876,61 +881,62 @@
       <jump line="41" column="20" filename="$USER_HOME$/projects/discon/meta.yaml" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/discon/meta.yaml" />
       <jump line="14" column="40" filename="$USER_HOME$/projects/discon/setup.py" />
+      <jump line="16" column="17" filename="$USER_HOME$/projects/sobo/sobo/psongbook.py" />
+      <jump line="90" column="11" filename="$USER_HOME$/projects/sobo/sobo/psongbook.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>added packages</text>
+        <text>{</text>
       </register>
       <register name="-" type="4">
-        <text>added packages</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
-        <text>remov</text>
+        <text encoding="base64">XDxwZFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHRyeToKICAgICAgICBzdWJwcm9jZXNzLmNhbGwoWyJybSAiLCAiLXJmICIsICJvc3gtKiJdKQogICAgZXhjZXB0IE9TRXJyb3I6CiAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="1" type="4">
-        <text>added packages</text>
+        <text>{</text>
       </register>
       <register name="2" type="4">
-        <text>-</text>
+        <text>added packages</text>
       </register>
       <register name="3" type="4">
-        <text>x</text>
+        <text>-</text>
       </register>
       <register name="4" type="4">
-        <text>s</text>
+        <text>x</text>
       </register>
       <register name="5" type="4">
+        <text>s</text>
+      </register>
+      <register name="6" type="4">
         <text>o</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHRyeToKICAgICAgICBzdWJwcm9jZXNzLmNhbGwoWyJybSAiLCAiLXJmICIsICJvc3gtKiJdKQogICAgZXhjZXB0IE9TRXJyb3I6CiAgICAgICAgcGFzcwo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>/</text>
       </register>
-      <register name="8" type="4">
-        <text>dist</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text>dist</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>remov</last-search>
+      <last-search encoding="base64">XDxwZFw+</last-search>
       <last-offset />
-      <last-pattern>remov</last-pattern>
+      <last-pattern encoding="base64">XDxwZFw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>seed</entry>
         <entry>seed_ed</entry>
         <entry encoding="base64">XDxRQXBwbGljYXRpb25cPg==</entry>
         <entry encoding="base64">XDxjaGFuZ2VGb2N1c2VkTGFiZWxcPg==</entry>
@@ -950,6 +956,7 @@
         <entry>put</entry>
         <entry>get</entry>
         <entry>remov</entry>
+        <entry encoding="base64">XDxwZFw+</entry>
       </history-search>
       <history-cmd>
         <entry>291</entry>
