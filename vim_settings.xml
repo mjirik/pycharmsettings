@@ -518,11 +518,11 @@
         <mark key="." line="46" column="35" />
         <mark key="^" line="46" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/psongbook/sobo/psongbook.py" timestamp="1463490362418">
-        <mark key="[" line="114" column="27" />
-        <mark key="]" line="114" column="10" />
-        <mark key="^" line="114" column="10" />
-        <mark key="." line="114" column="10" />
+      <file name="$USER_HOME$/projects/psongbook/sobo/psongbook.py" timestamp="1463491785021">
+        <mark key="[" line="160" column="32" />
+        <mark key="]" line="160" column="32" />
+        <mark key="." line="160" column="32" />
+        <mark key="^" line="160" column="35" />
       </file>
       <file name="$USER_HOME$/projects/imtools/docs/index.rst" timestamp="1453362345950">
         <mark key="[" line="0" column="3" />
@@ -679,43 +679,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, sngbk, part</text>
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text>, sngbk, part</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzbmdia1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGVmIGxvYWRfZmlsZShvZmlsZW5hbWUpOgogICAgdGV4dCA9IE5vbmUKICAgIHdpdGggb3BlbihvZmlsZW5hbWUsICdyJykgYXMgZjoKICAgICAgICB0ZXh0ID0gZi5yZWFkKCkKCiAgICByZXR1cm4gdGV4dAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBpIGluIGlkaW46CiAgICAgICAgICAgIGRvY3Bzb25nYm9vayArPSAie1xcYmYiCg==</text>
       </register>
       <register name="1" type="4">
-        <text>, sngbk, part</text>
+        <text>t</text>
       </register>
       <register name="2" type="4">
-        <text>docpsongbook, filepath, sngbk, part</text>
+        <text>x</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGZ1bGxmaWxlcGF0aCA9IG9zLnBhdGguam9pbihzbmdia1snZGlycGF0aCddLmRlY29kZSgndXRmOCcpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBhcnQuZGVjb2RlKCd1dGY4JykpCiAgICBmdWxsZmlsZXBhdGggPSBvcy5wYXRoLmpvaW4oZnVsbGZpbGVwYXRoLGZpbGVwYXRoKQo=</text>
+      <register name="3" type="4">
+        <text>e</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIDpwYXJhbSBkb2Nwc29uZ2Jvb2s6Cg==</text>
+      <register name="4" type="4">
+        <text>t</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+        <text>f</text>
       </register>
       <register name="6" type="4">
-        <text>,</text>
+        <text>b</text>
       </register>
       <register name="7" type="4">
-        <text>docpsongbook</text>
+        <text>\</text>
       </register>
       <register name="8" type="4">
-        <text>docpsongbook</text>
+        <text>\</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">dG8g</text>
+        <text>{</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -768,6 +768,7 @@
         <entry>137</entry>
         <entry>e</entry>
         <entry>308</entry>
+        <entry>136</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
