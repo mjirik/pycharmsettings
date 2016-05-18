@@ -341,21 +341,17 @@
         <mark key="^" line="20" column="38" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/disco/build.sh" timestamp="1463398902376">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="8" column="75" />
-      </file>
       <file name="$USER_HOME$/projects/skelet3d/skelet3d/libfixer.py" timestamp="1453385128707">
         <mark key="[" line="50" column="0" />
         <mark key="]" line="63" column="28" />
         <mark key="^" line="60" column="16" />
         <mark key="." line="65" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/requirements_conda.txt" timestamp="1448122520861">
-        <mark key="[" line="35" column="11" />
-        <mark key="]" line="36" column="7" />
-        <mark key="^" line="36" column="7" />
-        <mark key="." line="36" column="7" />
+      <file name="$USER_HOME$/projects/lisa/requirements_conda.txt" timestamp="1463555476952">
+        <mark key="[" line="37" column="8" />
+        <mark key="]" line="38" column="53" />
+        <mark key="^" line="38" column="53" />
+        <mark key="." line="38" column="53" />
       </file>
       <file name="$USER_HOME$/projects/io3d/io3d/connect.py" timestamp="1462980576099">
         <mark key="[" line="188" column="0" />
@@ -396,6 +392,9 @@
         <mark key="^" line="0" column="40" />
         <mark key="." line="0" column="40" />
       </file>
+      <file name="$USER_HOME$/projects/lisa/lisa/virtual_resection.py" timestamp="1463555222442">
+        <mark key="'" line="325" column="9" />
+      </file>
       <file name="$USER_HOME$/projects/quanta/requirements_pip.txt" timestamp="1446724903102">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="1" />
@@ -420,10 +419,6 @@
         <mark key="]" line="24" column="40" />
         <mark key="^" line="24" column="40" />
         <mark key="." line="24" column="40" />
-      </file>
-      <file name="$USER_HOME$/projects/disco/distr.sh" timestamp="1463148754327">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="37" column="1" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/histology_analyser.py" timestamp="1444738796915">
         <mark key="[" line="621" column="17" />
@@ -821,10 +816,6 @@
         <mark key="^" line="7" column="27" />
         <mark key="." line="7" column="27" />
       </file>
-      <file name="$USER_HOME$/projects/discon/setup.cfg" timestamp="1463274507024">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="8" column="29" />
-      </file>
       <file name="$USER_HOME$/projects/discon/README.md" timestamp="1463235336981">
         <mark key="[" line="15" column="40" />
         <mark key="]" line="29" column="0" />
@@ -838,15 +829,14 @@
         <mark key="^" line="14" column="40" />
         <mark key="." line="56" column="22" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/install_nosudo.sh" timestamp="1463080259990">
-        <mark key="[" line="8" column="41" />
-        <mark key="]" line="8" column="50" />
-        <mark key="^" line="8" column="50" />
-        <mark key="." line="8" column="50" />
+      <file name="$USER_HOME$/projects/lisa/install_nosudo.sh" timestamp="1463555555710">
+        <mark key="[" line="8" column="51" />
+        <mark key="]" line="8" column="75" />
+        <mark key="^" line="8" column="75" />
+        <mark key="." line="8" column="75" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="1405" column="8" filename="$USER_HOME$/projects/pysegbase/pysegbase/seed_editor_qt.py" />
       <jump line="1406" column="8" filename="$USER_HOME$/projects/pysegbase/pysegbase/seed_editor_qt.py" />
       <jump line="1366" column="8" filename="$USER_HOME$/projects/pysegbase/pysegbase/seed_editor_qt.py" />
       <jump line="310" column="8" filename="$USER_HOME$/projects/pysegbase/pysegbase/seed_editor_qt.py" />
@@ -946,6 +936,7 @@
       <jump line="361" column="8" filename="$USER_HOME$/projects/sobo/sobo/psongbook.py" />
       <jump line="186" column="4" filename="$USER_HOME$/projects/sobo/sobo/psongbook.py" />
       <jump line="68" column="4" filename="$USER_HOME$/projects/sobo/sobo/songparser.py" />
+      <jump line="325" column="9" filename="$USER_HOME$/projects/lisa/lisa/virtual_resection.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -955,7 +946,7 @@
         <text>text</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzb25nX3dpdGhvdXRfY2hvcmRzXD4=</text>
+        <text>edt</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy1kJywgJy0tZGVidWcnLCBhY3Rpb249J3N0b3JlX3RydWUnKQo=</text>
@@ -992,15 +983,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzb25nX3dpdGhvdXRfY2hvcmRzXD4=</last-search>
+      <last-search>edt</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzb25nX3dpdGhvdXRfY2hvcmRzXD4=</last-pattern>
+      <last-pattern>edt</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>err</entry>
         <entry>error</entry>
         <entry encoding="base64">XDxkZWxldGVTbGljZVNlZWRzXD4=</entry>
         <entry encoding="base64">XDx0cmFpbl9saXZlcl9tb2RlbF9mcm9tX3NsaXZlcl9kYXRhXD4=</entry>
@@ -1020,6 +1010,7 @@
         <entry encoding="base64">XDxzbmdia190b19maWxlXD4=</entry>
         <entry encoding="base64">XDxnZW50ZXhmaWxlXD4=</entry>
         <entry encoding="base64">XDxzb25nX3dpdGhvdXRfY2hvcmRzXD4=</entry>
+        <entry>edt</entry>
       </history-search>
       <history-cmd>
         <entry>291</entry>
