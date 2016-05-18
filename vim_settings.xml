@@ -386,12 +386,12 @@
         <mark key="^" line="0" column="40" />
         <mark key="." line="0" column="40" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/virtual_resection.py" timestamp="1463563468548">
+      <file name="$USER_HOME$/projects/lisa/lisa/virtual_resection.py" timestamp="1463567380565">
         <mark key="'" line="328" column="9" />
-        <mark key="[" line="220" column="15" />
-        <mark key="]" line="220" column="16" />
-        <mark key="^" line="220" column="16" />
-        <mark key="." line="220" column="16" />
+        <mark key="[" line="221" column="0" />
+        <mark key="]" line="221" column="0" />
+        <mark key="^" line="221" column="32" />
+        <mark key="." line="221" column="0" />
       </file>
       <file name="$USER_HOME$/projects/quanta/requirements_pip.txt" timestamp="1446724903102">
         <mark key="[" line="4" column="0" />
@@ -924,8 +924,8 @@
       <jump line="325" column="9" filename="$USER_HOME$/projects/lisa/lisa/virtual_resection.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -936,32 +936,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy1kJywgJy0tZGVidWcnLCBhY3Rpb249J3N0b3JlX3RydWUnKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="3" type="4">
-        <text>-c jakirkham -c jmargeta</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="4" type="4">
-        <text>text</text>
+        <text>-c jakirkham -c jmargeta</text>
       </register>
       <register name="5" type="4">
-        <text>debug</text>
+        <text>text</text>
       </register>
       <register name="6" type="4">
-        <text>remove_chords</text>
+        <text>debug</text>
       </register>
       <register name="7" type="4">
-        <text>o</text>
+        <text>remove_chords</text>
       </register>
       <register name="8" type="4">
-        <text>n</text>
+        <text>o</text>
       </register>
       <register name="9" type="4">
-        <text>o</text>
+        <text>n</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
