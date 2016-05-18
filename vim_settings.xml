@@ -81,6 +81,13 @@
         <mark key="^" line="40" column="23" />
         <mark key="." line="38" column="69" />
       </file>
+      <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1463601051110">
+        <mark key="'" line="864" column="8" />
+        <mark key="[" line="281" column="28" />
+        <mark key="]" line="281" column="31" />
+        <mark key="." line="281" column="31" />
+        <mark key="^" line="281" column="31" />
+      </file>
       <file name="$USER_HOME$/projects/lisa/tests/liver_segmentation_cerveny_test.py" timestamp="1449487905152">
         <mark key="[" line="30" column="23" />
         <mark key="]" line="30" column="29" />
@@ -822,9 +829,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1366" column="8" filename="$USER_HOME$/projects/pysegbase/pysegbase/seed_editor_qt.py" />
-      <jump line="310" column="8" filename="$USER_HOME$/projects/pysegbase/pysegbase/seed_editor_qt.py" />
-      <jump line="318" column="19" filename="$USER_HOME$/projects/pysegbase/pysegbase/seed_editor_qt.py" />
       <jump line="320" column="22" filename="$USER_HOME$/projects/pysegbase/pysegbase/seed_editor_qt.py" />
       <jump line="1408" column="0" filename="$USER_HOME$/projects/pysegbase/pysegbase/seed_editor_qt.py" />
       <jump line="19" column="0" filename="$USER_HOME$/projects/pysegbase/pysegbase/seed_editor_qt.py" />
@@ -922,62 +926,63 @@
       <jump line="68" column="4" filename="$USER_HOME$/projects/sobo/sobo/songparser.py" />
       <jump line="325" column="9" filename="$USER_HOME$/projects/lisa/lisa/virtual_resection.py" />
       <jump line="137" column="29" filename="$USER_HOME$/projects/lisa/lisa/virtual_resection.py" />
+      <jump line="507" column="35" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="278" column="38" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="863" column="8" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>sampling</text>
+        <text>False</text>
       </register>
       <register name="-" type="4">
-        <text>sampling</text>
+        <text>False</text>
       </register>
       <register name="/" type="4">
-        <text>edt</text>
+        <text encoding="base64">XDxidG5TYXZlUG9ydGFsVmVpblRyZWVcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>skfmm.distance</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBidG5fc3Zwdi5zZXRFbmFibGVkKEZhbHNlKQo=</text>
       </register>
       <register name="1" type="4">
-        <text>sampling</text>
+        <text>False</text>
       </register>
       <register name="2" type="4">
         <text>sampling</text>
       </register>
       <register name="3" type="4">
-        <text>scipy.ndimage.distance_transform_edt</text>
+        <text>sampling</text>
       </register>
       <register name="4" type="4">
-        <text>_transform_edt</text>
+        <text>scipy.ndimage.distance_transform_edt</text>
       </register>
       <register name="5" type="4">
-        <text>.</text>
+        <text>_transform_edt</text>
       </register>
       <register name="6" type="4">
-        <text>ndimage</text>
+        <text>.</text>
       </register>
       <register name="7" type="4">
-        <text>s</text>
+        <text>ndimage</text>
       </register>
       <register name="8" type="4">
-        <text>cipy</text>
+        <text>s</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
+      <register name="9" type="4">
+        <text>cipy</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>edt</last-search>
+      <last-search encoding="base64">XDxidG5TYXZlUG9ydGFsVmVpblRyZWVcPg==</last-search>
       <last-offset />
-      <last-pattern>edt</last-pattern>
+      <last-pattern encoding="base64">XDxidG5TYXZlUG9ydGFsVmVpblRyZWVcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>error</entry>
-        <entry encoding="base64">XDxkZWxldGVTbGljZVNlZWRzXD4=</entry>
         <entry encoding="base64">XDx0cmFpbl9saXZlcl9tb2RlbF9mcm9tX3NsaXZlcl9kYXRhXD4=</entry>
         <entry encoding="base64">XDxzbGFiXD4=</entry>
         <entry>resize</entry>
@@ -996,6 +1001,8 @@
         <entry encoding="base64">XDxnZW50ZXhmaWxlXD4=</entry>
         <entry encoding="base64">XDxzb25nX3dpdGhvdXRfY2hvcmRzXD4=</entry>
         <entry>edt</entry>
+        <entry>Save PV</entry>
+        <entry encoding="base64">XDxidG5TYXZlUG9ydGFsVmVpblRyZWVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>291</entry>
