@@ -386,12 +386,12 @@
         <mark key="^" line="0" column="40" />
         <mark key="." line="0" column="40" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/virtual_resection.py" timestamp="1463567993205">
+      <file name="$USER_HOME$/projects/lisa/lisa/virtual_resection.py" timestamp="1463568699222">
         <mark key="'" line="137" column="29" />
-        <mark key="[" line="220" column="17" />
-        <mark key="]" line="221" column="70" />
-        <mark key="^" line="221" column="70" />
-        <mark key="." line="221" column="70" />
+        <mark key="[" line="226" column="8" />
+        <mark key="]" line="226" column="9" />
+        <mark key="^" line="226" column="9" />
+        <mark key="." line="226" column="9" />
       </file>
       <file name="$USER_HOME$/projects/quanta/requirements_pip.txt" timestamp="1446724903102">
         <mark key="[" line="4" column="0" />
@@ -924,44 +924,44 @@
       <jump line="137" column="29" filename="$USER_HOME$/projects/lisa/lisa/virtual_resection.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
+      <register name="&quot;" type="4">
+        <text>sampling</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>sampling</text>
       </register>
       <register name="/" type="4">
         <text>edt</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy1kJywgJy0tZGVidWcnLCBhY3Rpb249J3N0b3JlX3RydWUnKQo=</text>
+      <register name="0" type="4">
+        <text>skfmm.distance</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
+      <register name="1" type="4">
+        <text>sampling</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+        <text>sampling</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+        <text>scipy.ndimage.distance_transform_edt</text>
       </register>
       <register name="4" type="4">
-        <text>-c jakirkham -c jmargeta</text>
+        <text>_transform_edt</text>
       </register>
       <register name="5" type="4">
-        <text>text</text>
+        <text>.</text>
       </register>
       <register name="6" type="4">
-        <text>debug</text>
+        <text>ndimage</text>
       </register>
       <register name="7" type="4">
-        <text>remove_chords</text>
+        <text>s</text>
       </register>
       <register name="8" type="4">
-        <text>o</text>
+        <text>cipy</text>
       </register>
-      <register name="9" type="4">
-        <text>n</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
