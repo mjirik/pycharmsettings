@@ -234,11 +234,11 @@
         <mark key="^" line="1" column="12" />
         <mark key="." line="1" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/show_segmentation.py" timestamp="1448825047835">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="14" />
-        <mark key="^" line="19" column="14" />
-        <mark key="." line="19" column="14" />
+      <file name="$USER_HOME$/projects/lisa/lisa/show_segmentation.py" timestamp="1463608329776">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="56" />
+        <mark key="^" line="43" column="7" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/projects/quantan/quantan/histology_report.py" timestamp="1452186060856">
         <mark key="[" line="269" column="34" />
@@ -928,44 +928,44 @@
       <jump line="278" column="38" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>False</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBtZXNoX2RhdGEuY29vcnMgPSBzZWcyZmVtLnNtb290aF9tZXNoKG1lc2hfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>False</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxidG5TYXZlUG9ydGFsVmVpblRyZWVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBidG5fc3Zwdi5zZXRFbmFibGVkKEZhbHNlKQo=</text>
+        <text encoding="base64">ICAgICAgICBtZXNoX2RhdGEuY29vcnMgPSBzZWcyZmVtLnNtb290aF9tZXNoKG1lc2hfZGF0YSkK</text>
       </register>
       <register name="1" type="4">
-        <text>False</text>
+        <text>#</text>
       </register>
       <register name="2" type="4">
-        <text>sampling</text>
+        <text>)</text>
       </register>
       <register name="3" type="4">
-        <text>sampling</text>
+        <text>False</text>
       </register>
       <register name="4" type="4">
-        <text>scipy.ndimage.distance_transform_edt</text>
+        <text>sampling</text>
       </register>
       <register name="5" type="4">
-        <text>_transform_edt</text>
+        <text>sampling</text>
       </register>
       <register name="6" type="4">
-        <text>.</text>
+        <text>scipy.ndimage.distance_transform_edt</text>
       </register>
       <register name="7" type="4">
-        <text>ndimage</text>
+        <text>_transform_edt</text>
       </register>
       <register name="8" type="4">
-        <text>s</text>
+        <text>.</text>
       </register>
       <register name="9" type="4">
-        <text>cipy</text>
+        <text>ndimage</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
