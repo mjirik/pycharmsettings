@@ -175,11 +175,11 @@
         <mark key="^" line="65" column="17" />
         <mark key="." line="27" column="22" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/installer.bat" timestamp="1448389020321">
-        <mark key="[" line="5" column="35" />
-        <mark key="]" line="6" column="23" />
-        <mark key="^" line="6" column="23" />
-        <mark key="." line="6" column="23" />
+      <file name="$USER_HOME$/projects/lisa/installer.bat" timestamp="1463557702757">
+        <mark key="[" line="9" column="21" />
+        <mark key="]" line="10" column="35" />
+        <mark key="^" line="10" column="35" />
+        <mark key="." line="10" column="35" />
       </file>
       <file name="$USER_HOME$/projects/disco/disco/__main__.py" timestamp="1463149420737">
         <mark key="[" line="55" column="33" />
@@ -810,11 +810,11 @@
         <mark key="^" line="7" column="27" />
         <mark key="." line="7" column="27" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/install_nosudo.sh" timestamp="1463555555710">
-        <mark key="[" line="8" column="51" />
-        <mark key="]" line="8" column="75" />
-        <mark key="^" line="8" column="75" />
-        <mark key="." line="8" column="75" />
+      <file name="$USER_HOME$/projects/lisa/install_nosudo.sh" timestamp="1463557769445">
+        <mark key="[" line="16" column="56" />
+        <mark key="]" line="19" column="21" />
+        <mark key="^" line="19" column="21" />
+        <mark key="." line="19" column="21" />
       </file>
     </filemarks>
     <jumps>
@@ -921,10 +921,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>text</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>text</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>edt</text>
@@ -933,31 +933,31 @@
         <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy1kJywgJy0tZGVidWcnLCBhY3Rpb249J3N0b3JlX3RydWUnKQo=</text>
       </register>
       <register name="1" type="4">
-        <text>text</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="4">
-        <text>debug</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="3" type="4">
-        <text>remove_chords</text>
+        <text>-c jakirkham -c jmargeta</text>
       </register>
       <register name="4" type="4">
-        <text>o</text>
+        <text>text</text>
       </register>
       <register name="5" type="4">
-        <text>n</text>
+        <text>debug</text>
       </register>
       <register name="6" type="4">
-        <text>o</text>
+        <text>remove_chords</text>
       </register>
       <register name="7" type="4">
-        <text>n</text>
+        <text>o</text>
       </register>
       <register name="8" type="4">
-        <text>t</text>
+        <text>n</text>
       </register>
       <register name="9" type="4">
-        <text>x</text>
+        <text>o</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
