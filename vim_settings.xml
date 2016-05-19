@@ -53,12 +53,12 @@
         <mark key="^" line="31" column="21" />
         <mark key="." line="31" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/imtools/imtools/uiThreshold.py" timestamp="1451854356938">
-        <mark key="'" line="539" column="8" />
-        <mark key="[" line="547" column="30" />
-        <mark key="]" line="547" column="32" />
-        <mark key="^" line="547" column="32" />
-        <mark key="." line="547" column="32" />
+      <file name="$USER_HOME$/projects/imtools/imtools/uiThreshold.py" timestamp="1463659629416">
+        <mark key="'" line="266" column="69" />
+        <mark key="[" line="326" column="39" />
+        <mark key="]" line="326" column="39" />
+        <mark key="^" line="326" column="39" />
+        <mark key="." line="326" column="39" />
       </file>
       <file name="$USER_HOME$/projects/quantan/quantan/quantan.py" timestamp="1451912303686">
         <mark key="a" line="721" column="35" />
@@ -826,7 +826,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="320" column="22" filename="$USER_HOME$/projects/pysegbase/pysegbase/seed_editor_qt.py" />
       <jump line="1408" column="0" filename="$USER_HOME$/projects/pysegbase/pysegbase/seed_editor_qt.py" />
       <jump line="19" column="0" filename="$USER_HOME$/projects/pysegbase/pysegbase/seed_editor_qt.py" />
       <jump line="1410" column="14" filename="$USER_HOME$/projects/pysegbase/pysegbase/seed_editor_qt.py" />
@@ -926,61 +925,61 @@
       <jump line="507" column="35" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="863" column="8" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="278" column="38" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="266" column="69" filename="$USER_HOME$/projects/imtools/imtools/uiThreshold.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBtZXNoX2RhdGEuY29vcnMgPSBzZWcyZmVtLnNtb290aF9tZXNoKG1lc2hfZGF0YSkK</text>
+      <register name="&quot;" type="4">
+        <text>_5</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxidG5TYXZlUG9ydGFsVmVpblRyZWVcPg==</text>
+        <text>+1.0</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBtZXNoX2RhdGEuY29vcnMgPSBzZWcyZmVtLnNtb290aF9tZXNoKG1lc2hfZGF0YSkK</text>
+      <register name="0" type="4">
+        <text>_5</text>
       </register>
       <register name="1" type="4">
-        <text>#</text>
+        <text>1</text>
       </register>
       <register name="2" type="4">
-        <text>)</text>
+        <text>0</text>
       </register>
       <register name="3" type="4">
-        <text>False</text>
-      </register>
-      <register name="4" type="4">
-        <text>sampling</text>
-      </register>
-      <register name="5" type="4">
-        <text>sampling</text>
-      </register>
-      <register name="6" type="4">
-        <text>scipy.ndimage.distance_transform_edt</text>
-      </register>
-      <register name="7" type="4">
-        <text>_transform_edt</text>
-      </register>
-      <register name="8" type="4">
         <text>.</text>
       </register>
+      <register name="4" type="4">
+        <text>0</text>
+      </register>
+      <register name="5" type="4">
+        <text>.</text>
+      </register>
+      <register name="6" type="4">
+        <text>0</text>
+      </register>
+      <register name="7" type="4">
+        <text>.</text>
+      </register>
+      <register name="8" type="4">
+        <text>0</text>
+      </register>
       <register name="9" type="4">
-        <text>ndimage</text>
+        <text>.</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxidG5TYXZlUG9ydGFsVmVpblRyZWVcPg==</last-search>
+      <last-search>+1.0</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxidG5TYXZlUG9ydGFsVmVpblRyZWVcPg==</last-pattern>
+      <last-pattern>+1.0</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0cmFpbl9saXZlcl9tb2RlbF9mcm9tX3NsaXZlcl9kYXRhXD4=</entry>
         <entry encoding="base64">XDxzbGFiXD4=</entry>
         <entry>resize</entry>
         <entry encoding="base64">XDxTRUVEU19DT0xPUlRBQkxFXD4=</entry>
@@ -1000,6 +999,7 @@
         <entry>edt</entry>
         <entry>Save PV</entry>
         <entry encoding="base64">XDxidG5TYXZlUG9ydGFsVmVpblRyZWVcPg==</entry>
+        <entry>+1.0</entry>
       </history-search>
       <history-cmd>
         <entry>291</entry>
