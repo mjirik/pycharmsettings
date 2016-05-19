@@ -59,13 +59,13 @@
         <mark key="]" line="328" column="21" />
         <mark key="." line="328" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1463678071173">
+      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1463678540889">
         <mark key="a" line="1196" column="35" />
         <mark key="'" line="557" column="48" />
-        <mark key="[" line="1204" column="29" />
-        <mark key="]" line="1204" column="28" />
-        <mark key="." line="1204" column="28" />
-        <mark key="^" line="1204" column="28" />
+        <mark key="[" line="1204" column="63" />
+        <mark key="]" line="1204" column="72" />
+        <mark key="." line="1204" column="72" />
+        <mark key="^" line="1204" column="72" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/gen_vtk_tree.py" timestamp="1463677085556">
         <mark key="'" line="133" column="0" />
@@ -887,10 +887,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_</text>
+        <text>label</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>label</text>
       </register>
       <register name="/" type="4">
         <text>vt2_</text>
@@ -899,31 +899,31 @@
         <text encoding="base64">ICAgICAgICBuYXJncz0nPycsCg==</text>
       </register>
       <register name="1" type="4">
-        <text>_</text>
+        <text>label</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1aXJlZD1UcnVlLAo=</text>
+      <register name="2" type="4">
+        <text>_</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICByZXF1aXJlZD1UcnVlLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1aXJlZD1GYWxzZSwK</text>
+        <text encoding="base64">ICAgICAgICByZXF1aXJlZD1UcnVlLAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICByZXF1aXJlZD1GYWxzZSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1aXJlZD1UcnVlLAo=</text>
+        <text encoding="base64">ICAgICAgICByZXF1aXJlZD1GYWxzZSwK</text>
       </register>
-      <register name="7" type="4">
-        <text>True</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICByZXF1aXJlZD1UcnVlLAo=</text>
       </register>
       <register name="8" type="4">
         <text>True</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CgpkZWYgbWFpbigpOgogICAgbG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoKQogICAgbG9nZ2VyLnNldExldmVsKGxvZ2dpbmcuREVCVUcpCiAgICBjaCA9IGxvZ2dpbmcuU3RyZWFtSGFuZGxlcigpCiAgICBsb2dnZXIuYWRkSGFuZGxlcihjaCkKCiAgICBpbmZpbGUgPSBzeXMuYXJndlsxXQogICAgaWYgbGVuKHN5cy5hcmd2KSA+PSAzOgogICAgICAgIG91dGZpbGUgPSBzeXMuYXJndlsyXQoKICAgIGVsc2U6CiAgICAgICAgb3V0ZmlsZSA9ICdvdXRwdXQudnRrJwoKICAgIGltcG9ydCBpbXRvb2xzLmdlbl92dGtfdHJlZQogICAgaW10b29scy5nZW5fdnRrX3RyZWUudnRfZmlsZV8yX3Z0a19maWxlKGluZmlsZSwgb3V0ZmlsZSkKCiAgICAjIHlhbWxfZmlsZSA9IG9wZW4oaW5maWxlLCAncicpCiAgICAjIHRyZWVfcmF3X2RhdGEgPSB5YW1sLmxvYWQoeWFtbF9maWxlKQogICAgIwogICAgIyBpZiAnZ3JhcGgnIGluIHRyZWVfcmF3X2RhdGE6CiAgICAjICAgICB0cmVlcyA9IHRyZWVfcmF3X2RhdGFbJ2dyYXBoJ10KICAgICMgZWxzZToKICAgICMgICAgIHRyZWVzID0gdHJlZV9yYXdfZGF0YVsnR3JhcGgnXQogICAgIwogICAgIyB0a2V5cyA9IHRyZWVzLmtleXMoKQogICAgIwogICAgIyB0cmVlX2RhdGEgPSBwcm9jZXNzX3RyZWUodHJlZXNbdGtleXNbMF1dKQogICAgIyAjIHRyeToKICAgICMgIyAgICAgdHJlZXMgPSBwcm9jZXNzX3RyZWUodHJlZV9yYXdfZGF0YVsnZ3JhcGgnXVsncG9ydGEnXSkKICAgICMgIyBleGNlcHQ6CiAgICAjICMgICAgID0gcHJvY2Vzc190cmVlKHRyZWVfcmF3X2RhdGFbJ0dyYXBoJ11bJ3BvcnRhJ10pCiAgICAjIHBvbHlEYXRhID0gZ2VuX3RyZWUodHJlZV9kYXRhKQogICAgIwogICAgIyB3cml0ZXIgPSB2dGsudnRrUG9seURhdGFXcml0ZXIoKQogICAgIyB3cml0ZXIuU2V0RmlsZU5hbWUob3V0ZmlsZSkKICAgICMgd3JpdGVyLlNldElucHV0KHBvbHlEYXRhKQogICAgIyB3cml0ZXIuV3JpdGUoKQoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIG1haW4oKQo=</text>
+      <register name="9" type="4">
+        <text>True</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -973,8 +973,8 @@
         <entry>166</entry>
         <entry>e</entry>
         <entry>292</entry>
-        <entry>q</entry>
         <entry>W</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
