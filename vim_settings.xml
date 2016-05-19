@@ -59,19 +59,20 @@
         <mark key="]" line="328" column="21" />
         <mark key="." line="328" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1463675724342">
+      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1463676630468">
         <mark key="a" line="1194" column="35" />
         <mark key="'" line="1238" column="9" />
-        <mark key="[" line="1203" column="58" />
-        <mark key="]" line="1203" column="66" />
-        <mark key="." line="1203" column="66" />
+        <mark key="[" line="1202" column="31" />
+        <mark key="]" line="1202" column="31" />
+        <mark key="." line="1202" column="31" />
         <mark key="^" line="1203" column="66" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/gen_vtk_tree.py" timestamp="1463670880185">
-        <mark key="[" line="149" column="24" />
-        <mark key="]" line="149" column="43" />
-        <mark key="^" line="149" column="43" />
-        <mark key="." line="149" column="43" />
+      <file name="$USER_HOME$/projects/lisa/lisa/gen_vtk_tree.py" timestamp="1463676817954">
+        <mark key="'" line="133" column="0" />
+        <mark key="[" line="164" column="17" />
+        <mark key="]" line="164" column="21" />
+        <mark key="^" line="164" column="21" />
+        <mark key="." line="164" column="21" />
       </file>
       <file name="$USER_HOME$/projects/sed3/README.md" timestamp="1453293282274">
         <mark key="[" line="38" column="68" />
@@ -335,12 +336,12 @@
         <mark key="^" line="20" column="38" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/imtools/imtools/gen_vtk_tree.py" timestamp="1463675449830">
+      <file name="$USER_HOME$/projects/imtools/imtools/gen_vtk_tree.py" timestamp="1463676827591">
         <mark key="'" line="10" column="9" />
-        <mark key="[" line="150" column="0" />
-        <mark key="]" line="150" column="0" />
-        <mark key="." line="150" column="0" />
-        <mark key="^" line="163" column="64" />
+        <mark key="[" line="210" column="17" />
+        <mark key="]" line="210" column="21" />
+        <mark key="." line="210" column="21" />
+        <mark key="^" line="210" column="21" />
       </file>
       <file name="$USER_HOME$/projects/skelet3d/skelet3d/libfixer.py" timestamp="1463602253123">
         <mark key="." line="85" column="0" />
@@ -783,8 +784,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1201" column="26" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
-      <jump line="1262" column="19" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="1293" column="19" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="1355" column="9" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="1365" column="41" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
@@ -883,46 +882,48 @@
       <jump line="164" column="0" filename="$USER_HOME$/projects/imtools/imtools/gen_vtk_tree.py" />
       <jump line="10" column="9" filename="$USER_HOME$/projects/imtools/imtools/gen_vtk_tree.py" />
       <jump line="1230" column="9" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="11" column="0" filename="$USER_HOME$/projects/lisa/lisa/gen_vtk_tree.py" />
+      <jump line="133" column="0" filename="$USER_HOME$/projects/lisa/lisa/gen_vtk_tree.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>True</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>True</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxidXR0b25NaW5OZXh0NVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoJ3N0YXJ0IHRvIGdlbmVyYXRlIHZ0ayBmaWxlIGZyb20gdmVzc2VsX3RyZWUnKQo=</text>
+        <text encoding="base64">ICAgIGltcG9ydCBpbXRvb2xzLmdlbl92dGtfdHJlZQo=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+        <text>True</text>
       </register>
       <register name="2" type="4">
-        <text>o</text>
+        <text>True</text>
       </register>
-      <register name="3" type="4">
-        <text>t</text>
+      <register name="3" type="2">
+        <text encoding="base64">CgpkZWYgbWFpbigpOgogICAgbG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoKQogICAgbG9nZ2VyLnNldExldmVsKGxvZ2dpbmcuREVCVUcpCiAgICBjaCA9IGxvZ2dpbmcuU3RyZWFtSGFuZGxlcigpCiAgICBsb2dnZXIuYWRkSGFuZGxlcihjaCkKCiAgICBpbmZpbGUgPSBzeXMuYXJndlsxXQogICAgaWYgbGVuKHN5cy5hcmd2KSA+PSAzOgogICAgICAgIG91dGZpbGUgPSBzeXMuYXJndlsyXQoKICAgIGVsc2U6CiAgICAgICAgb3V0ZmlsZSA9ICdvdXRwdXQudnRrJwoKICAgIGltcG9ydCBpbXRvb2xzLmdlbl92dGtfdHJlZQogICAgaW10b29scy5nZW5fdnRrX3RyZWUudnRfZmlsZV8yX3Z0a19maWxlKGluZmlsZSwgb3V0ZmlsZSkKCiAgICAjIHlhbWxfZmlsZSA9IG9wZW4oaW5maWxlLCAncicpCiAgICAjIHRyZWVfcmF3X2RhdGEgPSB5YW1sLmxvYWQoeWFtbF9maWxlKQogICAgIwogICAgIyBpZiAnZ3JhcGgnIGluIHRyZWVfcmF3X2RhdGE6CiAgICAjICAgICB0cmVlcyA9IHRyZWVfcmF3X2RhdGFbJ2dyYXBoJ10KICAgICMgZWxzZToKICAgICMgICAgIHRyZWVzID0gdHJlZV9yYXdfZGF0YVsnR3JhcGgnXQogICAgIwogICAgIyB0a2V5cyA9IHRyZWVzLmtleXMoKQogICAgIwogICAgIyB0cmVlX2RhdGEgPSBwcm9jZXNzX3RyZWUodHJlZXNbdGtleXNbMF1dKQogICAgIyAjIHRyeToKICAgICMgIyAgICAgdHJlZXMgPSBwcm9jZXNzX3RyZWUodHJlZV9yYXdfZGF0YVsnZ3JhcGgnXVsncG9ydGEnXSkKICAgICMgIyBleGNlcHQ6CiAgICAjICMgICAgID0gcHJvY2Vzc190cmVlKHRyZWVfcmF3X2RhdGFbJ0dyYXBoJ11bJ3BvcnRhJ10pCiAgICAjIHBvbHlEYXRhID0gZ2VuX3RyZWUodHJlZV9kYXRhKQogICAgIwogICAgIyB3cml0ZXIgPSB2dGsudnRrUG9seURhdGFXcml0ZXIoKQogICAgIyB3cml0ZXIuU2V0RmlsZU5hbWUob3V0ZmlsZSkKICAgICMgd3JpdGVyLlNldElucHV0KHBvbHlEYXRhKQogICAgIyB3cml0ZXIuV3JpdGUoKQoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIG1haW4oKQo=</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">c3RhcnQg</text>
+        <text>_</text>
       </register>
       <register name="5" type="4">
         <text>e</text>
       </register>
       <register name="6" type="4">
-        <text>e</text>
+        <text>l</text>
       </register>
       <register name="7" type="4">
-        <text>r</text>
+        <text>i</text>
       </register>
       <register name="8" type="4">
-        <text>_</text>
+        <text>f</text>
       </register>
       <register name="9" type="4">
-        <text>l</text>
+        <text>_</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
