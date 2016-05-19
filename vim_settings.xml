@@ -59,13 +59,13 @@
         <mark key="]" line="328" column="21" />
         <mark key="." line="328" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1463674942989">
+      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1463675724342">
         <mark key="a" line="1194" column="35" />
-        <mark key="'" line="1234" column="9" />
-        <mark key="[" line="1198" column="35" />
-        <mark key="]" line="1198" column="34" />
-        <mark key="." line="1198" column="34" />
-        <mark key="^" line="1198" column="34" />
+        <mark key="'" line="1238" column="9" />
+        <mark key="[" line="1203" column="58" />
+        <mark key="]" line="1203" column="66" />
+        <mark key="." line="1203" column="66" />
+        <mark key="^" line="1203" column="66" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/gen_vtk_tree.py" timestamp="1463670880185">
         <mark key="[" line="149" column="24" />
@@ -885,44 +885,44 @@
       <jump line="1230" column="9" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFBhcmFtZXRlcnMKICAgIC0tLS0tLS0tLS0KICAgIGluZmlsZQogICAgb3V0ZmlsZQogICAgdGV4dF9sYWJlbAoKICAgIFJldHVybnMKICAgIC0tLS0tLS0K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>vessel_tree</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxidXR0b25NaW5OZXh0NVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDpwYXJhbSB2ZXNzZWxfdHJlZTogIHZ0IHN0cnVjdHVyZQogICAgOnBhcmFtIG91dGZpbGU6IGZpbGVuYW1lIHdpdGggLnZ0ayBleHRlbnNpb24KICAgIDpwYXJhbSB0ZXh0X2xhYmVsOiB0ZXh0IGxhYmVsIGxpa2UgJ3BvcnRhJyBvciAnaGVwYXRpY192ZWlucycKICAgIDpyZXR1cm46Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoJ3N0YXJ0IHRvIGdlbmVyYXRlIHZ0ayBmaWxlIGZyb20gdmVzc2VsX3RyZWUnKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIFBhcmFtZXRlcnMKICAgIC0tLS0tLS0tLS0KICAgIGluZmlsZQogICAgb3V0ZmlsZQogICAgdGV4dF9sYWJlbAoKICAgIFJldHVybnMKICAgIC0tLS0tLS0K</text>
+      <register name="1" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICMgdHJ5OgogICAgIyAgICAgdHJlZXMgPSBwcm9jZXNzX3RyZWUodHJlZV9yYXdfZGF0YVsnZ3JhcGgnXVsncG9ydGEnXSkKICAgICMgZXhjZXB0OgogICAgIyAgICAgPSBwcm9jZXNzX3RyZWUodHJlZV9yYXdfZGF0YVsnR3JhcGgnXVsncG9ydGEnXSkK</text>
+      <register name="2" type="4">
+        <text>o</text>
       </register>
       <register name="3" type="4">
-        <text>vessel_tree</text>
+        <text>t</text>
       </register>
       <register name="4" type="4">
-        <text>tree_raw_data</text>
+        <text encoding="base64">c3RhcnQg</text>
       </register>
       <register name="5" type="4">
-        <text>tree_raw_data</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICd2dF8nICsgdGV4dExhYmVsICsgJy55YW1sJw==</text>
-      </register>
-      <register name="7" type="4">
         <text>e</text>
       </register>
+      <register name="6" type="4">
+        <text>e</text>
+      </register>
+      <register name="7" type="4">
+        <text>r</text>
+      </register>
       <register name="8" type="4">
-        <text>MAIN</text>
+        <text>_</text>
       </register>
       <register name="9" type="4">
-        <text>tkeys[0]</text>
+        <text>l</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
