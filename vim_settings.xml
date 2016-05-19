@@ -335,12 +335,12 @@
         <mark key="^" line="20" column="38" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/imtools/imtools/gen_vtk_tree.py" timestamp="1463675262599">
+      <file name="$USER_HOME$/projects/imtools/imtools/gen_vtk_tree.py" timestamp="1463675449830">
         <mark key="'" line="10" column="9" />
-        <mark key="[" line="170" column="0" />
-        <mark key="]" line="170" column="0" />
-        <mark key="." line="170" column="0" />
-        <mark key="^" line="162" column="37" />
+        <mark key="[" line="150" column="0" />
+        <mark key="]" line="150" column="0" />
+        <mark key="." line="150" column="0" />
+        <mark key="^" line="163" column="64" />
       </file>
       <file name="$USER_HOME$/projects/skelet3d/skelet3d/libfixer.py" timestamp="1463602253123">
         <mark key="." line="85" column="0" />
@@ -886,7 +886,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICMgdHJ5OgogICAgIyAgICAgdHJlZXMgPSBwcm9jZXNzX3RyZWUodHJlZV9yYXdfZGF0YVsnZ3JhcGgnXVsncG9ydGEnXSkKICAgICMgZXhjZXB0OgogICAgIyAgICAgPSBwcm9jZXNzX3RyZWUodHJlZV9yYXdfZGF0YVsnR3JhcGgnXVsncG9ydGEnXSkK</text>
+        <text encoding="base64">ICAgIFBhcmFtZXRlcnMKICAgIC0tLS0tLS0tLS0KICAgIGluZmlsZQogICAgb3V0ZmlsZQogICAgdGV4dF9sYWJlbAoKICAgIFJldHVybnMKICAgIC0tLS0tLS0K</text>
       </register>
       <register name="-" type="4">
         <text>vessel_tree</text>
@@ -895,34 +895,34 @@
         <text encoding="base64">XDxidXR0b25NaW5OZXh0NVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoJ3NhdmUgdmVzc2VsIHRyZWUgdG8gZmlsZScpCg==</text>
+        <text encoding="base64">ICAgIDpwYXJhbSB2ZXNzZWxfdHJlZTogIHZ0IHN0cnVjdHVyZQogICAgOnBhcmFtIG91dGZpbGU6IGZpbGVuYW1lIHdpdGggLnZ0ayBleHRlbnNpb24KICAgIDpwYXJhbSB0ZXh0X2xhYmVsOiB0ZXh0IGxhYmVsIGxpa2UgJ3BvcnRhJyBvciAnaGVwYXRpY192ZWlucycKICAgIDpyZXR1cm46Cg==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgIFBhcmFtZXRlcnMKICAgIC0tLS0tLS0tLS0KICAgIGluZmlsZQogICAgb3V0ZmlsZQogICAgdGV4dF9sYWJlbAoKICAgIFJldHVybnMKICAgIC0tLS0tLS0K</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICMgdHJ5OgogICAgIyAgICAgdHJlZXMgPSBwcm9jZXNzX3RyZWUodHJlZV9yYXdfZGF0YVsnZ3JhcGgnXVsncG9ydGEnXSkKICAgICMgZXhjZXB0OgogICAgIyAgICAgPSBwcm9jZXNzX3RyZWUodHJlZV9yYXdfZGF0YVsnR3JhcGgnXVsncG9ydGEnXSkK</text>
       </register>
-      <register name="2" type="4">
-        <text>vessel_tree</text>
-      </register>
       <register name="3" type="4">
-        <text>tree_raw_data</text>
+        <text>vessel_tree</text>
       </register>
       <register name="4" type="4">
         <text>tree_raw_data</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">ICd2dF8nICsgdGV4dExhYmVsICsgJy55YW1sJw==</text>
+        <text>tree_raw_data</text>
       </register>
       <register name="6" type="4">
-        <text>e</text>
+        <text encoding="base64">ICd2dF8nICsgdGV4dExhYmVsICsgJy55YW1sJw==</text>
       </register>
       <register name="7" type="4">
-        <text>MAIN</text>
+        <text>e</text>
       </register>
       <register name="8" type="4">
-        <text>tkeys[0]</text>
+        <text>MAIN</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmIHRleHRfbGFiZWwgaXMgTm9uZToKICAgICAgICB0ZXh0X2xhYmVsID0gCg==</text>
+      <register name="9" type="4">
+        <text>tkeys[0]</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
