@@ -60,12 +60,12 @@
         <mark key="." line="675" column="38" />
         <mark key="^" line="636" column="39" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1463660917088">
+      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1463663234380">
         <mark key="'" line="1418" column="9" />
-        <mark key="[" line="103" column="0" />
-        <mark key="]" line="104" column="78" />
-        <mark key="." line="103" column="0" />
-        <mark key="^" line="746" column="100" />
+        <mark key="[" line="1194" column="46" />
+        <mark key="]" line="1194" column="47" />
+        <mark key="." line="1194" column="47" />
+        <mark key="^" line="1194" column="62" />
       </file>
       <file name="$USER_HOME$/projects/sed3/README.md" timestamp="1453293282274">
         <mark key="[" line="38" column="68" />
@@ -73,12 +73,12 @@
         <mark key="^" line="40" column="23" />
         <mark key="." line="38" column="69" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1463606241376">
-        <mark key="'" line="278" column="38" />
-        <mark key="[" line="281" column="28" />
-        <mark key="]" line="281" column="31" />
-        <mark key="." line="281" column="31" />
-        <mark key="^" line="281" column="31" />
+      <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1463663496278">
+        <mark key="'" line="870" column="8" />
+        <mark key="[" line="289" column="28" />
+        <mark key="]" line="289" column="31" />
+        <mark key="." line="289" column="31" />
+        <mark key="^" line="289" column="31" />
       </file>
       <file name="$USER_HOME$/projects/lisa/tests/liver_segmentation_cerveny_test.py" timestamp="1449487905152">
         <mark key="[" line="30" column="23" />
@@ -770,8 +770,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="31" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
-      <jump line="48" column="25" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="149" column="33" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="153" column="8" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="162" column="53" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
@@ -870,62 +868,62 @@
       <jump line="1100" column="18" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
       <jump line="1036" column="18" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
       <jump line="1079" column="18" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
+      <jump line="286" column="38" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="869" column="8" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBjdjIKICAgIGlmIGludGVyIGlzIE5vbmU6CiAgICAgICAgaW50ZXI9Y3YyLklOVEVSX0FSRUEK</text>
+      <register name="&quot;" type="4">
+        <text>False</text>
       </register>
       <register name="-" type="4">
-        <text>cv2.INTER_AREA</text>
+        <text>False</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxJTlRFUl9BUkVBXD4=</text>
+        <text encoding="base64">XDxidG5TYXZlSGVwYXRpY1ZlaW5zVHJlZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBjdjIKICAgIGlmIGludGVyIGlzIE5vbmU6CiAgICAgICAgaW50ZXI9Y3YyLklOVEVSX0FSRUEK</text>
+        <text encoding="base64">ICAgICAgICBidG5fc3Zodi5zZXRFbmFibGVkKEZhbHNlKQo=</text>
       </register>
       <register name="1" type="4">
-        <text>cv2.INTER_AREA</text>
+        <text>False</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHlpZWxkIGltYWdlCg==</text>
+      <register name="2" type="4">
+        <text>e</text>
       </register>
       <register name="3" type="4">
-        <text>cv2.INTER_AREA</text>
+        <text>e</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGN2Mgo=</text>
+      <register name="4" type="4">
+        <text>r</text>
       </register>
       <register name="5" type="4">
-        <text>cv2.INTER_AREA</text>
+        <text>_</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGRpY29tCg==</text>
+      <register name="6" type="4">
+        <text>l</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>e</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmLm1heDAgPCAoc2VsZi5zbWluLnZhbCArIDEuMCk6CgogICAgICAgICAgICBzZWxmLnNtaW4udmFsID0gc2VsZi5tYXgwCgogICAgICAgIGVsc2U6CgogICAgICAgICAgICBzZWxmLnNtaW4udmFsICs9IDEuMAoKICAgICAgICBzZWxmLnNtaW4udmFsID0gKG51bXB5LnJvdW5kKHNlbGYuc21pbi52YWwsIDIpKQogICAgICAgIHNlbGYuc21pbi52YWx0ZXh0LnNldF90ZXh0KCd7fScuZm9ybWF0KHNlbGYuc21pbi52YWwpKQogICAgICAgIHNlbGYuZmlnLmNhbnZhcy5kcmF3KCkKICAgICAgICBzZWxmLnVwZGF0ZUltYWdlKDApCg==</text>
+      <register name="8" type="4">
+        <text>s</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>s</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxJTlRFUl9BUkVBXD4=</last-search>
+      <last-search encoding="base64">XDxidG5TYXZlSGVwYXRpY1ZlaW5zVHJlZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxJTlRFUl9BUkVBXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxidG5TYXZlSGVwYXRpY1ZlaW5zVHJlZVw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb21wb3NlUmdiYVw+</entry>
-        <entry>itk</entry>
         <entry>put</entry>
         <entry>get</entry>
         <entry>remov</entry>
@@ -944,6 +942,8 @@
         <entry>resize</entry>
         <entry encoding="base64">XDxyZXNpemVcPg==</entry>
         <entry encoding="base64">XDxJTlRFUl9BUkVBXD4=</entry>
+        <entry>Save HV</entry>
+        <entry encoding="base64">XDxidG5TYXZlSGVwYXRpY1ZlaW5zVHJlZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>291</entry>
