@@ -59,12 +59,13 @@
         <mark key="]" line="328" column="21" />
         <mark key="." line="328" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1463671064238">
-        <mark key="'" line="1419" column="9" />
-        <mark key="[" line="1192" column="24" />
-        <mark key="]" line="1194" column="30" />
-        <mark key="." line="1194" column="30" />
-        <mark key="^" line="1194" column="30" />
+      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1463674942989">
+        <mark key="a" line="1194" column="35" />
+        <mark key="'" line="1234" column="9" />
+        <mark key="[" line="1198" column="35" />
+        <mark key="]" line="1198" column="34" />
+        <mark key="." line="1198" column="34" />
+        <mark key="^" line="1198" column="34" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/gen_vtk_tree.py" timestamp="1463670880185">
         <mark key="[" line="149" column="24" />
@@ -334,11 +335,12 @@
         <mark key="^" line="20" column="38" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/imtools/imtools/gen_vtk_tree.py" timestamp="1463669380988">
-        <mark key="[" line="138" column="38" />
-        <mark key="]" line="137" column="8" />
-        <mark key="^" line="137" column="8" />
-        <mark key="." line="137" column="8" />
+      <file name="$USER_HOME$/projects/imtools/imtools/gen_vtk_tree.py" timestamp="1463675262599">
+        <mark key="'" line="10" column="9" />
+        <mark key="[" line="170" column="0" />
+        <mark key="]" line="170" column="0" />
+        <mark key="." line="170" column="0" />
+        <mark key="^" line="162" column="37" />
       </file>
       <file name="$USER_HOME$/projects/skelet3d/skelet3d/libfixer.py" timestamp="1463602253123">
         <mark key="." line="85" column="0" />
@@ -781,9 +783,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1208" column="34" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
-      <jump line="200" column="26" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
-      <jump line="710" column="24" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="1201" column="26" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="1262" column="19" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="1293" column="19" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
@@ -881,47 +880,49 @@
       <jump line="116" column="48" filename="$USER_HOME$/projects/imtools/tests/vessels_segmentation_test.py" />
       <jump line="26" column="8" filename="$USER_HOME$/projects/imtools/tests/vessels_segmentation_test.py" />
       <jump line="361" column="42" filename="$USER_HOME$/projects/imtools/imtools/uiThreshold.py" />
+      <jump line="164" column="0" filename="$USER_HOME$/projects/imtools/imtools/gen_vtk_tree.py" />
+      <jump line="10" column="9" filename="$USER_HOME$/projects/imtools/imtools/gen_vtk_tree.py" />
+      <jump line="1230" column="9" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBRQXBwbGljYXRpb24ucHJvY2Vzc0V2ZW50cygpCg==</text>
+        <text encoding="base64">ICAgICMgdHJ5OgogICAgIyAgICAgdHJlZXMgPSBwcm9jZXNzX3RyZWUodHJlZV9yYXdfZGF0YVsnZ3JhcGgnXVsncG9ydGEnXSkKICAgICMgZXhjZXB0OgogICAgIyAgICAgPSBwcm9jZXNzX3RyZWUodHJlZV9yYXdfZGF0YVsnR3JhcGgnXVsncG9ydGEnXSkK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>vessel_tree</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxidXR0b25NaW5OZXh0NVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBRQXBwbGljYXRpb24ucHJvY2Vzc0V2ZW50cygpCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoJ3NhdmUgdmVzc2VsIHRyZWUgdG8gZmlsZScpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlZiBidXR0b25NaW5VcGRhdGUoc2VsZiwgZXZlbnQsIHZhbHVlKToKCiAgICAgICAgaWYgc2VsZi5taW4wID4gKHNlbGYuc21pbi52YWwgKyB2YWx1ZSk6CiAgICAgICAgICAgIHNlbGYuc21pbi52YWwgPSBzZWxmLm1pbjAKICAgICAgICBlbGlmIHNlbGYubWF4MCA8IChzZWxmLnNtaW4udmFsICsgdmFsdWUpOgogICAgICAgICAgICBzZWxmLnNtaW4udmFsID0gc2VsZi5tYXgwCiAgICAgICAgZWxzZToKICAgICAgICAgICAgc2VsZi5zbWluLnZhbCArPSB2YWx1ZQoKICAgICAgICBzZWxmLnNtaW4udmFsID0gKG51bXB5LnJvdW5kKHNlbGYuc21pbi52YWwsIDIpKQogICAgICAgIHNlbGYuc21pbi52YWx0ZXh0LnNldF90ZXh0KCd7fScuZm9ybWF0KHNlbGYuc21pbi52YWwpKQogICAgICAgIHNlbGYuZmlnLmNhbnZhcy5kcmF3KCkKICAgICAgICBzZWxmLnVwZGF0ZUltYWdlKDApCg==</text>
+        <text encoding="base64">ICAgICMgdHJ5OgogICAgIyAgICAgdHJlZXMgPSBwcm9jZXNzX3RyZWUodHJlZV9yYXdfZGF0YVsnZ3JhcGgnXVsncG9ydGEnXSkKICAgICMgZXhjZXB0OgogICAgIyAgICAgPSBwcm9jZXNzX3RyZWUodHJlZV9yYXdfZGF0YVsnR3JhcGgnXVsncG9ydGEnXSkK</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+        <text>vessel_tree</text>
       </register>
       <register name="3" type="4">
-        <text>:</text>
+        <text>tree_raw_data</text>
       </register>
       <register name="4" type="4">
-        <text>e</text>
+        <text>tree_raw_data</text>
       </register>
       <register name="5" type="4">
-        <text>s</text>
+        <text encoding="base64">ICd2dF8nICsgdGV4dExhYmVsICsgJy55YW1sJw==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5zbWF4LnZhbCArPSB2YWx1ZQo=</text>
+      <register name="6" type="4">
+        <text>e</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+        <text>MAIN</text>
       </register>
       <register name="8" type="4">
-        <text>se:
-            self.smin.val += value</text>
+        <text>tkeys[0]</text>
       </register>
-      <register name="9" type="4">
-        <text>import in function fixed</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGlmIHRleHRfbGFiZWwgaXMgTm9uZToKICAgICAgICB0ZXh0X2xhYmVsID0gCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
