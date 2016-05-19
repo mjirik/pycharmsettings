@@ -441,11 +441,11 @@
         <mark key="^" line="15" column="0" />
         <mark key="." line="16" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/imtools/meta.yaml" timestamp="1463661904621">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="9" />
-        <mark key="^" line="37" column="8" />
-        <mark key="." line="50" column="0" />
+      <file name="$USER_HOME$/projects/imtools/meta.yaml" timestamp="1463662263717">
+        <mark key="[" line="37" column="9" />
+        <mark key="]" line="37" column="11" />
+        <mark key="^" line="37" column="11" />
+        <mark key="." line="37" column="11" />
       </file>
       <file name="$USER_HOME$/projects/sed3/requirements_conda.txt" timestamp="1454930331485">
         <mark key="[" line="3" column="0" />
@@ -521,12 +521,12 @@
         <mark key="^" line="1" column="16" />
         <mark key="." line="3" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/imtools/imtools/tools.py" timestamp="1463661244528">
-        <mark key="'" line="1094" column="14" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="1092" column="13" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/projects/imtools/imtools/tools.py" timestamp="1463662647344">
+        <mark key="'" line="486" column="38" />
+        <mark key="[" line="1033" column="55" />
+        <mark key="]" line="1034" column="13" />
+        <mark key="^" line="1034" column="13" />
+        <mark key="." line="1034" column="13" />
       </file>
       <file name="$USER_HOME$/projects/imtools/imtools/misc.py" timestamp="1453384608424">
         <mark key="'" line="238" column="4" />
@@ -721,7 +721,7 @@
         <mark key="^" line="170" column="30" />
         <mark key="." line="170" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1463661537488">
+      <file name="/Dummy.txt" timestamp="1463662266354">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/io3d/io3d/misc.py" timestamp="1453295785375">
@@ -770,10 +770,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="848" column="8" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
-      <jump line="972" column="14" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
-      <jump line="1043" column="22" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
-      <jump line="1240" column="19" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="1303" column="29" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="1379" column="22" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="1396" column="43" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
@@ -848,17 +844,13 @@
       <jump line="258" column="34" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
       <jump line="260" column="15" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
       <jump line="463" column="45" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
-      <jump line="466" column="22" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
-      <jump line="470" column="32" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
       <jump line="472" column="26" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
       <jump line="464" column="11" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
       <jump line="467" column="22" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
       <jump line="471" column="32" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
-      <jump line="473" column="26" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
       <jump line="474" column="100" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
       <jump line="479" column="22" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
       <jump line="484" column="32" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
-      <jump line="486" column="26" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
       <jump line="487" column="100" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
       <jump line="566" column="11" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
       <jump line="585" column="57" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
@@ -870,37 +862,45 @@
       <jump line="1066" column="53" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
       <jump line="1093" column="11" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
       <jump line="1095" column="14" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
+      <jump line="41" column="10" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
+      <jump line="220" column="15" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
+      <jump line="466" column="26" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
+      <jump line="470" column="36" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
+      <jump line="473" column="38" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
+      <jump line="478" column="26" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
+      <jump line="483" column="36" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
+      <jump line="486" column="38" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC0gY3YyCg==</text>
+      <register name="&quot;" type="4">
+        <text>cv2.INTER_AREA</text>
       </register>
       <register name="-" type="4">
         <text>cv2.INTER_AREA</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjdjJcPg==</text>
+        <text encoding="base64">XDxyZXNpemVcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC0gY3YyCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGN2Mgo=</text>
-      </register>
-      <register name="2" type="4">
+      <register name="1" type="4">
         <text>cv2.INTER_AREA</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGRpY29tCg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IGN2Mgo=</text>
+      </register>
+      <register name="3" type="4">
+        <text>cv2.INTER_AREA</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGRpY29tCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmLm1heDAgPCAoc2VsZi5zbWluLnZhbCArIDEuMCk6CgogICAgICAgICAgICBzZWxmLnNtaW4udmFsID0gc2VsZi5tYXgwCgogICAgICAgIGVsc2U6CgogICAgICAgICAgICBzZWxmLnNtaW4udmFsICs9IDEuMAoKICAgICAgICBzZWxmLnNtaW4udmFsID0gKG51bXB5LnJvdW5kKHNlbGYuc21pbi52YWwsIDIpKQogICAgICAgIHNlbGYuc21pbi52YWx0ZXh0LnNldF90ZXh0KCd7fScuZm9ybWF0KHNlbGYuc21pbi52YWwpKQogICAgICAgIHNlbGYuZmlnLmNhbnZhcy5kcmF3KCkKICAgICAgICBzZWxmLnVwZGF0ZUltYWdlKDApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLm1heDAgPCAoc2VsZi5zbWluLnZhbCArIDEuMCk6CgogICAgICAgICAgICBzZWxmLnNtaW4udmFsID0gc2VsZi5tYXgwCgogICAgICAgIGVsc2U6CgogICAgICAgICAgICBzZWxmLnNtaW4udmFsICs9IDEuMAoKICAgICAgICBzZWxmLnNtaW4udmFsID0gKG51bXB5LnJvdW5kKHNlbGYuc21pbi52YWwsIDIpKQogICAgICAgIHNlbGYuc21pbi52YWx0ZXh0LnNldF90ZXh0KCd7fScuZm9ybWF0KHNlbGYuc21pbi52YWwpKQogICAgICAgIHNlbGYuZmlnLmNhbnZhcy5kcmF3KCkKICAgICAgICBzZWxmLnVwZGF0ZUltYWdlKDApCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -916,16 +916,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjdjJcPg==</last-search>
+      <last-search encoding="base64">XDxyZXNpemVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjdjJcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxyZXNpemVcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxDT05UT1VSU19DT0xPUlNcPg==</entry>
-        <entry encoding="base64">XDxDT05UT1VSU19DT0xPUlRBQkxFXD4=</entry>
         <entry encoding="base64">XDxzZWVkc19jb2xvcnRhYmxlXD4=</entry>
         <entry encoding="base64">XDxjb21wb3NlUmdiYVw+</entry>
         <entry>itk</entry>
@@ -944,6 +942,8 @@
         <entry encoding="base64">XDxidXR0b25NYXhQcmV2XD4=</entry>
         <entry encoding="base64">XDxkaWNvbVw+</entry>
         <entry encoding="base64">XDxjdjJcPg==</entry>
+        <entry>resize</entry>
+        <entry encoding="base64">XDxyZXNpemVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>291</entry>
