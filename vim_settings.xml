@@ -521,12 +521,12 @@
         <mark key="^" line="1" column="16" />
         <mark key="." line="3" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/imtools/imtools/tools.py" timestamp="1463662647344">
-        <mark key="'" line="486" column="38" />
-        <mark key="[" line="1033" column="55" />
-        <mark key="]" line="1034" column="13" />
-        <mark key="^" line="1034" column="13" />
-        <mark key="." line="1034" column="13" />
+      <file name="$USER_HOME$/projects/imtools/imtools/tools.py" timestamp="1463662844530">
+        <mark key="'" line="1079" column="18" />
+        <mark key="[" line="1077" column="0" />
+        <mark key="]" line="1079" column="27" />
+        <mark key="^" line="1068" column="56" />
+        <mark key="." line="1068" column="56" />
       </file>
       <file name="$USER_HOME$/projects/imtools/imtools/misc.py" timestamp="1453384608424">
         <mark key="'" line="238" column="4" />
@@ -721,7 +721,7 @@
         <mark key="^" line="170" column="30" />
         <mark key="." line="170" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1463662266354">
+      <file name="/Dummy.txt" timestamp="1463662848116">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/io3d/io3d/misc.py" timestamp="1453295785375">
@@ -770,9 +770,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1303" column="29" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
-      <jump line="1379" column="22" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
-      <jump line="1396" column="43" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="41" column="31" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="48" column="25" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="149" column="33" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
@@ -870,43 +867,46 @@
       <jump line="478" column="26" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
       <jump line="483" column="36" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
       <jump line="486" column="38" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
+      <jump line="1100" column="18" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
+      <jump line="1036" column="18" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
+      <jump line="1079" column="18" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>cv2.INTER_AREA</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGltcG9ydCBjdjIKICAgIGlmIGludGVyIGlzIE5vbmU6CiAgICAgICAgaW50ZXI9Y3YyLklOVEVSX0FSRUEK</text>
       </register>
       <register name="-" type="4">
         <text>cv2.INTER_AREA</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZXNpemVcPg==</text>
+        <text encoding="base64">XDxJTlRFUl9BUkVBXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC0gY3YyCg==</text>
+        <text encoding="base64">ICAgIGltcG9ydCBjdjIKICAgIGlmIGludGVyIGlzIE5vbmU6CiAgICAgICAgaW50ZXI9Y3YyLklOVEVSX0FSRUEK</text>
       </register>
       <register name="1" type="4">
         <text>cv2.INTER_AREA</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGN2Mgo=</text>
+        <text encoding="base64">ICAgIHlpZWxkIGltYWdlCg==</text>
       </register>
       <register name="3" type="4">
         <text>cv2.INTER_AREA</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGRpY29tCg==</text>
+        <text encoding="base64">aW1wb3J0IGN2Mgo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>cv2.INTER_AREA</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmLm1heDAgPCAoc2VsZi5zbWluLnZhbCArIDEuMCk6CgogICAgICAgICAgICBzZWxmLnNtaW4udmFsID0gc2VsZi5tYXgwCgogICAgICAgIGVsc2U6CgogICAgICAgICAgICBzZWxmLnNtaW4udmFsICs9IDEuMAoKICAgICAgICBzZWxmLnNtaW4udmFsID0gKG51bXB5LnJvdW5kKHNlbGYuc21pbi52YWwsIDIpKQogICAgICAgIHNlbGYuc21pbi52YWx0ZXh0LnNldF90ZXh0KCd7fScuZm9ybWF0KHNlbGYuc21pbi52YWwpKQogICAgICAgIHNlbGYuZmlnLmNhbnZhcy5kcmF3KCkKICAgICAgICBzZWxmLnVwZGF0ZUltYWdlKDApCg==</text>
+        <text encoding="base64">aW1wb3J0IGRpY29tCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLm1heDAgPCAoc2VsZi5zbWluLnZhbCArIDEuMCk6CgogICAgICAgICAgICBzZWxmLnNtaW4udmFsID0gc2VsZi5tYXgwCgogICAgICAgIGVsc2U6CgogICAgICAgICAgICBzZWxmLnNtaW4udmFsICs9IDEuMAoKICAgICAgICBzZWxmLnNtaW4udmFsID0gKG51bXB5LnJvdW5kKHNlbGYuc21pbi52YWwsIDIpKQogICAgICAgIHNlbGYuc21pbi52YWx0ZXh0LnNldF90ZXh0KCd7fScuZm9ybWF0KHNlbGYuc21pbi52YWwpKQogICAgICAgIHNlbGYuZmlnLmNhbnZhcy5kcmF3KCkKICAgICAgICBzZWxmLnVwZGF0ZUltYWdlKDApCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -916,15 +916,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZXNpemVcPg==</last-search>
+      <last-search encoding="base64">XDxJTlRFUl9BUkVBXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZXNpemVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxJTlRFUl9BUkVBXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZWVkc19jb2xvcnRhYmxlXD4=</entry>
         <entry encoding="base64">XDxjb21wb3NlUmdiYVw+</entry>
         <entry>itk</entry>
         <entry>put</entry>
@@ -944,6 +943,7 @@
         <entry encoding="base64">XDxjdjJcPg==</entry>
         <entry>resize</entry>
         <entry encoding="base64">XDxyZXNpemVcPg==</entry>
+        <entry encoding="base64">XDxJTlRFUl9BUkVBXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>291</entry>
