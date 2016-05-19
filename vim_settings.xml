@@ -72,11 +72,11 @@
         <mark key="^" line="40" column="23" />
         <mark key="." line="38" column="69" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1463663496278">
-        <mark key="'" line="870" column="8" />
-        <mark key="[" line="289" column="28" />
-        <mark key="]" line="289" column="31" />
-        <mark key="." line="289" column="31" />
+      <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1463668503292">
+        <mark key="'" line="871" column="8" />
+        <mark key="[" line="873" column="0" />
+        <mark key="]" line="873" column="36" />
+        <mark key="." line="873" column="0" />
         <mark key="^" line="289" column="31" />
       </file>
       <file name="$USER_HOME$/projects/lisa/tests/liver_segmentation_cerveny_test.py" timestamp="1449487905152">
@@ -878,7 +878,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRlZiBidXR0b25NaW5VcGRhdGUoc2VsZiwgZXZlbnQsIHZhbHVlKToKCiAgICAgICAgaWYgc2VsZi5taW4wID4gKHNlbGYuc21pbi52YWwgKyB2YWx1ZSk6CiAgICAgICAgICAgIHNlbGYuc21pbi52YWwgPSBzZWxmLm1pbjAKICAgICAgICBlbGlmIHNlbGYubWF4MCA8IChzZWxmLnNtaW4udmFsICsgdmFsdWUpOgogICAgICAgICAgICBzZWxmLnNtaW4udmFsID0gc2VsZi5tYXgwCiAgICAgICAgZWxzZToKICAgICAgICAgICAgc2VsZi5zbWluLnZhbCArPSB2YWx1ZQoKICAgICAgICBzZWxmLnNtaW4udmFsID0gKG51bXB5LnJvdW5kKHNlbGYuc21pbi52YWwsIDIpKQogICAgICAgIHNlbGYuc21pbi52YWx0ZXh0LnNldF90ZXh0KCd7fScuZm9ybWF0KHNlbGYuc21pbi52YWwpKQogICAgICAgIHNlbGYuZmlnLmNhbnZhcy5kcmF3KCkKICAgICAgICBzZWxmLnVwZGF0ZUltYWdlKDApCg==</text>
+        <text encoding="base64">ICAgICAgICBRQXBwbGljYXRpb24ucHJvY2Vzc0V2ZW50cygpCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -887,7 +887,7 @@
         <text encoding="base64">XDxidXR0b25NaW5OZXh0NVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBidG5fc3Zodi5zZXRFbmFibGVkKEZhbHNlKQo=</text>
+        <text encoding="base64">ICAgICAgICBRQXBwbGljYXRpb24ucHJvY2Vzc0V2ZW50cygpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGRlZiBidXR0b25NaW5VcGRhdGUoc2VsZiwgZXZlbnQsIHZhbHVlKToKCiAgICAgICAgaWYgc2VsZi5taW4wID4gKHNlbGYuc21pbi52YWwgKyB2YWx1ZSk6CiAgICAgICAgICAgIHNlbGYuc21pbi52YWwgPSBzZWxmLm1pbjAKICAgICAgICBlbGlmIHNlbGYubWF4MCA8IChzZWxmLnNtaW4udmFsICsgdmFsdWUpOgogICAgICAgICAgICBzZWxmLnNtaW4udmFsID0gc2VsZi5tYXgwCiAgICAgICAgZWxzZToKICAgICAgICAgICAgc2VsZi5zbWluLnZhbCArPSB2YWx1ZQoKICAgICAgICBzZWxmLnNtaW4udmFsID0gKG51bXB5LnJvdW5kKHNlbGYuc21pbi52YWwsIDIpKQogICAgICAgIHNlbGYuc21pbi52YWx0ZXh0LnNldF90ZXh0KCd7fScuZm9ybWF0KHNlbGYuc21pbi52YWwpKQogICAgICAgIHNlbGYuZmlnLmNhbnZhcy5kcmF3KCkKICAgICAgICBzZWxmLnVwZGF0ZUltYWdlKDApCg==</text>
