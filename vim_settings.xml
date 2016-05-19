@@ -53,12 +53,12 @@
         <mark key="^" line="31" column="21" />
         <mark key="." line="31" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/imtools/imtools/uiThreshold.py" timestamp="1463659629416">
-        <mark key="'" line="266" column="69" />
-        <mark key="[" line="326" column="39" />
-        <mark key="]" line="326" column="39" />
-        <mark key="^" line="326" column="39" />
-        <mark key="." line="326" column="39" />
+      <file name="$USER_HOME$/projects/imtools/imtools/uiThreshold.py" timestamp="1463660741887">
+        <mark key="'" line="360" column="40" />
+        <mark key="[" line="675" column="38" />
+        <mark key="]" line="675" column="40" />
+        <mark key="." line="675" column="38" />
+        <mark key="^" line="636" column="39" />
       </file>
       <file name="$USER_HOME$/projects/quantan/quantan/quantan.py" timestamp="1451912303686">
         <mark key="a" line="721" column="35" />
@@ -826,7 +826,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1408" column="0" filename="$USER_HOME$/projects/pysegbase/pysegbase/seed_editor_qt.py" />
       <jump line="19" column="0" filename="$USER_HOME$/projects/pysegbase/pysegbase/seed_editor_qt.py" />
       <jump line="1410" column="14" filename="$USER_HOME$/projects/pysegbase/pysegbase/seed_editor_qt.py" />
       <jump line="36" column="41" filename="$USER_HOME$/projects/pysegbase/pysegbase/seed_editor_qt.py" />
@@ -926,61 +925,61 @@
       <jump line="863" column="8" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="278" column="38" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="266" column="69" filename="$USER_HOME$/projects/imtools/imtools/uiThreshold.py" />
+      <jump line="360" column="40" filename="$USER_HOME$/projects/imtools/imtools/uiThreshold.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_5</text>
+        <text>.0</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>+1.0</text>
+        <text encoding="base64">XDxidXR0b25NYXhQcmV2XD4=</text>
       </register>
       <register name="0" type="4">
-        <text>_5</text>
+        <text>.0</text>
       </register>
-      <register name="1" type="4">
-        <text>1</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>0</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLm1heDAgPCAoc2VsZi5zbWluLnZhbCArIDEuMCk6CgogICAgICAgICAgICBzZWxmLnNtaW4udmFsID0gc2VsZi5tYXgwCgogICAgICAgIGVsc2U6CgogICAgICAgICAgICBzZWxmLnNtaW4udmFsICs9IDEuMAoKICAgICAgICBzZWxmLnNtaW4udmFsID0gKG51bXB5LnJvdW5kKHNlbGYuc21pbi52YWwsIDIpKQogICAgICAgIHNlbGYuc21pbi52YWx0ZXh0LnNldF90ZXh0KCd7fScuZm9ybWF0KHNlbGYuc21pbi52YWwpKQogICAgICAgIHNlbGYuZmlnLmNhbnZhcy5kcmF3KCkKICAgICAgICBzZWxmLnVwZGF0ZUltYWdlKDApCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>.</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>0</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>.</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>0</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>.</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>0</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>.</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>+1.0</last-search>
+      <last-search encoding="base64">XDxidXR0b25NYXhQcmV2XD4=</last-search>
       <last-offset />
-      <last-pattern>+1.0</last-pattern>
+      <last-pattern encoding="base64">XDxidXR0b25NYXhQcmV2XD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzbGFiXD4=</entry>
         <entry>resize</entry>
         <entry encoding="base64">XDxTRUVEU19DT0xPUlRBQkxFXD4=</entry>
         <entry encoding="base64">XDxDT05UT1VSU19DT0xPUlNcPg==</entry>
@@ -1000,6 +999,7 @@
         <entry>Save PV</entry>
         <entry encoding="base64">XDxidG5TYXZlUG9ydGFsVmVpblRyZWVcPg==</entry>
         <entry>+1.0</entry>
+        <entry encoding="base64">XDxidXR0b25NYXhQcmV2XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>291</entry>
