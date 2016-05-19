@@ -53,12 +53,12 @@
         <mark key="^" line="31" column="21" />
         <mark key="." line="31" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/imtools/imtools/uiThreshold.py" timestamp="1463660741887">
+      <file name="$USER_HOME$/projects/imtools/imtools/uiThreshold.py" timestamp="1463664802901">
         <mark key="'" line="360" column="40" />
-        <mark key="[" line="675" column="38" />
-        <mark key="]" line="675" column="40" />
-        <mark key="." line="675" column="38" />
-        <mark key="^" line="636" column="39" />
+        <mark key="[" line="361" column="23" />
+        <mark key="]" line="361" column="23" />
+        <mark key="." line="361" column="23" />
+        <mark key="^" line="361" column="23" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1463663234380">
         <mark key="'" line="1418" column="9" />
@@ -325,6 +325,12 @@
         <mark key="]" line="21" column="0" />
         <mark key="^" line="20" column="38" />
         <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/imtools/imtools/gen_vtk_tree.py" timestamp="1463664652311">
+        <mark key="[" line="171" column="30" />
+        <mark key="]" line="173" column="37" />
+        <mark key="^" line="173" column="37" />
+        <mark key="." line="173" column="37" />
       </file>
       <file name="$USER_HOME$/projects/skelet3d/skelet3d/libfixer.py" timestamp="1463602253123">
         <mark key="." line="85" column="0" />
@@ -721,9 +727,6 @@
         <mark key="^" line="170" column="30" />
         <mark key="." line="170" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1463662848116">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/io3d/io3d/misc.py" timestamp="1453295785375">
         <mark key="'" line="19" column="27" />
         <mark key="[" line="81" column="15" />
@@ -770,7 +773,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="149" column="33" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="153" column="8" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="162" column="53" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="587" column="22" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
@@ -870,61 +872,61 @@
       <jump line="1079" column="18" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
       <jump line="286" column="38" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="869" column="8" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="158" column="16" filename="$USER_HOME$/projects/imtools/imtools/gen_vtk_tree.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>False</text>
+        <text>import in function fixed</text>
       </register>
       <register name="-" type="4">
-        <text>False</text>
+        <text>import in function fixed</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxidG5TYXZlSGVwYXRpY1ZlaW5zVHJlZVw+</text>
+        <text encoding="base64">XDxwcm9jZXNzX3RyZWVcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBidG5fc3Zodi5zZXRFbmFibGVkKEZhbHNlKQo=</text>
       </register>
       <register name="1" type="4">
-        <text>False</text>
+        <text>import in function fixed</text>
       </register>
       <register name="2" type="4">
-        <text>e</text>
+        <text>t</text>
       </register>
       <register name="3" type="4">
-        <text>e</text>
+        <text>x</text>
       </register>
       <register name="4" type="4">
-        <text>r</text>
-      </register>
-      <register name="5" type="4">
-        <text>_</text>
-      </register>
-      <register name="6" type="4">
-        <text>l</text>
-      </register>
-      <register name="7" type="4">
         <text>e</text>
       </register>
+      <register name="5" type="4">
+        <text>n</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">bmV4dDJfNSA=</text>
+      </register>
+      <register name="7" type="4">
+        <text>,</text>
+      </register>
       <register name="8" type="4">
-        <text>s</text>
+        <text>next2_5</text>
       </register>
       <register name="9" type="4">
-        <text>s</text>
+        <text encoding="base64">bmV4dDJfNSA=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxidG5TYXZlSGVwYXRpY1ZlaW5zVHJlZVw+</last-search>
+      <last-search encoding="base64">XDxwcm9jZXNzX3RyZWVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxidG5TYXZlSGVwYXRpY1ZlaW5zVHJlZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxwcm9jZXNzX3RyZWVcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>put</entry>
         <entry>get</entry>
         <entry>remov</entry>
         <entry encoding="base64">XDxwZFw+</entry>
@@ -944,6 +946,7 @@
         <entry encoding="base64">XDxJTlRFUl9BUkVBXD4=</entry>
         <entry>Save HV</entry>
         <entry encoding="base64">XDxidG5TYXZlSGVwYXRpY1ZlaW5zVHJlZVw+</entry>
+        <entry encoding="base64">XDxwcm9jZXNzX3RyZWVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>291</entry>
