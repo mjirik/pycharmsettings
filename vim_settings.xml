@@ -62,13 +62,13 @@
         <mark key="]" line="328" column="21" />
         <mark key="." line="328" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1463678540889">
-        <mark key="a" line="1196" column="35" />
-        <mark key="'" line="557" column="48" />
-        <mark key="[" line="1204" column="63" />
-        <mark key="]" line="1204" column="72" />
-        <mark key="." line="1204" column="72" />
-        <mark key="^" line="1204" column="72" />
+      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1463784291976">
+        <mark key="a" line="1192" column="35" />
+        <mark key="'" line="733" column="25" />
+        <mark key="[" line="1305" column="114" />
+        <mark key="]" line="1305" column="114" />
+        <mark key="." line="1305" column="114" />
+        <mark key="^" line="1200" column="72" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/gen_vtk_tree.py" timestamp="1463677085556">
         <mark key="'" line="133" column="0" />
@@ -810,17 +810,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="451" column="52" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
-      <jump line="733" column="25" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
-      <jump line="1297" column="19" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
-      <jump line="195" column="87" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
-      <jump line="182" column="51" filename="$USER_HOME$/projects/disco/discon/__main__.py" />
-      <jump line="220" column="12" filename="$USER_HOME$/projects/disco/discon/__main__.py" />
-      <jump line="306" column="0" filename="$USER_HOME$/projects/disco/discon/__main__.py" />
-      <jump line="242" column="7" filename="$USER_HOME$/projects/disco/discon/__main__.py" />
-      <jump line="250" column="4" filename="$USER_HOME$/projects/disco/discon/__main__.py" />
-      <jump line="49" column="4" filename="$USER_HOME$/projects/psongbook/sobo/doc2txt.py" />
-      <jump line="65" column="0" filename="$USER_HOME$/projects/psongbook/sobo/doc2txt.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/psongbook/sobo/doc2txt.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/psongbook/sobo/psongbook.py" />
       <jump line="197" column="8" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
@@ -910,65 +899,71 @@
       <jump line="455" column="7" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="46" column="17" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="440" column="30" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="737" column="25" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="1314" column="19" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="201" column="13" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="738" column="23" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="1307" column="8" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="729" column="13" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="1284" column="13" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="1311" column="19" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="457" column="13" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="609" column="0" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="733" column="25" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">TG9naW4g</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">TG9naW4g</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>re.</text>
+        <text encoding="base64">XDxfb3V0cHV0X2RhdGFwYXRoX2Zyb21fc2VydmVyXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgUXRHdWkuUU1lc3NhZ2VCb3gud2FybmluZygKICAgICAgICAgICAgICAgIHNlbGYsICdFcnJvcicsICdCYWQgdXNlciBvciBwYXNzd29yZCcpCg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">TG9naW4g</text>
+        <text>/</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJhY2ViYWNrLnByaW50X2V4YygpCg==</text>
+      <register name="2" type="4">
+        <text>/</text>
       </register>
-      <register name="3" type="4">
-        <text>password</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAjIHVzZWQgZm9yIHNlcnZlciBzeW5jCiAgICAgICAgc2VsZi5fb3V0cHV0X2RhdGFwYXRoX2Zyb21fc2VydmVyID0gb3Auam9pbihzZWxmLm91dHB1dF9kYXRhcGF0aCwgJ3N5bmMnLCBzZWxmLnNmdHBfdXNlcm5hbWUgLCJmcm9tX3NlcnZlci8iICkKICAgICAgICAjIHVzZWQgZm9yIHNlcnZlciBzeW5jCiAgICAgICAgc2VsZi5fb3V0cHV0X2RhdGFwYXRoX3RvX3NlcnZlciA9IG9wLmpvaW4oc2VsZi5vdXRwdXRfZGF0YXBhdGgsICdzeW5jJywgc2VsZi5zZnRwX3VzZXJuYW1lLCAidG9fc2VydmVyLyIgKQo=</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">b3Ig</text>
+        <text encoding="base64">TG9naW4g</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">dXNlciA=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdHJhY2ViYWNrLnByaW50X2V4YygpCg==</text>
       </register>
       <register name="6" type="4">
+        <text>password</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">b3Ig</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">dXNlciA=</text>
+      </register>
+      <register name="9" type="4">
         <text encoding="base64">QmFkIA==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAiLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tIgogICAgICAgIHByaW50IHRleHRuYW1lCiAgICAgICAgcHJpbnQgdGV4dHBhc3MK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjCg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>re.</last-search>
+      <last-search encoding="base64">XDxfb3V0cHV0X2RhdGFwYXRoX2Zyb21fc2VydmVyXD4=</last-search>
       <last-offset />
-      <last-pattern>re.</last-pattern>
+      <last-pattern encoding="base64">XDxfb3V0cHV0X2RhdGFwYXRoX2Zyb21fc2VydmVyXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzb25nX3dpdGhvdXRfY2hvcmRzXD4=</entry>
-        <entry>edt</entry>
-        <entry>Save PV</entry>
-        <entry encoding="base64">XDxidG5TYXZlUG9ydGFsVmVpblRyZWVcPg==</entry>
-        <entry>+1.0</entry>
         <entry encoding="base64">XDxidXR0b25NYXhQcmV2XD4=</entry>
         <entry encoding="base64">XDxkaWNvbVw+</entry>
         <entry encoding="base64">XDxjdjJcPg==</entry>
@@ -984,6 +979,11 @@
         <entry encoding="base64">XDxjcmVhdGVfZXZlbnRcPg==</entry>
         <entry>re</entry>
         <entry>re.</entry>
+        <entry encoding="base64">XDxfb3V0cHV0X2RhdGFwYXRoX3RvX3NlcnZlclw+</entry>
+        <entry encoding="base64">XDxjcmVhdGVfbGlzYV9kYXRhX2Rpcl90cmVlXD4=</entry>
+        <entry>dir</entry>
+        <entry>_output_data</entry>
+        <entry encoding="base64">XDxfb3V0cHV0X2RhdGFwYXRoX2Zyb21fc2VydmVyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>291</entry>
