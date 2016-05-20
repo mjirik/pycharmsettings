@@ -34,6 +34,9 @@
         <mark key="^" line="61" column="18" />
         <mark key="." line="61" column="18" />
       </file>
+      <file name="/a.dummy" timestamp="1463740464875">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/dicom2fem/dicom2fem/vtk2stl.py" timestamp="1448959466140">
         <mark key="[" line="22" column="23" />
         <mark key="]" line="22" column="23" />
@@ -464,6 +467,12 @@
         <mark key="^" line="37" column="11" />
         <mark key="." line="37" column="11" />
       </file>
+      <file name="$USER_HOME$/projects/lisa/lisa/dataset.py" timestamp="1463741024930">
+        <mark key="[" line="62" column="42" />
+        <mark key="]" line="62" column="61" />
+        <mark key="." line="62" column="61" />
+        <mark key="^" line="62" column="61" />
+      </file>
       <file name="$USER_HOME$/projects/sed3/requirements_conda.txt" timestamp="1454930331485">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="3" />
@@ -673,6 +682,9 @@
         <mark key="^" line="58" column="26" />
         <mark key="." line="58" column="26" />
       </file>
+      <file name="$USER_HOME$/projects/lisa/tests/liver_segmentation_test.py" timestamp="1463740426210">
+        <mark key="[" line="26" column="16" />
+      </file>
       <file name="$USER_HOME$/projects/psongbook/setup.py" timestamp="1463464617794">
         <mark key="[" line="46" column="14" />
         <mark key="]" line="46" column="35" />
@@ -791,11 +803,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1425" column="34" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
-      <jump line="1426" column="37" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
-      <jump line="131" column="8" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
-      <jump line="714" column="51" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
-      <jump line="699" column="12" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="133" column="8" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="136" column="8" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="173" column="40" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
@@ -891,62 +898,65 @@
       <jump line="557" column="48" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="399" column="4" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
       <jump line="267" column="4" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
+      <jump line="12" column="0" filename="$USER_HOME$/projects/lisa/lisa/dataset.py" />
+      <jump line="25" column="4" filename="$USER_HOME$/projects/lisa/lisa/dataset.py" />
+      <jump line="33" column="29" filename="$USER_HOME$/projects/lisa/lisa/dataset.py" />
+      <jump line="35" column="19" filename="$USER_HOME$/projects/lisa/lisa/dataset.py" />
+      <jump line="43" column="8" filename="$USER_HOME$/projects/lisa/lisa/dataset.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBlc3VtbWFyeSA9IHN0cihldmVudFsnc3VtbWFyeSddLmRlY29kZSgndXRmOCcpLmVuY29kZSgndXRmOCcpKQogICAgICAgIHByaW50ICgiQ2hlY2tlZCBldmVudDogIiArIGVzdW1tYXJ5KQo=</text>
+        <text encoding="base64">aW1wb3J0IGdsb2IKaW1wb3J0IG9zLnBhdGggYXMgb3AKaW1wb3J0IHJlCgo=</text>
       </register>
       <register name="-" type="4">
         <text>i</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjcmVhdGVfZXZlbnRcPg==</text>
+        <text>re.</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXN1bSA9IHN0cihldmVudFsnc3VtbWFyeSddLmVuY29kZSgndXRmOCcpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBlc3VtbWFyeSA9IHN0cihldmVudFsnc3VtbWFyeSddLmRlY29kZSgndXRmOCcpLmVuY29kZSgndXRmOCcpKQogICAgICAgIHByaW50ICgiQ2hlY2tlZCBldmVudDogIiArIGVzdW1tYXJ5KQo=</text>
+        <text encoding="base64">aW1wb3J0IGdsb2IKaW1wb3J0IG9zLnBhdGggYXMgb3AKaW1wb3J0IHJlCgo=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IGdsb2IKaW1wb3J0IG9zLnBhdGggYXMgb3AK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBlc3VtbWFyeSA9IHN0cihldmVudFsnc3VtbWFyeSddLmRlY29kZSgndXRmOCcpLmVuY29kZSgndXRmOCcpKQogICAgICAgIHByaW50ICgiQ2hlY2tlZCBldmVudDogIiArIGVzdW1tYXJ5KQo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXN1bW1hcnkgPSBzdHIoZXZlbnRbJ3N1bW1hcnknXS5lbmNvZGUoJ3V0ZjgnKSkK</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>i</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>eventi['summary'] == event['summary']</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dmFsID0gJ3BhcnRpY3VsYXInCg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>label</text>
-      </register>
-      <register name="8" type="4">
-        <text>_</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1aXJlZD1UcnVlLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjcmVhdGVfZXZlbnRcPg==</last-search>
+      <last-search>re.</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjcmVhdGVfZXZlbnRcPg==</last-pattern>
+      <last-pattern>re.</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzbmdia190b19maWxlXD4=</entry>
-        <entry encoding="base64">XDxnZW50ZXhmaWxlXD4=</entry>
         <entry encoding="base64">XDxzb25nX3dpdGhvdXRfY2hvcmRzXD4=</entry>
         <entry>edt</entry>
         <entry>Save PV</entry>
@@ -965,6 +975,8 @@
         <entry encoding="base64">XDxidXR0b25NaW5OZXh0NVw+</entry>
         <entry>vt2_</entry>
         <entry encoding="base64">XDxjcmVhdGVfZXZlbnRcPg==</entry>
+        <entry>re</entry>
+        <entry>re.</entry>
       </history-search>
       <history-cmd>
         <entry>291</entry>
