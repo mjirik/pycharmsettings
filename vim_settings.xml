@@ -89,13 +89,9 @@
         <mark key="^" line="40" column="23" />
         <mark key="." line="38" column="69" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1463769942517">
-        <mark key="a" line="450" column="8" />
-        <mark key="'" line="871" column="8" />
-        <mark key="[" line="873" column="0" />
-        <mark key="]" line="873" column="36" />
-        <mark key="." line="873" column="0" />
-        <mark key="^" line="289" column="31" />
+      <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1463782637189">
+        <mark key="a" line="455" column="7" />
+        <mark key="'" line="440" column="30" />
       </file>
       <file name="$USER_HOME$/projects/lisa/tests/liver_segmentation_cerveny_test.py" timestamp="1449487905152">
         <mark key="[" line="30" column="23" />
@@ -810,9 +806,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="133" column="8" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
-      <jump line="136" column="8" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
-      <jump line="173" column="40" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="451" column="52" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="733" column="25" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="1297" column="19" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
@@ -910,47 +903,49 @@
       <jump line="33" column="29" filename="$USER_HOME$/projects/lisa/lisa/dataset.py" />
       <jump line="35" column="19" filename="$USER_HOME$/projects/lisa/lisa/dataset.py" />
       <jump line="43" column="8" filename="$USER_HOME$/projects/lisa/lisa/dataset.py" />
+      <jump line="455" column="7" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="46" column="17" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="440" column="30" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>self.textPass.text()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCB0ZXh0cGFzcwo=</text>
       </register>
       <register name="-" type="4">
-        <text>self.textPass.text()</text>
+        <text>password</text>
       </register>
       <register name="/" type="4">
         <text>re.</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoc2VsZi50ZXh0TmFtZS50ZXh0KCkgPT0gJ2ZvbycgYW5kCiAgICAgICAgICAgIHNlbGYudGV4dFBhc3MudGV4dCgpID09ICdiYXInKToK</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICsgJ3wn</text>
       </register>
-      <register name="1" type="4">
-        <text>self.textPass.text()</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCB0ZXh0cGFzcwo=</text>
       </register>
-      <register name="2" type="4">
-        <text>self.textName.text()</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLm9zZWcuc2Z0cF9wYXNzd29yZCA9ICcnCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>(self.textName.text() == 'foo' and
-            self.textPass.text() == 'bar')</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCBzZWxmLm9zZWcuc2Z0cF91c2VybmFtZSArICd8Jwo=</text>
       </register>
       <register name="4" type="4">
-        <text>:</text>
+        <text>password</text>
       </register>
-      <register name="5" type="4">
-        <text>name</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLm9zZWcuc2Z0cF91c2VybmFtZSA9IHRleHRuYW1lCg==</text>
       </register>
       <register name="6" type="4">
-        <text>I</text>
+        <text>_</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBzeXMKICAgIGFwcCA9IFF0R3VpLlFBcHBsaWNhdGlvbihzeXMuYXJndikKICAgIGxvZ2luID0gTG9naW4oKQoKICAgIGlmIGxvZ2luLmV4ZWNfKCkgPT0gUXRHdWkuUURpYWxvZy5BY2NlcHRlZDoKICAgICAgICB3aW5kb3cgPSBXaW5kb3coKQogICAgICAgIHdpbmRvdy5zaG93KCkKICAgICAgICBzeXMuZXhpdChhcHAuZXhlY18oKSkK</text>
+      <register name="7" type="4">
+        <text>_</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoK</text>
+      <register name="8" type="4">
+        <text>textname</text>
       </register>
       <register name="9" type="4">
-        <text>typo fix</text>
+        <text>textpass</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
