@@ -77,11 +77,11 @@
         <mark key="." line="158" column="0" />
         <mark key="^" line="163" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/loginWindow.py" timestamp="1463769124516">
-        <mark key="[" line="33" column="48" />
-        <mark key="]" line="35" column="45" />
-        <mark key="." line="35" column="45" />
-        <mark key="^" line="35" column="45" />
+      <file name="$USER_HOME$/projects/lisa/lisa/loginWindow.py" timestamp="1463783581576">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="49" column="53" />
+        <mark key="." line="45" column="81" />
+        <mark key="^" line="45" column="81" />
       </file>
       <file name="$USER_HOME$/projects/sed3/README.md" timestamp="1453293282274">
         <mark key="[" line="38" column="68" />
@@ -89,9 +89,13 @@
         <mark key="^" line="40" column="23" />
         <mark key="." line="38" column="69" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1463782637189">
+      <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1463783726035">
         <mark key="a" line="455" column="7" />
         <mark key="'" line="440" column="30" />
+        <mark key="[" line="468" column="32" />
+        <mark key="]" line="468" column="36" />
+        <mark key="^" line="468" column="36" />
+        <mark key="." line="468" column="36" />
       </file>
       <file name="$USER_HOME$/projects/lisa/tests/liver_segmentation_cerveny_test.py" timestamp="1449487905152">
         <mark key="[" line="30" column="23" />
@@ -908,44 +912,44 @@
       <jump line="440" column="30" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCB0ZXh0cGFzcwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">TG9naW4g</text>
       </register>
       <register name="-" type="4">
-        <text>password</text>
+        <text encoding="base64">TG9naW4g</text>
       </register>
       <register name="/" type="4">
         <text>re.</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICsgJ3wn</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgUXRHdWkuUU1lc3NhZ2VCb3gud2FybmluZygKICAgICAgICAgICAgICAgIHNlbGYsICdFcnJvcicsICdCYWQgdXNlciBvciBwYXNzd29yZCcpCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCB0ZXh0cGFzcwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">TG9naW4g</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm9zZWcuc2Z0cF9wYXNzd29yZCA9ICcnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJhY2ViYWNrLnByaW50X2V4YygpCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBzZWxmLm9zZWcuc2Z0cF91c2VybmFtZSArICd8Jwo=</text>
-      </register>
-      <register name="4" type="4">
+      <register name="3" type="4">
         <text>password</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm9zZWcuc2Z0cF91c2VybmFtZSA9IHRleHRuYW1lCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">b3Ig</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">dXNlciA=</text>
       </register>
       <register name="6" type="4">
-        <text>_</text>
+        <text encoding="base64">QmFkIA==</text>
       </register>
-      <register name="7" type="4">
-        <text>_</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCAiLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tIgogICAgICAgIHByaW50IHRleHRuYW1lCiAgICAgICAgcHJpbnQgdGV4dHBhc3MK</text>
       </register>
-      <register name="8" type="4">
-        <text>textname</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAjCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>textpass</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAjCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
