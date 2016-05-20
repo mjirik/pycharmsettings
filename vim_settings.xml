@@ -77,11 +77,11 @@
         <mark key="." line="158" column="0" />
         <mark key="^" line="163" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/loginWindow.py" timestamp="1463766141336">
-        <mark key="[" line="25" column="59" />
-        <mark key="]" line="25" column="59" />
-        <mark key="." line="25" column="59" />
-        <mark key="^" line="25" column="39" />
+      <file name="$USER_HOME$/projects/lisa/lisa/loginWindow.py" timestamp="1463767052401">
+        <mark key="[" line="36" column="23" />
+        <mark key="]" line="36" column="23" />
+        <mark key="." line="36" column="23" />
+        <mark key="^" line="38" column="23" />
       </file>
       <file name="$USER_HOME$/projects/sed3/README.md" timestamp="1453293282274">
         <mark key="[" line="38" column="68" />
@@ -912,43 +912,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>I</text>
+        <text>:</text>
       </register>
       <register name="-" type="4">
-        <text>I</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>re.</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXN1bSA9IHN0cihldmVudFsnc3VtbWFyeSddLmVuY29kZSgndXRmOCcpKQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoc2VsZi50ZXh0TmFtZS50ZXh0KCkgPT0gJ2ZvbycgYW5kCiAgICAgICAgICAgIHNlbGYudGV4dFBhc3MudGV4dCgpID09ICdiYXInKToK</text>
       </register>
       <register name="1" type="4">
+        <text>:</text>
+      </register>
+      <register name="2" type="4">
+        <text>name</text>
+      </register>
+      <register name="3" type="4">
         <text>I</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIGltcG9ydCBzeXMKICAgIGFwcCA9IFF0R3VpLlFBcHBsaWNhdGlvbihzeXMuYXJndikKICAgIGxvZ2luID0gTG9naW4oKQoKICAgIGlmIGxvZ2luLmV4ZWNfKCkgPT0gUXRHdWkuUURpYWxvZy5BY2NlcHRlZDoKICAgICAgICB3aW5kb3cgPSBXaW5kb3coKQogICAgICAgIHdpbmRvdy5zaG93KCkKICAgICAgICBzeXMuZXhpdChhcHAuZXhlY18oKSkK</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoK</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>typo fix</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">aW1wb3J0IGdsb2IKaW1wb3J0IG9zLnBhdGggYXMgb3AKaW1wb3J0IHJlCgo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">aW1wb3J0IGdsb2IKaW1wb3J0IG9zLnBhdGggYXMgb3AK</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBlc3VtbWFyeSA9IHN0cihldmVudFsnc3VtbWFyeSddLmRlY29kZSgndXRmOCcpLmVuY29kZSgndXRmOCcpKQogICAgICAgIHByaW50ICgiQ2hlY2tlZCBldmVudDogIiArIGVzdW1tYXJ5KQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXN1bW1hcnkgPSBzdHIoZXZlbnRbJ3N1bW1hcnknXS5lbmNvZGUoJ3V0ZjgnKSkK</text>
-      </register>
-      <register name="9" type="4">
-        <text>i</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
