@@ -89,13 +89,13 @@
         <mark key="^" line="40" column="23" />
         <mark key="." line="38" column="69" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1463996212664">
-        <mark key="a" line="175" column="46" />
+      <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1463997422420">
+        <mark key="a" line="197" column="46" />
         <mark key="'" line="32" column="38" />
-        <mark key="[" line="175" column="81" />
-        <mark key="]" line="175" column="81" />
-        <mark key="." line="175" column="81" />
-        <mark key="^" line="175" column="81" />
+        <mark key="[" line="221" column="69" />
+        <mark key="]" line="222" column="28" />
+        <mark key="." line="222" column="28" />
+        <mark key="^" line="222" column="28" />
       </file>
       <file name="$USER_HOME$/projects/lisa/tests/liver_segmentation_cerveny_test.py" timestamp="1449487905152">
         <mark key="[" line="30" column="23" />
@@ -915,44 +915,44 @@
       <jump line="32" column="38" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>QStyle.SP_DirOpenIcon</text>
       </register>
       <register name="-" type="4">
-        <text>quantan</text>
+        <text>QStyle.SP_DirOpenIcon</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfb3V0cHV0X2RhdGFwYXRoX2Zyb21fc2VydmVyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUXRHdWkuUU1lc3NhZ2VCb3gud2FybmluZygKICAgICAgICAgICAgICAgIHNlbGYsICdFcnJvcicsICdCYWQgdXNlciBvciBwYXNzd29yZCcpCg==</text>
+        <text encoding="base64">ICAgICAgICBidG5fZGNtZGlyID0gUVB1c2hCdXR0b24oIkxvYWQgRElDT00iLCBzZWxmKQogICAgICAgIGJ0bl9kY21kaXIuY2xpY2tlZC5jb25uZWN0KHNlbGYubG9hZERhdGFEaXIpCiAgICAgICAgYnRuX2RjbWRpci5zZXRJY29uKGJ0bl9kY21kaXIuc3R5bGUoKS5zdGFuZGFyZEljb24oUVN0eWxlLlNQX0Rpck9wZW5JY29uKSkKICAgICAgICBzZWxmLnVpd1snZGNtZGlyJ10gPSBidG5fZGNtZGlyCiAgICAgICAgYnRuX2RhdGFmaWxlID0gUVB1c2hCdXR0b24oIkxvYWQgZmlsZSIsIHNlbGYpCiAgICAgICAgYnRuX2RhdGFmaWxlLmNsaWNrZWQuY29ubmVjdChzZWxmLmxvYWREYXRhRmlsZSkKICAgICAgICBidG5fZGF0YWZpbGUuc2V0VG9vbFRpcCgiTG9hZCBkYXRhIGZyb20gcGtsIGZpbGUsIDNEIERpY29tLCB0aWZmLCAuLi4iKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>QStyle.SP_DirOpenIcon</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgw60K</text>
-      </register>
-      <register name="3" type="4">
-        <text>quantan</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">cXVhbnRhbiA=</text>
-      </register>
-      <register name="5" type="4">
+      <register name="2" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="6" type="4">
-        <text>#</text>
+      <register name="3" type="4">
+        <text>,</text>
+      </register>
+      <register name="4" type="4">
+        <text>, rstart + 1, 1</text>
+      </register>
+      <register name="5" type="4">
+        <text>btn_dcmdir</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLl9hZGRfYnV0dG9uKCJMb2FkIGRpciIsIHNlbGYubG9hZERhdGFEaXIsICdkY21kaXInLCAiTG9hZCBkYXRhIGZyb20gZGlyZWN0b3J5IChESUNPTSwgcG5nLCBqcGcuLi4pIikK</text>
       </register>
       <register name="7" type="4">
-        <text>/</text>
+        <text>DICOM</text>
       </register>
-      <register name="8" type="4">
-        <text>/</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIHVzZWQgZm9yIHNlcnZlciBzeW5jCiAgICAgICAgc2VsZi5fb3V0cHV0X2RhdGFwYXRoX2Zyb21fc2VydmVyID0gb3Auam9pbihzZWxmLm91dHB1dF9kYXRhcGF0aCwgJ3N5bmMnLCBzZWxmLnNmdHBfdXNlcm5hbWUgLCJmcm9tX3NlcnZlci8iICkKICAgICAgICAjIHVzZWQgZm9yIHNlcnZlciBzeW5jCiAgICAgICAgc2VsZi5fb3V0cHV0X2RhdGFwYXRoX3RvX3NlcnZlciA9IG9wLmpvaW4oc2VsZi5vdXRwdXRfZGF0YXBhdGgsICdzeW5jJywgc2VsZi5zZnRwX3VzZXJuYW1lLCAidG9fc2VydmVyLyIgKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
