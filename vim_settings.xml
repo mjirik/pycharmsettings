@@ -89,7 +89,7 @@
         <mark key="^" line="40" column="23" />
         <mark key="." line="38" column="69" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1464001497553">
+      <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1464005577113">
         <mark key="a" line="202" column="46" />
         <mark key="'" line="189" column="41" />
         <mark key="[" line="189" column="41" />
@@ -191,12 +191,12 @@
         <mark key="^" line="65" column="17" />
         <mark key="." line="27" column="22" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/logWindow.py" timestamp="1464004125058">
-        <mark key="'" line="75" column="24" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="27" />
-        <mark key="^" line="41" column="31" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/projects/lisa/lisa/logWindow.py" timestamp="1464007969145">
+        <mark key="'" line="139" column="52" />
+        <mark key="[" line="139" column="40" />
+        <mark key="]" line="139" column="52" />
+        <mark key="." line="139" column="52" />
+        <mark key="^" line="139" column="52" />
       </file>
       <file name="$USER_HOME$/projects/lisa/installer.bat" timestamp="1463557702757">
         <mark key="[" line="9" column="21" />
@@ -817,13 +817,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="311" column="4" filename="$USER_HOME$/projects/sobo/sobo/psongbook.py" />
-      <jump line="361" column="8" filename="$USER_HOME$/projects/sobo/sobo/psongbook.py" />
-      <jump line="186" column="4" filename="$USER_HOME$/projects/sobo/sobo/psongbook.py" />
-      <jump line="68" column="4" filename="$USER_HOME$/projects/sobo/sobo/songparser.py" />
-      <jump line="325" column="9" filename="$USER_HOME$/projects/lisa/lisa/virtual_resection.py" />
-      <jump line="137" column="29" filename="$USER_HOME$/projects/lisa/lisa/virtual_resection.py" />
-      <jump line="507" column="35" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="863" column="8" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="278" column="38" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="266" column="69" filename="$USER_HOME$/projects/imtools/imtools/uiThreshold.py" />
@@ -917,62 +910,67 @@
       <jump line="935" column="42" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="189" column="41" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="72" column="24" filename="$USER_HOME$/projects/lisa/lisa/logWindow.py" />
+      <jump line="91" column="23" filename="$USER_HOME$/projects/lisa/lisa/logWindow.py" />
+      <jump line="98" column="13" filename="$USER_HOME$/projects/lisa/lisa/logWindow.py" />
+      <jump line="134" column="12" filename="$USER_HOME$/projects/lisa/lisa/logWindow.py" />
+      <jump line="22" column="6" filename="$USER_HOME$/projects/lisa/lisa/logWindow.py" />
+      <jump line="24" column="14" filename="$USER_HOME$/projects/lisa/lisa/logWindow.py" />
+      <jump line="64" column="21" filename="$USER_HOME$/projects/lisa/lisa/logWindow.py" />
+      <jump line="139" column="52" filename="$USER_HOME$/projects/lisa/lisa/logWindow.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmVudHJpZXMgPSBOb25lCg==</text>
+      <register name="&quot;" type="4">
+        <text>(args.inputfile)</text>
       </register>
       <register name="-" type="4">
-        <text>b</text>
+        <text>(args.inputfile)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzbHVycFw+</text>
+        <text>appendR</text>
       </register>
-      <register name="0" type="4">
-        <text>op.expanduser(&quot;~/lisa_data/lisa.log&quot;)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLndhdGNoZXIgPSBRRmlsZVN5c3RlbVdhdGNoZXIoW2xvZ2ZpbGVdLCBwYXJlbnQ9Tm9uZSkKICAgICAgICBzZWxmLmNvbm5lY3Qoc2VsZi53YXRjaGVyLCBTSUdOQUwoJ2ZpbGVDaGFuZ2VkKGNvbnN0IFFTdHJpbmcmKScpLCBzZWxmLnVwZGF0ZV9sb2cpCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmVudHJpZXMgPSBOb25lCg==</text>
+      <register name="1" type="4">
+        <text>(args.inputfile)</text>
       </register>
       <register name="2" type="4">
-        <text>b</text>
+        <text encoding="base64">IHFhcHA9YXBw</text>
       </register>
       <register name="3" type="4">
-        <text>c</text>
+        <text>,</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmluCg==</text>
+      <register name="4" type="4">
+        <text>update_log</text>
       </register>
       <register name="5" type="4">
-        <text>'lisa.log'</text>
+        <text>self</text>
       </register>
       <register name="6" type="4">
-        <text>g</text>
+        <text>.</text>
       </register>
       <register name="7" type="4">
-        <text>o</text>
+        <text>self</text>
       </register>
       <register name="8" type="4">
-        <text>l</text>
+        <text>self</text>
       </register>
-      <register name="9" type="4">
-        <text>.</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGxpc3QuY29uCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzbHVycFw+</last-search>
+      <last-search>appendR</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzbHVycFw+</last-pattern>
+      <last-pattern>appendR</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Save HV</entry>
-        <entry encoding="base64">XDxidG5TYXZlSGVwYXRpY1ZlaW5zVHJlZVw+</entry>
         <entry encoding="base64">XDxwcm9jZXNzX3RyZWVcPg==</entry>
         <entry encoding="base64">XDxzeW50aGV0aWNfZGF0YVw+</entry>
         <entry encoding="base64">XDxidXR0b25NaW5OZXh0NVw+</entry>
@@ -991,6 +989,8 @@
         <entry>cbLog</entry>
         <entry encoding="base64">XDxidG5Mb2dcPg==</entry>
         <entry encoding="base64">XDxzbHVycFw+</entry>
+        <entry encoding="base64">XDxMb2dFbnRyeU1vZGVsXD4=</entry>
+        <entry>appendR</entry>
       </history-search>
       <history-cmd>
         <entry>592</entry>
