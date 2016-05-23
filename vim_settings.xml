@@ -62,13 +62,13 @@
         <mark key="]" line="328" column="21" />
         <mark key="." line="328" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1463784291976">
-        <mark key="a" line="1192" column="35" />
-        <mark key="'" line="733" column="25" />
-        <mark key="[" line="1305" column="114" />
-        <mark key="]" line="1305" column="114" />
-        <mark key="." line="1305" column="114" />
-        <mark key="^" line="1200" column="72" />
+      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1464000691579">
+        <mark key="a" line="1361" column="9" />
+        <mark key="'" line="1379" column="30" />
+        <mark key="[" line="1379" column="29" />
+        <mark key="]" line="1379" column="35" />
+        <mark key="." line="1379" column="35" />
+        <mark key="^" line="1379" column="35" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/gen_vtk_tree.py" timestamp="1463677085556">
         <mark key="'" line="133" column="0" />
@@ -89,13 +89,13 @@
         <mark key="^" line="40" column="23" />
         <mark key="." line="38" column="69" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1463998484695">
-        <mark key="a" line="197" column="46" />
-        <mark key="'" line="284" column="28" />
-        <mark key="[" line="323" column="26" />
-        <mark key="]" line="323" column="28" />
-        <mark key="." line="323" column="28" />
-        <mark key="^" line="323" column="28" />
+      <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1464001497553">
+        <mark key="a" line="202" column="46" />
+        <mark key="'" line="189" column="41" />
+        <mark key="[" line="189" column="41" />
+        <mark key="]" line="189" column="43" />
+        <mark key="." line="189" column="43" />
+        <mark key="^" line="189" column="43" />
       </file>
       <file name="$USER_HOME$/projects/lisa/tests/liver_segmentation_cerveny_test.py" timestamp="1449487905152">
         <mark key="[" line="30" column="23" />
@@ -190,6 +190,13 @@
         <mark key="]" line="29" column="14" />
         <mark key="^" line="65" column="17" />
         <mark key="." line="27" column="22" />
+      </file>
+      <file name="$USER_HOME$/projects/lisa/lisa/logWindow.py" timestamp="1464001374255">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="45" column="53" />
+        <mark key="]" line="46" column="27" />
+        <mark key="." line="46" column="27" />
+        <mark key="^" line="46" column="27" />
       </file>
       <file name="$USER_HOME$/projects/lisa/installer.bat" timestamp="1463557702757">
         <mark key="[" line="9" column="21" />
@@ -352,9 +359,6 @@
         <mark key="]" line="154" column="49" />
         <mark key="." line="154" column="49" />
         <mark key="^" line="154" column="49" />
-      </file>
-      <file name="$USER_HOME$/projects/skelet3d/skelet3d/libfixer.py" timestamp="1463602253123">
-        <mark key="." line="85" column="0" />
       </file>
       <file name="$USER_HOME$/projects/lisa/requirements_conda.txt" timestamp="1463555476952">
         <mark key="[" line="37" column="8" />
@@ -813,16 +817,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1477" column="31" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
-      <jump line="1418" column="9" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
-      <jump line="65" column="17" filename="$USER_HOME$/projects/psongbook/sobo/transpose.py" />
-      <jump line="127" column="44" filename="$USER_HOME$/projects/psongbook/sobo/psongbook.py" />
-      <jump line="204" column="4" filename="$USER_HOME$/projects/psongbook/sobo/psongbook.py" />
-      <jump line="321" column="12" filename="$USER_HOME$/projects/psongbook/sobo/psongbook.py" />
-      <jump line="201" column="4" filename="$USER_HOME$/projects/psongbook/sobo/psongbook.py" />
-      <jump line="323" column="15" filename="$USER_HOME$/projects/psongbook/sobo/psongbook.py" />
-      <jump line="107" column="15" filename="$USER_HOME$/projects/psongbook/sobo/psongbook.py" />
-      <jump line="23" column="4" filename="$USER_HOME$/projects/sobo/sobo/psongbook.py" />
       <jump line="253" column="4" filename="$USER_HOME$/projects/sobo/sobo/psongbook.py" />
       <jump line="311" column="4" filename="$USER_HOME$/projects/sobo/sobo/psongbook.py" />
       <jump line="361" column="8" filename="$USER_HOME$/projects/sobo/sobo/psongbook.py" />
@@ -913,65 +907,70 @@
       <jump line="175" column="46" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="32" column="38" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="284" column="28" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="282" column="66" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="14" column="0" filename="$USER_HOME$/projects/lisa/lisa/logWindow.py" />
+      <jump line="60" column="0" filename="$USER_HOME$/projects/lisa/lisa/logWindow.py" />
+      <jump line="17" column="0" filename="$USER_HOME$/projects/lisa/lisa/logWindow.py" />
+      <jump line="1338" column="27" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="1361" column="4" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="1565" column="9" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="1379" column="30" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="935" column="42" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="189" column="41" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>l</text>
-      </register>
-      <register name="-" type="4">
-        <text>l</text>
-      </register>
-      <register name="/" type="4">
-        <text encoding="base64">XDxfb3V0cHV0X2RhdGFwYXRoX2Zyb21fc2VydmVyXD4=</text>
-      </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBncmlkLmFkZFdpZGdldCgKICAgICAgICAgICAgc2VsZi5fYWRkX2J1dHRvbigiTG9hZCBmaWxlIiwgc2VsZi5sb2FkRGF0YUZpbGUsICdsb2FkX2ZpbGUnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICJMb2FkIGRhdGEgZnJvbSBwa2wgZmlsZSwgM0QgRGljb20sIHRpZmYsIC4uLiIsIFFTdHlsZS5TUF9GaWxlSWNvbiksCiAgICAgICAgICAgIHJzdGFydCArIDEsIDIpCg==</text>
-      </register>
-      <register name="1" type="4">
-        <text>l</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBncmlkLmFkZFdpZGdldChidG5fc2Vnc2F2ZSwgcnN0YXJ0ICsgMCwgMSkK</text>
-      </register>
-      <register name="3" type="4">
-        <text>S</text>
-      </register>
-      <register name="4" type="4">
-        <text>n</text>
-      </register>
-      <register name="5" type="4">
-        <text>t</text>
-      </register>
-      <register name="6" type="4">
         <text>b</text>
       </register>
+      <register name="-" type="4">
+        <text>b</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxidG5Mb2dcPg==</text>
+      </register>
+      <register name="0" type="4">
+        <text>op.expanduser(&quot;~/lisa_data/lisa.log&quot;)</text>
+      </register>
+      <register name="1" type="4">
+        <text>b</text>
+      </register>
+      <register name="2" type="4">
+        <text>c</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBwcmluCg==</text>
+      </register>
+      <register name="4" type="4">
+        <text>'lisa.log'</text>
+      </register>
+      <register name="5" type="4">
+        <text>g</text>
+      </register>
+      <register name="6" type="4">
+        <text>o</text>
+      </register>
       <register name="7" type="4">
-        <text>loadDataFile</text>
+        <text>l</text>
       </register>
       <register name="8" type="4">
-        <text>FileIcon</text>
+        <text>.</text>
       </register>
       <register name="9" type="4">
-        <text>Load data from pkl file, 3D Dicom, tiff, ...</text>
+        <text>a</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfb3V0cHV0X2RhdGFwYXRoX2Zyb21fc2VydmVyXD4=</last-search>
+      <last-search encoding="base64">XDxidG5Mb2dcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfb3V0cHV0X2RhdGFwYXRoX2Zyb21fc2VydmVyXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxidG5Mb2dcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxidXR0b25NYXhQcmV2XD4=</entry>
-        <entry encoding="base64">XDxkaWNvbVw+</entry>
-        <entry encoding="base64">XDxjdjJcPg==</entry>
-        <entry>resize</entry>
-        <entry encoding="base64">XDxyZXNpemVcPg==</entry>
         <entry encoding="base64">XDxJTlRFUl9BUkVBXD4=</entry>
         <entry>Save HV</entry>
         <entry encoding="base64">XDxidG5TYXZlSGVwYXRpY1ZlaW5zVHJlZVw+</entry>
@@ -987,6 +986,11 @@
         <entry>dir</entry>
         <entry>_output_data</entry>
         <entry encoding="base64">XDxfb3V0cHV0X2RhdGFwYXRoX2Zyb21fc2VydmVyXD4=</entry>
+        <entry>Load file</entry>
+        <entry>log</entry>
+        <entry encoding="base64">XDxsb2dnZXJfaW5pdFw+</entry>
+        <entry>cbLog</entry>
+        <entry encoding="base64">XDxidG5Mb2dcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>291</entry>
@@ -1004,6 +1008,10 @@
         <entry>292</entry>
         <entry>W</entry>
         <entry>q</entry>
+        <entry>114</entry>
+        <entry>109</entry>
+        <entry>57</entry>
+        <entry>26</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
