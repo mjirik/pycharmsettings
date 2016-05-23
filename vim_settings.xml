@@ -62,13 +62,13 @@
         <mark key="]" line="328" column="21" />
         <mark key="." line="328" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1464002443910">
-        <mark key="a" line="1361" column="9" />
-        <mark key="'" line="1379" column="30" />
-        <mark key="[" line="1374" column="48" />
-        <mark key="]" line="1374" column="48" />
-        <mark key="." line="1374" column="48" />
-        <mark key="^" line="1374" column="48" />
+      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1464027226709">
+        <mark key="a" line="1371" column="9" />
+        <mark key="'" line="1389" column="30" />
+        <mark key="[" line="1326" column="20" />
+        <mark key="]" line="1326" column="30" />
+        <mark key="." line="1326" column="30" />
+        <mark key="^" line="1326" column="30" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/gen_vtk_tree.py" timestamp="1463677085556">
         <mark key="'" line="133" column="0" />
@@ -89,13 +89,13 @@
         <mark key="^" line="40" column="23" />
         <mark key="." line="38" column="69" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1464025713373">
-        <mark key="a" line="208" column="46" />
-        <mark key="'" line="27" column="51" />
-        <mark key="[" line="958" column="25" />
-        <mark key="]" line="958" column="18" />
-        <mark key="." line="958" column="18" />
-        <mark key="^" line="958" column="22" />
+      <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1464027391651">
+        <mark key="a" line="209" column="46" />
+        <mark key="'" line="959" column="8" />
+        <mark key="[" line="105" column="66" />
+        <mark key="]" line="106" column="45" />
+        <mark key="^" line="106" column="45" />
+        <mark key="." line="106" column="45" />
       </file>
       <file name="$USER_HOME$/projects/lisa/tests/liver_segmentation_cerveny_test.py" timestamp="1449487905152">
         <mark key="[" line="30" column="23" />
@@ -817,7 +817,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="203" column="19" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
       <jump line="190" column="11" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
       <jump line="204" column="19" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
       <jump line="7" column="7" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
@@ -917,62 +916,61 @@
       <jump line="43" column="31" filename="$USER_HOME$/projects/lisa/lisa/logWindow.py" />
       <jump line="953" column="0" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="27" column="51" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="958" column="8" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>autoSeeds</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>autoSeeds</text>
       </register>
       <register name="/" type="4">
-        <text>menu</text>
+        <text encoding="base64">XDxidG5SYW5kb21Sb3RhdGVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhdXRvU2VlZHNBY3Rpb24gPSBRdEd1aS5RQWN0aW9uKFF0R3VpLlFJY29uKCdleGl0LnBuZycpLCAnJkF1dG9tYXRpYyBsaXZlciBzZWVkcycsIHNlbGYpCiAgICAgICAgIyBhdXRvU2VlZHNBY3Rpb24uc2V0U2hvcnRjdXQoJ0N0cmwrUScpCiAgICAgICAgYXV0b1NlZWRzQWN0aW9uLnNldFN0YXR1c1RpcCgnQXV0b21hdGljIGxpdmVyIHNlZWRzJykKICAgICAgICBhdXRvU2VlZHNBY3Rpb24udHJpZ2dlcmVkLmNvbm5lY3Qoc2VsZi5idG5BdXRvbWF0aWNMaXZlclNlZWRzKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNlZ21lbnRhdGlvbiA9IHNjaXB5Lm5kaW1hZ2UuaW50ZXJwb2xhdGlvbi5yb3RhdGUoc2VsZi5zZWdtZW50YXRpb24sIGFuZ2xlLCBheGVzKQo=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+        <text>autoSeeds</text>
       </register>
       <register name="2" type="4">
-        <text>n</text>
+        <text>s</text>
       </register>
       <register name="3" type="4">
-        <text>i</text>
+        <text>d</text>
       </register>
       <register name="4" type="4">
-        <text>y</text>
+        <text>e</text>
       </register>
       <register name="5" type="4">
-        <text>x</text>
+        <text>e</text>
       </register>
       <register name="6" type="4">
-        <text>seeds</text>
+        <text>S</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">bGl2ZXIg</text>
+        <text>o</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">QXV0b21hdGljIA==</text>
+        <text>t</text>
       </register>
       <register name="9" type="4">
-        <text>seeds</text>
+        <text>u</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>menu</last-search>
+      <last-search encoding="base64">XDxidG5SYW5kb21Sb3RhdGVcPg==</last-search>
       <last-offset />
-      <last-pattern>menu</last-pattern>
+      <last-pattern encoding="base64">XDxidG5SYW5kb21Sb3RhdGVcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>vt2_</entry>
-        <entry encoding="base64">XDxjcmVhdGVfZXZlbnRcPg==</entry>
         <entry>re</entry>
         <entry>re.</entry>
         <entry encoding="base64">XDxfb3V0cHV0X2RhdGFwYXRoX3RvX3NlcnZlclw+</entry>
@@ -991,6 +989,8 @@
         <entry>addIt</entry>
         <entry>file</entry>
         <entry>menu</entry>
+        <entry encoding="base64">XDxidG5Sb3RhdGVaXD4=</entry>
+        <entry encoding="base64">XDxidG5SYW5kb21Sb3RhdGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>592</entry>
