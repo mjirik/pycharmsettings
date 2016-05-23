@@ -62,13 +62,13 @@
         <mark key="]" line="328" column="21" />
         <mark key="." line="328" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1464027226709">
+      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1464028345289">
         <mark key="a" line="1371" column="9" />
         <mark key="'" line="1389" column="30" />
-        <mark key="[" line="1326" column="20" />
-        <mark key="]" line="1326" column="30" />
-        <mark key="." line="1326" column="30" />
-        <mark key="^" line="1326" column="30" />
+        <mark key="[" line="1326" column="32" />
+        <mark key="]" line="1326" column="31" />
+        <mark key="." line="1326" column="31" />
+        <mark key="^" line="1326" column="31" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/gen_vtk_tree.py" timestamp="1463677085556">
         <mark key="'" line="133" column="0" />
@@ -89,13 +89,13 @@
         <mark key="^" line="40" column="23" />
         <mark key="." line="38" column="69" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1464027391651">
+      <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1464028575740">
         <mark key="a" line="209" column="46" />
-        <mark key="'" line="959" column="8" />
-        <mark key="[" line="105" column="66" />
-        <mark key="]" line="106" column="45" />
+        <mark key="'" line="105" column="50" />
+        <mark key="[" line="247" column="61" />
+        <mark key="]" line="247" column="62" />
         <mark key="^" line="106" column="45" />
-        <mark key="." line="106" column="45" />
+        <mark key="." line="247" column="62" />
       </file>
       <file name="$USER_HOME$/projects/lisa/tests/liver_segmentation_cerveny_test.py" timestamp="1449487905152">
         <mark key="[" line="30" column="23" />
@@ -191,11 +191,11 @@
         <mark key="^" line="65" column="17" />
         <mark key="." line="27" column="22" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/logWindow.py" timestamp="1464009104314">
+      <file name="$USER_HOME$/projects/lisa/lisa/logWindow.py" timestamp="1464028594890">
         <mark key="'" line="43" column="31" />
-        <mark key="[" line="133" column="0" />
-        <mark key="]" line="134" column="16" />
-        <mark key="." line="56" column="35" />
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="96" column="0" />
+        <mark key="." line="96" column="0" />
         <mark key="^" line="56" column="35" />
       </file>
       <file name="$USER_HOME$/projects/lisa/installer.bat" timestamp="1463557702757">
@@ -817,10 +817,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="190" column="11" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
-      <jump line="204" column="19" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
-      <jump line="7" column="7" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
-      <jump line="210" column="23" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
       <jump line="254" column="34" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
       <jump line="257" column="34" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
       <jump line="251" column="11" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
@@ -917,10 +913,14 @@
       <jump line="953" column="0" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="27" column="51" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="958" column="8" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="106" column="28" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="102" column="8" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="104" column="8" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="105" column="50" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>autoSeeds</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCAnZmluaXNoZWQnCg==</text>
       </register>
       <register name="-" type="4">
         <text>autoSeeds</text>
@@ -931,32 +931,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLnNlZ21lbnRhdGlvbiA9IHNjaXB5Lm5kaW1hZ2UuaW50ZXJwb2xhdGlvbi5yb3RhdGUoc2VsZi5zZWdtZW50YXRpb24sIGFuZ2xlLCBheGVzKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>autoSeeds</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCAnZmluaXNoZWQnCg==</text>
       </register>
       <register name="2" type="4">
-        <text>s</text>
+        <text>autoSeeds</text>
       </register>
       <register name="3" type="4">
-        <text>d</text>
+        <text>s</text>
       </register>
       <register name="4" type="4">
-        <text>e</text>
+        <text>d</text>
       </register>
       <register name="5" type="4">
         <text>e</text>
       </register>
       <register name="6" type="4">
-        <text>S</text>
+        <text>e</text>
       </register>
       <register name="7" type="4">
-        <text>o</text>
+        <text>S</text>
       </register>
       <register name="8" type="4">
-        <text>t</text>
+        <text>o</text>
       </register>
       <register name="9" type="4">
-        <text>u</text>
+        <text>t</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -971,7 +971,6 @@
     </search>
     <history>
       <history-search>
-        <entry>re</entry>
         <entry>re.</entry>
         <entry encoding="base64">XDxfb3V0cHV0X2RhdGFwYXRoX3RvX3NlcnZlclw+</entry>
         <entry encoding="base64">XDxjcmVhdGVfbGlzYV9kYXRhX2Rpcl90cmVlXD4=</entry>
@@ -990,6 +989,7 @@
         <entry>file</entry>
         <entry>menu</entry>
         <entry encoding="base64">XDxidG5Sb3RhdGVaXD4=</entry>
+        <entry encoding="base64">XDxyYW5kb21Sb3RhdGVBY3Rpb25cPg==</entry>
         <entry encoding="base64">XDxidG5SYW5kb21Sb3RhdGVcPg==</entry>
       </history-search>
       <history-cmd>
