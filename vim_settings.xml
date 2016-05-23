@@ -89,13 +89,13 @@
         <mark key="^" line="40" column="23" />
         <mark key="." line="38" column="69" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1464009174263">
-        <mark key="a" line="202" column="46" />
-        <mark key="'" line="189" column="41" />
-        <mark key="[" line="948" column="19" />
-        <mark key="]" line="949" column="19" />
-        <mark key="." line="949" column="19" />
-        <mark key="^" line="949" column="19" />
+      <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1464025713373">
+        <mark key="a" line="208" column="46" />
+        <mark key="'" line="27" column="51" />
+        <mark key="[" line="958" column="25" />
+        <mark key="]" line="958" column="18" />
+        <mark key="." line="958" column="18" />
+        <mark key="^" line="958" column="22" />
       </file>
       <file name="$USER_HOME$/projects/lisa/tests/liver_segmentation_cerveny_test.py" timestamp="1449487905152">
         <mark key="[" line="30" column="23" />
@@ -817,8 +817,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="266" column="69" filename="$USER_HOME$/projects/imtools/imtools/uiThreshold.py" />
-      <jump line="360" column="40" filename="$USER_HOME$/projects/imtools/imtools/uiThreshold.py" />
       <jump line="203" column="19" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
       <jump line="190" column="11" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
       <jump line="204" column="19" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
@@ -917,62 +915,62 @@
       <jump line="139" column="52" filename="$USER_HOME$/projects/lisa/lisa/logWindow.py" />
       <jump line="62" column="22" filename="$USER_HOME$/projects/lisa/lisa/logWindow.py" />
       <jump line="43" column="31" filename="$USER_HOME$/projects/lisa/lisa/logWindow.py" />
+      <jump line="953" column="0" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="27" column="51" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>n</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>addIt</text>
+        <text>menu</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICMgZm9ybSA9IExvZ1ZpZXdlckZvcm0oYXJncy5pbnB1dGZpbGUsIHFhcHA9YXBwKQogICAgIyBmb3JtLnNob3coKQo=</text>
+        <text encoding="base64">ICAgICAgICBhdXRvU2VlZHNBY3Rpb24gPSBRdEd1aS5RQWN0aW9uKFF0R3VpLlFJY29uKCdleGl0LnBuZycpLCAnJkF1dG9tYXRpYyBsaXZlciBzZWVkcycsIHNlbGYpCiAgICAgICAgIyBhdXRvU2VlZHNBY3Rpb24uc2V0U2hvcnRjdXQoJ0N0cmwrUScpCiAgICAgICAgYXV0b1NlZWRzQWN0aW9uLnNldFN0YXR1c1RpcCgnQXV0b21hdGljIGxpdmVyIHNlZWRzJykKICAgICAgICBhdXRvU2VlZHNBY3Rpb24udHJpZ2dlcmVkLmNvbm5lY3Qoc2VsZi5idG5BdXRvbWF0aWNMaXZlclNlZWRzKQo=</text>
       </register>
       <register name="1" type="4">
-        <text>n</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="4">
+        <text>n</text>
+      </register>
+      <register name="3" type="4">
         <text>i</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
-      </register>
       <register name="4" type="4">
-        <text>app</text>
+        <text>y</text>
       </register>
       <register name="5" type="4">
-        <text>=</text>
+        <text>x</text>
       </register>
       <register name="6" type="4">
-        <text>qapp</text>
+        <text>seeds</text>
       </register>
       <register name="7" type="4">
-        <text>inputfile</text>
+        <text encoding="base64">bGl2ZXIg</text>
       </register>
       <register name="8" type="4">
-        <text>.</text>
+        <text encoding="base64">QXV0b21hdGljIA==</text>
       </register>
       <register name="9" type="4">
-        <text>args</text>
+        <text>seeds</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>addIt</last-search>
+      <last-search>menu</last-search>
       <last-offset />
-      <last-pattern>addIt</last-pattern>
+      <last-pattern>menu</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzeW50aGV0aWNfZGF0YVw+</entry>
-        <entry encoding="base64">XDxidXR0b25NaW5OZXh0NVw+</entry>
         <entry>vt2_</entry>
         <entry encoding="base64">XDxjcmVhdGVfZXZlbnRcPg==</entry>
         <entry>re</entry>
@@ -991,6 +989,8 @@
         <entry encoding="base64">XDxMb2dFbnRyeU1vZGVsXD4=</entry>
         <entry>appendR</entry>
         <entry>addIt</entry>
+        <entry>file</entry>
+        <entry>menu</entry>
       </history-search>
       <history-cmd>
         <entry>592</entry>
