@@ -89,10 +89,10 @@
         <mark key="^" line="40" column="23" />
         <mark key="." line="38" column="69" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1464095653343">
-        <mark key="'" line="823" column="54" />
-        <mark key="[" line="58" column="94" />
-        <mark key="]" line="59" column="27" />
+      <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1464112710870">
+        <mark key="'" line="250" column="61" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="63" column="15" />
         <mark key="." line="59" column="27" />
         <mark key="^" line="59" column="27" />
       </file>
@@ -371,11 +371,12 @@
         <mark key="." line="203" column="11" />
         <mark key="^" line="203" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/update_stable.py" timestamp="1464112009903">
-        <mark key="[" line="43" column="42" />
-        <mark key="]" line="45" column="43" />
-        <mark key="^" line="45" column="43" />
-        <mark key="." line="45" column="43" />
+      <file name="$USER_HOME$/projects/lisa/lisa/update_stable.py" timestamp="1464112958199">
+        <mark key="'" line="135" column="34" />
+        <mark key="[" line="87" column="39" />
+        <mark key="]" line="87" column="39" />
+        <mark key="^" line="87" column="38" />
+        <mark key="." line="87" column="39" />
       </file>
       <file name="$USER_HOME$/projects/lisa/INSTALL.md" timestamp="1448570601058">
         <mark key="[" line="53" column="67" />
@@ -836,9 +837,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="260" column="15" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
-      <jump line="463" column="45" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
-      <jump line="472" column="26" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
       <jump line="464" column="11" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
       <jump line="467" column="22" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
       <jump line="471" column="32" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
@@ -936,61 +934,63 @@
       <jump line="486" column="21" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="1308" column="7" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="64" column="15" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="85" column="20" filename="$USER_HOME$/projects/lisa/lisa/update_stable.py" />
+      <jump line="127" column="34" filename="$USER_HOME$/projects/lisa/lisa/update_stable.py" />
+      <jump line="250" column="61" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhbmdsZSA9IG5wLnJhbmRvbS5yYW5kKCkgKiAzNjAKICAgICAgICBzZWxmLnJvdGF0ZShhbmdsZSwgKDEsIDIpKQo=</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>self</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>random</text>
+        <text>wget</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhbmdsZSA9IG5wLnJhbmRvbS5yYW5kKCkgKiAzNjAKICAgICAgICBzZWxmLnJvdGF0ZShhbmdsZSwgKDEsIDIpKQo=</text>
+        <text encoding="base64">ICAgICAgICB0cnk6CiAgICAgICAgICAgIHdnZXQuZG93bmxvYWQoCiAgICAgICAgICAgICAgICAiaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL21qaXJpay9saXNhL21hc3Rlci9saXNhL2ljb25zL0xJU0EyNTYucG5nIiwKICAgICAgICAgICAgICAgIG91dD1sb2dvcGF0aAogICAgICAgICAgICApCiAgICAgICAgZXhjZXB0OgogICAgICAgICAgICBsb2dnZXIud2FybmluZygnbG9nbyBkb3dubG9hZCBmYWlsZWQnKQogICAgICAgICAgICBwYXNzCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="1" type="4">
+        <text>)</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIHVzZWQgZm9yIHNlcnZlciBzeW5jCiAgICAgICAgc2VsZi5fb3V0cHV0X2RhdGFwYXRoX2Zyb21fc2VydmVyID0gb3Auam9pbihzZWxmLm91dHB1dF9kYXRhcGF0aCwgJ3N5bmMnLCBzZWxmLnNmdHBfdXNlcm5hbWUgLCJmcm9tX3NlcnZlciIgKQogICAgICAgICMgdXNlZCBmb3Igc2VydmVyIHN5bmMKICAgICAgICBzZWxmLl9vdXRwdXRfZGF0YXBhdGhfdG9fc2VydmVyID0gb3Auam9pbihzZWxmLm91dHB1dF9kYXRhcGF0aCwgJ3N5bmMnLCBzZWxmLnNmdHBfdXNlcm5hbWUsICJ0b19zZXJ2ZXIiICkKICAgICAgICBvZHAgPSBzZWxmLm91dHB1dF9kYXRhcGF0aAogICAgICAgIGlmIG5vdCBvcC5leGlzdHMob2RwKToKICAgICAgICAgICAgb3MubWFrZWRpcnMob2RwKQogICAgICAgIG9kcCA9IHNlbGYuX291dHB1dF9kYXRhcGF0aF9mcm9tX3NlcnZlcgogICAgICAgIGlmIG5vdCBvcC5leGlzdHMob2RwKToKICAgICAgICAgICAgb3MubWFrZWRpcnMob2RwKQogICAgICAgIG9kcCA9IHNlbGYuX291dHB1dF9kYXRhcGF0aF90b19zZXJ2ZXIKICAgICAgICBpZiBub3Qgb3AuZXhpc3RzKG9kcCk6CiAgICAgICAgICAgIG9zLm1ha2VkaXJzKG9kcCkK</text>
+      <register name="2" type="4">
+        <text>op.join(path_to_base, &quot;requirements_pip.txt&quot;</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9zLnBhdGggYXMgb3AK</text>
+      <register name="3" type="4">
+        <text>logopath</text>
       </register>
-      <register name="4" type="4">
-        <text>self</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBleGNlcHQ6CiAgICAgICAgICAgIGxvZ2dlci53YXJuaW5nKCdsb2dvIGRvd25sb2FkIGZhaWxlZCcpCiAgICAgICAgICAgIHBhc3MK</text>
       </register>
-      <register name="5" type="4">
-        <text>'</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
       </register>
       <register name="6" type="4">
-        <text>1</text>
+        <text>png</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIC0gc2Z0cHN5bmMgPj0xLjAuMgo=</text>
+      <register name="7" type="4">
+        <text>.</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>LISA256</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgd2l0aCBgcGlwYCBvciAgYGNvbmRhYAo=</text>
+      <register name="9" type="4">
+        <text>/</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>random</last-search>
+      <last-search>wget</last-search>
       <last-offset />
-      <last-pattern>random</last-pattern>
+      <last-pattern>wget</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjcmVhdGVfbGlzYV9kYXRhX2Rpcl90cmVlXD4=</entry>
         <entry>dir</entry>
         <entry>_output_data</entry>
         <entry encoding="base64">XDxfb3V0cHV0X2RhdGFwYXRoX2Zyb21fc2VydmVyXD4=</entry>
@@ -1010,6 +1010,7 @@
         <entry encoding="base64">XDxidG5SYW5kb21Sb3RhdGVcPg==</entry>
         <entry>logo</entry>
         <entry>random</entry>
+        <entry>wget</entry>
       </history-search>
       <history-cmd>
         <entry>592</entry>
