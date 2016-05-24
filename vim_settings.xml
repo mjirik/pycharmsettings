@@ -563,8 +563,8 @@
         <mark key="^" line="1" column="16" />
         <mark key="." line="3" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/imtools/imtools/tools.py" timestamp="1463662844530">
-        <mark key="'" line="1079" column="18" />
+      <file name="$USER_HOME$/projects/imtools/imtools/tools.py" timestamp="1464120801279">
+        <mark key="'" line="254" column="34" />
         <mark key="[" line="1077" column="0" />
         <mark key="]" line="1079" column="27" />
         <mark key="^" line="1068" column="56" />
@@ -772,10 +772,10 @@
         <mark key="^" line="170" column="30" />
         <mark key="." line="170" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/imtools/imtools/__init__.py" timestamp="1464069664566">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/projects/imtools/imtools/__init__.py" timestamp="1464120855983">
+        <mark key="[" line="0" column="26" />
+        <mark key="]" line="0" column="26" />
+        <mark key="." line="0" column="26" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/__init__.py" timestamp="1464069707367">
         <mark key="[" line="3" column="25" />
@@ -846,33 +846,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1060" column="14" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
-      <jump line="1066" column="53" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
-      <jump line="1093" column="11" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
-      <jump line="1095" column="14" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
-      <jump line="41" column="10" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
-      <jump line="220" column="15" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
-      <jump line="466" column="26" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
-      <jump line="470" column="36" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
-      <jump line="473" column="38" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
-      <jump line="478" column="26" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
-      <jump line="483" column="36" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
-      <jump line="486" column="38" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
-      <jump line="1100" column="18" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
-      <jump line="1036" column="18" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
-      <jump line="1079" column="18" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
-      <jump line="286" column="38" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
-      <jump line="869" column="8" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
-      <jump line="158" column="16" filename="$USER_HOME$/projects/imtools/imtools/gen_vtk_tree.py" />
-      <jump line="54" column="48" filename="$USER_HOME$/projects/imtools/tests/vessels_segmentation_test.py" />
-      <jump line="116" column="48" filename="$USER_HOME$/projects/imtools/tests/vessels_segmentation_test.py" />
-      <jump line="26" column="8" filename="$USER_HOME$/projects/imtools/tests/vessels_segmentation_test.py" />
-      <jump line="361" column="42" filename="$USER_HOME$/projects/imtools/imtools/uiThreshold.py" />
-      <jump line="164" column="0" filename="$USER_HOME$/projects/imtools/imtools/gen_vtk_tree.py" />
-      <jump line="10" column="9" filename="$USER_HOME$/projects/imtools/imtools/gen_vtk_tree.py" />
-      <jump line="1230" column="9" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
-      <jump line="11" column="0" filename="$USER_HOME$/projects/lisa/lisa/gen_vtk_tree.py" />
-      <jump line="133" column="0" filename="$USER_HOME$/projects/lisa/lisa/gen_vtk_tree.py" />
       <jump line="557" column="48" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="399" column="4" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
       <jump line="267" column="4" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
@@ -946,61 +919,87 @@
       <jump line="236" column="0" filename="$USER_HOME$/projects/lisa/mysetup.py" />
       <jump line="28" column="0" filename="$USER_HOME$/projects/lisa/mysetup.py" />
       <jump line="79" column="83" filename="$USER_HOME$/projects/lisa/lisa/lisa_data.py" />
+      <jump line="257" column="34" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
+      <jump line="259" column="15" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
+      <jump line="462" column="45" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
+      <jump line="463" column="11" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
+      <jump line="466" column="22" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
+      <jump line="470" column="32" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
+      <jump line="472" column="26" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
+      <jump line="473" column="100" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
+      <jump line="478" column="22" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
+      <jump line="483" column="32" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
+      <jump line="485" column="26" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
+      <jump line="486" column="100" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
+      <jump line="565" column="11" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
+      <jump line="584" column="57" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
+      <jump line="742" column="17" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
+      <jump line="744" column="19" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
+      <jump line="747" column="19" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
+      <jump line="1034" column="11" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
+      <jump line="1036" column="14" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
+      <jump line="1062" column="14" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
+      <jump line="1077" column="11" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
+      <jump line="1079" column="14" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
+      <jump line="1098" column="11" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
+      <jump line="1100" column="14" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
+      <jump line="209" column="23" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
+      <jump line="250" column="11" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
+      <jump line="254" column="34" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2dldC5kb3dubG9hZCgKICAgICAgICAgICAgICAgICJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vbWppcmlrL2xpc2EvbWFzdGVyL2xpc2EvaWNvbnMvTElTQTI1Ni5wbmciLAogICAgICAgICAgICAgICAgb3V0PWxpc2FfaWNvbl9wYXRoKQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>in_path</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>Not</text>
+        <text encoding="base64">XDxjdjJcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGlmIG5vdCBvcC5leGlzdHMoaW5fcGF0aCk6CiAgICAgICAgdHJ5OgogICAgICAgICAgICB3Z2V0LmRvd25sb2FkKAogICAgICAgICAgICAgICAgIyAiaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL21qaXJpay9saXNhL21hc3Rlci9hcHBsaWNhdGlvbnMvaGEuZGVza3RvcC5pbiIKICAgICAgICAgICAgICAgICJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vbWppcmlrL2xpc2EvbWFzdGVyL2FwcGxpY2F0aW9ucy9saXNhLmRlc2t0b3AuaW4iLAogICAgICAgICAgICAgICAgb3V0PWluX3BhdGgpCiAgICAgICAgICAgIHdnZXQuZG93bmxvYWQoCiAgICAgICAgICAgICAgICAiaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL21qaXJpay9saXNhL21hc3Rlci9saXNhL2ljb25zL0xJU0EyNTYucG5nIiwKICAgICAgICAgICAgICAgIG91dD1saXNhX2ljb25fcGF0aCkKICAgICAgICBleGNlcHQ6CiAgICAgICAgICAgIGltcG9ydCB0cmFjZWJhY2sKICAgICAgICAgICAgbG9nZ2VyLndhcm5pbmcoJ2xvZ28gZG93bmxvYWQgZmFpbGVkJykKICAgICAgICAgICAgbG9nZ2VyLndhcm5pbmcodHJhY2ViYWNrLmZvcm1hdF9leGMoKSkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2dldC5kb3dubG9hZCgKICAgICAgICAgICAgICAgICJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vbWppcmlrL2xpc2EvbWFzdGVyL2xpc2EvaWNvbnMvTElTQTI1Ni5wbmciLAogICAgICAgICAgICAgICAgb3V0PWxpc2FfaWNvbl9wYXRoKQo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgImh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9tamlyaWsvbGlzYS9tYXN0ZXIvYXBwbGljYXRpb25zL2hhLmRlc2t0b3AuaW4iCg==</text>
+      <register name="2" type="4">
+        <text>,</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2dldC5kb3dubG9hZCgKICAgICAgICAgICAgICAgICMgImh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9tamlyaWsvbGlzYS9tYXN0ZXIvYXBwbGljYXRpb25zL2hhLmRlc2t0b3AuaW4iCiAgICAgICAgICAgICAgICAiaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL21qaXJpay9saXNhL21hc3Rlci9hcHBsaWNhdGlvbnMvbGlzYS5kZXNrdG9wLmluIiwKICAgICAgICAgICAgICAgIG91dD1pbl9wYXRoKQo=</text>
+      <register name="3" type="4">
+        <text>'</text>
       </register>
       <register name="4" type="4">
-        <text>in_path</text>
+        <text>tools</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+        <text>'</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgd2dldC5kb3dubG9hZCgKICAgICAgICAgICAgICAgICJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vbWppcmlrL2xpc2EvbWFzdGVyL2xpc2EvaWNvbnMvTElTQTI1Ni5wbmciLAogICAgICAgICAgICAgICAgb3V0PWxpc2FfaWNvbl9wYXRoKQo=</text>
       </register>
-      <register name="7" type="4">
-        <text>/</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgImh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9tamlyaWsvbGlzYS9tYXN0ZXIvYXBwbGljYXRpb25zL2hhLmRlc2t0b3AuaW4iCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>app</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgd2dldC5kb3dubG9hZCgKICAgICAgICAgICAgICAgICMgImh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9tamlyaWsvbGlzYS9tYXN0ZXIvYXBwbGljYXRpb25zL2hhLmRlc2t0b3AuaW4iCiAgICAgICAgICAgICAgICAiaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL21qaXJpay9saXNhL21hc3Rlci9hcHBsaWNhdGlvbnMvbGlzYS5kZXNrdG9wLmluIiwKICAgICAgICAgICAgICAgIG91dD1pbl9wYXRoKQo=</text>
       </register>
       <register name="9" type="4">
-        <text>.</text>
+        <text>in_path</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Not</last-search>
+      <last-search encoding="base64">XDxjdjJcPg==</last-search>
       <last-offset />
-      <last-pattern>Not</last-pattern>
+      <last-pattern encoding="base64">XDxjdjJcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfb3V0cHV0X2RhdGFwYXRoX2Zyb21fc2VydmVyXD4=</entry>
         <entry>Load file</entry>
         <entry>log</entry>
         <entry encoding="base64">XDxsb2dnZXJfaW5pdFw+</entry>
@@ -1020,6 +1019,7 @@
         <entry>get_conda</entry>
         <entry>wget</entry>
         <entry>Not</entry>
+        <entry encoding="base64">XDxjdjJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>592</entry>
