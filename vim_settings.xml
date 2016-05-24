@@ -840,12 +840,12 @@
         <mark key="^" line="19" column="21" />
         <mark key="." line="19" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/lisa_data.py" timestamp="1464118428757">
-        <mark key="'" line="79" column="83" />
-        <mark key="[" line="137" column="0" />
-        <mark key="]" line="137" column="0" />
-        <mark key="." line="137" column="0" />
-        <mark key="^" line="141" column="34" />
+      <file name="$USER_HOME$/projects/lisa/lisa/lisa_data.py" timestamp="1464126407788">
+        <mark key="'" line="114" column="83" />
+        <mark key="[" line="105" column="74" />
+        <mark key="]" line="105" column="88" />
+        <mark key="." line="105" column="88" />
+        <mark key="^" line="105" column="88" />
       </file>
     </filemarks>
     <jumps>
@@ -952,10 +952,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'gco-v3.0.zip'</text>
+        <text>stat.S_IXOTH</text>
       </register>
       <register name="-" type="4">
-        <text>'gco-v3.0.zip'</text>
+        <text>stat.S_IXOTH</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjdjJcPg==</text>
@@ -964,31 +964,31 @@
         <text encoding="base64">aWYgbm90IG9zLnBhdGguZXhpc3RzKGdjb196aXApCg==</text>
       </register>
       <register name="1" type="4">
-        <text>'gco-v3.0.zip'</text>
+        <text>stat.S_IXOTH</text>
       </register>
       <register name="2" type="4">
-        <text>gco_zip</text>
+        <text>stat.S_IXGRP</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ZGVmIGdldF9jb25kYV9wYXRoKCk6CiAgICBpbXBvcnQgb3MucGF0aCBhcyBvcAogICAgY29uZGFfcGF0aF9jYW5kaWRhdGVzID0gWwogICAgICAgICJ+L2FuYWNvbmRhL2JpbiIsCiAgICAgICAgIn4vbWluaWNvbmRhL2JpbiIsCiAgICAgICAgIn4vYW5hY29uZGEyL2JpbiIsCiAgICAgICAgIn4vbWluaWNvbmRhMi9iaW4iLAogICAgXQogICAgZm9yIGNwdGggaW4gY29uZGFfcGF0aF9jYW5kaWRhdGVzOgogICAgICAgIGNvbmRhX3B0aCA9IG9wLmV4cGFuZHVzZXIoY3B0aCkKICAgICAgICBpZiBvcC5leGlzdHMoY29uZGFfcHRoKToKICAgICAgICAgICAgcmV0dXJuIGNvbmRhX3B0aAogICAgcmV0dXJuIE5vbmUKCmRlZiBmaWxlX2NvcHlfYW5kX3JlcGxhY2VfbGluZXMoaW5fcGF0aCwgb3V0X3BhdGgpOgogICAgaW1wb3J0IHNodXRpbAogICAgaW1wb3J0IGZpbGVpbnB1dAoKICAgICMgcHJpbnQgInBhdGggdG8gc2NyaXB0OiIKICAgICMgcHJpbnQgcGF0aF90b19zY3JpcHQKICAgICMgbGlzYV9wYXRoID0gb3MucGF0aC5hYnNwYXRoKHBhdGhfdG9fc2NyaXB0KQogICAgIwogICAgc2h1dGlsLmNvcHkyKGluX3BhdGgsIG91dF9wYXRoKQogICAgY29uZGFfcGF0aCA9IGdldF9jb25kYV9wYXRoKCkKCiAgICAjIHByaW50ICdpcCAnLCBpbl9wYXRoCiAgICAjIHByaW50ICdvcCAnLCBvdXRfcGF0aAogICAgIyBwcmludCAnY3AgJywgY29uZGFfcGF0aAogICAgZm9yIGxpbmUgaW4gZmlsZWlucHV0LmlucHV0KG91dF9wYXRoLCBpbnBsYWNlPVRydWUpOgogICAgICAgICMgY29tYSBvbiBlbmQgbWFrZXMgbm8gbGluZWJyZWFrCiAgICAgICAgIyBsaW5lID0gbGluZS5yZXBsYWNlKCJAe0xJU0FfUEFUSH0iLCBsaXNhX3BhdGgpCiAgICAgICAgbGluZSA9IGxpbmUucmVwbGFjZSgiQHtDT05EQV9QQVRIfSIsIGNvbmRhX3BhdGgpCiAgICAgICAgcHJpbnQgbGluZQo=</text>
       </register>
       <register name="4" type="4">
-        <text>,</text>
+        <text>'gco-v3.0.zip'</text>
       </register>
       <register name="5" type="4">
-        <text>'</text>
+        <text>gco_zip</text>
       </register>
       <register name="6" type="4">
-        <text>tools</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="7" type="4">
+        <text>,</text>
+      </register>
+      <register name="8" type="4">
         <text>'</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2dldC5kb3dubG9hZCgKICAgICAgICAgICAgICAgICJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vbWppcmlrL2xpc2EvbWFzdGVyL2xpc2EvaWNvbnMvTElTQTI1Ni5wbmciLAogICAgICAgICAgICAgICAgb3V0PWxpc2FfaWNvbl9wYXRoKQo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgImh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9tamlyaWsvbGlzYS9tYXN0ZXIvYXBwbGljYXRpb25zL2hhLmRlc2t0b3AuaW4iCg==</text>
+      <register name="9" type="4">
+        <text>tools</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
