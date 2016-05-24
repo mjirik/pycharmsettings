@@ -62,13 +62,12 @@
         <mark key="]" line="328" column="21" />
         <mark key="." line="328" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1464028345289">
-        <mark key="a" line="1375" column="9" />
-        <mark key="'" line="1393" column="30" />
-        <mark key="[" line="1330" column="32" />
-        <mark key="]" line="1330" column="31" />
-        <mark key="." line="1330" column="31" />
-        <mark key="^" line="1330" column="31" />
+      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1464096157039">
+        <mark key="'" line="486" column="21" />
+        <mark key="[" line="1332" column="31" />
+        <mark key="]" line="1332" column="32" />
+        <mark key="." line="1332" column="32" />
+        <mark key="^" line="1329" column="13" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/gen_vtk_tree.py" timestamp="1463677085556">
         <mark key="'" line="133" column="0" />
@@ -88,6 +87,13 @@
         <mark key="]" line="38" column="69" />
         <mark key="^" line="40" column="23" />
         <mark key="." line="38" column="69" />
+      </file>
+      <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1464095653343">
+        <mark key="'" line="823" column="54" />
+        <mark key="[" line="58" column="94" />
+        <mark key="]" line="59" column="27" />
+        <mark key="." line="59" column="27" />
+        <mark key="^" line="59" column="27" />
       </file>
       <file name="$USER_HOME$/projects/lisa/tests/liver_segmentation_cerveny_test.py" timestamp="1449487905152">
         <mark key="[" line="30" column="23" />
@@ -352,6 +358,12 @@
         <mark key="." line="154" column="49" />
         <mark key="^" line="154" column="49" />
       </file>
+      <file name="$USER_HOME$/projects/lisa/requirements_conda.txt" timestamp="1464092446357">
+        <mark key="[" line="3" column="2" />
+        <mark key="]" line="4" column="29" />
+        <mark key="^" line="4" column="29" />
+        <mark key="." line="4" column="29" />
+      </file>
       <file name="$USER_HOME$/projects/io3d/io3d/connect.py" timestamp="1462980576099">
         <mark key="[" line="188" column="0" />
         <mark key="]" line="188" column="45" />
@@ -575,6 +587,11 @@
         <mark key="]" line="31" column="37" />
         <mark key="^" line="31" column="37" />
         <mark key="." line="31" column="37" />
+      </file>
+      <file name="$USER_HOME$/projects/lisa/meta.yaml" timestamp="1464092353501">
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="22" />
+        <mark key="." line="74" column="0" />
       </file>
       <file name="$USER_HOME$/projects/io3d/io3d/idxformat.py" timestamp="1447143786214">
         <mark key="'" line="29" column="47" />
@@ -808,9 +825,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="254" column="34" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
-      <jump line="257" column="34" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
-      <jump line="251" column="11" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
       <jump line="255" column="34" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
       <jump line="258" column="34" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
       <jump line="260" column="15" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
@@ -908,62 +922,63 @@
       <jump line="102" column="8" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="104" column="8" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="105" column="50" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="332" column="23" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="820" column="54" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="486" column="21" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxidG5SYW5kb21Sb3RhdGVcPg==</text>
+        <text>random</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNlZ21lbnRhdGlvbiA9IHNjaXB5Lm5kaW1hZ2UuaW50ZXJwb2xhdGlvbi5yb3RhdGUoc2VsZi5zZWdtZW50YXRpb24sIGFuZ2xlLCBheGVzKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnJvdGF0ZShhbmdsZSwgKDEsIDIpKQo=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+        <text>1</text>
       </register>
-      <register name="2" type="4">
-        <text>#</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIC0gc2Z0cHN5bmMgPj0xLjAuMgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBvcmdhbl9zZWdtZW50YXRpb24gaW1wb3J0IG1haW4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAnZmluaXNoZWQnCg==</text>
+        <text encoding="base64">ICAgICAgICAgd2l0aCBgcGlwYCBvciAgYGNvbmRhYAo=</text>
       </register>
-      <register name="5" type="4">
-        <text>autoSeeds</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCBzdWJwcm9jZXNzLmNhbGwoWydjb25kYScsICd1cGRhdGUnLCAnLXknLCAnLWMnLCAnbWppcmlrJywgJy1jJywgJ1NpbXBsZUlUSycsICdsaXNhJ10pICMsIHNoZWxsPVRydWUpCg==</text>
       </register>
       <register name="6" type="4">
-        <text>s</text>
+        <text>i</text>
       </register>
       <register name="7" type="4">
-        <text>d</text>
+        <text>r</text>
       </register>
       <register name="8" type="4">
-        <text>e</text>
+        <text>r</text>
       </register>
       <register name="9" type="4">
-        <text>e</text>
+        <text>r</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxidG5SYW5kb21Sb3RhdGVcPg==</last-search>
+      <last-search>random</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxidG5SYW5kb21Sb3RhdGVcPg==</last-pattern>
+      <last-pattern>random</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>re.</entry>
-        <entry encoding="base64">XDxfb3V0cHV0X2RhdGFwYXRoX3RvX3NlcnZlclw+</entry>
         <entry encoding="base64">XDxjcmVhdGVfbGlzYV9kYXRhX2Rpcl90cmVlXD4=</entry>
         <entry>dir</entry>
         <entry>_output_data</entry>
@@ -982,6 +997,8 @@
         <entry encoding="base64">XDxidG5Sb3RhdGVaXD4=</entry>
         <entry encoding="base64">XDxyYW5kb21Sb3RhdGVBY3Rpb25cPg==</entry>
         <entry encoding="base64">XDxidG5SYW5kb21Sb3RhdGVcPg==</entry>
+        <entry>logo</entry>
+        <entry>random</entry>
       </history-search>
       <history-cmd>
         <entry>592</entry>
@@ -996,13 +1013,13 @@
         <entry>166</entry>
         <entry>e</entry>
         <entry>292</entry>
-        <entry>W</entry>
         <entry>q</entry>
         <entry>114</entry>
         <entry>109</entry>
         <entry>57</entry>
         <entry>26</entry>
         <entry>81</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
