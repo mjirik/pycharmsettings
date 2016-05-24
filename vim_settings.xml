@@ -62,12 +62,12 @@
         <mark key="]" line="328" column="21" />
         <mark key="." line="328" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1464089224455">
-        <mark key="'" line="1405" column="30" />
-        <mark key="[" line="324" column="21" />
-        <mark key="]" line="325" column="24" />
-        <mark key="." line="325" column="24" />
-        <mark key="^" line="325" column="24" />
+      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1464096157039">
+        <mark key="'" line="486" column="21" />
+        <mark key="[" line="1332" column="31" />
+        <mark key="]" line="1332" column="32" />
+        <mark key="." line="1332" column="32" />
+        <mark key="^" line="1329" column="13" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/gen_vtk_tree.py" timestamp="1463677085556">
         <mark key="'" line="133" column="0" />
@@ -825,7 +825,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="251" column="11" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
       <jump line="255" column="34" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
       <jump line="258" column="34" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
       <jump line="260" column="15" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
@@ -925,37 +924,38 @@
       <jump line="105" column="50" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="332" column="23" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="820" column="54" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="486" column="21" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC0gc2Z0cHN5bmMgPj0xLjAuMgo=</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>logo</text>
+        <text>random</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNlZ21lbnRhdGlvbiA9IHNjaXB5Lm5kaW1hZ2UuaW50ZXJwb2xhdGlvbi5yb3RhdGUoc2VsZi5zZWdtZW50YXRpb24sIGFuZ2xlLCBheGVzKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnJvdGF0ZShhbmdsZSwgKDEsIDIpKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIC0gc2Z0cHN5bmMgPj0xLjAuMgo=</text>
+      <register name="1" type="4">
+        <text>1</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC0gc2Z0cHN5bmMgPj0xLjAuMgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgd2l0aCBgcGlwYCBvciAgYGNvbmRhYAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgd2l0aCBgcGlwYCBvciAgYGNvbmRhYAo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCBzdWJwcm9jZXNzLmNhbGwoWydjb25kYScsICd1cGRhdGUnLCAnLXknLCAnLWMnLCAnbWppcmlrJywgJy1jJywgJ1NpbXBsZUlUSycsICdsaXNhJ10pICMsIHNoZWxsPVRydWUpCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>i</text>
-      </register>
       <register name="6" type="4">
-        <text>r</text>
+        <text>i</text>
       </register>
       <register name="7" type="4">
         <text>r</text>
@@ -971,15 +971,14 @@
       </register>
     </registers>
     <search>
-      <last-search>logo</last-search>
+      <last-search>random</last-search>
       <last-offset />
-      <last-pattern>logo</last-pattern>
+      <last-pattern>random</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfb3V0cHV0X2RhdGFwYXRoX3RvX3NlcnZlclw+</entry>
         <entry encoding="base64">XDxjcmVhdGVfbGlzYV9kYXRhX2Rpcl90cmVlXD4=</entry>
         <entry>dir</entry>
         <entry>_output_data</entry>
@@ -999,6 +998,7 @@
         <entry encoding="base64">XDxyYW5kb21Sb3RhdGVBY3Rpb25cPg==</entry>
         <entry encoding="base64">XDxidG5SYW5kb21Sb3RhdGVcPg==</entry>
         <entry>logo</entry>
+        <entry>random</entry>
       </history-search>
       <history-cmd>
         <entry>592</entry>
