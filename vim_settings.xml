@@ -372,6 +372,12 @@
         <mark key="^" line="53" column="80" />
         <mark key="." line="53" column="80" />
       </file>
+      <file name="$USER_HOME$/projects/gco_python/setup.py" timestamp="1464124236840">
+        <mark key="[" line="26" column="25" />
+        <mark key="]" line="26" column="31" />
+        <mark key="." line="26" column="31" />
+        <mark key="^" line="26" column="31" />
+      </file>
       <file name="$USER_HOME$/projects/sobo/sobo/psongbook.py" timestamp="1463520226888">
         <mark key="'" line="186" column="4" />
         <mark key="[" line="367" column="33" />
@@ -946,43 +952,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>'gco-v3.0.zip'</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>'gco-v3.0.zip'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjdjJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmIG5vdCBvcC5leGlzdHMoaW5fcGF0aCk6CiAgICAgICAgdHJ5OgogICAgICAgICAgICB3Z2V0LmRvd25sb2FkKAogICAgICAgICAgICAgICAgIyAiaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL21qaXJpay9saXNhL21hc3Rlci9hcHBsaWNhdGlvbnMvaGEuZGVza3RvcC5pbiIKICAgICAgICAgICAgICAgICJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vbWppcmlrL2xpc2EvbWFzdGVyL2FwcGxpY2F0aW9ucy9saXNhLmRlc2t0b3AuaW4iLAogICAgICAgICAgICAgICAgb3V0PWluX3BhdGgpCiAgICAgICAgICAgIHdnZXQuZG93bmxvYWQoCiAgICAgICAgICAgICAgICAiaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL21qaXJpay9saXNhL21hc3Rlci9saXNhL2ljb25zL0xJU0EyNTYucG5nIiwKICAgICAgICAgICAgICAgIG91dD1saXNhX2ljb25fcGF0aCkKICAgICAgICBleGNlcHQ6CiAgICAgICAgICAgIGltcG9ydCB0cmFjZWJhY2sKICAgICAgICAgICAgbG9nZ2VyLndhcm5pbmcoJ2xvZ28gZG93bmxvYWQgZmFpbGVkJykKICAgICAgICAgICAgbG9nZ2VyLndhcm5pbmcodHJhY2ViYWNrLmZvcm1hdF9leGMoKSkK</text>
+        <text encoding="base64">aWYgbm90IG9zLnBhdGguZXhpc3RzKGdjb196aXApCg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+        <text>'gco-v3.0.zip'</text>
       </register>
       <register name="2" type="4">
-        <text>,</text>
+        <text>gco_zip</text>
       </register>
       <register name="3" type="4">
-        <text>'</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="4" type="4">
-        <text>tools</text>
+        <text>,</text>
       </register>
       <register name="5" type="4">
         <text>'</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2dldC5kb3dubG9hZCgKICAgICAgICAgICAgICAgICJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vbWppcmlrL2xpc2EvbWFzdGVyL2xpc2EvaWNvbnMvTElTQTI1Ni5wbmciLAogICAgICAgICAgICAgICAgb3V0PWxpc2FfaWNvbl9wYXRoKQo=</text>
+      <register name="6" type="4">
+        <text>tools</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgImh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9tamlyaWsvbGlzYS9tYXN0ZXIvYXBwbGljYXRpb25zL2hhLmRlc2t0b3AuaW4iCg==</text>
+      <register name="7" type="4">
+        <text>'</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2dldC5kb3dubG9hZCgKICAgICAgICAgICAgICAgICMgImh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9tamlyaWsvbGlzYS9tYXN0ZXIvYXBwbGljYXRpb25zL2hhLmRlc2t0b3AuaW4iCiAgICAgICAgICAgICAgICAiaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL21qaXJpay9saXNhL21hc3Rlci9hcHBsaWNhdGlvbnMvbGlzYS5kZXNrdG9wLmluIiwKICAgICAgICAgICAgICAgIG91dD1pbl9wYXRoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2dldC5kb3dubG9hZCgKICAgICAgICAgICAgICAgICJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vbWppcmlrL2xpc2EvbWFzdGVyL2xpc2EvaWNvbnMvTElTQTI1Ni5wbmciLAogICAgICAgICAgICAgICAgb3V0PWxpc2FfaWNvbl9wYXRoKQo=</text>
       </register>
-      <register name="9" type="4">
-        <text>in_path</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgImh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9tamlyaWsvbGlzYS9tYXN0ZXIvYXBwbGljYXRpb25zL2hhLmRlc2t0b3AuaW4iCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
