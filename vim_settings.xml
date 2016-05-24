@@ -84,6 +84,13 @@
         <mark key="^" line="40" column="23" />
         <mark key="." line="38" column="69" />
       </file>
+      <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1464088890056">
+        <mark key="'" line="332" column="23" />
+        <mark key="[" line="50" column="47" />
+        <mark key="]" line="50" column="47" />
+        <mark key="." line="50" column="47" />
+        <mark key="^" line="50" column="47" />
+      </file>
       <file name="$USER_HOME$/projects/lisa/tests/liver_segmentation_cerveny_test.py" timestamp="1449487905152">
         <mark key="[" line="30" column="23" />
         <mark key="]" line="30" column="29" />
@@ -815,7 +822,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="254" column="34" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
       <jump line="257" column="34" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
       <jump line="251" column="11" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
       <jump line="255" column="34" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
@@ -915,61 +921,61 @@
       <jump line="102" column="8" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="104" column="8" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="105" column="50" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="332" column="23" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>i</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxidG5SYW5kb21Sb3RhdGVcPg==</text>
+        <text>logo</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLnNlZ21lbnRhdGlvbiA9IHNjaXB5Lm5kaW1hZ2UuaW50ZXJwb2xhdGlvbi5yb3RhdGUoc2VsZi5zZWdtZW50YXRpb24sIGFuZ2xlLCBheGVzKQo=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+        <text>i</text>
       </register>
       <register name="2" type="4">
-        <text>#</text>
+        <text>r</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBvcmdhbl9zZWdtZW50YXRpb24gaW1wb3J0IG1haW4K</text>
+      <register name="3" type="4">
+        <text>r</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAnZmluaXNoZWQnCg==</text>
+      <register name="4" type="4">
+        <text>r</text>
       </register>
       <register name="5" type="4">
-        <text>autoSeeds</text>
+        <text>r</text>
       </register>
       <register name="6" type="4">
-        <text>s</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="7" type="4">
-        <text>d</text>
+        <text>#</text>
       </register>
-      <register name="8" type="4">
-        <text>e</text>
+      <register name="8" type="2">
+        <text encoding="base64">ZnJvbSBvcmdhbl9zZWdtZW50YXRpb24gaW1wb3J0IG1haW4K</text>
       </register>
-      <register name="9" type="4">
-        <text>e</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCAnZmluaXNoZWQnCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxidG5SYW5kb21Sb3RhdGVcPg==</last-search>
+      <last-search>logo</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxidG5SYW5kb21Sb3RhdGVcPg==</last-pattern>
+      <last-pattern>logo</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>re.</entry>
         <entry encoding="base64">XDxfb3V0cHV0X2RhdGFwYXRoX3RvX3NlcnZlclw+</entry>
         <entry encoding="base64">XDxjcmVhdGVfbGlzYV9kYXRhX2Rpcl90cmVlXD4=</entry>
         <entry>dir</entry>
@@ -989,6 +995,7 @@
         <entry encoding="base64">XDxidG5Sb3RhdGVaXD4=</entry>
         <entry encoding="base64">XDxyYW5kb21Sb3RhdGVBY3Rpb25cPg==</entry>
         <entry encoding="base64">XDxidG5SYW5kb21Sb3RhdGVcPg==</entry>
+        <entry>logo</entry>
       </history-search>
       <history-cmd>
         <entry>592</entry>
