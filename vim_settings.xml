@@ -62,8 +62,12 @@
         <mark key="]" line="328" column="21" />
         <mark key="." line="328" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1464028345289">
-        <mark key="'" line="1402" column="30" />
+      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1464089224455">
+        <mark key="'" line="1405" column="30" />
+        <mark key="[" line="324" column="21" />
+        <mark key="]" line="325" column="24" />
+        <mark key="." line="325" column="24" />
+        <mark key="^" line="325" column="24" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/gen_vtk_tree.py" timestamp="1463677085556">
         <mark key="'" line="133" column="0" />
@@ -84,12 +88,12 @@
         <mark key="^" line="40" column="23" />
         <mark key="." line="38" column="69" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1464088890056">
+      <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1464089182521">
         <mark key="'" line="332" column="23" />
-        <mark key="[" line="50" column="47" />
-        <mark key="]" line="50" column="47" />
-        <mark key="." line="50" column="47" />
-        <mark key="^" line="50" column="47" />
+        <mark key="[" line="820" column="0" />
+        <mark key="]" line="820" column="0" />
+        <mark key="." line="820" column="0" />
+        <mark key="^" line="819" column="24" />
       </file>
       <file name="$USER_HOME$/projects/lisa/tests/liver_segmentation_cerveny_test.py" timestamp="1449487905152">
         <mark key="[" line="30" column="23" />
@@ -584,8 +588,8 @@
         <mark key="^" line="31" column="37" />
         <mark key="." line="31" column="37" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/meta.yaml" timestamp="1464069826705">
-        <mark key="[" line="19" column="2" />
+      <file name="$USER_HOME$/projects/lisa/meta.yaml" timestamp="1464089521687">
+        <mark key="[" line="51" column="9" />
         <mark key="]" line="19" column="2" />
         <mark key="^" line="16" column="0" />
         <mark key="." line="19" column="2" />
@@ -924,8 +928,8 @@
       <jump line="332" column="23" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>i</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>i</text>
@@ -936,32 +940,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLnNlZ21lbnRhdGlvbiA9IHNjaXB5Lm5kaW1hZ2UuaW50ZXJwb2xhdGlvbi5yb3RhdGUoc2VsZi5zZWdtZW50YXRpb24sIGFuZ2xlLCBheGVzKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>i</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>r</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgd2l0aCBgcGlwYCBvciAgYGNvbmRhYAo=</text>
       </register>
-      <register name="3" type="4">
-        <text>r</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCBzdWJwcm9jZXNzLmNhbGwoWydjb25kYScsICd1cGRhdGUnLCAnLXknLCAnLWMnLCAnbWppcmlrJywgJy1jJywgJ1NpbXBsZUlUSycsICdsaXNhJ10pICMsIHNoZWxsPVRydWUpCg==</text>
       </register>
       <register name="4" type="4">
-        <text>r</text>
+        <text>i</text>
       </register>
       <register name="5" type="4">
         <text>r</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+        <text>r</text>
       </register>
       <register name="7" type="4">
-        <text>#</text>
+        <text>r</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBvcmdhbl9zZWdtZW50YXRpb24gaW1wb3J0IG1haW4K</text>
+      <register name="8" type="4">
+        <text>r</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAnZmluaXNoZWQnCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
