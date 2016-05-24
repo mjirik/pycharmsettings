@@ -370,6 +370,12 @@
         <mark key="." line="203" column="11" />
         <mark key="^" line="203" column="11" />
       </file>
+      <file name="$USER_HOME$/projects/lisa/lisa/update_stable.py" timestamp="1464111215095">
+        <mark key="[" line="81" column="65" />
+        <mark key="]" line="81" column="65" />
+        <mark key="^" line="81" column="64" />
+        <mark key="." line="81" column="65" />
+      </file>
       <file name="$USER_HOME$/projects/lisa/INSTALL.md" timestamp="1448570601058">
         <mark key="[" line="53" column="67" />
         <mark key="]" line="53" column="80" />
@@ -588,10 +594,11 @@
         <mark key="^" line="31" column="37" />
         <mark key="." line="31" column="37" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/meta.yaml" timestamp="1464092353501">
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="22" />
-        <mark key="." line="74" column="0" />
+      <file name="$USER_HOME$/projects/lisa/meta.yaml" timestamp="1464110789571">
+        <mark key="[" line="74" column="22" />
+        <mark key="]" line="74" column="21" />
+        <mark key="." line="74" column="21" />
+        <mark key="^" line="74" column="21" />
       </file>
       <file name="$USER_HOME$/projects/io3d/io3d/idxformat.py" timestamp="1447143786214">
         <mark key="'" line="29" column="47" />
@@ -928,10 +935,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>random</text>
@@ -940,25 +947,25 @@
         <text encoding="base64">ICAgICAgICBzZWxmLnJvdGF0ZShhbmdsZSwgKDEsIDIpKQo=</text>
       </register>
       <register name="1" type="4">
+        <text>'</text>
+      </register>
+      <register name="2" type="4">
         <text>1</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgIC0gc2Z0cHN5bmMgPj0xLjAuMgo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgd2l0aCBgcGlwYCBvciAgYGNvbmRhYAo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCBzdWJwcm9jZXNzLmNhbGwoWydjb25kYScsICd1cGRhdGUnLCAnLXknLCAnLWMnLCAnbWppcmlrJywgJy1jJywgJ1NpbXBsZUlUSycsICdsaXNhJ10pICMsIHNoZWxsPVRydWUpCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>i</text>
-      </register>
       <register name="7" type="4">
-        <text>r</text>
+        <text>i</text>
       </register>
       <register name="8" type="4">
         <text>r</text>
