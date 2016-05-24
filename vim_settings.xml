@@ -53,13 +53,13 @@
         <mark key="^" line="31" column="21" />
         <mark key="." line="31" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1464115914833">
-        <mark key="a" line="1308" column="7" />
-        <mark key="'" line="1234" column="8" />
-        <mark key="[" line="1317" column="28" />
-        <mark key="]" line="1319" column="65" />
-        <mark key="." line="1319" column="65" />
-        <mark key="^" line="1319" column="65" />
+      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1464127731835">
+        <mark key="a" line="1310" column="7" />
+        <mark key="'" line="1236" column="8" />
+        <mark key="[" line="325" column="21" />
+        <mark key="]" line="327" column="33" />
+        <mark key="." line="327" column="33" />
+        <mark key="^" line="327" column="33" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/gen_vtk_tree.py" timestamp="1463677085556">
         <mark key="'" line="133" column="0" />
@@ -80,8 +80,8 @@
         <mark key="^" line="40" column="23" />
         <mark key="." line="38" column="69" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1464117206552">
-        <mark key="'" line="191" column="21" />
+      <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1464127502647">
+        <mark key="'" line="179" column="40" />
         <mark key="[" line="56" column="0" />
         <mark key="]" line="62" column="49" />
         <mark key="." line="59" column="27" />
@@ -359,12 +359,12 @@
         <mark key="." line="203" column="11" />
         <mark key="^" line="203" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/update_stable.py" timestamp="1464115839026">
-        <mark key="'" line="144" column="34" />
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="83" column="8" />
-        <mark key="^" line="101" column="40" />
-        <mark key="." line="101" column="40" />
+      <file name="$USER_HOME$/projects/lisa/lisa/update_stable.py" timestamp="1464127812842">
+        <mark key="'" line="148" column="34" />
+        <mark key="[" line="83" column="49" />
+        <mark key="]" line="83" column="74" />
+        <mark key="^" line="83" column="74" />
+        <mark key="." line="83" column="74" />
       </file>
       <file name="$USER_HOME$/projects/lisa/INSTALL.md" timestamp="1448570601058">
         <mark key="[" line="53" column="67" />
@@ -849,8 +849,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="557" column="48" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
-      <jump line="399" column="4" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
       <jump line="267" column="4" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
       <jump line="12" column="0" filename="$USER_HOME$/projects/lisa/lisa/dataset.py" />
       <jump line="25" column="4" filename="$USER_HOME$/projects/lisa/lisa/dataset.py" />
@@ -949,62 +947,62 @@
       <jump line="209" column="23" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
       <jump line="250" column="11" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
       <jump line="254" column="34" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
+      <jump line="42" column="29" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="179" column="40" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>stat.S_IXOTH</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>stat.S_IXOTH</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjdjJcPg==</text>
+        <text encoding="base64">XDxidG5VcGRhdGVcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aWYgbm90IG9zLnBhdGguZXhpc3RzKGdjb196aXApCg==</text>
       </register>
       <register name="1" type="4">
-        <text>stat.S_IXOTH</text>
+        <text>s</text>
       </register>
       <register name="2" type="4">
-        <text>stat.S_IXGRP</text>
+        <text>_with_no_lisa_in_projects_dir</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ZGVmIGdldF9jb25kYV9wYXRoKCk6CiAgICBpbXBvcnQgb3MucGF0aCBhcyBvcAogICAgY29uZGFfcGF0aF9jYW5kaWRhdGVzID0gWwogICAgICAgICJ+L2FuYWNvbmRhL2JpbiIsCiAgICAgICAgIn4vbWluaWNvbmRhL2JpbiIsCiAgICAgICAgIn4vYW5hY29uZGEyL2JpbiIsCiAgICAgICAgIn4vbWluaWNvbmRhMi9iaW4iLAogICAgXQogICAgZm9yIGNwdGggaW4gY29uZGFfcGF0aF9jYW5kaWRhdGVzOgogICAgICAgIGNvbmRhX3B0aCA9IG9wLmV4cGFuZHVzZXIoY3B0aCkKICAgICAgICBpZiBvcC5leGlzdHMoY29uZGFfcHRoKToKICAgICAgICAgICAgcmV0dXJuIGNvbmRhX3B0aAogICAgcmV0dXJuIE5vbmUKCmRlZiBmaWxlX2NvcHlfYW5kX3JlcGxhY2VfbGluZXMoaW5fcGF0aCwgb3V0X3BhdGgpOgogICAgaW1wb3J0IHNodXRpbAogICAgaW1wb3J0IGZpbGVpbnB1dAoKICAgICMgcHJpbnQgInBhdGggdG8gc2NyaXB0OiIKICAgICMgcHJpbnQgcGF0aF90b19zY3JpcHQKICAgICMgbGlzYV9wYXRoID0gb3MucGF0aC5hYnNwYXRoKHBhdGhfdG9fc2NyaXB0KQogICAgIwogICAgc2h1dGlsLmNvcHkyKGluX3BhdGgsIG91dF9wYXRoKQogICAgY29uZGFfcGF0aCA9IGdldF9jb25kYV9wYXRoKCkKCiAgICAjIHByaW50ICdpcCAnLCBpbl9wYXRoCiAgICAjIHByaW50ICdvcCAnLCBvdXRfcGF0aAogICAgIyBwcmludCAnY3AgJywgY29uZGFfcGF0aAogICAgZm9yIGxpbmUgaW4gZmlsZWlucHV0LmlucHV0KG91dF9wYXRoLCBpbnBsYWNlPVRydWUpOgogICAgICAgICMgY29tYSBvbiBlbmQgbWFrZXMgbm8gbGluZWJyZWFrCiAgICAgICAgIyBsaW5lID0gbGluZS5yZXBsYWNlKCJAe0xJU0FfUEFUSH0iLCBsaXNhX3BhdGgpCiAgICAgICAgbGluZSA9IGxpbmUucmVwbGFjZSgiQHtDT05EQV9QQVRIfSIsIGNvbmRhX3BhdGgpCiAgICAgICAgcHJpbnQgbGluZQo=</text>
+      <register name="3" type="4">
+        <text>stat.S_IXOTH</text>
       </register>
       <register name="4" type="4">
-        <text>'gco-v3.0.zip'</text>
+        <text>stat.S_IXGRP</text>
       </register>
-      <register name="5" type="4">
-        <text>gco_zip</text>
+      <register name="5" type="2">
+        <text encoding="base64">ZGVmIGdldF9jb25kYV9wYXRoKCk6CiAgICBpbXBvcnQgb3MucGF0aCBhcyBvcAogICAgY29uZGFfcGF0aF9jYW5kaWRhdGVzID0gWwogICAgICAgICJ+L2FuYWNvbmRhL2JpbiIsCiAgICAgICAgIn4vbWluaWNvbmRhL2JpbiIsCiAgICAgICAgIn4vYW5hY29uZGEyL2JpbiIsCiAgICAgICAgIn4vbWluaWNvbmRhMi9iaW4iLAogICAgXQogICAgZm9yIGNwdGggaW4gY29uZGFfcGF0aF9jYW5kaWRhdGVzOgogICAgICAgIGNvbmRhX3B0aCA9IG9wLmV4cGFuZHVzZXIoY3B0aCkKICAgICAgICBpZiBvcC5leGlzdHMoY29uZGFfcHRoKToKICAgICAgICAgICAgcmV0dXJuIGNvbmRhX3B0aAogICAgcmV0dXJuIE5vbmUKCmRlZiBmaWxlX2NvcHlfYW5kX3JlcGxhY2VfbGluZXMoaW5fcGF0aCwgb3V0X3BhdGgpOgogICAgaW1wb3J0IHNodXRpbAogICAgaW1wb3J0IGZpbGVpbnB1dAoKICAgICMgcHJpbnQgInBhdGggdG8gc2NyaXB0OiIKICAgICMgcHJpbnQgcGF0aF90b19zY3JpcHQKICAgICMgbGlzYV9wYXRoID0gb3MucGF0aC5hYnNwYXRoKHBhdGhfdG9fc2NyaXB0KQogICAgIwogICAgc2h1dGlsLmNvcHkyKGluX3BhdGgsIG91dF9wYXRoKQogICAgY29uZGFfcGF0aCA9IGdldF9jb25kYV9wYXRoKCkKCiAgICAjIHByaW50ICdpcCAnLCBpbl9wYXRoCiAgICAjIHByaW50ICdvcCAnLCBvdXRfcGF0aAogICAgIyBwcmludCAnY3AgJywgY29uZGFfcGF0aAogICAgZm9yIGxpbmUgaW4gZmlsZWlucHV0LmlucHV0KG91dF9wYXRoLCBpbnBsYWNlPVRydWUpOgogICAgICAgICMgY29tYSBvbiBlbmQgbWFrZXMgbm8gbGluZWJyZWFrCiAgICAgICAgIyBsaW5lID0gbGluZS5yZXBsYWNlKCJAe0xJU0FfUEFUSH0iLCBsaXNhX3BhdGgpCiAgICAgICAgbGluZSA9IGxpbmUucmVwbGFjZSgiQHtDT05EQV9QQVRIfSIsIGNvbmRhX3BhdGgpCiAgICAgICAgcHJpbnQgbGluZQo=</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+        <text>'gco-v3.0.zip'</text>
       </register>
       <register name="7" type="4">
-        <text>,</text>
+        <text>gco_zip</text>
       </register>
       <register name="8" type="4">
-        <text>'</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="9" type="4">
-        <text>tools</text>
+        <text>,</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjdjJcPg==</last-search>
+      <last-search encoding="base64">XDxidG5VcGRhdGVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjdjJcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxidG5VcGRhdGVcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Load file</entry>
-        <entry>log</entry>
         <entry encoding="base64">XDxsb2dnZXJfaW5pdFw+</entry>
         <entry>cbLog</entry>
         <entry encoding="base64">XDxidG5Mb2dcPg==</entry>
@@ -1023,6 +1021,8 @@
         <entry>wget</entry>
         <entry>Not</entry>
         <entry encoding="base64">XDxjdjJcPg==</entry>
+        <entry>update</entry>
+        <entry encoding="base64">XDxidG5VcGRhdGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>592</entry>
