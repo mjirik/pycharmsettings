@@ -53,13 +53,13 @@
         <mark key="^" line="31" column="21" />
         <mark key="." line="31" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1464212125964">
+      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1464214044907">
         <mark key="a" line="1310" column="7" />
         <mark key="'" line="92" column="7" />
-        <mark key="[" line="1589" column="27" />
-        <mark key="]" line="1592" column="17" />
-        <mark key="." line="1592" column="17" />
-        <mark key="^" line="1592" column="17" />
+        <mark key="[" line="1558" column="16" />
+        <mark key="]" line="1558" column="20" />
+        <mark key="." line="1558" column="20" />
+        <mark key="^" line="1558" column="20" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/gen_vtk_tree.py" timestamp="1463677085556">
         <mark key="'" line="133" column="0" />
@@ -372,12 +372,10 @@
         <mark key="." line="203" column="11" />
         <mark key="^" line="203" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/update_stable.py" timestamp="1464168321766">
-        <mark key="'" line="26" column="53" />
-        <mark key="[" line="86" column="87" />
-        <mark key="]" line="86" column="87" />
-        <mark key="^" line="86" column="87" />
-        <mark key="." line="86" column="87" />
+      <file name="$USER_HOME$/projects/lisa/lisa/update_stable.py" timestamp="1464213812405">
+        <mark key="a" line="86" column="0" />
+        <mark key="'" line="10" column="8" />
+        <mark key="[" line="87" column="35" />
       </file>
       <file name="$USER_HOME$/projects/lisa/INSTALL.md" timestamp="1448570601058">
         <mark key="[" line="53" column="67" />
@@ -455,11 +453,11 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/main.py" timestamp="1464212432410">
-        <mark key="[" line="17" column="4" />
-        <mark key="]" line="17" column="8" />
-        <mark key="." line="17" column="8" />
-        <mark key="^" line="17" column="8" />
+      <file name="$USER_HOME$/projects/lisa/lisa/main.py" timestamp="1464214008999">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="49" column="8" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/projects/gco_python/meta.yaml" timestamp="1464123090767">
         <mark key="[" line="36" column="6" />
@@ -859,17 +857,15 @@
         <mark key="^" line="9" column="56" />
         <mark key="." line="9" column="56" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/lisa_data.py" timestamp="1464211805725">
+      <file name="$USER_HOME$/projects/lisa/lisa/lisa_data.py" timestamp="1464213737615">
         <mark key="a" line="21" column="0" />
         <mark key="'" line="163" column="0" />
-        <mark key="[" line="128" column="0" />
-        <mark key="]" line="128" column="0" />
+        <mark key="[" line="131" column="0" />
+        <mark key="]" line="131" column="42" />
         <mark key="." line="128" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="935" column="42" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
-      <jump line="189" column="41" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="72" column="24" filename="$USER_HOME$/projects/lisa/lisa/logWindow.py" />
       <jump line="91" column="23" filename="$USER_HOME$/projects/lisa/lisa/logWindow.py" />
       <jump line="98" column="13" filename="$USER_HOME$/projects/lisa/lisa/logWindow.py" />
@@ -968,46 +964,48 @@
       <jump line="46" column="20" filename="$USER_HOME$/projects/lisa/lisa/show_segmentation.py" />
       <jump line="107" column="4" filename="$USER_HOME$/projects/lisa/lisa/show_segmentation.py" />
       <jump line="43" column="23" filename="$USER_HOME$/projects/lisa/lisa/show_segmentation.py" />
+      <jump line="86" column="0" filename="$USER_HOME$/projects/lisa/lisa/update_stable.py" />
+      <jump line="10" column="8" filename="$USER_HOME$/projects/lisa/lisa/update_stable.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>__main__</text>
+        <text>]</text>
       </register>
       <register name="-" type="4">
-        <text>__main__</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaG93U2VnbWVudGF0aW9uXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoCiAgICAgICAgJy1zcycsCiAgICAgICAgJy0tc2VnbWVudGF0aW9uX3Ntb290aGluZycsCiAgICAgICAgYWN0aW9uPSdzdG9yZV90cnVlJywKICAgICAgICBoZWxwPSdTbW9vdGhpbmcgb2Ygb3V0cHV0IHNlZ21lbnRhdGlvbicsCiAgICAgICAgZGVmYXVsdD1jZmdbInNlZ21lbnRhdGlvbl9zbW9vdGhpbmciXQogICAgKQo=</text>
+        <text encoding="base64">ICAgIGlmIG5vdCBvcy5wYXRoLmV4aXN0cyhsaXNhX2ljb25fcGF0aCk6Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>__main__</text>
+        <text>]</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBvcmdhbl9zZWdtZW50YXRpb24gaW1wb3J0IG1haW4K</text>
+      <register name="2" type="4">
+        <text>&quot;</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ZGVmIG1haW4oKToKICAgIGltcG9ydCBhcmdwYXJzZQoKCiAgICBwYXJzZXIgPSBhcmdwYXJzZS5Bcmd1bWVudFBhcnNlcigKICAgICAgICAjIFR1cm4gb2ZmIGhlbHAsIHNvIHdlIHByaW50IGFsbCBvcHRpb25zIGluIHJlc3BvbnNlIHRvIC1oCiAgICAgICAgYWRkX2hlbHA9RmFsc2UKICAgICkKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoCiAgICAgICAgJy1uaScsICctLW5vX2ludGVyYWN0aXZpdHknLCBhY3Rpb249J3N0b3JlX3RydWUnLAogICAgICAgIGhlbHA9J3J1biBpbiBubyBpbnRlcmFjdGl2aXR5IG1vZGUsIHNlZWRzIG11c3QgYmUgZGVmaW5lZCcpCiAgICAjIFJlYWQgYWx0ZXJuYXRpdmUgY29uZmlnIGZpbGUuIEZpcnN0IGlzIGxvYWRlZCBkZWZhdWx0IGNvbmZpZy4gVGhlbiB1c2VyCiAgICAjIGNvbmZpZyBpbiBsaXNhX2RhdGEgZGlyZWN0b3J5LiBBZnRlciB0aGF0IGlzIHJlYWRlZCBjb25maWcgZGVmaW5lZCBieQogICAgIyAtLWNvbmZpZ2ZpbGUgcGFyYW1ldGVyCiAgICBrbm93bmFyZ3MsIHVua25vd25hcmdzID0gcGFyc2VyLnBhcnNlX2tub3duX2FyZ3MoKQoKICAgIGlmIGtub3duYXJncy5ub19pbnRlcmFjdGl2aXR5OgogICAgICAgIGltcG9ydCBvcmdhbl9zZWdtZW50YXRpb24KICAgICAgICBvcmdhbl9zZWdtZW50YXRpb24ubWFpbigpCiAgICBlbHNlOgoKICAgICAgICBpbXBvcnQgUHlRdDQKICAgICAgICBpbXBvcnQgUHlRdDQuUXRHdWkKICAgICAgICBpbXBvcnQgc3lzCiAgICAgICAgZnJvbSBQeVF0NC5RdEd1aSBpbXBvcnQgUUFwcGxpY2F0aW9uCiAgICAgICAgYXBwID0gUUFwcGxpY2F0aW9uKHN5cy5hcmd2KQogICAgICAgICMgQ3JlYXRlIGFuZCBkaXNwbGF5IHRoZSBzcGxhc2ggc2NyZWVuCiAgICAgICAgaW1wb3J0IHNwbGFzaF9zY3JlZW4KICAgICAgICBzcGxhc2ggPSBzcGxhc2hfc2NyZWVuLnNwbGFzaF9zY3JlZW4oYXBwKQogICAgICAgIGltcG9ydCBvcmdhbl9zZWdtZW50YXRpb24KICAgICAgICBvcmdhbl9zZWdtZW50YXRpb24ubWFpbihhcHAsIHNwbGFzaCkK</text>
+      <register name="3" type="4">
+        <text>make_icon</text>
       </register>
       <register name="4" type="4">
-        <text>segmentation_smoothing</text>
+        <text>[&quot;</text>
       </register>
       <register name="5" type="4">
-        <text>segmentation</text>
+        <text>cfg</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">b3V0cHV0IA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">b2Yg</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">U21vb3RoaW5nIA==</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>segmentation_smoothing</text>
+      <register name="9" type="2">
+        <text encoding="base64">ZGVmIG1haW4oKToKICAgIGxvZ2dlciA9IGxvZ2dpbmcuZ2V0TG9nZ2VyKCkKCiAgICBsb2dnZXIuc2V0TGV2ZWwobG9nZ2luZy5ERUJVRykKICAgIGNoID0gbG9nZ2luZy5TdHJlYW1IYW5kbGVyKCkKICAgIGxvZ2dlci5hZGRIYW5kbGVyKGNoKQoKICAgICMgY3JlYXRlIGZpbGUgaGFuZGxlciB3aGljaCBsb2dzIGV2ZW4gZGVidWcgbWVzc2FnZXMKICAgICMgZmggPSBsb2dnaW5nLkZpbGVIYW5kbGVyKCdsb2cudHh0JykKICAgICMgZmguc2V0TGV2ZWwobG9nZ2luZy5ERUJVRykKICAgICMgZm9ybWF0dGVyID0gbG9nZ2luZy5Gb3JtYXR0ZXIoCiAgICAjICAgICAnJShhc2N0aW1lKXMgLSAlKG5hbWUpcyAtICUobGV2ZWxuYW1lKXMgLSAlKG1lc3NhZ2UpcycpCiAgICAjIGZoLnNldEZvcm1hdHRlcihmb3JtYXR0ZXIpCiAgICAjIGxvZ2dlci5hZGRIYW5kbGVyKGZoKQogICAgIyBsb2dnZXIuZGVidWcoJ3N0YXJ0JykKCiAgICAjIGlucHV0IHBhcnNlcgogICAgcGFyc2VyID0gYXJncGFyc2UuQXJndW1lbnRQYXJzZXIoCiAgICAgICAgZGVzY3JpcHRpb249X19kb2NfXwogICAgKQogICAgcGFyc2VyLmFkZF9hcmd1bWVudCgKICAgICAgICAnLWknLCAnLS1pbnB1dGZpbGUnLAogICAgICAgIGRlZmF1bHQ9Tm9uZSwKICAgICAgICByZXF1aXJlZD1UcnVlLAogICAgICAgIGhlbHA9J2lucHV0IGZpbGUnCiAgICApCiAgICBwYXJzZXIuYWRkX2FyZ3VtZW50KAogICAgICAgICctZCcsICctLWRlYnVnJywgYWN0aW9uPSdzdG9yZV90cnVlJywKICAgICAgICBoZWxwPSdEZWJ1ZyBtb2RlJykKICAgIGFyZ3MgPSBwYXJzZXIucGFyc2VfYXJncygpCgogICAgaWYgYXJncy5kZWJ1ZzoKICAgICAgICBjaC5zZXRMZXZlbChsb2dnaW5nLkRFQlVHKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
