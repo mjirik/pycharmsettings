@@ -212,12 +212,12 @@
         <mark key="^" line="19" column="0" />
         <mark key="." line="15" column="37" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/splash_screen.py" timestamp="1464165632575">
+      <file name="$USER_HOME$/projects/lisa/lisa/splash_screen.py" timestamp="1464165742706">
         <mark key="'" line="60" column="21" />
-        <mark key="[" line="32" column="56" />
-        <mark key="]" line="32" column="61" />
-        <mark key="^" line="32" column="61" />
-        <mark key="." line="32" column="61" />
+        <mark key="[" line="32" column="59" />
+        <mark key="]" line="32" column="62" />
+        <mark key="^" line="32" column="62" />
+        <mark key="." line="32" column="62" />
       </file>
       <file name="$USER_HOME$/projects/quanta/quantan/quantan.py" timestamp="1451651778872">
         <mark key="'" line="189" column="34" />
@@ -956,11 +956,11 @@
       <jump line="163" column="0" filename="$USER_HOME$/projects/lisa/lisa/lisa_data.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGlmIG5vdCBvcy5wYXRoLmV4aXN0cyhsaXNhX2ljb25fcGF0aCk6CiAgICAgICAgdHJ5OgogICAgICAgICAgICB3Z2V0LmRvd25sb2FkKAogICAgICAgICAgICAgICAgImh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9tamlyaWsvbGlzYS9tYXN0ZXIvYXBwbGljYXRpb25zL0xJU0EyNTYuaWNucyIsCiAgICAgICAgICAgICAgICBvdXQ9bGlzYV9pY29uX3BhdGgKICAgICAgICAgICAgKQogICAgICAgIGV4Y2VwdDoKICAgICAgICAgICAgbG9nZ2VyLndhcm5pbmcoJ2xvZ28gZG93bmxvYWQgZmFpbGVkJykK</text>
+      <register name="&quot;" type="4">
+        <text>Gui</text>
       </register>
       <register name="-" type="4">
-        <text>icns</text>
+        <text>Gui</text>
       </register>
       <register name="/" type="4">
         <text>png</text>
@@ -968,32 +968,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGlmIG5vdCBvcC5leGlzdHMobGlzYV9pY29uX3BhdGgpOgogICAgICAgIHRyeToKICAgICAgICAgICAgd2dldC5kb3dubG9hZCgKICAgICAgICAgICAgICAgICJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vbWppcmlrL2xpc2EvbWFzdGVyL2xpc2EvaWNvbnMvTElTQTI1Ni5wbmciLAogICAgICAgICAgICAgICAgb3V0PWxpc2FfaWNvbl9wYXRoKQogICAgICAgIGV4Y2VwdDoKICAgICAgICAgICAgaW1wb3J0IHRyYWNlYmFjawogICAgICAgICAgICBsb2dnZXIud2FybmluZygnbG9nbyBkb3dubG9hZCBmYWlsZWQnKQogICAgICAgICAgICBsb2dnZXIud2FybmluZyh0cmFjZWJhY2suZm9ybWF0X2V4YygpKQo=</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text>Gui</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgIGlmIG5vdCBvcy5wYXRoLmV4aXN0cyhsaXNhX2ljb25fcGF0aCk6CiAgICAgICAgdHJ5OgogICAgICAgICAgICB3Z2V0LmRvd25sb2FkKAogICAgICAgICAgICAgICAgImh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9tamlyaWsvbGlzYS9tYXN0ZXIvYXBwbGljYXRpb25zL0xJU0EyNTYuaWNucyIsCiAgICAgICAgICAgICAgICBvdXQ9bGlzYV9pY29uX3BhdGgKICAgICAgICAgICAgKQogICAgICAgIGV4Y2VwdDoKICAgICAgICAgICAgbG9nZ2VyLndhcm5pbmcoJ2xvZ28gZG93bmxvYWQgZmFpbGVkJykK</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>icns</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>/</text>
       </register>
-      <register name="4" type="4">
-        <text>a</text>
-      </register>
       <register name="5" type="4">
-        <text>t</text>
+        <text>a</text>
       </register>
       <register name="6" type="4">
-        <text>a</text>
+        <text>t</text>
       </register>
       <register name="7" type="4">
-        <text>d</text>
+        <text>a</text>
       </register>
       <register name="8" type="4">
-        <text>_</text>
+        <text>d</text>
       </register>
       <register name="9" type="4">
-        <text>a</text>
+        <text>_</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
