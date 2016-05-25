@@ -245,12 +245,11 @@
         <mark key="^" line="1" column="12" />
         <mark key="." line="1" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/show_segmentation.py" timestamp="1464202519535">
-        <mark key="'" line="48" column="20" />
-        <mark key="[" line="51" column="20" />
-        <mark key="]" line="51" column="20" />
-        <mark key="^" line="24" column="57" />
-        <mark key="." line="51" column="20" />
+      <file name="$USER_HOME$/projects/lisa/lisa/show_segmentation.py" timestamp="1464203521931">
+        <mark key="'" line="41" column="23" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/projects/quantan/quantan/histology_report.py" timestamp="1452186060856">
         <mark key="[" line="269" column="34" />
@@ -861,7 +860,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1379" column="30" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="935" column="42" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="189" column="41" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="72" column="24" filename="$USER_HOME$/projects/lisa/lisa/logWindow.py" />
@@ -959,63 +957,63 @@
       <jump line="19" column="22" filename="$USER_HOME$/projects/lisa/lisa/show_segmentation.py" />
       <jump line="40" column="16" filename="$USER_HOME$/projects/lisa/lisa/show_segmentation.py" />
       <jump line="42" column="26" filename="$USER_HOME$/projects/lisa/lisa/show_segmentation.py" />
-      <jump line="43" column="28" filename="$USER_HOME$/projects/lisa/lisa/show_segmentation.py" />
       <jump line="46" column="20" filename="$USER_HOME$/projects/lisa/lisa/show_segmentation.py" />
+      <jump line="107" column="4" filename="$USER_HOME$/projects/lisa/lisa/show_segmentation.py" />
+      <jump line="43" column="23" filename="$USER_HOME$/projects/lisa/lisa/show_segmentation.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>outputfile</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZWcyZmVtXD4=</text>
+        <text encoding="base64">XDxzaG93U2VnbWVudGF0aW9uXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC0gbGlzYSA9IGxpc2E6bWFpbgo=</text>
+        <text encoding="base64">ICAgIHZ0a19maWxlID0gIm1lc2hfZ2VvbS52dGsiCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>.</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>seg2fem</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="4">
-        <text>.</text>
+        <text>outputfile</text>
       </register>
-      <register name="4" type="4">
-        <text>seg2fem</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHZ0a19maWxlID0gIm1lc2hfZ2VvbS52dGsiCg==</text>
       </register>
       <register name="5" type="4">
-        <text>.</text>
+        <text encoding="base64">b3V0cHV0ZmlsZSA=</text>
       </register>
       <register name="6" type="4">
-        <text>seg2fem</text>
+        <text>outputfile</text>
       </register>
       <register name="7" type="4">
-        <text>:</text>
+        <text>l</text>
       </register>
       <register name="8" type="4">
-        <text>main</text>
+        <text>k</text>
       </register>
       <register name="9" type="4">
-        <text>root</text>
+        <text>p</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZWcyZmVtXD4=</last-search>
+      <last-search encoding="base64">XDxzaG93U2VnbWVudGF0aW9uXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZWcyZmVtXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxzaG93U2VnbWVudGF0aW9uXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>file</entry>
         <entry>menu</entry>
         <entry encoding="base64">XDxidG5Sb3RhdGVaXD4=</entry>
         <entry encoding="base64">XDxyYW5kb21Sb3RhdGVBY3Rpb25cPg==</entry>
@@ -1035,6 +1033,7 @@
         <entry>version</entry>
         <entry encoding="base64">XDxnZXRWZXJzaW9uU3RyaW5nXD4=</entry>
         <entry encoding="base64">XDxzZWcyZmVtXD4=</entry>
+        <entry encoding="base64">XDxzaG93U2VnbWVudGF0aW9uXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>592</entry>
