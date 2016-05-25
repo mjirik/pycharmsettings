@@ -99,10 +99,11 @@
         <mark key="^" line="12" column="21" />
         <mark key="." line="12" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/installer.sh" timestamp="1464171012027">
-        <mark key="[" line="143" column="0" />
-        <mark key="]" line="143" column="0" />
-        <mark key="." line="143" column="0" />
+      <file name="$USER_HOME$/projects/lisa/installer.sh" timestamp="1464175371088">
+        <mark key="[" line="113" column="29" />
+        <mark key="]" line="113" column="31" />
+        <mark key="^" line="113" column="31" />
+        <mark key="." line="113" column="31" />
       </file>
       <file name="$USER_HOME$/projects/psongbook/meta.yml" timestamp="1463464886020">
         <mark key="[" line="61" column="34" />
@@ -959,43 +960,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>root</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>root</text>
       </register>
       <register name="/" type="4">
         <text>requirements_pip</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uZGEgaW5zdGFsbCAtLXllcyAtYyBTaW1wbGVJVEsgLWMgbWVucG8gLWMgbWppcmlrICAtLWZpbGUgcmVxdWlyZW1lbnRzX2NvbmRhLnR4dAo=</text>
+        <text encoding="base64">ZmlsZT0icmVxdWlyZW1lbnRzX3Jvb3QudHh0IgppZiBbIC1mICRmaWxlIF0gOyB0aGVuCiAgICBybSAkZmlsZQpmaQo=</text>
       </register>
       <register name="1" type="4">
-        <text>0</text>
+        <text>root</text>
       </register>
       <register name="2" type="4">
-        <text>1</text>
+        <text>pip</text>
       </register>
       <register name="3" type="4">
+        <text>0</text>
+      </register>
+      <register name="4" type="4">
+        <text>1</text>
+      </register>
+      <register name="5" type="4">
         <text>--file requirements_conda.txt</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGVjaG8gIkNsb25pbmcgdW5zdGFibGUgYnJhbmNoIHVzaW5nIGh0dHAiCg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>version</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text encoding="base64">c3RhYmxlIA==</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">Q2xvbmluZyA=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ZWxpZiBbICIkQVJHMSIgPSAiIiBdIDsgdGhlbgogICAgZWNobyAiQ2xvbmluZyB1bnN0YWJsZSBicmFuY2ggdXNpbmcgc3NoIgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
