@@ -53,13 +53,13 @@
         <mark key="^" line="31" column="21" />
         <mark key="." line="31" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1464192521393">
+      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1464212125964">
         <mark key="a" line="1310" column="7" />
         <mark key="'" line="92" column="7" />
-        <mark key="[" line="231" column="12" />
-        <mark key="]" line="231" column="7" />
-        <mark key="." line="231" column="7" />
-        <mark key="^" line="231" column="7" />
+        <mark key="[" line="1589" column="27" />
+        <mark key="]" line="1592" column="17" />
+        <mark key="." line="1592" column="17" />
+        <mark key="^" line="1592" column="17" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/gen_vtk_tree.py" timestamp="1463677085556">
         <mark key="'" line="133" column="0" />
@@ -99,11 +99,11 @@
         <mark key="^" line="12" column="21" />
         <mark key="." line="12" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/installer.sh" timestamp="1464175371088">
-        <mark key="[" line="113" column="29" />
-        <mark key="]" line="113" column="31" />
-        <mark key="^" line="113" column="31" />
-        <mark key="." line="113" column="31" />
+      <file name="$USER_HOME$/projects/lisa/installer.sh" timestamp="1464212205759">
+        <mark key="[" line="159" column="2" />
+        <mark key="]" line="160" column="15" />
+        <mark key="^" line="160" column="15" />
+        <mark key="." line="160" column="15" />
       </file>
       <file name="$USER_HOME$/projects/psongbook/meta.yml" timestamp="1463464886020">
         <mark key="[" line="61" column="34" />
@@ -809,6 +809,9 @@
         <mark key="." line="195" column="23" />
         <mark key="^" line="195" column="23" />
       </file>
+      <file name="/Dummy.txt" timestamp="1464212217787">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/io3d/io3d/misc.py" timestamp="1453295785375">
         <mark key="'" line="19" column="27" />
         <mark key="[" line="81" column="15" />
@@ -853,10 +856,12 @@
         <mark key="^" line="9" column="56" />
         <mark key="." line="9" column="56" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/lisa_data.py" timestamp="1464164611064">
+      <file name="$USER_HOME$/projects/lisa/lisa/lisa_data.py" timestamp="1464211805725">
         <mark key="a" line="21" column="0" />
-        <mark key="'" line="165" column="0" />
-        <mark key="[" line="37" column="50" />
+        <mark key="'" line="163" column="0" />
+        <mark key="[" line="128" column="0" />
+        <mark key="]" line="128" column="0" />
+        <mark key="." line="128" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -962,44 +967,44 @@
       <jump line="43" column="23" filename="$USER_HOME$/projects/lisa/lisa/show_segmentation.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>segmentation_smoothing</text>
       </register>
       <register name="-" type="4">
-        <text>outputfile</text>
+        <text>segmentation_smoothing</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaG93U2VnbWVudGF0aW9uXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZ0a19maWxlID0gIm1lc2hfZ2VvbS52dGsiCg==</text>
+        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoCiAgICAgICAgJy1zcycsCiAgICAgICAgJy0tc2VnbWVudGF0aW9uX3Ntb290aGluZycsCiAgICAgICAgYWN0aW9uPSdzdG9yZV90cnVlJywKICAgICAgICBoZWxwPSdTbW9vdGhpbmcgb2Ygb3V0cHV0IHNlZ21lbnRhdGlvbicsCiAgICAgICAgZGVmYXVsdD1jZmdbInNlZ21lbnRhdGlvbl9zbW9vdGhpbmciXQogICAgKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>segmentation_smoothing</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="2" type="4">
+        <text>segmentation</text>
       </register>
       <register name="3" type="4">
-        <text>outputfile</text>
+        <text encoding="base64">b3V0cHV0IA==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHZ0a19maWxlID0gIm1lc2hfZ2VvbS52dGsiCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">b2Yg</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">b3V0cHV0ZmlsZSA=</text>
+        <text encoding="base64">U21vb3RoaW5nIA==</text>
       </register>
       <register name="6" type="4">
-        <text>outputfile</text>
+        <text>segmentation_smoothing</text>
       </register>
-      <register name="7" type="4">
-        <text>l</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAnLXNzJywK</text>
       </register>
-      <register name="8" type="4">
-        <text>k</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBvcy5jaG1vZChsaXNhX3Nob3J0Y3V0LCApCiAgICAgICAgb3MuY2htb2QobGlzYV9zaG9ydGN1dCwgKQo=</text>
       </register>
-      <register name="9" type="4">
-        <text>p</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
