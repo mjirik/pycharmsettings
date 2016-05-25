@@ -614,9 +614,9 @@
         <mark key="^" line="31" column="37" />
         <mark key="." line="31" column="37" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/meta.yaml" timestamp="1464171227882">
-        <mark key="[" line="66" column="13" />
-        <mark key="]" line="45" column="14" />
+      <file name="$USER_HOME$/projects/lisa/meta.yaml" timestamp="1464176277037">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="11" />
         <mark key="." line="45" column="14" />
         <mark key="^" line="45" column="14" />
       </file>
@@ -959,8 +959,8 @@
       <jump line="26" column="53" filename="$USER_HOME$/projects/lisa/lisa/update_stable.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>root</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC0gc2NpcHkK</text>
       </register>
       <register name="-" type="4">
         <text>root</text>
@@ -969,7 +969,7 @@
         <text>requirements_pip</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZmlsZT0icmVxdWlyZW1lbnRzX3Jvb3QudHh0IgppZiBbIC1mICRmaWxlIF0gOyB0aGVuCiAgICBybSAkZmlsZQpmaQo=</text>
+        <text encoding="base64">ICAgIC0gc2NpcHkK</text>
       </register>
       <register name="1" type="4">
         <text>root</text>
