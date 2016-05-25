@@ -99,11 +99,10 @@
         <mark key="^" line="12" column="21" />
         <mark key="." line="12" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/installer.sh" timestamp="1463073932735">
-        <mark key="[" line="109" column="9" />
-        <mark key="]" line="109" column="11" />
-        <mark key="^" line="109" column="11" />
-        <mark key="." line="109" column="11" />
+      <file name="$USER_HOME$/projects/lisa/installer.sh" timestamp="1464171012027">
+        <mark key="[" line="143" column="0" />
+        <mark key="]" line="143" column="0" />
+        <mark key="." line="143" column="0" />
       </file>
       <file name="$USER_HOME$/projects/psongbook/meta.yml" timestamp="1463464886020">
         <mark key="[" line="61" column="34" />
@@ -614,11 +613,11 @@
         <mark key="^" line="31" column="37" />
         <mark key="." line="31" column="37" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/meta.yaml" timestamp="1464110789571">
-        <mark key="[" line="74" column="22" />
-        <mark key="]" line="74" column="21" />
-        <mark key="." line="74" column="21" />
-        <mark key="^" line="74" column="21" />
+      <file name="$USER_HOME$/projects/lisa/meta.yaml" timestamp="1464171227882">
+        <mark key="[" line="66" column="13" />
+        <mark key="]" line="45" column="14" />
+        <mark key="." line="45" column="14" />
+        <mark key="^" line="45" column="14" />
       </file>
       <file name="$USER_HOME$/projects/io3d/io3d/idxformat.py" timestamp="1447143786214">
         <mark key="'" line="29" column="47" />
@@ -844,14 +843,11 @@
         <mark key="^" line="7" column="27" />
         <mark key="." line="7" column="27" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/setup.cfg" timestamp="1463994299423">
-        <mark key="m" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/lisa/install_nosudo.sh" timestamp="1463557769445">
-        <mark key="[" line="16" column="56" />
-        <mark key="]" line="19" column="21" />
-        <mark key="^" line="19" column="21" />
-        <mark key="." line="19" column="21" />
+      <file name="$USER_HOME$/projects/lisa/install_nosudo.sh" timestamp="1464171119217">
+        <mark key="[" line="9" column="53" />
+        <mark key="]" line="9" column="56" />
+        <mark key="^" line="9" column="56" />
+        <mark key="." line="9" column="56" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/lisa_data.py" timestamp="1464164611064">
         <mark key="a" line="21" column="0" />
@@ -962,44 +958,44 @@
       <jump line="26" column="53" filename="$USER_HOME$/projects/lisa/lisa/update_stable.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyAiaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL21qaXJpay9saXNhL21hc3Rlci9saXNhL3JlcXVpcmVtZW50c19waXAudHh0IiwK</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>requirements_pip</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBvcmdhbl9zZWdtZW50YXRpb24KICAgIG9yZ2FuX3NlZ21lbnRhdGlvbi5tYWluKCkK</text>
+        <text encoding="base64">Y29uZGEgaW5zdGFsbCAtLXllcyAtYyBTaW1wbGVJVEsgLWMgbWVucG8gLWMgbWppcmlrICAtLWZpbGUgcmVxdWlyZW1lbnRzX2NvbmRhLnR4dAo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyAiaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL21qaXJpay9saXNhL21hc3Rlci9saXNhL3JlcXVpcmVtZW50c19waXAudHh0IiwK</text>
+      <register name="1" type="4">
+        <text>0</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IHNwbGFzaF9zY3JlZW4KICAgICAgICAgICAgc3BsYXNoID0gc3BsYXNoX3NjcmVlbi5zcGxhc2hfc2NyZWVuKGFwcCkK</text>
+      <register name="2" type="4">
+        <text>1</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZ2FuX3NlZ21lbnRhdGlvbgpvcmdhbl9zZWdtZW50YXRpb24ubWFpbigpCg==</text>
+      <register name="3" type="4">
+        <text>--file requirements_conda.txt</text>
       </register>
-      <register name="4" type="4">
-        <text>_</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="4">
-        <text>f</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGVjaG8gIkNsb25pbmcgdW5zdGFibGUgYnJhbmNoIHVzaW5nIGh0dHAiCg==</text>
       </register>
       <register name="6" type="4">
-        <text>n</text>
+        <text>version</text>
       </register>
       <register name="7" type="4">
-        <text>o</text>
+        <text encoding="base64">c3RhYmxlIA==</text>
       </register>
       <register name="8" type="4">
-        <text>c</text>
+        <text encoding="base64">Q2xvbmluZyA=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZWxpZiBbICIkQVJHMSIgPSAiIiBdIDsgdGhlbgogICAgZWNobyAiQ2xvbmluZyB1bnN0YWJsZSBicmFuY2ggdXNpbmcgc3NoIgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1048,13 +1044,13 @@
         <entry>166</entry>
         <entry>e</entry>
         <entry>292</entry>
-        <entry>q</entry>
         <entry>114</entry>
         <entry>109</entry>
         <entry>57</entry>
         <entry>26</entry>
         <entry>81</entry>
         <entry>W</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
