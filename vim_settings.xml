@@ -143,11 +143,11 @@
         <mark key="^" line="2" column="21" />
         <mark key="." line="2" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/__main__.py" timestamp="1464167511781">
-        <mark key="[" line="21" column="22" />
-        <mark key="]" line="22" column="13" />
-        <mark key="." line="22" column="13" />
-        <mark key="^" line="22" column="13" />
+      <file name="$USER_HOME$/projects/lisa/lisa/__main__.py" timestamp="1464212447040">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="4" />
+        <mark key="." line="2" column="4" />
+        <mark key="^" line="2" column="4" />
       </file>
       <file name="$USER_HOME$/projects/skelet3d/src/setup.py.in" timestamp="1446536159668">
         <mark key="[" line="10" column="0" />
@@ -455,6 +455,12 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/lisa/lisa/main.py" timestamp="1464212432410">
+        <mark key="[" line="17" column="4" />
+        <mark key="]" line="17" column="8" />
+        <mark key="." line="17" column="8" />
+        <mark key="^" line="17" column="8" />
+      </file>
       <file name="$USER_HOME$/projects/gco_python/meta.yaml" timestamp="1464123090767">
         <mark key="[" line="36" column="6" />
         <mark key="]" line="36" column="7" />
@@ -617,11 +623,11 @@
         <mark key="^" line="31" column="37" />
         <mark key="." line="31" column="37" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/meta.yaml" timestamp="1464202589241">
-        <mark key="[" line="77" column="12" />
-        <mark key="]" line="79" column="14" />
-        <mark key="." line="79" column="14" />
-        <mark key="^" line="79" column="14" />
+      <file name="$USER_HOME$/projects/lisa/meta.yaml" timestamp="1464212496099">
+        <mark key="[" line="24" column="18" />
+        <mark key="]" line="24" column="26" />
+        <mark key="." line="24" column="26" />
+        <mark key="^" line="24" column="26" />
       </file>
       <file name="$USER_HOME$/projects/io3d/io3d/idxformat.py" timestamp="1447143786214">
         <mark key="'" line="29" column="47" />
@@ -796,11 +802,11 @@
         <mark key="]" line="0" column="26" />
         <mark key="." line="0" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/__init__.py" timestamp="1464069707367">
-        <mark key="[" line="3" column="25" />
-        <mark key="]" line="4" column="34" />
-        <mark key="^" line="4" column="34" />
-        <mark key="." line="4" column="34" />
+      <file name="$USER_HOME$/projects/lisa/lisa/__init__.py" timestamp="1464212477005">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="25" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/projects/events2calendar/mail2calendar.py" timestamp="1463731037633">
         <mark key="'" line="269" column="4" />
@@ -808,9 +814,6 @@
         <mark key="]" line="195" column="23" />
         <mark key="." line="195" column="23" />
         <mark key="^" line="195" column="23" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1464212217787">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/io3d/io3d/misc.py" timestamp="1453295785375">
         <mark key="'" line="19" column="27" />
@@ -968,10 +971,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>segmentation_smoothing</text>
+        <text>__main__</text>
       </register>
       <register name="-" type="4">
-        <text>segmentation_smoothing</text>
+        <text>__main__</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaG93U2VnbWVudGF0aW9uXD4=</text>
@@ -980,31 +983,31 @@
         <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoCiAgICAgICAgJy1zcycsCiAgICAgICAgJy0tc2VnbWVudGF0aW9uX3Ntb290aGluZycsCiAgICAgICAgYWN0aW9uPSdzdG9yZV90cnVlJywKICAgICAgICBoZWxwPSdTbW9vdGhpbmcgb2Ygb3V0cHV0IHNlZ21lbnRhdGlvbicsCiAgICAgICAgZGVmYXVsdD1jZmdbInNlZ21lbnRhdGlvbl9zbW9vdGhpbmciXQogICAgKQo=</text>
       </register>
       <register name="1" type="4">
-        <text>segmentation_smoothing</text>
+        <text>__main__</text>
       </register>
-      <register name="2" type="4">
-        <text>segmentation</text>
+      <register name="2" type="2">
+        <text encoding="base64">ZnJvbSBvcmdhbl9zZWdtZW50YXRpb24gaW1wb3J0IG1haW4K</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">b3V0cHV0IA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ZGVmIG1haW4oKToKICAgIGltcG9ydCBhcmdwYXJzZQoKCiAgICBwYXJzZXIgPSBhcmdwYXJzZS5Bcmd1bWVudFBhcnNlcigKICAgICAgICAjIFR1cm4gb2ZmIGhlbHAsIHNvIHdlIHByaW50IGFsbCBvcHRpb25zIGluIHJlc3BvbnNlIHRvIC1oCiAgICAgICAgYWRkX2hlbHA9RmFsc2UKICAgICkKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoCiAgICAgICAgJy1uaScsICctLW5vX2ludGVyYWN0aXZpdHknLCBhY3Rpb249J3N0b3JlX3RydWUnLAogICAgICAgIGhlbHA9J3J1biBpbiBubyBpbnRlcmFjdGl2aXR5IG1vZGUsIHNlZWRzIG11c3QgYmUgZGVmaW5lZCcpCiAgICAjIFJlYWQgYWx0ZXJuYXRpdmUgY29uZmlnIGZpbGUuIEZpcnN0IGlzIGxvYWRlZCBkZWZhdWx0IGNvbmZpZy4gVGhlbiB1c2VyCiAgICAjIGNvbmZpZyBpbiBsaXNhX2RhdGEgZGlyZWN0b3J5LiBBZnRlciB0aGF0IGlzIHJlYWRlZCBjb25maWcgZGVmaW5lZCBieQogICAgIyAtLWNvbmZpZ2ZpbGUgcGFyYW1ldGVyCiAgICBrbm93bmFyZ3MsIHVua25vd25hcmdzID0gcGFyc2VyLnBhcnNlX2tub3duX2FyZ3MoKQoKICAgIGlmIGtub3duYXJncy5ub19pbnRlcmFjdGl2aXR5OgogICAgICAgIGltcG9ydCBvcmdhbl9zZWdtZW50YXRpb24KICAgICAgICBvcmdhbl9zZWdtZW50YXRpb24ubWFpbigpCiAgICBlbHNlOgoKICAgICAgICBpbXBvcnQgUHlRdDQKICAgICAgICBpbXBvcnQgUHlRdDQuUXRHdWkKICAgICAgICBpbXBvcnQgc3lzCiAgICAgICAgZnJvbSBQeVF0NC5RdEd1aSBpbXBvcnQgUUFwcGxpY2F0aW9uCiAgICAgICAgYXBwID0gUUFwcGxpY2F0aW9uKHN5cy5hcmd2KQogICAgICAgICMgQ3JlYXRlIGFuZCBkaXNwbGF5IHRoZSBzcGxhc2ggc2NyZWVuCiAgICAgICAgaW1wb3J0IHNwbGFzaF9zY3JlZW4KICAgICAgICBzcGxhc2ggPSBzcGxhc2hfc2NyZWVuLnNwbGFzaF9zY3JlZW4oYXBwKQogICAgICAgIGltcG9ydCBvcmdhbl9zZWdtZW50YXRpb24KICAgICAgICBvcmdhbl9zZWdtZW50YXRpb24ubWFpbihhcHAsIHNwbGFzaCkK</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">b2Yg</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">U21vb3RoaW5nIA==</text>
-      </register>
-      <register name="6" type="4">
         <text>segmentation_smoothing</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAnLXNzJywK</text>
+      <register name="5" type="4">
+        <text>segmentation</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBvcy5jaG1vZChsaXNhX3Nob3J0Y3V0LCApCiAgICAgICAgb3MuY2htb2QobGlzYV9zaG9ydGN1dCwgKQo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">b3V0cHV0IA==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">b2Yg</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">U21vb3RoaW5nIA==</text>
+      </register>
+      <register name="9" type="4">
+        <text>segmentation_smoothing</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
