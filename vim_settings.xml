@@ -245,11 +245,12 @@
         <mark key="^" line="1" column="12" />
         <mark key="." line="1" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/show_segmentation.py" timestamp="1463608329776">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="56" />
-        <mark key="^" line="43" column="7" />
-        <mark key="." line="43" column="0" />
+      <file name="$USER_HOME$/projects/lisa/lisa/show_segmentation.py" timestamp="1464202519535">
+        <mark key="'" line="48" column="20" />
+        <mark key="[" line="51" column="20" />
+        <mark key="]" line="51" column="20" />
+        <mark key="^" line="24" column="57" />
+        <mark key="." line="51" column="20" />
       </file>
       <file name="$USER_HOME$/projects/quantan/quantan/histology_report.py" timestamp="1452186060856">
         <mark key="[" line="269" column="34" />
@@ -617,11 +618,11 @@
         <mark key="^" line="31" column="37" />
         <mark key="." line="31" column="37" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/meta.yaml" timestamp="1464178060203">
-        <mark key="[" line="24" column="17" />
-        <mark key="]" line="24" column="25" />
-        <mark key="." line="24" column="25" />
-        <mark key="^" line="24" column="25" />
+      <file name="$USER_HOME$/projects/lisa/meta.yaml" timestamp="1464202589241">
+        <mark key="[" line="77" column="12" />
+        <mark key="]" line="79" column="14" />
+        <mark key="." line="79" column="14" />
+        <mark key="^" line="79" column="14" />
       </file>
       <file name="$USER_HOME$/projects/io3d/io3d/idxformat.py" timestamp="1447143786214">
         <mark key="'" line="29" column="47" />
@@ -860,11 +861,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="0" filename="$USER_HOME$/projects/lisa/lisa/logWindow.py" />
-      <jump line="17" column="0" filename="$USER_HOME$/projects/lisa/lisa/logWindow.py" />
-      <jump line="1338" column="27" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
-      <jump line="1361" column="4" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
-      <jump line="1565" column="9" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="1379" column="30" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="935" column="42" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="189" column="41" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
@@ -960,61 +956,65 @@
       <jump line="82" column="10" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="92" column="7" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="177" column="4" filename="$USER_HOME$/projects/lisa/lisa/qmisc.py" />
+      <jump line="19" column="22" filename="$USER_HOME$/projects/lisa/lisa/show_segmentation.py" />
+      <jump line="40" column="16" filename="$USER_HOME$/projects/lisa/lisa/show_segmentation.py" />
+      <jump line="42" column="26" filename="$USER_HOME$/projects/lisa/lisa/show_segmentation.py" />
+      <jump line="43" column="28" filename="$USER_HOME$/projects/lisa/lisa/show_segmentation.py" />
+      <jump line="46" column="20" filename="$USER_HOME$/projects/lisa/lisa/show_segmentation.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>:</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRWZXJzaW9uU3RyaW5nXD4=</text>
+        <text encoding="base64">XDxzZWcyZmVtXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC0gbGlzYSA9IGxpc2E6bWFpbgo=</text>
       </register>
       <register name="1" type="4">
-        <text>:</text>
+        <text>.</text>
       </register>
       <register name="2" type="4">
-        <text>main</text>
+        <text>seg2fem</text>
       </register>
       <register name="3" type="4">
-        <text>root</text>
+        <text>.</text>
       </register>
       <register name="4" type="4">
-        <text>pip</text>
+        <text>seg2fem</text>
       </register>
       <register name="5" type="4">
-        <text>0</text>
+        <text>.</text>
       </register>
       <register name="6" type="4">
-        <text>1</text>
+        <text>seg2fem</text>
       </register>
       <register name="7" type="4">
-        <text>--file requirements_conda.txt</text>
+        <text>:</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="8" type="4">
+        <text>main</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGVjaG8gIkNsb25pbmcgdW5zdGFibGUgYnJhbmNoIHVzaW5nIGh0dHAiCg==</text>
+      <register name="9" type="4">
+        <text>root</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRWZXJzaW9uU3RyaW5nXD4=</last-search>
+      <last-search encoding="base64">XDxzZWcyZmVtXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRWZXJzaW9uU3RyaW5nXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxzZWcyZmVtXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>addIt</entry>
         <entry>file</entry>
         <entry>menu</entry>
         <entry encoding="base64">XDxidG5Sb3RhdGVaXD4=</entry>
@@ -1034,6 +1034,7 @@
         <entry>requirements_pip</entry>
         <entry>version</entry>
         <entry encoding="base64">XDxnZXRWZXJzaW9uU3RyaW5nXD4=</entry>
+        <entry encoding="base64">XDxzZWcyZmVtXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>592</entry>
