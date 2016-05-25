@@ -34,9 +34,6 @@
         <mark key="^" line="61" column="18" />
         <mark key="." line="61" column="18" />
       </file>
-      <file name="/a.dummy" timestamp="1463740464875">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/dicom2fem/dicom2fem/vtk2stl.py" timestamp="1448959466140">
         <mark key="[" line="22" column="23" />
         <mark key="]" line="22" column="23" />
@@ -215,12 +212,12 @@
         <mark key="^" line="19" column="0" />
         <mark key="." line="15" column="37" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/splash_screen.py" timestamp="1464165999243">
+      <file name="$USER_HOME$/projects/lisa/lisa/splash_screen.py" timestamp="1464166368873">
         <mark key="'" line="21" column="7" />
-        <mark key="[" line="77" column="4" />
-        <mark key="]" line="77" column="4" />
-        <mark key="^" line="21" column="10" />
-        <mark key="." line="77" column="4" />
+        <mark key="[" line="79" column="23" />
+        <mark key="]" line="79" column="23" />
+        <mark key="^" line="79" column="22" />
+        <mark key="." line="79" column="23" />
       </file>
       <file name="$USER_HOME$/projects/quanta/quantan/quantan.py" timestamp="1451651778872">
         <mark key="'" line="189" column="34" />
@@ -247,9 +244,6 @@
         <mark key="]" line="43" column="56" />
         <mark key="^" line="43" column="7" />
         <mark key="." line="43" column="0" />
-      </file>
-      <file name="/Python Console" timestamp="1463667911820">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/quantan/quantan/histology_report.py" timestamp="1452186060856">
         <mark key="[" line="269" column="34" />
@@ -723,9 +717,6 @@
         <mark key="^" line="58" column="26" />
         <mark key="." line="58" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/tests/liver_segmentation_test.py" timestamp="1463740426210">
-        <mark key="[" line="26" column="16" />
-      </file>
       <file name="$USER_HOME$/projects/psongbook/setup.py" timestamp="1463464617794">
         <mark key="[" line="46" column="14" />
         <mark key="]" line="46" column="35" />
@@ -808,9 +799,6 @@
         <mark key="]" line="195" column="23" />
         <mark key="." line="195" column="23" />
         <mark key="^" line="195" column="23" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1464165982839">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/io3d/io3d/misc.py" timestamp="1453295785375">
         <mark key="'" line="19" column="27" />
@@ -969,10 +957,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>Gui</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>Gui</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0aW1lXD4=</text>
@@ -981,31 +969,31 @@
         <text encoding="base64">ICAgIGlmIG5vdCBvcC5leGlzdHMobGlzYV9pY29uX3BhdGgpOgogICAgICAgIHRyeToKICAgICAgICAgICAgd2dldC5kb3dubG9hZCgKICAgICAgICAgICAgICAgICJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vbWppcmlrL2xpc2EvbWFzdGVyL2xpc2EvaWNvbnMvTElTQTI1Ni5wbmciLAogICAgICAgICAgICAgICAgb3V0PWxpc2FfaWNvbl9wYXRoKQogICAgICAgIGV4Y2VwdDoKICAgICAgICAgICAgaW1wb3J0IHRyYWNlYmFjawogICAgICAgICAgICBsb2dnZXIud2FybmluZygnbG9nbyBkb3dubG9hZCBmYWlsZWQnKQogICAgICAgICAgICBsb2dnZXIud2FybmluZyh0cmFjZWJhY2suZm9ybWF0X2V4YygpKQo=</text>
       </register>
       <register name="1" type="4">
-        <text>.</text>
-      </register>
-      <register name="2" type="4">
-        <text>QtCore</text>
-      </register>
-      <register name="3" type="4">
-        <text>.</text>
-      </register>
-      <register name="4" type="4">
-        <text>PyQt4</text>
-      </register>
-      <register name="5" type="4">
         <text>Gui</text>
       </register>
-      <register name="6" type="2">
+      <register name="2" type="4">
+        <text>.</text>
+      </register>
+      <register name="3" type="4">
+        <text>QtCore</text>
+      </register>
+      <register name="4" type="4">
+        <text>.</text>
+      </register>
+      <register name="5" type="4">
+        <text>PyQt4</text>
+      </register>
+      <register name="6" type="4">
+        <text>Gui</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGlmIG5vdCBvcy5wYXRoLmV4aXN0cyhsaXNhX2ljb25fcGF0aCk6CiAgICAgICAgdHJ5OgogICAgICAgICAgICB3Z2V0LmRvd25sb2FkKAogICAgICAgICAgICAgICAgImh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9tamlyaWsvbGlzYS9tYXN0ZXIvYXBwbGljYXRpb25zL0xJU0EyNTYuaWNucyIsCiAgICAgICAgICAgICAgICBvdXQ9bGlzYV9pY29uX3BhdGgKICAgICAgICAgICAgKQogICAgICAgIGV4Y2VwdDoKICAgICAgICAgICAgbG9nZ2VyLndhcm5pbmcoJ2xvZ28gZG93bmxvYWQgZmFpbGVkJykK</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>icns</text>
       </register>
-      <register name="8" type="4">
-        <text>/</text>
-      </register>
       <register name="9" type="4">
-        <text>a</text>
+        <text>/</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
