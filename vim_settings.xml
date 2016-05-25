@@ -372,12 +372,12 @@
         <mark key="." line="203" column="11" />
         <mark key="^" line="203" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/update_stable.py" timestamp="1464127812842">
-        <mark key="'" line="148" column="34" />
-        <mark key="[" line="83" column="49" />
-        <mark key="]" line="83" column="74" />
-        <mark key="^" line="83" column="74" />
-        <mark key="." line="83" column="74" />
+      <file name="$USER_HOME$/projects/lisa/lisa/update_stable.py" timestamp="1464168321766">
+        <mark key="'" line="26" column="53" />
+        <mark key="[" line="86" column="87" />
+        <mark key="]" line="86" column="87" />
+        <mark key="^" line="86" column="87" />
+        <mark key="." line="86" column="87" />
       </file>
       <file name="$USER_HOME$/projects/lisa/INSTALL.md" timestamp="1448570601058">
         <mark key="[" line="53" column="67" />
@@ -860,12 +860,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="201" column="13" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
-      <jump line="738" column="23" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
-      <jump line="1307" column="8" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
-      <jump line="729" column="13" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
-      <jump line="1284" column="13" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
-      <jump line="1311" column="19" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="457" column="13" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="609" column="0" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="733" column="25" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
@@ -960,62 +954,66 @@
       <jump line="163" column="0" filename="$USER_HOME$/projects/lisa/lisa/lisa_data.py" />
       <jump line="21" column="7" filename="$USER_HOME$/projects/lisa/lisa/splash_screen.py" />
       <jump line="1526" column="48" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="117" column="18" filename="$USER_HOME$/projects/lisa/lisa/update_stable.py" />
+      <jump line="116" column="0" filename="$USER_HOME$/projects/lisa/lisa/update_stable.py" />
+      <jump line="109" column="0" filename="$USER_HOME$/projects/lisa/lisa/update_stable.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/projects/lisa/lisa/update_stable.py" />
+      <jump line="0" column="1" filename="$USER_HOME$/projects/lisa/lisa/update_stable.py" />
+      <jump line="26" column="53" filename="$USER_HOME$/projects/lisa/lisa/update_stable.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IHNwbGFzaF9zY3JlZW4KICAgICAgICAgICAgc3BsYXNoID0gc3BsYXNoX3NjcmVlbi5zcGxhc2hfc2NyZWVuKGFwcCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyAiaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL21qaXJpay9saXNhL21hc3Rlci9saXNhL3JlcXVpcmVtZW50c19waXAudHh0IiwK</text>
       </register>
       <register name="-" type="4">
         <text>_</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0aW1lXD4=</text>
+        <text>requirements_pip</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGltcG9ydCBvcmdhbl9zZWdtZW50YXRpb24KICAgIG9yZ2FuX3NlZ21lbnRhdGlvbi5tYWluKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IHNwbGFzaF9zY3JlZW4KICAgICAgICAgICAgc3BsYXNoID0gc3BsYXNoX3NjcmVlbi5zcGxhc2hfc2NyZWVuKGFwcCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyAiaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL21qaXJpay9saXNhL21hc3Rlci9saXNhL3JlcXVpcmVtZW50c19waXAudHh0IiwK</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IHNwbGFzaF9zY3JlZW4KICAgICAgICAgICAgc3BsYXNoID0gc3BsYXNoX3NjcmVlbi5zcGxhc2hfc2NyZWVuKGFwcCkK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">aW1wb3J0IG9yZ2FuX3NlZ21lbnRhdGlvbgpvcmdhbl9zZWdtZW50YXRpb24ubWFpbigpCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>_</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>f</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>n</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>o</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>c</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uZl9wYXJzZXIuYWRkX2FyZ3VtZW50KAogICAgJy1jZicsICctLWNvbmZpZ2ZpbGUnLCBkZWZhdWx0PU5vbmUsCiAgICBoZWxwPSJVc2UgYW5vdGhlciBjb25maWcuIEl0IGlzIGxvYWRlZCBhZnRlciBkZWZhdWx0IFwKY29uZmlnIGFuZCB1c2VyIGNvbmZpZy4iKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0aW1lXD4=</last-search>
+      <last-search>requirements_pip</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0aW1lXD4=</last-pattern>
+      <last-pattern>requirements_pip</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxidG5Mb2dcPg==</entry>
-        <entry encoding="base64">XDxzbHVycFw+</entry>
         <entry encoding="base64">XDxMb2dFbnRyeU1vZGVsXD4=</entry>
         <entry>appendR</entry>
         <entry>addIt</entry>
@@ -1034,6 +1032,8 @@
         <entry>wget</entry>
         <entry>png</entry>
         <entry encoding="base64">XDx0aW1lXD4=</entry>
+        <entry>require</entry>
+        <entry>requirements_pip</entry>
       </history-search>
       <history-cmd>
         <entry>592</entry>
