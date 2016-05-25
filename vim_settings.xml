@@ -614,11 +614,11 @@
         <mark key="^" line="31" column="37" />
         <mark key="." line="31" column="37" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/meta.yaml" timestamp="1464176277037">
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="11" />
-        <mark key="." line="45" column="14" />
-        <mark key="^" line="45" column="14" />
+      <file name="$USER_HOME$/projects/lisa/meta.yaml" timestamp="1464177039529">
+        <mark key="[" line="24" column="17" />
+        <mark key="]" line="24" column="17" />
+        <mark key="." line="24" column="17" />
+        <mark key="^" line="46" column="14" />
       </file>
       <file name="$USER_HOME$/projects/io3d/io3d/idxformat.py" timestamp="1447143786214">
         <mark key="'" line="29" column="47" />
@@ -959,44 +959,44 @@
       <jump line="26" column="53" filename="$USER_HOME$/projects/lisa/lisa/update_stable.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC0gc2NpcHkK</text>
+      <register name="&quot;" type="4">
+        <text>:</text>
       </register>
       <register name="-" type="4">
-        <text>root</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>requirements_pip</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC0gc2NpcHkK</text>
+        <text encoding="base64">ICAgIC0gbGlzYSA9IGxpc2E6bWFpbgo=</text>
       </register>
       <register name="1" type="4">
-        <text>root</text>
+        <text>:</text>
       </register>
       <register name="2" type="4">
-        <text>pip</text>
+        <text>main</text>
       </register>
       <register name="3" type="4">
-        <text>0</text>
+        <text>root</text>
       </register>
       <register name="4" type="4">
-        <text>1</text>
+        <text>pip</text>
       </register>
       <register name="5" type="4">
+        <text>0</text>
+      </register>
+      <register name="6" type="4">
+        <text>1</text>
+      </register>
+      <register name="7" type="4">
         <text>--file requirements_conda.txt</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgIGVjaG8gIkNsb25pbmcgdW5zdGFibGUgYnJhbmNoIHVzaW5nIGh0dHAiCg==</text>
-      </register>
-      <register name="8" type="4">
-        <text>version</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">c3RhYmxlIA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
