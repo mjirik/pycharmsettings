@@ -53,13 +53,13 @@
         <mark key="^" line="31" column="21" />
         <mark key="." line="31" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1464214044907">
+      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1464220883955">
         <mark key="a" line="1310" column="7" />
-        <mark key="'" line="92" column="7" />
-        <mark key="[" line="1558" column="16" />
-        <mark key="]" line="1558" column="20" />
-        <mark key="." line="1558" column="20" />
-        <mark key="^" line="1558" column="20" />
+        <mark key="'" line="1160" column="13" />
+        <mark key="[" line="1338" column="25" />
+        <mark key="]" line="1338" column="28" />
+        <mark key="." line="1338" column="28" />
+        <mark key="^" line="1338" column="28" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/gen_vtk_tree.py" timestamp="1463677085556">
         <mark key="'" line="133" column="0" />
@@ -80,12 +80,12 @@
         <mark key="^" line="40" column="23" />
         <mark key="." line="38" column="69" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1464192417612">
-        <mark key="'" line="783" column="40" />
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="62" column="49" />
-        <mark key="." line="59" column="27" />
-        <mark key="^" line="59" column="27" />
+      <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1464220530149">
+        <mark key="'" line="968" column="8" />
+        <mark key="[" line="111" column="15" />
+        <mark key="]" line="111" column="15" />
+        <mark key="." line="111" column="15" />
+        <mark key="^" line="111" column="15" />
       </file>
       <file name="$USER_HOME$/projects/lisa/tests/liver_segmentation_cerveny_test.py" timestamp="1449487905152">
         <mark key="[" line="30" column="23" />
@@ -866,9 +866,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="24" filename="$USER_HOME$/projects/lisa/lisa/logWindow.py" />
-      <jump line="91" column="23" filename="$USER_HOME$/projects/lisa/lisa/logWindow.py" />
-      <jump line="98" column="13" filename="$USER_HOME$/projects/lisa/lisa/logWindow.py" />
       <jump line="134" column="12" filename="$USER_HOME$/projects/lisa/lisa/logWindow.py" />
       <jump line="22" column="6" filename="$USER_HOME$/projects/lisa/lisa/logWindow.py" />
       <jump line="24" column="14" filename="$USER_HOME$/projects/lisa/lisa/logWindow.py" />
@@ -931,7 +928,6 @@
       <jump line="209" column="23" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
       <jump line="250" column="11" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
       <jump line="254" column="34" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
-      <jump line="42" column="29" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="179" column="40" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="18" column="0" filename="$USER_HOME$/projects/lisa/lisa/splash_screen.py" />
       <jump line="70" column="23" filename="$USER_HOME$/projects/lisa/lisa/splash_screen.py" />
@@ -966,65 +962,67 @@
       <jump line="43" column="23" filename="$USER_HOME$/projects/lisa/lisa/show_segmentation.py" />
       <jump line="86" column="0" filename="$USER_HOME$/projects/lisa/lisa/update_stable.py" />
       <jump line="10" column="8" filename="$USER_HOME$/projects/lisa/lisa/update_stable.py" />
+      <jump line="1160" column="13" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="42" column="10" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="108" column="50" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="963" column="8" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>]</text>
+        <text>randomRotateAction</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>randomRotateAction</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzaG93U2VnbWVudGF0aW9uXD4=</text>
+        <text encoding="base64">XDxidG5SYW5kb21Sb3RhdGVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmIG5vdCBvcy5wYXRoLmV4aXN0cyhsaXNhX2ljb25fcGF0aCk6Cg==</text>
+        <text encoding="base64">ICAgICAgICByYW5kb21Sb3RhdGVBY3Rpb249IFF0R3VpLlFBY3Rpb24oUXRHdWkuUUljb24oJ2V4aXQucG5nJyksICcmUmFuZG9tIFJvdGF0ZScsIHNlbGYpCg==</text>
       </register>
       <register name="1" type="4">
-        <text>]</text>
+        <text>randomRotateAction</text>
       </register>
       <register name="2" type="4">
-        <text>&quot;</text>
+        <text>Rotate</text>
       </register>
       <register name="3" type="4">
-        <text>make_icon</text>
+        <text encoding="base64">UmFuZG9tIA==</text>
       </register>
       <register name="4" type="4">
-        <text>[&quot;</text>
+        <text>randomRotateAction</text>
       </register>
       <register name="5" type="4">
-        <text>cfg</text>
+        <text>btnRandomRotate</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>rotation</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">UmFuZG9tIA==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="8">
+        <text>Rotate
+Rotate</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ZGVmIG1haW4oKToKICAgIGxvZ2dlciA9IGxvZ2dpbmcuZ2V0TG9nZ2VyKCkKCiAgICBsb2dnZXIuc2V0TGV2ZWwobG9nZ2luZy5ERUJVRykKICAgIGNoID0gbG9nZ2luZy5TdHJlYW1IYW5kbGVyKCkKICAgIGxvZ2dlci5hZGRIYW5kbGVyKGNoKQoKICAgICMgY3JlYXRlIGZpbGUgaGFuZGxlciB3aGljaCBsb2dzIGV2ZW4gZGVidWcgbWVzc2FnZXMKICAgICMgZmggPSBsb2dnaW5nLkZpbGVIYW5kbGVyKCdsb2cudHh0JykKICAgICMgZmguc2V0TGV2ZWwobG9nZ2luZy5ERUJVRykKICAgICMgZm9ybWF0dGVyID0gbG9nZ2luZy5Gb3JtYXR0ZXIoCiAgICAjICAgICAnJShhc2N0aW1lKXMgLSAlKG5hbWUpcyAtICUobGV2ZWxuYW1lKXMgLSAlKG1lc3NhZ2UpcycpCiAgICAjIGZoLnNldEZvcm1hdHRlcihmb3JtYXR0ZXIpCiAgICAjIGxvZ2dlci5hZGRIYW5kbGVyKGZoKQogICAgIyBsb2dnZXIuZGVidWcoJ3N0YXJ0JykKCiAgICAjIGlucHV0IHBhcnNlcgogICAgcGFyc2VyID0gYXJncGFyc2UuQXJndW1lbnRQYXJzZXIoCiAgICAgICAgZGVzY3JpcHRpb249X19kb2NfXwogICAgKQogICAgcGFyc2VyLmFkZF9hcmd1bWVudCgKICAgICAgICAnLWknLCAnLS1pbnB1dGZpbGUnLAogICAgICAgIGRlZmF1bHQ9Tm9uZSwKICAgICAgICByZXF1aXJlZD1UcnVlLAogICAgICAgIGhlbHA9J2lucHV0IGZpbGUnCiAgICApCiAgICBwYXJzZXIuYWRkX2FyZ3VtZW50KAogICAgICAgICctZCcsICctLWRlYnVnJywgYWN0aW9uPSdzdG9yZV90cnVlJywKICAgICAgICBoZWxwPSdEZWJ1ZyBtb2RlJykKICAgIGFyZ3MgPSBwYXJzZXIucGFyc2VfYXJncygpCgogICAgaWYgYXJncy5kZWJ1ZzoKICAgICAgICBjaC5zZXRMZXZlbChsb2dnaW5nLkRFQlVHKQo=</text>
+      <register name="9" type="4">
+        <text>j</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzaG93U2VnbWVudGF0aW9uXD4=</last-search>
+      <last-search encoding="base64">XDxidG5SYW5kb21Sb3RhdGVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzaG93U2VnbWVudGF0aW9uXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxidG5SYW5kb21Sb3RhdGVcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>menu</entry>
         <entry encoding="base64">XDxidG5Sb3RhdGVaXD4=</entry>
         <entry encoding="base64">XDxyYW5kb21Sb3RhdGVBY3Rpb25cPg==</entry>
-        <entry encoding="base64">XDxidG5SYW5kb21Sb3RhdGVcPg==</entry>
-        <entry>random</entry>
         <entry>logo</entry>
         <entry>get_conda</entry>
         <entry>Not</entry>
@@ -1040,6 +1038,9 @@
         <entry encoding="base64">XDxnZXRWZXJzaW9uU3RyaW5nXD4=</entry>
         <entry encoding="base64">XDxzZWcyZmVtXD4=</entry>
         <entry encoding="base64">XDxzaG93U2VnbWVudGF0aW9uXD4=</entry>
+        <entry>random</entry>
+        <entry>menu</entry>
+        <entry encoding="base64">XDxidG5SYW5kb21Sb3RhdGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>592</entry>
