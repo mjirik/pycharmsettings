@@ -165,12 +165,8 @@
         <mark key="." line="57" column="47" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1464368629986">
-        <mark key="a" line="1311" column="7" />
-        <mark key="'" line="57" column="7" />
+        <mark key="a" line="1310" column="7" />
         <mark key="[" line="56" column="13" />
-        <mark key="]" line="57" column="10" />
-        <mark key="." line="57" column="10" />
-        <mark key="^" line="57" column="10" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/lisa_data.py" timestamp="1464222065608">
         <mark key="a" line="21" column="0" />
@@ -676,9 +672,9 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/setup.cfg" timestamp="1464368729965">
-        <mark key="[" line="2" column="53" />
-        <mark key="]" line="2" column="69" />
+      <file name="$USER_HOME$/projects/lisa/setup.cfg" timestamp="1464369234624">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="24" />
         <mark key="^" line="2" column="69" />
         <mark key="." line="2" column="69" />
       </file>
@@ -701,11 +697,11 @@
         <mark key="^" line="3" column="8" />
         <mark key="." line="3" column="8" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/__init__.py" timestamp="1464368702233">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="13" />
-        <mark key="." line="1" column="13" />
+      <file name="$USER_HOME$/projects/lisa/lisa/__init__.py" timestamp="1464369261837">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="21" />
+        <mark key="." line="3" column="21" />
+        <mark key="^" line="3" column="21" />
       </file>
       <file name="$USER_HOME$/projects/sobo/sobo/psongbook.py" timestamp="1463520226888">
         <mark key="'" line="186" column="4" />
@@ -810,7 +806,7 @@
         <mark key="." line="33" column="20" />
         <mark key="^" line="33" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1464368744237">
+      <file name="/Dummy.txt" timestamp="1464369272736">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/imtools/tests/vessels_segmentation_test.py" timestamp="1463667408192">
@@ -982,31 +978,31 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>:</text>
+        <text encoding="base64">Y3VycmVudF92ZXJzaW9uIA==</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text encoding="base64">Y3VycmVudF92ZXJzaW9uIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbzNkXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICB2ZXJzaW9uOiAiMS44LjIwIgo=</text>
+        <text encoding="base64">Y3VycmVudF92ZXJzaW9uID0gMS44LjIwCg==</text>
       </register>
       <register name="1" type="4">
-        <text>:</text>
+        <text encoding="base64">Y3VycmVudF92ZXJzaW9uIA==</text>
       </register>
       <register name="2" type="4">
-        <text>version</text>
+        <text>current_version = 1.8.20</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoInNhdmUgb3V0cHV0cyB0byBmaWxlICVzIiAlIChmaWxlcGF0aCkpCg==</text>
+      <register name="3" type="4">
+        <text>:</text>
       </register>
       <register name="4" type="4">
-        <text>Viewer</text>
+        <text>version</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">TG9nIA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoInNhdmUgb3V0cHV0cyB0byBmaWxlICVzIiAlIChmaWxlcGF0aCkpCg==</text>
       </register>
       <register name="6" type="4">
         <text>Viewer</text>
@@ -1015,10 +1011,10 @@
         <text encoding="base64">TG9nIA==</text>
       </register>
       <register name="8" type="4">
-        <text>MoMo</text>
+        <text>Viewer</text>
       </register>
       <register name="9" type="4">
-        <text>setMinimumSize</text>
+        <text encoding="base64">TG9nIA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
