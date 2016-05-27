@@ -554,6 +554,12 @@
         <mark key="^" line="37" column="11" />
         <mark key="." line="37" column="11" />
       </file>
+      <file name="$USER_HOME$/projects/io3d/setup.cfg" timestamp="1464369380648">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="24" />
+        <mark key="^" line="2" column="42" />
+        <mark key="." line="2" column="42" />
+      </file>
       <file name="$USER_HOME$/projects/sobo/sobo/songparser.py" timestamp="1463520329875">
         <mark key="'" line="68" column="4" />
         <mark key="[" line="68" column="24" />
@@ -585,11 +591,11 @@
         <mark key="^" line="128" column="20" />
         <mark key="." line="127" column="72" />
       </file>
-      <file name="$USER_HOME$/projects/io3d/io3d/__init__.py" timestamp="1448883347734">
-        <mark key="[" line="7" column="22" />
-        <mark key="]" line="7" column="27" />
-        <mark key="^" line="7" column="27" />
-        <mark key="." line="7" column="27" />
+      <file name="$USER_HOME$/projects/io3d/io3d/__init__.py" timestamp="1464369414662">
+        <mark key="[" line="1" column="21" />
+        <mark key="]" line="1" column="21" />
+        <mark key="^" line="1" column="21" />
+        <mark key="." line="1" column="21" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/splash_screen.py" timestamp="1464166787444">
         <mark key="'" line="21" column="7" />
@@ -987,34 +993,34 @@
         <text encoding="base64">XDxpbzNkXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y3VycmVudF92ZXJzaW9uID0gMS44LjIwCg==</text>
+        <text encoding="base64">Y3VycmVudF92ZXJzaW9uID0gMS4wLjMxCg==</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">Y3VycmVudF92ZXJzaW9uIA==</text>
       </register>
       <register name="2" type="4">
-        <text>current_version = 1.8.20</text>
+        <text encoding="base64">Y3VycmVudF92ZXJzaW9uIA==</text>
       </register>
       <register name="3" type="4">
-        <text>:</text>
+        <text>current_version = 1.8.20</text>
       </register>
       <register name="4" type="4">
+        <text>:</text>
+      </register>
+      <register name="5" type="4">
         <text>version</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoInNhdmUgb3V0cHV0cyB0byBmaWxlICVzIiAlIChmaWxlcGF0aCkpCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>Viewer</text>
-      </register>
       <register name="7" type="4">
-        <text encoding="base64">TG9nIA==</text>
+        <text>Viewer</text>
       </register>
       <register name="8" type="4">
-        <text>Viewer</text>
+        <text encoding="base64">TG9nIA==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">TG9nIA==</text>
+        <text>Viewer</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
