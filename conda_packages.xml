@@ -93,7 +93,7 @@
         <entry key="colander" value="1.2" />
         <entry key="colorama" value="0.3.7" />
         <entry key="comtypes" value="1.1.2" />
-        <entry key="conda" value="4.0.6" />
+        <entry key="conda" value="4.0.7" />
         <entry key="conda-api" value="1.1.0" />
         <entry key="conda-build" value="1.20.3" />
         <entry key="conda-env" value="2.4.5" />
@@ -496,7 +496,7 @@
         <entry key="pyopengl" value="3.1.1a1" />
         <entry key="pyopengl-accelerate" value="3.1.1a1" />
         <entry key="pyopenssl" value="0.15.1" />
-        <entry key="pyparsing" value="2.1.1" />
+        <entry key="pyparsing" value="2.1.4" />
         <entry key="pyproj" value="1.9.4" />
         <entry key="pyqt" value="4.11.4" />
         <entry key="pyqtconfig" value="0.8.7" />
@@ -605,7 +605,7 @@
         <entry key="spyder" value="2.3.9" />
         <entry key="spyder-app" value="2.3.8" />
         <entry key="sqlalchemy" value="1.0.13" />
-        <entry key="sqlite" value="3.9.2" />
+        <entry key="sqlite" value="3.13.0" />
         <entry key="sqlparse" value="0.1.19" />
         <entry key="ssh" value="1.8.0" />
         <entry key="ssl_match_hostname" value="3.4.0.2" />
@@ -1777,6 +1777,7 @@
               <option value="4.0.1" />
               <option value="4.0.0" />
               <option value="4.0.6" />
+              <option value="4.0.7" />
             </list>
           </value>
         </entry>
@@ -5772,6 +5773,7 @@
               <option value="1.5.6" />
               <option value="2.0.3" />
               <option value="2.1.1" />
+              <option value="2.1.4" />
             </list>
           </value>
         </entry>
@@ -6964,6 +6966,7 @@
               <option value="3.8.4.1" />
               <option value="3.7.13" />
               <option value="3.9.2" />
+              <option value="3.13.0" />
             </list>
           </value>
         </entry>
@@ -7715,6 +7718,6 @@
     <option name="CONDA_CHANNELS">
       <set />
     </option>
-    <option name="LAST_TIME_CHECKED" value="1464178391382" />
+    <option name="LAST_TIME_CHECKED" value="1464367983724" />
   </component>
 </application>
