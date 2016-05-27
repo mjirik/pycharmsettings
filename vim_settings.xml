@@ -56,13 +56,12 @@
         <mark key="^" line="31" column="21" />
         <mark key="." line="31" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1464220883955">
-        <mark key="a" line="1310" column="7" />
-        <mark key="'" line="1160" column="13" />
-        <mark key="[" line="1338" column="25" />
-        <mark key="]" line="1338" column="28" />
-        <mark key="." line="1338" column="28" />
-        <mark key="^" line="1338" column="28" />
+      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1464332538222">
+        <mark key="a" line="1311" column="7" />
+        <mark key="'" line="1339" column="28" />
+        <mark key="[" line="1293" column="0" />
+        <mark key="]" line="1293" column="60" />
+        <mark key="." line="1293" column="0" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/gen_vtk_tree.py" timestamp="1463677085556">
         <mark key="'" line="133" column="0" />
@@ -871,7 +870,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="486" column="21" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="1308" column="7" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="64" column="15" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="85" column="20" filename="$USER_HOME$/projects/lisa/lisa/update_stable.py" />
@@ -971,61 +969,61 @@
       <jump line="118" column="24" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="218" column="41" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="977" column="25" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="1338" column="28" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Viewer</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoInNhdmUgb3V0cHV0cyB0byBmaWxlICVzIiAlIChmaWxlcGF0aCkpCg==</text>
       </register>
       <register name="-" type="4">
         <text>Viewer</text>
       </register>
       <register name="/" type="4">
-        <text>logo</text>
+        <text>save</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByYW5kb21Sb3RhdGVBY3Rpb24uc2V0U3RhdHVzVGlwKCdSYW5kb20gcm90YXRpb24nKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>Viewer</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoInNhdmUgb3V0cHV0cyB0byBmaWxlICVzIiAlIChmaWxlcGF0aCkpCg==</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">TG9nIA==</text>
-      </register>
-      <register name="3" type="4">
         <text>Viewer</text>
       </register>
-      <register name="4" type="4">
+      <register name="3" type="4">
         <text encoding="base64">TG9nIA==</text>
       </register>
+      <register name="4" type="4">
+        <text>Viewer</text>
+      </register>
       <register name="5" type="4">
-        <text>MoMo</text>
+        <text encoding="base64">TG9nIA==</text>
       </register>
       <register name="6" type="4">
-        <text>setMinimumSize</text>
+        <text>MoMo</text>
       </register>
       <register name="7" type="4">
+        <text>setMinimumSize</text>
+      </register>
+      <register name="8" type="4">
         <text>BaseSize</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="4">
-        <text>rotation</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>logo</last-search>
+      <last-search>save</last-search>
       <last-offset />
-      <last-pattern>logo</last-pattern>
+      <last-pattern>save</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>update</entry>
         <entry encoding="base64">XDxidG5VcGRhdGVcPg==</entry>
         <entry>wget</entry>
         <entry>png</entry>
@@ -1045,6 +1043,7 @@
         <entry encoding="base64">XDxidG5Mb2dcPg==</entry>
         <entry encoding="base64">XDxMb2dWaWV3ZXJGb3JtXD4=</entry>
         <entry>logo</entry>
+        <entry>save</entry>
       </history-search>
       <history-cmd>
         <entry>270</entry>
