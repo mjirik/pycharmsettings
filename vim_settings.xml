@@ -83,12 +83,12 @@
         <mark key="^" line="40" column="23" />
         <mark key="." line="38" column="69" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1464300899752">
-        <mark key="'" line="979" column="8" />
-        <mark key="[" line="120" column="78" />
-        <mark key="]" line="121" column="34" />
-        <mark key="." line="121" column="34" />
-        <mark key="^" line="121" column="34" />
+      <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1464330397365">
+        <mark key="'" line="977" column="25" />
+        <mark key="[" line="220" column="21" />
+        <mark key="]" line="220" column="22" />
+        <mark key="." line="220" column="22" />
+        <mark key="^" line="121" column="68" />
       </file>
       <file name="$USER_HOME$/projects/lisa/tests/liver_segmentation_cerveny_test.py" timestamp="1449487905152">
         <mark key="[" line="30" column="23" />
@@ -190,12 +190,12 @@
         <mark key="^" line="65" column="17" />
         <mark key="." line="27" column="22" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/logWindow.py" timestamp="1464028594890">
+      <file name="$USER_HOME$/projects/lisa/lisa/logWindow.py" timestamp="1464331379815">
         <mark key="'" line="43" column="31" />
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="96" column="0" />
-        <mark key="." line="96" column="0" />
-        <mark key="^" line="56" column="35" />
+        <mark key="[" line="71" column="58" />
+        <mark key="]" line="71" column="67" />
+        <mark key="." line="71" column="67" />
+        <mark key="^" line="71" column="67" />
       </file>
       <file name="$USER_HOME$/projects/lisa/installer.bat" timestamp="1463557702757">
         <mark key="[" line="9" column="21" />
@@ -817,9 +817,6 @@
         <mark key="." line="195" column="23" />
         <mark key="^" line="195" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1464299993470">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/io3d/io3d/misc.py" timestamp="1453295785375">
         <mark key="'" line="19" column="27" />
         <mark key="[" line="81" column="15" />
@@ -874,17 +871,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="22" filename="$USER_HOME$/projects/lisa/lisa/logWindow.py" />
-      <jump line="43" column="31" filename="$USER_HOME$/projects/lisa/lisa/logWindow.py" />
-      <jump line="953" column="0" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
-      <jump line="27" column="51" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
-      <jump line="958" column="8" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
-      <jump line="106" column="28" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
-      <jump line="102" column="8" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
-      <jump line="104" column="8" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
-      <jump line="105" column="50" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
-      <jump line="332" column="23" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
-      <jump line="820" column="54" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="486" column="21" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="1308" column="7" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="64" column="15" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
@@ -974,64 +960,71 @@
       <jump line="8" column="32" filename="$USER_HOME$/projects/io3d/io3d/dcmreaddata.py" />
       <jump line="550" column="12" filename="$USER_HOME$/projects/io3d/io3d/dcmreaddata.py" />
       <jump line="571" column="19" filename="$USER_HOME$/projects/io3d/io3d/dcmreaddata.py" />
+      <jump line="125" column="44" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="204" column="42" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="987" column="8" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="122" column="28" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="1006" column="12" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="1005" column="12" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="14" column="15" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="123" column="0" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="118" column="24" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="218" column="41" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="977" column="25" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>btnAutomaticLiverSeeds</text>
+        <text>Viewer</text>
       </register>
       <register name="-" type="4">
-        <text>btnAutomaticLiverSeeds</text>
+        <text>Viewer</text>
       </register>
       <register name="/" type="4">
-        <text>head</text>
+        <text encoding="base64">XDxMb2dWaWV3ZXJGb3JtXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhdXRvU2VlZHNBY3Rpb24udHJpZ2dlcmVkLmNvbm5lY3Qoc2VsZi5idG5BdXRvbWF0aWNMaXZlclNlZWRzKQo=</text>
+        <text encoding="base64">ICAgICAgICByYW5kb21Sb3RhdGVBY3Rpb24uc2V0U3RhdHVzVGlwKCdSYW5kb20gcm90YXRpb24nKQo=</text>
       </register>
       <register name="1" type="4">
-        <text>btnAutomaticLiverSeeds</text>
+        <text>Viewer</text>
       </register>
       <register name="2" type="4">
-        <text>autoSeeds</text>
+        <text encoding="base64">TG9nIA==</text>
       </register>
       <register name="3" type="4">
-        <text>text</text>
+        <text>Viewer</text>
       </register>
       <register name="4" type="4">
-        <text>Exit</text>
+        <text encoding="base64">TG9nIA==</text>
       </register>
       <register name="5" type="4">
-        <text>t</text>
+        <text>MoMo</text>
       </register>
       <register name="6" type="4">
-        <text>i</text>
+        <text>setMinimumSize</text>
       </register>
       <register name="7" type="4">
-        <text>x</text>
+        <text>BaseSize</text>
       </register>
-      <register name="8" type="4">
-        <text>e</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="4">
-        <text>Item</text>
+        <text>rotation</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>head</last-search>
+      <last-search encoding="base64">XDxMb2dWaWV3ZXJGb3JtXD4=</last-search>
       <last-offset />
-      <last-pattern>head</last-pattern>
+      <last-pattern encoding="base64">XDxMb2dWaWV3ZXJGb3JtXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyYW5kb21Sb3RhdGVBY3Rpb25cPg==</entry>
-        <entry>logo</entry>
-        <entry>get_conda</entry>
-        <entry>Not</entry>
         <entry encoding="base64">XDxjdjJcPg==</entry>
         <entry>update</entry>
         <entry encoding="base64">XDxidG5VcGRhdGVcPg==</entry>
@@ -1048,6 +1041,10 @@
         <entry>menu</entry>
         <entry encoding="base64">XDxidG5SYW5kb21Sb3RhdGVcPg==</entry>
         <entry>head</entry>
+        <entry encoding="base64">XDxvbkFsdGVybmF0aXZlU2VnbWVudGF0aW9uUGFyYW1zXD4=</entry>
+        <entry encoding="base64">XDxRQ29tYm9Cb3hcPg==</entry>
+        <entry encoding="base64">XDxidG5Mb2dcPg==</entry>
+        <entry encoding="base64">XDxMb2dWaWV3ZXJGb3JtXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>270</entry>
