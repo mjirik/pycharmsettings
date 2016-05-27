@@ -342,11 +342,10 @@
         <mark key="^" line="78" column="16" />
         <mark key="." line="78" column="16" />
       </file>
-      <file name="$USER_HOME$/projects/io3d/io3d/datawriter.py" timestamp="1450698545682">
-        <mark key="[" line="48" column="60" />
-        <mark key="]" line="48" column="65" />
-        <mark key="^" line="48" column="65" />
-        <mark key="." line="48" column="65" />
+      <file name="$USER_HOME$/projects/io3d/io3d/datawriter.py" timestamp="1464381094123">
+        <mark key="a" line="249" column="8" />
+        <mark key="'" line="44" column="8" />
+        <mark key="[" line="18" column="82" />
       </file>
       <file name="$USER_HOME$/projects/io3d/.travis.yml" timestamp="1464370429042">
         <mark key="'" line="26" column="4" />
@@ -798,11 +797,6 @@
         <mark key="^" line="170" column="30" />
         <mark key="." line="170" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/imtools/imtools/__init__.py" timestamp="1464120855983">
-        <mark key="[" line="0" column="26" />
-        <mark key="]" line="0" column="26" />
-        <mark key="." line="0" column="26" />
-      </file>
       <file name="$USER_HOME$/projects/lisa/lisa/__init__.py" timestamp="1464212477005">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -870,11 +864,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1308" column="7" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
-      <jump line="64" column="15" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
-      <jump line="85" column="20" filename="$USER_HOME$/projects/lisa/lisa/update_stable.py" />
-      <jump line="127" column="34" filename="$USER_HOME$/projects/lisa/lisa/update_stable.py" />
-      <jump line="250" column="61" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="57" column="8" filename="$USER_HOME$/projects/lisa/lisa/lisa_data.py" />
       <jump line="1234" column="8" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="70" column="39" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
@@ -970,62 +959,65 @@
       <jump line="218" column="41" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="977" column="25" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="1338" column="28" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="54" column="34" filename="$USER_HOME$/projects/io3d/io3d/datawriter.py" />
+      <jump line="69" column="17" filename="$USER_HOME$/projects/io3d/io3d/datawriter.py" />
+      <jump line="64" column="18" filename="$USER_HOME$/projects/io3d/io3d/datawriter.py" />
+      <jump line="262" column="20" filename="$USER_HOME$/projects/io3d/io3d/datawriter.py" />
+      <jump line="44" column="8" filename="$USER_HOME$/projects/io3d/io3d/datawriter.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoInNhdmUgb3V0cHV0cyB0byBmaWxlICVzIiAlIChmaWxlcGF0aCkpCg==</text>
+      <register name="&quot;" type="4">
+        <text>(self, data3d, path, filetype, metadata)</text>
       </register>
       <register name="-" type="4">
-        <text>Viewer</text>
+        <text>all_in_one_file</text>
       </register>
       <register name="/" type="4">
-        <text>save</text>
+        <text encoding="base64">XDxtdGRcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByYW5kb21Sb3RhdGVBY3Rpb24uc2V0U3RhdHVzVGlwKCdSYW5kb20gcm90YXRpb24nKQo=</text>
+      <register name="0" type="4">
+        <text>(self, data3d, path, filetype, metadata)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoInNhdmUgb3V0cHV0cyB0byBmaWxlICVzIiAlIChmaWxlcGF0aCkpCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
-      <register name="2" type="4">
-        <text>Viewer</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">TG9nIA==</text>
+        <text>all_in_one_file</text>
       </register>
       <register name="4" type="4">
-        <text>Viewer</text>
+        <text>(</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">TG9nIA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoInNhdmUgb3V0cHV0cyB0byBmaWxlICVzIiAlIChmaWxlcGF0aCkpCg==</text>
       </register>
       <register name="6" type="4">
-        <text>MoMo</text>
+        <text>Viewer</text>
       </register>
       <register name="7" type="4">
-        <text>setMinimumSize</text>
+        <text encoding="base64">TG9nIA==</text>
       </register>
       <register name="8" type="4">
-        <text>BaseSize</text>
+        <text>Viewer</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">TG9nIA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>save</last-search>
+      <last-search encoding="base64">XDxtdGRcPg==</last-search>
       <last-offset />
-      <last-pattern>save</last-pattern>
+      <last-pattern encoding="base64">XDxtdGRcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxidG5VcGRhdGVcPg==</entry>
-        <entry>wget</entry>
         <entry>png</entry>
         <entry encoding="base64">XDx0aW1lXD4=</entry>
         <entry>require</entry>
@@ -1044,6 +1036,8 @@
         <entry encoding="base64">XDxMb2dWaWV3ZXJGb3JtXD4=</entry>
         <entry>logo</entry>
         <entry>save</entry>
+        <entry encoding="base64">XDxzYXZlX2ltYWdlX3N0YWNrXD4=</entry>
+        <entry encoding="base64">XDxtdGRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>270</entry>
