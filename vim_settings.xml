@@ -83,12 +83,12 @@
         <mark key="^" line="40" column="23" />
         <mark key="." line="38" column="69" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1464330397365">
+      <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1464331946869">
         <mark key="'" line="977" column="25" />
-        <mark key="[" line="220" column="21" />
-        <mark key="]" line="220" column="22" />
-        <mark key="." line="220" column="22" />
-        <mark key="^" line="121" column="68" />
+        <mark key="[" line="55" column="47" />
+        <mark key="]" line="55" column="52" />
+        <mark key="." line="55" column="52" />
+        <mark key="^" line="55" column="52" />
       </file>
       <file name="$USER_HOME$/projects/lisa/tests/liver_segmentation_cerveny_test.py" timestamp="1449487905152">
         <mark key="[" line="30" column="23" />
@@ -980,7 +980,7 @@
         <text>Viewer</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxMb2dWaWV3ZXJGb3JtXD4=</text>
+        <text>logo</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByYW5kb21Sb3RhdGVBY3Rpb24uc2V0U3RhdHVzVGlwKCdSYW5kb20gcm90YXRpb24nKQo=</text>
@@ -1017,15 +1017,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxMb2dWaWV3ZXJGb3JtXD4=</last-search>
+      <last-search>logo</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxMb2dWaWV3ZXJGb3JtXD4=</last-pattern>
+      <last-pattern>logo</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjdjJcPg==</entry>
         <entry>update</entry>
         <entry encoding="base64">XDxidG5VcGRhdGVcPg==</entry>
         <entry>wget</entry>
@@ -1045,6 +1044,7 @@
         <entry encoding="base64">XDxRQ29tYm9Cb3hcPg==</entry>
         <entry encoding="base64">XDxidG5Mb2dcPg==</entry>
         <entry encoding="base64">XDxMb2dWaWV3ZXJGb3JtXD4=</entry>
+        <entry>logo</entry>
       </history-search>
       <history-cmd>
         <entry>270</entry>
