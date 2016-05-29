@@ -310,11 +310,11 @@
         <mark key="^" line="20" column="12" />
         <mark key="." line="20" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/imtools/tests/surface_test.py" timestamp="1464538196343">
-        <mark key="[" line="16" column="13" />
-        <mark key="]" line="16" column="24" />
-        <mark key="." line="16" column="24" />
-        <mark key="^" line="16" column="24" />
+      <file name="$USER_HOME$/projects/imtools/tests/surface_test.py" timestamp="1464549078469">
+        <mark key="[" line="31" column="34" />
+        <mark key="]" line="31" column="34" />
+        <mark key="." line="31" column="34" />
+        <mark key="^" line="31" column="34" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/histology_analyser.py" timestamp="1444738796915">
         <mark key="[" line="621" column="17" />
@@ -544,6 +544,9 @@
         <mark key="." line="160" column="32" />
         <mark key="^" line="160" column="35" />
       </file>
+      <file name="$USER_HOME$/projects/imtools/imtools/sample_data.py" timestamp="1464548906409">
+        <mark key="'" line="87" column="76" />
+      </file>
       <file name="$USER_HOME$/projects/imtools/docs/index.rst" timestamp="1453362345950">
         <mark key="[" line="0" column="3" />
         <mark key="]" line="0" column="10" />
@@ -611,8 +614,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="21" filename="$USER_HOME$/projects/lisa/lisa/splash_screen.py" />
-      <jump line="32" column="0" filename="$USER_HOME$/projects/lisa/lisa/splash_screen.py" />
       <jump line="59" column="21" filename="$USER_HOME$/projects/lisa/lisa/splash_screen.py" />
       <jump line="21" column="0" filename="$USER_HOME$/projects/lisa/lisa/lisa_data.py" />
       <jump line="123" column="0" filename="$USER_HOME$/projects/lisa/lisa/lisa_data.py" />
@@ -711,61 +712,62 @@
       <jump line="84" column="36" filename="$USER_HOME$/projects/imtools/imtools/tree_processing.py" />
       <jump line="154" column="63" filename="$USER_HOME$/projects/imtools/imtools/tree_processing.py" />
       <jump line="30" column="13" filename="$USER_HOME$/projects/imtools/imtools/tree_processing.py" />
+      <jump line="72" column="0" filename="$USER_HOME$/projects/imtools/imtools/sample_data.py" />
+      <jump line="87" column="76" filename="$USER_HOME$/projects/imtools/imtools/sample_data.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>eneral</text>
+        <text>'sample_data/gensei_slices/'</text>
       </register>
       <register name="-" type="4">
-        <text>eneral</text>
+        <text>'sample_data/gensei_slices/'</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyYXdkYXRhXD4=</text>
+        <text encoding="base64">XDxkYXRhX3VybHNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZ3IgPSB0cmVlX3Jhd19kYXRhLnBvcCgnZ3JhcGgnKQo=</text>
       </register>
       <register name="1" type="4">
-        <text>eneral</text>
+        <text>'sample_data/gensei_slices/'</text>
       </register>
       <register name="2" type="4">
+        <text>eneral</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">dHJlZXMg</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdHJlZXMgPSB7J3RyZWUwJzp0cmVlX3Jhd19kYXRhWydncmFwaCddfQo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>porta</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>tree1</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">cmV0dXJuIA==</text>
       </register>
-      <register name="8" type="4">
-        <text>file</text>
-      </register>
       <register name="9" type="4">
-        <text>.</text>
+        <text>file</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyYXdkYXRhXD4=</last-search>
+      <last-search encoding="base64">XDxkYXRhX3VybHNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyYXdkYXRhXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxkYXRhX3VybHNcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtdGRcPg==</entry>
         <entry encoding="base64">XDxkd3JpdGVyXD4=</entry>
         <entry encoding="base64">XDxzYXZlX2ltYWdlX3N0YWNrXD4=</entry>
         <entry>print</entry>
@@ -785,6 +787,7 @@
         <entry>io2d</entry>
         <entry encoding="base64">XDxnZW5fdHJlZVw+</entry>
         <entry encoding="base64">XDxyYXdkYXRhXD4=</entry>
+        <entry encoding="base64">XDxkYXRhX3VybHNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>125</entry>
