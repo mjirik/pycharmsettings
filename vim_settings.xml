@@ -36,6 +36,9 @@
         <mark key="^" line="61" column="18" />
         <mark key="." line="61" column="18" />
       </file>
+      <file name="/a.dummy" timestamp="1464529076704">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/dicom2fem/dicom2fem/vtk2stl.py" timestamp="1448959466140">
         <mark key="[" line="22" column="23" />
         <mark key="]" line="22" column="23" />
@@ -61,6 +64,13 @@
         <mark key="]" line="31" column="21" />
         <mark key="^" line="31" column="21" />
         <mark key="." line="31" column="21" />
+      </file>
+      <file name="$USER_HOME$/projects/imtools/imtools/generate_tree.py" timestamp="1464528963674">
+        <mark key="'" line="245" column="35" />
+        <mark key="[" line="20" column="39" />
+        <mark key="]" line="20" column="45" />
+        <mark key="." line="20" column="45" />
+        <mark key="^" line="20" column="45" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1464368629986">
         <mark key="a" line="1310" column="7" />
@@ -266,6 +276,9 @@
         <mark key="." line="36" column="0" />
         <mark key="^" line="43" column="7" />
       </file>
+      <file name="/Python Console" timestamp="1464527379510">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/quantan/quantan/histology_report.py" timestamp="1452186060856">
         <mark key="[" line="269" column="34" />
         <mark key="]" line="269" column="68" />
@@ -361,8 +374,8 @@
         <mark key="^" line="2" column="42" />
         <mark key="." line="2" column="42" />
       </file>
-      <file name="$USER_HOME$/projects/imtools/imtools/gen_vtk_tree.py" timestamp="1463677158289">
-        <mark key="'" line="10" column="9" />
+      <file name="$USER_HOME$/projects/imtools/imtools/gen_vtk_tree.py" timestamp="1464528265135">
+        <mark key="'" line="13" column="4" />
         <mark key="[" line="154" column="29" />
         <mark key="]" line="154" column="49" />
         <mark key="." line="154" column="49" />
@@ -845,6 +858,11 @@
         <mark key="^" line="128" column="20" />
         <mark key="." line="127" column="72" />
       </file>
+      <file name="$USER_HOME$/projects/imtools/imtools/gen_volume_tree.py" timestamp="1464529031416">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="46" column="11" />
+        <mark key="." line="137" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/imtools/setup.py" timestamp="1463661306421">
         <mark key="[" line="57" column="61" />
         <mark key="]" line="57" column="61" />
@@ -886,14 +904,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="127" column="34" filename="$USER_HOME$/projects/lisa/lisa/update_stable.py" />
-      <jump line="250" column="61" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
-      <jump line="57" column="8" filename="$USER_HOME$/projects/lisa/lisa/lisa_data.py" />
-      <jump line="1234" column="8" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
-      <jump line="70" column="39" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
-      <jump line="152" column="18" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
-      <jump line="166" column="13" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
-      <jump line="167" column="24" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="168" column="23" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="169" column="28" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="182" column="28" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
@@ -986,64 +996,68 @@
       <jump line="22" column="0" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="26" column="0" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="57" column="7" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="25" column="7" filename="$USER_HOME$/projects/imtools/imtools/gen_volume_tree.py" />
+      <jump line="13" column="4" filename="$USER_HOME$/projects/imtools/imtools/gen_vtk_tree.py" />
+      <jump line="364" column="9" filename="$USER_HOME$/projects/imtools/imtools/gen_volume_tree.py" />
+      <jump line="139" column="39" filename="$USER_HOME$/projects/imtools/imtools/gen_volume_tree.py" />
+      <jump line="163" column="52" filename="$USER_HOME$/projects/imtools/imtools/gen_volume_tree.py" />
+      <jump line="346" column="26" filename="$USER_HOME$/projects/imtools/imtools/gen_volume_tree.py" />
+      <jump line="11" column="0" filename="$USER_HOME$/projects/imtools/imtools/generate_tree.py" />
+      <jump line="226" column="35" filename="$USER_HOME$/projects/imtools/imtools/generate_tree.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Y3VycmVudF92ZXJzaW9uIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y2xhc3MgVm9sdW1lVHJlZUdlbmVyYXRvcjoKICAgICIiIgogICAgVGhpcyBnZW5lcmF0b3IgaXMgY2FsbGVkIGJ5IGdlbmVyYXRlVHJlZSgpIGZ1bmN0aW9uIGFzIGEgZ2VuZXJhbCBmb3JtLgogICAgT3RoZXIgc2ltaWxhciBnZW5lcmF0b3IgaXMgdXNlZCBmb3IgZ2VuZXJhdGluZyBMQVIgb3V0cHV0cy4KICAgICIiIgogICAgZGVmIF9faW5pdF9fKHNlbGYsIGd0cmVlKToKICAgICAgICBzZWxmLnNoYXBlID0gZ3RyZWUuc2hhcGUKICAgICAgICBzZWxmLmRhdGEzZCA9IG5wLnplcm9zKGd0cmVlLnNoYXBlLCBkdHlwZT1ucC5pbnQpCiAgICAgICAgc2VsZi52b3hlbHNpemVfbW0gPSBndHJlZS52b3hlbHNpemVfbW0KCiAgICBkZWYgYWRkX2N5bGluZGVyKHNlbGYsIHAxbSwgcDJtLCByYWQsIGlkKToKICAgICAgICAiIiIKICAgICAgICBGdW5rY2UgbmEgdnlrcmVzbGVuaSBqZWRub2hvIHNlZ21lbnR1IGRvIDNEIGRhdAogICAgICAgICIiIgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y3VycmVudF92ZXJzaW9uIA==</text>
+        <text>VolumeTreeGenerator</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbzNkXD4=</text>
+        <text encoding="base64">XDxWb2x1bWVUcmVlR2VuZXJhdG9yXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y3VycmVudF92ZXJzaW9uID0gMS40LjE3Cg==</text>
+        <text encoding="base64">Y2xhc3MgVm9sdW1lVHJlZUdlbmVyYXRvcjoKICAgICIiIgogICAgVGhpcyBnZW5lcmF0b3IgaXMgY2FsbGVkIGJ5IGdlbmVyYXRlVHJlZSgpIGZ1bmN0aW9uIGFzIGEgZ2VuZXJhbCBmb3JtLgogICAgT3RoZXIgc2ltaWxhciBnZW5lcmF0b3IgaXMgdXNlZCBmb3IgZ2VuZXJhdGluZyBMQVIgb3V0cHV0cy4KICAgICIiIgogICAgZGVmIF9faW5pdF9fKHNlbGYsIGd0cmVlKToKICAgICAgICBzZWxmLnNoYXBlID0gZ3RyZWUuc2hhcGUKICAgICAgICBzZWxmLmRhdGEzZCA9IG5wLnplcm9zKGd0cmVlLnNoYXBlLCBkdHlwZT1ucC5pbnQpCiAgICAgICAgc2VsZi52b3hlbHNpemVfbW0gPSBndHJlZS52b3hlbHNpemVfbW0KCiAgICBkZWYgYWRkX2N5bGluZGVyKHNlbGYsIHAxbSwgcDJtLCByYWQsIGlkKToKICAgICAgICAiIiIKICAgICAgICBGdW5rY2UgbmEgdnlrcmVzbGVuaSBqZWRub2hvIHNlZ21lbnR1IGRvIDNEIGRhdAogICAgICAgICIiIgo=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">Y3VycmVudF92ZXJzaW9uIA==</text>
+        <text>VolumeTreeGenerator</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">Y3VycmVudF92ZXJzaW9uIA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IGdlbl92b2x1bWVfdHJlZQo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">Y3VycmVudF92ZXJzaW9uIA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmdlbmVyYXRvcl9jbGFzcyA9IGdlbmVyYXRvcl9jbGFzcwogICAgICAgIHNlbGYuZ2VuZXJhdG9yX3BhcmFtcyA9IGdlbmVyYXRvcl9wYXJhbXMK</text>
       </register>
       <register name="4" type="4">
-        <text>current_version = 1.8.20</text>
+        <text>.</text>
       </register>
       <register name="5" type="4">
-        <text>:</text>
+        <text>args</text>
       </register>
       <register name="6" type="4">
-        <text>version</text>
+        <text>.</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoInNhdmUgb3V0cHV0cyB0byBmaWxlICVzIiAlIChmaWxlcGF0aCkpCg==</text>
+      <register name="7" type="4">
+        <text>args</text>
       </register>
       <register name="8" type="4">
-        <text>Viewer</text>
+        <text>.</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">TG9nIA==</text>
+        <text>args</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpbzNkXD4=</last-search>
+      <last-search encoding="base64">XDxWb2x1bWVUcmVlR2VuZXJhdG9yXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbzNkXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxWb2x1bWVUcmVlR2VuZXJhdG9yXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>version</entry>
-        <entry encoding="base64">XDxnZXRWZXJzaW9uU3RyaW5nXD4=</entry>
-        <entry encoding="base64">XDxzZWcyZmVtXD4=</entry>
-        <entry encoding="base64">XDxzaG93U2VnbWVudGF0aW9uXD4=</entry>
         <entry>random</entry>
         <entry>menu</entry>
         <entry encoding="base64">XDxidG5SYW5kb21Sb3RhdGVcPg==</entry>
@@ -1060,6 +1074,10 @@
         <entry>print</entry>
         <entry>if data in</entry>
         <entry>if data</entry>
+        <entry encoding="base64">XDxnZW5fdnRrX3RyZWVcPg==</entry>
+        <entry encoding="base64">XDxnZXRfY3lsaW5kZXJcPg==</entry>
+        <entry encoding="base64">XDxUcmVlR2VuZXJhdG9yXD4=</entry>
+        <entry encoding="base64">XDxWb2x1bWVUcmVlR2VuZXJhdG9yXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>178</entry>
