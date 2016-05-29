@@ -164,7 +164,7 @@
         <mark key="^" line="19" column="0" />
         <mark key="." line="15" column="37" />
       </file>
-      <file name="$USER_HOME$/projects/imtools/tests/tube_tree_test.py" timestamp="1464549220488">
+      <file name="$USER_HOME$/projects/imtools/tests/tube_tree_test.py" timestamp="1464553071135">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="0" />
         <mark key="^" line="39" column="31" />
@@ -176,10 +176,10 @@
         <mark key="^" line="1" column="12" />
         <mark key="." line="1" column="12" />
       </file>
-      <file name="/Python Console" timestamp="1464551052031">
+      <file name="/Python Console" timestamp="1464552721742">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1464546217110">
+      <file name="/fragment.py" timestamp="1464552609769">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/quantan/quantan/histology_report.py" timestamp="1452186060856">
@@ -242,13 +242,13 @@
         <mark key="^" line="2" column="42" />
         <mark key="." line="2" column="42" />
       </file>
-      <file name="$USER_HOME$/projects/imtools/imtools/gen_vtk_tree.py" timestamp="1464551092611">
+      <file name="$USER_HOME$/projects/imtools/imtools/gen_vtk_tree.py" timestamp="1464552955572">
         <mark key="a" line="112" column="4" />
         <mark key="'" line="213" column="16" />
-        <mark key="[" line="28" column="54" />
-        <mark key="]" line="28" column="58" />
-        <mark key="^" line="28" column="58" />
-        <mark key="." line="28" column="58" />
+        <mark key="[" line="109" column="10" />
+        <mark key="]" line="109" column="10" />
+        <mark key="^" line="109" column="10" />
+        <mark key="." line="109" column="10" />
       </file>
       <file name="$USER_HOME$/projects/lisa/requirements_conda.txt" timestamp="1464092446357">
         <mark key="[" line="3" column="2" />
@@ -720,43 +720,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>tree_data</text>
+        <text>b</text>
       </register>
       <register name="-" type="4">
-        <text>tree_data</text>
+        <text>b</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZW5lcmF0ZVRyZWVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ3IgPSB0cmVlX3Jhd19kYXRhLnBvcCgnZ3JhcGgnKQo=</text>
+        <text encoding="base64">ICAgIGlmICJTZXRJbnB1dENvbm5lY3Rpb24iIGluIGRpcih0cjFiKToKICAgICAgICB0cjFiLlNldElucHV0Q29ubmVjdGlvbih0cjFhLkdldE91dHB1dFBvcnQoKSkKICAgIGVsc2U6CiAgICAgICAgdHIxYi5TZXRJbnB1dCh0cjFhLkdldE91dHB1dCgpKQo=</text>
       </register>
       <register name="1" type="4">
-        <text>tree_data</text>
+        <text>b</text>
       </register>
       <register name="2" type="4">
-        <text>tree_data</text>
+        <text>1</text>
       </register>
       <register name="3" type="4">
-        <text>tree_data</text>
+        <text>b</text>
       </register>
       <register name="4" type="4">
-        <text>tree_data</text>
+        <text>1</text>
       </register>
       <register name="5" type="4">
-        <text>tree_data</text>
+        <text>b</text>
       </register>
       <register name="6" type="4">
-        <text>)</text>
+        <text>1</text>
       </register>
       <register name="7" type="4">
-        <text>g</text>
+        <text>src</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+      <register name="8" type="4">
+        <text>src</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICMgIyBUT0RPIG1ha2UgdnRrIGluIHN0YW5kYXJkIHdheQo=</text>
+      <register name="9" type="4">
+        <text>tree_data</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
