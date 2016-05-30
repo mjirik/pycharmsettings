@@ -850,6 +850,13 @@
         <mark key="^" line="42" column="12" />
         <mark key="." line="42" column="12" />
       </file>
+      <file name="$USER_HOME$/projects/sed3/sed3/sed3.py" timestamp="1464637524269">
+        <mark key="'" line="864" column="33" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="^" line="32" column="31" />
+        <mark key="." line="33" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/imtools/imtools/__init__.py" timestamp="1464069664566">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -882,6 +889,9 @@
         <mark key="]" line="195" column="23" />
         <mark key="." line="195" column="23" />
         <mark key="^" line="195" column="23" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1464637529321">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/io3d/io3d/misc.py" timestamp="1453295785375">
         <mark key="'" line="19" column="27" />
@@ -947,8 +957,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="463" column="45" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
-      <jump line="472" column="26" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
       <jump line="464" column="11" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
       <jump line="467" column="22" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
       <jump line="471" column="32" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
@@ -1047,61 +1055,62 @@
       <jump line="21" column="101" filename="$USER_HOME$/projects/skelet3d/README.md" />
       <jump line="44" column="0" filename="$USER_HOME$/projects/skelet3d/install_linux.md" />
       <jump line="160" column="27" filename="$USER_HOME$/projects/lisa/lisa/lisa_data.py" />
+      <jump line="530" column="8" filename="$USER_HOME$/projects/sed3/sed3/sed3.py" />
+      <jump line="862" column="33" filename="$USER_HOME$/projects/sed3/sed3/sed3.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>chmod</text>
+        <text>Tool</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBvcy5jaG1vZChsaXNhX3Nob3J0Y3V0LAogICAgICAgICAgICAgICAgIHN0YXQuU19JWFVTUiB8IHN0YXQuU19JWEdSUCB8IHN0YXQuU19JWE9USCB8CiAgICAgICAgICAgICAgICAgc3RhdC5TX0lSVVNSIHwgc3RhdC5TX0lSR1JQIHwgc3RhdC5TX0lYT1RIIHwKICAgICAgICAgICAgICAgICBzdGF0LlNfSVdVU1IgfCBzdGF0LlNfSVdHUlAKICAgICAgICAgICAgICAgICApCg==</text>
+      <register name="0" type="4">
+        <text>('PyQt4 not detected')</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="2" type="4">
-        <text>lisa_shortcut</text>
-      </register>
-      <register name="3" type="2">
+      <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>&quot;</text>
+      </register>
+      <register name="4" type="4">
+        <text>&quot;</text>
+      </register>
+      <register name="5" type="4">
+        <text>(</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZyb20gbWF0cGxvdGxpYi5iYWNrZW5kcy5iYWNrZW5kX3F0NGFnZyBpbXBvcnQgTmF2aWdhdGlvblRvb2xiYXIyUVQgYXMgTmF2aWdhdGlvblRvb2xiYXIK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>lisa_shortcut</text>
       </register>
-      <register name="9" type="4">
-        <text>s</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>chmod</last-search>
+      <last-search>Tool</last-search>
       <last-offset />
-      <last-pattern>chmod</last-pattern>
+      <last-pattern>Tool</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRfY3lsaW5kZXJcPg==</entry>
         <entry encoding="base64">XDxwcm9jZXNzX3RyZWVcPg==</entry>
         <entry encoding="base64">XDxmaXhfdHJlZV9zdHJ1Y3R1cmVcPg==</entry>
         <entry>imtools</entry>
@@ -1121,9 +1130,9 @@
         <entry>Toolbar44</entry>
         <entry>Toolbar</entry>
         <entry>chmod</entry>
+        <entry>Tool</entry>
       </history-search>
       <history-cmd>
-        <entry>158</entry>
         <entry>154</entry>
         <entry>166</entry>
         <entry>e</entry>
@@ -1142,6 +1151,7 @@
         <entry>40</entry>
         <entry>78</entry>
         <entry>113</entry>
+        <entry>531</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
