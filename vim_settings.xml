@@ -256,7 +256,12 @@
         <mark key="^" line="109" column="10" />
         <mark key="." line="109" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/skelet3d/skelet3d/libfixer.py" timestamp="1464587105698" />
+      <file name="$USER_HOME$/projects/skelet3d/skelet3d/libfixer.py" timestamp="1464589461262">
+        <mark key="'" line="58" column="4" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/lisa/requirements_conda.txt" timestamp="1464092446357">
         <mark key="[" line="3" column="2" />
         <mark key="]" line="4" column="29" />
@@ -305,11 +310,11 @@
         <mark key="^" line="4" column="1" />
         <mark key="." line="4" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/skelet3d/skelet3d/skeletonizer.py" timestamp="1446806786688">
-        <mark key="[" line="34" column="29" />
-        <mark key="]" line="35" column="50" />
-        <mark key="^" line="35" column="50" />
-        <mark key="." line="35" column="50" />
+      <file name="$USER_HOME$/projects/skelet3d/skelet3d/skeletonizer.py" timestamp="1464589440928">
+        <mark key="[" line="34" column="18" />
+        <mark key="]" line="34" column="21" />
+        <mark key="^" line="34" column="21" />
+        <mark key="." line="34" column="21" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/experiments.py" timestamp="1444721689004">
         <mark key="[" line="19" column="16" />
@@ -638,7 +643,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="23" filename="$USER_HOME$/projects/lisa/lisa/show_segmentation.py" />
       <jump line="86" column="0" filename="$USER_HOME$/projects/lisa/lisa/update_stable.py" />
       <jump line="10" column="8" filename="$USER_HOME$/projects/lisa/lisa/update_stable.py" />
       <jump line="1160" column="13" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
@@ -738,61 +742,61 @@
       <jump line="99" column="8" filename="$USER_HOME$/projects/imtools/imtools/tree_processing.py" />
       <jump line="151" column="45" filename="$USER_HOME$/projects/imtools/imtools/tree_processing.py" />
       <jump line="297" column="16" filename="$USER_HOME$/projects/imtools/imtools/tree_processing.py" />
+      <jump line="51" column="4" filename="$USER_HOME$/projects/skelet3d/skelet3d/libfixer.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC0gcHl3Z2V0Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgbGliZml4ZXIK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y3VycmVudF92ZXJzaW9uIA==</text>
+        <text>libraries</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZW5lcmF0ZVRyZWVcPg==</text>
+        <text encoding="base64">XDxsaWJmaXhfbGludXhfY29uZGFcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC0gcHl3Z2V0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IGxpYmZpeGVyCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">Y3VycmVudF92ZXJzaW9uIA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgbGliZml4ZXIK</text>
       </register>
-      <register name="2" type="4">
-        <text>b</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgbGliZml4ZXIK</text>
       </register>
-      <register name="3" type="4">
-        <text>1</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCAiVHJ5aW5nIHRvIGRvd25sb2FkIC5zbyBsaWJyYXJpZXMiCg==</text>
       </register>
-      <register name="4" type="4">
-        <text>b</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCAiVHJ5aW5nIHRvIGRvd25sb2FkIC5kbGwgbGlicmFyaWVzIgo=</text>
       </register>
       <register name="5" type="4">
-        <text>1</text>
+        <text>libraries</text>
       </register>
       <register name="6" type="4">
-        <text>b</text>
+        <text encoding="base64">ZGxsIA==</text>
       </register>
       <register name="7" type="4">
-        <text>1</text>
+        <text encoding="base64">ZG93bmxvYWQg</text>
       </register>
       <register name="8" type="4">
-        <text>src</text>
+        <text encoding="base64">dG8g</text>
       </register>
       <register name="9" type="4">
-        <text>src</text>
+        <text encoding="base64">VHJ5aW5nIA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZW5lcmF0ZVRyZWVcPg==</last-search>
+      <last-search encoding="base64">XDxsaWJmaXhfbGludXhfY29uZGFcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZW5lcmF0ZVRyZWVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxsaWJmaXhfbGludXhfY29uZGFcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>if data</entry>
         <entry encoding="base64">XDxnZW5fdnRrX3RyZWVcPg==</entry>
         <entry encoding="base64">XDxWb2x1bWVUcmVlR2VuZXJhdG9yXD4=</entry>
         <entry encoding="base64">XDxnZW5lcmF0ZVRyZWVfdnRrXD4=</entry>
@@ -812,6 +816,7 @@
         <entry encoding="base64">XDxnZW5fdHJlZVw+</entry>
         <entry encoding="base64">XDxjb21wYXRpYmlsaXR5X3Byb2Nlc3NpbmdcPg==</entry>
         <entry encoding="base64">XDxnZW5lcmF0ZVRyZWVcPg==</entry>
+        <entry encoding="base64">XDxsaWJmaXhfbGludXhfY29uZGFcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>158</entry>
