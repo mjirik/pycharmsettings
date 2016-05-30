@@ -256,11 +256,12 @@
         <mark key="^" line="109" column="10" />
         <mark key="." line="109" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/skelet3d/skelet3d/libfixer.py" timestamp="1464589461262">
+      <file name="$USER_HOME$/projects/skelet3d/skelet3d/libfixer.py" timestamp="1464627672337">
         <mark key="'" line="58" column="4" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
+        <mark key="[" line="64" column="14" />
+        <mark key="]" line="64" column="29" />
+        <mark key="." line="64" column="29" />
+        <mark key="^" line="64" column="29" />
       </file>
       <file name="$USER_HOME$/projects/lisa/requirements_conda.txt" timestamp="1464092446357">
         <mark key="[" line="3" column="2" />
@@ -751,44 +752,44 @@
       <jump line="51" column="4" filename="$USER_HOME$/projects/skelet3d/skelet3d/libfixer.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgbGliZml4ZXIK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IG9zLnBhdGguam9pbigoKSwgImxpYiIp</text>
       </register>
       <register name="-" type="4">
-        <text>libraries</text>
+        <text encoding="base64">IG9zLnBhdGguam9pbigoKSwgImxpYiIp</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsaWJmaXhfbGludXhfY29uZGFcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IGxpYmZpeGVyCg==</text>
+        <text encoding="base64">ICAgIGRlc3RfZGlyID0gb3MucGF0aC5qb2luKGdldF9jb25kYV9kaXIoKSwgImxpYiIpCgogICAgZm9yIGZpbGUgaW4gZ2xvYi5nbG9iKHInU2tlbGV0M0Rfc28vKi5zbycpOgogICAgICAgIHNodXRpbC5jb3B5KGZpbGUsIGRlc3RfZGlyKQogICAgICAgIHByaW50ICJjb3B5ICVzIGludG8gJXMiICUgKGZpbGUsIGRlc3RfZGlyKQoKICAgIHRyeToKICAgICAgICBzaHV0aWwucm10cmVlKG91dGRpcikKICAgIGV4Y2VwdDoKICAgICAgICBpbXBvcnQgdHJhY2ViYWNrCiAgICAgICAgdHJhY2ViYWNrLnByaW50X2V4YygpCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgbGliZml4ZXIK</text>
+      <register name="1" type="4">
+        <text encoding="base64">IG9zLnBhdGguam9pbigoKSwgImxpYiIp</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgbGliZml4ZXIK</text>
+      <register name="2" type="4">
+        <text>get_conda_dir</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAiVHJ5aW5nIHRvIGRvd25sb2FkIC5zbyBsaWJyYXJpZXMiCg==</text>
+      <register name="3" type="4">
+        <text>so</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAiVHJ5aW5nIHRvIGRvd25sb2FkIC5kbGwgbGlicmFyaWVzIgo=</text>
+      <register name="4" type="4">
+        <text>/*.</text>
       </register>
       <register name="5" type="4">
-        <text>libraries</text>
+        <text>Skelet3D_so</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ZGxsIA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIG91dGRpciA9IGRvd25sb2FkX2FuZF91bnppcCh1cmwpCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ZG93bmxvYWQg</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGxpbnV4X2NvcHlfdG9fY29uZGFfZGlyKHVybCkK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">dG8g</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgbGliZml4ZXIK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">VHJ5aW5nIA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgbGliZml4ZXIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
