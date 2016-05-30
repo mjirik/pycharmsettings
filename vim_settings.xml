@@ -62,11 +62,11 @@
         <mark key="]" line="328" column="21" />
         <mark key="." line="328" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1464607664168">
-        <mark key="[" line="1643" column="26" />
-        <mark key="]" line="1644" column="23" />
-        <mark key="^" line="1644" column="23" />
-        <mark key="." line="1644" column="23" />
+      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1464612299304">
+        <mark key="[" line="1333" column="0" />
+        <mark key="]" line="1333" column="8" />
+        <mark key="^" line="1333" column="17" />
+        <mark key="." line="1333" column="8" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/gen_vtk_tree.py" timestamp="1463677085556">
         <mark key="'" line="133" column="0" />
@@ -916,8 +916,8 @@
       <jump line="486" column="21" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>1</text>
@@ -928,26 +928,26 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLnJvdGF0ZShhbmdsZSwgKDEsIDIpKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>1</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIC0gc2Z0cHN5bmMgPj0xLjAuMgo=</text>
-      </register>
-      <register name="3" type="2">
+      <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="4">
+        <text>1</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIC0gc2Z0cHN5bmMgPj0xLjAuMgo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgd2l0aCBgcGlwYCBvciAgYGNvbmRhYAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgd2l0aCBgcGlwYCBvciAgYGNvbmRhYAo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCBzdWJwcm9jZXNzLmNhbGwoWydjb25kYScsICd1cGRhdGUnLCAnLXknLCAnLWMnLCAnbWppcmlrJywgJy1jJywgJ1NpbXBsZUlUSycsICdsaXNhJ10pICMsIHNoZWxsPVRydWUpCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>i</text>
-      </register>
       <register name="7" type="4">
-        <text>r</text>
+        <text>i</text>
       </register>
       <register name="8" type="4">
         <text>r</text>
