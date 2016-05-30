@@ -661,10 +661,10 @@
         <mark key="^" line="31" column="37" />
         <mark key="." line="31" column="37" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/meta.yaml" timestamp="1464634385898">
-        <mark key="[" line="64" column="10" />
-        <mark key="]" line="64" column="18" />
-        <mark key="." line="64" column="18" />
+      <file name="$USER_HOME$/projects/lisa/meta.yaml" timestamp="1464634896259">
+        <mark key="[" line="66" column="13" />
+        <mark key="]" line="66" column="13" />
+        <mark key="." line="66" column="13" />
         <mark key="^" line="64" column="18" />
       </file>
       <file name="$USER_HOME$/projects/io3d/io3d/idxformat.py" timestamp="1447143786214">
@@ -1050,10 +1050,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>lisa_shortcut</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>lisa_shortcut</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>chmod</text>
@@ -1062,10 +1062,10 @@
         <text encoding="base64">ICAgICAgICBvcy5jaG1vZChsaXNhX3Nob3J0Y3V0LAogICAgICAgICAgICAgICAgIHN0YXQuU19JWFVTUiB8IHN0YXQuU19JWEdSUCB8IHN0YXQuU19JWE9USCB8CiAgICAgICAgICAgICAgICAgc3RhdC5TX0lSVVNSIHwgc3RhdC5TX0lSR1JQIHwgc3RhdC5TX0lYT1RIIHwKICAgICAgICAgICAgICAgICBzdGF0LlNfSVdVU1IgfCBzdGF0LlNfSVdHUlAKICAgICAgICAgICAgICAgICApCg==</text>
       </register>
       <register name="1" type="4">
-        <text>lisa_shortcut</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>lisa_shortcut</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -1082,11 +1082,11 @@
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>s</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="4">
-        <text>shared</text>
+        <text>s</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
