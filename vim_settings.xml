@@ -617,11 +617,11 @@
         <mark key="^" line="295" column="20" />
         <mark key="." line="295" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/skelet3d/install_linux.md" timestamp="1464630157363">
-        <mark key="[" line="18" column="4" />
-        <mark key="]" line="18" column="8" />
-        <mark key="^" line="18" column="8" />
-        <mark key="." line="18" column="8" />
+      <file name="$USER_HOME$/projects/skelet3d/install_linux.md" timestamp="1464631543353">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="8" />
+        <mark key="." line="65" column="8" />
+        <mark key="^" line="60" column="3" />
       </file>
       <file name="$USER_HOME$/projects/skelet3d/bld.bat" timestamp="1446806979486">
         <mark key="[" line="55" column="0" />
@@ -946,7 +946,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="258" column="34" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
       <jump line="260" column="15" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
       <jump line="463" column="45" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
       <jump line="472" column="26" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
@@ -1046,46 +1045,47 @@
       <jump line="820" column="54" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="486" column="21" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="21" column="101" filename="$USER_HOME$/projects/skelet3d/README.md" />
+      <jump line="44" column="0" filename="$USER_HOME$/projects/skelet3d/install_linux.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHB5dGhvbiAtbSBza2VsZXQzZC5saWJmaXhlcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>random</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB5dGhvbiAtbSBza2VsZXQzZC5saWJmaXhlcgo=</text>
+        <text encoding="base64">ICAgIHN1ZG8gcHl0aG9uIC1tIHNrZWxldDNkLmxpYmZpeGVyCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">SW5zdGFsbCBweXRob24gcGFja2FnZQoKICAgIHBpcCBpbnN0YWxsIC4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>,</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">SW5zdGFsbCB1YnVudHUgcGFja2FnZXMKCiAgICBzdWRvIGFwdC1nZXQgaW5zdGFsbCBjbWFrZSBweXRob24tbnVtcHkgbGliaW5zaWdodHRvb2xraXQzLWRldiBsaWJwbmcxMi1kZXYgbGliZ2RjbTItZGV2Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QnVpbGQgYysrIGxpYnJhcnkKCiAgICBjZCBidWlsZAogICAgY21ha2UgLi4KICAgIG1ha2UKICAgIG1ha2UgaW5zdGFsbAogICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>y</text>
+        <text>s</text>
       </register>
       <register name="8" type="4">
-        <text>p</text>
+        <text>shared</text>
       </register>
       <register name="9" type="4">
-        <text>o</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
