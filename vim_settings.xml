@@ -938,9 +938,15 @@
         <mark key="^" line="19" column="21" />
         <mark key="." line="19" column="21" />
       </file>
+      <file name="$USER_HOME$/projects/lisa/lisa/lisa_data.py" timestamp="1464634700672">
+        <mark key="'" line="160" column="27" />
+        <mark key="[" line="203" column="17" />
+        <mark key="]" line="203" column="24" />
+        <mark key="." line="203" column="24" />
+        <mark key="^" line="203" column="24" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="260" column="15" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
       <jump line="463" column="45" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
       <jump line="472" column="26" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
       <jump line="464" column="11" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
@@ -1040,22 +1046,23 @@
       <jump line="486" column="21" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="21" column="101" filename="$USER_HOME$/projects/skelet3d/README.md" />
       <jump line="44" column="0" filename="$USER_HOME$/projects/skelet3d/install_linux.md" />
+      <jump line="160" column="27" filename="$USER_HOME$/projects/lisa/lisa/lisa_data.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aWYgW1sgIiRPU1RZUEUiID09ICJsaW51eC1nbnUiIF1dOyB0aGVuCiAgICAgICAgIyAuLi4KICAgIHdnZXQgaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL21qaXJpay9saXNhL21hc3Rlci9yZXF1aXJlbWVudHNfYXB0LnR4dCAtTyByZXF1aXJlbWVudHNfYXB0LnR4dAoKICAgIHN1ZG8gYXB0LWdldCBpbnN0YWxsIC15IC1xcSAkKGdyZXAgLXZFICJeXHMqIyIgcmVxdWlyZW1lbnRzX2FwdC50eHQgfCB0ciAiXG4iICIgIikKICAgIHdnZXQgaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL21qaXJpay9saXNhL21hc3Rlci9pbnN0YWxsX25vc3Vkby5zaCAtTyBpbnN0YWxsX25vc3Vkby5zaAojIGVsaWYgW1sgIiRPU1RZUEUiID09ICJkYXJ3aW4iKiBdXTsgdGhlbgogICAgICAgICMgTWFjIE9TWAojIGVsaWYgW1sgIiRPU1RZUEUiID09ICJjeWd3aW4iIF1dOyB0aGVuCiAgICAgICAgIyBQT1NJWCBjb21wYXRpYmlsaXR5IGxheWVyIGFuZCBMaW51eCBlbnZpcm9ubWVudCBlbXVsYXRpb24gZm9yIFdpbmRvd3MKIyBlbGlmIFtbICIkT1NUWVBFIiA9PSAibXN5cyIgXV07IHRoZW4KICAgICAgICAjIExpZ2h0d2VpZ2h0IHNoZWxsIGFuZCBHTlUgdXRpbGl0aWVzIGNvbXBpbGVkIGZvciBXaW5kb3dzIChwYXJ0IG9mIE1pbkdXKQojIGVsaWYgW1sgIiRPU1RZUEUiID09ICJ3aW4zMiIgXV07IHRoZW4KICAgICAgICAjIEknbSBub3Qgc3VyZSB0aGlzIGNhbiBoYXBwZW4uCiMgZWxpZiBbWyAiJE9TVFlQRSIgPT0gImZyZWVic2QiKiBdXTsgdGhlbgogICAgICAgICMgLi4uCiMgZWxzZQogICAgICAgICMgVW5rbm93bi4KZWxpZiBbWyAiJE9TVFlQRSIgPT0gImRhcndpbiIqIF1dOyB0aGVuCgogICAgCiAgICBpZiBoYXNoIGJyZXcgMj4vZGV2L251bGw7IHRoZW4KICAgICAgICBlY2hvICJicmV3IGlzIGluc3RhbGxlZCIKICAgIGVsc2UKICAgICAgICBlY2hvICJpbnN0YWxsaW5nIGJyZXciCiAgICAgICAgcnVieSAtZSAiJChjdXJsIC1mc1NMIGh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9Ib21lYnJldy9pbnN0YWxsL21hc3Rlci9pbnN0YWxsKSIKICAgIGZpCiAgICBicmV3IGluc3RhbGwgZ2l0IGNtYWtlIGhvbWVicmV3L3NjaWVuY2UvaW5zaWdodHRvb2xraXQgbGlicG5nCiAgICBjdXJsIGh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9tamlyaWsvbGlzYS9tYXN0ZXIvaW5zdGFsbF9ub3N1ZG8uc2ggLW8gaW5zdGFsbF9ub3N1ZG8uc2gKZmkK</text>
+      <register name="&quot;" type="4">
+        <text>lisa_shortcut</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>lisa_shortcut</text>
       </register>
       <register name="/" type="4">
-        <text>Toolbar</text>
+        <text>chmod</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aWYgW1sgIiRPU1RZUEUiID09ICJsaW51eC1nbnUiIF1dOyB0aGVuCiAgICAgICAgIyAuLi4KICAgIHdnZXQgaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL21qaXJpay9saXNhL21hc3Rlci9yZXF1aXJlbWVudHNfYXB0LnR4dCAtTyByZXF1aXJlbWVudHNfYXB0LnR4dAoKICAgIHN1ZG8gYXB0LWdldCBpbnN0YWxsIC15IC1xcSAkKGdyZXAgLXZFICJeXHMqIyIgcmVxdWlyZW1lbnRzX2FwdC50eHQgfCB0ciAiXG4iICIgIikKICAgIHdnZXQgaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL21qaXJpay9saXNhL21hc3Rlci9pbnN0YWxsX25vc3Vkby5zaCAtTyBpbnN0YWxsX25vc3Vkby5zaAojIGVsaWYgW1sgIiRPU1RZUEUiID09ICJkYXJ3aW4iKiBdXTsgdGhlbgogICAgICAgICMgTWFjIE9TWAojIGVsaWYgW1sgIiRPU1RZUEUiID09ICJjeWd3aW4iIF1dOyB0aGVuCiAgICAgICAgIyBQT1NJWCBjb21wYXRpYmlsaXR5IGxheWVyIGFuZCBMaW51eCBlbnZpcm9ubWVudCBlbXVsYXRpb24gZm9yIFdpbmRvd3MKIyBlbGlmIFtbICIkT1NUWVBFIiA9PSAibXN5cyIgXV07IHRoZW4KICAgICAgICAjIExpZ2h0d2VpZ2h0IHNoZWxsIGFuZCBHTlUgdXRpbGl0aWVzIGNvbXBpbGVkIGZvciBXaW5kb3dzIChwYXJ0IG9mIE1pbkdXKQojIGVsaWYgW1sgIiRPU1RZUEUiID09ICJ3aW4zMiIgXV07IHRoZW4KICAgICAgICAjIEknbSBub3Qgc3VyZSB0aGlzIGNhbiBoYXBwZW4uCiMgZWxpZiBbWyAiJE9TVFlQRSIgPT0gImZyZWVic2QiKiBdXTsgdGhlbgogICAgICAgICMgLi4uCiMgZWxzZQogICAgICAgICMgVW5rbm93bi4KZWxpZiBbWyAiJE9TVFlQRSIgPT0gImRhcndpbiIqIF1dOyB0aGVuCgogICAgCiAgICBpZiBoYXNoIGJyZXcgMj4vZGV2L251bGw7IHRoZW4KICAgICAgICBlY2hvICJicmV3IGlzIGluc3RhbGxlZCIKICAgIGVsc2UKICAgICAgICBlY2hvICJpbnN0YWxsaW5nIGJyZXciCiAgICAgICAgcnVieSAtZSAiJChjdXJsIC1mc1NMIGh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9Ib21lYnJldy9pbnN0YWxsL21hc3Rlci9pbnN0YWxsKSIKICAgIGZpCiAgICBicmV3IGluc3RhbGwgZ2l0IGNtYWtlIGhvbWVicmV3L3NjaWVuY2UvaW5zaWdodHRvb2xraXQgbGlicG5nCiAgICBjdXJsIGh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9tamlyaWsvbGlzYS9tYXN0ZXIvaW5zdGFsbF9ub3N1ZG8uc2ggLW8gaW5zdGFsbF9ub3N1ZG8uc2gKZmkK</text>
+        <text encoding="base64">ICAgICAgICBvcy5jaG1vZChsaXNhX3Nob3J0Y3V0LAogICAgICAgICAgICAgICAgIHN0YXQuU19JWFVTUiB8IHN0YXQuU19JWEdSUCB8IHN0YXQuU19JWE9USCB8CiAgICAgICAgICAgICAgICAgc3RhdC5TX0lSVVNSIHwgc3RhdC5TX0lSR1JQIHwgc3RhdC5TX0lYT1RIIHwKICAgICAgICAgICAgICAgICBzdGF0LlNfSVdVU1IgfCBzdGF0LlNfSVdHUlAKICAgICAgICAgICAgICAgICApCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>lisa_shortcut</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -1072,29 +1079,28 @@
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>s</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="4">
-        <text>shared</text>
+        <text>s</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text>shared</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Toolbar</last-search>
+      <last-search>chmod</last-search>
       <last-offset />
-      <last-pattern>Toolbar</last-pattern>
+      <last-pattern>chmod</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>vtk</entry>
         <entry encoding="base64">XDxnZXRfY3lsaW5kZXJcPg==</entry>
         <entry encoding="base64">XDxwcm9jZXNzX3RyZWVcPg==</entry>
         <entry encoding="base64">XDxmaXhfdHJlZV9zdHJ1Y3R1cmVcPg==</entry>
@@ -1114,6 +1120,7 @@
         <entry>toolbar</entry>
         <entry>Toolbar44</entry>
         <entry>Toolbar</entry>
+        <entry>chmod</entry>
       </history-search>
       <history-cmd>
         <entry>158</entry>
