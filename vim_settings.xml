@@ -62,11 +62,11 @@
         <mark key="]" line="328" column="21" />
         <mark key="." line="328" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1464612299304">
-        <mark key="[" line="1333" column="0" />
-        <mark key="]" line="1333" column="8" />
-        <mark key="^" line="1333" column="17" />
-        <mark key="." line="1333" column="8" />
+      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1464613833270">
+        <mark key="[" line="1340" column="0" />
+        <mark key="]" line="1340" column="0" />
+        <mark key="^" line="1338" column="28" />
+        <mark key="." line="1340" column="0" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/gen_vtk_tree.py" timestamp="1463677085556">
         <mark key="'" line="133" column="0" />
@@ -917,10 +917,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbmdsZSA9IG5wLnJhbmRvbS5yYW5kKCkgKiAzNjAKICAgICAgICBzZWxmLnJvdGF0ZShhbmdsZSwgKDAsIDEpKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>360</text>
       </register>
       <register name="/" type="4">
         <text>random</text>
@@ -929,31 +929,31 @@
         <text encoding="base64">ICAgICAgICBzZWxmLnJvdGF0ZShhbmdsZSwgKDEsIDIpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbmdsZSA9IG5wLnJhbmRvbS5yYW5kKCkgKiAzNjAKICAgICAgICBzZWxmLnJvdGF0ZShhbmdsZSwgKDAsIDEpKQo=</text>
       </register>
       <register name="2" type="4">
-        <text>1</text>
+        <text>360</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIC0gc2Z0cHN5bmMgPj0xLjAuMgo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">KiA=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">KCkg</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgd2l0aCBgcGlwYCBvciAgYGNvbmRhYAo=</text>
+      <register name="5" type="4">
+        <text>rand</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBzdWJwcm9jZXNzLmNhbGwoWydjb25kYScsICd1cGRhdGUnLCAnLXknLCAnLWMnLCAnbWppcmlrJywgJy1jJywgJ1NpbXBsZUlUSycsICdsaXNhJ10pICMsIHNoZWxsPVRydWUpCg==</text>
+      <register name="6" type="4">
+        <text>.</text>
       </register>
       <register name="7" type="4">
-        <text>i</text>
+        <text>random</text>
       </register>
       <register name="8" type="4">
-        <text>r</text>
+        <text>*</text>
       </register>
       <register name="9" type="4">
-        <text>r</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
