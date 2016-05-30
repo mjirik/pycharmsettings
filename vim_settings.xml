@@ -540,11 +540,11 @@
         <mark key="^" line="295" column="20" />
         <mark key="." line="295" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/skelet3d/install_linux.md" timestamp="1464615927610">
-        <mark key="[" line="31" column="16" />
-        <mark key="]" line="16" column="15" />
-        <mark key="^" line="16" column="15" />
-        <mark key="." line="16" column="15" />
+      <file name="$USER_HOME$/projects/skelet3d/install_linux.md" timestamp="1464616397939">
+        <mark key="[" line="16" column="58" />
+        <mark key="]" line="18" column="44" />
+        <mark key="." line="18" column="44" />
+        <mark key="^" line="18" column="44" />
       </file>
       <file name="$USER_HOME$/projects/skelet3d/bld.bat" timestamp="1446806979486">
         <mark key="[" line="55" column="0" />
@@ -923,11 +923,11 @@
       <jump line="21" column="101" filename="$USER_HOME$/projects/skelet3d/README.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">SW5zdGFsbCBNaW5pY29uZGEgCiAKICAgIHdnZXQgaHR0cDovL3JlcG8uY29udGludXVtLmlvL21pbmljb25kYS9NaW5pY29uZGEtbGF0ZXN0LUxpbnV4LXg4Nl82NC5zaCAtTyBNaW5pY29uZGEtbGF0ZXN0LUxpbnV4LXg4Nl82NC5zaAogICAgYmFzaCBNaW5pY29uZGEtbGF0ZXN0LUxpbnV4LXg4Nl82NC5zaCAtYgogICAgCkFkZCBgbWluaWNvbmRhMi9iaW5gIGRpcmVjdG9yeSB0byBwYXRoIG9yIHJlc3RhcnQgdGVybWluYWwKCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>add its bin directory to path or restart terminal</text>
       </register>
       <register name="/" type="4">
         <text>random</text>
@@ -935,32 +935,32 @@
       <register name="0" type="2">
         <text encoding="base64">SW5zdGFsbCB1YnVudHUgcGFja2FnZXMKCiAgICBzdWRvIGFwdC1nZXQgaW5zdGFsbCBjbWFrZSBweXRob24tbnVtcHkgbGliaW5zaWdodHRvb2xraXQzLWRldiBsaWJwbmcxMi1kZXYgbGliZ2RjbTItZGV2CiAgICAKICAgIAogCkJ1aWxkIGMrKyBsaWJyYXJ5CgogICAgY2QgYnVpbGQKICAgIGNtYWtlIC4uCiAgICBtYWtlCiAgICBtYWtlIGluc3RhbGwKICAgIApJbnN0YWxsIHB5dGhvbiBwYWNrYWdlCgogICAgcGlwIGluc3RhbGwgLgo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">SW5zdGFsbCBNaW5pY29uZGEgCiAKICAgIHdnZXQgaHR0cDovL3JlcG8uY29udGludXVtLmlvL21pbmljb25kYS9NaW5pY29uZGEtbGF0ZXN0LUxpbnV4LXg4Nl82NC5zaCAtTyBNaW5pY29uZGEtbGF0ZXN0LUxpbnV4LXg4Nl82NC5zaAogICAgYmFzaCBNaW5pY29uZGEtbGF0ZXN0LUxpbnV4LXg4Nl82NC5zaCAtYgogICAgCkFkZCBgbWluaWNvbmRhMi9iaW5gIGRpcmVjdG9yeSB0byBwYXRoIG9yIHJlc3RhcnQgdGVybWluYWwKCg==</text>
       </register>
       <register name="2" type="4">
-        <text>d</text>
+        <text>add its bin directory to path or restart terminal</text>
       </register>
       <register name="3" type="4">
-        <text>n</text>
+        <text encoding="base64">YW5kIA==</text>
       </register>
       <register name="4" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="5" type="4">
+        <text>d</text>
+      </register>
+      <register name="6" type="4">
+        <text>n</text>
+      </register>
+      <register name="7" type="4">
         <text>a</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">QnVpbGQgYysrIGxpYnJhcnkKCiAgICBjZCBidWlsZAogICAgY21ha2UgLi4KICAgIG1ha2UKICAgIG1ha2UgaW5zdGFsbAogICAgCkluc3RhbGwgcHl0aG9uIHBhY2thZ2UKCiAgICBwaXAgaW5zdGFsbCAuCgo=</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHdnZXQgaHR0cDovL3JlcG8uY29udGludXVtLmlvL21pbmljb25kYS9NaW5pY29uZGEtbGF0ZXN0LUxpbnV4LXg4Nl82NC5zaCAtTyBNaW5pY29uZGEtbGF0ZXN0LUxpbnV4LXg4Nl82NC5zaAogICAgYmFzaCBNaW5pY29uZGEtbGF0ZXN0LUxpbnV4LXg4Nl82NC5zaCAtYgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
