@@ -267,6 +267,9 @@
         <mark key="^" line="43" column="7" />
         <mark key="." line="43" column="0" />
       </file>
+      <file name="/Python Console" timestamp="1464695792208">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/quantan/quantan/histology_report.py" timestamp="1452186060856">
         <mark key="[" line="269" column="34" />
         <mark key="]" line="269" column="68" />
@@ -660,11 +663,11 @@
         <mark key="^" line="31" column="37" />
         <mark key="." line="31" column="37" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/meta.yaml" timestamp="1464634896259">
-        <mark key="[" line="66" column="13" />
-        <mark key="]" line="66" column="13" />
-        <mark key="." line="66" column="13" />
-        <mark key="^" line="64" column="18" />
+      <file name="$USER_HOME$/projects/lisa/meta.yaml" timestamp="1464696109149">
+        <mark key="[" line="63" column="16" />
+        <mark key="]" line="63" column="18" />
+        <mark key="." line="63" column="18" />
+        <mark key="^" line="63" column="18" />
       </file>
       <file name="$USER_HOME$/projects/io3d/io3d/idxformat.py" timestamp="1447143786214">
         <mark key="'" line="29" column="47" />
@@ -1050,10 +1053,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>soubory</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>soubory</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaWxlaW5wdXRcPg==</text>
@@ -1062,31 +1065,31 @@
         <text>/soubory{:04d}.tiff</text>
       </register>
       <register name="1" type="4">
-        <text>soubory</text>
+        <text>1</text>
       </register>
       <register name="2" type="4">
-        <text>1000</text>
+        <text>soubory</text>
       </register>
       <register name="3" type="4">
         <text>1000</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBvdXRfcGF0aF9oYSA9IG9zLnBhdGguam9pbihkZXNrdG9wX3BhdGgsICJoYS5kZXNrdG9wIikK</text>
+      <register name="4" type="4">
+        <text>1000</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3Qgb3MucGF0aC5leGlzdHMob3V0X3BhdGgpOgogICAgICAgICAgICB3aXRoIG9wZW4ob3V0X3BhdGgsICd3JykgYXMgb3V0ZmlsZToKICAgICAgICAgICAgICAgIG91dGZpbGUud3JpdGUoZmlsZV9jb250ZW50KQogICAgICAgICAgICAgICAgb3MuY2htb2QobGlzYV9zaG9ydGN1dCwKICAgICAgICAgICAgICAgICAgICAgc3RhdC5TX0lYVVNSIHwgc3RhdC5TX0lYR1JQIHwgc3RhdC5TX0lYT1RIIHwKICAgICAgICAgICAgICAgICAgICAgc3RhdC5TX0lSVVNSIHwgc3RhdC5TX0lSR1JQIHwgc3RhdC5TX0lYT1RIIHwKICAgICAgICAgICAgICAgICAgICAgc3RhdC5TX0lXVVNSIHwgc3RhdC5TX0lXR1JQCiAgICAgICAgICAgICAgICAgICAgICkKCgogICAgICAgIHByaW50ICJpY29uIG91dHB1dCBwYXRoOiIKICAgICAgICBwcmludCBvdXRfcGF0aAo=</text>
+        <text encoding="base64">ICAgICAgICBvdXRfcGF0aF9oYSA9IG9zLnBhdGguam9pbihkZXNrdG9wX3BhdGgsICJoYS5kZXNrdG9wIikK</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBub3Qgb3MucGF0aC5leGlzdHMob3V0X3BhdGgpOgogICAgICAgICAgICB3aXRoIG9wZW4ob3V0X3BhdGgsICd3JykgYXMgb3V0ZmlsZToKICAgICAgICAgICAgICAgIG91dGZpbGUud3JpdGUoZmlsZV9jb250ZW50KQogICAgICAgICAgICAgICAgb3MuY2htb2QobGlzYV9zaG9ydGN1dCwKICAgICAgICAgICAgICAgICAgICAgc3RhdC5TX0lYVVNSIHwgc3RhdC5TX0lYR1JQIHwgc3RhdC5TX0lYT1RIIHwKICAgICAgICAgICAgICAgICAgICAgc3RhdC5TX0lSVVNSIHwgc3RhdC5TX0lSR1JQIHwgc3RhdC5TX0lYT1RIIHwKICAgICAgICAgICAgICAgICAgICAgc3RhdC5TX0lXVVNSIHwgc3RhdC5TX0lXR1JQCiAgICAgICAgICAgICAgICAgICAgICkKCgogICAgICAgIHByaW50ICJpY29uIG91dHB1dCBwYXRoOiIKICAgICAgICBwcmludCBvdXRfcGF0aAo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGxpc2Ffc2hvcnRjdXQgPSBpbl9wYXRoCg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>filepath</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBsaXNhX3Nob3J0Y3V0ID0gaW5fcGF0aAogICAgICAgIGlmIG5vdCBvcy5wYXRoLmV4aXN0cyhsaXNhX3Nob3J0Y3V0KToKICAgICAgICAgICAgZmlsZV9jb250ZW50ID0gIlwKW0Rlc2t0b3AgRW50cnldXG5cCk5hbWU9TElTQVxuXApHZW5lcmljTmFtZT1MSVNBXG5cCkNvbW1lbnQ9TEl2ZXIgU3VyZ2VyeSBBbmFseXNlclxuXApFeGVjPWJhc2ggLWMgJ2V4cG9ydCBQQVRIPUB7Q09OREFfUEFUSH06JFBBVEggOyBsaXNhJ1xuXApUZXJtaW5hbD1mYWxzZVxuXApUeXBlPUFwcGxpY2F0aW9uXG5cCkljb249QHtMSVNBX0RBVEFfUEFUSH0vLmxpc2EvTElTQTI1Ni5wbmdcblwKQ2F0ZWdvcmllcz1BcHBsaWNhdGlvbjtTY2llbmNlO01lZGljYWxTb2Z0d2FyZTtcblwKU3RhcnR1cE5vdGlmeT1mYWxzZVxuIgogICAgICAgICAgICBmaWxlX2NvbnRlbnQgPSByZXBsYWNlX3RhZ3MoZmlsZV9jb250ZW50KQogICAgICAgICAgICB3aXRoIG9wZW4obGlzYV9zaG9ydGN1dCwgJ3cnKSBhcyBvdXRmaWxlOgogICAgICAgICAgICAgICAgb3V0ZmlsZS53cml0ZShmaWxlX2NvbnRlbnQpCiAgICAgICAgICAgIG9zLmNobW9kKGxpc2Ffc2hvcnRjdXQsCiAgICAgICAgICAgICAgICAgICAgIHN0YXQuU19JWFVTUiB8IHN0YXQuU19JWEdSUCB8IHN0YXQuU19JWE9USCB8CiAgICAgICAgICAgICAgICAgICAgIHN0YXQuU19JUlVTUiB8IHN0YXQuU19JUkdSUCB8IHN0YXQuU19JWE9USCB8CiAgICAgICAgICAgICAgICAgICAgIHN0YXQuU19JV1VTUiB8IHN0YXQuU19JV0dSUAogICAgICAgICAgICAgICAgICAgICApCiAgICAgICAgIyBmaSA9IGZpbGVpbnB1dC5pbnB1dChvdXRfcGF0aCwgaW5wbGFjZT1UcnVlKQogICAgICAgIHByaW50ICJpY29uIG91dHB1dCBwYXRoOiIKCg==</text>
-      </register>
-      <register name="9" type="4">
-        <text>create_lisa_linux_icon_</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
