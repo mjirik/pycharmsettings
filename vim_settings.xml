@@ -228,6 +228,12 @@
         <mark key="." line="55" column="33" />
         <mark key="^" line="37" column="33" />
       </file>
+      <file name="$USER_HOME$/projects/skelet3d/examples/example01.py" timestamp="1464711237604">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/pyseg_base/setup.py" timestamp="1446642726739">
         <mark key="[" line="58" column="4" />
         <mark key="]" line="58" column="5" />
@@ -332,12 +338,12 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="24" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/skelet3d/README.md" timestamp="1464629984609">
+      <file name="$USER_HOME$/projects/skelet3d/README.md" timestamp="1464709785507">
         <mark key="'" line="21" column="101" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="33" column="30" />
-        <mark key="^" line="25" column="102" />
-        <mark key="." line="25" column="102" />
+        <mark key="[" line="33" column="4" />
+        <mark key="]" line="33" column="23" />
+        <mark key="^" line="33" column="23" />
+        <mark key="." line="33" column="23" />
       </file>
       <file name="$USER_HOME$/projects/imtools/tests/vessels_segmentation_test.py" timestamp="1463667408192">
         <mark key="'" line="26" column="8" />
@@ -837,8 +843,8 @@
         <mark key="^" line="31" column="72" />
         <mark key="." line="31" column="72" />
       </file>
-      <file name="$USER_HOME$/projects/skelet3d/CMakeLists.txt" timestamp="1448396251885">
-        <mark key="'" line="153" column="26" />
+      <file name="$USER_HOME$/projects/skelet3d/CMakeLists.txt" timestamp="1464710797816">
+        <mark key="'" line="28" column="36" />
         <mark key="[" line="149" column="23" />
         <mark key="]" line="149" column="23" />
         <mark key="^" line="149" column="23" />
@@ -897,7 +903,7 @@
         <mark key="." line="195" column="23" />
         <mark key="^" line="195" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1464706834573">
+      <file name="/code.py" timestamp="1464711190530">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/io3d/io3d/misc.py" timestamp="1453295785375">
@@ -964,15 +970,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="566" column="11" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
-      <jump line="585" column="57" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
-      <jump line="743" column="17" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
-      <jump line="745" column="19" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
-      <jump line="748" column="19" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
-      <jump line="1034" column="49" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
-      <jump line="1060" column="14" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
-      <jump line="1066" column="53" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
-      <jump line="1093" column="11" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
       <jump line="1095" column="14" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
       <jump line="41" column="10" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
       <jump line="220" column="15" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
@@ -1064,61 +1061,69 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="358" column="0" filename="$USER_HOME$/projects/lisa/mysetup.py" />
       <jump line="1" column="0" filename="$USER_HOME$/projects/lisa/mysetup.py" />
+      <jump line="99" column="17" filename="$USER_HOME$/projects/skelet3d/CMakeLists.txt" />
+      <jump line="150" column="18" filename="$USER_HOME$/projects/skelet3d/CMakeLists.txt" />
+      <jump line="159" column="17" filename="$USER_HOME$/projects/skelet3d/CMakeLists.txt" />
+      <jump line="164" column="60" filename="$USER_HOME$/projects/skelet3d/CMakeLists.txt" />
+      <jump line="184" column="12" filename="$USER_HOME$/projects/skelet3d/CMakeLists.txt" />
+      <jump line="212" column="59" filename="$USER_HOME$/projects/skelet3d/CMakeLists.txt" />
+      <jump line="213" column="57" filename="$USER_HOME$/projects/skelet3d/CMakeLists.txt" />
+      <jump line="215" column="72" filename="$USER_HOME$/projects/skelet3d/CMakeLists.txt" />
+      <jump line="28" column="36" filename="$USER_HOME$/projects/skelet3d/CMakeLists.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>y</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
       </register>
       <register name="-" type="4">
         <text>y</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmaWxlaW5wdXRcPg==</text>
+        <text>install</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpbXBvcnQgbGlzYQogICAgICAgIGltcG9ydCBsaXNhLmRhdGFzZXQKICAgICAgICBsaXNhLmRhdGFzZXQuZ2V0X3NhbXBsZV9kYXRhKCkK</text>
       </register>
-      <register name="1" type="4">
-        <text>y</text>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
       </register>
       <register name="2" type="4">
-        <text>p</text>
+        <text encoding="base64">CmxvZ2dlciA9IGxvZ2dpbmcuZ2V0TG9nZ2VyKF9fbmFtZV9fKQppbXBvcnQgYXJncGFyc2UKCgpkZWYgbWFpbigpOgogICAgbG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoKQoKICAgIGxvZ2dlci5zZXRMZXZlbChsb2dnaW5nLkRFQlVHKQogICAgY2ggPSBsb2dnaW5nLlN0cmVhbUhhbmRsZXIoKQogICAgbG9nZ2VyLmFkZEhhbmRsZXIoY2gpCgogICAgIyBjcmVhdGUgZmlsZSBoYW5kbGVyIHdoaWNoIGxvZ3MgZXZlbiBkZWJ1ZyBtZXNzYWdlcwogICAgIyBmaCA9IGxvZ2dpbmcuRmlsZUhhbmRsZXIoJ2xvZy50eHQnKQogICAgIyBmaC5zZXRMZXZlbChsb2dnaW5nLkRFQlVHKQogICAgIyBmb3JtYXR0ZXIgPSBsb2dnaW5nLkZvcm1hdHRlcigKICAgICMgICAgICclKGFzY3RpbWUpcyAtICUobmFtZSlzIC0gJShsZXZlbG5hbWUpcyAtICUobWVzc2FnZSlzJykKICAgICMgZmguc2V0Rm9ybWF0dGVyKGZvcm1hdHRlcikKICAgICMgbG9nZ2VyLmFkZEhhbmRsZXIoZmgpCiAgICAjIGxvZ2dlci5kZWJ1Zygnc3RhcnQnKQoKICAgICMgaW5wdXQgcGFyc2VyCiAgICBwYXJzZXIgPSBhcmdwYXJzZS5Bcmd1bWVudFBhcnNlcigKICAgICAgICBkZXNjcmlwdGlvbj1fX2RvY19fCiAgICApCiAgICBwYXJzZXIuYWRkX2FyZ3VtZW50KAogICAgICAgICctaScsICctLWlucHV0ZmlsZScsCiAgICAgICAgZGVmYXVsdD1Ob25lLAogICAgICAgIHJlcXVpcmVkPVRydWUsCiAgICAgICAgaGVscD0naW5wdXQgZmlsZScKICAgICkKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoCiAgICAgICAgJy1kJywgJy0tZGVidWcnLCBhY3Rpb249J3N0b3JlX3RydWUnLAogICAgICAgIGhlbHA9J0RlYnVnIG1vZGUnKQogICAgYXJncyA9IHBhcnNlci5wYXJzZV9hcmdzKCkKCiAgICBpZiBhcmdzLmRlYnVnOgogICAgICAgIGNoLnNldExldmVsKGxvZ2dpbmcuREVCVUcpCgoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIG1haW4oKQ==</text>
       </register>
       <register name="3" type="4">
-        <text>.</text>
+        <text>y</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">cHl0aG9uIA==</text>
+        <text>p</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">cHkg</text>
+        <text>.</text>
       </register>
       <register name="6" type="4">
-        <text>.</text>
+        <text encoding="base64">cHl0aG9uIA==</text>
       </register>
       <register name="7" type="4">
-        <text>mysetup</text>
+        <text encoding="base64">cHkg</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGlzYV9kYXRhLm1ha2VfaWNvbigpCg==</text>
+      <register name="8" type="4">
+        <text>.</text>
       </register>
       <register name="9" type="4">
-        <text>.</text>
+        <text>mysetup</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmaWxlaW5wdXRcPg==</last-search>
+      <last-search>install</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmaWxlaW5wdXRcPg==</last-pattern>
+      <last-pattern>install</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmaXhfdHJlZV9zdHJ1Y3R1cmVcPg==</entry>
         <entry>imtools</entry>
         <entry>io3d</entry>
         <entry encoding="base64">XDxpbzNkXD4=</entry>
@@ -1138,6 +1143,7 @@
         <entry>chmod</entry>
         <entry>Tool</entry>
         <entry encoding="base64">XDxmaWxlaW5wdXRcPg==</entry>
+        <entry>install</entry>
       </history-search>
       <history-cmd>
         <entry>154</entry>
