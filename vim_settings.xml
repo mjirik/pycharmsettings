@@ -70,10 +70,12 @@
         <mark key="." line="158" column="0" />
         <mark key="^" line="163" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1464684025553">
-        <mark key="[" line="1326" column="29" />
-        <mark key="]" line="1326" column="29" />
-        <mark key="." line="1326" column="29" />
+      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1464706400539">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="1586" column="10" />
+        <mark key="]" line="1586" column="10" />
+        <mark key="." line="1586" column="10" />
+        <mark key="^" line="1586" column="10" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/loginWindow.py" timestamp="1463783581576">
         <mark key="[" line="48" column="0" />
@@ -568,11 +570,11 @@
         <mark key="^" line="25" column="42" />
         <mark key="." line="25" column="42" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/README.md" timestamp="1464706151214">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="1" />
-        <mark key="." line="26" column="1" />
-        <mark key="^" line="26" column="3" />
+      <file name="$USER_HOME$/projects/lisa/README.md" timestamp="1464706828189">
+        <mark key="[" line="52" column="15" />
+        <mark key="]" line="56" column="17" />
+        <mark key="." line="56" column="17" />
+        <mark key="^" line="56" column="17" />
       </file>
       <file name="$USER_HOME$/projects/sed3/tests/sed_qt_test.py" timestamp="1454931451217">
         <mark key="[" line="14" column="80" />
@@ -937,10 +939,10 @@
         <mark key="^" line="7" column="27" />
         <mark key="." line="7" column="27" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/mysetup.py" timestamp="1448551743639">
-        <mark key="'" line="471" column="14" />
-        <mark key="[" line="478" column="21" />
-        <mark key="]" line="478" column="34" />
+      <file name="$USER_HOME$/projects/lisa/mysetup.py" timestamp="1464706362884">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="476" column="0" />
+        <mark key="]" line="478" column="37" />
         <mark key="^" line="478" column="34" />
         <mark key="." line="478" column="34" />
       </file>
@@ -959,10 +961,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="474" column="100" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
-      <jump line="479" column="22" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
-      <jump line="484" column="32" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
-      <jump line="487" column="100" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
       <jump line="566" column="11" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
       <jump line="585" column="57" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
       <jump line="743" column="17" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
@@ -1059,46 +1057,50 @@
       <jump line="112" column="16" filename="$USER_HOME$/projects/lisa/lisa/lisa_data.py" />
       <jump line="213" column="15" filename="$USER_HOME$/projects/lisa/lisa/lisa_data.py" />
       <jump line="100" column="11" filename="$USER_HOME$/projects/lisa/lisa/lisa_data.py" />
+      <jump line="953" column="29" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="358" column="0" filename="$USER_HOME$/projects/lisa/mysetup.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/projects/lisa/mysetup.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">b3IgZm9yIGN1cnJlbnQgZGV2ZWxvcGVtZW50CgogICAgd2dldCBodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vbWppcmlrL2xpc2EvbWFzdGVyL2luc3RhbGxlci5zaAogICAgc291cmNlIGluc3RhbGxlci5zaCBkZXZlbAo=</text>
+      <register name="&quot;" type="4">
+        <text>y</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>y</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaWxlaW5wdXRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">VXNlIFt3aW5kb3dzIGluc3RhbGxlcl0oaHR0cDovLzE0Ny4yMjguMjQwLjYxL3F1ZWV0ZWNoL2luc3RhbGwvc2V0dXBfbGlzYS5leGUpCg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgbGlzYQogICAgICAgIGltcG9ydCBsaXNhLmRhdGFzZXQKICAgICAgICBsaXNhLmRhdGFzZXQuZ2V0X3NhbXBsZV9kYXRhKCkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">b3IgZm9yIGN1cnJlbnQgZGV2ZWxvcGVtZW50CgogICAgd2dldCBodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vbWppcmlrL2xpc2EvbWFzdGVyL2luc3RhbGxlci5zaAogICAgc291cmNlIGluc3RhbGxlci5zaCBkZXZlbAo=</text>
+      <register name="1" type="4">
+        <text>y</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">VXNlIFt3aW5kb3dzIGluc3RhbGxlcl0oaHR0cDovLzE0Ny4yMjguMjQwLjYxL3F1ZWV0ZWNoL2luc3RhbGwvc2V0dXBfbGlzYS5leGUpCg==</text>
+      <register name="2" type="4">
+        <text>p</text>
       </register>
       <register name="3" type="4">
-        <text>1</text>
+        <text>.</text>
       </register>
       <register name="4" type="4">
-        <text>soubory</text>
+        <text encoding="base64">cHl0aG9uIA==</text>
       </register>
       <register name="5" type="4">
-        <text>1000</text>
+        <text encoding="base64">cHkg</text>
       </register>
       <register name="6" type="4">
-        <text>1000</text>
+        <text>.</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBvdXRfcGF0aF9oYSA9IG9zLnBhdGguam9pbihkZXNrdG9wX3BhdGgsICJoYS5kZXNrdG9wIikK</text>
+      <register name="7" type="4">
+        <text>mysetup</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3Qgb3MucGF0aC5leGlzdHMob3V0X3BhdGgpOgogICAgICAgICAgICB3aXRoIG9wZW4ob3V0X3BhdGgsICd3JykgYXMgb3V0ZmlsZToKICAgICAgICAgICAgICAgIG91dGZpbGUud3JpdGUoZmlsZV9jb250ZW50KQogICAgICAgICAgICAgICAgb3MuY2htb2QobGlzYV9zaG9ydGN1dCwKICAgICAgICAgICAgICAgICAgICAgc3RhdC5TX0lYVVNSIHwgc3RhdC5TX0lYR1JQIHwgc3RhdC5TX0lYT1RIIHwKICAgICAgICAgICAgICAgICAgICAgc3RhdC5TX0lSVVNSIHwgc3RhdC5TX0lSR1JQIHwgc3RhdC5TX0lYT1RIIHwKICAgICAgICAgICAgICAgICAgICAgc3RhdC5TX0lXVVNSIHwgc3RhdC5TX0lXR1JQCiAgICAgICAgICAgICAgICAgICAgICkKCgogICAgICAgIHByaW50ICJpY29uIG91dHB1dCBwYXRoOiIKICAgICAgICBwcmludCBvdXRfcGF0aAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGlzYV9kYXRhLm1ha2VfaWNvbigpCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGxpc2Ffc2hvcnRjdXQgPSBpbl9wYXRoCg==</text>
+      <register name="9" type="4">
+        <text>.</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
