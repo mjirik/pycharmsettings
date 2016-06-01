@@ -610,6 +610,9 @@
         <mark key="^" line="27" column="68" />
         <mark key="." line="33" column="8" />
       </file>
+      <file name="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" timestamp="1464787421574">
+        <mark key="'" line="631" column="13" />
+      </file>
       <file name="$USER_HOME$/projects/imtools/imtools/thresholding_functions.py" timestamp="1463666926761">
         <mark key="'" line="85" column="4" />
         <mark key="[" line="460" column="23" />
@@ -824,13 +827,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="258" column="34" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
-      <jump line="260" column="15" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
-      <jump line="463" column="45" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
-      <jump line="472" column="26" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
-      <jump line="464" column="11" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
-      <jump line="467" column="22" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
-      <jump line="471" column="32" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
       <jump line="474" column="100" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
       <jump line="479" column="22" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
       <jump line="484" column="32" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
@@ -924,6 +920,13 @@
       <jump line="820" column="54" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="486" column="21" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="21" column="101" filename="$USER_HOME$/projects/skelet3d/README.md" />
+      <jump line="747" column="24" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="571" column="8" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="756" column="33" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="1321" column="26" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="787" column="26" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="595" column="58" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="631" column="13" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -933,7 +936,7 @@
         <text>o</text>
       </register>
       <register name="/" type="4">
-        <text>random</text>
+        <text encoding="base64">XDx0aWxlX3pvb21fY29uc3RhbnRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">SW5zdGFsbCB1YnVudHUgcGFja2FnZXMKCiAgICBzdWRvIGFwdC1nZXQgaW5zdGFsbCBjbWFrZSBweXRob24tbnVtcHkgbGliaW5zaWdodHRvb2xraXQzLWRldiBsaWJwbmcxMi1kZXYgbGliZ2RjbTItZGV2CiAgICAKICAgIAogCkJ1aWxkIGMrKyBsaWJyYXJ5CgogICAgY2QgYnVpbGQKICAgIGNtYWtlIC4uCiAgICBtYWtlCiAgICBtYWtlIGluc3RhbGwKICAgIApJbnN0YWxsIHB5dGhvbiBwYWNrYWdlCgogICAgcGlwIGluc3RhbGwgLgo=</text>
@@ -970,18 +973,14 @@
       </register>
     </registers>
     <search>
-      <last-search>random</last-search>
+      <last-search encoding="base64">XDx0aWxlX3pvb21fY29uc3RhbnRcPg==</last-search>
       <last-offset />
-      <last-pattern>random</last-pattern>
+      <last-pattern encoding="base64">XDx0aWxlX3pvb21fY29uc3RhbnRcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjcmVhdGVfbGlzYV9kYXRhX2Rpcl90cmVlXD4=</entry>
-        <entry>dir</entry>
-        <entry>_output_data</entry>
-        <entry encoding="base64">XDxfb3V0cHV0X2RhdGFwYXRoX2Zyb21fc2VydmVyXD4=</entry>
         <entry>Load file</entry>
         <entry>log</entry>
         <entry encoding="base64">XDxsb2dnZXJfaW5pdFw+</entry>
@@ -998,6 +997,10 @@
         <entry encoding="base64">XDxidG5SYW5kb21Sb3RhdGVcPg==</entry>
         <entry>logo</entry>
         <entry>random</entry>
+        <entry encoding="base64">XDxfX21zX25wZW5hbHR5X2Zjblw+</entry>
+        <entry encoding="base64">XDxfX2NyZWF0ZV9ubGlua3NcPg==</entry>
+        <entry encoding="base64">XDxfX2NyZWF0ZV90bGlua3NcPg==</entry>
+        <entry encoding="base64">XDx0aWxlX3pvb21fY29uc3RhbnRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>592</entry>
