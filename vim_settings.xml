@@ -727,12 +727,12 @@
         <mark key="^" line="31" column="72" />
         <mark key="." line="31" column="72" />
       </file>
-      <file name="$USER_HOME$/projects/skelet3d/CMakeLists.txt" timestamp="1464876900220">
+      <file name="$USER_HOME$/projects/skelet3d/CMakeLists.txt" timestamp="1464878176280">
         <mark key="'" line="153" column="26" />
-        <mark key="[" line="87" column="44" />
-        <mark key="]" line="87" column="50" />
-        <mark key="^" line="87" column="50" />
-        <mark key="." line="87" column="50" />
+        <mark key="[" line="182" column="28" />
+        <mark key="]" line="182" column="47" />
+        <mark key="^" line="182" column="47" />
+        <mark key="." line="182" column="47" />
       </file>
       <file name="$USER_HOME$/Dropbox/studium/dizertace/data/jkunes/compare_histology_results.py" timestamp="1450862143914">
         <mark key="'" line="322" column="8" />
@@ -933,43 +933,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>}&quot;)</text>
+        <text>SKELET3D_LIB_INSTALL_DESTINATION</text>
       </register>
       <register name="-" type="4">
-        <text>}&quot;)</text>
+        <text>SKELET3D_LIB_INSTALL_DESTINATION</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfX21zX25wZW5hbHR5X2Zjblw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">SW5zdGFsbCB1YnVudHUgcGFja2FnZXMKCiAgICBzdWRvIGFwdC1nZXQgaW5zdGFsbCBjbWFrZSBweXRob24tbnVtcHkgbGliaW5zaWdodHRvb2xraXQzLWRldiBsaWJwbmcxMi1kZXYgbGliZ2RjbTItZGV2CiAgICAKICAgIAogCkJ1aWxkIGMrKyBsaWJyYXJ5CgogICAgY2QgYnVpbGQKICAgIGNtYWtlIC4uCiAgICBtYWtlCiAgICBtYWtlIGluc3RhbGwKICAgIApJbnN0YWxsIHB5dGhvbiBwYWNrYWdlCgogICAgcGlwIGluc3RhbGwgLgo=</text>
+        <text encoding="base64">TUVTU0FHRSgic2tlbGV0M2QgbGliIGluc3RhbGwgZGlyIiAke1NLRUxFVDNEX0xJQl9JTlNUQUxMX0RFU1RJTkFUSU9OfSkK</text>
       </register>
       <register name="1" type="4">
-        <text>}&quot;)</text>
+        <text>SKELET3D_LIB_INSTALL_DESTINATION</text>
       </register>
       <register name="2" type="4">
-        <text>CMAKE_MODULE_PATH</text>
+        <text>dir</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">Q01BS0VfTU9EVUxFX1BBVEgg</text>
+        <text encoding="base64">bGliIA==</text>
       </register>
       <register name="4" type="4">
-        <text>txt</text>
+        <text encoding="base64">c2tlbGV0M2Qg</text>
       </register>
-      <register name="5" type="4">
-        <text>.</text>
+      <register name="5" type="2">
+        <text encoding="base64">U0VUKFNLRUxFVDNEX0xJQl9JTlNUQUxMX0RFU1RJTkFUSU9OIGxpYikK</text>
       </register>
       <register name="6" type="4">
-        <text>UseITK</text>
+        <text>}&quot;)</text>
       </register>
       <register name="7" type="4">
-        <text>o</text>
+        <text>CMAKE_MODULE_PATH</text>
       </register>
       <register name="8" type="4">
-        <text>s</text>
+        <text encoding="base64">Q01BS0VfTU9EVUxFX1BBVEgg</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">IyMgVXNlIEFuYWNvbmRhIHBhY2thZ2VzCgoKSW5zdGFsbCB1YnVudHUgcGFja2FnZXMKCiAgICBzdWRvIGFwdC1nZXQgaW5zdGFsbCBjbWFrZSBweXRob24tbnVtcHkgbGliaW5zaWdodHRvb2xraXQzLWRldiBsaWJwbmcxMi1kZXYgbGliZ2RjbTItZGV2CiAgICAKSW5zdGFsbCBNaW5pY29uZGEgCiAKICAgIHdnZXQgaHR0cDovL3JlcG8uY29udGludXVtLmlvL21pbmljb25kYS9NaW5pY29uZGEtbGF0ZXN0LUxpbnV4LXg4Nl82NC5zaCAtTyBNaW5pY29uZGEtbGF0ZXN0LUxpbnV4LXg4Nl82NC5zaAogICAgYmFzaCBNaW5pY29uZGEtbGF0ZXN0LUxpbnV4LXg4Nl82NC5zaCAtYgogICAgCgpBZGQgYG1pbmljb25kYTIvYmluYCBkaXJlY3RvcnkgdG8gcGF0aCBvciByZXN0YXJ0IHRlcm1pbmFsCgoKICAgIGNkCiAgICBleHBvcnQgIlBBVEg9YHB3ZGAvbWluaWNvbmRhMi9iaW46XCRQQVRIIgoKSW5zdGFsbCBza2VsZXQzZAoKICAgIGNvbmRhIGluc3RhbGwgLWMgbWppcmlrIHNrZWxldDNkCiAgICAK</text>
+      <register name="9" type="4">
+        <text>txt</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
