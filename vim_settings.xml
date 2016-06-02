@@ -338,12 +338,12 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="24" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/skelet3d/README.md" timestamp="1464709785507">
+      <file name="$USER_HOME$/projects/skelet3d/README.md" timestamp="1464899904488">
         <mark key="'" line="21" column="101" />
-        <mark key="[" line="33" column="4" />
-        <mark key="]" line="33" column="23" />
-        <mark key="^" line="33" column="23" />
-        <mark key="." line="33" column="23" />
+        <mark key="[" line="136" column="69" />
+        <mark key="]" line="136" column="93" />
+        <mark key="^" line="136" column="93" />
+        <mark key="." line="136" column="93" />
       </file>
       <file name="$USER_HOME$/projects/imtools/tests/vessels_segmentation_test.py" timestamp="1463667408192">
         <mark key="'" line="26" column="8" />
@@ -396,12 +396,11 @@
         <mark key="^" line="2" column="42" />
         <mark key="." line="2" column="42" />
       </file>
-      <file name="$USER_HOME$/projects/skelet3d/skelet3d/libfixer.py" timestamp="1464628748169">
-        <mark key="'" line="58" column="4" />
-        <mark key="[" line="66" column="42" />
-        <mark key="]" line="66" column="42" />
-        <mark key="." line="66" column="42" />
-        <mark key="^" line="66" column="42" />
+      <file name="$USER_HOME$/projects/skelet3d/skelet3d/libfixer.py" timestamp="1464900694661">
+        <mark key="[" line="87" column="61" />
+        <mark key="]" line="88" column="27" />
+        <mark key="." line="88" column="27" />
+        <mark key="^" line="88" column="27" />
       </file>
       <file name="$USER_HOME$/projects/lisa/requirements_conda.txt" timestamp="1464639305382">
         <mark key="[" line="40" column="0" />
@@ -903,7 +902,10 @@
         <mark key="." line="195" column="23" />
         <mark key="^" line="195" column="23" />
       </file>
-      <file name="/code.py" timestamp="1464816467745">
+      <file name="/Dummy.txt" timestamp="1464901189371">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/code.py" timestamp="1464899694746">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/io3d/io3d/misc.py" timestamp="1453295785375">
@@ -961,17 +963,15 @@
         <mark key="^" line="19" column="21" />
         <mark key="." line="19" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/lisa_data.py" timestamp="1464683337063">
-        <mark key="'" line="105" column="11" />
-        <mark key="[" line="208" column="0" />
-        <mark key="]" line="208" column="0" />
+      <file name="$USER_HOME$/projects/lisa/lisa/lisa_data.py" timestamp="1464898380131">
+        <mark key="'" line="235" column="0" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="11" />
         <mark key="^" line="208" column="38" />
         <mark key="." line="208" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="1095" column="14" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
-      <jump line="41" column="10" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
       <jump line="220" column="15" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
       <jump line="466" column="26" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
       <jump line="470" column="36" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
@@ -1070,46 +1070,48 @@
       <jump line="213" column="57" filename="$USER_HOME$/projects/skelet3d/CMakeLists.txt" />
       <jump line="215" column="72" filename="$USER_HOME$/projects/skelet3d/CMakeLists.txt" />
       <jump line="28" column="36" filename="$USER_HOME$/projects/skelet3d/CMakeLists.txt" />
+      <jump line="235" column="0" filename="$USER_HOME$/projects/lisa/lisa/lisa_data.py" />
+      <jump line="62" column="20" filename="$USER_HOME$/projects/skelet3d/skelet3d/libfixer.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAnb3V0XG4nLCBvdXQK</text>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text encoding="base64">Zm9yIA==</text>
       </register>
       <register name="/" type="4">
         <text>install</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgbGlzYQogICAgICAgIGltcG9ydCBsaXNhLmRhdGFzZXQKICAgICAgICBsaXNhLmRhdGFzZXQuZ2V0X3NhbXBsZV9kYXRhKCkK</text>
+        <text encoding="base64">ICAgICIiIgogICAgTWFrZSBmaWxlIGZvciBhbGwKICAgIDpwYXJhbSBmaWxlbmFtZTogCiAgICA6cmV0dXJuOiAKICAgICIiIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAnb3V0XG4nLCBvdXQK</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">CmxvZ2dlciA9IGxvZ2dpbmcuZ2V0TG9nZ2VyKF9fbmFtZV9fKQppbXBvcnQgYXJncGFyc2UKCgpkZWYgbWFpbigpOgogICAgbG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoKQoKICAgIGxvZ2dlci5zZXRMZXZlbChsb2dnaW5nLkRFQlVHKQogICAgY2ggPSBsb2dnaW5nLlN0cmVhbUhhbmRsZXIoKQogICAgbG9nZ2VyLmFkZEhhbmRsZXIoY2gpCgogICAgIyBjcmVhdGUgZmlsZSBoYW5kbGVyIHdoaWNoIGxvZ3MgZXZlbiBkZWJ1ZyBtZXNzYWdlcwogICAgIyBmaCA9IGxvZ2dpbmcuRmlsZUhhbmRsZXIoJ2xvZy50eHQnKQogICAgIyBmaC5zZXRMZXZlbChsb2dnaW5nLkRFQlVHKQogICAgIyBmb3JtYXR0ZXIgPSBsb2dnaW5nLkZvcm1hdHRlcigKICAgICMgICAgICclKGFzY3RpbWUpcyAtICUobmFtZSlzIC0gJShsZXZlbG5hbWUpcyAtICUobWVzc2FnZSlzJykKICAgICMgZmguc2V0Rm9ybWF0dGVyKGZvcm1hdHRlcikKICAgICMgbG9nZ2VyLmFkZEhhbmRsZXIoZmgpCiAgICAjIGxvZ2dlci5kZWJ1Zygnc3RhcnQnKQoKICAgICMgaW5wdXQgcGFyc2VyCiAgICBwYXJzZXIgPSBhcmdwYXJzZS5Bcmd1bWVudFBhcnNlcigKICAgICAgICBkZXNjcmlwdGlvbj1fX2RvY19fCiAgICApCiAgICBwYXJzZXIuYWRkX2FyZ3VtZW50KAogICAgICAgICctaScsICctLWlucHV0ZmlsZScsCiAgICAgICAgZGVmYXVsdD1Ob25lLAogICAgICAgIHJlcXVpcmVkPVRydWUsCiAgICAgICAgaGVscD0naW5wdXQgZmlsZScKICAgICkKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoCiAgICAgICAgJy1kJywgJy0tZGVidWcnLCBhY3Rpb249J3N0b3JlX3RydWUnLAogICAgICAgIGhlbHA9J0RlYnVnIG1vZGUnKQogICAgYXJncyA9IHBhcnNlci5wYXJzZV9hcmdzKCkKCiAgICBpZiBhcmdzLmRlYnVnOgogICAgICAgIGNoLnNldExldmVsKGxvZ2dpbmcuREVCVUcpCgoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIG1haW4oKQ==</text>
+        <text encoding="base64">Zm9yIA==</text>
       </register>
       <register name="3" type="4">
-        <text>y</text>
+        <text>chmod</text>
       </register>
-      <register name="4" type="4">
-        <text>p</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICMgb3MuY2hvd24oZmlsZW5hbWUsIGludChvcy5nZXRlbnYoJ1NVRE9fVUlEJykpLCBpbnQob3MuZ2V0ZW52KCdTVURPX0dJRCcpKSkK</text>
       </register>
-      <register name="5" type="4">
-        <text>.</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBmaGVhZCwgZnRlaWwgPSBvcy5wYXRoLnNwbGl0KGZpbGUpCiAgICAgICAgZGVzdF9maWxlID0gb3MucGF0aC5qb2luKGRlc3RfZGlyX2NvbmRhX2xpYiwgZnRlaWwpCg==</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">cHl0aG9uIA==</text>
+        <text>folder</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">cHkg</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHByaW50ICJjb3B5ICVzIGludG8gJXMiICUgKGZpbGUsIGRlc3RfZGlyKQo=</text>
       </register>
       <register name="8" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="9" type="4">
-        <text>mysetup</text>
+        <text>st_dir</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
