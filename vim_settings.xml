@@ -53,7 +53,8 @@
         <mark key="^" line="31" column="21" />
         <mark key="." line="31" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1464614268651">
+      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1464958134835">
+        <mark key="'" line="1586" column="19" />
         <mark key="[" line="1340" column="70" />
         <mark key="]" line="1340" column="70" />
         <mark key="^" line="1340" column="70" />
@@ -835,11 +836,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="474" column="100" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
-      <jump line="479" column="22" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
-      <jump line="484" column="32" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
-      <jump line="487" column="100" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
-      <jump line="566" column="11" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
       <jump line="585" column="57" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
       <jump line="743" column="17" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
       <jump line="745" column="19" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
@@ -935,6 +931,11 @@
       <jump line="595" column="58" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
       <jump line="631" column="13" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
       <jump line="571" column="8" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="1362" column="40" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="1580" column="19" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="1624" column="16" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="1626" column="20" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="1586" column="19" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -944,7 +945,7 @@
         <text>make</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfX21zX25wZW5hbHR5X2Zjblw+</text>
+        <text encoding="base64">XDxnZXRfc2FtcGxlX2RhdGFcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">VG8gYnVpbGQgYC5zb2AgbGlicmFyaWVzIHlvdSB3aWxsIG5lZWQgZG93bmxvYWQgc2tlbGV0M2Qgc291cmNlczoKCiAgICBjZCBidWlsZAogICAgY21ha2UgLi4KICAgIG1ha2UKICAgIG1ha2UgaW5zdGFsbAo=</text>
@@ -981,16 +982,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfX21zX25wZW5hbHR5X2Zjblw+</last-search>
+      <last-search encoding="base64">XDxnZXRfc2FtcGxlX2RhdGFcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfX21zX25wZW5hbHR5X2Zjblw+</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRfc2FtcGxlX2RhdGFcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Load file</entry>
-        <entry>log</entry>
         <entry encoding="base64">XDxsb2dnZXJfaW5pdFw+</entry>
         <entry>cbLog</entry>
         <entry encoding="base64">XDxidG5Mb2dcPg==</entry>
@@ -1009,6 +1008,8 @@
         <entry encoding="base64">XDxfX2NyZWF0ZV90bGlua3NcPg==</entry>
         <entry encoding="base64">XDx0aWxlX3pvb21fY29uc3RhbnRcPg==</entry>
         <entry encoding="base64">XDxfX21zX25wZW5hbHR5X2Zjblw+</entry>
+        <entry>make_icon</entry>
+        <entry encoding="base64">XDxnZXRfc2FtcGxlX2RhdGFcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>592</entry>
