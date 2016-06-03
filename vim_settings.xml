@@ -446,9 +446,10 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/.travis.yml" timestamp="1464957854419">
+      <file name="$USER_HOME$/projects/lisa/.travis.yml" timestamp="1464958790493">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
+        <mark key="^" line="39" column="4" />
         <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/projects/quanta/quantan/__main__.py" timestamp="1446553214305">
@@ -825,9 +826,6 @@
         <mark key="^" line="7" column="27" />
         <mark key="." line="7" column="27" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/setup.cfg" timestamp="1463994299423">
-        <mark key="m" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/lisa/install_nosudo.sh" timestamp="1463557769445">
         <mark key="[" line="16" column="56" />
         <mark key="]" line="19" column="21" />
@@ -939,43 +937,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC0gcHl0aG9uIHNldHVwLnB5IGluc3RhbGwKICAgIC0gY2QgLi4KICAgIC0gY2QgLi4K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>make</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRfc2FtcGxlX2RhdGFcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">VG8gYnVpbGQgYC5zb2AgbGlicmFyaWVzIHlvdSB3aWxsIG5lZWQgZG93bmxvYWQgc2tlbGV0M2Qgc291cmNlczoKCiAgICBjZCBidWlsZAogICAgY21ha2UgLi4KICAgIG1ha2UKICAgIG1ha2UgaW5zdGFsbAo=</text>
+        <text encoding="base64">ICAgIC0gY2QgLi4gCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC0gcHl0aG9uIHNldHVwLnB5IGluc3RhbGwKICAgIC0gY2QgLi4KICAgIC0gY2QgLi4K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="2" type="4">
-        <text>make</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="3" type="4">
-        <text>`</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIC0K</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">Z2VuX3ZvbHVtZV90cmVlIA==</text>
+        <text>:</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">SW5zdGFsbCBgLnNvYCBsaWJyYXJpZXMKCiAgICBzdWRvIG1pbmljb25kYTIvYmluL3B5dGhvbiAtbSBza2VsZXQzZC5saWJmaXhlcgo=</text>
+      <register name="5" type="4">
+        <text>]</text>
       </register>
       <register name="6" type="4">
-        <text>SKELET3D_LIB_INSTALL_DESTINATION</text>
+        <text>[</text>
       </register>
       <register name="7" type="4">
-        <text>dir</text>
+        <text>*</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">bGliIA==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIC0gcHl0aG9uIHNldHVwLnB5IGluc3RhbGwKICAgIC0gY2QgLi4KICAgIC0gY2QgLi4K</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">c2tlbGV0M2Qg</text>
+        <text>make</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
