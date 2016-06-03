@@ -34,9 +34,6 @@
         <mark key="^" line="61" column="18" />
         <mark key="." line="61" column="18" />
       </file>
-      <file name="/a.dummy" timestamp="1463740464875">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/dicom2fem/dicom2fem/vtk2stl.py" timestamp="1448959466140">
         <mark key="[" line="22" column="23" />
         <mark key="]" line="22" column="23" />
@@ -333,6 +330,12 @@
         <mark key="]" line="78" column="16" />
         <mark key="^" line="78" column="16" />
         <mark key="." line="78" column="16" />
+      </file>
+      <file name="$USER_HOME$/projects/quantan/tests/histology_test.py" timestamp="1464957480793">
+        <mark key="[" line="29" column="37" />
+        <mark key="]" line="29" column="37" />
+        <mark key="." line="29" column="37" />
+        <mark key="^" line="29" column="37" />
       </file>
       <file name="$USER_HOME$/projects/io3d/io3d/datawriter.py" timestamp="1450698545682">
         <mark key="[" line="48" column="60" />
@@ -935,11 +938,11 @@
       <jump line="571" column="8" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">SW5zdGFsbCBgLnNvYCBsaWJyYXJpZXMKCiAgICBzdWRvIG1pbmljb25kYTIvYmluL3B5dGhvbiAtbSBza2VsZXQzZC5saWJmaXhlcgo=</text>
+      <register name="&quot;" type="4">
+        <text>`</text>
       </register>
       <register name="-" type="4">
-        <text>SKELET3D_LIB_INSTALL_DESTINATION</text>
+        <text>`</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfX21zX25wZW5hbHR5X2Zjblw+</text>
@@ -947,32 +950,32 @@
       <register name="0" type="2">
         <text encoding="base64">VG8gYnVpbGQgYC5zb2AgbGlicmFyaWVzIHlvdSB3aWxsIG5lZWQgZG93bmxvYWQgc2tlbGV0M2Qgc291cmNlczoKCiAgICBjZCBidWlsZAogICAgY21ha2UgLi4KICAgIG1ha2UKICAgIG1ha2UgaW5zdGFsbAo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">SW5zdGFsbCBgLnNvYCBsaWJyYXJpZXMKCiAgICBzdWRvIG1pbmljb25kYTIvYmluL3B5dGhvbiAtbSBza2VsZXQzZC5saWJmaXhlcgo=</text>
+      <register name="1" type="4">
+        <text>`</text>
       </register>
       <register name="2" type="4">
-        <text>SKELET3D_LIB_INSTALL_DESTINATION</text>
+        <text encoding="base64">Z2VuX3ZvbHVtZV90cmVlIA==</text>
       </register>
-      <register name="3" type="4">
-        <text>dir</text>
+      <register name="3" type="2">
+        <text encoding="base64">SW5zdGFsbCBgLnNvYCBsaWJyYXJpZXMKCiAgICBzdWRvIG1pbmljb25kYTIvYmluL3B5dGhvbiAtbSBza2VsZXQzZC5saWJmaXhlcgo=</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">bGliIA==</text>
+        <text>SKELET3D_LIB_INSTALL_DESTINATION</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">c2tlbGV0M2Qg</text>
+        <text>dir</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">U0VUKFNLRUxFVDNEX0xJQl9JTlNUQUxMX0RFU1RJTkFUSU9OIGxpYikK</text>
+      <register name="6" type="4">
+        <text encoding="base64">bGliIA==</text>
       </register>
       <register name="7" type="4">
-        <text>}&quot;)</text>
+        <text encoding="base64">c2tlbGV0M2Qg</text>
       </register>
-      <register name="8" type="4">
-        <text>CMAKE_MODULE_PATH</text>
+      <register name="8" type="2">
+        <text encoding="base64">U0VUKFNLRUxFVDNEX0xJQl9JTlNUQUxMX0RFU1RJTkFUSU9OIGxpYikK</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">Q01BS0VfTU9EVUxFX1BBVEgg</text>
+        <text>}&quot;)</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
