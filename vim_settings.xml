@@ -351,11 +351,12 @@
         <mark key="." line="154" column="49" />
         <mark key="^" line="154" column="49" />
       </file>
-      <file name="$USER_HOME$/projects/skelet3d/skelet3d/libfixer.py" timestamp="1464929760625">
-        <mark key="[" line="129" column="0" />
-        <mark key="]" line="88" column="42" />
-        <mark key="." line="88" column="42" />
-        <mark key="^" line="88" column="42" />
+      <file name="$USER_HOME$/projects/skelet3d/skelet3d/libfixer.py" timestamp="1464931956012">
+        <mark key="'" line="110" column="21" />
+        <mark key="[" line="159" column="24" />
+        <mark key="]" line="160" column="68" />
+        <mark key="." line="160" column="68" />
+        <mark key="^" line="160" column="68" />
       </file>
       <file name="$USER_HOME$/projects/lisa/requirements_conda.txt" timestamp="1464092446357">
         <mark key="[" line="3" column="2" />
@@ -827,7 +828,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="474" column="100" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
       <jump line="479" column="22" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
       <jump line="484" column="32" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
       <jump line="487" column="100" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
@@ -927,62 +927,61 @@
       <jump line="595" column="58" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
       <jump line="631" column="13" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
       <jump line="571" column="8" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="110" column="21" filename="$USER_HOME$/projects/skelet3d/skelet3d/libfixer.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>SKELET3D_LIB_INSTALL_DESTINATION</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHdnZXQK</text>
       </register>
       <register name="-" type="4">
-        <text>SKELET3D_LIB_INSTALL_DESTINATION</text>
+        <text>k</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfX21zX25wZW5hbHR5X2Zjblw+</text>
+        <text>logger</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">TUVTU0FHRSgic2tlbGV0M2QgbGliIGluc3RhbGwgZGlyIiAke1NLRUxFVDNEX0xJQl9JTlNUQUxMX0RFU1RJTkFUSU9OfSkK</text>
       </register>
-      <register name="1" type="4">
-        <text>SKELET3D_LIB_INSTALL_DESTINATION</text>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IHdnZXQK</text>
       </register>
-      <register name="2" type="4">
-        <text>dir</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHByaW50IGRlc3RfZGlyX2NvbmRhX2xpYgo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">bGliIA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCAnZHN0ZGlyICcsIGRzdGRpcgo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">c2tlbGV0M2Qg</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCAiZ2V0X2NvbmRhX2RpcigpIMWhxaHFocWhxaEiCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">U0VUKFNLRUxFVDNEX0xJQl9JTlNUQUxMX0RFU1RJTkFUSU9OIGxpYikK</text>
+      <register name="5" type="4">
+        <text>k</text>
       </register>
       <register name="6" type="4">
-        <text>}&quot;)</text>
+        <text>c</text>
       </register>
       <register name="7" type="4">
-        <text>CMAKE_MODULE_PATH</text>
+        <text>e</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">Q01BS0VfTU9EVUxFX1BBVEgg</text>
+        <text>h</text>
       </register>
       <register name="9" type="4">
-        <text>txt</text>
+        <text>c</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfX21zX25wZW5hbHR5X2Zjblw+</last-search>
+      <last-search>logger</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfX21zX25wZW5hbHR5X2Zjblw+</last-pattern>
+      <last-pattern>logger</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Load file</entry>
-        <entry>log</entry>
         <entry encoding="base64">XDxsb2dnZXJfaW5pdFw+</entry>
         <entry>cbLog</entry>
         <entry encoding="base64">XDxidG5Mb2dcPg==</entry>
@@ -1001,6 +1000,8 @@
         <entry encoding="base64">XDxfX2NyZWF0ZV90bGlua3NcPg==</entry>
         <entry encoding="base64">XDx0aWxlX3pvb21fY29uc3RhbnRcPg==</entry>
         <entry encoding="base64">XDxfX21zX25wZW5hbHR5X2Zjblw+</entry>
+        <entry>check</entry>
+        <entry>logger</entry>
       </history-search>
       <history-cmd>
         <entry>592</entry>
