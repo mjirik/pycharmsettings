@@ -445,11 +445,10 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/.travis.yml" timestamp="1445352391957">
-        <mark key="[" line="38" column="4" />
-        <mark key="]" line="37" column="5" />
-        <mark key="^" line="37" column="5" />
-        <mark key="." line="37" column="5" />
+      <file name="$USER_HOME$/projects/lisa/.travis.yml" timestamp="1464957854419">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/projects/quanta/quantan/__main__.py" timestamp="1446553214305">
         <mark key="[" line="0" column="13" />
@@ -938,11 +937,11 @@
       <jump line="571" column="8" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>`</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC0gcHl0aG9uIHNldHVwLnB5IGluc3RhbGwKICAgIC0gY2QgLi4KICAgIC0gY2QgLi4K</text>
       </register>
       <register name="-" type="4">
-        <text>`</text>
+        <text>make</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfX21zX25wZW5hbHR5X2Zjblw+</text>
@@ -950,32 +949,32 @@
       <register name="0" type="2">
         <text encoding="base64">VG8gYnVpbGQgYC5zb2AgbGlicmFyaWVzIHlvdSB3aWxsIG5lZWQgZG93bmxvYWQgc2tlbGV0M2Qgc291cmNlczoKCiAgICBjZCBidWlsZAogICAgY21ha2UgLi4KICAgIG1ha2UKICAgIG1ha2UgaW5zdGFsbAo=</text>
       </register>
-      <register name="1" type="4">
-        <text>`</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIC0gcHl0aG9uIHNldHVwLnB5IGluc3RhbGwKICAgIC0gY2QgLi4KICAgIC0gY2QgLi4K</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">Z2VuX3ZvbHVtZV90cmVlIA==</text>
+        <text>make</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">SW5zdGFsbCBgLnNvYCBsaWJyYXJpZXMKCiAgICBzdWRvIG1pbmljb25kYTIvYmluL3B5dGhvbiAtbSBza2VsZXQzZC5saWJmaXhlcgo=</text>
+      <register name="3" type="4">
+        <text>`</text>
       </register>
       <register name="4" type="4">
-        <text>SKELET3D_LIB_INSTALL_DESTINATION</text>
+        <text encoding="base64">Z2VuX3ZvbHVtZV90cmVlIA==</text>
       </register>
-      <register name="5" type="4">
-        <text>dir</text>
+      <register name="5" type="2">
+        <text encoding="base64">SW5zdGFsbCBgLnNvYCBsaWJyYXJpZXMKCiAgICBzdWRvIG1pbmljb25kYTIvYmluL3B5dGhvbiAtbSBza2VsZXQzZC5saWJmaXhlcgo=</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">bGliIA==</text>
+        <text>SKELET3D_LIB_INSTALL_DESTINATION</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">c2tlbGV0M2Qg</text>
+        <text>dir</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">U0VUKFNLRUxFVDNEX0xJQl9JTlNUQUxMX0RFU1RJTkFUSU9OIGxpYikK</text>
+      <register name="8" type="4">
+        <text encoding="base64">bGliIA==</text>
       </register>
       <register name="9" type="4">
-        <text>}&quot;)</text>
+        <text encoding="base64">c2tlbGV0M2Qg</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
