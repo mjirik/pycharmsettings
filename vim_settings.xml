@@ -769,13 +769,13 @@
         <mark key="^" line="42" column="12" />
         <mark key="." line="42" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/tests/histology_test.py" timestamp="1464961178735">
+      <file name="$USER_HOME$/projects/lisa/tests/histology_test.py" timestamp="1464961917594">
         <mark key="a" line="130" column="41" />
         <mark key="'" line="15" column="18" />
-        <mark key="[" line="131" column="41" />
-        <mark key="]" line="131" column="64" />
-        <mark key="^" line="131" column="64" />
-        <mark key="." line="131" column="64" />
+        <mark key="[" line="178" column="15" />
+        <mark key="]" line="178" column="21" />
+        <mark key="^" line="178" column="21" />
+        <mark key="." line="178" column="21" />
       </file>
       <file name="$USER_HOME$/projects/io3d/io3d/datareader.py" timestamp="1446818660722">
         <mark key="'" line="98" column="12" />
@@ -961,11 +961,11 @@
       <jump line="234" column="56" filename="$USER_HOME$/projects/lisa/mysetup.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBpbzNkLm1pc2MK</text>
+      <register name="&quot;" type="4">
+        <text>lisa</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>lisa</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRfc2FtcGxlX2RhdGFcPg==</text>
@@ -973,32 +973,32 @@
       <register name="0" type="4">
         <text>lisa.dataset.sample_data_path()</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text>lisa</text>
+      </register>
+      <register name="2" type="4">
+        <text>lisa</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgIGltcG9ydCBpbzNkLm1pc2MK</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIHByaW50ICJ1cnJhIgo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>/</text>
       </register>
-      <register name="4" type="4">
-        <text>.</text>
-      </register>
-      <register name="5" type="4">
-        <text>.</text>
-      </register>
       <register name="6" type="4">
-        <text>path_to_script</text>
+        <text>.</text>
       </register>
       <register name="7" type="4">
-        <text>path_to_script</text>
+        <text>.</text>
       </register>
       <register name="8" type="4">
-        <text>from lisa import dataset</text>
+        <text>path_to_script</text>
       </register>
       <register name="9" type="4">
-        <text>.</text>
+        <text>path_to_script</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1035,7 +1035,6 @@
         <entry encoding="base64">XDxnZXRfc2FtcGxlX2RhdGFcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>592</entry>
         <entry>270</entry>
         <entry>638</entry>
         <entry>178</entry>
@@ -1054,6 +1053,7 @@
         <entry>26</entry>
         <entry>81</entry>
         <entry>W</entry>
+        <entry>179</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
