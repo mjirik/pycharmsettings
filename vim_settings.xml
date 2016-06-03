@@ -87,11 +87,11 @@
       <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1464095653343">
         <mark key="'" line="845" column="54" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/tests/liver_segmentation_cerveny_test.py" timestamp="1449487905152">
-        <mark key="[" line="30" column="23" />
-        <mark key="]" line="30" column="29" />
-        <mark key="^" line="30" column="29" />
-        <mark key="." line="30" column="29" />
+      <file name="$USER_HOME$/projects/lisa/tests/liver_segmentation_cerveny_test.py" timestamp="1464961617928">
+        <mark key="[" line="70" column="63" />
+        <mark key="]" line="70" column="63" />
+        <mark key="^" line="44" column="62" />
+        <mark key="." line="70" column="63" />
       </file>
       <file name="$USER_HOME$/projects/lisa/tests/ha_gui_test.py" timestamp="1464961138118">
         <mark key="'" line="40" column="2" />
@@ -827,6 +827,11 @@
         <mark key="^" line="128" column="20" />
         <mark key="." line="127" column="72" />
       </file>
+      <file name="$USER_HOME$/projects/imtools/imtools/vesseltree_export.py" timestamp="1464961839873">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/imtools/setup.py" timestamp="1463661306421">
         <mark key="[" line="57" column="61" />
         <mark key="]" line="57" column="61" />
@@ -956,44 +961,44 @@
       <jump line="234" column="56" filename="$USER_HOME$/projects/lisa/mysetup.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">bGlzYS5kYXRhc2V0LnNhbXBsZV9kYXRhX3BhdGgoKSArIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGltcG9ydCBpbzNkLm1pc2MK</text>
       </register>
       <register name="-" type="4">
-        <text>from lisa import dataset</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRfc2FtcGxlX2RhdGFcPg==</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">bGlzYS5kYXRhc2V0LnNhbXBsZV9kYXRhX3BhdGgoKSArIA==</text>
+        <text>lisa.dataset.sample_data_path()</text>
       </register>
-      <register name="1" type="4">
-        <text>from lisa import dataset</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGltcG9ydCBpbzNkLm1pc2MK</text>
       </register>
-      <register name="2" type="4">
-        <text>.</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHByaW50ICJ1cnJhIgo=</text>
       </register>
       <register name="3" type="4">
-        <text>lisa</text>
+        <text>/</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">c2FtcGxlX2RhdGEK</text>
+      <register name="4" type="4">
+        <text>.</text>
       </register>
       <register name="5" type="4">
-        <text>Hello</text>
+        <text>.</text>
       </register>
       <register name="6" type="4">
-        <text>'somefile.txt'</text>
+        <text>path_to_script</text>
       </register>
       <register name="7" type="4">
-        <text>&quot;../__VERSION__&quot;</text>
+        <text>path_to_script</text>
       </register>
       <register name="8" type="4">
-        <text>y</text>
+        <text>from lisa import dataset</text>
       </register>
       <register name="9" type="4">
-        <text>p</text>
+        <text>.</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
