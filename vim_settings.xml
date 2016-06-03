@@ -299,12 +299,12 @@
         <mark key="^" line="136" column="25" />
         <mark key="." line="136" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/skelet3d/README.md" timestamp="1464615822479">
+      <file name="$USER_HOME$/projects/skelet3d/README.md" timestamp="1464933393697">
         <mark key="'" line="21" column="101" />
-        <mark key="[" line="21" column="101" />
-        <mark key="]" line="21" column="101" />
-        <mark key="." line="21" column="101" />
-        <mark key="^" line="21" column="101" />
+        <mark key="[" line="141" column="15" />
+        <mark key="]" line="142" column="0" />
+        <mark key="." line="142" column="0" />
+        <mark key="^" line="142" column="0" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/config_default.py" timestamp="1461677884663">
         <mark key="[" line="44" column="37" />
@@ -930,11 +930,11 @@
       <jump line="110" column="21" filename="$USER_HOME$/projects/skelet3d/skelet3d/libfixer.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHdnZXQK</text>
+      <register name="&quot;" type="4">
+        <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>k</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>logger</text>
@@ -942,32 +942,32 @@
       <register name="0" type="2">
         <text encoding="base64">TUVTU0FHRSgic2tlbGV0M2QgbGliIGluc3RhbGwgZGlyIiAke1NLRUxFVDNEX0xJQl9JTlNUQUxMX0RFU1RJTkFUSU9OfSkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHdnZXQK</text>
+      <register name="1" type="4">
+        <text>l</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50IGRlc3RfZGlyX2NvbmRhX2xpYgo=</text>
+      <register name="2" type="4">
+        <text>/</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAnZHN0ZGlyICcsIGRzdGRpcgo=</text>
+      <register name="3" type="4">
+        <text>7</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAiZ2V0X2NvbmRhX2RpcigpIMWhxaHFocWhxaEiCg==</text>
+      <register name="4" type="4">
+        <text>.</text>
       </register>
       <register name="5" type="4">
-        <text>k</text>
+        <text>2</text>
       </register>
       <register name="6" type="4">
-        <text>c</text>
+        <text>n</text>
       </register>
       <register name="7" type="4">
-        <text>e</text>
+        <text>o</text>
       </register>
       <register name="8" type="4">
         <text>h</text>
       </register>
       <register name="9" type="4">
-        <text>c</text>
+        <text>t</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
