@@ -34,8 +34,10 @@
         <mark key="^" line="61" column="18" />
         <mark key="." line="61" column="18" />
       </file>
-      <file name="/a.dummy" timestamp="1463740464875">
+      <file name="/a.dummy" timestamp="1464961270337">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/dicom2fem/dicom2fem/vtk2stl.py" timestamp="1448959466140">
         <mark key="[" line="22" column="23" />
@@ -56,7 +58,8 @@
         <mark key="^" line="31" column="21" />
         <mark key="." line="31" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1464614268651">
+      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1464958134835">
+        <mark key="'" line="1586" column="19" />
         <mark key="[" line="1340" column="70" />
         <mark key="]" line="1340" column="70" />
         <mark key="^" line="1340" column="70" />
@@ -84,11 +87,18 @@
       <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1464095653343">
         <mark key="'" line="845" column="54" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/tests/liver_segmentation_cerveny_test.py" timestamp="1449487905152">
-        <mark key="[" line="30" column="23" />
-        <mark key="]" line="30" column="29" />
-        <mark key="^" line="30" column="29" />
-        <mark key="." line="30" column="29" />
+      <file name="$USER_HOME$/projects/lisa/tests/liver_segmentation_cerveny_test.py" timestamp="1464961617928">
+        <mark key="[" line="70" column="63" />
+        <mark key="]" line="70" column="63" />
+        <mark key="^" line="44" column="62" />
+        <mark key="." line="70" column="63" />
+      </file>
+      <file name="$USER_HOME$/projects/lisa/tests/ha_gui_test.py" timestamp="1464961138118">
+        <mark key="'" line="40" column="2" />
+        <mark key="[" line="19" column="44" />
+        <mark key="]" line="21" column="18" />
+        <mark key="^" line="21" column="18" />
+        <mark key="." line="21" column="18" />
       </file>
       <file name="$USER_HOME$/projects/imtools/imtools/ml/gmmcl.py" timestamp="1448550206184">
         <mark key="[" line="11" column="14" />
@@ -235,6 +245,9 @@
         <mark key="^" line="43" column="7" />
         <mark key="." line="43" column="0" />
       </file>
+      <file name="/Python Console" timestamp="1463667911820">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/quantan/quantan/histology_report.py" timestamp="1452186060856">
         <mark key="[" line="269" column="34" />
         <mark key="]" line="269" column="68" />
@@ -299,12 +312,12 @@
         <mark key="^" line="136" column="25" />
         <mark key="." line="136" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/skelet3d/README.md" timestamp="1464933393697">
+      <file name="$USER_HOME$/projects/skelet3d/README.md" timestamp="1464957289194">
         <mark key="'" line="21" column="101" />
-        <mark key="[" line="144" column="15" />
-        <mark key="]" line="145" column="0" />
-        <mark key="." line="145" column="0" />
-        <mark key="^" line="145" column="0" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+        <mark key="^" line="21" column="101" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/config_default.py" timestamp="1461677884663">
         <mark key="[" line="44" column="37" />
@@ -331,6 +344,12 @@
         <mark key="^" line="78" column="16" />
         <mark key="." line="78" column="16" />
       </file>
+      <file name="$USER_HOME$/projects/quantan/tests/histology_test.py" timestamp="1464957480793">
+        <mark key="[" line="29" column="37" />
+        <mark key="]" line="29" column="37" />
+        <mark key="." line="29" column="37" />
+        <mark key="^" line="29" column="37" />
+      </file>
       <file name="$USER_HOME$/projects/io3d/io3d/datawriter.py" timestamp="1450698545682">
         <mark key="[" line="48" column="60" />
         <mark key="]" line="48" column="65" />
@@ -351,12 +370,11 @@
         <mark key="." line="154" column="49" />
         <mark key="^" line="154" column="49" />
       </file>
-      <file name="$USER_HOME$/projects/skelet3d/skelet3d/libfixer.py" timestamp="1464931956012">
-        <mark key="'" line="110" column="21" />
-        <mark key="[" line="159" column="24" />
-        <mark key="]" line="160" column="68" />
-        <mark key="." line="160" column="68" />
-        <mark key="^" line="160" column="68" />
+      <file name="$USER_HOME$/projects/skelet3d/skelet3d/libfixer.py" timestamp="1464617490297">
+        <mark key="[" line="88" column="42" />
+        <mark key="]" line="88" column="42" />
+        <mark key="." line="88" column="42" />
+        <mark key="^" line="88" column="42" />
       </file>
       <file name="$USER_HOME$/projects/lisa/requirements_conda.txt" timestamp="1464092446357">
         <mark key="[" line="3" column="2" />
@@ -440,11 +458,11 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/.travis.yml" timestamp="1445352391957">
-        <mark key="[" line="38" column="4" />
-        <mark key="]" line="37" column="5" />
-        <mark key="^" line="37" column="5" />
-        <mark key="." line="37" column="5" />
+      <file name="$USER_HOME$/projects/lisa/.travis.yml" timestamp="1464959089598">
+        <mark key="[" line="52" column="13" />
+        <mark key="]" line="52" column="34" />
+        <mark key="^" line="52" column="34" />
+        <mark key="." line="52" column="34" />
       </file>
       <file name="$USER_HOME$/projects/quanta/quantan/__main__.py" timestamp="1446553214305">
         <mark key="[" line="0" column="13" />
@@ -543,6 +561,12 @@
         <mark key="]" line="295" column="20" />
         <mark key="^" line="295" column="20" />
         <mark key="." line="295" column="20" />
+      </file>
+      <file name="$USER_HOME$/projects/skelet3d/install_linux.md" timestamp="1464957280328">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="35" column="15" />
+        <mark key="^" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/projects/skelet3d/bld.bat" timestamp="1446806979486">
         <mark key="[" line="55" column="0" />
@@ -726,10 +750,11 @@
         <mark key="." line="31" column="72" />
       </file>
       <file name="$USER_HOME$/projects/skelet3d/CMakeLists.txt" timestamp="1464878176280">
-        <mark key="[" line="191" column="28" />
-        <mark key="]" line="191" column="47" />
-        <mark key="^" line="191" column="47" />
-        <mark key="." line="191" column="47" />
+        <mark key="'" line="153" column="26" />
+        <mark key="[" line="182" column="28" />
+        <mark key="]" line="182" column="47" />
+        <mark key="^" line="182" column="47" />
+        <mark key="." line="182" column="47" />
       </file>
       <file name="$USER_HOME$/Dropbox/studium/dizertace/data/jkunes/compare_histology_results.py" timestamp="1450862143914">
         <mark key="'" line="322" column="8" />
@@ -744,12 +769,13 @@
         <mark key="^" line="42" column="12" />
         <mark key="." line="42" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/tests/histology_test.py" timestamp="1449569420458">
-        <mark key="'" line="57" column="13" />
-        <mark key="[" line="15" column="13" />
-        <mark key="]" line="15" column="20" />
-        <mark key="^" line="15" column="20" />
-        <mark key="." line="15" column="20" />
+      <file name="$USER_HOME$/projects/lisa/tests/histology_test.py" timestamp="1464961917594">
+        <mark key="a" line="130" column="41" />
+        <mark key="'" line="15" column="18" />
+        <mark key="[" line="178" column="15" />
+        <mark key="]" line="178" column="21" />
+        <mark key="^" line="178" column="21" />
+        <mark key="." line="178" column="21" />
       </file>
       <file name="$USER_HOME$/projects/io3d/io3d/datareader.py" timestamp="1446818660722">
         <mark key="'" line="98" column="12" />
@@ -763,11 +789,6 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/__init__.py" timestamp="1464069707367">
-        <mark key="]" line="3" column="34" />
-        <mark key="^" line="3" column="34" />
-        <mark key="." line="3" column="34" />
-      </file>
       <file name="$USER_HOME$/projects/events2calendar/mail2calendar.py" timestamp="1463731037633">
         <mark key="'" line="269" column="4" />
         <mark key="[" line="195" column="23" />
@@ -775,12 +796,27 @@
         <mark key="." line="195" column="23" />
         <mark key="^" line="195" column="23" />
       </file>
+      <file name="/Dummy.txt" timestamp="1464961929607">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/io3d/io3d/misc.py" timestamp="1453295785375">
         <mark key="'" line="19" column="27" />
         <mark key="[" line="81" column="15" />
         <mark key="]" line="81" column="18" />
         <mark key="^" line="81" column="18" />
         <mark key="." line="81" column="18" />
+      </file>
+      <file name="$USER_HOME$/projects/imtools/tests/qmisc_test.py" timestamp="1464960292912">
+        <mark key="[" line="156" column="44" />
+        <mark key="]" line="158" column="24" />
+        <mark key="^" line="158" column="24" />
+        <mark key="." line="158" column="24" />
+      </file>
+      <file name="$USER_HOME$/projects/lisa/tests/datawriter_test.py" timestamp="1464961070103">
+        <mark key="[" line="117" column="48" />
+        <mark key="]" line="117" column="47" />
+        <mark key="^" line="117" column="47" />
+        <mark key="." line="117" column="47" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/viewer.py" timestamp="1444650851289">
         <mark key="[" line="79" column="48" />
@@ -794,27 +830,29 @@
         <mark key="^" line="128" column="20" />
         <mark key="." line="127" column="72" />
       </file>
+      <file name="$USER_HOME$/projects/imtools/imtools/vesseltree_export.py" timestamp="1464961839873">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/imtools/setup.py" timestamp="1463661306421">
         <mark key="[" line="57" column="61" />
         <mark key="]" line="57" column="61" />
         <mark key="^" line="57" column="61" />
         <mark key="." line="57" column="61" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/mysetup.py" timestamp="1448551743639">
-        <mark key="'" line="471" column="14" />
-        <mark key="[" line="478" column="21" />
-        <mark key="]" line="478" column="34" />
-        <mark key="^" line="478" column="34" />
-        <mark key="." line="478" column="34" />
+      <file name="$USER_HOME$/projects/lisa/mysetup.py" timestamp="1464961249453">
+        <mark key="'" line="234" column="56" />
+        <mark key="[" line="232" column="22" />
+        <mark key="]" line="234" column="56" />
+        <mark key="^" line="234" column="56" />
+        <mark key="." line="234" column="56" />
       </file>
       <file name="$USER_HOME$/projects/io3d/io3d/__init__.py" timestamp="1448883347734">
         <mark key="[" line="7" column="22" />
         <mark key="]" line="7" column="27" />
         <mark key="^" line="7" column="27" />
         <mark key="." line="7" column="27" />
-      </file>
-      <file name="$USER_HOME$/projects/lisa/setup.cfg" timestamp="1463994299423">
-        <mark key="m" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/lisa/install_nosudo.sh" timestamp="1463557769445">
         <mark key="[" line="16" column="56" />
@@ -824,14 +862,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="479" column="22" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
-      <jump line="484" column="32" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
-      <jump line="487" column="100" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
-      <jump line="566" column="11" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
-      <jump line="585" column="57" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
-      <jump line="743" column="17" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
-      <jump line="745" column="19" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
-      <jump line="748" column="19" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
       <jump line="1034" column="49" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
       <jump line="1060" column="14" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
       <jump line="1066" column="53" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
@@ -923,56 +953,64 @@
       <jump line="595" column="58" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
       <jump line="631" column="13" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
       <jump line="571" column="8" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="110" column="21" filename="$USER_HOME$/projects/skelet3d/skelet3d/libfixer.py" />
+      <jump line="1362" column="40" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="1580" column="19" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="1624" column="16" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="1626" column="20" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="1586" column="19" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="40" column="2" filename="$USER_HOME$/projects/lisa/tests/ha_gui_test.py" />
+      <jump line="130" column="41" filename="$USER_HOME$/projects/lisa/tests/histology_test.py" />
+      <jump line="15" column="18" filename="$USER_HOME$/projects/lisa/tests/histology_test.py" />
+      <jump line="234" column="56" filename="$USER_HOME$/projects/lisa/mysetup.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>l</text>
+        <text>lisa</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>lisa</text>
       </register>
       <register name="/" type="4">
-        <text>logger</text>
+        <text encoding="base64">XDxnZXRfc2FtcGxlX2RhdGFcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">TUVTU0FHRSgic2tlbGV0M2QgbGliIGluc3RhbGwgZGlyIiAke1NLRUxFVDNEX0xJQl9JTlNUQUxMX0RFU1RJTkFUSU9OfSkK</text>
+      <register name="0" type="4">
+        <text>lisa.dataset.sample_data_path()</text>
       </register>
       <register name="1" type="4">
-        <text>l</text>
+        <text>lisa</text>
       </register>
       <register name="2" type="4">
-        <text>/</text>
+        <text>lisa</text>
       </register>
-      <register name="3" type="4">
-        <text>7</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGltcG9ydCBpbzNkLm1pc2MK</text>
       </register>
-      <register name="4" type="4">
-        <text>.</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHByaW50ICJ1cnJhIgo=</text>
       </register>
       <register name="5" type="4">
-        <text>2</text>
+        <text>/</text>
       </register>
       <register name="6" type="4">
-        <text>n</text>
+        <text>.</text>
       </register>
       <register name="7" type="4">
-        <text>o</text>
+        <text>.</text>
       </register>
       <register name="8" type="4">
-        <text>h</text>
+        <text>path_to_script</text>
       </register>
       <register name="9" type="4">
-        <text>t</text>
+        <text>path_to_script</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>logger</last-search>
+      <last-search encoding="base64">XDxnZXRfc2FtcGxlX2RhdGFcPg==</last-search>
       <last-offset />
-      <last-pattern>logger</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRfc2FtcGxlX2RhdGFcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -996,11 +1034,10 @@
         <entry encoding="base64">XDxfX2NyZWF0ZV90bGlua3NcPg==</entry>
         <entry encoding="base64">XDx0aWxlX3pvb21fY29uc3RhbnRcPg==</entry>
         <entry encoding="base64">XDxfX21zX25wZW5hbHR5X2Zjblw+</entry>
-        <entry>check</entry>
-        <entry>logger</entry>
+        <entry>make_icon</entry>
+        <entry encoding="base64">XDxnZXRfc2FtcGxlX2RhdGFcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>592</entry>
         <entry>270</entry>
         <entry>638</entry>
         <entry>178</entry>
@@ -1019,6 +1056,7 @@
         <entry>26</entry>
         <entry>81</entry>
         <entry>W</entry>
+        <entry>179</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
