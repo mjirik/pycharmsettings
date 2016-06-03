@@ -446,11 +446,11 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/.travis.yml" timestamp="1464958790493">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="^" line="39" column="4" />
-        <mark key="." line="40" column="0" />
+      <file name="$USER_HOME$/projects/lisa/.travis.yml" timestamp="1464959089598">
+        <mark key="[" line="52" column="13" />
+        <mark key="]" line="52" column="34" />
+        <mark key="^" line="52" column="34" />
+        <mark key="." line="52" column="34" />
       </file>
       <file name="$USER_HOME$/projects/quanta/quantan/__main__.py" timestamp="1446553214305">
         <mark key="[" line="0" column="13" />
@@ -936,11 +936,11 @@
       <jump line="1586" column="19" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>y</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>y</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRfc2FtcGxlX2RhdGFcPg==</text>
@@ -948,32 +948,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIC0gY2QgLi4gCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="1" type="4">
+        <text>y</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="2" type="4">
+        <text>p</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIC0K</text>
+      <register name="3" type="4">
+        <text>.</text>
       </register>
       <register name="4" type="4">
+        <text>mysetup</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIC0K</text>
+      </register>
+      <register name="8" type="4">
         <text>:</text>
       </register>
-      <register name="5" type="4">
-        <text>]</text>
-      </register>
-      <register name="6" type="4">
-        <text>[</text>
-      </register>
-      <register name="7" type="4">
-        <text>*</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIC0gcHl0aG9uIHNldHVwLnB5IGluc3RhbGwKICAgIC0gY2QgLi4KICAgIC0gY2QgLi4K</text>
-      </register>
       <register name="9" type="4">
-        <text>make</text>
+        <text>]</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
