@@ -48,6 +48,9 @@
         <mark key="." line="37" column="0" />
         <mark key="^" line="21" column="101" />
       </file>
+      <file name="/a.dummy" timestamp="1465163187068">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/lisa/INSTALL.md" timestamp="1448570601058">
         <mark key="[" line="53" column="67" />
         <mark key="]" line="53" column="80" />
@@ -175,20 +178,20 @@
         <mark key="^" line="57" column="47" />
         <mark key="." line="57" column="47" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1465125522009">
+      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1465162673529">
         <mark key="b" line="196" column="8" />
-        <mark key="'" line="1315" column="0" />
+        <mark key="'" line="326" column="11" />
         <mark key="[" line="748" column="62" />
         <mark key="]" line="748" column="62" />
         <mark key="." line="748" column="62" />
         <mark key="^" line="748" column="62" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/lisa_data.py" timestamp="1464222065608">
+      <file name="$USER_HOME$/projects/lisa/lisa/lisa_data.py" timestamp="1465162893756">
         <mark key="a" line="21" column="0" />
         <mark key="'" line="169" column="0" />
-        <mark key="[" line="116" column="49" />
-        <mark key="]" line="116" column="54" />
-        <mark key="." line="116" column="54" />
+        <mark key="[" line="46" column="100" />
+        <mark key="]" line="46" column="100" />
+        <mark key="." line="46" column="100" />
         <mark key="^" line="116" column="54" />
       </file>
       <file name="$USER_HOME$/projects/pyseg_base/setup.py" timestamp="1446642726739">
@@ -967,12 +970,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1314" column="19" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
-      <jump line="201" column="13" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
-      <jump line="738" column="23" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
-      <jump line="1307" column="8" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
-      <jump line="729" column="13" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
-      <jump line="1284" column="13" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="1311" column="19" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="457" column="13" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="609" column="0" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
@@ -1067,62 +1064,66 @@
       <jump line="0" column="17" filename="$USER_HOME$/projects/imtools/tests/histology_test.py" />
       <jump line="38" column="35" filename="$USER_HOME$/projects/quantan/tests/histology_test.py" />
       <jump line="1315" column="0" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="747" column="25" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="748" column="23" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="1274" column="12" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="1374" column="12" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="196" column="16" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="326" column="11" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICMgYml0YXJyYXkgYW5kIHJlZGlzIGlzIHJlcXVpcmVkIGluIGV4cGVyaW1lbnRzX3Rlc3QgY2VydmVueQogICAgLSBiaXRhcnJheQo=</text>
+      <register name="&quot;" type="4">
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>.replace(&quot;/&quot;,os.sep)</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>sync</text>
+        <text>_output_data</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLndhcm5pbmcoIm9sZCB2dGsgaXMgdXNlZCIpCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICMgYml0YXJyYXkgYW5kIHJlZGlzIGlzIHJlcXVpcmVkIGluIGV4cGVyaW1lbnRzX3Rlc3QgY2VydmVueQogICAgLSBiaXRhcnJheQo=</text>
+      <register name="1" type="4">
+        <text>&quot;</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICMgcmVkdXMgZnJvbSBjaGFubmVsIC1jIGF1dG8gd29ya3MKICAgIC0gcmVkaXMK</text>
+      <register name="2" type="4">
+        <text>&quot;</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">cmVtIDp3aW5kb3dzIHNwZWNpZmljCmNvbmRhIGluc3RhbGwgLWMgam1hcmdldGEgc2Npa2l0LWZtbQo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzdHIK</text>
+      <register name="4" type="4">
+        <text>,</text>
       </register>
       <register name="5" type="4">
-        <text>.replace(&quot;/&quot;,os.sep)</text>
+        <text>from_server</text>
       </register>
-      <register name="6" type="4">
-        <text>.</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICMgYml0YXJyYXkgYW5kIHJlZGlzIGlzIHJlcXVpcmVkIGluIGV4cGVyaW1lbnRzX3Rlc3QgY2VydmVueQogICAgLSBiaXRhcnJheQo=</text>
       </register>
-      <register name="7" type="4">
-        <text>h</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICMgcmVkdXMgZnJvbSBjaGFubmVsIC1jIGF1dG8gd29ya3MKICAgIC0gcmVkaXMK</text>
       </register>
-      <register name="8" type="4">
-        <text>s</text>
+      <register name="8" type="2">
+        <text encoding="base64">cmVtIDp3aW5kb3dzIHNwZWNpZmljCmNvbmRhIGluc3RhbGwgLWMgam1hcmdldGEgc2Npa2l0LWZtbQo=</text>
       </register>
-      <register name="9" type="4">
-        <text>s</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBzdHIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>sync</last-search>
+      <last-search>_output_data</last-search>
       <last-offset />
-      <last-pattern>sync</last-pattern>
+      <last-pattern>_output_data</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxidG5Sb3RhdGVaXD4=</entry>
-        <entry encoding="base64">XDxyYW5kb21Sb3RhdGVBY3Rpb25cPg==</entry>
         <entry encoding="base64">XDxidG5SYW5kb21Sb3RhdGVcPg==</entry>
         <entry>random</entry>
         <entry>logo</entry>
@@ -1141,6 +1142,8 @@
         <entry encoding="base64">XDxpbzNkXD4=</entry>
         <entry>synv</entry>
         <entry>sync</entry>
+        <entry>_output</entry>
+        <entry>_output_data</entry>
       </history-search>
       <history-cmd>
         <entry>592</entry>
