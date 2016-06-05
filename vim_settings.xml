@@ -58,12 +58,11 @@
         <mark key="^" line="31" column="21" />
         <mark key="." line="31" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1464958134835">
-        <mark key="'" line="1586" column="19" />
-        <mark key="[" line="1340" column="70" />
-        <mark key="]" line="1340" column="70" />
-        <mark key="^" line="1340" column="70" />
-        <mark key="." line="1340" column="70" />
+      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1465115700470">
+        <mark key="'" line="1662" column="21" />
+        <mark key="[" line="969" column="0" />
+        <mark key="]" line="969" column="0" />
+        <mark key="." line="969" column="0" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/gen_vtk_tree.py" timestamp="1463677085556">
         <mark key="'" line="133" column="0" />
@@ -84,11 +83,12 @@
         <mark key="^" line="40" column="23" />
         <mark key="." line="38" column="69" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/tests/liver_segmentation_cerveny_test.py" timestamp="1464961617928">
-        <mark key="[" line="70" column="63" />
-        <mark key="]" line="70" column="63" />
-        <mark key="^" line="44" column="62" />
-        <mark key="." line="70" column="63" />
+      <file name="$USER_HOME$/projects/lisa/tests/liver_segmentation_cerveny_test.py" timestamp="1465114359986">
+        <mark key="'" line="125" column="3" />
+        <mark key="[" line="152" column="0" />
+        <mark key="]" line="152" column="11" />
+        <mark key="." line="152" column="11" />
+        <mark key="^" line="152" column="11" />
       </file>
       <file name="$USER_HOME$/projects/lisa/tests/ha_gui_test.py" timestamp="1464961138118">
         <mark key="'" line="40" column="2" />
@@ -747,6 +747,14 @@
         <mark key="^" line="28" column="21" />
         <mark key="." line="28" column="21" />
       </file>
+      <file name="$USER_HOME$/projects/lisa/tests/organ_segmentation_test.py" timestamp="1465115472808">
+        <mark key="a" line="422" column="26" />
+        <mark key="'" line="57" column="32" />
+        <mark key="[" line="419" column="34" />
+        <mark key="]" line="419" column="33" />
+        <mark key="." line="419" column="33" />
+        <mark key="^" line="419" column="33" />
+      </file>
       <file name="$USER_HOME$/projects/lisa/tests/liver_segmentation_test.py" timestamp="1463740426210">
         <mark key="[" line="26" column="16" />
       </file>
@@ -891,16 +899,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1036" column="18" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
-      <jump line="1079" column="18" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
-      <jump line="286" column="38" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
-      <jump line="869" column="8" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
-      <jump line="158" column="16" filename="$USER_HOME$/projects/imtools/imtools/gen_vtk_tree.py" />
-      <jump line="54" column="48" filename="$USER_HOME$/projects/imtools/tests/vessels_segmentation_test.py" />
-      <jump line="116" column="48" filename="$USER_HOME$/projects/imtools/tests/vessels_segmentation_test.py" />
-      <jump line="26" column="8" filename="$USER_HOME$/projects/imtools/tests/vessels_segmentation_test.py" />
-      <jump line="361" column="42" filename="$USER_HOME$/projects/imtools/imtools/uiThreshold.py" />
-      <jump line="164" column="0" filename="$USER_HOME$/projects/imtools/imtools/gen_vtk_tree.py" />
       <jump line="10" column="9" filename="$USER_HOME$/projects/imtools/imtools/gen_vtk_tree.py" />
       <jump line="1230" column="9" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="11" column="0" filename="$USER_HOME$/projects/lisa/lisa/gen_vtk_tree.py" />
@@ -991,62 +989,70 @@
       <jump line="16" column="28" filename="$USER_HOME$/projects/imtools/tests/histology_test.py" />
       <jump line="146" column="0" filename="$USER_HOME$/projects/imtools/tests/histology_test.py" />
       <jump line="15" column="15" filename="$USER_HOME$/projects/imtools/tests/histology_test.py" />
+      <jump line="167" column="0" filename="$USER_HOME$/projects/lisa/tests/liver_segmentation_cerveny_test.py" />
+      <jump line="125" column="3" filename="$USER_HOME$/projects/lisa/tests/liver_segmentation_cerveny_test.py" />
+      <jump line="50" column="32" filename="$USER_HOME$/projects/lisa/tests/organ_segmentation_test.py" />
+      <jump line="422" column="32" filename="$USER_HOME$/projects/lisa/tests/organ_segmentation_test.py" />
+      <jump line="57" column="32" filename="$USER_HOME$/projects/lisa/tests/organ_segmentation_test.py" />
+      <jump line="117" column="14" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="1613" column="9" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="1656" column="15" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="1657" column="16" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="1663" column="21" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgbGlzYS5zdXJmYWNlX21lYXN1cmVtZW50IGFzIHNtCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>lisa</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzdXJmYWNlX21lYXN1cmVtZW50XD4=</text>
+        <text>app</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlcmltZW50X2RpciA9IGpvaW5fc2RwKCJ0ZXN0c190bXAvZXhwMSIpCg==</text>
+        <text encoding="base64">ICAgICAgICBhcHAgPSBRQXBwbGljYXRpb24oc3lzLmFyZ3YpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgbGlzYS5zdXJmYWNlX21lYXN1cmVtZW50IGFzIHNtCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLgo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaW10b29scy5zdXJmYWNlX21lYXN1cmVtZW50IGFzIHNtCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgbGlzYS5zdXJmYWNlX21lYXN1cmVtZW50IGFzIHNtCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgbGlzYS5zdXJmYWNlX21lYXN1cmVtZW50IGFzIHNtCg==</text>
+      <register name="4" type="4">
+        <text>,</text>
       </register>
       <register name="5" type="4">
-        <text>lisa</text>
+        <text>]</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgbGlzYS5zdXJmYWNlX21lYXN1cmVtZW50IGFzIHNtCg==</text>
+      <register name="6" type="4">
+        <text>0</text>
       </register>
       <register name="7" type="4">
-        <text>/</text>
+        <text>8</text>
       </register>
       <register name="8" type="4">
-        <text>sample_data</text>
+        <text>[</text>
       </register>
       <register name="9" type="4">
-        <text>/</text>
+        <text>[80],</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzdXJmYWNlX21lYXN1cmVtZW50XD4=</last-search>
+      <last-search>app</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzdXJmYWNlX21lYXN1cmVtZW50XD4=</last-pattern>
+      <last-pattern>app</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>addIt</entry>
-        <entry>file</entry>
         <entry>menu</entry>
         <entry encoding="base64">XDxidG5Sb3RhdGVaXD4=</entry>
         <entry encoding="base64">XDxyYW5kb21Sb3RhdGVBY3Rpb25cPg==</entry>
@@ -1065,9 +1071,10 @@
         <entry encoding="base64">XDxSdW5BbmRNYWtlUmVwb3J0XD4=</entry>
         <entry encoding="base64">XDxIaXN0b2xvZ3lBbmFseXNlclw+</entry>
         <entry encoding="base64">XDxzdXJmYWNlX21lYXN1cmVtZW50XD4=</entry>
+        <entry>QApp</entry>
+        <entry>app</entry>
       </history-search>
       <history-cmd>
-        <entry>592</entry>
         <entry>270</entry>
         <entry>638</entry>
         <entry>178</entry>
@@ -1086,6 +1093,7 @@
         <entry>26</entry>
         <entry>81</entry>
         <entry>W</entry>
+        <entry>433</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
