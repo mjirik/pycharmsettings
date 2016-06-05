@@ -473,11 +473,11 @@
         <mark key="^" line="31" column="37" />
         <mark key="." line="31" column="37" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/meta.yaml" timestamp="1465142105440">
-        <mark key="[" line="85" column="4" />
-        <mark key="]" line="85" column="5" />
-        <mark key="." line="85" column="5" />
-        <mark key="^" line="85" column="5" />
+      <file name="$USER_HOME$/projects/lisa/meta.yaml" timestamp="1465143030238">
+        <mark key="[" line="83" column="4" />
+        <mark key="]" line="83" column="5" />
+        <mark key="." line="83" column="5" />
+        <mark key="^" line="83" column="5" />
       </file>
       <file name="$USER_HOME$/projects/lisa/tests/convert_test.py" timestamp="1448963836835">
         <mark key="[" line="22" column="32" />
@@ -846,13 +846,13 @@
         <mark key="^" line="85" column="48" />
         <mark key="." line="85" column="48" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/update_stable.py" timestamp="1464213812405">
-        <mark key="a" line="86" column="0" />
+      <file name="$USER_HOME$/projects/lisa/lisa/update_stable.py" timestamp="1465142966743">
+        <mark key="a" line="88" column="0" />
         <mark key="'" line="10" column="8" />
-        <mark key="[" line="87" column="35" />
-        <mark key="]" line="86" column="87" />
-        <mark key="^" line="86" column="87" />
-        <mark key="." line="86" column="87" />
+        <mark key="[" line="69" column="65" />
+        <mark key="]" line="70" column="42" />
+        <mark key="^" line="70" column="42" />
+        <mark key="." line="70" column="42" />
       </file>
       <file name="$USER_HOME$/projects/pyseg_base/tests/pycut_test.py" timestamp="1444664727080">
         <mark key="[" line="46" column="14" />
@@ -1070,7 +1070,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">cmVtIDp3aW5kb3dzIHNwZWNpZmljCmNvbmRhIGluc3RhbGwgLWMgam1hcmdldGEgc2Npa2l0LWZtbQo=</text>
+        <text encoding="base64">ICAgICMgYml0YXJyYXkgYW5kIHJlZGlzIGlzIHJlcXVpcmVkIGluIGV4cGVyaW1lbnRzX3Rlc3QgY2VydmVueQogICAgLSBiaXRhcnJheQo=</text>
       </register>
       <register name="-" type="4">
         <text>.replace(&quot;/&quot;,os.sep)</text>
@@ -1082,31 +1082,31 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLndhcm5pbmcoIm9sZCB2dGsgaXMgdXNlZCIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cmVtIDp3aW5kb3dzIHNwZWNpZmljCmNvbmRhIGluc3RhbGwgLWMgam1hcmdldGEgc2Npa2l0LWZtbQo=</text>
+        <text encoding="base64">ICAgICMgYml0YXJyYXkgYW5kIHJlZGlzIGlzIHJlcXVpcmVkIGluIGV4cGVyaW1lbnRzX3Rlc3QgY2VydmVueQogICAgLSBiaXRhcnJheQo=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICMgcmVkdXMgZnJvbSBjaGFubmVsIC1jIGF1dG8gd29ya3MKICAgIC0gcmVkaXMK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">cmVtIDp3aW5kb3dzIHNwZWNpZmljCmNvbmRhIGluc3RhbGwgLWMgam1hcmdldGEgc2Npa2l0LWZtbQo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBzdHIK</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>.replace(&quot;/&quot;,os.sep)</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>.</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>h</text>
       </register>
-      <register name="6" type="4">
-        <text>s</text>
-      </register>
-      <register name="7" type="4">
-        <text>s</text>
-      </register>
       <register name="8" type="4">
-        <text>_</text>
+        <text>s</text>
       </register>
       <register name="9" type="4">
-        <text>'paramiko.log'</text>
+        <text>s</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
