@@ -175,13 +175,13 @@
         <mark key="^" line="57" column="47" />
         <mark key="." line="57" column="47" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1465124452883">
+      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1465125522009">
         <mark key="b" line="196" column="8" />
         <mark key="'" line="1315" column="0" />
-        <mark key="[" line="744" column="67" />
-        <mark key="]" line="744" column="67" />
-        <mark key="." line="744" column="67" />
-        <mark key="^" line="744" column="70" />
+        <mark key="[" line="748" column="62" />
+        <mark key="]" line="748" column="62" />
+        <mark key="." line="748" column="62" />
+        <mark key="^" line="748" column="62" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/lisa_data.py" timestamp="1464222065608">
         <mark key="a" line="21" column="0" />
@@ -1069,11 +1069,11 @@
       <jump line="1315" column="0" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>h</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzdHIK</text>
       </register>
       <register name="-" type="4">
-        <text>h</text>
+        <text>.replace(&quot;/&quot;,os.sep)</text>
       </register>
       <register name="/" type="4">
         <text>sync</text>
@@ -1081,32 +1081,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLndhcm5pbmcoIm9sZCB2dGsgaXMgdXNlZCIpCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>h</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBzdHIK</text>
       </register>
       <register name="2" type="4">
-        <text>s</text>
+        <text>.replace(&quot;/&quot;,os.sep)</text>
       </register>
       <register name="3" type="4">
-        <text>s</text>
+        <text>.</text>
       </register>
       <register name="4" type="4">
-        <text>_</text>
+        <text>h</text>
       </register>
       <register name="5" type="4">
-        <text>'paramiko.log'</text>
+        <text>s</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X2dlbmVyYXRlX3NhbXBsZV9kYXRhKHNlbGYpOgogICAgICAgICIiIgogICAgICAgIFRlc3QgaGFzIG5vIHN0cm9uZyBwYXJ0CiAgICAgICAgIiIiCgogICAgICAgIGltcG9ydCBpbXRvb2xzLmhpc3RvbG9neV9hbmFseXNlcgogICAgICAgIHF1YW50YW4uaGlzdG9sb2d5X2FuYWx5c2VyLmdlbmVyYXRlX3NhbXBsZV9kYXRhKCkK</text>
+      <register name="6" type="4">
+        <text>s</text>
       </register>
       <register name="7" type="4">
-        <text>quantan</text>
+        <text>_</text>
       </register>
       <register name="8" type="4">
-        <text>lisa</text>
+        <text>'paramiko.log'</text>
       </register>
-      <register name="9" type="4">
-        <text>lisa</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X2dlbmVyYXRlX3NhbXBsZV9kYXRhKHNlbGYpOgogICAgICAgICIiIgogICAgICAgIFRlc3QgaGFzIG5vIHN0cm9uZyBwYXJ0CiAgICAgICAgIiIiCgogICAgICAgIGltcG9ydCBpbXRvb2xzLmhpc3RvbG9neV9hbmFseXNlcgogICAgICAgIHF1YW50YW4uaGlzdG9sb2d5X2FuYWx5c2VyLmdlbmVyYXRlX3NhbXBsZV9kYXRhKCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
