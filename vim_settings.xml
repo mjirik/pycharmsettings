@@ -242,7 +242,7 @@
         <mark key="^" line="43" column="7" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1465105698001">
+      <file name="/Python Console" timestamp="1465106162941">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/lisa/tests/dcmreaddata_test.py" timestamp="1464974819997">
@@ -279,13 +279,13 @@
         <mark key="^" line="68" column="28" />
         <mark key="." line="68" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/tests/experiments_test.py" timestamp="1465105683467">
-        <mark key="a" line="196" column="31" />
-        <mark key="'" line="34" column="20" />
-        <mark key="[" line="419" column="38" />
-        <mark key="]" line="419" column="45" />
-        <mark key="." line="419" column="45" />
-        <mark key="^" line="419" column="45" />
+      <file name="$USER_HOME$/projects/lisa/tests/experiments_test.py" timestamp="1465107769788">
+        <mark key="a" line="194" column="31" />
+        <mark key="'" line="45" column="43" />
+        <mark key="[" line="104" column="67" />
+        <mark key="]" line="105" column="33" />
+        <mark key="." line="105" column="33" />
+        <mark key="^" line="105" column="33" />
       </file>
       <file name="$USER_HOME$/projects/quanta/setup.py" timestamp="1446640023460">
         <mark key="[" line="58" column="105" />
@@ -613,11 +613,11 @@
         <mark key="^" line="31" column="37" />
         <mark key="." line="31" column="37" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/meta.yaml" timestamp="1465105655394">
-        <mark key="[" line="74" column="26" />
-        <mark key="]" line="74" column="25" />
-        <mark key="^" line="74" column="25" />
-        <mark key="." line="74" column="25" />
+      <file name="$USER_HOME$/projects/lisa/meta.yaml" timestamp="1465107552566">
+        <mark key="[" line="75" column="14" />
+        <mark key="]" line="76" column="10" />
+        <mark key="^" line="76" column="10" />
+        <mark key="." line="76" column="10" />
       </file>
       <file name="$USER_HOME$/projects/io3d/io3d/idxformat.py" timestamp="1447143786214">
         <mark key="'" line="29" column="47" />
@@ -718,6 +718,12 @@
         <mark key="]" line="58" column="26" />
         <mark key="^" line="58" column="26" />
         <mark key="." line="58" column="26" />
+      </file>
+      <file name="$USER_HOME$/projects/lisa/lisa/liver_segmentation_cerveny.py" timestamp="1465107148733">
+        <mark key="[" line="28" column="21" />
+        <mark key="]" line="28" column="21" />
+        <mark key="^" line="28" column="21" />
+        <mark key="." line="28" column="21" />
       </file>
       <file name="$USER_HOME$/projects/lisa/tests/liver_segmentation_test.py" timestamp="1463740426210">
         <mark key="[" line="26" column="16" />
@@ -863,7 +869,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="10" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
       <jump line="220" column="15" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
       <jump line="466" column="26" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
       <jump line="470" column="36" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
@@ -963,61 +968,61 @@
       <jump line="203" column="31" filename="$USER_HOME$/projects/lisa/tests/experiments_test.py" />
       <jump line="24" column="19" filename="$USER_HOME$/projects/lisa/tests/experiments_test.py" />
       <jump line="34" column="20" filename="$USER_HOME$/projects/lisa/tests/experiments_test.py" />
+      <jump line="45" column="43" filename="$USER_HOME$/projects/lisa/tests/experiments_test.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>testu</text>
+        <text>exp</text>
       </register>
       <register name="-" type="4">
-        <text>testu</text>
+        <text>exp</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRfc2FtcGxlX2RhdGFcPg==</text>
+        <text>tests_tmp</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICgiICsgc2xpdmVyX2RpciArICIp</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBleHBlcmltZW50X2RpciA9IGpvaW5fc2RwKCJ0ZXN0c190bXAvZXhwMSIpCg==</text>
       </register>
       <register name="1" type="4">
-        <text>testu</text>
+        <text>exp</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">diA=</text>
+        <text>exp</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">amVuIA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBvcy5wYXRoLmpvaW4ocGF0aF90b19zY3JpcHQsICIuLiIpCg==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">bW96bmEg</text>
+        <text>pklz_dirs</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">cG90cmViYSA=</text>
+        <text>k</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">amUg</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBvcy5tYWtlZGlycygpCg==</text>
       </register>
       <register name="7" type="4">
-        <text>r</text>
+        <text>_</text>
       </register>
       <register name="8" type="4">
-        <text>e</text>
+        <text>s</text>
       </register>
       <register name="9" type="4">
-        <text>v</text>
+        <text>t</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRfc2FtcGxlX2RhdGFcPg==</last-search>
+      <last-search>tests_tmp</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRfc2FtcGxlX2RhdGFcPg==</last-pattern>
+      <last-pattern>tests_tmp</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsb2dnZXJfaW5pdFw+</entry>
         <entry>cbLog</entry>
         <entry encoding="base64">XDxidG5Mb2dcPg==</entry>
         <entry encoding="base64">XDxzbHVycFw+</entry>
@@ -1037,6 +1042,7 @@
         <entry encoding="base64">XDxfX21zX25wZW5hbHR5X2Zjblw+</entry>
         <entry>check</entry>
         <entry>logger</entry>
+        <entry>tests_tmp</entry>
       </history-search>
       <history-cmd>
         <entry>592</entry>
