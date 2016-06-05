@@ -473,6 +473,13 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/imtools/tests/histology_test.py" timestamp="1465113056587">
+        <mark key="'" line="15" column="15" />
+        <mark key="[" line="157" column="0" />
+        <mark key="]" line="157" column="0" />
+        <mark key="^" line="15" column="13" />
+        <mark key="." line="157" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/lisa/.travis.yml" timestamp="1464959089598">
         <mark key="[" line="52" column="13" />
         <mark key="]" line="52" column="34" />
@@ -821,9 +828,6 @@
         <mark key="." line="195" column="23" />
         <mark key="^" line="195" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1465112439524">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/io3d/io3d/misc.py" timestamp="1453295785375">
         <mark key="'" line="19" column="27" />
         <mark key="[" line="81" column="15" />
@@ -887,10 +891,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="478" column="26" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
-      <jump line="483" column="36" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
-      <jump line="486" column="38" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
-      <jump line="1100" column="18" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
       <jump line="1036" column="18" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
       <jump line="1079" column="18" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
       <jump line="286" column="38" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
@@ -987,43 +987,47 @@
       <jump line="179" column="32" filename="$USER_HOME$/projects/lisa/lisa/liver_segmentation_cerveny.py" />
       <jump line="1006" column="18" filename="$USER_HOME$/projects/lisa/lisa/liver_segmentation_cerveny.py" />
       <jump line="213" column="9" filename="$USER_HOME$/projects/lisa/lisa/experiments.py" />
+      <jump line="58" column="13" filename="$USER_HOME$/projects/imtools/tests/histology_test.py" />
+      <jump line="16" column="28" filename="$USER_HOME$/projects/imtools/tests/histology_test.py" />
+      <jump line="146" column="0" filename="$USER_HOME$/projects/imtools/tests/histology_test.py" />
+      <jump line="15" column="15" filename="$USER_HOME$/projects/imtools/tests/histology_test.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgbGlzYS5zdXJmYWNlX21lYXN1cmVtZW50IGFzIHNtCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>lisa</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxSdW5BbmRNYWtlUmVwb3J0XD4=</text>
+        <text encoding="base64">XDxzdXJmYWNlX21lYXN1cmVtZW50XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBleHBlcmltZW50X2RpciA9IGpvaW5fc2RwKCJ0ZXN0c190bXAvZXhwMSIpCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgbGlzYS5zdXJmYWNlX21lYXN1cmVtZW50IGFzIHNtCg==</text>
       </register>
-      <register name="2" type="4">
-        <text>lisa.dataset.sample_data_path() +</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaW10b29scy5zdXJmYWNlX21lYXN1cmVtZW50IGFzIHNtCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGxpc2EKaW1wb3J0IGxpc2EuZGF0YXNldAo=</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgbGlzYS5zdXJmYWNlX21lYXN1cmVtZW50IGFzIHNtCg==</text>
       </register>
-      <register name="4" type="4">
-        <text>lisa</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgbGlzYS5zdXJmYWNlX21lYXN1cmVtZW50IGFzIHNtCg==</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">bWFya2Vycywg</text>
+        <text>lisa</text>
       </register>
-      <register name="6" type="4">
-        <text>test_experiment_set</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgbGlzYS5zdXJmYWNlX21lYXN1cmVtZW50IGFzIHNtCg==</text>
       </register>
       <register name="7" type="4">
-        <text>test_experiment_set</text>
+        <text>/</text>
       </register>
       <register name="8" type="4">
-        <text>test_experiment_set</text>
+        <text>sample_data</text>
       </register>
       <register name="9" type="4">
         <text>/</text>
@@ -1033,16 +1037,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxSdW5BbmRNYWtlUmVwb3J0XD4=</last-search>
+      <last-search encoding="base64">XDxzdXJmYWNlX21lYXN1cmVtZW50XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxSdW5BbmRNYWtlUmVwb3J0XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxzdXJmYWNlX21lYXN1cmVtZW50XD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxMb2dFbnRyeU1vZGVsXD4=</entry>
-        <entry>appendR</entry>
         <entry>addIt</entry>
         <entry>file</entry>
         <entry>menu</entry>
@@ -1061,6 +1063,8 @@
         <entry>def vz</entry>
         <entry>vzdalenosti</entry>
         <entry encoding="base64">XDxSdW5BbmRNYWtlUmVwb3J0XD4=</entry>
+        <entry encoding="base64">XDxIaXN0b2xvZ3lBbmFseXNlclw+</entry>
+        <entry encoding="base64">XDxzdXJmYWNlX21lYXN1cmVtZW50XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>592</entry>
