@@ -849,13 +849,13 @@
         <mark key="^" line="85" column="48" />
         <mark key="." line="85" column="48" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/update_stable.py" timestamp="1465142966743">
-        <mark key="a" line="88" column="0" />
+      <file name="$USER_HOME$/projects/lisa/lisa/update_stable.py" timestamp="1465163879261">
+        <mark key="a" line="90" column="0" />
         <mark key="'" line="10" column="8" />
-        <mark key="[" line="69" column="65" />
-        <mark key="]" line="70" column="42" />
-        <mark key="^" line="70" column="42" />
-        <mark key="." line="70" column="42" />
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="40" />
+        <mark key="^" line="86" column="30" />
+        <mark key="." line="86" column="30" />
       </file>
       <file name="$USER_HOME$/projects/pyseg_base/tests/pycut_test.py" timestamp="1444664727080">
         <mark key="[" line="46" column="14" />
@@ -1072,44 +1072,44 @@
       <jump line="326" column="11" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZygiVXBkYXRpbmcgcGlwIG1vZHVsZXMiKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">Y29uZGEg</text>
       </register>
       <register name="/" type="4">
         <text>_output_data</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLndhcm5pbmcoIm9sZCB2dGsgaXMgdXNlZCIpCg==</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZygiVXBkYXRpbmcgcGlwIG1vZHVsZXMiKQo=</text>
       </register>
       <register name="1" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">Y29uZGEg</text>
       </register>
       <register name="2" type="4">
         <text>&quot;</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+        <text>&quot;</text>
       </register>
       <register name="4" type="4">
-        <text>,</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="5" type="4">
+        <text>,</text>
+      </register>
+      <register name="6" type="4">
         <text>from_server</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICMgYml0YXJyYXkgYW5kIHJlZGlzIGlzIHJlcXVpcmVkIGluIGV4cGVyaW1lbnRzX3Rlc3QgY2VydmVueQogICAgLSBiaXRhcnJheQo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICMgcmVkdXMgZnJvbSBjaGFubmVsIC1jIGF1dG8gd29ya3MKICAgIC0gcmVkaXMK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">cmVtIDp3aW5kb3dzIHNwZWNpZmljCmNvbmRhIGluc3RhbGwgLWMgam1hcmdldGEgc2Npa2l0LWZtbQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzdHIK</text>
+        <text encoding="base64">cmVtIDp3aW5kb3dzIHNwZWNpZmljCmNvbmRhIGluc3RhbGwgLWMgam1hcmdldGEgc2Npa2l0LWZtbQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
