@@ -242,6 +242,9 @@
         <mark key="^" line="43" column="7" />
         <mark key="." line="43" column="0" />
       </file>
+      <file name="/Python Console" timestamp="1465105698001">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/lisa/tests/dcmreaddata_test.py" timestamp="1464974819997">
         <mark key="a" line="62" column="36" />
         <mark key="'" line="26" column="1" />
@@ -276,13 +279,13 @@
         <mark key="^" line="68" column="28" />
         <mark key="." line="68" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/tests/experiments_test.py" timestamp="1464975106824">
-        <mark key="a" line="202" column="31" />
-        <mark key="'" line="24" column="19" />
-        <mark key="[" line="269" column="51" />
-        <mark key="]" line="269" column="51" />
-        <mark key="^" line="269" column="51" />
-        <mark key="." line="269" column="51" />
+      <file name="$USER_HOME$/projects/lisa/tests/experiments_test.py" timestamp="1465105683467">
+        <mark key="a" line="196" column="31" />
+        <mark key="'" line="34" column="20" />
+        <mark key="[" line="419" column="38" />
+        <mark key="]" line="419" column="45" />
+        <mark key="." line="419" column="45" />
+        <mark key="^" line="419" column="45" />
       </file>
       <file name="$USER_HOME$/projects/quanta/setup.py" timestamp="1446640023460">
         <mark key="[" line="58" column="105" />
@@ -554,11 +557,11 @@
         <mark key="^" line="8" column="17" />
         <mark key="." line="8" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/volumetry_evaluation.py" timestamp="1452676323691">
-        <mark key="[" line="294" column="46" />
-        <mark key="]" line="295" column="20" />
-        <mark key="^" line="295" column="20" />
-        <mark key="." line="295" column="20" />
+      <file name="$USER_HOME$/projects/lisa/lisa/volumetry_evaluation.py" timestamp="1465105489429">
+        <mark key="[" line="658" column="59" />
+        <mark key="]" line="658" column="62" />
+        <mark key="^" line="658" column="62" />
+        <mark key="." line="658" column="62" />
       </file>
       <file name="$USER_HOME$/projects/skelet3d/install_linux.md" timestamp="1464957280328">
         <mark key="[" line="30" column="0" />
@@ -609,6 +612,12 @@
         <mark key="]" line="31" column="37" />
         <mark key="^" line="31" column="37" />
         <mark key="." line="31" column="37" />
+      </file>
+      <file name="$USER_HOME$/projects/lisa/meta.yaml" timestamp="1465105655394">
+        <mark key="[" line="74" column="26" />
+        <mark key="]" line="74" column="25" />
+        <mark key="^" line="74" column="25" />
+        <mark key="." line="74" column="25" />
       </file>
       <file name="$USER_HOME$/projects/io3d/io3d/idxformat.py" timestamp="1447143786214">
         <mark key="'" line="29" column="47" />
@@ -663,6 +672,9 @@
         <mark key="^" line="502" column="16" />
         <mark key="." line="502" column="16" />
       </file>
+      <file name="vim_settings.xml" timestamp="1464779445760">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/lisa/tests/convert_test.py" timestamp="1448963836835">
         <mark key="[" line="22" column="32" />
         <mark key="]" line="22" column="68" />
@@ -706,6 +718,9 @@
         <mark key="]" line="58" column="26" />
         <mark key="^" line="58" column="26" />
         <mark key="." line="58" column="26" />
+      </file>
+      <file name="$USER_HOME$/projects/lisa/tests/liver_segmentation_test.py" timestamp="1463740426210">
+        <mark key="[" line="26" column="16" />
       </file>
       <file name="$USER_HOME$/projects/psongbook/setup.py" timestamp="1463464617794">
         <mark key="[" line="46" column="14" />
@@ -848,7 +863,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1095" column="14" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
       <jump line="41" column="10" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
       <jump line="220" column="15" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
       <jump line="466" column="26" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
@@ -948,46 +962,47 @@
       <jump line="26" column="1" filename="$USER_HOME$/projects/lisa/tests/dcmreaddata_test.py" />
       <jump line="203" column="31" filename="$USER_HOME$/projects/lisa/tests/experiments_test.py" />
       <jump line="24" column="19" filename="$USER_HOME$/projects/lisa/tests/experiments_test.py" />
+      <jump line="34" column="20" filename="$USER_HOME$/projects/lisa/tests/experiments_test.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>testu</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>testu</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRfc2FtcGxlX2RhdGFcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGlzYS5kYXRhc2V0LmpvaW5fc2RwKCJleHBfc3ludGgvZXhwMSIpCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICgiICsgc2xpdmVyX2RpciArICIp</text>
       </register>
       <register name="1" type="4">
-        <text>/</text>
+        <text>testu</text>
       </register>
       <register name="2" type="4">
-        <text>sample_data</text>
+        <text encoding="base64">diA=</text>
       </register>
       <register name="3" type="4">
-        <text>./../</text>
+        <text encoding="base64">amVuIA==</text>
       </register>
       <register name="4" type="4">
-        <text>)</text>
+        <text encoding="base64">bW96bmEg</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">cG90cmViYSA=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3MucGF0aC5hYnNwYXRoKHBhdGhfdG9fc2NyaXB0ICsgKSwKICAgICAgICAgICAgb3MucGF0aC5hYnNwYXRoKHBhdGhfdG9fc2NyaXB0ICsgIi4vLi4vc2FtcGxlX2RhdGEvZXhwX3N5bnRoL2V4cDIiKSwK</text>
+      <register name="6" type="4">
+        <text encoding="base64">amUg</text>
       </register>
       <register name="7" type="4">
-        <text>/</text>
+        <text>r</text>
       </register>
       <register name="8" type="4">
-        <text>sample_data</text>
+        <text>e</text>
       </register>
       <register name="9" type="4">
-        <text>./../</text>
+        <text>v</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
