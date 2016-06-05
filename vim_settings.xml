@@ -151,11 +151,11 @@
         <mark key="^" line="460" column="22" />
         <mark key="." line="460" column="22" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/installer.bat" timestamp="1463557702757">
-        <mark key="[" line="9" column="21" />
-        <mark key="]" line="10" column="35" />
-        <mark key="^" line="10" column="35" />
-        <mark key="." line="10" column="35" />
+      <file name="$USER_HOME$/projects/lisa/installer.bat" timestamp="1465140928844">
+        <mark key="[" line="1" column="39" />
+        <mark key="]" line="1" column="47" />
+        <mark key="." line="1" column="47" />
+        <mark key="^" line="1" column="47" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/data_plus.py" timestamp="1461422289621">
         <mark key="[" line="22" column="20" />
@@ -1070,7 +1070,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzdHIK</text>
+        <text encoding="base64">cmVtIDp3aW5kb3dzIHNwZWNpZmljCmNvbmRhIGluc3RhbGwgLWMgam1hcmdldGEgc2Npa2l0LWZtbQo=</text>
       </register>
       <register name="-" type="4">
         <text>.replace(&quot;/&quot;,os.sep)</text>
@@ -1082,31 +1082,31 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLndhcm5pbmcoIm9sZCB2dGsgaXMgdXNlZCIpCg==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">cmVtIDp3aW5kb3dzIHNwZWNpZmljCmNvbmRhIGluc3RhbGwgLWMgam1hcmdldGEgc2Npa2l0LWZtbQo=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBzdHIK</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>.replace(&quot;/&quot;,os.sep)</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>.</text>
       </register>
-      <register name="4" type="4">
-        <text>h</text>
-      </register>
       <register name="5" type="4">
-        <text>s</text>
+        <text>h</text>
       </register>
       <register name="6" type="4">
         <text>s</text>
       </register>
       <register name="7" type="4">
-        <text>_</text>
+        <text>s</text>
       </register>
       <register name="8" type="4">
-        <text>'paramiko.log'</text>
+        <text>_</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X2dlbmVyYXRlX3NhbXBsZV9kYXRhKHNlbGYpOgogICAgICAgICIiIgogICAgICAgIFRlc3QgaGFzIG5vIHN0cm9uZyBwYXJ0CiAgICAgICAgIiIiCgogICAgICAgIGltcG9ydCBpbXRvb2xzLmhpc3RvbG9neV9hbmFseXNlcgogICAgICAgIHF1YW50YW4uaGlzdG9sb2d5X2FuYWx5c2VyLmdlbmVyYXRlX3NhbXBsZV9kYXRhKCkK</text>
+      <register name="9" type="4">
+        <text>'paramiko.log'</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
