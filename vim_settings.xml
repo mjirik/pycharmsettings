@@ -178,13 +178,13 @@
         <mark key="^" line="57" column="47" />
         <mark key="." line="57" column="47" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1465162673529">
+      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1465164419497">
         <mark key="b" line="196" column="8" />
         <mark key="'" line="326" column="11" />
-        <mark key="[" line="748" column="62" />
-        <mark key="]" line="748" column="62" />
-        <mark key="." line="748" column="62" />
-        <mark key="^" line="748" column="62" />
+        <mark key="[" line="758" column="86" />
+        <mark key="]" line="758" column="87" />
+        <mark key="^" line="758" column="87" />
+        <mark key="." line="758" column="87" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/lisa_data.py" timestamp="1465162893756">
         <mark key="a" line="21" column="0" />
@@ -1072,44 +1072,44 @@
       <jump line="326" column="11" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZygiVXBkYXRpbmcgcGlwIG1vZHVsZXMiKQo=</text>
+      <register name="&quot;" type="4">
+        <text>from</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y29uZGEg</text>
+        <text>from</text>
       </register>
       <register name="/" type="4">
         <text>_output_data</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZygiVXBkYXRpbmcgcGlwIG1vZHVsZXMiKQo=</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiRG93bmxvYWQgc3RhcnRlZFxucmVtb3RlIGZyb20ge31cbmxvY2FsIGZyb20ge30iLmZvcm1hdChyZW1vdGVmcm9tLCBsb2NhbGZyb20pKQo=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">Y29uZGEg</text>
+        <text>from</text>
       </register>
       <register name="2" type="4">
-        <text>&quot;</text>
+        <text>rom</text>
       </register>
       <register name="3" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">ZnJvbSA=</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ZnJvbSA=</text>
       </register>
-      <register name="5" type="4">
-        <text>,</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiVXBsb2FkIHN0YXJ0ZWQiKQo=</text>
       </register>
       <register name="6" type="4">
-        <text>from_server</text>
+        <text>n</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICMgYml0YXJyYXkgYW5kIHJlZGlzIGlzIHJlcXVpcmVkIGluIGV4cGVyaW1lbnRzX3Rlc3QgY2VydmVueQogICAgLSBiaXRhcnJheQo=</text>
+      <register name="7" type="4">
+        <text>w</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICMgcmVkdXMgZnJvbSBjaGFubmVsIC1jIGF1dG8gd29ya3MKICAgIC0gcmVkaXMK</text>
+      <register name="8" type="4">
+        <text>o</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">cmVtIDp3aW5kb3dzIHNwZWNpZmljCmNvbmRhIGluc3RhbGwgLWMgam1hcmdldGEgc2Npa2l0LWZtbQo=</text>
+      <register name="9" type="4">
+        <text>D</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
