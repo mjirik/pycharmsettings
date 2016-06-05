@@ -242,7 +242,7 @@
         <mark key="^" line="43" column="7" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1465108640143">
+      <file name="/Python Console" timestamp="1465109490662">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/lisa/tests/dcmreaddata_test.py" timestamp="1464974819997">
@@ -279,13 +279,13 @@
         <mark key="^" line="68" column="28" />
         <mark key="." line="68" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/tests/experiments_test.py" timestamp="1465108909099">
+      <file name="$USER_HOME$/projects/lisa/tests/experiments_test.py" timestamp="1465109627570">
         <mark key="a" line="194" column="31" />
         <mark key="'" line="45" column="43" />
-        <mark key="[" line="108" column="22" />
-        <mark key="]" line="108" column="24" />
-        <mark key="." line="108" column="24" />
-        <mark key="^" line="108" column="24" />
+        <mark key="[" line="129" column="37" />
+        <mark key="]" line="129" column="44" />
+        <mark key="." line="129" column="44" />
+        <mark key="^" line="129" column="44" />
       </file>
       <file name="$USER_HOME$/projects/quanta/setup.py" timestamp="1446640023460">
         <mark key="[" line="58" column="105" />
@@ -377,6 +377,13 @@
         <mark key="." line="154" column="49" />
         <mark key="^" line="154" column="49" />
       </file>
+      <file name="$USER_HOME$/projects/skelet3d/skelet3d/libfixer.py" timestamp="1464617490297">
+        <mark key="'" line="110" column="21" />
+        <mark key="[" line="88" column="42" />
+        <mark key="]" line="88" column="42" />
+        <mark key="." line="88" column="42" />
+        <mark key="^" line="88" column="42" />
+      </file>
       <file name="$USER_HOME$/projects/lisa/requirements_conda.txt" timestamp="1464092446357">
         <mark key="[" line="3" column="2" />
         <mark key="]" line="4" column="29" />
@@ -433,7 +440,8 @@
         <mark key="^" line="35" column="50" />
         <mark key="." line="35" column="50" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/experiments.py" timestamp="1465108632958">
+      <file name="$USER_HOME$/projects/lisa/lisa/experiments.py" timestamp="1465109582678">
+        <mark key="'" line="213" column="9" />
         <mark key="[" line="19" column="16" />
         <mark key="]" line="20" column="12" />
         <mark key="^" line="20" column="12" />
@@ -557,11 +565,11 @@
         <mark key="^" line="8" column="17" />
         <mark key="." line="8" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/volumetry_evaluation.py" timestamp="1465105489429">
-        <mark key="[" line="658" column="59" />
-        <mark key="]" line="658" column="62" />
-        <mark key="^" line="658" column="62" />
-        <mark key="." line="658" column="62" />
+      <file name="$USER_HOME$/projects/lisa/lisa/volumetry_evaluation.py" timestamp="1465109384512">
+        <mark key="[" line="667" column="73" />
+        <mark key="]" line="667" column="84" />
+        <mark key="^" line="667" column="84" />
+        <mark key="." line="667" column="84" />
       </file>
       <file name="$USER_HOME$/projects/skelet3d/install_linux.md" timestamp="1464957280328">
         <mark key="[" line="30" column="0" />
@@ -719,7 +727,8 @@
         <mark key="^" line="58" column="26" />
         <mark key="." line="58" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/liver_segmentation_cerveny.py" timestamp="1465107148733">
+      <file name="$USER_HOME$/projects/lisa/lisa/liver_segmentation_cerveny.py" timestamp="1465109186333">
+        <mark key="'" line="1006" column="18" />
         <mark key="[" line="28" column="21" />
         <mark key="]" line="28" column="21" />
         <mark key="^" line="28" column="21" />
@@ -869,10 +878,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="220" column="15" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
-      <jump line="466" column="26" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
-      <jump line="470" column="36" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
-      <jump line="473" column="38" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
       <jump line="478" column="26" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
       <jump line="483" column="36" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
       <jump line="486" column="38" filename="$USER_HOME$/projects/imtools/imtools/tools.py" />
@@ -969,22 +974,26 @@
       <jump line="24" column="19" filename="$USER_HOME$/projects/lisa/tests/experiments_test.py" />
       <jump line="34" column="20" filename="$USER_HOME$/projects/lisa/tests/experiments_test.py" />
       <jump line="45" column="43" filename="$USER_HOME$/projects/lisa/tests/experiments_test.py" />
+      <jump line="13" column="2" filename="$USER_HOME$/projects/lisa/lisa/liver_segmentation_cerveny.py" />
+      <jump line="179" column="32" filename="$USER_HOME$/projects/lisa/lisa/liver_segmentation_cerveny.py" />
+      <jump line="1006" column="18" filename="$USER_HOME$/projects/lisa/lisa/liver_segmentation_cerveny.py" />
+      <jump line="213" column="9" filename="$USER_HOME$/projects/lisa/lisa/experiments.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>test_experiment_set</text>
+        <text encoding="base64">bWFya2Vycywg</text>
       </register>
       <register name="-" type="4">
-        <text>test_experiment_set</text>
+        <text encoding="base64">bWFya2Vycywg</text>
       </register>
       <register name="/" type="4">
-        <text>tests_tmp</text>
+        <text encoding="base64">XDxSdW5BbmRNYWtlUmVwb3J0XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBleHBlcmltZW50X2RpciA9IGpvaW5fc2RwKCJ0ZXN0c190bXAvZXhwMSIpCg==</text>
       </register>
       <register name="1" type="4">
-        <text>test_experiment_set</text>
+        <text encoding="base64">bWFya2Vycywg</text>
       </register>
       <register name="2" type="4">
         <text>test_experiment_set</text>
@@ -993,39 +1002,36 @@
         <text>test_experiment_set</text>
       </register>
       <register name="4" type="4">
-        <text>/</text>
+        <text>test_experiment_set</text>
       </register>
       <register name="5" type="4">
-        <text>tmp_tests</text>
+        <text>/</text>
       </register>
       <register name="6" type="4">
-        <text>exp</text>
+        <text>tmp_tests</text>
       </register>
       <register name="7" type="4">
         <text>exp</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBvcy5wYXRoLmpvaW4ocGF0aF90b19zY3JpcHQsICIuLiIpCg==</text>
+      <register name="8" type="4">
+        <text>exp</text>
       </register>
-      <register name="9" type="4">
-        <text>pklz_dirs</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBvcy5wYXRoLmpvaW4ocGF0aF90b19zY3JpcHQsICIuLiIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>tests_tmp</last-search>
+      <last-search encoding="base64">XDxSdW5BbmRNYWtlUmVwb3J0XD4=</last-search>
       <last-offset />
-      <last-pattern>tests_tmp</last-pattern>
+      <last-pattern encoding="base64">XDxSdW5BbmRNYWtlUmVwb3J0XD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>cbLog</entry>
-        <entry encoding="base64">XDxidG5Mb2dcPg==</entry>
-        <entry encoding="base64">XDxzbHVycFw+</entry>
         <entry encoding="base64">XDxMb2dFbnRyeU1vZGVsXD4=</entry>
         <entry>appendR</entry>
         <entry>addIt</entry>
@@ -1043,6 +1049,9 @@
         <entry>check</entry>
         <entry>logger</entry>
         <entry>tests_tmp</entry>
+        <entry>def vz</entry>
+        <entry>vzdalenosti</entry>
+        <entry encoding="base64">XDxSdW5BbmRNYWtlUmVwb3J0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>592</entry>
