@@ -58,11 +58,13 @@
         <mark key="^" line="31" column="21" />
         <mark key="." line="31" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1465115700470">
-        <mark key="'" line="1662" column="21" />
-        <mark key="[" line="969" column="0" />
-        <mark key="]" line="969" column="0" />
-        <mark key="." line="969" column="0" />
+      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1465117260028">
+        <mark key="b" line="196" column="8" />
+        <mark key="'" line="325" column="0" />
+        <mark key="[" line="196" column="32" />
+        <mark key="]" line="196" column="32" />
+        <mark key="." line="196" column="32" />
+        <mark key="^" line="196" column="49" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/gen_vtk_tree.py" timestamp="1463677085556">
         <mark key="'" line="133" column="0" />
@@ -242,7 +244,7 @@
         <mark key="^" line="43" column="7" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1465109490662">
+      <file name="/Python Console" timestamp="1465117102479">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/lisa/tests/dcmreaddata_test.py" timestamp="1464974819997">
@@ -376,12 +378,13 @@
         <mark key="^" line="20" column="38" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/imtools/imtools/gen_vtk_tree.py" timestamp="1463677158289">
-        <mark key="'" line="10" column="9" />
-        <mark key="[" line="154" column="29" />
-        <mark key="]" line="154" column="49" />
-        <mark key="." line="154" column="49" />
-        <mark key="^" line="154" column="49" />
+      <file name="$USER_HOME$/projects/imtools/imtools/gen_vtk_tree.py" timestamp="1465117692831">
+        <mark key="a" line="232" column="4" />
+        <mark key="'" line="51" column="8" />
+        <mark key="[" line="236" column="0" />
+        <mark key="]" line="236" column="41" />
+        <mark key="^" line="49" column="42" />
+        <mark key="." line="236" column="0" />
       </file>
       <file name="$USER_HOME$/projects/skelet3d/skelet3d/libfixer.py" timestamp="1464617490297">
         <mark key="'" line="110" column="21" />
@@ -747,13 +750,13 @@
         <mark key="^" line="28" column="21" />
         <mark key="." line="28" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/tests/organ_segmentation_test.py" timestamp="1465115472808">
+      <file name="$USER_HOME$/projects/lisa/tests/organ_segmentation_test.py" timestamp="1465118416195">
         <mark key="a" line="422" column="26" />
         <mark key="'" line="57" column="32" />
-        <mark key="[" line="419" column="34" />
-        <mark key="]" line="419" column="33" />
-        <mark key="." line="419" column="33" />
-        <mark key="^" line="419" column="33" />
+        <mark key="[" line="326" column="64" />
+        <mark key="]" line="326" column="63" />
+        <mark key="." line="326" column="63" />
+        <mark key="^" line="326" column="63" />
       </file>
       <file name="$USER_HOME$/projects/lisa/tests/liver_segmentation_test.py" timestamp="1463740426210">
         <mark key="[" line="26" column="16" />
@@ -899,19 +902,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="9" filename="$USER_HOME$/projects/imtools/imtools/gen_vtk_tree.py" />
-      <jump line="1230" column="9" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
-      <jump line="11" column="0" filename="$USER_HOME$/projects/lisa/lisa/gen_vtk_tree.py" />
-      <jump line="133" column="0" filename="$USER_HOME$/projects/lisa/lisa/gen_vtk_tree.py" />
-      <jump line="557" column="48" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
-      <jump line="399" column="4" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
-      <jump line="267" column="4" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
-      <jump line="12" column="0" filename="$USER_HOME$/projects/lisa/lisa/dataset.py" />
-      <jump line="25" column="4" filename="$USER_HOME$/projects/lisa/lisa/dataset.py" />
-      <jump line="33" column="29" filename="$USER_HOME$/projects/lisa/lisa/dataset.py" />
-      <jump line="35" column="19" filename="$USER_HOME$/projects/lisa/lisa/dataset.py" />
-      <jump line="43" column="8" filename="$USER_HOME$/projects/lisa/lisa/dataset.py" />
-      <jump line="455" column="7" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="46" column="17" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="440" column="30" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="737" column="25" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
@@ -999,62 +989,73 @@
       <jump line="1656" column="15" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="1657" column="16" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="1663" column="21" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="1250" column="29" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="325" column="0" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="229" column="4" filename="$USER_HOME$/projects/imtools/imtools/gen_vtk_tree.py" />
+      <jump line="44" column="8" filename="$USER_HOME$/projects/imtools/imtools/gen_vtk_tree.py" />
+      <jump line="45" column="8" filename="$USER_HOME$/projects/imtools/imtools/gen_vtk_tree.py" />
+      <jump line="46" column="8" filename="$USER_HOME$/projects/imtools/imtools/gen_vtk_tree.py" />
+      <jump line="47" column="8" filename="$USER_HOME$/projects/imtools/imtools/gen_vtk_tree.py" />
+      <jump line="227" column="4" filename="$USER_HOME$/projects/imtools/imtools/gen_vtk_tree.py" />
+      <jump line="228" column="4" filename="$USER_HOME$/projects/imtools/imtools/gen_vtk_tree.py" />
+      <jump line="230" column="8" filename="$USER_HOME$/projects/imtools/imtools/gen_vtk_tree.py" />
+      <jump line="232" column="8" filename="$USER_HOME$/projects/imtools/imtools/gen_vtk_tree.py" />
+      <jump line="233" column="4" filename="$USER_HOME$/projects/imtools/imtools/gen_vtk_tree.py" />
+      <jump line="51" column="8" filename="$USER_HOME$/projects/imtools/imtools/gen_vtk_tree.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLndhcm5pbmcoIm9sZCB2dGsgaXMgdXNlZCIpCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>app</text>
+        <text encoding="base64">XDx3cml0ZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhcHAgPSBRQXBwbGljYXRpb24oc3lzLmFyZ3YpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLndhcm5pbmcoIm9sZCB2dGsgaXMgdXNlZCIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmLgo=</text>
+        <text encoding="base64">ICAgICAgICB3cml0ZXIuU2V0SW5wdXQoc2VsZi5wb2x5RGF0YSkK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICB3cml0ZXIuU2V0SW5wdXQoc2VsZi5wb2x5RGF0YSkK</text>
       </register>
       <register name="3" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="4" type="4">
-        <text>,</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="5" type="4">
-        <text>]</text>
+        <text>=</text>
       </register>
-      <register name="6" type="4">
-        <text>0</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLgo=</text>
       </register>
       <register name="7" type="4">
-        <text>8</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="8" type="4">
-        <text>[</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="9" type="4">
-        <text>[80],</text>
+        <text>,</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>app</last-search>
+      <last-search encoding="base64">XDx3cml0ZXJcPg==</last-search>
       <last-offset />
-      <last-pattern>app</last-pattern>
+      <last-pattern encoding="base64">XDx3cml0ZXJcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>menu</entry>
-        <entry encoding="base64">XDxidG5Sb3RhdGVaXD4=</entry>
         <entry encoding="base64">XDxyYW5kb21Sb3RhdGVBY3Rpb25cPg==</entry>
         <entry encoding="base64">XDxidG5SYW5kb21Sb3RhdGVcPg==</entry>
         <entry>logo</entry>
@@ -1073,10 +1074,10 @@
         <entry encoding="base64">XDxzdXJmYWNlX21lYXN1cmVtZW50XD4=</entry>
         <entry>QApp</entry>
         <entry>app</entry>
+        <entry>self.output_datapath =</entry>
+        <entry encoding="base64">XDx3cml0ZXJcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>270</entry>
-        <entry>638</entry>
         <entry>178</entry>
         <entry>220</entry>
         <entry>89</entry>
@@ -1094,6 +1095,8 @@
         <entry>81</entry>
         <entry>W</entry>
         <entry>433</entry>
+        <entry>230</entry>
+        <entry>361</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
