@@ -242,7 +242,7 @@
         <mark key="^" line="43" column="7" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1465106162941">
+      <file name="/Python Console" timestamp="1465108640143">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/lisa/tests/dcmreaddata_test.py" timestamp="1464974819997">
@@ -279,13 +279,13 @@
         <mark key="^" line="68" column="28" />
         <mark key="." line="68" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/tests/experiments_test.py" timestamp="1465107769788">
+      <file name="$USER_HOME$/projects/lisa/tests/experiments_test.py" timestamp="1465108909099">
         <mark key="a" line="194" column="31" />
         <mark key="'" line="45" column="43" />
-        <mark key="[" line="104" column="67" />
-        <mark key="]" line="105" column="33" />
-        <mark key="." line="105" column="33" />
-        <mark key="^" line="105" column="33" />
+        <mark key="[" line="108" column="22" />
+        <mark key="]" line="108" column="24" />
+        <mark key="." line="108" column="24" />
+        <mark key="^" line="108" column="24" />
       </file>
       <file name="$USER_HOME$/projects/quanta/setup.py" timestamp="1446640023460">
         <mark key="[" line="58" column="105" />
@@ -433,7 +433,7 @@
         <mark key="^" line="35" column="50" />
         <mark key="." line="35" column="50" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/experiments.py" timestamp="1444721689004">
+      <file name="$USER_HOME$/projects/lisa/lisa/experiments.py" timestamp="1465108632958">
         <mark key="[" line="19" column="16" />
         <mark key="]" line="20" column="12" />
         <mark key="^" line="20" column="12" />
@@ -613,11 +613,11 @@
         <mark key="^" line="31" column="37" />
         <mark key="." line="31" column="37" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/meta.yaml" timestamp="1465107552566">
+      <file name="$USER_HOME$/projects/lisa/meta.yaml" timestamp="1465108575764">
         <mark key="[" line="75" column="14" />
-        <mark key="]" line="76" column="10" />
-        <mark key="^" line="76" column="10" />
-        <mark key="." line="76" column="10" />
+        <mark key="]" line="76" column="37" />
+        <mark key="^" line="76" column="37" />
+        <mark key="." line="76" column="37" />
       </file>
       <file name="$USER_HOME$/projects/io3d/io3d/idxformat.py" timestamp="1447143786214">
         <mark key="'" line="29" column="47" />
@@ -972,10 +972,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>exp</text>
+        <text>test_experiment_set</text>
       </register>
       <register name="-" type="4">
-        <text>exp</text>
+        <text>test_experiment_set</text>
       </register>
       <register name="/" type="4">
         <text>tests_tmp</text>
@@ -984,31 +984,31 @@
         <text encoding="base64">ICAgICAgICBleHBlcmltZW50X2RpciA9IGpvaW5fc2RwKCJ0ZXN0c190bXAvZXhwMSIpCg==</text>
       </register>
       <register name="1" type="4">
-        <text>exp</text>
+        <text>test_experiment_set</text>
       </register>
       <register name="2" type="4">
-        <text>exp</text>
+        <text>test_experiment_set</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBvcy5wYXRoLmpvaW4ocGF0aF90b19zY3JpcHQsICIuLiIpCg==</text>
+      <register name="3" type="4">
+        <text>test_experiment_set</text>
       </register>
       <register name="4" type="4">
-        <text>pklz_dirs</text>
+        <text>/</text>
       </register>
       <register name="5" type="4">
-        <text>k</text>
+        <text>tmp_tests</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBvcy5tYWtlZGlycygpCg==</text>
+      <register name="6" type="4">
+        <text>exp</text>
       </register>
       <register name="7" type="4">
-        <text>_</text>
+        <text>exp</text>
       </register>
-      <register name="8" type="4">
-        <text>s</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBvcy5wYXRoLmpvaW4ocGF0aF90b19zY3JpcHQsICIuLiIpCg==</text>
       </register>
       <register name="9" type="4">
-        <text>t</text>
+        <text>pklz_dirs</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
