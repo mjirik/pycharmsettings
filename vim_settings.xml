@@ -178,12 +178,12 @@
         <mark key="^" line="79" column="46" />
         <mark key="." line="79" column="46" />
       </file>
-      <file name="$USER_HOME$/projects/sftpsync-py/sftpsync/__init__.py" timestamp="1465246793217">
-        <mark key="'" line="197" column="37" />
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="51" column="38" />
-        <mark key="." line="51" column="38" />
-        <mark key="^" line="51" column="38" />
+      <file name="$USER_HOME$/projects/sftpsync-py/sftpsync/__init__.py" timestamp="1465247969803">
+        <mark key="'" line="200" column="37" />
+        <mark key="[" line="49" column="19" />
+        <mark key="]" line="49" column="34" />
+        <mark key="." line="49" column="34" />
+        <mark key="^" line="49" column="34" />
       </file>
       <file name="$USER_HOME$/projects/disco/disco/__main__.py" timestamp="1463149420737">
         <mark key="[" line="55" column="33" />
@@ -872,11 +872,11 @@
         <mark key="." line="33" column="20" />
         <mark key="^" line="33" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/sftpsync-py/tests/sftp_test.py" timestamp="1465245794127">
-        <mark key="[" line="11" column="15" />
-        <mark key="]" line="11" column="23" />
-        <mark key="." line="11" column="23" />
-        <mark key="^" line="11" column="23" />
+      <file name="$USER_HOME$/projects/sftpsync-py/tests/sftp_test.py" timestamp="1465247653049">
+        <mark key="[" line="10" column="17" />
+        <mark key="]" line="10" column="19" />
+        <mark key="." line="10" column="19" />
+        <mark key="^" line="10" column="19" />
       </file>
       <file name="$USER_HOME$/projects/quanta/README.md" timestamp="1452510025795">
         <mark key="[" line="58" column="50" />
@@ -1097,43 +1097,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>file</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>file</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfd2Fsa1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzcmMgPSAnZnJvbV9zZXJ2ZXInCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoIi0tLS0tLS0tLS0tLS0tLS0tIikK</text>
       </register>
       <register name="1" type="4">
-        <text>file</text>
+        <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbAo=</text>
+      <register name="2" type="4">
+        <text>&quot;----------------&quot;)</text>
       </register>
       <register name="3" type="4">
-        <text>from_server</text>
+        <text>-</text>
       </register>
       <register name="4" type="4">
-        <text>True</text>
+        <text>debug</text>
       </register>
       <register name="5" type="4">
-        <text>sdcard</text>
+        <text>.</text>
       </register>
       <register name="6" type="4">
-        <text>/</text>
+        <text>logger</text>
       </register>
       <register name="7" type="4">
-        <text>mnt</text>
+        <text>file</text>
       </register>
-      <register name="8" type="4">
-        <text>user</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbAo=</text>
       </register>
       <register name="9" type="4">
-        <text>/</text>
+        <text>from_server</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
