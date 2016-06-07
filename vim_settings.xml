@@ -178,12 +178,12 @@
         <mark key="^" line="79" column="46" />
         <mark key="." line="79" column="46" />
       </file>
-      <file name="$USER_HOME$/projects/sftpsync-py/sftpsync/__init__.py" timestamp="1465291930591">
-        <mark key="'" line="200" column="37" />
-        <mark key="[" line="202" column="43" />
-        <mark key="]" line="202" column="47" />
-        <mark key="." line="202" column="47" />
-        <mark key="^" line="202" column="47" />
+      <file name="$USER_HOME$/projects/sftpsync-py/sftpsync/__init__.py" timestamp="1465294855795">
+        <mark key="'" line="205" column="37" />
+        <mark key="[" line="56" column="46" />
+        <mark key="]" line="58" column="42" />
+        <mark key="." line="58" column="42" />
+        <mark key="^" line="58" column="42" />
       </file>
       <file name="$USER_HOME$/projects/disco/disco/__main__.py" timestamp="1463149420737">
         <mark key="[" line="55" column="33" />
@@ -872,10 +872,10 @@
         <mark key="." line="33" column="20" />
         <mark key="^" line="33" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/sftpsync-py/tests/sftp_test.py" timestamp="1465247653049">
-        <mark key="[" line="10" column="17" />
-        <mark key="]" line="10" column="19" />
-        <mark key="." line="10" column="19" />
+      <file name="$USER_HOME$/projects/sftpsync-py/tests/sftp_test.py" timestamp="1465293816351">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="50" />
+        <mark key="." line="10" column="0" />
         <mark key="^" line="10" column="19" />
       </file>
       <file name="$USER_HOME$/projects/quanta/README.md" timestamp="1452510025795">
@@ -1097,43 +1097,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text>&quot;from_server&quot;</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>&quot;from_server&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfd2Fsa1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoIi0tLS0tLS0tLS0tLS0tLS0tIikK</text>
+        <text encoding="base64">ICAgICAgICBodSA9IHNmdHAuc2Z0cC5saXN0ZGlyX2F0dHIoImZyb21fc2VydmVyIikK</text>
       </register>
       <register name="1" type="4">
-        <text />
+        <text>&quot;from_server&quot;</text>
       </register>
       <register name="2" type="4">
-        <text>&quot;----------------&quot;)</text>
+        <text />
       </register>
       <register name="3" type="4">
-        <text>-</text>
+        <text>&quot;----------------&quot;)</text>
       </register>
       <register name="4" type="4">
-        <text>debug</text>
+        <text>-</text>
       </register>
       <register name="5" type="4">
-        <text>.</text>
+        <text>debug</text>
       </register>
       <register name="6" type="4">
-        <text>logger</text>
+        <text>.</text>
       </register>
       <register name="7" type="4">
+        <text>logger</text>
+      </register>
+      <register name="8" type="4">
         <text>file</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbAo=</text>
-      </register>
-      <register name="9" type="4">
-        <text>from_server</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
