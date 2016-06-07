@@ -10,7 +10,7 @@
         <mark key="^" line="39" column="25" />
         <mark key="." line="39" column="25" />
       </file>
-      <file name="/a.dummy" timestamp="1465163187068">
+      <file name="/a.dummy" timestamp="1465329892683">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -178,14 +178,14 @@
         <mark key="^" line="79" column="46" />
         <mark key="." line="79" column="46" />
       </file>
-      <file name="$USER_HOME$/projects/sftpsync-py/sftpsync/__init__.py" timestamp="1465315978157">
+      <file name="$USER_HOME$/projects/sftpsync-py/sftpsync/__init__.py" timestamp="1465329820373">
         <mark key="a" line="53" column="18" />
-        <mark key="b" line="207" column="15" />
-        <mark key="'" line="207" column="15" />
-        <mark key="[" line="71" column="29" />
-        <mark key="]" line="71" column="36" />
-        <mark key="." line="71" column="36" />
-        <mark key="^" line="71" column="36" />
+        <mark key="b" line="194" column="15" />
+        <mark key="'" line="194" column="15" />
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="^" line="63" column="36" />
+        <mark key="." line="59" column="0" />
       </file>
       <file name="$USER_HOME$/projects/disco/disco/__main__.py" timestamp="1463149420737">
         <mark key="[" line="55" column="33" />
@@ -1095,8 +1095,8 @@
       <jump line="199" column="15" filename="$USER_HOME$/projects/sftpsync-py/sftpsync/__init__.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>path</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgInJlcyIsIHJlc1swXS5maWxlbmFtZQo=</text>
       </register>
       <register name="-" type="4">
         <text>path</text>
@@ -1107,32 +1107,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRlZiB0ZXN0X2Nvbm5lY3Rpb24oc2VsZik6CiAgICAgICAgZnJvbSBzZnRwc3luYyBpbXBvcnQgU2Z0cAoKICAgICAgICBzZnRwID0gU2Z0cCgnMTQ3LjIyOC40Ny4xNjInLCAncGF1bCcsICdQNHVsJykKICAgICAgICAjIGh1ID0gc2Z0cC5zZnRwLmxpc3RkaXJfYXR0cigiZnJvbV9zZXJ2ZXIiKQogICAgICAgIGRpcl9saXN0ID0gc2Z0cC5zZnRwLmxpc3RkaXJfYXR0cigiZnJvbV9zZXJ2ZXIiKQogICAgICAgIGZpcnN0X2ZuID0gZGlyX2xpc3RbMF0uZmlsZW5hbWUKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGZpcnN0X2ZuLCAidGVzdC50eHQiKQoKICAgICAgICBzcmMgPSAnZnJvbV9zZXJ2ZXIvJwogICAgICAgICMgc3JjID0gJ3RvX3NlcnZlcicKICAgICAgICBkc3QgPSAnfi9waG9uZS1iYWNrdXAvJwogICAgICAgIGRzdCA9IG9wLmV4cGFuZHVzZXIoZHN0KQogICAgICAgIHByaW50ICJhc2RmYXNmIiwgZHN0CgogICAgICAgICMgV2UgZG9uJ3Qgd2FudCB0byBiYWNrdXAgZXZlcnl0aGluZwogICAgICAgIGV4Y2x1ZGUgPSBbcideTXVzaWMvJywgcideVmlkZW8vJ10KCiAgICAgICAgc2Z0cC5zeW5jKHNyYywgZHN0LCBkb3dubG9hZD1UcnVlLCBleGNsdWRlPWV4Y2x1ZGUsIGRlbGV0ZT1GYWxzZSkKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKFRydWUsIEZhbHNlKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>path</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgInJlcyIsIHJlc1swXS5maWxlbmFtZQo=</text>
       </register>
-      <register name="2" type="4">
-        <text>.</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCBwYXRoCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>os</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoIi0tLS0tLS0tLS0tLS0tLS0tIikKICAgICAgICBsb2dnZXIuZGVidWcocGF0aCkKICAgICAgICBpZiBsZW4ocmVzKSA+IDA6CiAgICAgICAgICAgIGxvZ2dlci5kZWJ1ZyhzdHIocmVzWzBdLmZpbGVuYW1lKSkKICAgICAgICBlbHNlOgogICAgICAgICAgICBsb2dnZXIuZGVidWcoInBhdGggaGFzIG5vIGNoaWxkIikK</text>
       </register>
-      <register name="4" type="4">
-        <text>False</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKCJwYXRoOiAlcywgc3RhdC5maWxlbmFtZTogJXMiLCBwYXRoLCBzdGF0LmZpbGVuYW1lKQo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">LCA=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKCJ0eXBlOiAlcywgZmlsZTogJXMiLCB0eXBlLCBmaWxlKQo=</text>
       </register>
-      <register name="6" type="4">
-        <text>True</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoIj09PT0gJWQgJXMiLGxlbihodSksIGh1WzBdLmZpbGVuYW1lKQo=</text>
       </register>
-      <register name="7" type="4">
-        <text>Equal</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBodSA9IHNlbGYuc2Z0cC5saXN0ZGlyX2F0dHIoc3JjKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAiYXNkZmFzZiIsIGRzdAo=</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoInN0YXJ0IHBvaW50IGZvciB3YWxrIDslczsiLCBzcmMpCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>/</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoImRzdCAlcyIsIGRzdCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
