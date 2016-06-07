@@ -871,11 +871,11 @@
         <mark key="." line="33" column="20" />
         <mark key="^" line="33" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/sftpsync-py/tests/sftp_test.py" timestamp="1465314777232">
-        <mark key="[" line="10" column="48" />
-        <mark key="]" line="10" column="56" />
-        <mark key="." line="10" column="56" />
-        <mark key="^" line="10" column="56" />
+      <file name="$USER_HOME$/projects/sftpsync-py/tests/sftp_test.py" timestamp="1465326762710">
+        <mark key="[" line="31" column="34" />
+        <mark key="]" line="31" column="54" />
+        <mark key="^" line="31" column="54" />
+        <mark key="." line="31" column="54" />
       </file>
       <file name="$USER_HOME$/projects/quanta/README.md" timestamp="1452510025795">
         <mark key="[" line="58" column="50" />
@@ -1105,7 +1105,7 @@
         <text>endswith</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzcmMgPSBzcmMucnN0cmlwKCcvJykK</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X2Nvbm5lY3Rpb24oc2VsZik6CiAgICAgICAgZnJvbSBzZnRwc3luYyBpbXBvcnQgU2Z0cAoKICAgICAgICBzZnRwID0gU2Z0cCgnMTQ3LjIyOC40Ny4xNjInLCAncGF1bCcsICdQNHVsJykKICAgICAgICAjIGh1ID0gc2Z0cC5zZnRwLmxpc3RkaXJfYXR0cigiZnJvbV9zZXJ2ZXIiKQogICAgICAgIGRpcl9saXN0ID0gc2Z0cC5zZnRwLmxpc3RkaXJfYXR0cigiZnJvbV9zZXJ2ZXIiKQogICAgICAgIGZpcnN0X2ZuID0gZGlyX2xpc3RbMF0uZmlsZW5hbWUKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGZpcnN0X2ZuLCAidGVzdC50eHQiKQoKICAgICAgICBzcmMgPSAnZnJvbV9zZXJ2ZXIvJwogICAgICAgICMgc3JjID0gJ3RvX3NlcnZlcicKICAgICAgICBkc3QgPSAnfi9waG9uZS1iYWNrdXAvJwogICAgICAgIGRzdCA9IG9wLmV4cGFuZHVzZXIoZHN0KQogICAgICAgIHByaW50ICJhc2RmYXNmIiwgZHN0CgogICAgICAgICMgV2UgZG9uJ3Qgd2FudCB0byBiYWNrdXAgZXZlcnl0aGluZwogICAgICAgIGV4Y2x1ZGUgPSBbcideTXVzaWMvJywgcideVmlkZW8vJ10KCiAgICAgICAgc2Z0cC5zeW5jKHNyYywgZHN0LCBkb3dubG9hZD1UcnVlLCBleGNsdWRlPWV4Y2x1ZGUsIGRlbGV0ZT1GYWxzZSkKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKFRydWUsIEZhbHNlKQo=</text>
       </register>
       <register name="1" type="4">
         <text>path</text>
@@ -1117,22 +1117,22 @@
         <text>os</text>
       </register>
       <register name="4" type="4">
-        <text>src</text>
+        <text>False</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">c3JjIA==</text>
+        <text encoding="base64">LCA=</text>
       </register>
       <register name="6" type="4">
-        <text>src</text>
+        <text>True</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">c3JjIA==</text>
+        <text>Equal</text>
       </register>
-      <register name="8" type="4">
-        <text>&quot;from_server&quot;</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCAiYXNkZmFzZiIsIGRzdAo=</text>
       </register>
       <register name="9" type="4">
-        <text />
+        <text>/</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
