@@ -178,12 +178,14 @@
         <mark key="^" line="79" column="46" />
         <mark key="." line="79" column="46" />
       </file>
-      <file name="$USER_HOME$/projects/sftpsync-py/sftpsync/__init__.py" timestamp="1465313369723">
-        <mark key="'" line="207" column="37" />
-        <mark key="[" line="201" column="31" />
-        <mark key="]" line="201" column="33" />
-        <mark key="." line="201" column="33" />
-        <mark key="^" line="201" column="33" />
+      <file name="$USER_HOME$/projects/sftpsync-py/sftpsync/__init__.py" timestamp="1465315978157">
+        <mark key="a" line="53" column="18" />
+        <mark key="b" line="207" column="15" />
+        <mark key="'" line="207" column="15" />
+        <mark key="[" line="71" column="29" />
+        <mark key="]" line="71" column="36" />
+        <mark key="." line="71" column="36" />
+        <mark key="^" line="71" column="36" />
       </file>
       <file name="$USER_HOME$/projects/disco/disco/__main__.py" timestamp="1463149420737">
         <mark key="[" line="55" column="33" />
@@ -229,9 +231,6 @@
         <mark key="]" line="28" column="21" />
         <mark key="^" line="28" column="21" />
         <mark key="." line="28" column="21" />
-      </file>
-      <file name="/Python Console" timestamp="1463667911820">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/io3d/io3d/__init__.py" timestamp="1448883347734">
         <mark key="[" line="7" column="22" />
@@ -994,9 +993,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="457" column="13" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
-      <jump line="609" column="0" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
-      <jump line="733" column="25" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="175" column="46" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="32" column="38" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="284" column="28" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
@@ -1094,62 +1090,63 @@
       <jump line="196" column="16" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="326" column="11" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="196" column="37" filename="$USER_HOME$/projects/sftpsync-py/sftpsync/__init__.py" />
+      <jump line="228" column="30" filename="$USER_HOME$/projects/sftpsync-py/sftpsync/__init__.py" />
+      <jump line="47" column="3" filename="$USER_HOME$/projects/sftpsync-py/sftpsync/__init__.py" />
+      <jump line="199" column="15" filename="$USER_HOME$/projects/sftpsync-py/sftpsync/__init__.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>src</text>
+        <text>path</text>
       </register>
       <register name="-" type="4">
-        <text>src</text>
+        <text>path</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfd2Fsa1w+</text>
+        <text>endswith</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoInNyYyAlcyIsIHNyYykK</text>
+        <text encoding="base64">ICAgICAgICBzcmMgPSBzcmMucnN0cmlwKCcvJykK</text>
       </register>
       <register name="1" type="4">
-        <text>src</text>
+        <text>path</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">c3JjIA==</text>
-      </register>
-      <register name="3" type="4">
-        <text>&quot;from_server&quot;</text>
-      </register>
-      <register name="4" type="4">
-        <text />
-      </register>
-      <register name="5" type="4">
-        <text>&quot;----------------&quot;)</text>
-      </register>
-      <register name="6" type="4">
-        <text>-</text>
-      </register>
-      <register name="7" type="4">
-        <text>debug</text>
-      </register>
-      <register name="8" type="4">
         <text>.</text>
       </register>
+      <register name="3" type="4">
+        <text>os</text>
+      </register>
+      <register name="4" type="4">
+        <text>src</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">c3JjIA==</text>
+      </register>
+      <register name="6" type="4">
+        <text>src</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">c3JjIA==</text>
+      </register>
+      <register name="8" type="4">
+        <text>&quot;from_server&quot;</text>
+      </register>
       <register name="9" type="4">
-        <text>logger</text>
+        <text />
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfd2Fsa1w+</last-search>
+      <last-search>endswith</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfd2Fsa1w+</last-pattern>
+      <last-pattern>endswith</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>cbLog</entry>
-        <entry encoding="base64">XDxidG5Mb2dcPg==</entry>
         <entry encoding="base64">XDxzbHVycFw+</entry>
         <entry encoding="base64">XDxMb2dFbnRyeU1vZGVsXD4=</entry>
         <entry>appendR</entry>
@@ -1168,6 +1165,8 @@
         <entry>make_icon</entry>
         <entry encoding="base64">XDxnZXRfc2FtcGxlX2RhdGFcPg==</entry>
         <entry encoding="base64">XDxfd2Fsa1w+</entry>
+        <entry>with</entry>
+        <entry>endswith</entry>
       </history-search>
       <history-cmd>
         <entry>270</entry>
