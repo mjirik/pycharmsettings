@@ -94,10 +94,10 @@
         <mark key="^" line="170" column="30" />
         <mark key="." line="170" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/sftpsync-py/tests/sftpsync_test.py" timestamp="1465383770683">
-        <mark key="'" line="59" column="27" />
-        <mark key="[" line="66" column="15" />
-        <mark key="]" line="66" column="15" />
+      <file name="$USER_HOME$/projects/sftpsync-py/tests/sftpsync_test.py" timestamp="1465386810372">
+        <mark key="'" line="61" column="27" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="35" />
         <mark key="^" line="66" column="12" />
         <mark key="." line="66" column="15" />
       </file>
@@ -395,13 +395,13 @@
         <mark key="^" line="0" column="40" />
         <mark key="." line="0" column="40" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/lisa_data.py" timestamp="1465331360613">
+      <file name="$USER_HOME$/projects/lisa/lisa/lisa_data.py" timestamp="1465386691123">
         <mark key="a" line="21" column="0" />
-        <mark key="'" line="169" column="0" />
-        <mark key="[" line="48" column="110" />
-        <mark key="]" line="48" column="110" />
-        <mark key="." line="48" column="110" />
-        <mark key="^" line="48" column="110" />
+        <mark key="'" line="54" column="0" />
+        <mark key="[" line="76" column="65" />
+        <mark key="]" line="76" column="64" />
+        <mark key="." line="76" column="64" />
+        <mark key="^" line="76" column="64" />
       </file>
       <file name="$USER_HOME$/projects/io3d/tests/datawriter_test.py" timestamp="1443767919770">
         <mark key="[" line="88" column="49" />
@@ -447,12 +447,12 @@
         <mark key="." line="65" column="0" />
         <mark key="^" line="10" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/tests/sync_test.py" timestamp="1465383100388">
-        <mark key="'" line="49" column="31" />
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
-        <mark key="^" line="39" column="30" />
+      <file name="$USER_HOME$/projects/lisa/tests/sync_test.py" timestamp="1465386831437">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="4" column="36" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="52" column="45" />
       </file>
       <file name="$USER_HOME$/projects/events2calendar/README.md" timestamp="1459100360089">
         <mark key="[" line="5" column="45" />
@@ -1007,10 +1007,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1361" column="4" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
-      <jump line="1565" column="9" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
-      <jump line="1379" column="30" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
-      <jump line="935" column="42" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="189" column="41" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="72" column="24" filename="$USER_HOME$/projects/lisa/lisa/logWindow.py" />
       <jump line="91" column="23" filename="$USER_HOME$/projects/lisa/lisa/logWindow.py" />
@@ -1107,10 +1103,14 @@
       <jump line="58" column="0" filename="$USER_HOME$/projects/sftpsync-py/tests/sftpsync_test.py" />
       <jump line="49" column="31" filename="$USER_HOME$/projects/lisa/tests/sync_test.py" />
       <jump line="59" column="27" filename="$USER_HOME$/projects/sftpsync-py/tests/sftpsync_test.py" />
+      <jump line="54" column="0" filename="$USER_HOME$/projects/lisa/lisa/lisa_data.py" />
+      <jump line="61" column="27" filename="$USER_HOME$/projects/sftpsync-py/tests/sftpsync_test.py" />
+      <jump line="50" column="45" filename="$USER_HOME$/projects/lisa/tests/sync_test.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/projects/lisa/tests/sync_test.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcKbG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoX19uYW1lX18pCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -1125,28 +1125,28 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="4">
-        <text>+</text>
+        <text>,</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">ZHN0IA==</text>
+        <text>)</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+        <text>join</text>
       </register>
       <register name="5" type="4">
-        <text>'</text>
+        <text>.</text>
       </register>
       <register name="6" type="4">
-        <text>\</text>
+        <text>path</text>
       </register>
       <register name="7" type="4">
-        <text>\</text>
+        <text>.</text>
       </register>
       <register name="8" type="4">
-        <text>'</text>
+        <text>os</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">IGlzIG5vdCBOb25l</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
