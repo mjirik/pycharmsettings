@@ -304,7 +304,8 @@
         <mark key="." line="158" column="0" />
         <mark key="^" line="163" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1464331946869">
+      <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1465388919284">
+        <mark key="a" line="531" column="23" />
         <mark key="'" line="977" column="25" />
         <mark key="[" line="55" column="47" />
         <mark key="]" line="55" column="52" />
@@ -374,13 +375,10 @@
         <mark key="^" line="128" column="20" />
         <mark key="." line="127" column="72" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1465383833907">
+      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1465389235553">
         <mark key="b" line="196" column="8" />
-        <mark key="'" line="747" column="48" />
-        <mark key="[" line="763" column="57" />
-        <mark key="]" line="763" column="57" />
-        <mark key="^" line="763" column="57" />
-        <mark key="." line="763" column="57" />
+        <mark key="'" line="748" column="48" />
+        <mark key="[" line="736" column="18" />
       </file>
       <file name="$USER_HOME$/projects/imtools/imtools/thresholding_functions.py" timestamp="1463666926761">
         <mark key="'" line="85" column="4" />
@@ -447,12 +445,12 @@
         <mark key="." line="65" column="0" />
         <mark key="^" line="10" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/tests/sync_test.py" timestamp="1465386831437">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="4" column="36" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="52" column="45" />
+      <file name="$USER_HOME$/projects/lisa/tests/sync_test.py" timestamp="1465389693479">
+        <mark key="'" line="49" column="11" />
+        <mark key="[" line="51" column="27" />
+        <mark key="]" line="51" column="37" />
+        <mark key="." line="51" column="37" />
+        <mark key="^" line="51" column="37" />
       </file>
       <file name="$USER_HOME$/projects/events2calendar/README.md" timestamp="1459100360089">
         <mark key="[" line="5" column="45" />
@@ -1007,7 +1005,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="189" column="41" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="72" column="24" filename="$USER_HOME$/projects/lisa/lisa/logWindow.py" />
       <jump line="91" column="23" filename="$USER_HOME$/projects/lisa/lisa/logWindow.py" />
       <jump line="98" column="13" filename="$USER_HOME$/projects/lisa/lisa/logWindow.py" />
@@ -1107,13 +1104,14 @@
       <jump line="61" column="27" filename="$USER_HOME$/projects/sftpsync-py/tests/sftpsync_test.py" />
       <jump line="50" column="45" filename="$USER_HOME$/projects/lisa/tests/sync_test.py" />
       <jump line="3" column="0" filename="$USER_HOME$/projects/lisa/tests/sync_test.py" />
+      <jump line="47" column="11" filename="$USER_HOME$/projects/lisa/tests/sync_test.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcKbG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoX19uYW1lX18pCg==</text>
+      <register name="&quot;" type="4">
+        <text>lisa.lisa_data.path('sync','paul')</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>lisa.lisa_data.path('sync','paul')</text>
       </register>
       <register name="/" type="4">
         <text>skip</text>
@@ -1122,31 +1120,31 @@
         <text encoding="base64">aW1wb3J0IGxvZ2dpbmcKbG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoX19uYW1lX18pCg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+        <text>lisa.lisa_data.path('sync','paul')</text>
       </register>
-      <register name="2" type="4">
-        <text>,</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="4" type="4">
-        <text>join</text>
+        <text>,</text>
       </register>
       <register name="5" type="4">
-        <text>.</text>
+        <text>)</text>
       </register>
       <register name="6" type="4">
-        <text>path</text>
+        <text>join</text>
       </register>
       <register name="7" type="4">
         <text>.</text>
       </register>
       <register name="8" type="4">
-        <text>os</text>
+        <text>path</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IGlzIG5vdCBOb25l</text>
+        <text>.</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
