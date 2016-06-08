@@ -378,9 +378,9 @@
         <mark key="^" line="128" column="20" />
         <mark key="." line="127" column="72" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1465393787971">
+      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1465394575704">
         <mark key="b" line="196" column="8" />
-        <mark key="'" line="152" column="24" />
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="736" column="18" />
         <mark key="]" line="758" column="87" />
         <mark key="^" line="758" column="87" />
@@ -1009,7 +1009,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="139" column="52" filename="$USER_HOME$/projects/lisa/lisa/logWindow.py" />
       <jump line="62" column="22" filename="$USER_HOME$/projects/lisa/lisa/logWindow.py" />
       <jump line="43" column="31" filename="$USER_HOME$/projects/lisa/lisa/logWindow.py" />
       <jump line="953" column="0" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
@@ -1106,9 +1105,10 @@
       <jump line="738" column="3" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="16" column="7" filename="$USER_HOME$/projects/lisa/lisa/cachefile.py" />
       <jump line="61" column="20" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
-      <jump line="250" column="13" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="152" column="24" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="429" column="24" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="250" column="13" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
