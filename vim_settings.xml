@@ -307,13 +307,13 @@
         <mark key="." line="158" column="0" />
         <mark key="^" line="163" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1465388919284">
+      <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1465393994741">
         <mark key="a" line="531" column="23" />
-        <mark key="'" line="977" column="25" />
-        <mark key="[" line="55" column="47" />
-        <mark key="]" line="55" column="52" />
-        <mark key="." line="55" column="52" />
-        <mark key="^" line="55" column="52" />
+        <mark key="'" line="429" column="24" />
+        <mark key="[" line="845" column="55" />
+        <mark key="]" line="845" column="73" />
+        <mark key="." line="845" column="73" />
+        <mark key="^" line="845" column="73" />
       </file>
       <file name="$USER_HOME$/projects/quanta/quanta/__main__.py" timestamp="1446549342592">
         <mark key="[" line="0" column="0" />
@@ -378,9 +378,9 @@
         <mark key="^" line="128" column="20" />
         <mark key="." line="127" column="72" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1465389235553">
+      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1465393787971">
         <mark key="b" line="196" column="8" />
-        <mark key="'" line="748" column="48" />
+        <mark key="'" line="152" column="24" />
         <mark key="[" line="736" column="18" />
         <mark key="]" line="758" column="87" />
         <mark key="^" line="758" column="87" />
@@ -412,6 +412,10 @@
         <mark key="]" line="88" column="52" />
         <mark key="^" line="88" column="52" />
         <mark key="." line="88" column="52" />
+      </file>
+      <file name="$USER_HOME$/projects/lisa/lisa/cachefile.py" timestamp="1465393833461">
+        <mark key="'" line="16" column="7" />
+        <mark key="[" line="29" column="29" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/__init__.py" timestamp="1464369261837">
         <mark key="[" line="3" column="0" />
@@ -1005,13 +1009,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="24" filename="$USER_HOME$/projects/lisa/lisa/logWindow.py" />
-      <jump line="91" column="23" filename="$USER_HOME$/projects/lisa/lisa/logWindow.py" />
-      <jump line="98" column="13" filename="$USER_HOME$/projects/lisa/lisa/logWindow.py" />
-      <jump line="134" column="12" filename="$USER_HOME$/projects/lisa/lisa/logWindow.py" />
-      <jump line="22" column="6" filename="$USER_HOME$/projects/lisa/lisa/logWindow.py" />
-      <jump line="24" column="14" filename="$USER_HOME$/projects/lisa/lisa/logWindow.py" />
-      <jump line="64" column="21" filename="$USER_HOME$/projects/lisa/lisa/logWindow.py" />
       <jump line="139" column="52" filename="$USER_HOME$/projects/lisa/lisa/logWindow.py" />
       <jump line="62" column="22" filename="$USER_HOME$/projects/lisa/lisa/logWindow.py" />
       <jump line="43" column="31" filename="$USER_HOME$/projects/lisa/lisa/logWindow.py" />
@@ -1105,67 +1102,67 @@
       <jump line="50" column="45" filename="$USER_HOME$/projects/lisa/tests/sync_test.py" />
       <jump line="3" column="0" filename="$USER_HOME$/projects/lisa/tests/sync_test.py" />
       <jump line="47" column="11" filename="$USER_HOME$/projects/lisa/tests/sync_test.py" />
+      <jump line="531" column="23" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="738" column="3" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="16" column="7" filename="$USER_HOME$/projects/lisa/lisa/cachefile.py" />
+      <jump line="61" column="20" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="250" column="13" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="152" column="24" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="429" column="24" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>op.join(dst,&quot;test.txt&quot;)</text>
+        <text>Ready</text>
       </register>
       <register name="-" type="4">
-        <text>op.join(dst,&quot;test.txt&quot;)</text>
+        <text>Ready</text>
       </register>
       <register name="/" type="4">
-        <text>skip</text>
+        <text>Update</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZHN0ID0gb3MucGF0aC5qb2luKGRzdCwgb3MucGF0aC5iYXNlbmFtZShzcmMucnN0cmlwKCcvJykpKQo=</text>
+        <text encoding="base64">ICAgIGRlZiBnZXQoc2VsZiwga2V5KToKICAgICAgICByZXR1cm4gc2VsZi5kYXRhW2tleV0K</text>
       </register>
       <register name="1" type="4">
-        <text>op.join(dst,&quot;test.txt&quot;)</text>
+        <text>Ready</text>
       </register>
       <register name="2" type="4">
-        <text>sep</text>
+        <text>op.join(dst,&quot;test.txt&quot;)</text>
       </register>
       <register name="3" type="4">
-        <text>.</text>
-      </register>
-      <register name="4" type="4">
-        <text>os</text>
-      </register>
-      <register name="5" type="4">
         <text>sep</text>
       </register>
-      <register name="6" type="4">
+      <register name="4" type="4">
         <text>.</text>
       </register>
-      <register name="7" type="4">
+      <register name="5" type="4">
         <text>os</text>
       </register>
-      <register name="8" type="4">
-        <text>lisa.lisa_data.path('sync','paul')</text>
+      <register name="6" type="4">
+        <text>sep</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>.</text>
+      </register>
+      <register name="8" type="4">
+        <text>os</text>
+      </register>
+      <register name="9" type="4">
+        <text>lisa.lisa_data.path('sync','paul')</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>skip</last-search>
+      <last-search>Update</last-search>
       <last-offset />
-      <last-pattern>skip</last-pattern>
+      <last-pattern>Update</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>addIt</entry>
-        <entry>file</entry>
-        <entry>menu</entry>
-        <entry encoding="base64">XDxidG5Sb3RhdGVaXD4=</entry>
-        <entry encoding="base64">XDxyYW5kb21Sb3RhdGVBY3Rpb25cPg==</entry>
-        <entry encoding="base64">XDxidG5SYW5kb21Sb3RhdGVcPg==</entry>
-        <entry>logo</entry>
         <entry>random</entry>
         <entry encoding="base64">XDxfX2NyZWF0ZV9ubGlua3NcPg==</entry>
         <entry encoding="base64">XDxfX2NyZWF0ZV90bGlua3NcPg==</entry>
@@ -1179,6 +1176,13 @@
         <entry>sync</entry>
         <entry>_output_datap</entry>
         <entry>skip</entry>
+        <entry>update</entry>
+        <entry>cache</entry>
+        <entry encoding="base64">XDxjYWNoZWZpbGVcPg==</entry>
+        <entry encoding="base64">XDxpbzNkXD4=</entry>
+        <entry encoding="base64">XDxjYWNoZWZcPg==</entry>
+        <entry encoding="base64">XDxjYWNoZVw+</entry>
+        <entry>Update</entry>
       </history-search>
       <history-cmd>
         <entry>270</entry>
