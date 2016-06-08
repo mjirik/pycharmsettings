@@ -94,9 +94,11 @@
         <mark key="^" line="170" column="30" />
         <mark key="." line="170" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/sftpsync-py/tests/sftpsync_test.py" timestamp="1465372014166">
-        <mark key="'" line="1" column="12" />
-        <mark key="[" line="45" column="59" />
+      <file name="$USER_HOME$/projects/sftpsync-py/tests/sftpsync_test.py" timestamp="1465382943342">
+        <mark key="'" line="57" column="0" />
+        <mark key="[" line="34" column="11" />
+        <mark key="]" line="34" column="11" />
+        <mark key="." line="34" column="11" />
       </file>
       <file name="$USER_HOME$/projects/psongbook/sobo/psongbook.py" timestamp="1463491785021">
         <mark key="[" line="160" column="32" />
@@ -447,10 +449,10 @@
         <mark key="." line="65" column="0" />
         <mark key="^" line="10" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/tests/sync_test.py" timestamp="1465373338782">
-        <mark key="[" line="39" column="20" />
-        <mark key="]" line="39" column="30" />
-        <mark key="." line="39" column="30" />
+      <file name="$USER_HOME$/projects/lisa/tests/sync_test.py" timestamp="1465382426398">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
         <mark key="^" line="39" column="30" />
       </file>
       <file name="$USER_HOME$/projects/events2calendar/README.md" timestamp="1459100360089">
@@ -1006,7 +1008,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="0" filename="$USER_HOME$/projects/lisa/lisa/logWindow.py" />
       <jump line="17" column="0" filename="$USER_HOME$/projects/lisa/lisa/logWindow.py" />
       <jump line="1338" column="27" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="1361" column="4" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
@@ -1106,46 +1107,47 @@
       <jump line="1" column="12" filename="$USER_HOME$/projects/sftpsync-py/tests/sftpsync_test.py" />
       <jump line="69" column="0" filename="$USER_HOME$/projects/lisa/tests/organ_segmentation_test.py" />
       <jump line="43" column="31" filename="$USER_HOME$/projects/lisa/tests/organ_segmentation_test.py" />
+      <jump line="58" column="0" filename="$USER_HOME$/projects/sftpsync-py/tests/sftpsync_test.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>skipping</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>skipping</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>skip</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICMgQHVuaXR0ZXN0LnNraXAoImRlbW9uc3RyYXRpbmcgc2tpcHBpbmciKQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBvcC5leGlzdHMoZHN0KToKICAgICAgICAgICAgc2h1dGlsLnJtdHJlZShkc3QpCg==</text>
       </register>
       <register name="1" type="4">
-        <text>skipping</text>
+        <text>.</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ZGVtb25zdHJhdGluZyA=</text>
+        <text>self</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>.</text>
       </register>
       <register name="4" type="4">
-        <text>#</text>
+        <text>self</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">Cg==</text>
+        <text>self</text>
       </register>
-      <register name="7" type="4">
-        <text>dcmdir</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmKToK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAiSW50ZXJhY3RpdmUgdGVzdDogd2l0aCBsZWZ0IG1vdXNlIGJ1dHRvbiBzZWxlY3QgbGl2ZXIsIFwKICAgICAgICAgICAgd2l0aCByaWdodCBtb3VzZSBidXR0b24gc2VsZWN0IG90aGVyIHRpc3N1ZXMiCg==</text>
+      <register name="8" type="4">
+        <text>.</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkY21kaXIgPSBvcy5wYXRoLmpvaW4oCiAgICAgICAgICAgIGxpc2EuZGF0YXNldC5zYW1wbGVfZGF0YV9wYXRoKCksCiAgICAgICAgICAgICdqYXRyYV81bW0nKQo=</text>
+      <register name="9" type="4">
+        <text>self</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
