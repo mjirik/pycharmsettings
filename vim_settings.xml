@@ -322,12 +322,12 @@
         <mark key="^" line="129" column="45" />
         <mark key="." line="129" column="45" />
       </file>
-      <file name="$USER_HOME$/projects/sftpsync-py/sftpsync/__init__.py" timestamp="1463085828270">
+      <file name="$USER_HOME$/projects/sftpsync-py/sftpsync/__init__.py" timestamp="1465390050413">
         <mark key="'" line="133" column="22" />
-        <mark key="[" line="137" column="34" />
-        <mark key="]" line="137" column="57" />
-        <mark key="^" line="137" column="57" />
-        <mark key="." line="137" column="57" />
+        <mark key="[" line="195" column="76" />
+        <mark key="]" line="195" column="76" />
+        <mark key="^" line="195" column="76" />
+        <mark key="." line="195" column="76" />
       </file>
       <file name="$USER_HOME$/projects/disco/meta.yaml" timestamp="1463402744720">
         <mark key="[" line="24" column="0" />
@@ -1084,8 +1084,8 @@
       <jump line="326" column="11" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>from</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>from</text>
@@ -1096,32 +1096,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiRG93bmxvYWQgc3RhcnRlZFxucmVtb3RlIGZyb20ge31cbmxvY2FsIGZyb20ge30iLmZvcm1hdChyZW1vdGVmcm9tLCBsb2NhbGZyb20pKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>from</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>rom</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoKQo=</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">ZnJvbSA=</text>
+        <text>from</text>
       </register>
       <register name="4" type="4">
+        <text>rom</text>
+      </register>
+      <register name="5" type="4">
         <text encoding="base64">ZnJvbSA=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="4">
+        <text encoding="base64">ZnJvbSA=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiVXBsb2FkIHN0YXJ0ZWQiKQo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>n</text>
       </register>
-      <register name="7" type="4">
-        <text>w</text>
-      </register>
-      <register name="8" type="4">
-        <text>o</text>
-      </register>
       <register name="9" type="4">
-        <text>D</text>
+        <text>w</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1158,7 +1158,6 @@
         <entry encoding="base64">XDxnZXRfc2FtcGxlX2RhdGFcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>270</entry>
         <entry>638</entry>
         <entry>178</entry>
         <entry>220</entry>
@@ -1177,6 +1176,7 @@
         <entry>81</entry>
         <entry>W</entry>
         <entry>179</entry>
+        <entry>195</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
