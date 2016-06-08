@@ -94,11 +94,12 @@
         <mark key="^" line="170" column="30" />
         <mark key="." line="170" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/sftpsync-py/tests/sftpsync_test.py" timestamp="1465382943342">
-        <mark key="'" line="57" column="0" />
-        <mark key="[" line="34" column="11" />
-        <mark key="]" line="34" column="11" />
-        <mark key="." line="34" column="11" />
+      <file name="$USER_HOME$/projects/sftpsync-py/tests/sftpsync_test.py" timestamp="1465383770683">
+        <mark key="'" line="59" column="27" />
+        <mark key="[" line="66" column="15" />
+        <mark key="]" line="66" column="15" />
+        <mark key="^" line="66" column="12" />
+        <mark key="." line="66" column="15" />
       </file>
       <file name="$USER_HOME$/projects/psongbook/sobo/psongbook.py" timestamp="1463491785021">
         <mark key="[" line="160" column="32" />
@@ -376,13 +377,13 @@
         <mark key="^" line="128" column="20" />
         <mark key="." line="127" column="72" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1465331275858">
+      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1465383833907">
         <mark key="b" line="196" column="8" />
         <mark key="'" line="747" column="48" />
-        <mark key="[" line="748" column="70" />
-        <mark key="]" line="749" column="55" />
-        <mark key="^" line="749" column="55" />
-        <mark key="." line="749" column="55" />
+        <mark key="[" line="763" column="57" />
+        <mark key="]" line="763" column="57" />
+        <mark key="^" line="763" column="57" />
+        <mark key="." line="763" column="57" />
       </file>
       <file name="$USER_HOME$/projects/imtools/imtools/thresholding_functions.py" timestamp="1463666926761">
         <mark key="'" line="85" column="4" />
@@ -449,7 +450,8 @@
         <mark key="." line="65" column="0" />
         <mark key="^" line="10" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/tests/sync_test.py" timestamp="1465382426398">
+      <file name="$USER_HOME$/projects/lisa/tests/sync_test.py" timestamp="1465383100388">
+        <mark key="'" line="49" column="31" />
         <mark key="[" line="51" column="0" />
         <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="0" />
@@ -670,11 +672,11 @@
         <mark key="." line="195" column="23" />
         <mark key="^" line="195" column="23" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/tests/skeleton_test.py" timestamp="1449567663255">
-        <mark key="[" line="14" column="7" />
-        <mark key="]" line="14" column="14" />
-        <mark key="^" line="14" column="14" />
-        <mark key="." line="14" column="14" />
+      <file name="$USER_HOME$/projects/lisa/tests/skeleton_test.py" timestamp="1465383548233">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="12" column="35" />
+        <mark key="^" line="12" column="34" />
+        <mark key="." line="12" column="34" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/histology_analyser.py" timestamp="1444738796915">
         <mark key="[" line="621" column="17" />
@@ -1008,8 +1010,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="0" filename="$USER_HOME$/projects/lisa/lisa/logWindow.py" />
-      <jump line="1338" column="27" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="1361" column="4" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="1565" column="9" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="1379" column="30" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
@@ -1108,46 +1108,48 @@
       <jump line="69" column="0" filename="$USER_HOME$/projects/lisa/tests/organ_segmentation_test.py" />
       <jump line="43" column="31" filename="$USER_HOME$/projects/lisa/tests/organ_segmentation_test.py" />
       <jump line="58" column="0" filename="$USER_HOME$/projects/sftpsync-py/tests/sftpsync_test.py" />
+      <jump line="49" column="31" filename="$USER_HOME$/projects/lisa/tests/sync_test.py" />
+      <jump line="59" column="27" filename="$USER_HOME$/projects/sftpsync-py/tests/sftpsync_test.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>skip</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBvcC5leGlzdHMoZHN0KToKICAgICAgICAgICAgc2h1dGlsLnJtdHJlZShkc3QpCg==</text>
+        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcKbG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoX19uYW1lX18pCg==</text>
       </register>
       <register name="1" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="4">
-        <text>self</text>
+        <text>+</text>
       </register>
       <register name="3" type="4">
-        <text>.</text>
+        <text encoding="base64">ZHN0IA==</text>
       </register>
       <register name="4" type="4">
-        <text>self</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="5" type="4">
-        <text>.</text>
+        <text>'</text>
       </register>
       <register name="6" type="4">
-        <text>self</text>
+        <text>\</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmKToK</text>
+      <register name="7" type="4">
+        <text>\</text>
       </register>
       <register name="8" type="4">
-        <text>.</text>
+        <text>'</text>
       </register>
       <register name="9" type="4">
-        <text>self</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
