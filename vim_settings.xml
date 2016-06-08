@@ -94,10 +94,9 @@
         <mark key="^" line="170" column="30" />
         <mark key="." line="170" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/sftpsync-py/tests/sftpsync_test.py" timestamp="1465332682130">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/projects/sftpsync-py/tests/sftpsync_test.py" timestamp="1465372014166">
+        <mark key="'" line="1" column="12" />
+        <mark key="[" line="45" column="59" />
       </file>
       <file name="$USER_HOME$/projects/psongbook/sobo/psongbook.py" timestamp="1463491785021">
         <mark key="[" line="160" column="32" />
@@ -1001,8 +1000,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="38" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
-      <jump line="284" column="28" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="282" column="66" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="14" column="0" filename="$USER_HOME$/projects/lisa/lisa/logWindow.py" />
       <jump line="60" column="0" filename="$USER_HOME$/projects/lisa/lisa/logWindow.py" />
@@ -1101,46 +1098,48 @@
       <jump line="199" column="15" filename="$USER_HOME$/projects/sftpsync-py/sftpsync/__init__.py" />
       <jump line="52" column="0" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="747" column="48" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="26" column="7" filename="$USER_HOME$/projects/sftpsync-py/tests/sftpsync_test.py" />
+      <jump line="1" column="12" filename="$USER_HOME$/projects/sftpsync-py/tests/sftpsync_test.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjIGh1ID0gc2Z0cC5zZnRwLmxpc3RkaXJfYXR0cigiZnJvbV9zZXJ2ZXIiKQo=</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X3N5bmMoc2VsZik6CiAgICAgICAgZnJvbSBzZnRwc3luYyBpbXBvcnQgU2Z0cAoKICAgICAgICBzcmMgPSAnZnJvbV9zZXJ2ZXIvJwogICAgICAgIGRzdCA9ICd0ZXN0X3RlbXAvJwogICAgICAgIHNmdHAgPSBTZnRwKCcxNDcuMjI4LjQ3LjE2MicsICdwYXVsJywgJ1A0dWwnKQoKICAgICAgICBkc3QgPSBvcC5leHBhbmR1c2VyKGRzdCkKICAgICAgICBzaHV0aWwucm10cmVlKGRzdCkKCiAgICAgICAgIyBXZSBkb24ndCB3YW50IHRvIGJhY2t1cCBldmVyeXRoaW5nCiAgICAgICAgZXhjbHVkZSA9IFtyJ15NdXNpYy8nLCByJ15WaWRlby8nXQogICAgICAgIHNmdHAuc3luYyhzcmMsIGRzdCwgZG93bmxvYWQ9VHJ1ZSwgZXhjbHVkZT1leGNsdWRlLCBkZWxldGU9RmFsc2UpCiAgICAgICAgc2VsZi5hc3NlcnRUcnVlKG9wLmV4aXN0cyhvcC5qb2luKGRzdCwidGVzdC50eHQiKSkpCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmVtb3RlZnJvbSA=</text>
+        <text>\</text>
       </register>
       <register name="/" type="4">
         <text>_output_datap</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3QgbG9jYWxmcm9tLmVuZHN3aXRoKCcvJyk6CiAgICAgICAgICAgIGxvY2FsZnJvbSArPSAnLycK</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X3N5bmMoc2VsZik6CiAgICAgICAgZnJvbSBzZnRwc3luYyBpbXBvcnQgU2Z0cAoKICAgICAgICBzcmMgPSAnZnJvbV9zZXJ2ZXIvJwogICAgICAgIGRzdCA9ICd0ZXN0X3RlbXAvJwogICAgICAgIHNmdHAgPSBTZnRwKCcxNDcuMjI4LjQ3LjE2MicsICdwYXVsJywgJ1A0dWwnKQoKICAgICAgICBkc3QgPSBvcC5leHBhbmR1c2VyKGRzdCkKICAgICAgICBzaHV0aWwucm10cmVlKGRzdCkKCiAgICAgICAgIyBXZSBkb24ndCB3YW50IHRvIGJhY2t1cCBldmVyeXRoaW5nCiAgICAgICAgZXhjbHVkZSA9IFtyJ15NdXNpYy8nLCByJ15WaWRlby8nXQogICAgICAgIHNmdHAuc3luYyhzcmMsIGRzdCwgZG93bmxvYWQ9VHJ1ZSwgZXhjbHVkZT1leGNsdWRlLCBkZWxldGU9RmFsc2UpCiAgICAgICAgc2VsZi5hc3NlcnRUcnVlKG9wLmV4aXN0cyhvcC5qb2luKGRzdCwidGVzdC50eHQiKSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIGh1ID0gc2Z0cC5zZnRwLmxpc3RkaXJfYXR0cigiZnJvbV9zZXJ2ZXIiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkaXJfbGlzdCA9IHNmdHAuc2Z0cC5saXN0ZGlyX2F0dHIoImZyb21fc2VydmVyIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">cmVtb3RlZnJvbSA=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBkc3QgPSBvcC5leHBhbmR1c2VyKGRzdCkK</text>
       </register>
-      <register name="4" type="4">
-        <text>from</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBkc3QgPSBvcC5leHBhbmR1c2VyKGRzdCkK</text>
       </register>
-      <register name="5" type="4">
-        <text>e</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>t</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBzcmMgPSAnZnJvbV9zZXJ2ZXJcXCcKICAgICAgICBkc3QgPSAndGVzdF90ZW1wLycK</text>
       </register>
-      <register name="7" type="4">
-        <text>o</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAjIHNyYyA9ICd0b19zZXJ2ZXInCg==</text>
       </register>
       <register name="8" type="4">
-        <text>m</text>
+        <text>\</text>
       </register>
       <register name="9" type="4">
-        <text>e</text>
+        <text>\</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
