@@ -282,9 +282,6 @@
         <mark key="^" line="43" column="7" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1465330653273">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/lisa/tests/dcmreaddata_test.py" timestamp="1464974819997">
         <mark key="a" line="62" column="36" />
         <mark key="'" line="26" column="1" />
@@ -433,11 +430,12 @@
         <mark key="." line="236" column="0" />
         <mark key="^" line="49" column="42" />
       </file>
-      <file name="$USER_HOME$/projects/skelet3d/examples/example03.py" timestamp="1465483241366">
-        <mark key="'" line="14" column="32" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/projects/skelet3d/examples/example03.py" timestamp="1465484102706">
+        <mark key="'" line="6" column="32" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="10" column="48" />
       </file>
       <file name="$USER_HOME$/projects/skelet3d/skelet3d/libfixer.py" timestamp="1464617490297">
         <mark key="'" line="110" column="21" />
@@ -599,11 +597,11 @@
         <mark key="^" line="15" column="0" />
         <mark key="." line="16" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/imtools/meta.yaml" timestamp="1463662263717">
-        <mark key="[" line="37" column="9" />
-        <mark key="]" line="37" column="11" />
-        <mark key="^" line="37" column="11" />
-        <mark key="." line="37" column="11" />
+      <file name="$USER_HOME$/projects/imtools/meta.yaml" timestamp="1465483899728">
+        <mark key="[" line="41" column="10" />
+        <mark key="]" line="42" column="8" />
+        <mark key="^" line="42" column="8" />
+        <mark key="." line="42" column="8" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/dataset.py" timestamp="1464974622531">
         <mark key="[" line="34" column="10" />
@@ -794,9 +792,6 @@
         <mark key="^" line="502" column="16" />
         <mark key="." line="502" column="16" />
       </file>
-      <file name="vim_settings.xml" timestamp="1465123778304">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/lisa/tests/convert_test.py" timestamp="1448963836835">
         <mark key="[" line="22" column="32" />
         <mark key="]" line="22" column="68" />
@@ -868,9 +863,6 @@
         <mark key="]" line="68" column="46" />
         <mark key="." line="326" column="63" />
         <mark key="^" line="326" column="63" />
-      </file>
-      <file name="$USER_HOME$/projects/lisa/tests/liver_segmentation_test.py" timestamp="1463740426210">
-        <mark key="[" line="26" column="16" />
       </file>
       <file name="$USER_HOME$/projects/psongbook/setup.py" timestamp="1463464617794">
         <mark key="[" line="46" column="14" />
@@ -1158,28 +1150,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGdlbl92dGtfdHJlZQo=</text>
+        <text encoding="base64">IwojIENvcHlyaWdodCDCqSAlWUVBUiUgJVVTRVIlIDwlTUFJTCU+CiMKIyBEaXN0cmlidXRlZCB1bmRlciB0ZXJtcyBvZiB0aGUgJUxJQ0VOU0UlIGxpY2Vuc2UuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IiIiCiVIRVJFJQoiIiIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">b3MucGF0aC5leGlzdHMoZm5fb3V0KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aWYgb3MucGF0aC5leGlzdHMoZm5fb3V0KToKICAgIHNodXRpbC5ybXRyZWUoZm5fb3V0KQo=</text>
+        <text encoding="base64">aW1wb3J0IGdlbl92dGtfdHJlZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG9zCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBDcmVhdGUgZG9udXQgc2hhcGUKdm9sdW1lX2RhdGEgPSBucC56ZXJvcyhbMywgNywgOV0sIGR0eXBlPW5wLmludCkKdm9sdW1lX2RhdGEgWzosIDosIDE6M10gPSAxCnZvbHVtZV9kYXRhIFs6LCA1LCAyOjldID0gMQp2b2x1bWVfZGF0YSBbOiwgMDo3LCA1XSA9IDEKc2tlbGV0ID0gc2tlbGV0M2Quc2tlbGV0M2Qodm9sdW1lX2RhdGEpCgpza2FuID0gc2tlbGV0M2Quc2tlbGV0b25fYW5hbHlzZXIuU2tlbGV0b25BbmFseXNlcihza2VsZXQsIHZvbHVtZV9kYXRhPXZvbHVtZV9kYXRhLCB2b3hlbHNpemVfbW09WzEsMSwxXSkKc3RhdHMgPSBza2FuLnNrZWxldG9uX2FuYWx5c2lzKCkKZWRnZV9udW1iZXIgPSAxCnByaW50IHN0YXRzW2VkZ2VfbnVtYmVyXVsncmFkaXVzX21tJ10KCnZ0a2cgPSBpbXRvb2xzLnRyZWVfcHJvY2Vzc2luZy5UcmVlR2VuZXJhdG9yKCd2dGsnKQp2dGtnLnRyZWVfZGF0YSA9IHN0YXRzCnZ0a2cuZ2VuZXJhdGVUcmVlKCkKdnRrZy5zYXZlVG9GaWxlKCd0cmVlLnZ0aycsICd2dGsnKQo=</text>
+        <text encoding="base64">b3MucGF0aC5leGlzdHMoZm5fb3V0KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aWYgb3MucGF0aC5leGlzdHMoZm5fb3V0KToKICAgIHNodXRpbC5ybXRyZWUoZm5fb3V0KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9zCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
