@@ -214,6 +214,13 @@
         <mark key="." line="96" column="0" />
         <mark key="^" line="56" column="35" />
       </file>
+      <file name="$USER_HOME$/projects/imtools/imtools/tree_processing.py" timestamp="1465481786672">
+        <mark key="'" line="46" column="20" />
+        <mark key="[" line="46" column="20" />
+        <mark key="]" line="46" column="19" />
+        <mark key="^" line="46" column="19" />
+        <mark key="." line="46" column="19" />
+      </file>
       <file name="$USER_HOME$/projects/lisa/installer.bat" timestamp="1465140928844">
         <mark key="[" line="1" column="39" />
         <mark key="]" line="1" column="47" />
@@ -423,11 +430,12 @@
         <mark key="." line="236" column="0" />
         <mark key="^" line="49" column="42" />
       </file>
-      <file name="$USER_HOME$/projects/skelet3d/examples/example03.py" timestamp="1465480398084">
-        <mark key="[" line="30" column="22" />
-        <mark key="]" line="31" column="18" />
-        <mark key="." line="31" column="18" />
-        <mark key="^" line="31" column="18" />
+      <file name="$USER_HOME$/projects/skelet3d/examples/example03.py" timestamp="1465481832064">
+        <mark key="'" line="33" column="31" />
+        <mark key="[" line="33" column="26" />
+        <mark key="]" line="33" column="31" />
+        <mark key="." line="33" column="31" />
+        <mark key="^" line="33" column="31" />
       </file>
       <file name="$USER_HOME$/projects/skelet3d/skelet3d/libfixer.py" timestamp="1464617490297">
         <mark key="'" line="110" column="21" />
@@ -1035,8 +1043,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="31" filename="$USER_HOME$/projects/lisa/lisa/logWindow.py" />
-      <jump line="953" column="0" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="27" column="51" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="958" column="8" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="106" column="28" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
@@ -1135,61 +1141,62 @@
       <jump line="429" column="24" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="18" column="9" filename="$USER_HOME$/projects/skelet3d/examples/example02.py" />
       <jump line="134" column="60" filename="$USER_HOME$/projects/skelet3d/skelet3d/skeleton_analyser.py" />
+      <jump line="46" column="20" filename="$USER_HOME$/projects/imtools/imtools/tree_processing.py" />
+      <jump line="33" column="31" filename="$USER_HOME$/projects/skelet3d/examples/example03.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>skdst</text>
+        <text>save</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZGF0YSBbOiwgOiwgMTozXSA9IDEK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>e</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>]</text>
       </register>
-      <register name="4" type="4">
-        <text>'</text>
-      </register>
       <register name="5" type="4">
-        <text>lengthEstimation</text>
+        <text>'</text>
       </register>
       <register name="6" type="4">
-        <text>'</text>
+        <text>lengthEstimation</text>
       </register>
       <register name="7" type="4">
-        <text>,</text>
+        <text>'</text>
       </register>
       <register name="8" type="4">
-        <text>[</text>
+        <text>,</text>
       </register>
       <register name="9" type="4">
-        <text>length</text>
+        <text>[</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>skdst</last-search>
+      <last-search>save</last-search>
       <last-offset />
-      <last-pattern>skdst</last-pattern>
+      <last-pattern>save</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>cbLog</entry>
         <entry encoding="base64">XDxidG5Mb2dcPg==</entry>
         <entry encoding="base64">XDxzbHVycFw+</entry>
         <entry encoding="base64">XDxMb2dFbnRyeU1vZGVsXD4=</entry>
@@ -1209,6 +1216,7 @@
         <entry>make_icon</entry>
         <entry encoding="base64">XDxnZXRfc2FtcGxlX2RhdGFcPg==</entry>
         <entry>skdst</entry>
+        <entry>save</entry>
       </history-search>
       <history-cmd>
         <entry>638</entry>
