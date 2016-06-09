@@ -40,11 +40,6 @@
         <mark key="^" line="61" column="18" />
         <mark key="." line="61" column="18" />
       </file>
-      <file name="/a.dummy" timestamp="1465329892683">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/dicom2fem/dicom2fem/vtk2stl.py" timestamp="1448959466140">
         <mark key="[" line="22" column="23" />
         <mark key="]" line="22" column="23" />
@@ -214,12 +209,12 @@
         <mark key="." line="96" column="0" />
         <mark key="^" line="56" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/imtools/imtools/tree_processing.py" timestamp="1465481921040">
-        <mark key="'" line="154" column="16" />
-        <mark key="[" line="216" column="35" />
-        <mark key="]" line="216" column="42" />
-        <mark key="^" line="216" column="42" />
-        <mark key="." line="216" column="42" />
+      <file name="$USER_HOME$/projects/imtools/imtools/tree_processing.py" timestamp="1465483764129">
+        <mark key="'" line="152" column="16" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="214" column="42" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/projects/lisa/installer.bat" timestamp="1465140928844">
         <mark key="[" line="1" column="39" />
@@ -372,12 +367,12 @@
         <mark key="^" line="136" column="25" />
         <mark key="." line="136" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/skelet3d/README.md" timestamp="1464957289194">
+      <file name="$USER_HOME$/projects/skelet3d/README.md" timestamp="1465483681712">
         <mark key="'" line="21" column="101" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-        <mark key="^" line="21" column="101" />
+        <mark key="[" line="102" column="4" />
+        <mark key="]" line="102" column="57" />
+        <mark key="." line="102" column="57" />
+        <mark key="^" line="102" column="57" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/config_default.py" timestamp="1461677884663">
         <mark key="[" line="44" column="37" />
@@ -1004,11 +999,6 @@
         <mark key="^" line="128" column="20" />
         <mark key="." line="127" column="72" />
       </file>
-      <file name="$USER_HOME$/projects/imtools/imtools/vesseltree_export.py" timestamp="1464961839873">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/imtools/setup.py" timestamp="1463661306421">
         <mark key="[" line="57" column="61" />
         <mark key="]" line="57" column="61" />
@@ -1168,28 +1158,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">b3MucGF0aC5leGlzdHMoZm5fb3V0KQo=</text>
+        <text encoding="base64">aW1wb3J0IGdlbl92dGtfdHJlZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aWYgb3MucGF0aC5leGlzdHMoZm5fb3V0KToKICAgIHNodXRpbC5ybXRyZWUoZm5fb3V0KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG9zCg==</text>
+        <text encoding="base64">b3MucGF0aC5leGlzdHMoZm5fb3V0KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBDcmVhdGUgZG9udXQgc2hhcGUKdm9sdW1lX2RhdGEgPSBucC56ZXJvcyhbMywgNywgOV0sIGR0eXBlPW5wLmludCkKdm9sdW1lX2RhdGEgWzosIDosIDE6M10gPSAxCnZvbHVtZV9kYXRhIFs6LCA1LCAyOjldID0gMQp2b2x1bWVfZGF0YSBbOiwgMDo3LCA1XSA9IDEKc2tlbGV0ID0gc2tlbGV0M2Quc2tlbGV0M2Qodm9sdW1lX2RhdGEpCgpza2FuID0gc2tlbGV0M2Quc2tlbGV0b25fYW5hbHlzZXIuU2tlbGV0b25BbmFseXNlcihza2VsZXQsIHZvbHVtZV9kYXRhPXZvbHVtZV9kYXRhLCB2b3hlbHNpemVfbW09WzEsMSwxXSkKc3RhdHMgPSBza2FuLnNrZWxldG9uX2FuYWx5c2lzKCkKZWRnZV9udW1iZXIgPSAxCnByaW50IHN0YXRzW2VkZ2VfbnVtYmVyXVsncmFkaXVzX21tJ10KCnZ0a2cgPSBpbXRvb2xzLnRyZWVfcHJvY2Vzc2luZy5UcmVlR2VuZXJhdG9yKCd2dGsnKQp2dGtnLnRyZWVfZGF0YSA9IHN0YXRzCnZ0a2cuZ2VuZXJhdGVUcmVlKCkKdnRrZy5zYXZlVG9GaWxlKCd0cmVlLnZ0aycsICd2dGsnKQo=</text>
+        <text encoding="base64">aWYgb3MucGF0aC5leGlzdHMoZm5fb3V0KToKICAgIHNodXRpbC5ybXRyZWUoZm5fb3V0KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9zCg==</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">IyBDcmVhdGUgZG9udXQgc2hhcGUKdm9sdW1lX2RhdGEgPSBucC56ZXJvcyhbMywgNywgOV0sIGR0eXBlPW5wLmludCkKdm9sdW1lX2RhdGEgWzosIDosIDE6M10gPSAxCnZvbHVtZV9kYXRhIFs6LCA1LCAyOjldID0gMQp2b2x1bWVfZGF0YSBbOiwgMDo3LCA1XSA9IDEKc2tlbGV0ID0gc2tlbGV0M2Quc2tlbGV0M2Qodm9sdW1lX2RhdGEpCgpza2FuID0gc2tlbGV0M2Quc2tlbGV0b25fYW5hbHlzZXIuU2tlbGV0b25BbmFseXNlcihza2VsZXQsIHZvbHVtZV9kYXRhPXZvbHVtZV9kYXRhLCB2b3hlbHNpemVfbW09WzEsMSwxXSkKc3RhdHMgPSBza2FuLnNrZWxldG9uX2FuYWx5c2lzKCkKZWRnZV9udW1iZXIgPSAxCnByaW50IHN0YXRzW2VkZ2VfbnVtYmVyXVsncmFkaXVzX21tJ10KCnZ0a2cgPSBpbXRvb2xzLnRyZWVfcHJvY2Vzc2luZy5UcmVlR2VuZXJhdG9yKCd2dGsnKQp2dGtnLnRyZWVfZGF0YSA9IHN0YXRzCnZ0a2cuZ2VuZXJhdGVUcmVlKCkKdnRrZy5zYXZlVG9GaWxlKCd0cmVlLnZ0aycsICd2dGsnKQo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>'tree.vtk'</text>
-      </register>
-      <register name="9" type="4">
-        <text>'tree.vtk'</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
