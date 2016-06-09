@@ -423,6 +423,12 @@
         <mark key="." line="236" column="0" />
         <mark key="^" line="49" column="42" />
       </file>
+      <file name="$USER_HOME$/projects/skelet3d/examples/example03.py" timestamp="1465478675388">
+        <mark key="[" line="14" column="14" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/skelet3d/skelet3d/libfixer.py" timestamp="1464617490297">
         <mark key="'" line="110" column="21" />
         <mark key="[" line="88" column="42" />
@@ -1130,8 +1136,8 @@
       <jump line="134" column="60" filename="$USER_HOME$/projects/skelet3d/skelet3d/skeleton_analyser.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>]</text>
@@ -1142,32 +1148,32 @@
       <register name="0" type="2">
         <text encoding="base64">ZGF0YSBbOiwgOiwgMTozXSA9IDEK</text>
       </register>
-      <register name="1" type="4">
-        <text>]</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>'</text>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
       </register>
       <register name="3" type="4">
-        <text>lengthEstimation</text>
+        <text>]</text>
       </register>
       <register name="4" type="4">
         <text>'</text>
       </register>
       <register name="5" type="4">
-        <text>,</text>
+        <text>lengthEstimation</text>
       </register>
       <register name="6" type="4">
-        <text>[</text>
+        <text>'</text>
       </register>
       <register name="7" type="4">
+        <text>,</text>
+      </register>
+      <register name="8" type="4">
+        <text>[</text>
+      </register>
+      <register name="9" type="4">
         <text>length</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">IyBpbXBvcnQgc2tlbGV0M2Quc2tlbGV0b25fYW5hbHlzZXIK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
