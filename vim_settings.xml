@@ -214,12 +214,12 @@
         <mark key="." line="96" column="0" />
         <mark key="^" line="56" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/imtools/imtools/tree_processing.py" timestamp="1465481786672">
-        <mark key="'" line="46" column="20" />
-        <mark key="[" line="46" column="20" />
-        <mark key="]" line="46" column="19" />
-        <mark key="^" line="46" column="19" />
-        <mark key="." line="46" column="19" />
+      <file name="$USER_HOME$/projects/imtools/imtools/tree_processing.py" timestamp="1465481921040">
+        <mark key="'" line="154" column="16" />
+        <mark key="[" line="216" column="35" />
+        <mark key="]" line="216" column="42" />
+        <mark key="^" line="216" column="42" />
+        <mark key="." line="216" column="42" />
       </file>
       <file name="$USER_HOME$/projects/lisa/installer.bat" timestamp="1465140928844">
         <mark key="[" line="1" column="39" />
@@ -258,6 +258,14 @@
         <mark key="]" line="203" column="0" />
         <mark key="^" line="202" column="30" />
         <mark key="." line="203" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/imtools/tests/tube_tree_test.py" timestamp="1465483164214">
+        <mark key="a" line="42" column="0" />
+        <mark key="'" line="11" column="9" />
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="71" column="29" />
+        <mark key="^" line="71" column="28" />
+        <mark key="." line="72" column="0" />
       </file>
       <file name="$USER_HOME$/projects/discon/meta.yaml" timestamp="1463300480628">
         <mark key="'" line="0" column="0" />
@@ -422,20 +430,19 @@
         <mark key="^" line="2" column="42" />
         <mark key="." line="2" column="42" />
       </file>
-      <file name="$USER_HOME$/projects/imtools/imtools/gen_vtk_tree.py" timestamp="1465117692831">
+      <file name="$USER_HOME$/projects/imtools/imtools/gen_vtk_tree.py" timestamp="1465483418575">
         <mark key="a" line="232" column="4" />
-        <mark key="'" line="51" column="8" />
+        <mark key="'" line="24" column="13" />
         <mark key="[" line="236" column="0" />
         <mark key="]" line="236" column="41" />
         <mark key="." line="236" column="0" />
         <mark key="^" line="49" column="42" />
       </file>
-      <file name="$USER_HOME$/projects/skelet3d/examples/example03.py" timestamp="1465481832064">
-        <mark key="'" line="33" column="31" />
-        <mark key="[" line="33" column="26" />
-        <mark key="]" line="33" column="31" />
-        <mark key="." line="33" column="31" />
-        <mark key="^" line="33" column="31" />
+      <file name="$USER_HOME$/projects/skelet3d/examples/example03.py" timestamp="1465483241366">
+        <mark key="'" line="14" column="32" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/projects/skelet3d/skelet3d/libfixer.py" timestamp="1464617490297">
         <mark key="'" line="110" column="21" />
@@ -1043,21 +1050,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="51" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
-      <jump line="958" column="8" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
-      <jump line="106" column="28" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
-      <jump line="102" column="8" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
-      <jump line="104" column="8" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
-      <jump line="105" column="50" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
-      <jump line="332" column="23" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
-      <jump line="820" column="54" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
-      <jump line="486" column="21" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
-      <jump line="21" column="101" filename="$USER_HOME$/projects/skelet3d/README.md" />
-      <jump line="747" column="24" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="756" column="33" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="1321" column="26" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="787" column="26" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="595" column="58" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
       <jump line="631" column="13" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
       <jump line="571" column="8" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
       <jump line="1362" column="40" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
@@ -1143,64 +1135,75 @@
       <jump line="134" column="60" filename="$USER_HOME$/projects/skelet3d/skelet3d/skeleton_analyser.py" />
       <jump line="46" column="20" filename="$USER_HOME$/projects/imtools/imtools/tree_processing.py" />
       <jump line="33" column="31" filename="$USER_HOME$/projects/skelet3d/examples/example03.py" />
+      <jump line="154" column="16" filename="$USER_HOME$/projects/imtools/imtools/tree_processing.py" />
+      <jump line="22" column="27" filename="$USER_HOME$/projects/imtools/imtools/gen_vtk_tree.py" />
+      <jump line="23" column="13" filename="$USER_HOME$/projects/imtools/imtools/gen_vtk_tree.py" />
+      <jump line="47" column="0" filename="$USER_HOME$/projects/imtools/tests/tube_tree_test.py" />
+      <jump line="73" column="0" filename="$USER_HOME$/projects/imtools/tests/tube_tree_test.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/projects/imtools/tests/tube_tree_test.py" />
+      <jump line="27" column="33" filename="$USER_HOME$/projects/imtools/tests/tube_tree_test.py" />
+      <jump line="37" column="33" filename="$USER_HOME$/projects/imtools/tests/tube_tree_test.py" />
+      <jump line="68" column="33" filename="$USER_HOME$/projects/imtools/tests/tube_tree_test.py" />
+      <jump line="80" column="34" filename="$USER_HOME$/projects/imtools/tests/tube_tree_test.py" />
+      <jump line="81" column="35" filename="$USER_HOME$/projects/imtools/tests/tube_tree_test.py" />
+      <jump line="42" column="0" filename="$USER_HOME$/projects/imtools/tests/tube_tree_test.py" />
+      <jump line="11" column="9" filename="$USER_HOME$/projects/imtools/tests/tube_tree_test.py" />
+      <jump line="15" column="32" filename="$USER_HOME$/projects/skelet3d/examples/example03.py" />
+      <jump line="24" column="13" filename="$USER_HOME$/projects/imtools/imtools/gen_vtk_tree.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>e</text>
-      </register>
-      <register name="-" type="4">
-        <text>e</text>
-      </register>
-      <register name="/" type="4">
-        <text>save</text>
-      </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZGF0YSBbOiwgOiwgMTozXSA9IDEK</text>
-      </register>
-      <register name="1" type="4">
-        <text>e</text>
-      </register>
-      <register name="2" type="2">
+      <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="-" type="4">
+        <text>'tree.vtk'</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDx2b3hlbHNpemVfbW1cPg==</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBmbl9vdXQgPSAndHJlZS52a3QnCiAgICAgICAgaWYgb3MucGF0aC5leGlzdHMoZm5fb3V0KToKICAgICAgICAgICAgc2h1dGlsLnJtdHJlZShmbl9vdXQpCgogICAgICAgIHZvbHVtZV9kYXRhID0gbnAuemVyb3MoWzMsIDcsIDldLCBkdHlwZT1ucC5pbnQpCiAgICAgICAgdm9sdW1lX2RhdGEgWzosIDosIDE6M10gPSAxCiAgICAgICAgdm9sdW1lX2RhdGEgWzosIDUsIDI6OV0gPSAxCiAgICAgICAgdm9sdW1lX2RhdGEgWzosIDA6NywgNV0gPSAxCiAgICAgICAgc2tlbGV0ID0gc2tlbGV0M2Quc2tlbGV0M2Qodm9sdW1lX2RhdGEpCgogICAgICAgIHNrYW4gPSBza2VsZXQzZC5za2VsZXRvbl9hbmFseXNlci5Ta2VsZXRvbkFuYWx5c2VyKHNrZWxldCwgdm9sdW1lX2RhdGE9dm9sdW1lX2RhdGEsIHZveGVsc2l6ZV9tbT1bMSwxLDFdKQogICAgICAgIHN0YXRzID0gc2thbi5za2VsZXRvbl9hbmFseXNpcygpCgogICAgICAgIHR2ZyA9IFRyZWVHZW5lcmF0b3IoJ3Z0aycpCiAgICAgICAgdHZnLnZveGVsc2l6ZV9tbSA9IFsxLCAxLCAxXQogICAgICAgIHR2Zy5zaGFwZSA9IFsxMDAsIDEwMCwgMTAwXQogICAgICAgIHR2Zy50cmVlX2RhdGEgPSBzdGF0cwogICAgICAgIG91dHB1dCA9IHR2Zy5nZW5lcmF0ZVRyZWUoKSAjIG5vcWEKICAgICAgICB0dmcuc2F2ZVRvRmlsZShmbl9vdXQpCiAgICAgICAgb3MucGF0aC5leGlzdHMoZm5fb3V0KQo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">b3MucGF0aC5leGlzdHMoZm5fb3V0KQo=</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
+        <text encoding="base64">aWYgb3MucGF0aC5leGlzdHMoZm5fb3V0KToKICAgIHNodXRpbC5ybXRyZWUoZm5fb3V0KQo=</text>
       </register>
-      <register name="4" type="4">
-        <text>]</text>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IG9zCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>'</text>
+      <register name="5" type="2">
+        <text encoding="base64">IyBDcmVhdGUgZG9udXQgc2hhcGUKdm9sdW1lX2RhdGEgPSBucC56ZXJvcyhbMywgNywgOV0sIGR0eXBlPW5wLmludCkKdm9sdW1lX2RhdGEgWzosIDosIDE6M10gPSAxCnZvbHVtZV9kYXRhIFs6LCA1LCAyOjldID0gMQp2b2x1bWVfZGF0YSBbOiwgMDo3LCA1XSA9IDEKc2tlbGV0ID0gc2tlbGV0M2Quc2tlbGV0M2Qodm9sdW1lX2RhdGEpCgpza2FuID0gc2tlbGV0M2Quc2tlbGV0b25fYW5hbHlzZXIuU2tlbGV0b25BbmFseXNlcihza2VsZXQsIHZvbHVtZV9kYXRhPXZvbHVtZV9kYXRhLCB2b3hlbHNpemVfbW09WzEsMSwxXSkKc3RhdHMgPSBza2FuLnNrZWxldG9uX2FuYWx5c2lzKCkKZWRnZV9udW1iZXIgPSAxCnByaW50IHN0YXRzW2VkZ2VfbnVtYmVyXVsncmFkaXVzX21tJ10KCnZ0a2cgPSBpbXRvb2xzLnRyZWVfcHJvY2Vzc2luZy5UcmVlR2VuZXJhdG9yKCd2dGsnKQp2dGtnLnRyZWVfZGF0YSA9IHN0YXRzCnZ0a2cuZ2VuZXJhdGVUcmVlKCkKdnRrZy5zYXZlVG9GaWxlKCd0cmVlLnZ0aycsICd2dGsnKQo=</text>
       </register>
-      <register name="6" type="4">
-        <text>lengthEstimation</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>'</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="4">
-        <text>,</text>
+        <text>'tree.vtk'</text>
       </register>
       <register name="9" type="4">
-        <text>[</text>
+        <text>'tree.vtk'</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>save</last-search>
+      <last-search encoding="base64">XDx2b3hlbHNpemVfbW1cPg==</last-search>
       <last-offset />
-      <last-pattern>save</last-pattern>
+      <last-pattern encoding="base64">XDx2b3hlbHNpemVfbW1cPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxidG5Mb2dcPg==</entry>
-        <entry encoding="base64">XDxzbHVycFw+</entry>
-        <entry encoding="base64">XDxMb2dFbnRyeU1vZGVsXD4=</entry>
-        <entry>appendR</entry>
         <entry>addIt</entry>
         <entry>file</entry>
         <entry>menu</entry>
@@ -1217,6 +1220,10 @@
         <entry encoding="base64">XDxnZXRfc2FtcGxlX2RhdGFcPg==</entry>
         <entry>skdst</entry>
         <entry>save</entry>
+        <entry encoding="base64">XDxzaGFwZVw+</entry>
+        <entry encoding="base64">XDxkYXRhM2RcPg==</entry>
+        <entry encoding="base64">XDxwYXRoX3RvX3NjcmlwdFw+</entry>
+        <entry encoding="base64">XDx2b3hlbHNpemVfbW1cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>638</entry>
