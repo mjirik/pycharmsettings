@@ -131,6 +131,12 @@
         <mark key="." line="61" column="37" />
         <mark key="^" line="61" column="37" />
       </file>
+      <file name="$USER_HOME$/projects/skelet3d/skelet3d/__init__.py" timestamp="1465558690838">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/bodynavigation/bodynavigation/body_navigation.py" timestamp="1459337721000">
         <mark key="'" line="267" column="55" />
         <mark key="[" line="353" column="41" />
@@ -449,6 +455,13 @@
         <mark key="." line="88" column="42" />
         <mark key="^" line="88" column="42" />
       </file>
+      <file name="$USER_HOME$/projects/skelet3d/skelet3d/gt_volume.py" timestamp="1465559693912">
+        <mark key="'" line="120" column="0" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="120" column="23" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/lisa/requirements_conda.txt" timestamp="1464092446357">
         <mark key="[" line="3" column="2" />
         <mark key="]" line="4" column="29" />
@@ -546,8 +559,8 @@
         <mark key="^" line="621" column="25" />
         <mark key="." line="621" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/skelet3d/setup.py" timestamp="1446541768915">
-        <mark key="'" line="57" column="4" />
+      <file name="$USER_HOME$/projects/skelet3d/setup.py" timestamp="1465559373695">
+        <mark key="'" line="62" column="16" />
         <mark key="[" line="1" column="39" />
         <mark key="]" line="2" column="0" />
         <mark key="^" line="2" column="0" />
@@ -633,11 +646,11 @@
         <mark key="^" line="25" column="42" />
         <mark key="." line="25" column="42" />
       </file>
-      <file name="$USER_HOME$/projects/skelet3d/tests/tube_tree_test.py" timestamp="1465554517112">
-        <mark key="[" line="15" column="5" />
-        <mark key="]" line="15" column="12" />
-        <mark key="." line="15" column="12" />
-        <mark key="^" line="15" column="12" />
+      <file name="$USER_HOME$/projects/skelet3d/tests/tube_tree_test.py" timestamp="1465560071497">
+        <mark key="[" line="61" column="29" />
+        <mark key="]" line="61" column="29" />
+        <mark key="^" line="61" column="20" />
+        <mark key="." line="61" column="29" />
       </file>
       <file name="$USER_HOME$/projects/sed3/tests/sed_qt_test.py" timestamp="1454931451217">
         <mark key="[" line="14" column="80" />
@@ -670,8 +683,13 @@
         <mark key="." line="33" column="20" />
         <mark key="^" line="33" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/skelet3d/skelet3d/skeleton_analyser.py" timestamp="1465398455516">
-        <mark key="'" line="134" column="60" />
+      <file name="$USER_HOME$/projects/skelet3d/skelet3d/skeleton_analyser.py" timestamp="1465560469197">
+        <mark key="a" line="527" column="28" />
+        <mark key="'" line="362" column="10" />
+        <mark key="[" line="62" column="68" />
+        <mark key="]" line="62" column="68" />
+        <mark key="." line="62" column="68" />
+        <mark key="^" line="62" column="68" />
       </file>
       <file name="$USER_HOME$/projects/quaha/quaha/histology_report.py" timestamp="1445327745987">
         <mark key="[" line="15" column="0" />
@@ -766,9 +784,6 @@
         <mark key="]" line="33" column="8" />
         <mark key="^" line="27" column="68" />
         <mark key="." line="33" column="8" />
-      </file>
-      <file name="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" timestamp="1464799276232">
-        <mark key="'" line="571" column="8" />
       </file>
       <file name="$USER_HOME$/projects/imtools/imtools/thresholding_functions.py" timestamp="1463666926761">
         <mark key="'" line="85" column="4" />
@@ -977,7 +992,7 @@
         <mark key="." line="195" column="23" />
         <mark key="^" line="195" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1465484107659">
+      <file name="/Dummy.txt" timestamp="1465561139583">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/io3d/io3d/misc.py" timestamp="1453295785375">
@@ -1057,39 +1072,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="571" column="8" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
-      <jump line="1362" column="40" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
-      <jump line="1580" column="19" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
-      <jump line="1624" column="16" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
-      <jump line="1626" column="20" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
-      <jump line="1586" column="19" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
-      <jump line="40" column="2" filename="$USER_HOME$/projects/lisa/tests/ha_gui_test.py" />
-      <jump line="130" column="41" filename="$USER_HOME$/projects/lisa/tests/histology_test.py" />
-      <jump line="15" column="18" filename="$USER_HOME$/projects/lisa/tests/histology_test.py" />
-      <jump line="234" column="56" filename="$USER_HOME$/projects/lisa/mysetup.py" />
-      <jump line="62" column="36" filename="$USER_HOME$/projects/lisa/tests/dcmreaddata_test.py" />
-      <jump line="26" column="1" filename="$USER_HOME$/projects/lisa/tests/dcmreaddata_test.py" />
-      <jump line="203" column="31" filename="$USER_HOME$/projects/lisa/tests/experiments_test.py" />
-      <jump line="24" column="19" filename="$USER_HOME$/projects/lisa/tests/experiments_test.py" />
-      <jump line="34" column="20" filename="$USER_HOME$/projects/lisa/tests/experiments_test.py" />
-      <jump line="45" column="43" filename="$USER_HOME$/projects/lisa/tests/experiments_test.py" />
-      <jump line="13" column="2" filename="$USER_HOME$/projects/lisa/lisa/liver_segmentation_cerveny.py" />
-      <jump line="179" column="32" filename="$USER_HOME$/projects/lisa/lisa/liver_segmentation_cerveny.py" />
-      <jump line="1006" column="18" filename="$USER_HOME$/projects/lisa/lisa/liver_segmentation_cerveny.py" />
-      <jump line="213" column="9" filename="$USER_HOME$/projects/lisa/lisa/experiments.py" />
-      <jump line="58" column="13" filename="$USER_HOME$/projects/imtools/tests/histology_test.py" />
-      <jump line="16" column="28" filename="$USER_HOME$/projects/imtools/tests/histology_test.py" />
-      <jump line="146" column="0" filename="$USER_HOME$/projects/imtools/tests/histology_test.py" />
-      <jump line="15" column="15" filename="$USER_HOME$/projects/imtools/tests/histology_test.py" />
-      <jump line="167" column="0" filename="$USER_HOME$/projects/lisa/tests/liver_segmentation_cerveny_test.py" />
-      <jump line="125" column="3" filename="$USER_HOME$/projects/lisa/tests/liver_segmentation_cerveny_test.py" />
-      <jump line="50" column="32" filename="$USER_HOME$/projects/lisa/tests/organ_segmentation_test.py" />
-      <jump line="422" column="32" filename="$USER_HOME$/projects/lisa/tests/organ_segmentation_test.py" />
-      <jump line="57" column="32" filename="$USER_HOME$/projects/lisa/tests/organ_segmentation_test.py" />
-      <jump line="117" column="14" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
-      <jump line="1613" column="9" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
-      <jump line="1656" column="15" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
-      <jump line="1657" column="16" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="1663" column="21" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="1250" column="29" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="325" column="0" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
@@ -1157,64 +1139,93 @@
       <jump line="15" column="32" filename="$USER_HOME$/projects/skelet3d/examples/example03.py" />
       <jump line="24" column="13" filename="$USER_HOME$/projects/imtools/imtools/gen_vtk_tree.py" />
       <jump line="16" column="7" filename="$USER_HOME$/projects/skelet3d/skelet3d/tree_processing.py" />
+      <jump line="62" column="16" filename="$USER_HOME$/projects/skelet3d/setup.py" />
+      <jump line="19" column="7" filename="$USER_HOME$/projects/skelet3d/skelet3d/gt_volume.py" />
+      <jump line="121" column="0" filename="$USER_HOME$/projects/skelet3d/skelet3d/gt_volume.py" />
+      <jump line="572" column="28" filename="$USER_HOME$/projects/skelet3d/skelet3d/skeleton_analyser.py" />
+      <jump line="527" column="28" filename="$USER_HOME$/projects/skelet3d/skelet3d/skeleton_analyser.py" />
+      <jump line="596" column="23" filename="$USER_HOME$/projects/skelet3d/skelet3d/skeleton_analyser.py" />
+      <jump line="988" column="29" filename="$USER_HOME$/projects/skelet3d/skelet3d/skeleton_analyser.py" />
+      <jump line="1056" column="42" filename="$USER_HOME$/projects/skelet3d/skelet3d/skeleton_analyser.py" />
+      <jump line="1104" column="62" filename="$USER_HOME$/projects/skelet3d/skelet3d/skeleton_analyser.py" />
+      <jump line="1205" column="48" filename="$USER_HOME$/projects/skelet3d/skelet3d/skeleton_analyser.py" />
+      <jump line="62" column="68" filename="$USER_HOME$/projects/skelet3d/skelet3d/skeleton_analyser.py" />
+      <jump line="366" column="10" filename="$USER_HOME$/projects/skelet3d/skelet3d/skeleton_analyser.py" />
+      <jump line="380" column="10" filename="$USER_HOME$/projects/skelet3d/skelet3d/skeleton_analyser.py" />
+      <jump line="381" column="10" filename="$USER_HOME$/projects/skelet3d/skelet3d/skeleton_analyser.py" />
+      <jump line="410" column="63" filename="$USER_HOME$/projects/skelet3d/skelet3d/skeleton_analyser.py" />
+      <jump line="436" column="10" filename="$USER_HOME$/projects/skelet3d/skelet3d/skeleton_analyser.py" />
+      <jump line="437" column="10" filename="$USER_HOME$/projects/skelet3d/skelet3d/skeleton_analyser.py" />
+      <jump line="473" column="14" filename="$USER_HOME$/projects/skelet3d/skelet3d/skeleton_analyser.py" />
+      <jump line="485" column="10" filename="$USER_HOME$/projects/skelet3d/skelet3d/skeleton_analyser.py" />
+      <jump line="497" column="10" filename="$USER_HOME$/projects/skelet3d/skelet3d/skeleton_analyser.py" />
+      <jump line="614" column="39" filename="$USER_HOME$/projects/skelet3d/skelet3d/skeleton_analyser.py" />
+      <jump line="699" column="13" filename="$USER_HOME$/projects/skelet3d/skelet3d/skeleton_analyser.py" />
+      <jump line="701" column="13" filename="$USER_HOME$/projects/skelet3d/skelet3d/skeleton_analyser.py" />
+      <jump line="818" column="14" filename="$USER_HOME$/projects/skelet3d/skelet3d/skeleton_analyser.py" />
+      <jump line="830" column="14" filename="$USER_HOME$/projects/skelet3d/skelet3d/skeleton_analyser.py" />
+      <jump line="1076" column="12" filename="$USER_HOME$/projects/skelet3d/skelet3d/skeleton_analyser.py" />
+      <jump line="1081" column="10" filename="$USER_HOME$/projects/skelet3d/skelet3d/skeleton_analyser.py" />
+      <jump line="338" column="14" filename="$USER_HOME$/projects/skelet3d/skelet3d/skeleton_analyser.py" />
+      <jump line="341" column="14" filename="$USER_HOME$/projects/skelet3d/skelet3d/skeleton_analyser.py" />
+      <jump line="350" column="14" filename="$USER_HOME$/projects/skelet3d/skelet3d/skeleton_analyser.py" />
+      <jump line="352" column="14" filename="$USER_HOME$/projects/skelet3d/skelet3d/skeleton_analyser.py" />
+      <jump line="362" column="10" filename="$USER_HOME$/projects/skelet3d/skelet3d/skeleton_analyser.py" />
+      <jump line="0" column="15" filename="/Dummy.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>imtools</text>
+        <text encoding="base64">cHJpbnQg</text>
       </register>
       <register name="-" type="4">
-        <text>imtools</text>
+        <text encoding="base64">cHJpbnQg</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtaXNjXD4=</text>
+        <text>print</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgeWFtbAogICAgICAgIGYgPSBvcGVuKGZpbGVuYW1lLCAncmInKQogICAgICAgIG9iaiA9IHlhbWwubG9hZChmKQogICAgICAgIGYuY2xvc2UoKQo=</text>
+        <text encoding="base64">bG9nZ2VyLmRlYnVnKHN0cihkaXIoc2tlbGV0M2QpKSkK</text>
       </register>
       <register name="1" type="4">
-        <text>imtools</text>
+        <text encoding="base64">cHJpbnQg</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG1pc2MK</text>
+      <register name="2" type="4">
+        <text encoding="base64">cHJpbnQg</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByYXdkYXRhID0gbWlzYy5vYmpfZnJvbV9maWxlKGZpbGVuYW1lPWZpbGVuYW1lLCBmaWxldHlwZT0neWFtbCcpCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">cHJpbnQg</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">b2JqIA==</text>
+        <text>t</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>n</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">IwojIENvcHlyaWdodCDCqSAlWUVBUiUgJVVTRVIlIDwlTUFJTCU+CiMKIyBEaXN0cmlidXRlZCB1bmRlciB0ZXJtcyBvZiB0aGUgJUxJQ0VOU0UlIGxpY2Vuc2UuCg==</text>
+      <register name="6" type="4">
+        <text>i</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">IiIiCiVIRVJFJQoiIiIK</text>
+      <register name="7" type="4">
+        <text>r</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>p</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGdlbl92dGtfdHJlZQo=</text>
+      <register name="9" type="4">
+        <text>t</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtaXNjXD4=</last-search>
+      <last-search>print</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtaXNjXD4=</last-pattern>
+      <last-pattern>print</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>file</entry>
-        <entry>menu</entry>
-        <entry encoding="base64">XDxidG5Sb3RhdGVaXD4=</entry>
-        <entry encoding="base64">XDxyYW5kb21Sb3RhdGVBY3Rpb25cPg==</entry>
         <entry encoding="base64">XDxidG5SYW5kb21Sb3RhdGVcPg==</entry>
         <entry>logo</entry>
         <entry>random</entry>
@@ -1230,12 +1241,13 @@
         <entry encoding="base64">XDxkYXRhM2RcPg==</entry>
         <entry encoding="base64">XDxwYXRoX3RvX3NjcmlwdFw+</entry>
         <entry encoding="base64">XDx2b3hlbHNpemVfbW1cPg==</entry>
+        <entry encoding="base64">XDxwYWNrYWdlX2Rpclw+</entry>
         <entry encoding="base64">XDxtaXNjXD4=</entry>
+        <entry encoding="base64">XDxfX3ZlY3Rvcl9vZl9jb25uZWN0ZWRfZWRnZVw+</entry>
+        <entry>pr</entry>
+        <entry>print</entry>
       </history-search>
       <history-cmd>
-        <entry>638</entry>
-        <entry>178</entry>
-        <entry>220</entry>
         <entry>89</entry>
         <entry>125</entry>
         <entry>158</entry>
@@ -1252,6 +1264,9 @@
         <entry>W</entry>
         <entry>179</entry>
         <entry>195</entry>
+        <entry>62</entry>
+        <entry>528</entry>
+        <entry>582</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
