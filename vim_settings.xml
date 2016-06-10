@@ -83,6 +83,11 @@
         <mark key="^" line="40" column="23" />
         <mark key="." line="38" column="69" />
       </file>
+      <file name="$USER_HOME$/projects/skelet3d/tests/vt_biodur.yaml" timestamp="1465570421333">
+        <mark key="[" line="13" column="10" />
+        <mark key="]" line="13" column="10" />
+        <mark key="." line="13" column="10" />
+      </file>
       <file name="$USER_HOME$/projects/lisa/tests/liver_segmentation_cerveny_test.py" timestamp="1465114359986">
         <mark key="'" line="125" column="3" />
         <mark key="[" line="152" column="0" />
@@ -660,11 +665,12 @@
         <mark key="." line="33" column="20" />
         <mark key="^" line="33" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/skelet3d/install.sh" timestamp="1465569799180">
-        <mark key="[" line="28" column="35" />
-        <mark key="]" line="28" column="38" />
-        <mark key="^" line="28" column="38" />
-        <mark key="." line="28" column="38" />
+      <file name="$USER_HOME$/projects/skelet3d/install.sh" timestamp="1465570047644">
+        <mark key="'" line="61" column="27" />
+        <mark key="[" line="80" column="4" />
+        <mark key="]" line="80" column="12" />
+        <mark key="^" line="80" column="12" />
+        <mark key="." line="80" column="12" />
       </file>
       <file name="$USER_HOME$/projects/quaha/quaha/histology_report.py" timestamp="1445327745987">
         <mark key="[" line="15" column="0" />
@@ -722,11 +728,11 @@
         <mark key="^" line="2" column="11" />
         <mark key="." line="2" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/skelet3d/requirements_conda.txt" timestamp="1465565346154">
-        <mark key="[" line="0" column="35" />
-        <mark key="]" line="1" column="2" />
-        <mark key="." line="1" column="2" />
-        <mark key="^" line="1" column="2" />
+      <file name="$USER_HOME$/projects/skelet3d/requirements_conda.txt" timestamp="1465570589469">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="1" />
+        <mark key="." line="3" column="1" />
+        <mark key="^" line="3" column="1" />
       </file>
       <file name="$USER_HOME$/projects/disco/README.md" timestamp="1463402288807">
         <mark key="[" line="31" column="25" />
@@ -876,6 +882,12 @@
         <mark key="." line="46" column="35" />
         <mark key="^" line="46" column="35" />
       </file>
+      <file name="$USER_HOME$/projects/skelet3d/meta.yaml" timestamp="1465570552998">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="^" line="43" column="23" />
+        <mark key="." line="44" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" timestamp="1459862714745">
         <mark key="'" line="39" column="18" />
         <mark key="[" line="39" column="24" />
@@ -954,7 +966,7 @@
         <mark key="." line="195" column="23" />
         <mark key="^" line="195" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1465569933095">
+      <file name="/Dummy.txt" timestamp="1465570592228">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/io3d/io3d/misc.py" timestamp="1453295785375">
@@ -1026,9 +1038,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="4" filename="$USER_HOME$/projects/imtools/imtools/gt_volume.py" />
-      <jump line="41" column="0" filename="$USER_HOME$/projects/imtools/imtools/gt_volume.py" />
-      <jump line="42" column="4" filename="$USER_HOME$/projects/imtools/imtools/gt_volume.py" />
       <jump line="46" column="0" filename="$USER_HOME$/projects/imtools/imtools/gt_volume.py" />
       <jump line="47" column="8" filename="$USER_HOME$/projects/imtools/imtools/gt_volume.py" />
       <jump line="58" column="0" filename="$USER_HOME$/projects/imtools/imtools/gt_volume.py" />
@@ -1126,61 +1135,63 @@
       <jump line="271" column="24" filename="$USER_HOME$/projects/skelet3d/skelet3d/gt_vtk.py" />
       <jump line="9" column="7" filename="$USER_HOME$/projects/skelet3d/.travis.yml" />
       <jump line="51" column="0" filename="$USER_HOME$/projects/skelet3d/tests/tube_tree_test.py" />
+      <jump line="14" column="0" filename="$USER_HOME$/projects/skelet3d/install.sh" />
+      <jump line="60" column="27" filename="$USER_HOME$/projects/skelet3d/install.sh" />
+      <jump line="61" column="27" filename="$USER_HOME$/projects/skelet3d/install.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>is</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC0gc2lwCg==</text>
       </register>
       <register name="-" type="4">
-        <text>is</text>
+        <text>x</text>
       </register>
       <register name="/" type="4">
-        <text>imtools</text>
+        <text encoding="base64">XDxIT01FRElSXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC0gc3VkbyBhcHQtZ2V0IGluc3RhbGwgLXFxIGNtYWtlIGxpYmluc2lnaHR0b29sa2l0My1kZXYgbGlicG5nMTItZGV2IGxpYmdkY20yLWRldgo=</text>
       </register>
-      <register name="1" type="4">
-        <text>is</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIC0gc2lwCg==</text>
       </register>
       <register name="2" type="4">
-        <text>imtools</text>
+        <text>x</text>
       </register>
       <register name="3" type="4">
-        <text>imtools</text>
+        <text>is</text>
       </register>
       <register name="4" type="4">
         <text>imtools</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaW10b29scwo=</text>
+      <register name="5" type="4">
+        <text>imtools</text>
       </register>
       <register name="6" type="4">
-        <text>brew</text>
+        <text>imtools</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaW10b29scwo=</text>
       </register>
       <register name="8" type="4">
-        <text>-</text>
+        <text>brew</text>
       </register>
       <register name="9" type="4">
-        <text>trusty</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>imtools</last-search>
+      <last-search encoding="base64">XDxIT01FRElSXD4=</last-search>
       <last-offset />
-      <last-pattern>imtools</last-pattern>
+      <last-pattern encoding="base64">XDxIT01FRElSXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0aWxlX3pvb21fY29uc3RhbnRcPg==</entry>
         <entry encoding="base64">XDxfX21zX25wZW5hbHR5X2Zjblw+</entry>
         <entry>make_icon</entry>
         <entry encoding="base64">XDxnZXRfc2FtcGxlX2RhdGFcPg==</entry>
@@ -1200,6 +1211,7 @@
         <entry>vtk</entry>
         <entry encoding="base64">XDx2dGtcPg==</entry>
         <entry>imtools</entry>
+        <entry encoding="base64">XDxIT01FRElSXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>166</entry>
