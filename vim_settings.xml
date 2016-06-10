@@ -229,11 +229,12 @@
         <mark key="^" line="58" column="5" />
         <mark key="." line="58" column="5" />
       </file>
-      <file name="$USER_HOME$/projects/skelet3d/.travis.yml" timestamp="1465566860591">
-        <mark key="[" line="6" column="11" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/projects/skelet3d/.travis.yml" timestamp="1465567336313">
+        <mark key="'" line="9" column="7" />
+        <mark key="[" line="21" column="51" />
+        <mark key="]" line="22" column="24" />
+        <mark key="^" line="22" column="24" />
+        <mark key="." line="22" column="24" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/splash_screen.py" timestamp="1464166787444">
         <mark key="'" line="21" column="7" />
@@ -1024,7 +1025,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="49" filename="$USER_HOME$/projects/imtools/imtools/gt_volume.py" />
       <jump line="35" column="4" filename="$USER_HOME$/projects/imtools/imtools/gt_volume.py" />
       <jump line="36" column="4" filename="$USER_HOME$/projects/imtools/imtools/gt_volume.py" />
       <jump line="41" column="0" filename="$USER_HOME$/projects/imtools/imtools/gt_volume.py" />
@@ -1124,6 +1124,7 @@
       <jump line="234" column="13" filename="$USER_HOME$/projects/skelet3d/skelet3d/gt_vtk.py" />
       <jump line="239" column="28" filename="$USER_HOME$/projects/skelet3d/skelet3d/gt_vtk.py" />
       <jump line="271" column="24" filename="$USER_HOME$/projects/skelet3d/skelet3d/gt_vtk.py" />
+      <jump line="9" column="7" filename="$USER_HOME$/projects/skelet3d/.travis.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
