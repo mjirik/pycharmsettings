@@ -249,13 +249,13 @@
         <mark key="^" line="202" column="30" />
         <mark key="." line="203" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/imtools/tests/tube_tree_test.py" timestamp="1465483164214">
+      <file name="$USER_HOME$/projects/imtools/tests/tube_tree_test.py" timestamp="1465565045256">
         <mark key="a" line="42" column="0" />
         <mark key="'" line="11" column="9" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="71" column="29" />
-        <mark key="^" line="71" column="28" />
-        <mark key="." line="72" column="0" />
+        <mark key="[" line="52" column="25" />
+        <mark key="]" line="52" column="26" />
+        <mark key="^" line="54" column="21" />
+        <mark key="." line="52" column="25" />
       </file>
       <file name="$USER_HOME$/projects/discon/meta.yaml" timestamp="1463300480628">
         <mark key="'" line="0" column="0" />
@@ -595,11 +595,11 @@
         <mark key="^" line="15" column="0" />
         <mark key="." line="16" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/imtools/meta.yaml" timestamp="1465563258595">
-        <mark key="[" line="51" column="9" />
-        <mark key="]" line="52" column="21" />
+      <file name="$USER_HOME$/projects/imtools/meta.yaml" timestamp="1465565128803">
+        <mark key="[" line="52" column="21" />
+        <mark key="]" line="52" column="22" />
         <mark key="^" line="52" column="21" />
-        <mark key="." line="52" column="21" />
+        <mark key="." line="52" column="22" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/dataset.py" timestamp="1464974622531">
         <mark key="[" line="34" column="10" />
@@ -733,11 +733,11 @@
         <mark key="^" line="2" column="11" />
         <mark key="." line="2" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/skelet3d/requirements_conda.txt" timestamp="1454932785376">
+      <file name="$USER_HOME$/projects/skelet3d/requirements_conda.txt" timestamp="1465565346154">
         <mark key="[" line="0" column="35" />
-        <mark key="]" line="2" column="4" />
-        <mark key="^" line="2" column="4" />
-        <mark key="." line="2" column="4" />
+        <mark key="]" line="1" column="2" />
+        <mark key="." line="1" column="2" />
+        <mark key="^" line="1" column="2" />
       </file>
       <file name="$USER_HOME$/projects/disco/README.md" timestamp="1463402288807">
         <mark key="[" line="31" column="25" />
@@ -965,7 +965,7 @@
         <mark key="." line="195" column="23" />
         <mark key="^" line="195" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1465564870429">
+      <file name="/Dummy.txt" timestamp="1465565081518">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/io3d/io3d/misc.py" timestamp="1453295785375">
@@ -1140,10 +1140,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCB2dGsK</text>
+        <text encoding="base64">c2NpcHkK</text>
       </register>
       <register name="-" type="4">
-        <text>gt_volume</text>
+        <text>k</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2dGtcPg==</text>
@@ -1152,31 +1152,31 @@
         <text encoding="base64">ICAgIGltcG9ydCB2dGsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHZ0awo=</text>
+        <text encoding="base64">c2NpcHkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJpbnQgImltcG9ydCBza2VsZXQzZCBvayIK</text>
+        <text encoding="base64">bnVtcHkK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHNlZDMgYXMgc2UK</text>
+      <register name="3" type="4">
+        <text>k</text>
       </register>
       <register name="4" type="4">
-        <text>gt_volume</text>
+        <text>e</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">bGFyIA==</text>
+        <text>e</text>
       </register>
       <register name="6" type="4">
-        <text>lar</text>
+        <text>r</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGdlbl92dGtfdHJlZQo=</text>
+      <register name="7" type="4">
+        <text>t</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHZ0awo=</text>
+      <register name="8" type="4">
+        <text>m</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ZnJvbSB2dGsudXRpbCBpbXBvcnQgbnVtcHlfc3VwcG9ydAo=</text>
+      <register name="9" type="4">
+        <text>shutil</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1213,8 +1213,6 @@
         <entry encoding="base64">XDx2dGtcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>89</entry>
-        <entry>125</entry>
         <entry>158</entry>
         <entry>154</entry>
         <entry>166</entry>
@@ -1232,6 +1230,8 @@
         <entry>62</entry>
         <entry>528</entry>
         <entry>582</entry>
+        <entry>238</entry>
+        <entry>55</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
