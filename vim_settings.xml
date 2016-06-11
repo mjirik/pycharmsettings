@@ -112,12 +112,12 @@
         <mark key="^" line="170" column="30" />
         <mark key="." line="170" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/sftpsync-py/tests/sftpsync_test.py" timestamp="1465391254699">
+      <file name="$USER_HOME$/projects/sftpsync-py/tests/sftpsync_test.py" timestamp="1465671306347">
         <mark key="'" line="61" column="27" />
-        <mark key="[" line="54" column="45" />
-        <mark key="]" line="54" column="55" />
-        <mark key="^" line="54" column="55" />
-        <mark key="." line="54" column="55" />
+        <mark key="[" line="83" column="22" />
+        <mark key="]" line="83" column="23" />
+        <mark key="^" line="83" column="23" />
+        <mark key="." line="83" column="23" />
       </file>
       <file name="$USER_HOME$/projects/psongbook/sobo/psongbook.py" timestamp="1463491785021">
         <mark key="[" line="160" column="32" />
@@ -1158,8 +1158,8 @@
       <jump line="53" column="13" filename="$USER_HOME$/projects/scoreader/scoreader/score.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>png</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X3N5bmMoc2VsZik6CiAgICAgICAgZnJvbSBzZnRwc3luYyBpbXBvcnQgU2Z0cAoKICAgICAgICBzcmMgPSAnZnJvbV9zZXJ2ZXIvJwogICAgICAgIGRzdCA9ICd0ZXN0X3RlbXAvJwogICAgICAgIHNmdHAgPSBTZnRwKCcxNDcuMjI4LjQ3LjE2MicsICdwYXVsJywgJ1A0dWwnKQoKICAgICAgICBkc3QgPSBvcC5leHBhbmR1c2VyKGRzdCkKCiAgICAgICAgaWYgb3AuZXhpc3RzKGRzdCk6CiAgICAgICAgICAgIHNodXRpbC5ybXRyZWUoZHN0KQogICAgICAgICMgV2UgZG9uJ3Qgd2FudCB0byBiYWNrdXAgZXZlcnl0aGluZwogICAgICAgIGV4Y2x1ZGUgPSBbcideTXVzaWMvJywgcideVmlkZW8vJ10KICAgICAgICBzZnRwLnN5bmMoc3JjLCBkc3QsIGRvd25sb2FkPVRydWUsIGV4Y2x1ZGU9ZXhjbHVkZSwgZGVsZXRlPUZhbHNlKQogICAgICAgIHNlbGYuYXNzZXJ0VHJ1ZShvcC5leGlzdHMob3Auam9pbihkc3QsInRlc3QudHh0IikpKQogICAgICAgIGlmIGNsZWFuIGFuZCBvcC5leGlzdHMoZHN0KToKICAgICAgICAgICAgc2h1dGlsLnJtdHJlZShkc3QpCg==</text>
       </register>
       <register name="-" type="4">
         <text>png</text>
@@ -1168,7 +1168,7 @@
         <text>feature</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50IHB5dGVzc2VyYWN0LmltYWdlX3RvX3N0cmluZyhJbWFnZS5vcGVuKGZuX2FicyksIGxhbmc9J2VuZycpCg==</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X3N5bmMoc2VsZik6CiAgICAgICAgZnJvbSBzZnRwc3luYyBpbXBvcnQgU2Z0cAoKICAgICAgICBzcmMgPSAnZnJvbV9zZXJ2ZXIvJwogICAgICAgIGRzdCA9ICd0ZXN0X3RlbXAvJwogICAgICAgIHNmdHAgPSBTZnRwKCcxNDcuMjI4LjQ3LjE2MicsICdwYXVsJywgJ1A0dWwnKQoKICAgICAgICBkc3QgPSBvcC5leHBhbmR1c2VyKGRzdCkKCiAgICAgICAgaWYgb3AuZXhpc3RzKGRzdCk6CiAgICAgICAgICAgIHNodXRpbC5ybXRyZWUoZHN0KQogICAgICAgICMgV2UgZG9uJ3Qgd2FudCB0byBiYWNrdXAgZXZlcnl0aGluZwogICAgICAgIGV4Y2x1ZGUgPSBbcideTXVzaWMvJywgcideVmlkZW8vJ10KICAgICAgICBzZnRwLnN5bmMoc3JjLCBkc3QsIGRvd25sb2FkPVRydWUsIGV4Y2x1ZGU9ZXhjbHVkZSwgZGVsZXRlPUZhbHNlKQogICAgICAgIHNlbGYuYXNzZXJ0VHJ1ZShvcC5leGlzdHMob3Auam9pbihkc3QsInRlc3QudHh0IikpKQogICAgICAgIGlmIGNsZWFuIGFuZCBvcC5leGlzdHMoZHN0KToKICAgICAgICAgICAgc2h1dGlsLnJtdHJlZShkc3QpCg==</text>
       </register>
       <register name="1" type="4">
         <text>png</text>
