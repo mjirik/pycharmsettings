@@ -383,12 +383,12 @@
         <mark key="^" line="15" column="0" />
         <mark key="." line="16" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/scoreader/scoreader/score.py" timestamp="1465661940680">
+      <file name="$USER_HOME$/projects/scoreader/scoreader/score.py" timestamp="1465662869205">
         <mark key="'" line="54" column="13" />
-        <mark key="[" line="11" column="25" />
-        <mark key="]" line="46" column="58" />
-        <mark key="^" line="46" column="58" />
-        <mark key="." line="46" column="58" />
+        <mark key="[" line="39" column="49" />
+        <mark key="]" line="39" column="51" />
+        <mark key="^" line="39" column="51" />
+        <mark key="." line="39" column="51" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/training.py" timestamp="1453117814988">
         <mark key="'" line="38" column="8" />
@@ -1158,11 +1158,11 @@
       <jump line="53" column="13" filename="$USER_HOME$/projects/scoreader/scoreader/score.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50IHB5dGVzc2VyYWN0LmltYWdlX3RvX3N0cmluZyhJbWFnZS5vcGVuKGZuX2FicyksIGxhbmc9J2VuZycpCg==</text>
+      <register name="&quot;" type="4">
+        <text>png</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aW1wb3J0IA==</text>
+        <text>png</text>
       </register>
       <register name="/" type="4">
         <text>feature</text>
@@ -1170,32 +1170,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaW50IHB5dGVzc2VyYWN0LmltYWdlX3RvX3N0cmluZyhJbWFnZS5vcGVuKGZuX2FicyksIGxhbmc9J2VuZycpCg==</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text>png</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">aW1wb3J0IEltYWdlCg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">aW1wb3J0IA==</text>
       </register>
-      <register name="3" type="4">
-        <text>fra</text>
-      </register>
       <register name="4" type="4">
-        <text>op.expanduser(fn)</text>
+        <text>fra</text>
       </register>
       <register name="5" type="4">
+        <text>op.expanduser(fn)</text>
+      </register>
+      <register name="6" type="4">
         <text>'test-european.jpg'</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIC0gY29uZGEtYnVpbGQK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIC0gYW5hY29uZGEtY2xpZW50Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">aW1wb3J0IHNraW1hZ2UuZmVhdHVyZQo=</text>
-      </register>
-      <register name="9" type="4">
-        <text>fra</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
