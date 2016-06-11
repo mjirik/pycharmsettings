@@ -209,6 +209,13 @@
         <mark key="." line="55" column="33" />
         <mark key="^" line="37" column="33" />
       </file>
+      <file name="$USER_HOME$/projects/scoreader/meta.yml" timestamp="1465661446851">
+        <mark key="'" line="41" column="10" />
+        <mark key="[" line="40" column="18" />
+        <mark key="]" line="41" column="10" />
+        <mark key="^" line="41" column="10" />
+        <mark key="." line="41" column="10" />
+      </file>
       <file name="$USER_HOME$/projects/lisa/lisa/main.py" timestamp="1464214008999">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -375,6 +382,13 @@
         <mark key="]" line="16" column="4" />
         <mark key="^" line="15" column="0" />
         <mark key="." line="16" column="4" />
+      </file>
+      <file name="$USER_HOME$/projects/scoreader/scoreader/score.py" timestamp="1465661940680">
+        <mark key="'" line="54" column="13" />
+        <mark key="[" line="11" column="25" />
+        <mark key="]" line="46" column="58" />
+        <mark key="^" line="46" column="58" />
+        <mark key="." line="46" column="58" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/training.py" timestamp="1453117814988">
         <mark key="'" line="38" column="8" />
@@ -1042,9 +1056,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="0" filename="$USER_HOME$/projects/imtools/imtools/gt_volume.py" />
-      <jump line="47" column="8" filename="$USER_HOME$/projects/imtools/imtools/gt_volume.py" />
-      <jump line="58" column="0" filename="$USER_HOME$/projects/imtools/imtools/gt_volume.py" />
       <jump line="59" column="8" filename="$USER_HOME$/projects/imtools/imtools/gt_volume.py" />
       <jump line="61" column="0" filename="$USER_HOME$/projects/imtools/imtools/gt_volume.py" />
       <jump line="62" column="8" filename="$USER_HOME$/projects/imtools/imtools/gt_volume.py" />
@@ -1142,61 +1153,63 @@
       <jump line="14" column="0" filename="$USER_HOME$/projects/skelet3d/install.sh" />
       <jump line="60" column="27" filename="$USER_HOME$/projects/skelet3d/install.sh" />
       <jump line="61" column="27" filename="$USER_HOME$/projects/skelet3d/install.sh" />
+      <jump line="77" column="0" filename="$USER_HOME$/projects/scoreader/scoreader/score.py" />
+      <jump line="41" column="10" filename="$USER_HOME$/projects/scoreader/meta.yml" />
+      <jump line="53" column="13" filename="$USER_HOME$/projects/scoreader/scoreader/score.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC0gc2lwCg==</text>
+        <text encoding="base64">ICAgIHByaW50IHB5dGVzc2VyYWN0LmltYWdlX3RvX3N0cmluZyhJbWFnZS5vcGVuKGZuX2FicyksIGxhbmc9J2VuZycpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text encoding="base64">aW1wb3J0IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxIT01FRElSXD4=</text>
+        <text>feature</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC0gc3VkbyBhcHQtZ2V0IGluc3RhbGwgLXFxIGNtYWtlIGxpYmluc2lnaHR0b29sa2l0My1kZXYgbGlicG5nMTItZGV2IGxpYmdkY20yLWRldgo=</text>
+        <text encoding="base64">ICAgIHByaW50IHB5dGVzc2VyYWN0LmltYWdlX3RvX3N0cmluZyhJbWFnZS5vcGVuKGZuX2FicyksIGxhbmc9J2VuZycpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC0gc2lwCg==</text>
+        <text encoding="base64">aW1wb3J0IEltYWdlCg==</text>
       </register>
       <register name="2" type="4">
-        <text>x</text>
+        <text encoding="base64">aW1wb3J0IA==</text>
       </register>
       <register name="3" type="4">
-        <text>is</text>
+        <text>fra</text>
       </register>
       <register name="4" type="4">
-        <text>imtools</text>
+        <text>op.expanduser(fn)</text>
       </register>
       <register name="5" type="4">
-        <text>imtools</text>
+        <text>'test-european.jpg'</text>
       </register>
-      <register name="6" type="4">
-        <text>imtools</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIC0gY29uZGEtYnVpbGQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaW10b29scwo=</text>
+        <text encoding="base64">ICAgIC0gYW5hY29uZGEtY2xpZW50Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>brew</text>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IHNraW1hZ2UuZmVhdHVyZQo=</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text>fra</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxIT01FRElSXD4=</last-search>
+      <last-search>feature</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxIT01FRElSXD4=</last-pattern>
+      <last-pattern>feature</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>random</entry>
         <entry encoding="base64">XDxfX2NyZWF0ZV9ubGlua3NcPg==</entry>
         <entry encoding="base64">XDxfX2NyZWF0ZV90bGlua3NcPg==</entry>
         <entry encoding="base64">XDx0aWxlX3pvb21fY29uc3RhbnRcPg==</entry>
@@ -1216,6 +1229,7 @@
         <entry encoding="base64">XDxjYWNoZWZcPg==</entry>
         <entry encoding="base64">XDxjYWNoZVw+</entry>
         <entry>Update</entry>
+        <entry>feature</entry>
       </history-search>
       <history-cmd>
         <entry>270</entry>
