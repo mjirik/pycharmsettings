@@ -131,6 +131,11 @@
         <mark key="^" line="3" column="8" />
         <mark key="." line="3" column="8" />
       </file>
+      <file name="$USER_HOME$/projects/skelet3d/skelet3d/tree.py" timestamp="1465672063106">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="85" column="16" />
+      </file>
       <file name="$USER_HOME$/projects/skelet3d/setup.py" timestamp="1465559373695">
         <mark key="'" line="62" column="16" />
         <mark key="[" line="1" column="39" />
@@ -396,6 +401,12 @@
         <mark key="]" line="58" column="26" />
         <mark key="^" line="58" column="26" />
         <mark key="." line="58" column="26" />
+      </file>
+      <file name="$USER_HOME$/projects/skelet3d/skelet3d/vesseltree_export.py" timestamp="1465672107095">
+        <mark key="[" line="33" column="17" />
+        <mark key="]" line="33" column="26" />
+        <mark key="." line="33" column="26" />
+        <mark key="^" line="33" column="26" />
       </file>
       <file name="$USER_HOME$/projects/disco/.condarc" timestamp="1463149353888">
         <mark key="[" line="0" column="0" />
@@ -941,7 +952,7 @@
         <mark key="^" line="58" column="115" />
         <mark key="." line="58" column="115" />
       </file>
-      <file name="/Dummy.txt" timestamp="1465663094483">
+      <file name="/Dummy.txt" timestamp="1465672096213">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/imtools/imtools/gt_volume.py" timestamp="1465564170118">
@@ -1056,7 +1067,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="8" filename="$USER_HOME$/projects/imtools/imtools/gt_volume.py" />
       <jump line="61" column="0" filename="$USER_HOME$/projects/imtools/imtools/gt_volume.py" />
       <jump line="62" column="8" filename="$USER_HOME$/projects/imtools/imtools/gt_volume.py" />
       <jump line="68" column="0" filename="$USER_HOME$/projects/imtools/imtools/gt_volume.py" />
@@ -1156,61 +1166,61 @@
       <jump line="77" column="0" filename="$USER_HOME$/projects/scoreader/scoreader/score.py" />
       <jump line="41" column="10" filename="$USER_HOME$/projects/scoreader/meta.yml" />
       <jump line="53" column="13" filename="$USER_HOME$/projects/scoreader/scoreader/score.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/skelet3d/skelet3d/tree.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X3N5bmMoc2VsZik6CiAgICAgICAgZnJvbSBzZnRwc3luYyBpbXBvcnQgU2Z0cAoKICAgICAgICBzcmMgPSAnZnJvbV9zZXJ2ZXIvJwogICAgICAgIGRzdCA9ICd0ZXN0X3RlbXAvJwogICAgICAgIHNmdHAgPSBTZnRwKCcxNDcuMjI4LjQ3LjE2MicsICdwYXVsJywgJ1A0dWwnKQoKICAgICAgICBkc3QgPSBvcC5leHBhbmR1c2VyKGRzdCkKCiAgICAgICAgaWYgb3AuZXhpc3RzKGRzdCk6CiAgICAgICAgICAgIHNodXRpbC5ybXRyZWUoZHN0KQogICAgICAgICMgV2UgZG9uJ3Qgd2FudCB0byBiYWNrdXAgZXZlcnl0aGluZwogICAgICAgIGV4Y2x1ZGUgPSBbcideTXVzaWMvJywgcideVmlkZW8vJ10KICAgICAgICBzZnRwLnN5bmMoc3JjLCBkc3QsIGRvd25sb2FkPVRydWUsIGV4Y2x1ZGU9ZXhjbHVkZSwgZGVsZXRlPUZhbHNlKQogICAgICAgIHNlbGYuYXNzZXJ0VHJ1ZShvcC5leGlzdHMob3Auam9pbihkc3QsInRlc3QudHh0IikpKQogICAgICAgIGlmIGNsZWFuIGFuZCBvcC5leGlzdHMoZHN0KToKICAgICAgICAgICAgc2h1dGlsLnJtdHJlZShkc3QpCg==</text>
+      <register name="&quot;" type="4">
+        <text>filename</text>
       </register>
       <register name="-" type="4">
-        <text>png</text>
+        <text>filename</text>
       </register>
       <register name="/" type="4">
-        <text>feature</text>
+        <text>yaml</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X3N5bmMoc2VsZik6CiAgICAgICAgZnJvbSBzZnRwc3luYyBpbXBvcnQgU2Z0cAoKICAgICAgICBzcmMgPSAnZnJvbV9zZXJ2ZXIvJwogICAgICAgIGRzdCA9ICd0ZXN0X3RlbXAvJwogICAgICAgIHNmdHAgPSBTZnRwKCcxNDcuMjI4LjQ3LjE2MicsICdwYXVsJywgJ1A0dWwnKQoKICAgICAgICBkc3QgPSBvcC5leHBhbmR1c2VyKGRzdCkKCiAgICAgICAgaWYgb3AuZXhpc3RzKGRzdCk6CiAgICAgICAgICAgIHNodXRpbC5ybXRyZWUoZHN0KQogICAgICAgICMgV2UgZG9uJ3Qgd2FudCB0byBiYWNrdXAgZXZlcnl0aGluZwogICAgICAgIGV4Y2x1ZGUgPSBbcideTXVzaWMvJywgcideVmlkZW8vJ10KICAgICAgICBzZnRwLnN5bmMoc3JjLCBkc3QsIGRvd25sb2FkPVRydWUsIGV4Y2x1ZGU9ZXhjbHVkZSwgZGVsZXRlPUZhbHNlKQogICAgICAgIHNlbGYuYXNzZXJ0VHJ1ZShvcC5leGlzdHMob3Auam9pbihkc3QsInRlc3QudHh0IikpKQogICAgICAgIGlmIGNsZWFuIGFuZCBvcC5leGlzdHMoZHN0KToKICAgICAgICAgICAgc2h1dGlsLnJtdHJlZShkc3QpCg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgeWFtbAogICAgICAgIGYgPSBvcGVuKGZpbGVuYW1lLCAncmInKQogICAgICAgIHJhd2RhdGEgPSB5YW1sLmxvYWQoZikKICAgICAgICBmLmNsb3NlKCkK</text>
       </register>
       <register name="1" type="4">
-        <text>png</text>
+        <text>filename</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IEltYWdlCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">cmF3ZGF0YSA=</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">aW1wb3J0IA==</text>
+        <text>png</text>
       </register>
-      <register name="4" type="4">
-        <text>fra</text>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IEltYWdlCg==</text>
       </register>
       <register name="5" type="4">
-        <text>op.expanduser(fn)</text>
+        <text encoding="base64">aW1wb3J0IA==</text>
       </register>
       <register name="6" type="4">
+        <text>fra</text>
+      </register>
+      <register name="7" type="4">
+        <text>op.expanduser(fn)</text>
+      </register>
+      <register name="8" type="4">
         <text>'test-european.jpg'</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIC0gY29uZGEtYnVpbGQK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIC0gYW5hY29uZGEtY2xpZW50Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHNraW1hZ2UuZmVhdHVyZQo=</text>
+        <text encoding="base64">ICAgIC0gY29uZGEtYnVpbGQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>feature</last-search>
+      <last-search>yaml</last-search>
       <last-offset />
-      <last-pattern>feature</last-pattern>
+      <last-pattern>yaml</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfX2NyZWF0ZV9ubGlua3NcPg==</entry>
         <entry encoding="base64">XDxfX2NyZWF0ZV90bGlua3NcPg==</entry>
         <entry encoding="base64">XDx0aWxlX3pvb21fY29uc3RhbnRcPg==</entry>
         <entry encoding="base64">XDxfX21zX25wZW5hbHR5X2Zjblw+</entry>
@@ -1230,6 +1240,7 @@
         <entry encoding="base64">XDxjYWNoZVw+</entry>
         <entry>Update</entry>
         <entry>feature</entry>
+        <entry>yaml</entry>
       </history-search>
       <history-cmd>
         <entry>270</entry>
