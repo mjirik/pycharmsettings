@@ -209,13 +209,13 @@
         <mark key="^" line="79" column="46" />
         <mark key="." line="79" column="46" />
       </file>
-      <file name="$USER_HOME$/projects/sftpsync-py/sftpsync/__init__.py" timestamp="1465681132350">
-        <mark key="a" line="216" column="0" />
-        <mark key="'" line="60" column="0" />
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="35" />
-        <mark key="." line="57" column="0" />
-        <mark key="^" line="52" column="39" />
+      <file name="$USER_HOME$/projects/sftpsync-py/sftpsync/__init__.py" timestamp="1465681667445">
+        <mark key="a" line="219" column="0" />
+        <mark key="'" line="63" column="0" />
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="16" />
+        <mark key="." line="59" column="16" />
+        <mark key="^" line="60" column="40" />
       </file>
       <file name="$USER_HOME$/projects/disco/disco/__main__.py" timestamp="1463149420737">
         <mark key="[" line="55" column="33" />
@@ -1240,34 +1240,34 @@
         <text>print</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5kZWJ1ZyhwYXRoMikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5kZWJ1ZygicGF0aDIgICAgICAgOiAlcyIsIHBhdGgyKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5kZWJ1KHBhdGgyKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5kZWJ1ZyhwYXRoMikK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICd0ZXN0X2ZpbGUudHh0Jw==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5kZWJ1ZyhwYXRoMl9zdGFydCkK</text>
       </register>
-      <register name="3" type="4">
-        <text>[0].filename</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5kZWJ1ZyhwYXRoMikKICAgICAgICAgICAgICAgIGxvZ2dlci5kZWJ1ZyhwYXRoMl9zdGFydCkK</text>
       </register>
-      <register name="4" type="4">
-        <text>False</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5kZWJ1ZygnbWFrZSByZWxhdGl2ZSBwYXRoIHRvIHN0YXJ0JykK</text>
       </register>
-      <register name="5" type="4">
-        <text>False</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBvcy5yZW1vdmUoc3JjZmlsZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5kZWJ1KHBhdGgyKQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYuYXNzZXJ0VHJ1ZShGYWxzZSkKICAgICAgICAjIGlmIGNsZWFuIGFuZCBvcC5leGlzdHMoZHN0KToKICAgICAgICAjICAgICBzaHV0aWwucm10cmVlKGRzdCkK</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICd0ZXN0X2ZpbGUudHh0Jw==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIGRzdCA9IG9wLmV4cGFuZHVzZXIoZHN0KQoKICAgICAgICAjIGlmIG9wLmV4aXN0cyhkc3QpOgogICAgICAgICMgICAgIHNodXRpbC5ybXRyZWUoZHN0KQogICAgICAgICMgV2UgZG9uJ3Qgd2FudCB0byBiYWNrdXAgZXZlcnl0aGluZwo=</text>
+      <register name="8" type="4">
+        <text>[0].filename</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNmdHAgPSBTZnRwKCcxNDcuMjI4LjQ3LjE2MicsICdsaXNhX2RlZmF1bHQnLCAnTDE1NC5zZnRwJykK</text>
+      <register name="9" type="4">
+        <text>False</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
