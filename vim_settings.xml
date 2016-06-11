@@ -112,13 +112,13 @@
         <mark key="^" line="170" column="30" />
         <mark key="." line="170" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/sftpsync-py/tests/sftpsync_test.py" timestamp="1465673212444">
-        <mark key="a" line="90" column="25" />
+      <file name="$USER_HOME$/projects/sftpsync-py/tests/sftpsync_test.py" timestamp="1465676699061">
+        <mark key="a" line="91" column="25" />
         <mark key="'" line="4" column="8" />
-        <mark key="[" line="91" column="11" />
-        <mark key="]" line="91" column="14" />
-        <mark key="." line="91" column="14" />
-        <mark key="^" line="91" column="14" />
+        <mark key="[" line="87" column="15" />
+        <mark key="]" line="87" column="51" />
+        <mark key="." line="87" column="51" />
+        <mark key="^" line="87" column="51" />
       </file>
       <file name="$USER_HOME$/projects/psongbook/sobo/psongbook.py" timestamp="1463491785021">
         <mark key="[" line="160" column="32" />
@@ -209,13 +209,13 @@
         <mark key="^" line="79" column="46" />
         <mark key="." line="79" column="46" />
       </file>
-      <file name="$USER_HOME$/projects/sftpsync-py/sftpsync/__init__.py" timestamp="1465674885983">
-        <mark key="a" line="202" column="0" />
-        <mark key="'" line="148" column="8" />
-        <mark key="[" line="224" column="30" />
-        <mark key="]" line="224" column="44" />
-        <mark key="." line="224" column="44" />
-        <mark key="^" line="224" column="44" />
+      <file name="$USER_HOME$/projects/sftpsync-py/sftpsync/__init__.py" timestamp="1465678793412">
+        <mark key="a" line="224" column="0" />
+        <mark key="'" line="85" column="50" />
+        <mark key="[" line="172" column="0" />
+        <mark key="]" line="172" column="0" />
+        <mark key="." line="172" column="0" />
+        <mark key="^" line="61" column="20" />
       </file>
       <file name="$USER_HOME$/projects/disco/disco/__main__.py" timestamp="1463149420737">
         <mark key="[" line="55" column="33" />
@@ -274,9 +274,6 @@
         <mark key="]" line="7" column="27" />
         <mark key="^" line="7" column="27" />
         <mark key="." line="7" column="27" />
-      </file>
-      <file name="/Python Console" timestamp="1465330653273">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/imtools/imtools/gt_lar.py" timestamp="1465563974853">
         <mark key="'" line="207" column="23" />
@@ -1134,14 +1131,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="199" column="0" filename="$USER_HOME$/projects/imtools/imtools/tree_processing.py" />
-      <jump line="200" column="8" filename="$USER_HOME$/projects/imtools/imtools/tree_processing.py" />
-      <jump line="206" column="0" filename="$USER_HOME$/projects/imtools/imtools/tree_processing.py" />
-      <jump line="207" column="8" filename="$USER_HOME$/projects/imtools/imtools/tree_processing.py" />
-      <jump line="214" column="0" filename="$USER_HOME$/projects/imtools/imtools/tree_processing.py" />
-      <jump line="215" column="8" filename="$USER_HOME$/projects/imtools/imtools/tree_processing.py" />
-      <jump line="222" column="0" filename="$USER_HOME$/projects/imtools/imtools/tree_processing.py" />
-      <jump line="231" column="50" filename="$USER_HOME$/projects/imtools/imtools/tree_processing.py" />
       <jump line="248" column="33" filename="$USER_HOME$/projects/imtools/imtools/tree_processing.py" />
       <jump line="270" column="75" filename="$USER_HOME$/projects/imtools/imtools/tree_processing.py" />
       <jump line="271" column="58" filename="$USER_HOME$/projects/imtools/imtools/tree_processing.py" />
@@ -1227,68 +1216,75 @@
       <jump line="58" column="8" filename="$USER_HOME$/projects/sftpsync-py/sftpsync/__init__.py" />
       <jump line="70" column="25" filename="$USER_HOME$/projects/sftpsync-py/sftpsync/__init__.py" />
       <jump line="84" column="8" filename="$USER_HOME$/projects/sftpsync-py/sftpsync/__init__.py" />
-      <jump line="85" column="8" filename="$USER_HOME$/projects/sftpsync-py/sftpsync/__init__.py" />
       <jump line="45" column="8" filename="$USER_HOME$/projects/sftpsync-py/sftpsync/__init__.py" />
       <jump line="215" column="37" filename="$USER_HOME$/projects/sftpsync-py/sftpsync/__init__.py" />
       <jump line="98" column="24" filename="$USER_HOME$/projects/sftpsync-py/sftpsync/__init__.py" />
       <jump line="96" column="24" filename="$USER_HOME$/projects/sftpsync-py/sftpsync/__init__.py" />
       <jump line="77" column="31" filename="$USER_HOME$/projects/sftpsync-py/sftpsync/__init__.py" />
       <jump line="148" column="8" filename="$USER_HOME$/projects/sftpsync-py/sftpsync/__init__.py" />
+      <jump line="222" column="28" filename="$USER_HOME$/projects/sftpsync-py/sftpsync/__init__.py" />
+      <jump line="149" column="8" filename="$USER_HOME$/projects/sftpsync-py/sftpsync/__init__.py" />
+      <jump line="234" column="29" filename="$USER_HOME$/projects/sftpsync-py/sftpsync/__init__.py" />
+      <jump line="150" column="8" filename="$USER_HOME$/projects/sftpsync-py/sftpsync/__init__.py" />
+      <jump line="231" column="28" filename="$USER_HOME$/projects/sftpsync-py/sftpsync/__init__.py" />
+      <jump line="212" column="23" filename="$USER_HOME$/projects/sftpsync-py/sftpsync/__init__.py" />
+      <jump line="249" column="0" filename="$USER_HOME$/projects/sftpsync-py/sftpsync/__init__.py" />
+      <jump line="56" column="30" filename="$USER_HOME$/projects/sftpsync-py/sftpsync/__init__.py" />
+      <jump line="85" column="50" filename="$USER_HOME$/projects/sftpsync-py/sftpsync/__init__.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKCJ3YWxrICVzIiwgZmlsZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZHN0ID0gZHN0W2xlbihzcmMxKTpdCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c3JjIA==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfc2F2ZVw+</text>
+        <text>len</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKCJ3YWxrICVzIiwgZmlsZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50IHBhdGgyCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKCJ3YWxrICVzIiwgZmlsZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZHN0ID0gZHN0W2xlbihzcmMxKTpdCg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">c3JjIA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50IHBhdGgyCiAgICAgICAgICAgICAgICBwcmludCBwYXRoMgo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZHN0ID0gc2VsZi5fam9pbl9yZW1vdGUocGF0aDEsIHBhdGgyKQo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZHN0ID0gb3MucGF0aC5qb2luKHBhdGgxLCBwYXRoMikK</text>
+      <register name="4" type="4">
+        <text>t</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRzdF9maWxlID0gc2VsZi5fam9pbl9yZW1vdGUoZHN0LCBmaWxlXykK</text>
+      <register name="5" type="4">
+        <text>o</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
+      <register name="6" type="4">
+        <text>n</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgZG93bmxvYWQ6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGltcG9ydAo=</text>
       </register>
       <register name="8" type="4">
-        <text>path</text>
+        <text>s</text>
       </register>
       <register name="9" type="4">
-        <text>.</text>
+        <text>_</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfc2F2ZVw+</last-search>
+      <last-search>len</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfc2F2ZVw+</last-pattern>
+      <last-pattern>len</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>_output_datap</entry>
         <entry>skip</entry>
         <entry>update</entry>
         <entry>cache</entry>
@@ -1302,12 +1298,13 @@
         <entry encoding="base64">XDxfbWFrZWRpcnNfZHN0XD4=</entry>
         <entry encoding="base64">XDxqb2luXD4=</entry>
         <entry>join</entry>
-        <entry encoding="base64">XDxfam9pblw+</entry>
         <entry encoding="base64">XDxfd2Fsa1w+</entry>
         <entry encoding="base64">XDxfd2Fsa19sb2NhbFw+</entry>
         <entry encoding="base64">XDxfd2Fsa19yZW1vdGVcPg==</entry>
         <entry>info</entry>
         <entry encoding="base64">XDxfc2F2ZVw+</entry>
+        <entry encoding="base64">XDxfam9pblw+</entry>
+        <entry>len</entry>
       </history-search>
       <history-cmd>
         <entry>270</entry>
