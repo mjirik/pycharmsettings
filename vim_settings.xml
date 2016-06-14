@@ -59,6 +59,12 @@
         <mark key="^" line="31" column="21" />
         <mark key="." line="31" column="21" />
       </file>
+      <file name="$USER_HOME$/projects/lisa/tests/resection_test.py" timestamp="1465912973671">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="21" column="11" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/quantan/quantan/quantan.py" timestamp="1465904477828">
         <mark key="[" line="837" column="0" />
         <mark key="]" line="842" column="0" />
@@ -262,13 +268,6 @@
         <mark key="^" line="202" column="30" />
         <mark key="." line="203" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/imtools/tests/tube_tree_test.py" timestamp="1465567067945">
-        <mark key="a" line="42" column="0" />
-        <mark key="'" line="11" column="9" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/discon/meta.yaml" timestamp="1463300480628">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="36" column="16" />
@@ -321,6 +320,14 @@
         <mark key="]" line="68" column="28" />
         <mark key="^" line="68" column="28" />
         <mark key="." line="68" column="28" />
+      </file>
+      <file name="$USER_HOME$/projects/lisa/tests/experiments_test.py" timestamp="1465912645434">
+        <mark key="a" line="194" column="31" />
+        <mark key="'" line="45" column="43" />
+        <mark key="[" line="129" column="37" />
+        <mark key="]" line="129" column="44" />
+        <mark key="^" line="129" column="44" />
+        <mark key="." line="129" column="44" />
       </file>
       <file name="$USER_HOME$/projects/quanta/setup.py" timestamp="1446640023460">
         <mark key="[" line="58" column="105" />
@@ -416,6 +423,14 @@
         <mark key="]" line="1" column="24" />
         <mark key="^" line="2" column="42" />
         <mark key="." line="2" column="42" />
+      </file>
+      <file name="$USER_HOME$/projects/imtools/imtools/gen_vtk_tree.py" timestamp="1465563883261">
+        <mark key="a" line="230" column="4" />
+        <mark key="'" line="24" column="47" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="15" column="103" />
+        <mark key="." line="15" column="101" />
+        <mark key="^" line="15" column="101" />
       </file>
       <file name="$USER_HOME$/projects/skelet3d/examples/example03.py" timestamp="1465901557731">
         <mark key="[" line="28" column="7" />
@@ -675,6 +690,14 @@
         <mark key="]" line="80" column="12" />
         <mark key="^" line="80" column="12" />
         <mark key="." line="80" column="12" />
+      </file>
+      <file name="$USER_HOME$/projects/skelet3d/skelet3d/skeleton_analyser.py" timestamp="1465560469197">
+        <mark key="a" line="527" column="28" />
+        <mark key="'" line="362" column="10" />
+        <mark key="[" line="62" column="68" />
+        <mark key="]" line="62" column="68" />
+        <mark key="." line="62" column="68" />
+        <mark key="^" line="62" column="68" />
       </file>
       <file name="$USER_HOME$/projects/quaha/quaha/histology_report.py" timestamp="1445327745987">
         <mark key="[" line="15" column="0" />
@@ -1143,44 +1166,51 @@
       <jump line="187" column="16" filename="$USER_HOME$/projects/lisa/lisa/virtual_resection.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGlmIGludGVyYWN0aXZpdHk6CiAgICAgICAgcHJpbnQgKCJTZWxlY3QgY3V0IikKICAgICAgICBzZWVkcyA9IGN1dF9lZGl0b3Jfb2xkKGRhdGEpCiAgICBlbGlmIHNlZWRzIGlzIE5vbmU6CiAgICAgICAgbG9nZ2VyLmVycm9yKCdzZWVkcyBpcyBOb25lIGFuZCBpbnRlcmFjdGl2aXR5IGlzIEZhbHNlJykKICAgICAgICByZXR1cm4gTm9uZQo=</text>
+      <register name="&quot;" type="4">
+        <text>class MyTestCa</text>
       </register>
       <register name="-" type="4">
-        <text>mode</text>
+        <text>class MyTestCa</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjdXRfZWRpdG9yX29sZFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmIGludGVyYWN0aXZpdHk6CiAgICAgICAgcHJpbnQgKCJTZWxlY3QgY3V0IikKICAgICAgICBzZWVkcyA9IGN1dF9lZGl0b3Jfb2xkKGRhdGEpCiAgICBlbGlmIHNlZWRzIGlzIE5vbmU6CiAgICAgICAgbG9nZ2VyLmVycm9yKCdzZWVkcyBpcyBOb25lIGFuZCBpbnRlcmFjdGl2aXR5IGlzIEZhbHNlJykKICAgICAgICByZXR1cm4gTm9uZQo=</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X3Nsb3coc2VsZik6CiAgICAgICAgcGFzcwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">W1NhbXBsZSBkYXRhXShodHRwOi8vMTQ3LjIyOC4yNDAuNjEvcXVlZXRlY2gvc2FtcGxlLWRhdGEvYmlvZHVyX3NhbXBsZS56aXApCg==</text>
+      <register name="1" type="4">
+        <text>class MyTestCa</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIGFyZ3MuZ2V0X3NhbXBsZV9kYXRhOgogICAgICAgIGltcG9ydCBpbXRvb2xzCiAgICAgICAgaW1wb3J0IGltdG9vbHMuc2FtcGxlX2RhdGEKICAgICAgICBpbXRvb2xzLnNhbXBsZV9kYXRhLmdldF9zYW1wbGVfZGF0YSgnYmlvZHVyX3NhbXBsZScsICdzYW1wbGVfZGF0YS8nKQogICAgICAgIHJldHVybgoK</text>
+      <register name="2" type="4">
+        <text>e(unittest.TestCase):
+    
+    @attr('interactive')
+    def test_something(self):
+        self.assertEqual(True, False)
+
+if __name__ == '__main__':
+    unittest.main()</text>
       </register>
-      <register name="3" type="4">
-        <text>mode</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">RGVidWcg</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>debug</text>
+      <register name="5" type="2">
+        <text encoding="base64">bG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoX19uYW1lX18pCg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">IyBpbXBvcnQgZnVua2PDrSB6IGppbsOpaG8gYWRyZXPDocWZZQo=</text>
       </register>
       <register name="7" type="4">
-        <text>,</text>
+        <text encoding="base64">bXlsaWIuX192ZXJzaW9uX18gPCAoMQ==</text>
       </register>
       <register name="8" type="4">
-        <text>'</text>
+        <text>t</text>
       </register>
       <register name="9" type="4">
-        <text>d</text>
+        <text>e</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
