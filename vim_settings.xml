@@ -59,10 +59,11 @@
         <mark key="^" line="31" column="21" />
         <mark key="." line="31" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/tests/resection_test.py" timestamp="1465913550076">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/projects/lisa/tests/resection_test.py" timestamp="1465914358583">
+        <mark key="[" line="20" column="16" />
+        <mark key="]" line="20" column="15" />
+        <mark key="." line="20" column="15" />
+        <mark key="^" line="20" column="15" />
       </file>
       <file name="$USER_HOME$/projects/quantan/quantan/quantan.py" timestamp="1465904477828">
         <mark key="[" line="837" column="0" />
@@ -1165,11 +1166,11 @@
       <jump line="187" column="16" filename="$USER_HOME$/projects/lisa/lisa/virtual_resection.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEB1bml0dGVzdC5za2lwKCJza2lwcGVkIikK</text>
+      <register name="&quot;" type="4">
+        <text>resection</text>
       </register>
       <register name="-" type="4">
-        <text>class MyTestCa</text>
+        <text>resection</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjdXRfZWRpdG9yX29sZFw+</text>
@@ -1177,39 +1178,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRlZiB0ZXN0X3Nsb3coc2VsZik6CiAgICAgICAgcGFzcwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIEB1bml0dGVzdC5za2lwKCJza2lwcGVkIikK</text>
+      <register name="1" type="4">
+        <text>resection</text>
       </register>
       <register name="2" type="4">
-        <text>class MyTestCa</text>
+        <text>SomeTest</text>
       </register>
       <register name="3" type="4">
-        <text>e(unittest.TestCase):
-    
-    @attr('interactive')
-    def test_something(self):
-        self.assertEqual(True, False)
-
-if __name__ == '__main__':
-    unittest.main()</text>
+        <text>wskip</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X3Nsb3coc2VsZik6CiAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgQHVuaXR0ZXN0LnNraXAoImRlbW9uc3RyYXRpbmcgc2tpcHBpbmciKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoX19uYW1lX18pCg==</text>
+        <text encoding="base64">ICAgICMgQHVuaXR0ZXN0LnNraXBJZihUcnVlLCAiU2tpcHBlZCB0ZXN0IikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBpbXBvcnQgZnVua2PDrSB6IGppbsOpaG8gYWRyZXPDocWZZQo=</text>
+        <text encoding="base64">ICAgIEB1bml0dGVzdC5za2lwSWYoVHJ1ZSwgIlNraXBwZWQgdGVzdCIpCg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">bXlsaWIuX192ZXJzaW9uX18gPCAoMQ==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIEB1bml0dGVzdC5za2lwKCJkZW1vbnN0cmF0aW5nIHNraXBwaW5nIikK</text>
       </register>
-      <register name="9" type="4">
-        <text>t</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIEB1bml0dGVzdC5za2lwKCJza2lwcGVkIikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
