@@ -517,12 +517,12 @@
         <mark key="^" line="0" column="40" />
         <mark key="." line="0" column="40" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/virtual_resection.py" timestamp="1465919169040">
-        <mark key="'" line="128" column="11" />
-        <mark key="[" line="181" column="73" />
-        <mark key="]" line="181" column="77" />
-        <mark key="." line="181" column="77" />
-        <mark key="^" line="181" column="77" />
+      <file name="$USER_HOME$/projects/lisa/lisa/virtual_resection.py" timestamp="1465920666063">
+        <mark key="'" line="215" column="20" />
+        <mark key="[" line="221" column="22" />
+        <mark key="]" line="221" column="21" />
+        <mark key="." line="221" column="21" />
+        <mark key="^" line="221" column="21" />
       </file>
       <file name="$USER_HOME$/projects/quanta/requirements_pip.txt" timestamp="1446724903102">
         <mark key="[" line="4" column="0" />
@@ -1091,8 +1091,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="120" column="4" filename="$USER_HOME$/projects/imtools/imtools/gt_volume.py" />
-      <jump line="125" column="0" filename="$USER_HOME$/projects/imtools/imtools/gt_volume.py" />
       <jump line="126" column="8" filename="$USER_HOME$/projects/imtools/imtools/gt_volume.py" />
       <jump line="130" column="0" filename="$USER_HOME$/projects/imtools/imtools/gt_volume.py" />
       <jump line="131" column="4" filename="$USER_HOME$/projects/imtools/imtools/gt_volume.py" />
@@ -1191,6 +1189,8 @@
       <jump line="367" column="12" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="368" column="43" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="915" column="8" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="189" column="16" filename="$USER_HOME$/projects/lisa/lisa/virtual_resection.py" />
+      <jump line="215" column="20" filename="$USER_HOME$/projects/lisa/lisa/virtual_resection.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1200,7 +1200,7 @@
         <text encoding="base64">VmVpbiA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxidG5WaXJ0dWFsUmVzZWN0aW9uUFZcPg==</text>
+        <text encoding="base64">XDxjdXRfZWRpdG9yX29sZFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBncmlkLmFkZFdpZGdldCgKICAgICAgICAgICAgc2VsZi5fYWRkX2J1dHRvbigiUmVzZWN0aW9uIChQVikiLCBzZWxmLmJ0blZpcnR1YWxSZXNlY3Rpb25QViwgJ2J0bl9yZXNlY3Rpb25fcHYnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICJQb3J0YWwgVmVpbiBiYXNlZCB2aXJ0dWFsIHJlc2VjdGlvbiIpLAogICAgICAgICAgICByc3RhcnQgKyAyLCAzKQo=</text>
@@ -1237,9 +1237,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxidG5WaXJ0dWFsUmVzZWN0aW9uUFZcPg==</last-search>
+      <last-search encoding="base64">XDxjdXRfZWRpdG9yX29sZFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxidG5WaXJ0dWFsUmVzZWN0aW9uUFZcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxjdXRfZWRpdG9yX29sZFw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -1260,11 +1260,11 @@
         <entry>skelet3d</entry>
         <entry>imtools.tree</entry>
         <entry encoding="base64">XDxyZXNlY3Rpb25fb2xkXD4=</entry>
-        <entry encoding="base64">XDxjdXRfZWRpdG9yX29sZFw+</entry>
         <entry encoding="base64">XDx2aXJ0dWFsX3Jlc2VjdGlvbl92aXN1YWxpemF0aW9uXD4=</entry>
         <entry>resection</entry>
         <entry encoding="base64">XDxidG5WaXJ0dWFsUmVzZWN0aW9uXD4=</entry>
         <entry encoding="base64">XDxidG5WaXJ0dWFsUmVzZWN0aW9uUFZcPg==</entry>
+        <entry encoding="base64">XDxjdXRfZWRpdG9yX29sZFw+</entry>
       </history-search>
       <history-cmd>
         <entry>166</entry>
