@@ -416,12 +416,11 @@
         <mark key="^" line="2" column="42" />
         <mark key="." line="2" column="42" />
       </file>
-      <file name="$USER_HOME$/projects/skelet3d/examples/example03.py" timestamp="1465484102706">
-        <mark key="'" line="6" column="32" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="10" column="48" />
+      <file name="$USER_HOME$/projects/skelet3d/examples/example03.py" timestamp="1465900877191">
+        <mark key="[" line="6" column="33" />
+        <mark key="]" line="7" column="19" />
+        <mark key="." line="7" column="19" />
+        <mark key="^" line="7" column="19" />
       </file>
       <file name="$USER_HOME$/projects/skelet3d/skelet3d/libfixer.py" timestamp="1464617490297">
         <mark key="'" line="110" column="21" />
@@ -1130,11 +1129,11 @@
       <jump line="43" column="40" filename="$USER_HOME$/projects/skelet3d/tests/vt_biodur.yaml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>yaml and and sip</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGltdG9vbHMK</text>
       </register>
       <register name="-" type="4">
-        <text>yaml and and sip</text>
+        <text>imtools</text>
       </register>
       <register name="/" type="4">
         <text>PyQ</text>
@@ -1142,32 +1141,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIC0gc3VkbyBhcHQtZ2V0IGluc3RhbGwgLXFxIGNtYWtlIGxpYmluc2lnaHR0b29sa2l0My1kZXYgbGlicG5nMTItZGV2IGxpYmdkY20yLWRldgo=</text>
       </register>
-      <register name="1" type="4">
-        <text>yaml and and sip</text>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IGltdG9vbHMK</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">dW5pY29kZSA=</text>
+        <text>imtools</text>
       </register>
       <register name="3" type="4">
-        <text>/</text>
+        <text>yaml and and sip</text>
       </register>
       <register name="4" type="4">
-        <text>python</text>
+        <text encoding="base64">dW5pY29kZSA=</text>
       </register>
       <register name="5" type="4">
-        <text>[!!</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">dHVwbGUg</text>
-      </register>
-      <register name="7" type="4">
         <text>/</text>
       </register>
-      <register name="8" type="4">
+      <register name="6" type="4">
         <text>python</text>
       </register>
+      <register name="7" type="4">
+        <text>[!!</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">dHVwbGUg</text>
+      </register>
       <register name="9" type="4">
-        <text>!!</text>
+        <text>/</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

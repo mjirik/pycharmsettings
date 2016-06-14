@@ -175,7 +175,7 @@
         <entry key="fiona" value="1.6.0" />
         <entry key="flake8" value="2.5.1" />
         <entry key="flann" value="1.8.4" />
-        <entry key="flask" value="0.11" />
+        <entry key="flask" value="0.11.1" />
         <entry key="flask-compress" value="1.0.2" />
         <entry key="flask-cors" value="2.1.2" />
         <entry key="flask-ldap-login" value="0.3.0" />
@@ -309,7 +309,7 @@
         <entry key="libxslt" value="1.1.28" />
         <entry key="lighttpd" value="1.4.39" />
         <entry key="line_profiler" value="1.0" />
-        <entry key="lisa" value="1.8.32" />
+        <entry key="lisa" value="1.8.33" />
         <entry key="llvm" value="3.3" />
         <entry key="llvmlite" value="0.11.0" />
         <entry key="llvmmath" value="0.1.2" />
@@ -521,7 +521,7 @@
         <entry key="pysnmp" value="4.2.5" />
         <entry key="pystan" value="2.8.0.0" />
         <entry key="pytables" value="3.2.2" />
-        <entry key="pytest" value="2.9.1" />
+        <entry key="pytest" value="2.9.2" />
         <entry key="pytest-cache" value="1.0" />
         <entry key="pytest-cov" value="2.2.1" />
         <entry key="pytest-pep8" value="1.0.6" />
@@ -583,7 +583,7 @@
         <entry key="service_identity" value="16.0.0" />
         <entry key="setuptools" value="23.0.0" />
         <entry key="setuptools_scm" value="1.9.0" />
-        <entry key="sftpsync" value="1.0.7" />
+        <entry key="sftpsync" value="1.0.8" />
         <entry key="sh" value="1.11" />
         <entry key="shapely" value="1.5.13" />
         <entry key="shiboken" value="1.2.1" />
@@ -650,6 +650,7 @@
         <entry key="util-linux" value="2.21" />
         <entry key="uuid" value="1.30" />
         <entry key="vcredist" value="1.0" />
+        <entry key="vcversioner" value="2.16.0.0" />
         <entry key="venusian" value="1.0" />
         <entry key="vincent" value="0.4.4" />
         <entry key="virtualenv" value="13.0.1" />
@@ -666,7 +667,8 @@
         <entry key="webob" value="1.6.0" />
         <entry key="websocket" value="0.2.1" />
         <entry key="webtest" value="2.0.18" />
-        <entry key="werkzeug" value="0.11.9" />
+        <entry key="werkzeug" value="0.11.10" />
+        <entry key="wget" value="2.2" />
         <entry key="wheel" value="0.29.0" />
         <entry key="whisper" value="0.9.13" />
         <entry key="whoosh" value="2.7.3" />
@@ -678,10 +680,10 @@
         <entry key="xarray" value="0.7.2" />
         <entry key="xerces-c" value="3.1.2" />
         <entry key="xlrd" value="1.0.0" />
-        <entry key="xlsxwriter" value="0.8.9" />
+        <entry key="xlsxwriter" value="0.9.1" />
         <entry key="xlutils" value="1.7.1" />
         <entry key="xlwings" value="0.7.2" />
-        <entry key="xlwt" value="1.1.1" />
+        <entry key="xlwt" value="1.1.2" />
         <entry key="xmlrpc2" value="0.3.1" />
         <entry key="xray" value="0.7.0" />
         <entry key="xz" value="5.2.2" />
@@ -2666,6 +2668,7 @@
               <option value="0.9" />
               <option value="0.10" />
               <option value="0.11" />
+              <option value="0.11.1" />
             </list>
           </value>
         </entry>
@@ -3943,6 +3946,7 @@
               <option value="1.8.32" />
               <option value="1.8.26" />
               <option value="1.8.28" />
+              <option value="1.8.33" />
             </list>
           </value>
         </entry>
@@ -6076,6 +6080,7 @@
               <option value="2.8.5" />
               <option value="2.9.1" />
               <option value="2.8.3" />
+              <option value="2.9.2" />
             </list>
           </value>
         </entry>
@@ -6773,6 +6778,7 @@
               <option value="1.0.5" />
               <option value="1.0.6" />
               <option value="1.0.4" />
+              <option value="1.0.8" />
             </list>
           </value>
         </entry>
@@ -7462,6 +7468,13 @@
             </list>
           </value>
         </entry>
+        <entry key="vcversioner">
+          <value>
+            <list>
+              <option value="2.16.0.0" />
+            </list>
+          </value>
+        </entry>
         <entry key="venusian">
           <value>
             <list>
@@ -7604,6 +7617,15 @@
               <option value="0.11.5" />
               <option value="0.11.8" />
               <option value="0.11.9" />
+              <option value="0.11.10" />
+            </list>
+          </value>
+        </entry>
+        <entry key="wget">
+          <value>
+            <list>
+              <option value="1.18" />
+              <option value="2.2" />
             </list>
           </value>
         </entry>
@@ -7727,6 +7749,7 @@
               <option value="0.8.6" />
               <option value="0.8.7" />
               <option value="0.8.9" />
+              <option value="0.9.1" />
             </list>
           </value>
         </entry>
@@ -7770,6 +7793,7 @@
               <option value="0.7.4" />
               <option value="0.7.5" />
               <option value="1.1.1" />
+              <option value="1.1.2" />
             </list>
           </value>
         </entry>
@@ -7876,6 +7900,6 @@
     <option name="CONDA_CHANNELS">
       <set />
     </option>
-    <option name="LAST_TIME_CHECKED" value="1465671088746" />
+    <option name="LAST_TIME_CHECKED" value="1465900754379" />
   </component>
 </application>
