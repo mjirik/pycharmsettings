@@ -50,17 +50,18 @@
   <component name="PyTestFrameworkService">
     <option name="SDK_TO_PYTEST">
       <map>
+        <entry key="/usr/bin/python2.7" value="false" />
         <entry key="$USER_HOME$/miniconda/bin/python" value="true" />
         <entry key="$USER_HOME$/miniconda2/bin/python" value="false" />
-        <entry key="/usr/bin/python2.7" value="false" />
         <entry key="C:\Miniconda2\python.exe" value="false" />
+        <entry key="C:\Users\mjirik\Miniconda2\python.exe" value="false" />
       </map>
     </option>
     <option name="SDK_TO_NOSETEST">
       <map>
+        <entry key="/usr/bin/python2.7" value="true" />
         <entry key="$USER_HOME$/miniconda/bin/python" value="true" />
         <entry key="$USER_HOME$/miniconda2/bin/python" value="true" />
-        <entry key="/usr/bin/python2.7" value="true" />
         <entry key="C:\Miniconda2\python.exe" value="true" />
       </map>
     </option>
