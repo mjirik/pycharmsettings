@@ -59,11 +59,11 @@
         <mark key="^" line="31" column="21" />
         <mark key="." line="31" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/quantan/quantan/quantan.py" timestamp="1465902393283">
-        <mark key="[" line="433" column="13" />
-        <mark key="]" line="433" column="21" />
-        <mark key="." line="433" column="21" />
-        <mark key="^" line="433" column="21" />
+      <file name="$USER_HOME$/projects/quantan/quantan/quantan.py" timestamp="1465904477828">
+        <mark key="[" line="837" column="0" />
+        <mark key="]" line="842" column="0" />
+        <mark key="." line="837" column="0" />
+        <mark key="^" line="827" column="14" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/gen_vtk_tree.py" timestamp="1463677085556">
         <mark key="'" line="133" column="0" />
@@ -733,6 +733,12 @@
         <mark key="^" line="2" column="11" />
         <mark key="." line="2" column="11" />
       </file>
+      <file name="$USER_HOME$/projects/quantan/README.md" timestamp="1465904715012">
+        <mark key="[" line="86" column="13" />
+        <mark key="]" line="88" column="48" />
+        <mark key="^" line="88" column="48" />
+        <mark key="." line="88" column="48" />
+      </file>
       <file name="$USER_HOME$/projects/skelet3d/requirements_conda.txt" timestamp="1465570589469">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="1" />
@@ -1137,44 +1143,44 @@
       <jump line="81" column="20" filename="$USER_HOME$/projects/quantan/tests/histology_test.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;0.0.25&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGlmIGFyZ3MuZ2V0X3NhbXBsZV9kYXRhOgogICAgICAgIGltcG9ydCBpbXRvb2xzCiAgICAgICAgaW1wb3J0IGltdG9vbHMuc2FtcGxlX2RhdGEKICAgICAgICBpbXRvb2xzLnNhbXBsZV9kYXRhLmdldF9zYW1wbGVfZGF0YSgnYmlvZHVyX3NhbXBsZScsICdzYW1wbGVfZGF0YS8nKQogICAgICAgIHJldHVybgoK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>mode</text>
       </register>
       <register name="/" type="4">
         <text>imtools.tree</text>
       </register>
-      <register name="0" type="4">
-        <text>&quot;0.0.25&quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoCiAgICAgICAgJy1kJywgJy0tZGVidWcnLAogICAgICAgIGFjdGlvbj0nc3RvcmVfdHJ1ZScsCiAgICAgICAgaGVscD0nRGVidWcgbW9kZScpCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGlmIGFyZ3MuZ2V0X3NhbXBsZV9kYXRhOgogICAgICAgIGltcG9ydCBpbXRvb2xzCiAgICAgICAgaW1wb3J0IGltdG9vbHMuc2FtcGxlX2RhdGEKICAgICAgICBpbXRvb2xzLnNhbXBsZV9kYXRhLmdldF9zYW1wbGVfZGF0YSgnYmlvZHVyX3NhbXBsZScsICdzYW1wbGVfZGF0YS8nKQogICAgICAgIHJldHVybgoK</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+        <text>mode</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">RGVidWcg</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">X3Byb2Nlc3Npbmcg</text>
+        <text>debug</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">aW10b29scyA=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="6" type="4">
-        <text>imtools</text>
+        <text>,</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGltdG9vbHMK</text>
+      <register name="7" type="4">
+        <text>'</text>
       </register>
       <register name="8" type="4">
-        <text>imtools</text>
+        <text>d</text>
       </register>
       <register name="9" type="4">
-        <text>yaml and and sip</text>
+        <text>-</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
