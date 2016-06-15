@@ -202,12 +202,12 @@
         <mark key="^" line="12" column="34" />
         <mark key="." line="12" column="34" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/tests/vessels_segmentation_test.py" timestamp="1445339956308">
+      <file name="$USER_HOME$/projects/lisa/tests/vessels_segmentation_test.py" timestamp="1465977358829">
         <mark key="'" line="118" column="36" />
-        <mark key="[" line="20" column="5" />
-        <mark key="]" line="20" column="12" />
-        <mark key="^" line="20" column="12" />
-        <mark key="." line="20" column="12" />
+        <mark key="[" line="122" column="26" />
+        <mark key="]" line="122" column="28" />
+        <mark key="^" line="122" column="28" />
+        <mark key="." line="122" column="28" />
       </file>
       <file name="$USER_HOME$/projects/pysegbase/setup.py" timestamp="1446724411661">
         <mark key="[" line="57" column="39" />
@@ -1194,10 +1194,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">VmVpbiA=</text>
+        <text>True</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">VmVpbiA=</text>
+        <text>True</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjdXRfZWRpdG9yX29sZFw+</text>
@@ -1206,31 +1206,31 @@
         <text encoding="base64">ICAgICAgICBncmlkLmFkZFdpZGdldCgKICAgICAgICAgICAgc2VsZi5fYWRkX2J1dHRvbigiUmVzZWN0aW9uIChQVikiLCBzZWxmLmJ0blZpcnR1YWxSZXNlY3Rpb25QViwgJ2J0bl9yZXNlY3Rpb25fcHYnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICJQb3J0YWwgVmVpbiBiYXNlZCB2aXJ0dWFsIHJlc2VjdGlvbiIpLAogICAgICAgICAgICByc3RhcnQgKyAyLCAzKQo=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">VmVpbiA=</text>
+        <text>True</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">UG9ydGFsIA==</text>
+        <text encoding="base64">VmVpbiA=</text>
       </register>
       <register name="3" type="4">
-        <text>Load data from pkl file, 3D Dicom, tiff, ...</text>
+        <text encoding="base64">UG9ydGFsIA==</text>
       </register>
       <register name="4" type="4">
-        <text>SP_FileIcon</text>
+        <text>Load data from pkl file, 3D Dicom, tiff, ...</text>
       </register>
       <register name="5" type="4">
-        <text>.</text>
+        <text>SP_FileIcon</text>
       </register>
       <register name="6" type="4">
-        <text>QStyle</text>
+        <text>.</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">LCA=</text>
+        <text>QStyle</text>
       </register>
       <register name="8" type="4">
-        <text>load_file</text>
+        <text encoding="base64">LCA=</text>
       </register>
       <register name="9" type="4">
-        <text>loadDataFile</text>
+        <text>load_file</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
