@@ -868,8 +868,8 @@
         <mark key="." line="1" column="47" />
         <mark key="^" line="1" column="47" />
       </file>
-      <file name="$USER_HOME$/projects/pysegbase/tests/pycut_test.py" timestamp="1461246618340">
-        <mark key="'" line="29" column="28" />
+      <file name="$USER_HOME$/projects/pysegbase/tests/pycut_test.py" timestamp="1465990653196">
+        <mark key="'" line="228" column="31" />
         <mark key="[" line="51" column="31" />
         <mark key="]" line="53" column="41" />
         <mark key="." line="53" column="41" />
@@ -1094,11 +1094,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="130" column="0" filename="$USER_HOME$/projects/imtools/imtools/gt_volume.py" />
-      <jump line="131" column="4" filename="$USER_HOME$/projects/imtools/imtools/gt_volume.py" />
-      <jump line="134" column="0" filename="$USER_HOME$/projects/imtools/imtools/gt_volume.py" />
-      <jump line="135" column="0" filename="$USER_HOME$/projects/imtools/imtools/gt_volume.py" />
-      <jump line="191" column="0" filename="$USER_HOME$/projects/imtools/imtools/tree_processing.py" />
       <jump line="192" column="8" filename="$USER_HOME$/projects/imtools/imtools/tree_processing.py" />
       <jump line="194" column="0" filename="$USER_HOME$/projects/imtools/imtools/tree_processing.py" />
       <jump line="195" column="8" filename="$USER_HOME$/projects/imtools/imtools/tree_processing.py" />
@@ -1194,6 +1189,11 @@
       <jump line="189" column="16" filename="$USER_HOME$/projects/lisa/lisa/virtual_resection.py" />
       <jump line="215" column="20" filename="$USER_HOME$/projects/lisa/lisa/virtual_resection.py" />
       <jump line="1550" column="23" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="98" column="31" filename="$USER_HOME$/projects/pysegbase/tests/pycut_test.py" />
+      <jump line="127" column="31" filename="$USER_HOME$/projects/pysegbase/tests/pycut_test.py" />
+      <jump line="144" column="31" filename="$USER_HOME$/projects/pysegbase/tests/pycut_test.py" />
+      <jump line="176" column="31" filename="$USER_HOME$/projects/pysegbase/tests/pycut_test.py" />
+      <jump line="228" column="31" filename="$USER_HOME$/projects/pysegbase/tests/pycut_test.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1203,7 +1203,7 @@
         <text>seg</text>
       </register>
       <register name="/" type="4">
-        <text>import</text>
+        <text encoding="base64">XDxtYWtlX2RhdGFcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBncmlkLmFkZFdpZGdldCgKICAgICAgICAgICAgc2VsZi5fYWRkX2J1dHRvbigiUmVzZWN0aW9uIChQVikiLCBzZWxmLmJ0blZpcnR1YWxSZXNlY3Rpb25QViwgJ2J0bl9yZXNlY3Rpb25fcHYnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICJQb3J0YWwgVmVpbiBiYXNlZCB2aXJ0dWFsIHJlc2VjdGlvbiIpLAogICAgICAgICAgICByc3RhcnQgKyAyLCAzKQo=</text>
@@ -1240,15 +1240,14 @@
       </register>
     </registers>
     <search>
-      <last-search>import</last-search>
+      <last-search encoding="base64">XDxtYWtlX2RhdGFcPg==</last-search>
       <last-offset />
-      <last-pattern>import</last-pattern>
+      <last-pattern encoding="base64">XDxtYWtlX2RhdGFcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>pr</entry>
         <entry>print</entry>
         <entry encoding="base64">XDxzZVw+</entry>
         <entry>se</entry>
@@ -1268,6 +1267,7 @@
         <entry encoding="base64">XDxidG5WaXJ0dWFsUmVzZWN0aW9uUFZcPg==</entry>
         <entry encoding="base64">XDxjdXRfZWRpdG9yX29sZFw+</entry>
         <entry>import</entry>
+        <entry encoding="base64">XDxtYWtlX2RhdGFcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>166</entry>
