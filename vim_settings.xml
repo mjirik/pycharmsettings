@@ -165,11 +165,11 @@
         <mark key="^" line="138" column="47" />
         <mark key="." line="138" column="47" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/contributors.md" timestamp="1466162853571">
-        <mark key="[" line="36" column="26" />
-        <mark key="]" line="40" column="58" />
-        <mark key="^" line="40" column="58" />
-        <mark key="." line="40" column="58" />
+      <file name="$USER_HOME$/projects/lisa/contributors.md" timestamp="1466172084920">
+        <mark key="[" line="55" column="15" />
+        <mark key="]" line="55" column="20" />
+        <mark key="^" line="55" column="20" />
+        <mark key="." line="55" column="20" />
       </file>
       <file name="$USER_HOME$/projects/disco/discon/__init__.py" timestamp="1463404075948">
         <mark key="[" line="0" column="0" />
@@ -916,6 +916,12 @@
         <mark key="^" line="38" column="20" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/lisa/docs/conf.py" timestamp="1466172124496">
+        <mark key="[" line="44" column="29" />
+        <mark key="]" line="44" column="44" />
+        <mark key="^" line="44" column="44" />
+        <mark key="." line="44" column="44" />
+      </file>
       <file name="$USER_HOME$/projects/lisa/lisa/training.py" timestamp="1453117814988">
         <mark key="'" line="38" column="8" />
         <mark key="[" line="58" column="18" />
@@ -1042,6 +1048,9 @@
         <mark key="]" line="195" column="23" />
         <mark key="." line="195" column="23" />
         <mark key="^" line="195" column="23" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1466172087550">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/io3d/io3d/misc.py" timestamp="1453295785375">
         <mark key="'" line="19" column="27" />
@@ -1206,53 +1215,53 @@
       <jump line="228" column="31" filename="$USER_HOME$/projects/pysegbase/tests/pycut_test.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>button renamed</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICdpbXRvb2xzJywgJ2ltdG9vbHMubWlzYycK</text>
       </register>
       <register name="-" type="4">
         <text>button renamed</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtYWtlX2RhdGFcPg==</text>
+        <text>imtools</text>
       </register>
       <register name="0" type="4">
         <text>'clean_seeds_after_update_parameters'</text>
       </register>
-      <register name="1" type="4">
-        <text>button renamed</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICdpbXRvb2xzJywgJ2ltdG9vbHMubWlzYycK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">PT09Cg==</text>
+      <register name="2" type="4">
+        <text>button renamed</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">PT09Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PT09Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">R2l0IHdvcmtmbG93Cj09PT0K</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>u</text>
       </register>
-      <register name="8" type="4">
-        <text>přispěvatele</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">cHJvIA==</text>
+        <text>přispěvatele</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtYWtlX2RhdGFcPg==</last-search>
+      <last-search>imtools</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtYWtlX2RhdGFcPg==</last-pattern>
+      <last-pattern>imtools</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -1263,7 +1272,6 @@
         <entry>se</entry>
         <entry>vtk</entry>
         <entry encoding="base64">XDx2dGtcPg==</entry>
-        <entry>imtools</entry>
         <entry encoding="base64">XDxIT01FRElSXD4=</entry>
         <entry>PyQt</entry>
         <entry>Py</entry>
@@ -1278,6 +1286,7 @@
         <entry encoding="base64">XDxjdXRfZWRpdG9yX29sZFw+</entry>
         <entry>import</entry>
         <entry encoding="base64">XDxtYWtlX2RhdGFcPg==</entry>
+        <entry>imtools</entry>
       </history-search>
       <history-cmd>
         <entry>166</entry>
