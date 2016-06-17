@@ -81,8 +81,11 @@
         <mark key="." line="158" column="0" />
         <mark key="^" line="163" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1465988247480">
-        <mark key="'" line="1550" column="23" />
+      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1466153566221">
+        <mark key="'" line="1555" column="23" />
+        <mark key="[" line="369" column="26" />
+        <mark key="]" line="369" column="26" />
+        <mark key="." line="369" column="26" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/loginWindow.py" timestamp="1463783581576">
         <mark key="[" line="48" column="0" />
@@ -385,11 +388,11 @@
         <mark key="." line="11" column="39" />
         <mark key="^" line="11" column="60" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/config_default.py" timestamp="1461677884663">
-        <mark key="[" line="44" column="37" />
-        <mark key="]" line="57" column="38" />
-        <mark key="^" line="57" column="38" />
-        <mark key="." line="57" column="38" />
+      <file name="$USER_HOME$/projects/lisa/lisa/config_default.py" timestamp="1466153401945">
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="56" />
+        <mark key="^" line="61" column="55" />
+        <mark key="." line="73" column="0" />
       </file>
       <file name="$USER_HOME$/projects/psongbook/sobo/doc2txt.py" timestamp="1463473984670">
         <mark key="'" line="0" column="0" />
@@ -1197,43 +1200,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>seg</text>
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>seg</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYWtlX2RhdGFcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBncmlkLmFkZFdpZGdldCgKICAgICAgICAgICAgc2VsZi5fYWRkX2J1dHRvbigiUmVzZWN0aW9uIChQVikiLCBzZWxmLmJ0blZpcnR1YWxSZXNlY3Rpb25QViwgJ2J0bl9yZXNlY3Rpb25fcHYnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICJQb3J0YWwgVmVpbiBiYXNlZCB2aXJ0dWFsIHJlc2VjdGlvbiIpLAogICAgICAgICAgICByc3RhcnQgKyAyLCAzKQo=</text>
+      <register name="0" type="4">
+        <text>'clean_seeds_after_update_parameters'</text>
       </register>
       <register name="1" type="4">
-        <text>seg</text>
+        <text>'</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">TWFudWFsIA==</text>
+        <text>'</text>
       </register>
       <register name="3" type="4">
-        <text>True</text>
+        <text>updated</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">VmVpbiA=</text>
+        <text encoding="base64">c2VnX3Bvc3Rwcm9jX3BhcnMg</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">UG9ydGFsIA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLnNlCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>Load data from pkl file, 3D Dicom, tiff, ...</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIyBzZWxmLnNlZ19wb3N0cHJvY19wYXJzID0gcGFyYW1zWydzZWdfcG9zdHByb2NfcGFycyddCg==</text>
       </register>
       <register name="7" type="4">
-        <text>SP_FileIcon</text>
+        <text>seg_postproc_pars</text>
       </register>
       <register name="8" type="4">
-        <text>.</text>
+        <text>seg</text>
       </register>
       <register name="9" type="4">
-        <text>QStyle</text>
+        <text encoding="base64">TWFudWFsIA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
