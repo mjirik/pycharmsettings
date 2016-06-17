@@ -165,11 +165,11 @@
         <mark key="^" line="138" column="47" />
         <mark key="." line="138" column="47" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/contributors.md" timestamp="1466160783271">
-        <mark key="[" line="46" column="8" />
-        <mark key="]" line="46" column="8" />
-        <mark key="^" line="46" column="8" />
-        <mark key="." line="46" column="8" />
+      <file name="$USER_HOME$/projects/lisa/contributors.md" timestamp="1466162853571">
+        <mark key="[" line="36" column="26" />
+        <mark key="]" line="40" column="58" />
+        <mark key="^" line="40" column="58" />
+        <mark key="." line="40" column="58" />
       </file>
       <file name="$USER_HOME$/projects/disco/discon/__init__.py" timestamp="1463404075948">
         <mark key="[" line="0" column="0" />
@@ -1043,6 +1043,11 @@
         <mark key="." line="195" column="23" />
         <mark key="^" line="195" column="23" />
       </file>
+      <file name="/Dummy.txt" timestamp="1466162943245">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/io3d/io3d/misc.py" timestamp="1453295785375">
         <mark key="'" line="19" column="27" />
         <mark key="[" line="81" column="15" />
@@ -1206,11 +1211,11 @@
       <jump line="228" column="31" filename="$USER_HOME$/projects/pysegbase/tests/pycut_test.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">PT09Cg==</text>
+      <register name="&quot;" type="4">
+        <text>button renamed</text>
       </register>
       <register name="-" type="4">
-        <text>u</text>
+        <text>button renamed</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYWtlX2RhdGFcPg==</text>
@@ -1218,32 +1223,32 @@
       <register name="0" type="4">
         <text>'clean_seeds_after_update_parameters'</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">PT09Cg==</text>
+      <register name="1" type="4">
+        <text>button renamed</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">PT09Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PT09Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">R2l0IHdvcmtmbG93Cj09PT0K</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>u</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>přispěvatele</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">cHJvIA==</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">a2NlIA==</text>
+        <text encoding="base64">cHJvIA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
