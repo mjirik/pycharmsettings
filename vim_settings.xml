@@ -1087,6 +1087,12 @@
         <mark key="^" line="57" column="61" />
         <mark key="." line="57" column="61" />
       </file>
+      <file name="$USER_HOME$/projects/lisa/lisa/organ_model.py" timestamp="1466420314428">
+        <mark key="[" line="355" column="21" />
+        <mark key="]" line="377" column="57" />
+        <mark key="^" line="377" column="61" />
+        <mark key="." line="377" column="57" />
+      </file>
       <file name="$USER_HOME$/projects/lisa/mysetup.py" timestamp="1464961249453">
         <mark key="'" line="238" column="56" />
         <mark key="[" line="232" column="22" />
@@ -1217,43 +1223,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>live</text>
+        <text>u</text>
       </register>
       <register name="-" type="4">
-        <text>live</text>
+        <text>u</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbnRlbnNpdHlfbG9jYWxpemF0aW9uX2Z2XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmdiA9IG5wLmNvbmNhdGVuYXRlKFsKICAgICAgICAgICAgICAgICMgZjAsCiMgICAgICAgICAgICAgICAgIGYxLCBmMiwgZjMsIGY0LAogICAgICAgICAgICAgICAgZmQxLCBmZDIsIGZkMywgZmQ0LCBmZDUsIGZkNiwgZmQ3LAogICAgICAgICAgICAgICAgI2Y2LCBmNywgZjgKICAgICAgICAgICAgXSwgMSkK</text>
+        <text encoding="base64">ICAgIGRlZiB0cmFpbl9saXZlcl9tb2RlbF9mcm9tX3NsaXZlcl9kYXRhKAogICAgICAgICAgICBzZWxmLAogICAgICAgICAgICBvdXRwdXRfZmlsZT0ifi9saXNhX2RhdGEvbGl2ZXJfaW50ZW5zaXR5Lk1vZGVsLnAiLAogICAgICAgICAgICBzbGl2ZXJfcmVmZXJlbmNlX2Rpcj0nfi9kYXRhL21lZGljYWwvb3JpZy9zbGl2ZXIwNy90cmFpbmluZy8nLAogICAgICAgICAgICBvcmlnX3BhdHRlcm49IipvcmlnKlsxLTldLm1oZCIsCiAgICAgICAgICAgIHJlZl9wYXR0ZXJuPSIqc2VnKlsxLTldLm1oZCIsCiAgICAgICAgKToKCiAgICAgICAgc2xpdmVyX3JlZmVyZW5jZV9kaXIgPSBvcC5leHBhbmR1c2VyKHNsaXZlcl9yZWZlcmVuY2VfZGlyKQoKICAgICAgICBvcmlnX2ZuYW1lcyA9IGdsb2IuZ2xvYihzbGl2ZXJfcmVmZXJlbmNlX2RpciArIG9yaWdfcGF0dGVybikKCiAgICAgICAgcmVmX2ZuYW1lcyA9IGdsb2IuZ2xvYihzbGl2ZXJfcmVmZXJlbmNlX2RpciArIHJlZl9wYXR0ZXJuKQoKICAgICAgICBvcmlnX2ZuYW1lcy5zb3J0KCkKICAgICAgICByZWZfZm5hbWVzLnNvcnQoKQoKICAgICAgICBmb3Igb25hbWUsIHJuYW1lIGluIHppcChvcmlnX2ZuYW1lcywgcmVmX2ZuYW1lcyk6CiAgICAgICAgICAgIGxvZ2dlci5kZWJ1ZyhvbmFtZSkKICAgICAgICAgICAgZGF0YTNkX29yaWcsIG1ldGFkYXRhID0gaW8zZC5kYXRhcmVhZGVyLnJlYWQob25hbWUpCiAgICAgICAgICAgIHZzX21tMSA9IG1ldGFkYXRhWyd2b3hlbHNpemVfbW0nXQogICAgICAgICAgICBkYXRhM2Rfc2VnLCBtZXRhZGF0YSA9IGlvM2QuZGF0YXJlYWRlci5yZWFkKHJuYW1lKQogICAgICAgICAgICB2c19tbSA9IG1ldGFkYXRhWyd2b3hlbHNpemVfbW0nXQoKICAgICAgICAgICAgIyBsaXZlciBoYXZlIGxhYmVsIDEsIGJhY2tncm91bmQgaGF2ZSBsYWJlbCAyCiAgICAgICAgICAgIGRhdGEzZF9zZWcgPSAyIC0gZGF0YTNkX3NlZwoKICAgICAgICAgICAgIyAgICAgc2YuYWRkX3RyYWluX2RhdGEoZGF0YTNkX29yaWcsIGRhdGEzZF9zZWcsIHZveGVsc2l6ZV9tbT12c19tbSkKICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgc2VsZi5hZGRfdHJhaW5fZGF0YShkYXRhM2Rfb3JpZywgZGF0YTNkX3NlZywgdm94ZWxzaXplX21tPXZzX21tKQogICAgICAgICAgICBleGNlcHQ6CiAgICAgICAgICAgICAgICB0cmFjZWJhY2sucHJpbnRfZXhjKCkKICAgICAgICAgICAgICAgIHByaW50ICJwcm9ibGVtIC0gbGl2ZXIgbW9kZWwiCiAgICAgICAgICAgICAgICBwYXNzCiAgICAgICAgICAgICAgICAjIGZ2aG4gPSBjb3B5LmRlZXBjb3B5KGZ2aCkKICAgICAgICAgICAgICAgICNmaHNfbGlzdC5hcHBlbmQoZnZoKQoKCiAgICAgICAgc2VsZi5maXQoKQoKICAgICAgICBvdXRwdXRfZmlsZSA9IG9wLmV4cGFuZHVzZXIob3V0cHV0X2ZpbGUpCiAgICAgICAgc2VsZi5jbC5zYXZlKG91dHB1dF9maWxlKQo=</text>
       </register>
       <register name="1" type="4">
-        <text>live</text>
+        <text>u</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmZDEsIGZkMiwgZmQzLCBmZDQsIGZkNSwgZmQ2LCBmZDcsCg==</text>
+        <text encoding="base64">ICAgIGZvcmNlID0gVHJ1ZQogICAgZm9yY2UgPSBGYWxzZQogICAgZm5hbWVfdnMgPSAndnNfc3RhdHMuY3N2JwogICAgZm5hbWVfZmhzID0gJ2Zoc19zdGF0cy5wa2x6JwoKICAgIHNsaXZlcl9yZWZlcmVuY2VfZGlyID0gb3AuZXhwYW5kdXNlcihzbGl2ZXJfcmVmZXJlbmNlX2RpcikKCiAgICBvcmlnX2ZuYW1lcyA9IGdsb2IuZ2xvYihzbGl2ZXJfcmVmZXJlbmNlX2RpciArIG9yaWdfcGF0dGVybikKCiAgICByZWZfZm5hbWVzID0gZ2xvYi5nbG9iKHNsaXZlcl9yZWZlcmVuY2VfZGlyICsgcmVmX3BhdHRlcm4pCgogICAgb3JpZ19mbmFtZXMuc29ydCgpCiAgICByZWZfZm5hbWVzLnNvcnQoKQoKCiAgICAjaWYgb3AuZXhpc3RzKGZuYW1lX3ZzKSBhbmQgb3AuZXhpc3RzKGZuYW1lX2ZocykgYW5kIChmb3JjZSBpcyBGYWxzZSk6CiAgICAjICAgIGRmdnMgPSBwZC5yZWFkX2NzdihmbmFtZV92cywgaW5kZXhfY29sPTApCiAgICAjICAgIGZoc19saXN0ID0gaW8zZC5taXNjLm9ial9mcm9tX2ZpbGUoZm5hbWVfZmhzLCAnYXV0bycpCgogICAgI2Vsc2U6Cg==</text>
       </register>
       <register name="3" type="4">
-        <text>n</text>
-      </register>
-      <register name="4" type="4">
         <text>r</text>
       </register>
-      <register name="5" type="4">
+      <register name="4" type="4">
         <text>e</text>
+      </register>
+      <register name="5" type="4">
+        <text>v</text>
       </register>
       <register name="6" type="4">
-        <text>t</text>
+        <text>i</text>
       </register>
       <register name="7" type="4">
-        <text>x</text>
+        <text>l</text>
       </register>
       <register name="8" type="4">
-        <text>e</text>
+        <text>&quot;*seg*[1-9].mhd&quot;</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICdpbXRvb2xzJywgJ2ltdG9vbHMubWlzYycK</text>
+      <register name="9" type="4">
+        <text>sliver_data</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
