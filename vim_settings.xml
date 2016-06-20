@@ -908,11 +908,11 @@
         <mark key="." line="51" column="37" />
         <mark key="^" line="51" column="37" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/tests/organ_localizator_test.py" timestamp="1466423063518">
-        <mark key="[" line="44" column="20" />
-        <mark key="]" line="44" column="20" />
-        <mark key="^" line="38" column="20" />
-        <mark key="." line="44" column="20" />
+      <file name="$USER_HOME$/projects/lisa/tests/organ_localizator_test.py" timestamp="1466425425990">
+        <mark key="[" line="47" column="55" />
+        <mark key="]" line="47" column="57" />
+        <mark key="^" line="47" column="57" />
+        <mark key="." line="47" column="57" />
       </file>
       <file name="$USER_HOME$/projects/lisa/docs/conf.py" timestamp="1466172124496">
         <mark key="[" line="44" column="29" />
@@ -1075,11 +1075,11 @@
         <mark key="^" line="57" column="61" />
         <mark key="." line="57" column="61" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/organ_model.py" timestamp="1466424219504">
-        <mark key="[" line="397" column="51" />
-        <mark key="]" line="401" column="59" />
-        <mark key="^" line="401" column="59" />
-        <mark key="." line="401" column="59" />
+      <file name="$USER_HOME$/projects/lisa/lisa/organ_model.py" timestamp="1466425667256">
+        <mark key="[" line="429" column="31" />
+        <mark key="]" line="435" column="21" />
+        <mark key="^" line="435" column="21" />
+        <mark key="." line="435" column="21" />
       </file>
       <file name="$USER_HOME$/projects/lisa/mysetup.py" timestamp="1464961249453">
         <mark key="'" line="238" column="56" />
@@ -1210,8 +1210,8 @@
       <jump line="42" column="43" filename="$USER_HOME$/projects/lisa/lisa/liver_model.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>sliver_data</text>
       </register>
       <register name="-" type="4">
         <text>sliver_data</text>
@@ -1220,34 +1220,34 @@
         <text encoding="base64">XDxpbnRlbnNpdHlfbG9jYWxpemF0aW9uX2Z2XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiB0cmFpbl9saXZlcl9tb2RlbF9mcm9tX3NsaXZlcl9kYXRhKAo=</text>
+        <text encoding="base64">ZGVmIHRyYWluX2xpdmVyX21vZGVsX2Zyb21fc2xpdmVyX2RhdGEoCiAgICAgICAgb3V0cHV0X2ZpbGU9In4vbGlzYV9kYXRhL2xpdmVyX2ludGVuc2l0eS5Nb2RlbC5wIiwKICAgICAgICBzbGl2ZXJfcmVmZXJlbmNlX2Rpcj0nfi9kYXRhL21lZGljYWwvb3JpZy9zbGl2ZXIwNy90cmFpbmluZy8nLAogICAgICAgIG9yaWdfcGF0dGVybj0iKm9yaWcqWzEtOV0ubWhkIiwKICAgICAgICByZWZfcGF0dGVybj0iKnNlZypbMS05XS5taGQiLAogICAgICAgIG1vZGVscGFyYW1zPXt9Cik6Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="2" type="4">
+      <register name="1" type="4">
         <text>sliver_data</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="3" type="4">
-        <text>g</text>
+        <text>sliver_data</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBvdXRwdXRfZmlsZT0ifi9saXNhX2RhdGEvbGl2ZXJfaW50ZW5zaXR5Lk1vZGVsLnAiLAogICAgICAgIHNsaXZlcl9yZWZlcmVuY2VfZGlyPSd+L2RhdGEvbWVkaWNhbC9vcmlnL3NsaXZlcjA3L3RyYWluaW5nLycsCiAgICAgICAgb3JpZ19wYXR0ZXJuPSIqb3JpZypbMS05XS5taGQiLAogICAgICAgIHJlZl9wYXR0ZXJuPSIqc2VnKlsxLTldLm1oZCIsCiAgICAgICAgbW9kZWxwYXJhbXM9e30K</text>
       </register>
       <register name="5" type="4">
-        <text>u</text>
+        <text>sliver_data</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGZvcmNlID0gVHJ1ZQogICAgZm9yY2UgPSBGYWxzZQogICAgZm5hbWVfdnMgPSAndnNfc3RhdHMuY3N2JwogICAgZm5hbWVfZmhzID0gJ2Zoc19zdGF0cy5wa2x6JwoKICAgIHNsaXZlcl9yZWZlcmVuY2VfZGlyID0gb3AuZXhwYW5kdXNlcihzbGl2ZXJfcmVmZXJlbmNlX2RpcikKCiAgICBvcmlnX2ZuYW1lcyA9IGdsb2IuZ2xvYihzbGl2ZXJfcmVmZXJlbmNlX2RpciArIG9yaWdfcGF0dGVybikKCiAgICByZWZfZm5hbWVzID0gZ2xvYi5nbG9iKHNsaXZlcl9yZWZlcmVuY2VfZGlyICsgcmVmX3BhdHRlcm4pCgogICAgb3JpZ19mbmFtZXMuc29ydCgpCiAgICByZWZfZm5hbWVzLnNvcnQoKQoKCiAgICAjaWYgb3AuZXhpc3RzKGZuYW1lX3ZzKSBhbmQgb3AuZXhpc3RzKGZuYW1lX2ZocykgYW5kIChmb3JjZSBpcyBGYWxzZSk6CiAgICAjICAgIGRmdnMgPSBwZC5yZWFkX2NzdihmbmFtZV92cywgaW5kZXhfY29sPTApCiAgICAjICAgIGZoc19saXN0ID0gaW8zZC5taXNjLm9ial9mcm9tX2ZpbGUoZm5hbWVfZmhzLCAnYXV0bycpCgogICAgI2Vsc2U6Cg==</text>
+      <register name="6" type="4">
+        <text>slow</text>
       </register>
-      <register name="7" type="4">
-        <text>r</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>e</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="4">
-        <text>v</text>
+        <text>error</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
