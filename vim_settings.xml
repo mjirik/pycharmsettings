@@ -908,11 +908,11 @@
         <mark key="." line="51" column="37" />
         <mark key="^" line="51" column="37" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/tests/organ_localizator_test.py" timestamp="1466425425990">
-        <mark key="[" line="47" column="55" />
-        <mark key="]" line="47" column="57" />
-        <mark key="^" line="47" column="57" />
-        <mark key="." line="47" column="57" />
+      <file name="$USER_HOME$/projects/lisa/tests/organ_localizator_test.py" timestamp="1466430932699">
+        <mark key="[" line="58" column="17" />
+        <mark key="]" line="58" column="27" />
+        <mark key="^" line="58" column="27" />
+        <mark key="." line="58" column="27" />
       </file>
       <file name="$USER_HOME$/projects/lisa/docs/conf.py" timestamp="1466172124496">
         <mark key="[" line="44" column="29" />
@@ -1075,11 +1075,11 @@
         <mark key="^" line="57" column="61" />
         <mark key="." line="57" column="61" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/organ_model.py" timestamp="1466425667256">
-        <mark key="[" line="429" column="31" />
-        <mark key="]" line="435" column="21" />
-        <mark key="^" line="435" column="21" />
-        <mark key="." line="435" column="21" />
+      <file name="$USER_HOME$/projects/lisa/lisa/organ_model.py" timestamp="1466430792972">
+        <mark key="[" line="345" column="0" />
+        <mark key="]" line="345" column="0" />
+        <mark key="^" line="343" column="18" />
+        <mark key="." line="345" column="0" />
       </file>
       <file name="$USER_HOME$/projects/lisa/mysetup.py" timestamp="1464961249453">
         <mark key="'" line="238" column="56" />
@@ -1211,43 +1211,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>sliver_data</text>
+        <text>liver</text>
       </register>
       <register name="-" type="4">
-        <text>sliver_data</text>
+        <text>liver</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbnRlbnNpdHlfbG9jYWxpemF0aW9uX2Z2XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGVmIHRyYWluX2xpdmVyX21vZGVsX2Zyb21fc2xpdmVyX2RhdGEoCiAgICAgICAgb3V0cHV0X2ZpbGU9In4vbGlzYV9kYXRhL2xpdmVyX2ludGVuc2l0eS5Nb2RlbC5wIiwKICAgICAgICBzbGl2ZXJfcmVmZXJlbmNlX2Rpcj0nfi9kYXRhL21lZGljYWwvb3JpZy9zbGl2ZXIwNy90cmFpbmluZy8nLAogICAgICAgIG9yaWdfcGF0dGVybj0iKm9yaWcqWzEtOV0ubWhkIiwKICAgICAgICByZWZfcGF0dGVybj0iKnNlZypbMS05XS5taGQiLAogICAgICAgIG1vZGVscGFyYW1zPXt9Cik6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKCJsYWJlbDoge30iLmZvcm1hdChzdHIobGFiZWwpKSkK</text>
       </register>
       <register name="1" type="4">
-        <text>sliver_data</text>
+        <text>liver</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="2" type="4">
+        <text>liver</text>
       </register>
-      <register name="3" type="4">
-        <text>sliver_data</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoc3RyKHJlZl9mbmFtZXMpKQo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBvdXRwdXRfZmlsZT0ifi9saXNhX2RhdGEvbGl2ZXJfaW50ZW5zaXR5Lk1vZGVsLnAiLAogICAgICAgIHNsaXZlcl9yZWZlcmVuY2VfZGlyPSd+L2RhdGEvbWVkaWNhbC9vcmlnL3NsaXZlcjA3L3RyYWluaW5nLycsCiAgICAgICAgb3JpZ19wYXR0ZXJuPSIqb3JpZypbMS05XS5taGQiLAogICAgICAgIHJlZl9wYXR0ZXJuPSIqc2VnKlsxLTldLm1oZCIsCiAgICAgICAgbW9kZWxwYXJhbXM9e30K</text>
+      <register name="4" type="4">
+        <text>f</text>
       </register>
       <register name="5" type="4">
-        <text>sliver_data</text>
+        <text>e</text>
       </register>
       <register name="6" type="4">
-        <text>slow</text>
+        <text>r</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKCJsYWJlbDoge30iLmZvcm1hdChzdHIobGFiZWwpKSkK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>)</text>
       </register>
       <register name="9" type="4">
-        <text>error</text>
+        <text>(</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
