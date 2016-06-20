@@ -908,11 +908,11 @@
         <mark key="." line="51" column="37" />
         <mark key="^" line="51" column="37" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/tests/organ_localizator_test.py" timestamp="1466430932699">
-        <mark key="[" line="58" column="17" />
-        <mark key="]" line="58" column="27" />
-        <mark key="^" line="58" column="27" />
-        <mark key="." line="58" column="27" />
+      <file name="$USER_HOME$/projects/lisa/tests/organ_localizator_test.py" timestamp="1466432528642">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="^" line="68" column="81" />
+        <mark key="." line="69" column="0" />
       </file>
       <file name="$USER_HOME$/projects/lisa/docs/conf.py" timestamp="1466172124496">
         <mark key="[" line="44" column="29" />
@@ -1210,11 +1210,11 @@
       <jump line="42" column="43" filename="$USER_HOME$/projects/lisa/lisa/liver_model.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>liver</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>liver</text>
+        <text>&quot;left kidney&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbnRlbnNpdHlfbG9jYWxpemF0aW9uX2Z2XD4=</text>
@@ -1222,32 +1222,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKCJsYWJlbDoge30iLmZvcm1hdChzdHIobGFiZWwpKSkK</text>
       </register>
-      <register name="1" type="4">
-        <text>liver</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>liver</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBzZWcsIG1ldGFkYXRhID0gZHIuR2V0M0REYXRhKG9wLmpvaW4oc2FtcGxlX2RhdGFfcGF0aCAsICdsaXZlci0wMDEubWhkJykpCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoc3RyKHJlZl9mbmFtZXMpKQo=</text>
+      <register name="3" type="4">
+        <text>&quot;left kidney&quot;</text>
       </register>
       <register name="4" type="4">
-        <text>f</text>
+        <text>op.join(sample_data_path , 'liver-orig001.mhd')</text>
       </register>
       <register name="5" type="4">
-        <text>e</text>
+        <text>g</text>
       </register>
       <register name="6" type="4">
-        <text>r</text>
+        <text>e</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKCJsYWJlbDoge30iLmZvcm1hdChzdHIobGFiZWwpKSkK</text>
+      <register name="7" type="4">
+        <text>s</text>
       </register>
       <register name="8" type="4">
-        <text>)</text>
+        <text>liver</text>
       </register>
       <register name="9" type="4">
-        <text>(</text>
+        <text>liver</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
