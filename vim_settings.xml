@@ -142,11 +142,11 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/organ_model.py" timestamp="1466508800215">
-        <mark key="[" line="344" column="93" />
-        <mark key="]" line="336" column="0" />
-        <mark key="^" line="336" column="0" />
-        <mark key="." line="336" column="0" />
+      <file name="$USER_HOME$/projects/lisa/lisa/organ_model.py" timestamp="1466541917320">
+        <mark key="[" line="175" column="0" />
+        <mark key="]" line="175" column="0" />
+        <mark key="^" line="165" column="55" />
+        <mark key="." line="175" column="0" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/data_plus.py" timestamp="1461422289621">
         <mark key="[" line="22" column="20" />
@@ -1290,43 +1290,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhcmdzLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;left kidney&quot;</text>
+        <text>ocalization_fv</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbnRlbnNpdHlfbG9jYWxpemF0aW9uX2Z2XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKCJsYWJlbDoge30iLmZvcm1hdChzdHIobGFiZWwpKSkK</text>
+        <text encoding="base64">ICAgIGZ2YWxsID0gb3JnYW5fbG9jYWxpemF0b3IubG9jYWxpemF0aW9uX2Z2KGRhdGEzZHIsIHZveGVsc2l6ZV9tbSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhcmdzLAo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICMgZm9yIG9uYW1lLCBybmFtZSBpbiB6aXAob3JpZ19mbmFtZXMsIHJlZl9mbmFtZXMpOgogICAgIyAgICAgcHJpbnQgb25hbWUKICAgICMgICAgIGRhdGEzZF9vcmlnLCBtZXRhZGF0YSA9IGlvM2QuZGF0YXJlYWRlci5yZWFkKG9uYW1lKQogICAgIyAgICAgdnNfbW0xID0gbWV0YWRhdGFbJ3ZveGVsc2l6ZV9tbSddCiAgICAjICAgICBkYXRhM2Rfc2VnLCBtZXRhZGF0YSA9IGlvM2QuZGF0YXJlYWRlci5yZWFkKHJuYW1lKQogICAgIyAgICAgdnNfbW0gPSBtZXRhZGF0YVsndm94ZWxzaXplX21tJ10KICAgICMKICAgICMgICAgICMgbGl2ZXIgaGF2ZSBsYWJlbCAxLCBiYWNrZ3JvdW5kIGhhdmUgbGFiZWwgMgogICAgIyAgICAgZGF0YTNkX3NlZyA9IDIgLSBkYXRhM2Rfc2VnCiAgICAjCiAgICAjICAgICAjICAgICBzZi5hZGRfdHJhaW5fZGF0YShkYXRhM2Rfb3JpZywgZGF0YTNkX3NlZywgdm94ZWxzaXplX21tPXZzX21tKQogICAgIyAgICAgdHJ5OgogICAgIyAgICAgICAgIHNmLmFkZF90cmFpbl9kYXRhKGRhdGEzZF9vcmlnLCBkYXRhM2Rfc2VnLCB2b3hlbHNpemVfbW09dnNfbW0pCiAgICAjICAgICBleGNlcHQ6CiAgICAjICAgICAgICAgdHJhY2ViYWNrLnByaW50X2V4YygpCiAgICAjICAgICAgICAgcHJpbnQgInByb2JsZW0gLSBsaXZlciBtb2RlbCIKICAgICMgICAgICAgICBwYXNzCiAgICAjICAgICAgICAgIyBmdmhuID0gY29weS5kZWVwY29weShmdmgpCiAgICAjICAgICAgICAgI2Zoc19saXN0LmFwcGVuZChmdmgpCiAgICAjCiAgICAjCiAgICAjIHNmLmZpdCgpCiAgICAjCiAgICAjIG91dHB1dF9maWxlID0gb3AuZXhwYW5kdXNlcihvdXRwdXRfZmlsZSkKICAgICMgc2YuY2wuc2F2ZShvdXRwdXRfZmlsZSkK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBmZG4sCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICMgcHJpbnQgImZ2IHNoYXBlcyAiLCBmMC5zaGFwZSwgZmQyLnNoYXBlLCBmZDMuc2hhcGUK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWcsIG1ldGFkYXRhID0gZHIuR2V0M0REYXRhKG9wLmpvaW4oc2FtcGxlX2RhdGFfcGF0aCAsICdsaXZlci0wMDEubWhkJykpCg==</text>
+        <text encoding="base64">ICAgIGZ2ID0gW10K</text>
       </register>
-      <register name="5" type="4">
-        <text>&quot;left kidney&quot;</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICMgICAgICAgICBwcmludCAicG8gaW1wb3J0ZWNoIgo=</text>
       </register>
-      <register name="6" type="4">
-        <text>op.join(sample_data_path , 'liver-orig001.mhd')</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICMgZjIgPSBzY2lweS5uZGltYWdlLmZpbHRlcnMuZ2F1c3NpYW5fZmlsdGVyKGRhdGEzZHIsIHNpZ21hPTUpLnJlc2hhcGUoLTEsIDEpIC0gZjAKICAgICMgZjMgPSBzY2lweS5uZGltYWdlLmZpbHRlcnMuZ2F1c3NpYW5fZmlsdGVyKGRhdGEzZHIsIHNpZ21hPTEwKS5yZXNoYXBlKC0xLCAxKSAtIGYwCiAgICAjIGY0ID0gc2NpcHkubmRpbWFnZS5maWx0ZXJzLmdhdXNzaWFuX2ZpbHRlcihkYXRhM2RyLCBzaWdtYT0yMCkucmVzaGFwZSgtMSwgMSkgLSBmMAogICAgIyBwb3NpdGlvbgogICAgI3NzID0gbGlzYS5ib2R5X25hdmlnYXRpb24uQm9keU5hdmlnYXRpb24oZGF0YTNkciwgdm94ZWxzaXplX21tKQogICAgI3NzLmZlYXR1cmVfZnVuY3Rpb24oZGF0YTNkLCB2b3hlbHNpemVfbW0pCiAgICAjZmQxID0gc3MuZGlzdF90b19sdW5ncygpLnJlc2hhcGUoLTEsIDEpCiAgICAjZmQyID0gc3MuZGlzdF90b19zcGluZSgpLnJlc2hhcGUoLTEsIDEpCiAgICAjZmQzID0gc3MuZGlzdF9zYWdpdHRhbCgpLnJlc2hhcGUoLTEsIDEpCiAgICAjZmQ0ID0gc3MuZGlzdF9jb3JvbmFsKCkucmVzaGFwZSgtMSwgMSkKICAgICNmZDUgPSBzcy5kaXN0X3RvX3N1cmZhY2UoKS5yZXNoYXBlKC0xLCAxKQogICAgI2ZkNiA9IHNzLmRpc3RfZGlhcGhyYWdtKCkucmVzaGFwZSgtMSwgMSkKCiAgICAjICAgICAgICAgcHJpbnQgInByZWQgZjYiCiAgICAjICAgICBmNiA9IHNjaXB5Lm5kaW1hZ2UuZmlsdGVycy5nYXVzc2lhbl9maWx0ZXIoZGF0YTNkciwgc2lnbWE9WzEwLCAxLCAxXSkucmVzaGFwZSgtMSwgMSkgLSBmMQogICAgIyAgICAgZjcgPSBzY2lweS5uZGltYWdlLmZpbHRlcnMuZ2F1c3NpYW5fZmlsdGVyKGRhdGEzZHIsIHNpZ21hPVsxLCAxMCwgMV0pLnJlc2hhcGUoLTEsIDEpIC0gZjEKICAgICMgICAgIGY4ID0gc2NpcHkubmRpbWFnZS5maWx0ZXJzLmdhdXNzaWFuX2ZpbHRlcihkYXRhM2RyLCBzaWdtYT1bMSwgMSwgMTBdKS5yZXNoYXBlKC0xLCAxKSAtIGYxCgogICAgIyAgICAgICAgIHByaW50ICJwcmVkIG9yZ2FuX2xvY2FsaXphdG9yIgogICAgIyBvbCA9IG9yZ2FuX2xvY2FsaXphdG9yLk9yZ2FuTG9jYWxpemF0b3IoKQogICAgIyBvbC5sb2FkKG9wLmV4cGFuZHVzZXIoIn4vbGlzYV9kYXRhL2xpdmVyLm9sLnAiKSkKCiAgICAjIGZkYWxsID0gb2wuZmVhdHVyZV9mdW5jdGlvbihkYXRhM2RyLCB2b3hlbHNpemVfbW0pCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>g</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>e</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>s</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIG1pZGRsZV9saXZlciA9IG9sLnByZWRpY3RfdyhkYXRhM2RyLCB2b3hlbHNpemVfbW0sIDAuODUpCiAgICBtbiA9IG5wLm1lZGlhbihkYXRhM2RyW21pZGRsZV9saXZlcj09MV0pCiAgICBmZG4gPSBucC5vbmVzKGYwLnNoYXBlKSAqIG1uCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
