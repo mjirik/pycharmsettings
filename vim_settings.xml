@@ -142,11 +142,11 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/organ_model.py" timestamp="1466541917320">
-        <mark key="[" line="175" column="0" />
-        <mark key="]" line="175" column="0" />
+      <file name="$USER_HOME$/projects/lisa/lisa/organ_model.py" timestamp="1466545011573">
+        <mark key="[" line="380" column="0" />
+        <mark key="]" line="380" column="0" />
         <mark key="^" line="165" column="55" />
-        <mark key="." line="175" column="0" />
+        <mark key="." line="380" column="0" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/data_plus.py" timestamp="1461422289621">
         <mark key="[" line="22" column="20" />
@@ -310,6 +310,12 @@
         <mark key="]" line="206" column="49" />
         <mark key="^" line="206" column="49" />
         <mark key="." line="206" column="49" />
+      </file>
+      <file name="$USER_HOME$/projects/lisa/lisa/body_navigation.py" timestamp="1466544517018">
+        <mark key="[" line="316" column="23" />
+        <mark key="]" line="316" column="25" />
+        <mark key="^" line="316" column="25" />
+        <mark key="." line="316" column="25" />
       </file>
       <file name="$USER_HOME$/projects/psongbook/sobo/transpose.py" timestamp="1463488061362">
         <mark key="'" line="65" column="17" />
@@ -1289,8 +1295,8 @@
       <jump line="29" column="70" filename="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>g</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoInNhZmFzZmRzYWZkc2FmYXNmYWRmc2FkZiIpCg==</text>
       </register>
       <register name="-" type="4">
         <text>g</text>
@@ -1301,32 +1307,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGZ2YWxsID0gb3JnYW5fbG9jYWxpemF0b3IubG9jYWxpemF0aW9uX2Z2KGRhdGEzZHIsIHZveGVsc2l6ZV9tbSkK</text>
       </register>
-      <register name="1" type="4">
-        <text>g</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoInNhZmFzZmRzYWZkc2FmYXNmYWRmc2FkZiIpCg==</text>
       </register>
       <register name="2" type="4">
-        <text>i</text>
+        <text>g</text>
       </register>
       <register name="3" type="4">
-        <text>v</text>
+        <text>i</text>
       </register>
       <register name="4" type="4">
-        <text>a</text>
+        <text>v</text>
       </register>
       <register name="5" type="4">
-        <text>n</text>
+        <text>a</text>
       </register>
       <register name="6" type="4">
+        <text>n</text>
+      </register>
+      <register name="7" type="4">
         <text>y</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmZG4sCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgcHJpbnQgImZ2IHNoYXBlcyAiLCBmMC5zaGFwZSwgZmQyLnNoYXBlLCBmZDMuc2hhcGUK</text>
+        <text encoding="base64">ICAgICAgICBmZG4sCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
