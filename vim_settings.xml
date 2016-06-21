@@ -142,11 +142,12 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/organ_model.py" timestamp="1466545011573">
-        <mark key="[" line="380" column="0" />
-        <mark key="]" line="380" column="0" />
-        <mark key="^" line="165" column="55" />
-        <mark key="." line="380" column="0" />
+      <file name="$USER_HOME$/projects/lisa/lisa/organ_model.py" timestamp="1466546106342">
+        <mark key="'" line="372" column="15" />
+        <mark key="[" line="173" column="9" />
+        <mark key="]" line="173" column="9" />
+        <mark key="^" line="173" column="9" />
+        <mark key="." line="173" column="9" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/data_plus.py" timestamp="1461422289621">
         <mark key="[" line="22" column="20" />
@@ -1193,8 +1194,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="207" column="8" filename="$USER_HOME$/projects/imtools/imtools/tree_processing.py" />
-      <jump line="214" column="0" filename="$USER_HOME$/projects/imtools/imtools/tree_processing.py" />
       <jump line="215" column="8" filename="$USER_HOME$/projects/imtools/imtools/tree_processing.py" />
       <jump line="222" column="0" filename="$USER_HOME$/projects/imtools/imtools/tree_processing.py" />
       <jump line="231" column="50" filename="$USER_HOME$/projects/imtools/imtools/tree_processing.py" />
@@ -1293,6 +1292,8 @@
       <jump line="42" column="43" filename="$USER_HOME$/projects/lisa/lisa/liver_model.py" />
       <jump line="42" column="22" filename="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" />
       <jump line="29" column="70" filename="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" />
+      <jump line="363" column="12" filename="$USER_HOME$/projects/lisa/lisa/organ_model.py" />
+      <jump line="372" column="15" filename="$USER_HOME$/projects/lisa/lisa/organ_model.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1302,7 +1303,7 @@
         <text>g</text>
       </register>
       <register name="/" type="4">
-        <text>bodynavigation</text>
+        <text encoding="base64">XDxvdXRwdXRfZmlsZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGZ2YWxsID0gb3JnYW5fbG9jYWxpemF0b3IubG9jYWxpemF0aW9uX2Z2KGRhdGEzZHIsIHZveGVsc2l6ZV9tbSkK</text>
@@ -1339,15 +1340,14 @@
       </register>
     </registers>
     <search>
-      <last-search>bodynavigation</last-search>
+      <last-search encoding="base64">XDxvdXRwdXRfZmlsZVw+</last-search>
       <last-offset />
-      <last-pattern>bodynavigation</last-pattern>
+      <last-pattern encoding="base64">XDxvdXRwdXRfZmlsZVw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjYWNoZVw+</entry>
         <entry>Update</entry>
         <entry>feature</entry>
         <entry>yaml</entry>
@@ -1367,9 +1367,9 @@
         <entry>PyQ</entry>
         <entry>Py</entry>
         <entry>bodynavigation</entry>
+        <entry encoding="base64">XDxvdXRwdXRfZmlsZVw+</entry>
       </history-search>
       <history-cmd>
-        <entry>178</entry>
         <entry>220</entry>
         <entry>89</entry>
         <entry>125</entry>
@@ -1388,6 +1388,7 @@
         <entry>179</entry>
         <entry>94</entry>
         <entry>35</entry>
+        <entry>174</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
