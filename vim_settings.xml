@@ -178,11 +178,11 @@
         <mark key="^" line="57" column="47" />
         <mark key="." line="57" column="47" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/lisa_data.py" timestamp="1465162893756">
+      <file name="$USER_HOME$/projects/lisa/lisa/lisa_data.py" timestamp="1466587621586">
         <mark key="a" line="21" column="0" />
         <mark key="'" line="169" column="0" />
-        <mark key="[" line="46" column="100" />
-        <mark key="]" line="46" column="100" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="23" />
         <mark key="." line="46" column="100" />
         <mark key="^" line="116" column="54" />
       </file>
@@ -226,11 +226,12 @@
         <mark key="^" line="52" column="10" />
         <mark key="." line="52" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/organ_model.py" timestamp="1466586309162">
-        <mark key="[" line="151" column="7" />
-        <mark key="]" line="143" column="70" />
-        <mark key="^" line="143" column="70" />
-        <mark key="." line="143" column="70" />
+      <file name="$USER_HOME$/projects/lisa/lisa/organ_model.py" timestamp="1466587630525">
+        <mark key="'" line="99" column="3" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="23" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="43" column="13" />
       </file>
       <file name="$USER_HOME$/projects/skelet3d/bld.bat" timestamp="1446806979486">
         <mark key="[" line="55" column="0" />
@@ -968,7 +969,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1311" column="19" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="457" column="13" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="609" column="0" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="733" column="25" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
@@ -1068,46 +1068,47 @@
       <jump line="1374" column="12" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="196" column="16" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="326" column="11" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="97" column="3" filename="$USER_HOME$/projects/lisa/lisa/organ_model.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>*</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0K</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>_output_data</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZ2ID0gbnAuY29uY2F0ZW5hdGUoWwogICAgICAgIGYwLAogICAgICAgIGYxLAogICAgICAgICMgICAgICAgICAgICAgICAgIGYyLCBmMywgZjQsCiAgICAgICAgIyAgICAgICAgICAgICAgICAgZmQxLCBmZDIsIGZkMywgZmQ0LCBmZDUsIGZkNiwKICAgICAgICBmZGFsbCwKICAgICAgICBmNiwgZjcsIGY4LAogICAgICAgIGZkbiwKCiAgICBdLCAxKQo=</text>
+        <text encoding="base64">IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0K</text>
       </register>
       <register name="1" type="4">
-        <text>*</text>
-      </register>
-      <register name="2" type="4">
         <text>s</text>
       </register>
+      <register name="2" type="4">
+        <text>p</text>
+      </register>
       <register name="3" type="4">
-        <text>v</text>
+        <text>e</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIDpwYXJhbSB2b3hlbHNpemVfbW06Cg==</text>
+      <register name="4" type="4">
+        <text>t</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIDpwYXJhbSBkYXRhM2RyOgo=</text>
+      <register name="5" type="4">
+        <text>s</text>
       </register>
       <register name="6" type="4">
-        <text>voxelsize_mm</text>
+        <text>2</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">LCA=</text>
+        <text>_</text>
       </register>
       <register name="8" type="4">
-        <text>data3dr</text>
+        <text>_</text>
       </register>
       <register name="9" type="4">
-        <text>from</text>
+        <text>y</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
