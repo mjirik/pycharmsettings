@@ -226,6 +226,12 @@
         <mark key="^" line="52" column="10" />
         <mark key="." line="52" column="10" />
       </file>
+      <file name="$USER_HOME$/projects/lisa/lisa/organ_model.py" timestamp="1466586309162">
+        <mark key="[" line="151" column="7" />
+        <mark key="]" line="143" column="70" />
+        <mark key="^" line="143" column="70" />
+        <mark key="." line="143" column="70" />
+      </file>
       <file name="$USER_HOME$/projects/skelet3d/bld.bat" timestamp="1446806979486">
         <mark key="[" line="55" column="0" />
         <mark key="]" line="64" column="22" />
@@ -1065,43 +1071,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>from</text>
+        <text>*</text>
       </register>
       <register name="-" type="4">
-        <text>from</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text>_output_data</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiRG93bmxvYWQgc3RhcnRlZFxucmVtb3RlIGZyb20ge31cbmxvY2FsIGZyb20ge30iLmZvcm1hdChyZW1vdGVmcm9tLCBsb2NhbGZyb20pKQo=</text>
+        <text encoding="base64">ICAgIGZ2ID0gbnAuY29uY2F0ZW5hdGUoWwogICAgICAgIGYwLAogICAgICAgIGYxLAogICAgICAgICMgICAgICAgICAgICAgICAgIGYyLCBmMywgZjQsCiAgICAgICAgIyAgICAgICAgICAgICAgICAgZmQxLCBmZDIsIGZkMywgZmQ0LCBmZDUsIGZkNiwKICAgICAgICBmZGFsbCwKICAgICAgICBmNiwgZjcsIGY4LAogICAgICAgIGZkbiwKCiAgICBdLCAxKQo=</text>
       </register>
       <register name="1" type="4">
-        <text>from</text>
+        <text>*</text>
       </register>
       <register name="2" type="4">
-        <text>rom</text>
+        <text>s</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">ZnJvbSA=</text>
+        <text>v</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ZnJvbSA=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIDpwYXJhbSB2b3hlbHNpemVfbW06Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiVXBsb2FkIHN0YXJ0ZWQiKQo=</text>
+        <text encoding="base64">ICAgIDpwYXJhbSBkYXRhM2RyOgo=</text>
       </register>
       <register name="6" type="4">
-        <text>n</text>
+        <text>voxelsize_mm</text>
       </register>
       <register name="7" type="4">
-        <text>w</text>
+        <text encoding="base64">LCA=</text>
       </register>
       <register name="8" type="4">
-        <text>o</text>
+        <text>data3dr</text>
       </register>
       <register name="9" type="4">
-        <text>D</text>
+        <text>from</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
