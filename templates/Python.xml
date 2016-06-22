@@ -1,0 +1,20 @@
+<templateSet group="Python">
+  <template name="pdb" value="import pdb; pdb.set_trace()" description="pdb debugger" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+      <option name="Python_Class" value="true" />
+    </context>
+  </template>
+  <template name="skipif" value="@unittest.skipIf(True, &quot;skipped&quot;)" description="Skip if test" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+      <option name="Python_Class" value="true" />
+    </context>
+  </template>
+  <template name="skip" value="@unittest.skip(&quot;skipped&quot;)" description="Skip test" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+      <option name="Python_Class" value="true" />
+    </context>
+  </template>
+</templateSet>
