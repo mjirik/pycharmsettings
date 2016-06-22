@@ -1078,7 +1078,7 @@
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>_output_data</text>
+        <text>random rotata</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0K</text>
@@ -1115,15 +1115,14 @@
       </register>
     </registers>
     <search>
-      <last-search>_output_data</last-search>
+      <last-search>random rotata</last-search>
       <last-offset />
-      <last-pattern>_output_data</last-pattern>
+      <last-pattern>random rotata</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxidG5SYW5kb21Sb3RhdGVcPg==</entry>
         <entry>random</entry>
         <entry>logo</entry>
         <entry>get_conda</entry>
@@ -1143,6 +1142,7 @@
         <entry>sync</entry>
         <entry>_output</entry>
         <entry>_output_data</entry>
+        <entry>random rotata</entry>
       </history-search>
       <history-cmd>
         <entry>592</entry>
