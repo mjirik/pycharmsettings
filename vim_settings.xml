@@ -108,9 +108,9 @@
         <mark key="^" line="2" column="66" />
         <mark key="." line="2" column="66" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1465980921586">
+      <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1466758912566">
         <mark key="a" line="542" column="23" />
-        <mark key="'" line="926" column="8" />
+        <mark key="'" line="255" column="17" />
         <mark key="[" line="292" column="38" />
         <mark key="]" line="292" column="39" />
         <mark key="^" line="292" column="39" />
@@ -341,14 +341,6 @@
         <mark key="^" line="68" column="28" />
         <mark key="." line="68" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/tests/experiments_test.py" timestamp="1465912645434">
-        <mark key="a" line="194" column="31" />
-        <mark key="'" line="45" column="43" />
-        <mark key="[" line="129" column="37" />
-        <mark key="]" line="129" column="44" />
-        <mark key="^" line="129" column="44" />
-        <mark key="." line="129" column="44" />
-      </file>
       <file name="$USER_HOME$/projects/quanta/setup.py" timestamp="1446640023460">
         <mark key="[" line="58" column="105" />
         <mark key="]" line="58" column="115" />
@@ -446,14 +438,6 @@
         <mark key="]" line="1" column="24" />
         <mark key="^" line="2" column="42" />
         <mark key="." line="2" column="42" />
-      </file>
-      <file name="$USER_HOME$/projects/imtools/imtools/gen_vtk_tree.py" timestamp="1465563883261">
-        <mark key="a" line="230" column="4" />
-        <mark key="'" line="24" column="47" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="15" column="103" />
-        <mark key="." line="15" column="101" />
-        <mark key="^" line="15" column="101" />
       </file>
       <file name="$USER_HOME$/projects/skelet3d/examples/example03.py" timestamp="1465901557731">
         <mark key="[" line="28" column="7" />
@@ -715,14 +699,6 @@
         <mark key="^" line="80" column="12" />
         <mark key="." line="80" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/skelet3d/skelet3d/skeleton_analyser.py" timestamp="1465560469197">
-        <mark key="a" line="527" column="28" />
-        <mark key="'" line="362" column="10" />
-        <mark key="[" line="62" column="68" />
-        <mark key="]" line="62" column="68" />
-        <mark key="." line="62" column="68" />
-        <mark key="^" line="62" column="68" />
-      </file>
       <file name="$USER_HOME$/projects/quaha/quaha/histology_report.py" timestamp="1445327745987">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="12" />
@@ -934,14 +910,6 @@
         <mark key="^" line="28" column="21" />
         <mark key="." line="28" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/tests/organ_segmentation_test.py" timestamp="1465914671375">
-        <mark key="a" line="422" column="26" />
-        <mark key="'" line="43" column="31" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="39" column="50" />
-        <mark key="." line="326" column="63" />
-        <mark key="^" line="326" column="63" />
-      </file>
       <file name="$USER_HOME$/projects/psongbook/setup.py" timestamp="1463464617794">
         <mark key="[" line="46" column="14" />
         <mark key="]" line="46" column="35" />
@@ -1108,8 +1076,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="200" column="8" filename="$USER_HOME$/projects/imtools/imtools/tree_processing.py" />
-      <jump line="206" column="0" filename="$USER_HOME$/projects/imtools/imtools/tree_processing.py" />
       <jump line="207" column="8" filename="$USER_HOME$/projects/imtools/imtools/tree_processing.py" />
       <jump line="214" column="0" filename="$USER_HOME$/projects/imtools/imtools/tree_processing.py" />
       <jump line="215" column="8" filename="$USER_HOME$/projects/imtools/imtools/tree_processing.py" />
@@ -1208,6 +1174,8 @@
       <jump line="1090" column="23" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="1629" column="4" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="42" column="43" filename="$USER_HOME$/projects/lisa/lisa/liver_model.py" />
+      <jump line="603" column="8" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="255" column="17" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1217,7 +1185,7 @@
         <text>&quot;left kidney&quot;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbnRlbnNpdHlfbG9jYWxpemF0aW9uX2Z2XD4=</text>
+        <text encoding="base64">XDxfYWRkX2J1dHRvblw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKCJsYWJlbDoge30iLmZvcm1hdChzdHIobGFiZWwpKSkK</text>
@@ -1254,16 +1222,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpbnRlbnNpdHlfbG9jYWxpemF0aW9uX2Z2XD4=</last-search>
+      <last-search encoding="base64">XDxfYWRkX2J1dHRvblw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbnRlbnNpdHlfbG9jYWxpemF0aW9uX2Z2XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxfYWRkX2J1dHRvblw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>se</entry>
-        <entry>vtk</entry>
         <entry encoding="base64">XDx2dGtcPg==</entry>
         <entry encoding="base64">XDxIT01FRElSXD4=</entry>
         <entry>PyQt</entry>
@@ -1282,6 +1248,8 @@
         <entry>imtools</entry>
         <entry encoding="base64">XDxib2x0em1hblw+</entry>
         <entry encoding="base64">XDxpbnRlbnNpdHlfbG9jYWxpemF0aW9uX2Z2XD4=</entry>
+        <entry encoding="base64">XDxjcm9wRGNtXD4=</entry>
+        <entry encoding="base64">XDxfYWRkX2J1dHRvblw+</entry>
       </history-search>
       <history-cmd>
         <entry>166</entry>
