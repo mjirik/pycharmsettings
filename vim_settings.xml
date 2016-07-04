@@ -762,12 +762,9 @@
         <mark key="^" line="2" column="42" />
         <mark key="." line="2" column="42" />
       </file>
-      <file name="$USER_HOME$/projects/sobo/sobo/songparser.py" timestamp="1463520329875">
-        <mark key="'" line="68" column="4" />
-        <mark key="[" line="68" column="24" />
-        <mark key="]" line="68" column="28" />
-        <mark key="^" line="68" column="28" />
-        <mark key="." line="68" column="28" />
+      <file name="$USER_HOME$/projects/sobo/sobo/songparser.py" timestamp="1467671032311">
+        <mark key="'" line="93" column="4" />
+        <mark key="[" line="25" column="26" />
       </file>
       <file name="$USER_HOME$/projects/skelet3d/skelet3d/__init__.py" timestamp="1465564785601">
         <mark key="[" line="4" column="0" />
@@ -1295,46 +1292,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgIGRlZiBnZXRfbGluZXMoc2VsZik6Cgo=</text>
       </register>
       <register name="-" type="4">
-        <text>g</text>
+        <text encoding="base64">bmFtZSA=</text>
       </register>
       <register name="/" type="4">
         <text>os.get</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmIHN5cy5wbGF0Zm9ybS5zdGFydHN3aXRoKCd3aW4nKToKICAgICAgICBwYXNzCiAgICBlbHNlOgo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm5hbWUgPSBzcGxbMF0uc3RyaXAoKQo=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgIGRlZiBnZXRfbGluZXMoc2VsZik6Cgo=</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">bmFtZSA=</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
-      <register name="2" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIGVsc2U6Cg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoInNhZmFzZmRzYWZkc2FmYXNmYWRmc2FkZiIpCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text>g</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text>i</text>
       </register>
-      <register name="6" type="4">
+      <register name="9" type="4">
         <text>v</text>
       </register>
-      <register name="7" type="4">
-        <text>a</text>
-      </register>
-      <register name="8" type="4">
-        <text>n</text>
-      </register>
-      <register name="9" type="4">
-        <text>y</text>
-      </register>
       <register name=":" type="4">
-        <text>34</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1386,8 +1386,8 @@
         <entry>81</entry>
         <entry>W</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>34</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
