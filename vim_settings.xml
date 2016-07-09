@@ -947,12 +947,12 @@
         <mark key="." line="3" column="21" />
         <mark key="^" line="3" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/sobo/sobo/psongbook.py" timestamp="1468041088385">
+      <file name="$USER_HOME$/projects/sobo/sobo/psongbook.py" timestamp="1468042235989">
         <mark key="'" line="186" column="4" />
-        <mark key="[" line="266" column="30" />
-        <mark key="]" line="268" column="3" />
-        <mark key="^" line="268" column="3" />
-        <mark key="." line="268" column="3" />
+        <mark key="[" line="314" column="33" />
+        <mark key="]" line="314" column="33" />
+        <mark key="^" line="314" column="33" />
+        <mark key="." line="314" column="33" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/training.py" timestamp="1453117814988">
         <mark key="'" line="38" column="8" />
@@ -1295,46 +1295,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>True, False</text>
+        <text>txt</text>
       </register>
       <register name="-" type="4">
-        <text>True, False</text>
+        <text>txt</text>
       </register>
       <register name="/" type="4">
         <text>os.get</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X3NvbWV0aGluZyhzZWxmKToKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKFRydWUsIEZhbHNlKQo=</text>
+        <text encoding="base64">ICAgIHNheF9mbiA9IG9wLmpvaW4ocGF0aCwic2F4YW5hLnR4dCIpCg==</text>
       </register>
       <register name="1" type="4">
-        <text>True, False</text>
+        <text>txt</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>Equal</text>
+        <text>.</text>
       </register>
       <register name="3" type="4">
-        <text>something</text>
+        <text>saxana</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXRfbGluZXMoc2VsZik6Cgo=</text>
+      <register name="4" type="4">
+        <text>x</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">bmFtZSA=</text>
+        <text>a</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+        <text>s</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+      <register name="7" type="4">
+        <text>'</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
+      <register name="8" type="4">
+        <text>t</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoInNhZmFzZmRzYWZkc2FmYXNmYWRmc2FkZiIpCg==</text>
+      <register name="9" type="4">
+        <text>x</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
