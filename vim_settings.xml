@@ -947,12 +947,12 @@
         <mark key="." line="3" column="21" />
         <mark key="^" line="3" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/sobo/sobo/psongbook.py" timestamp="1463520226888">
+      <file name="$USER_HOME$/projects/sobo/sobo/psongbook.py" timestamp="1468041088385">
         <mark key="'" line="186" column="4" />
-        <mark key="[" line="367" column="33" />
-        <mark key="]" line="367" column="70" />
-        <mark key="^" line="367" column="70" />
-        <mark key="." line="367" column="70" />
+        <mark key="[" line="266" column="30" />
+        <mark key="]" line="268" column="3" />
+        <mark key="^" line="268" column="3" />
+        <mark key="." line="268" column="3" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/training.py" timestamp="1453117814988">
         <mark key="'" line="38" column="8" />
@@ -1045,6 +1045,9 @@
         <mark key="]" line="78" column="16" />
         <mark key="^" line="78" column="16" />
         <mark key="." line="78" column="16" />
+      </file>
+      <file name="$USER_HOME$/projects/sobo/tests/sobo_test.py" timestamp="1468040831003">
+        <mark key="[" line="10" column="48" />
       </file>
       <file name="$USER_HOME$/projects/psongbook/sobo/transpose.py" timestamp="1463488061362">
         <mark key="'" line="65" column="17" />
@@ -1291,47 +1294,47 @@
       <jump line="54" column="0" filename="$USER_HOME$/projects/skelet3d/skelet3d/libfixer.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXRfbGluZXMoc2VsZik6Cgo=</text>
+      <register name="&quot;" type="4">
+        <text>True, False</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bmFtZSA=</text>
+        <text>True, False</text>
       </register>
       <register name="/" type="4">
         <text>os.get</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm5hbWUgPSBzcGxbMF0uc3RyaXAoKQo=</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X3NvbWV0aGluZyhzZWxmKToKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKFRydWUsIEZhbHNlKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXRfbGluZXMoc2VsZik6Cgo=</text>
+      <register name="1" type="4">
+        <text>True, False</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">bmFtZSA=</text>
+        <text>Equal</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+        <text>something</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgIGRlZiBnZXRfbGluZXMoc2VsZik6Cgo=</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">bmFtZSA=</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGVsc2U6Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoInNhZmFzZmRzYWZkc2FmYXNmYWRmc2FkZiIpCg==</text>
-      </register>
-      <register name="7" type="4">
-        <text>g</text>
-      </register>
-      <register name="8" type="4">
-        <text>i</text>
-      </register>
-      <register name="9" type="4">
-        <text>v</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
