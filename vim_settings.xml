@@ -762,9 +762,12 @@
         <mark key="^" line="2" column="42" />
         <mark key="." line="2" column="42" />
       </file>
-      <file name="$USER_HOME$/projects/sobo/sobo/songparser.py" timestamp="1467671032311">
-        <mark key="'" line="93" column="4" />
-        <mark key="[" line="25" column="26" />
+      <file name="$USER_HOME$/projects/sobo/sobo/songparser.py" timestamp="1468045991468">
+        <mark key="'" line="119" column="4" />
+        <mark key="[" line="49" column="41" />
+        <mark key="]" line="50" column="36" />
+        <mark key="." line="50" column="36" />
+        <mark key="^" line="50" column="36" />
       </file>
       <file name="$USER_HOME$/projects/skelet3d/skelet3d/__init__.py" timestamp="1465564785601">
         <mark key="[" line="4" column="0" />
@@ -947,12 +950,13 @@
         <mark key="." line="3" column="21" />
         <mark key="^" line="3" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/sobo/sobo/psongbook.py" timestamp="1468042235989">
-        <mark key="'" line="186" column="4" />
-        <mark key="[" line="314" column="33" />
-        <mark key="]" line="314" column="33" />
-        <mark key="^" line="314" column="33" />
-        <mark key="." line="314" column="33" />
+      <file name="$USER_HOME$/projects/sobo/sobo/psongbook.py" timestamp="1468046277734">
+        <mark key="a" line="116" column="26" />
+        <mark key="'" line="192" column="4" />
+        <mark key="[" line="134" column="15" />
+        <mark key="]" line="134" column="15" />
+        <mark key="." line="134" column="15" />
+        <mark key="^" line="135" column="67" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/training.py" timestamp="1453117814988">
         <mark key="'" line="38" column="8" />
@@ -1295,46 +1299,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>txt</text>
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>txt</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>os.get</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHNheF9mbiA9IG9wLmpvaW4ocGF0aCwic2F4YW5hLnR4dCIpCg==</text>
+        <text encoding="base64">ICAgIGZvciBpIGluIHJhbmdlKGxlbihsaW5lcykpOgogICAgICAgIGxpbmVyYXcgPSBsaW5lc1tpXQoKICAgICAgICAjcHJpbnQgbGluZQogICAgICAgICMgVE9ETyBkZWN0aW9uIGlucHV0IGNvZGluZwogICAgICAgICMgVE9ETyByZXBsYWNlbWVudCBvZiBiYWQgY2hhcmFjdGVycyBsaWtlIFx1OAogICAgICAgIHRyeToKICAgICAgICAgICAgbGluZSA9IGxpbmVyYXcuZGVjb2RlKCd1dGYtOCcpCiAgICAgICAgZXhjZXB0OgogICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICBsaW5lID0gbGluZXJhdy5kZWNvZGUoJ2NwMTI1MCcpCiAgICAgICAgICAgICAgICBwcmludCAiY3AgMTI1MCAiICsgZnVsbGZpbGVwYXRoCiAgICAgICAgICAgIGV4Y2VwdDoKICAgICAgICAgICAgICAgIHByaW50IGZ1bGxmaWxlcGF0aAogICAgICAgICAgICAgICAgdHJhY2ViYWNrLnByaW50X2V4YygpCg==</text>
       </register>
       <register name="1" type="4">
-        <text>txt</text>
+        <text>(</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>.</text>
+        <text>)</text>
       </register>
       <register name="3" type="4">
-        <text>saxana</text>
+        <text>)</text>
       </register>
       <register name="4" type="4">
-        <text>x</text>
+        <text>&quot;</text>
       </register>
       <register name="5" type="4">
-        <text>a</text>
+        <text>utf8</text>
       </register>
       <register name="6" type="4">
-        <text>s</text>
+        <text>(&quot;</text>
       </register>
       <register name="7" type="4">
-        <text>'</text>
+        <text>encode</text>
       </register>
       <register name="8" type="4">
-        <text>t</text>
+        <text>.</text>
       </register>
       <register name="9" type="4">
-        <text>x</text>
+        <text encoding="base64">c29uZy5uYW1lICsgIiAtICIgKyBzb25nLmFydGlzdCA=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
