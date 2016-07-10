@@ -374,6 +374,12 @@
         <mark key="." line="28" column="8" />
         <mark key="^" line="28" column="26" />
       </file>
+      <file name="$USER_HOME$/projects/sobo/sobo/sort.py" timestamp="1468150801738">
+        <mark key="[" line="26" column="4" />
+        <mark key="]" line="26" column="11" />
+        <mark key="." line="26" column="11" />
+        <mark key="^" line="26" column="11" />
+      </file>
       <file name="$USER_HOME$/projects/disco/discon/__init__.py" timestamp="1463404075948">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -944,13 +950,13 @@
         <mark key="." line="3" column="21" />
         <mark key="^" line="3" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/sobo/sobo/psongbook.py" timestamp="1468146875285">
-        <mark key="a" line="254" column="57" />
-        <mark key="'" line="254" column="57" />
-        <mark key="[" line="172" column="7" />
-        <mark key="]" line="172" column="11" />
-        <mark key="." line="172" column="11" />
-        <mark key="^" line="172" column="11" />
+      <file name="$USER_HOME$/projects/sobo/sobo/psongbook.py" timestamp="1468150597304">
+        <mark key="a" line="224" column="57" />
+        <mark key="'" line="53" column="20" />
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="0" />
+        <mark key="." line="79" column="0" />
+        <mark key="^" line="18" column="10" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/training.py" timestamp="1453117814988">
         <mark key="'" line="38" column="8" />
@@ -1190,8 +1196,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="231" column="50" filename="$USER_HOME$/projects/imtools/imtools/tree_processing.py" />
-      <jump line="248" column="33" filename="$USER_HOME$/projects/imtools/imtools/tree_processing.py" />
       <jump line="270" column="75" filename="$USER_HOME$/projects/imtools/imtools/tree_processing.py" />
       <jump line="271" column="58" filename="$USER_HOME$/projects/imtools/imtools/tree_processing.py" />
       <jump line="272" column="27" filename="$USER_HOME$/projects/imtools/imtools/tree_processing.py" />
@@ -1290,64 +1294,65 @@
       <jump line="372" column="15" filename="$USER_HOME$/projects/lisa/lisa/organ_model.py" />
       <jump line="54" column="0" filename="$USER_HOME$/projects/skelet3d/skelet3d/libfixer.py" />
       <jump line="254" column="57" filename="$USER_HOME$/projects/sobo/sobo/psongbook.py" />
+      <jump line="18" column="10" filename="$USER_HOME$/projects/sobo/sobo/psongbook.py" />
+      <jump line="53" column="20" filename="$USER_HOME$/projects/sobo/sobo/psongbook.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRvY3Bzb25nYm9vayA9IGRvY3Bzb25nYm9vay5yZXBsYWNlKCfCoCcsJyAnKQo=</text>
+        <text encoding="base64">ZGVmIHNvcnRfZmlsZWxpc3RfYnlfYXV0aG9yKHJvb3RkaXIsIGZpbGVsaXN0KToKICAgIHNuZ25hbWVzID0gW10KICAgIHNuZ2F1dGhvcnMgPSBbXQogICAgZm9yIGZsIGluIGZpbGVsaXN0OgogICAgICAgIHB0aCA9IG9zLnBhdGguam9pbihyb290ZGlyLCBmbCkKCiAgICAgICAgZmwgPSBvcGVuKHB0aCwgJ3InKQogICAgICAgIGxpbmUgPSBmbC5yZWFkbGluZSgpCiAgICAgICAgc25nbmFtZSwgc25nYXV0aG9yID0gcGFyc2VfZmlyc3RfbGluZShsaW5lKQogICAgICAgIHNuZ25hbWVzLmFwcGVuZChzbmduYW1lKQogICAgICAgIHNuZ2F1dGhvcnMuYXBwZW5kKHNuZ2F1dGhvcikKCiAgICBmbHRhYmxlID0geydmaWxlJzogZmlsZWxpc3QsICduYW1lJzogc25nbmFtZXMsICdhdXRob3InOiBzbmdhdXRob3JzfQogICAgcGRmbCA9IHBkLkRhdGFGcmFtZShmbHRhYmxlKQogICAgcGRmbHNvcnRlZCA9IHBkZmwuc29ydCgnYXV0aG9yJykKICAgIGZsdGFibGVfc29ydGVkID0gcGRmbHNvcnRlZC50b19kaWN0KCkKICAgICMgaW1wb3J0IGlwZGI7IGlwZGIuc2V0X3RyYWNlKCkgIyAgbm9xYSBCUkVBS1BPSU5UCgogICAgIyByZXR1cm4gZmlsZWxpc3QKICAgIHJldHVybiBmbHRhYmxlX3NvcnRlZFsnZmlsZSddLnZhbHVlcygpCgpkZWYgcGFyc2VfZmlyc3RfbGluZShsaW5lKToKICAgIHNwbGl0ID0gbGluZS5maW5kKCctJykKICAgIHNuZ25hbWUgPSBsaW5lWzpzcGxpdF0uc3RyaXAoKQogICAgc25nYXV0aG9yID0gbGluZVtzcGxpdCArIDE6XS5zdHJpcCgpCgogICAgcmV0dXJuIHNuZ25hbWUsIHNuZ2F1dGhvcgoK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ImJsYWIgJiBzZGZzXG4ga2poayZsa2oi</text>
       </register>
       <register name="/" type="4">
-        <text>os.get</text>
+        <text>sort_f</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRvY3Bzb25nYm9vayA9IGRvY3Bzb25nYm9vay5yZXBsYWNlKCfCoCcsJyAnKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ImJsYWIgJiBzZGZzXG4ga2poayZsa2oi</text>
+      <register name="1" type="2">
+        <text encoding="base64">ZGVmIHNvcnRfZmlsZWxpc3RfYnlfYXV0aG9yKHJvb3RkaXIsIGZpbGVsaXN0KToKICAgIHNuZ25hbWVzID0gW10KICAgIHNuZ2F1dGhvcnMgPSBbXQogICAgZm9yIGZsIGluIGZpbGVsaXN0OgogICAgICAgIHB0aCA9IG9zLnBhdGguam9pbihyb290ZGlyLCBmbCkKCiAgICAgICAgZmwgPSBvcGVuKHB0aCwgJ3InKQogICAgICAgIGxpbmUgPSBmbC5yZWFkbGluZSgpCiAgICAgICAgc25nbmFtZSwgc25nYXV0aG9yID0gcGFyc2VfZmlyc3RfbGluZShsaW5lKQogICAgICAgIHNuZ25hbWVzLmFwcGVuZChzbmduYW1lKQogICAgICAgIHNuZ2F1dGhvcnMuYXBwZW5kKHNuZ2F1dGhvcikKCiAgICBmbHRhYmxlID0geydmaWxlJzogZmlsZWxpc3QsICduYW1lJzogc25nbmFtZXMsICdhdXRob3InOiBzbmdhdXRob3JzfQogICAgcGRmbCA9IHBkLkRhdGFGcmFtZShmbHRhYmxlKQogICAgcGRmbHNvcnRlZCA9IHBkZmwuc29ydCgnYXV0aG9yJykKICAgIGZsdGFibGVfc29ydGVkID0gcGRmbHNvcnRlZC50b19kaWN0KCkKICAgICMgaW1wb3J0IGlwZGI7IGlwZGIuc2V0X3RyYWNlKCkgIyAgbm9xYSBCUkVBS1BPSU5UCgogICAgIyByZXR1cm4gZmlsZWxpc3QKICAgIHJldHVybiBmbHRhYmxlX3NvcnRlZFsnZmlsZSddLnZhbHVlcygpCgpkZWYgcGFyc2VfZmlyc3RfbGluZShsaW5lKToKICAgIHNwbGl0ID0gbGluZS5maW5kKCctJykKICAgIHNuZ25hbWUgPSBsaW5lWzpzcGxpdF0uc3RyaXAoKQogICAgc25nYXV0aG9yID0gbGluZVtzcGxpdCArIDE6XS5zdHJpcCgpCgogICAgcmV0dXJuIHNuZ25hbWUsIHNuZ2F1dGhvcgoK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>line</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGRvY3Bzb25nYm9vayA9IGRvY3Bzb25nYm9vay5yZXBsYWNlKHUnXHUwMDA4Jy5lbmNvZGUoJ3V0Zi04JyksICcnKQogICAgZG9jcHNvbmdib29rID0gZG9jcHNvbmdib29rLnJlcGxhY2UoIsKwIiwgJycpCiAgICBkb2Nwc29uZ2Jvb2sgPSBkb2Nwc29uZ2Jvb2sucmVwbGFjZSgiwrQiLCAiJyIpCiAgICBkb2Nwc29uZ2Jvb2sgPSBkb2Nwc29uZ2Jvb2sucmVwbGFjZSgnXHhlZlx4YmJceGJmJywnJykKICAgICMgaGFyZCBzcGFjZSBpbnRvIG5vcm1hbCBzcGFjZQogICAgZG9jcHNvbmdib29rID0gZG9jcHNvbmdib29rLnJlcGxhY2UoJ8KgJywnICcpCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">CmRlZg==</text>
       </register>
       <register name="4" type="4">
-        <text>text</text>
+        <text encoding="base64">ImJsYWIgJiBzZGZzXG4ga2poayZsa2oi</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ZGVmIGxhdGV4Xwo=</text>
+      <register name="5" type="4">
+        <text>line</text>
       </register>
-      <register name="6" type="4">
-        <text>_replace</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGRvY3Bzb25nYm9vayA9IGRvY3Bzb25nYm9vay5yZXBsYWNlKHUnXHUwMDA4Jy5lbmNvZGUoJ3V0Zi04JyksICcnKQogICAgZG9jcHNvbmdib29rID0gZG9jcHNvbmdib29rLnJlcGxhY2UoIsKwIiwgJycpCiAgICBkb2Nwc29uZ2Jvb2sgPSBkb2Nwc29uZ2Jvb2sucmVwbGFjZSgiwrQiLCAiJyIpCiAgICBkb2Nwc29uZ2Jvb2sgPSBkb2Nwc29uZ2Jvb2sucmVwbGFjZSgnXHhlZlx4YmJceGJmJywnJykKICAgICMgaGFyZCBzcGFjZSBpbnRvIG5vcm1hbCBzcGFjZQogICAgZG9jcHNvbmdib29rID0gZG9jcHNvbmdib29rLnJlcGxhY2UoJ8KgJywnICcpCg==</text>
       </register>
       <register name="7" type="4">
-        <text>str</text>
+        <text>text</text>
       </register>
-      <register name="8" type="4">
-        <text>(</text>
+      <register name="8" type="2">
+        <text encoding="base64">ZGVmIGxhdGV4Xwo=</text>
       </register>
       <register name="9" type="4">
-        <text>)</text>
+        <text>_replace</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>os.get</last-search>
+      <last-search>sort_f</last-search>
       <last-offset />
-      <last-pattern>os.get</last-pattern>
+      <last-pattern>sort_f</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>logo</entry>
         <entry>get_conda</entry>
         <entry>Not</entry>
         <entry encoding="base64">XDxjdjJcPg==</entry>
@@ -1367,6 +1372,7 @@
         <entry>_output_data</entry>
         <entry>random rotata</entry>
         <entry>os.get</entry>
+        <entry>sort_f</entry>
       </history-search>
       <history-cmd>
         <entry>270</entry>
