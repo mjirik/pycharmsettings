@@ -301,9 +301,7 @@
         <mark key="." line="173" column="9" />
         <mark key="^" line="173" column="9" />
       </file>
-      <file name="/Python Console" timestamp="1466596116186">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="/Python Console" timestamp="1468142599701" />
       <file name="$USER_HOME$/projects/skelet3d/bld.bat" timestamp="1446806979486">
         <mark key="[" line="55" column="0" />
         <mark key="]" line="64" column="22" />
@@ -935,9 +933,6 @@
         <mark key="^" line="324" column="25" />
         <mark key="." line="324" column="25" />
       </file>
-      <file name="vim_settings.xml" timestamp="1465123778304">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/io3d/requirements_conda.txt" timestamp="1454931843378">
         <mark key="[" line="2" column="4" />
         <mark key="]" line="3" column="8" />
@@ -950,13 +945,13 @@
         <mark key="." line="3" column="21" />
         <mark key="^" line="3" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/sobo/sobo/psongbook.py" timestamp="1468046277734">
-        <mark key="a" line="116" column="26" />
-        <mark key="'" line="192" column="4" />
-        <mark key="[" line="134" column="15" />
-        <mark key="]" line="134" column="15" />
-        <mark key="." line="134" column="15" />
-        <mark key="^" line="135" column="67" />
+      <file name="$USER_HOME$/projects/sobo/sobo/psongbook.py" timestamp="1468142815658">
+        <mark key="a" line="254" column="57" />
+        <mark key="'" line="254" column="57" />
+        <mark key="[" line="231" column="0" />
+        <mark key="]" line="232" column="58" />
+        <mark key="." line="232" column="58" />
+        <mark key="^" line="232" column="58" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/training.py" timestamp="1453117814988">
         <mark key="'" line="38" column="8" />
@@ -1196,7 +1191,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="222" column="0" filename="$USER_HOME$/projects/imtools/imtools/tree_processing.py" />
       <jump line="231" column="50" filename="$USER_HOME$/projects/imtools/imtools/tree_processing.py" />
       <jump line="248" column="33" filename="$USER_HOME$/projects/imtools/imtools/tree_processing.py" />
       <jump line="270" column="75" filename="$USER_HOME$/projects/imtools/imtools/tree_processing.py" />
@@ -1296,49 +1290,50 @@
       <jump line="363" column="12" filename="$USER_HOME$/projects/lisa/lisa/organ_model.py" />
       <jump line="372" column="15" filename="$USER_HOME$/projects/lisa/lisa/organ_model.py" />
       <jump line="54" column="0" filename="$USER_HOME$/projects/skelet3d/skelet3d/libfixer.py" />
+      <jump line="254" column="57" filename="$USER_HOME$/projects/sobo/sobo/psongbook.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text encoding="base64">ImJsYWIgJiBzZGZzXG4ga2poayZsa2oi</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text encoding="base64">ImJsYWIgJiBzZGZzXG4ga2poayZsa2oi</text>
       </register>
       <register name="/" type="4">
         <text>os.get</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZvciBpIGluIHJhbmdlKGxlbihsaW5lcykpOgogICAgICAgIGxpbmVyYXcgPSBsaW5lc1tpXQoKICAgICAgICAjcHJpbnQgbGluZQogICAgICAgICMgVE9ETyBkZWN0aW9uIGlucHV0IGNvZGluZwogICAgICAgICMgVE9ETyByZXBsYWNlbWVudCBvZiBiYWQgY2hhcmFjdGVycyBsaWtlIFx1OAogICAgICAgIHRyeToKICAgICAgICAgICAgbGluZSA9IGxpbmVyYXcuZGVjb2RlKCd1dGYtOCcpCiAgICAgICAgZXhjZXB0OgogICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICBsaW5lID0gbGluZXJhdy5kZWNvZGUoJ2NwMTI1MCcpCiAgICAgICAgICAgICAgICBwcmludCAiY3AgMTI1MCAiICsgZnVsbGZpbGVwYXRoCiAgICAgICAgICAgIGV4Y2VwdDoKICAgICAgICAgICAgICAgIHByaW50IGZ1bGxmaWxlcGF0aAogICAgICAgICAgICAgICAgdHJhY2ViYWNrLnByaW50X2V4YygpCg==</text>
+        <text encoding="base64">ZGVmIHJlcGxhY2VfbGF0ZXhfYmFkX2NoYXJhY3Rlcih0ZXh0KToK</text>
       </register>
       <register name="1" type="4">
-        <text>(</text>
+        <text encoding="base64">ImJsYWIgJiBzZGZzXG4ga2poayZsa2oi</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>)</text>
+        <text>line</text>
       </register>
-      <register name="3" type="4">
-        <text>)</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGRvY3Bzb25nYm9vayA9IGRvY3Bzb25nYm9vay5yZXBsYWNlKHUnXHUwMDA4Jy5lbmNvZGUoJ3V0Zi04JyksICcnKQogICAgZG9jcHNvbmdib29rID0gZG9jcHNvbmdib29rLnJlcGxhY2UoIsKwIiwgJycpCiAgICBkb2Nwc29uZ2Jvb2sgPSBkb2Nwc29uZ2Jvb2sucmVwbGFjZSgiwrQiLCAiJyIpCiAgICBkb2Nwc29uZ2Jvb2sgPSBkb2Nwc29uZ2Jvb2sucmVwbGFjZSgnXHhlZlx4YmJceGJmJywnJykKICAgICMgaGFyZCBzcGFjZSBpbnRvIG5vcm1hbCBzcGFjZQogICAgZG9jcHNvbmdib29rID0gZG9jcHNvbmdib29rLnJlcGxhY2UoJ8KgJywnICcpCg==</text>
       </register>
       <register name="4" type="4">
-        <text>&quot;</text>
+        <text>text</text>
       </register>
-      <register name="5" type="4">
-        <text>utf8</text>
+      <register name="5" type="2">
+        <text encoding="base64">ZGVmIGxhdGV4Xwo=</text>
       </register>
       <register name="6" type="4">
-        <text>(&quot;</text>
+        <text>_replace</text>
       </register>
       <register name="7" type="4">
-        <text>encode</text>
+        <text>str</text>
       </register>
       <register name="8" type="4">
-        <text>.</text>
+        <text>(</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">c29uZy5uYW1lICsgIiAtICIgKyBzb25nLmFydGlzdCA=</text>
+        <text>)</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
