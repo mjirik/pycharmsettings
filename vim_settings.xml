@@ -619,11 +619,11 @@
         <mark key="." line="75" column="22" />
         <mark key="^" line="65" column="22" />
       </file>
-      <file name="$USER_HOME$/projects/sobo/sobo/inout.py" timestamp="1468360096889">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="21" column="25" />
+      <file name="$USER_HOME$/projects/sobo/sobo/inout.py" timestamp="1468361003230">
+        <mark key="[" line="16" column="12" />
+        <mark key="]" line="16" column="13" />
+        <mark key="." line="16" column="13" />
+        <mark key="^" line="16" column="13" />
       </file>
       <file name="$USER_HOME$/projects/lisa/tests/convert_test.py" timestamp="1448963836835">
         <mark key="[" line="22" column="32" />
@@ -772,12 +772,11 @@
         <mark key="^" line="2" column="42" />
         <mark key="." line="2" column="42" />
       </file>
-      <file name="$USER_HOME$/projects/sobo/sobo/songparser.py" timestamp="1468360322305">
+      <file name="$USER_HOME$/projects/sobo/sobo/songparser.py" timestamp="1468360988493">
         <mark key="'" line="49" column="13" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="32" />
-        <mark key="." line="33" column="0" />
-        <mark key="^" line="93" column="39" />
+        <mark key="[" line="93" column="0" />
+        <mark key="]" line="93" column="0" />
+        <mark key="." line="93" column="0" />
       </file>
       <file name="$USER_HOME$/projects/skelet3d/skelet3d/__init__.py" timestamp="1465564785601">
         <mark key="[" line="4" column="0" />
@@ -1306,7 +1305,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmZpbGVuYW1lID0gZmlsZW5hbWUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -1318,34 +1317,34 @@
         <text encoding="base64">ICAgICAgICB0ZXh0ID0gc2VsZi5saW5lc19yYXdbMF0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmZpbGVuYW1lID0gZmlsZW5hbWUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIud2FybmluZygidXRmOCB1c2VkIGZvciBmaWxlICIgKyBvZmlsZW5hbWUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLndhcm5pbmcoc2VsZi5maWxlbmFtZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzbmdhdXRob3IgPSBhcnRpc3RfbmFtZV9wcmVwcm9jZXNzaW5nKHNuZ2F1dGhvcikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLndhcm5pbmcodGV4dCkK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmZpbGVuYW1lID0gZmlsZW5hbWUK</text>
       </register>
-      <register name="5" type="4">
-        <text>,</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBsb2dnZXIud2FybmluZygidXRmOCB1c2VkIGZvciBmaWxlICIgKyBvZmlsZW5hbWUpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzbmduYW1lLCBzbmdhdXRob3JcCg==</text>
+        <text encoding="base64">ICAgICAgICBzbmdhdXRob3IgPSBhcnRpc3RfbmFtZV9wcmVwcm9jZXNzaW5nKHNuZ2F1dGhvcikK</text>
       </register>
       <register name="7" type="4">
-        <text>line</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="8" type="4">
-        <text>parse_name_and_artist</text>
+        <text>,</text>
       </register>
-      <register name="9" type="4">
-        <text>lines</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBzbmduYW1lLCBzbmdhdXRob3JcCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
