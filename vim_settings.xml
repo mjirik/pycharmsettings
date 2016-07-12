@@ -954,13 +954,13 @@
         <mark key="." line="3" column="21" />
         <mark key="^" line="3" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/sobo/sobo/psongbook.py" timestamp="1468323440647">
-        <mark key="a" line="232" column="57" />
+      <file name="$USER_HOME$/projects/sobo/sobo/psongbook.py" timestamp="1468352399551">
+        <mark key="a" line="234" column="57" />
         <mark key="'" line="53" column="20" />
-        <mark key="[" line="200" column="44" />
-        <mark key="]" line="200" column="60" />
-        <mark key="^" line="200" column="60" />
-        <mark key="." line="200" column="60" />
+        <mark key="[" line="153" column="28" />
+        <mark key="]" line="153" column="28" />
+        <mark key="^" line="153" column="7" />
+        <mark key="." line="153" column="28" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/training.py" timestamp="1453117814988">
         <mark key="'" line="38" column="8" />
@@ -1303,46 +1303,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_gentexfile_for_one(fullfilepath, compact_version=compact_version)</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>_gentexfile_for_one(fullfilepath, compact_version=compact_version)</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>sort_f</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGhlYWRsaW5lID0gc29uZy5uYW1lLmRlY29kZSgidXRmOCIpICsgIiAtICIgKyBzb25nLmFydGlzdC5kZWNvZGUoInV0ZjgiKQo=</text>
+        <text encoding="base64">ICAgICAgICAjICAgICBkb2Nwc29uZ2Jvb2sgKz0gbGluZS5lbmNvZGUoJ3V0Zi04JykK</text>
       </register>
       <register name="1" type="4">
-        <text>_gentexfile_for_one(fullfilepath, compact_version=compact_version)</text>
+        <text>)</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsaW5lID0gbGluZXJhdwo=</text>
+      <register name="2" type="4">
+        <text>'</text>
       </register>
       <register name="3" type="4">
-        <text>(</text>
+        <text>8</text>
       </register>
       <register name="4" type="4">
-        <text>(&quot;utf8&quot;)</text>
+        <text>-</text>
       </register>
       <register name="5" type="4">
-        <text>.</text>
+        <text>f</text>
       </register>
       <register name="6" type="4">
-        <text>encode</text>
+        <text>t</text>
       </register>
       <register name="7" type="4">
-        <text>)</text>
+        <text>u</text>
       </register>
       <register name="8" type="4">
-        <text>&quot;</text>
+        <text>'</text>
       </register>
       <register name="9" type="4">
-        <text>utf8</text>
+        <text>(</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
