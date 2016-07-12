@@ -766,10 +766,10 @@
         <mark key="^" line="2" column="42" />
         <mark key="." line="2" column="42" />
       </file>
-      <file name="$USER_HOME$/projects/sobo/sobo/songparser.py" timestamp="1468356194096">
+      <file name="$USER_HOME$/projects/sobo/sobo/songparser.py" timestamp="1468357575497">
         <mark key="'" line="128" column="4" />
-        <mark key="[" line="75" column="28" />
-        <mark key="]" line="76" column="35" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="49" column="40" />
         <mark key="." line="76" column="35" />
         <mark key="^" line="76" column="35" />
       </file>
@@ -951,13 +951,13 @@
         <mark key="." line="3" column="21" />
         <mark key="^" line="3" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/sobo/sobo/psongbook.py" timestamp="1468352399551">
-        <mark key="a" line="234" column="57" />
+      <file name="$USER_HOME$/projects/sobo/sobo/psongbook.py" timestamp="1468357705809">
+        <mark key="a" line="244" column="57" />
         <mark key="'" line="53" column="20" />
-        <mark key="[" line="153" column="28" />
-        <mark key="]" line="153" column="28" />
-        <mark key="^" line="153" column="7" />
-        <mark key="." line="153" column="28" />
+        <mark key="[" line="93" column="33" />
+        <mark key="]" line="94" column="64" />
+        <mark key="^" line="94" column="64" />
+        <mark key="." line="94" column="64" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/training.py" timestamp="1453117814988">
         <mark key="'" line="38" column="8" />
@@ -1300,46 +1300,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>sort_f</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiBwYXJzZV9uYW1lX2FuZF9hcnRpc3Qoc2VsZik6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgbGluZSA9IGxpbmVyYXcuZGVjb2RlKCd1dGYtOCcpCiAgICAgICAgICAgIGV4Y2VwdDoKICAgICAgICAgICAgICAgIHRyeToKICAgICAgICAgICAgICAgICAgICBsaW5lID0gbGluZXJhdy5kZWNvZGUoJ2NwMTI1MCcpCiAgICAgICAgICAgICAgICAgICAgI3ByaW50ICJjcCAxMjUwICIgKyBmdWxsZmlsZXBhdGgKICAgICAgICAgICAgICAgIGV4Y2VwdDoKICAgICAgICAgICAgICAgICAgICAjIHByaW50IGZ1bGxmaWxlcGF0aAogICAgICAgICAgICAgICAgICAgIHRyYWNlYmFjay5wcmludF9leGMoKQo=</text>
       </register>
       <register name="1" type="4">
-        <text>(</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>parse_</text>
+        <text>w</text>
       </register>
       <register name="3" type="4">
-        <text>)</text>
+        <text>a</text>
       </register>
       <register name="4" type="4">
-        <text>first_line</text>
+        <text>r</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ZGVmIHBhcnNlX2ZpcnN0X2xpbmUobGluZSk6CiAgICBzcGxpdCA9IGxpbmUuZmluZCgnLScpCiAgICBzbmduYW1lID0gbGluZVs6c3BsaXRdLnN0cmlwKCkKICAgIHNuZ2F1dGhvciA9IGxpbmVbc3BsaXQgKyAxOl0uc3RyaXAoKQoKICAgIHJldHVybiBzbmduYW1lLCBzbmdhdXRob3IKCg==</text>
+      <register name="5" type="4">
+        <text>lineraw</text>
       </register>
       <register name="6" type="4">
-        <text>.</text>
+        <text encoding="base64">bGluZSA=</text>
       </register>
       <register name="7" type="4">
-        <text>self</text>
+        <text>lineraw</text>
       </register>
       <register name="8" type="4">
-        <text>.</text>
+        <text encoding="base64">bGluZSA=</text>
       </register>
       <register name="9" type="4">
-        <text>self</text>
+        <text>try:</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
