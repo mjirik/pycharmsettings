@@ -374,12 +374,12 @@
         <mark key="." line="28" column="8" />
         <mark key="^" line="28" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/sobo/sobo/sort.py" timestamp="1468158141128">
-        <mark key="'" line="33" column="0" />
-        <mark key="[" line="31" column="4" />
-        <mark key="]" line="31" column="4" />
-        <mark key="." line="31" column="4" />
-        <mark key="^" line="31" column="4" />
+      <file name="$USER_HOME$/projects/sobo/sobo/sort.py" timestamp="1468356046452">
+        <mark key="'" line="18" column="38" />
+        <mark key="[" line="57" column="30" />
+        <mark key="]" line="57" column="36" />
+        <mark key="." line="57" column="36" />
+        <mark key="^" line="57" column="36" />
       </file>
       <file name="$USER_HOME$/projects/disco/discon/__init__.py" timestamp="1463404075948">
         <mark key="[" line="0" column="0" />
@@ -766,12 +766,12 @@
         <mark key="^" line="2" column="42" />
         <mark key="." line="2" column="42" />
       </file>
-      <file name="$USER_HOME$/projects/sobo/sobo/songparser.py" timestamp="1468322868091">
-        <mark key="'" line="119" column="4" />
-        <mark key="[" line="50" column="12" />
-        <mark key="]" line="50" column="12" />
-        <mark key="." line="50" column="12" />
-        <mark key="^" line="50" column="12" />
+      <file name="$USER_HOME$/projects/sobo/sobo/songparser.py" timestamp="1468356194096">
+        <mark key="'" line="128" column="4" />
+        <mark key="[" line="75" column="28" />
+        <mark key="]" line="76" column="35" />
+        <mark key="." line="76" column="35" />
+        <mark key="^" line="76" column="35" />
       </file>
       <file name="$USER_HOME$/projects/skelet3d/skelet3d/__init__.py" timestamp="1465564785601">
         <mark key="[" line="4" column="0" />
@@ -1197,7 +1197,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="271" column="58" filename="$USER_HOME$/projects/imtools/imtools/tree_processing.py" />
       <jump line="272" column="27" filename="$USER_HOME$/projects/imtools/imtools/tree_processing.py" />
       <jump line="319" column="9" filename="$USER_HOME$/projects/imtools/imtools/tree_processing.py" />
       <jump line="318" column="0" filename="$USER_HOME$/projects/imtools/imtools/tree_processing.py" />
@@ -1297,49 +1296,50 @@
       <jump line="18" column="10" filename="$USER_HOME$/projects/sobo/sobo/psongbook.py" />
       <jump line="53" column="20" filename="$USER_HOME$/projects/sobo/sobo/psongbook.py" />
       <jump line="30" column="0" filename="$USER_HOME$/projects/sobo/sobo/sort.py" />
+      <jump line="18" column="38" filename="$USER_HOME$/projects/sobo/sobo/sort.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>sort_f</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAjICAgICBkb2Nwc29uZ2Jvb2sgKz0gbGluZS5lbmNvZGUoJ3V0Zi04JykK</text>
+        <text encoding="base64">ICAgIGRlZiBwYXJzZV9uYW1lX2FuZF9hcnRpc3Qoc2VsZik6Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>)</text>
+        <text>(</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>'</text>
+        <text>parse_</text>
       </register>
       <register name="3" type="4">
-        <text>8</text>
+        <text>)</text>
       </register>
       <register name="4" type="4">
-        <text>-</text>
+        <text>first_line</text>
       </register>
-      <register name="5" type="4">
-        <text>f</text>
+      <register name="5" type="2">
+        <text encoding="base64">ZGVmIHBhcnNlX2ZpcnN0X2xpbmUobGluZSk6CiAgICBzcGxpdCA9IGxpbmUuZmluZCgnLScpCiAgICBzbmduYW1lID0gbGluZVs6c3BsaXRdLnN0cmlwKCkKICAgIHNuZ2F1dGhvciA9IGxpbmVbc3BsaXQgKyAxOl0uc3RyaXAoKQoKICAgIHJldHVybiBzbmduYW1lLCBzbmdhdXRob3IKCg==</text>
       </register>
       <register name="6" type="4">
-        <text>t</text>
+        <text>.</text>
       </register>
       <register name="7" type="4">
-        <text>u</text>
+        <text>self</text>
       </register>
       <register name="8" type="4">
-        <text>'</text>
+        <text>.</text>
       </register>
       <register name="9" type="4">
-        <text>(</text>
+        <text>self</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
