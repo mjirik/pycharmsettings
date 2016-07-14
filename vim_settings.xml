@@ -364,8 +364,11 @@
         <mark key="^" line="149" column="28" />
         <mark key="." line="149" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/sobo/README.md" timestamp="1468492081386">
-        <mark key="[" line="13" column="3" />
+      <file name="$USER_HOME$/projects/sobo/README.md" timestamp="1468493068621">
+        <mark key="[" line="3" column="35" />
+        <mark key="]" line="3" column="97" />
+        <mark key="." line="3" column="97" />
+        <mark key="^" line="3" column="97" />
       </file>
       <file name="$USER_HOME$/projects/quanta/setup.py" timestamp="1446640023460">
         <mark key="[" line="58" column="105" />
@@ -1217,10 +1220,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">W0V4YW1wbGUgb2Ygb3V0cHV0IHNvbmdib29rXShodHRwczovL3d3dy5kcm9wYm94LmNvbS9zL3Q4eGJyOXFodHQ3d3VjOC9wc29uZ2Jvb2sucGRmP2RsPTApCg==</text>
       </register>
       <register name="-" type="4">
-        <text>g</text>
+        <text>Name</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzbmdia19mcm9tX2ZpbGVcPg==</text>
@@ -1229,31 +1232,31 @@
         <text encoding="base64">ICAgIGlmIHN5cy5wbGF0Zm9ybS5zdGFydHN3aXRoKCd3aW4nKToKICAgICAgICBwYXNzCiAgICBlbHNlOgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">W0V4YW1wbGUgb2Ygb3V0cHV0IHNvbmdib29rXShodHRwczovL3d3dy5kcm9wYm94LmNvbS9zL3Q4eGJyOXFodHQ3d3VjOC9wc29uZ2Jvb2sucGRmP2RsPTApCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
+        <text encoding="base64">ICAgIHB5dGhvbiBzb2JvIHNvYm8gLWlkIH4vRHJvcGJveC9ha29yZHkvbm92ZS1wb3JhZGt5Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoInNhZmFzZmRzYWZkc2FmYXNmYWRmc2FkZiIpCg==</text>
+        <text encoding="base64">SW5wdXQgZGlyZWN0b3J5IGlzIHN0cnVjdHVyZWQgaW50byBzdWJkaXJlYwo=</text>
       </register>
       <register name="4" type="4">
-        <text>g</text>
+        <text>Name</text>
       </register>
       <register name="5" type="4">
-        <text>i</text>
+        <text>first</text>
       </register>
       <register name="6" type="4">
-        <text>v</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="7" type="4">
-        <text>a</text>
+        <text>algorithm</text>
       </register>
       <register name="8" type="4">
-        <text>n</text>
+        <text encoding="base64">c29ydGluZyA=</text>
       </register>
       <register name="9" type="4">
-        <text>y</text>
+        <text encoding="base64">aW4g</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
