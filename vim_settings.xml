@@ -772,12 +772,12 @@
         <mark key="^" line="2" column="42" />
         <mark key="." line="2" column="42" />
       </file>
-      <file name="$USER_HOME$/projects/sobo/sobo/songparser.py" timestamp="1468362591400">
-        <mark key="'" line="50" column="13" />
-        <mark key="[" line="86" column="54" />
-        <mark key="]" line="86" column="56" />
-        <mark key="." line="86" column="56" />
-        <mark key="^" line="86" column="56" />
+      <file name="$USER_HOME$/projects/sobo/sobo/songparser.py" timestamp="1468574836471">
+        <mark key="'" line="72" column="13" />
+        <mark key="[" line="44" column="78" />
+        <mark key="]" line="45" column="30" />
+        <mark key="^" line="45" column="30" />
+        <mark key="." line="45" column="30" />
       </file>
       <file name="$USER_HOME$/projects/skelet3d/skelet3d/__init__.py" timestamp="1465564785601">
         <mark key="[" line="4" column="0" />
@@ -957,12 +957,13 @@
         <mark key="." line="3" column="21" />
         <mark key="^" line="3" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/sobo/sobo/psongbook.py" timestamp="1468567037886">
-        <mark key="a" line="212" column="57" />
-        <mark key="'" line="244" column="17" />
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="102" column="0" />
-        <mark key="." line="102" column="0" />
+      <file name="$USER_HOME$/projects/sobo/sobo/psongbook.py" timestamp="1468575163436">
+        <mark key="a" line="214" column="57" />
+        <mark key="'" line="246" column="17" />
+        <mark key="[" line="112" column="26" />
+        <mark key="]" line="24" column="24" />
+        <mark key="^" line="24" column="24" />
+        <mark key="." line="24" column="24" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/training.py" timestamp="1453117814988">
         <mark key="'" line="38" column="8" />
@@ -1308,46 +1309,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICAgICBsaW5lcyA9IHNlbGYubGluZXMK</text>
       </register>
       <register name="-" type="4">
-        <text>_preprocessed</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>parse_n</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRpdGxlID0gc29uZy5uYW1lICsgIiA6ICIgKyBzb25nLmFydGlzdF9wcmVwcm9jZXNzZWQK</text>
+        <text encoding="base64">ICAgICAgICBmb3IgaSBpbiByYW5nZShsZW4obGluZXMpKToK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICAgICBsaW5lcyA9IHNlbGYubGluZXMK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CgogICAgIyBmbCA9IGxvYWRfZmlsZShmdWxsZmlsZXBhdGgpCj09PT09PT0KICAgICMgaGVhZGxpbmUgPSBzb25nLm5hbWUuZGVjb2RlKCJ1dGY4IikgKyAiIC0gIiArIHNvbmcuYXJ0aXN0LmRlY29kZSgidXRmOCIpCiAgICBoZWFkbGluZSA9IHNvbmcubmFtZSArICIgXC0gIiArIHNvbmcuYXJ0aXN0X3ByZXByb2Nlc3NlZAogICAgZG9jcHNvbmdib29rICs9ICJcblxcc3Vic2VjdGlvbnsiICsgaGVhZGxpbmUgKyAifVxuIgogICAgZG9jcHNvbmdib29rICs9ICdcblxcYmVnaW57YWxsdHR9XG4nCj4+Pj4+Pj4gMGEwYmZhNzIzMjY3YzBiYjIzODg4ZDdhMzJkNDRlOGNjYWQ3NWJmZQo=</text>
+      <register name="2" type="4">
+        <text>)</text>
       </register>
       <register name="3" type="4">
-        <text>_preprocessed</text>
+        <text>)</text>
       </register>
       <register name="4" type="4">
-        <text>n</text>
+        <text>(</text>
       </register>
       <register name="5" type="4">
-        <text>\</text>
+        <text>len</text>
       </register>
       <register name="6" type="4">
-        <text>n</text>
+        <text>(</text>
       </register>
       <register name="7" type="4">
-        <text>\</text>
+        <text>range</text>
       </register>
-      <register name="8" type="4">
-        <text>n</text>
+      <register name="8" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
-      <register name="9" type="4">
-        <text>\</text>
+      <register name="9" type="2">
+        <text encoding="base64">CgogICAgIyBmbCA9IGxvYWRfZmlsZShmdWxsZmlsZXBhdGgpCj09PT09PT0KICAgICMgaGVhZGxpbmUgPSBzb25nLm5hbWUuZGVjb2RlKCJ1dGY4IikgKyAiIC0gIiArIHNvbmcuYXJ0aXN0LmRlY29kZSgidXRmOCIpCiAgICBoZWFkbGluZSA9IHNvbmcubmFtZSArICIgXC0gIiArIHNvbmcuYXJ0aXN0X3ByZXByb2Nlc3NlZAogICAgZG9jcHNvbmdib29rICs9ICJcblxcc3Vic2VjdGlvbnsiICsgaGVhZGxpbmUgKyAifVxuIgogICAgZG9jcHNvbmdib29rICs9ICdcblxcYmVnaW57YWxsdHR9XG4nCj4+Pj4+Pj4gMGEwYmZhNzIzMjY3YzBiYjIzODg4ZDdhMzJkNDRlOGNjYWQ3NWJmZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
