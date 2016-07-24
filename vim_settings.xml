@@ -10,11 +10,6 @@
         <mark key="^" line="80" column="12" />
         <mark key="." line="80" column="12" />
       </file>
-      <file name="/a.dummy" timestamp="1466418589729">
-        <mark key="[" line="0" column="4" />
-        <mark key="]" line="0" column="5" />
-        <mark key="." line="0" column="5" />
-      </file>
       <file name="$USER_HOME$/projects/lisa/lisa/config_default.py" timestamp="1466153401945">
         <mark key="[" line="73" column="0" />
         <mark key="]" line="73" column="56" />
@@ -52,6 +47,7 @@
         <mark key="^" line="170" column="30" />
         <mark key="." line="170" column="30" />
       </file>
+      <file name="$USER_HOME$/projects/lisa/lisa/lisaConfigGui.py" timestamp="1469397354284" />
       <file name="$USER_HOME$/projects/psongbook/sobo/psongbook.py" timestamp="1463491785021">
         <mark key="[" line="160" column="32" />
         <mark key="]" line="160" column="32" />
@@ -207,6 +203,14 @@
         <mark key="^" line="23" column="8" />
         <mark key="." line="22" column="23" />
       </file>
+      <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1469398741267">
+        <mark key="a" line="895" column="12" />
+        <mark key="'" line="976" column="34" />
+        <mark key="[" line="895" column="13" />
+        <mark key="]" line="889" column="32" />
+        <mark key="." line="889" column="32" />
+        <mark key="^" line="889" column="32" />
+      </file>
       <file name="$USER_HOME$/projects/io3d/setup.cfg" timestamp="1464369380648">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="24" />
@@ -257,12 +261,6 @@
         <mark key="]" line="460" column="22" />
         <mark key="^" line="460" column="22" />
         <mark key="." line="460" column="22" />
-      </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1466418128348">
-        <mark key="'" line="1629" column="4" />
-        <mark key="[" line="369" column="26" />
-        <mark key="]" line="369" column="26" />
-        <mark key="." line="369" column="26" />
       </file>
       <file name="$USER_HOME$/projects/imtools/imtools/tree_processing.py" timestamp="1465564483912">
         <mark key="'" line="220" column="4" />
@@ -406,11 +404,6 @@
         <mark key="]" line="1" column="47" />
         <mark key="^" line="1" column="47" />
         <mark key="." line="1" column="47" />
-      </file>
-      <file name="$USER_HOME$/projects/imtools/imtools/vesseltree_export.py" timestamp="1464961839873">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/splash_screen.py" timestamp="1464166787444">
         <mark key="'" line="21" column="7" />
@@ -1067,6 +1060,12 @@
       <file name="$USER_HOME$/projects/sobo/tests/sobo_test.py" timestamp="1468040831003">
         <mark key="[" line="10" column="48" />
       </file>
+      <file name="$USER_HOME$/projects/lisa/lisa/dictGUI.py" timestamp="1469398195306">
+        <mark key="[" line="118" column="47" />
+        <mark key="]" line="114" column="46" />
+        <mark key="." line="114" column="46" />
+        <mark key="^" line="114" column="46" />
+      </file>
       <file name="$USER_HOME$/projects/pysegbase/tests/pycut_test.py" timestamp="1465990653196">
         <mark key="'" line="228" column="31" />
         <mark key="[" line="51" column="31" />
@@ -1218,13 +1217,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="15" filename="$USER_HOME$/projects/skelet3d/skelet3d/gt_vtk.py" />
-      <jump line="44" column="17" filename="$USER_HOME$/projects/skelet3d/skelet3d/gt_vtk.py" />
-      <jump line="49" column="32" filename="$USER_HOME$/projects/skelet3d/skelet3d/gt_vtk.py" />
-      <jump line="62" column="10" filename="$USER_HOME$/projects/skelet3d/skelet3d/gt_vtk.py" />
-      <jump line="63" column="10" filename="$USER_HOME$/projects/skelet3d/skelet3d/gt_vtk.py" />
-      <jump line="69" column="11" filename="$USER_HOME$/projects/skelet3d/skelet3d/gt_vtk.py" />
-      <jump line="74" column="11" filename="$USER_HOME$/projects/skelet3d/skelet3d/gt_vtk.py" />
       <jump line="92" column="9" filename="$USER_HOME$/projects/skelet3d/skelet3d/gt_vtk.py" />
       <jump line="95" column="11" filename="$USER_HOME$/projects/skelet3d/skelet3d/gt_vtk.py" />
       <jump line="102" column="11" filename="$USER_HOME$/projects/skelet3d/skelet3d/gt_vtk.py" />
@@ -1318,64 +1310,70 @@
       <jump line="110" column="11" filename="$USER_HOME$/projects/sobo/sobo/psongbook.py" />
       <jump line="259" column="17" filename="$USER_HOME$/projects/sobo/sobo/psongbook.py" />
       <jump line="3" column="0" filename="$USER_HOME$/projects/sobo/sobo/sort.py" />
+      <jump line="889" column="12" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="971" column="30" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="976" column="53" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="977" column="53" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="766" column="63" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="774" column="61" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="966" column="34" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzdXJmYWNlLlNldElucHV0KHZ0a2RhdGEpCg==</text>
+      <register name="&quot;" type="4">
+        <text>quit</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>quit</text>
       </register>
       <register name="/" type="4">
-        <text>parse_n</text>
+        <text>slab</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzdXJmYWNlLlNldElucHV0KHZ0a2RhdGEpCg==</text>
+        <text encoding="base64">ICAgIGRlZiBidG5Db25maWcoc2VsZiwgZXZlbnQ9Tm9uZSk6Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZygicWFwcCIpCg==</text>
+      <register name="1" type="4">
+        <text>quit</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">YW5kIA==</text>
       </register>
       <register name="3" type="4">
-        <text>logger.warning</text>
+        <text encoding="base64">U2F2ZSA=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">aWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoK</text>
+      <register name="4" type="4">
+        <text>Config</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICNwZGIuc2V0X3RyYWNlKCkKCgogICAgIyBmbCA9IGxvYWRfZmlsZShmdWxsZmlsZXBhdGgpCg==</text>
+      <register name="5" type="4">
+        <text>g</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>i</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>f</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICMgZG9jcHNvbmdib29rICs9IGxpbmUKICAgICAgICAgICAgIyB0cnk6CiAgICAgICAgICAgICMgICAgIGRvY3Bzb25nYm9vayArPSBsaW5lLmVuY29kZSgndXRmLTgnKQogICAgICAgICAgICAjIGV4Y2VwdDoKICAgICAgICAgICAgIyAgICAgcHJpbnQgbGluZQogICAgICAgICAgICAjICAgICB0cmFjZWJhY2sucHJpbnRfZXhjKCkKICAgICNkb2Nwc29uZ2Jvb2sgKz0gJ1xcaW5wdXR7JyArIGZpbGVwYXRoICsgJ31cbicK</text>
+      <register name="8" type="4">
+        <text>n</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIHRyeToKICAgICAgICAjICAgICBkb2Nwc29uZ2Jvb2sgKz0gbGluZS5lbmNvZGUoJ3V0Zi04JykKICAgICAgICAjIGV4Y2VwdDoKICAgICAgICAjICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKSAjICBub3FhIEJSRUFLUE9JTlQK</text>
+      <register name="9" type="4">
+        <text>o</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>parse_n</last-search>
+      <last-search>slab</last-search>
       <last-offset />
-      <last-pattern>parse_n</last-pattern>
+      <last-pattern>slab</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Update</entry>
         <entry>feature</entry>
         <entry>yaml</entry>
         <entry encoding="base64">XDxfbWFrZWRpcnNfZHN0XD4=</entry>
@@ -1395,6 +1393,7 @@
         <entry>Py</entry>
         <entry>bodynavigation</entry>
         <entry encoding="base64">XDxvdXRwdXRfZmlsZVw+</entry>
+        <entry>slab</entry>
       </history-search>
       <history-cmd>
         <entry>220</entry>
