@@ -171,12 +171,12 @@
         <mark key="^" line="1" column="12" />
         <mark key="." line="1" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/show_segmentation.py" timestamp="1469364686538">
-        <mark key="'" line="45" column="23" />
-        <mark key="[" line="66" column="26" />
-        <mark key="]" line="66" column="37" />
-        <mark key="^" line="66" column="37" />
-        <mark key="." line="66" column="37" />
+      <file name="$USER_HOME$/projects/lisa/lisa/show_segmentation.py" timestamp="1469451534553">
+        <mark key="'" line="46" column="23" />
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="^" line="56" column="22" />
+        <mark key="." line="67" column="0" />
       </file>
       <file name="$USER_HOME$/projects/lisa/tests/dcmreaddata_test.py" timestamp="1464974819997">
         <mark key="a" line="62" column="36" />
@@ -569,6 +569,9 @@
         <mark key="^" line="178" column="21" />
         <mark key="." line="178" column="21" />
       </file>
+      <file name="/Dummy.txt" timestamp="1469451210395">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/io3d/io3d/misc.py" timestamp="1453295785375">
         <mark key="'" line="19" column="27" />
         <mark key="[" line="81" column="15" />
@@ -669,12 +672,12 @@
         <mark key="." line="2" column="66" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1469439541743">
-        <mark key="a" line="895" column="12" />
-        <mark key="'" line="908" column="22" />
-        <mark key="[" line="895" column="13" />
-        <mark key="]" line="889" column="32" />
-        <mark key="^" line="889" column="32" />
-        <mark key="." line="889" column="32" />
+        <mark key="a" line="933" column="12" />
+        <mark key="'" line="946" column="22" />
+        <mark key="[" line="933" column="13" />
+        <mark key="]" line="927" column="32" />
+        <mark key="^" line="927" column="32" />
+        <mark key="." line="927" column="32" />
       </file>
       <file name="$USER_HOME$/projects/imtools/imtools/ml/gmmcl.py" timestamp="1448550206184">
         <mark key="[" line="11" column="14" />
@@ -1310,20 +1313,20 @@
       <jump line="908" column="22" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>_</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text encoding="base64">ZGVncmFkIA==</text>
       </register>
       <register name="/" type="4">
         <text>save_outputs</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiBidG5Db25maWcoc2VsZiwgZXZlbnQ9Tm9uZSk6Cg==</text>
+        <text encoding="base64">ICAgIF9zdGF0cyhzZWdtZW50YXRpb24pCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>_</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -1332,25 +1335,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNhdmVzdHJpbmdfcXQsIG9rID0gUUlucHV0RGlhbG9nLmdldFRleHQoCiAgICAgICAgIyAgICAgTm9uZSwKICAgICAgICAjICAgICAiU2F2ZSIsCiAgICAgICAgIyAgICAgJ1NhdmUgb3V0cHV0IGRhdGE/IFllcy9Oby9BbGwgd2l0aCBpbnB1dCBkYXRhICh5L24vYSk6JywKICAgICAgICAjICAgICB0ZXh0PSJhIgogICAgICAgICMgICAgICkKCg==</text>
+        <text encoding="base64">ICAgIHByaW50IG5wLnVuaXF1ZSgpCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">IyAgICAgICBkYXRhWydvcmdhbl9pbnRlcmFjdGl2aXR5X2NvdW50ZXInXSA9IHNlbGYub3JnYW5faW50ZXJhY3Rpdml0eV9jb3VudGVyCiMgc2F2ZSByZW5hbWVkIGZpbGUgdG9vCiMgICAgICAgICBwdGgsIGZpbGVuYW1lID0gb3Auc3BsaXQob3Aubm9ybXBhdGgoc2VsZi5kYXRhcGF0aCkpCiMgICAgICAgICBmaWxlbmFtZSArPSAiLSIgKyBzZWxmLmV4cGVyaW1lbnRfY2FwdGlvbgojICMgICAgICAgIGlmIHNhdmVzdHJpbmcgaW4gWydhJywgJ0EnXToKIyAgICAgICAgIGZpbGVwYXRoID0gJ29yZy0nICsgZmlsZW5hbWUgKyAnLicgKyBzZWxmLnNhdmVfZmlsZXR5cGUKIyAgICAgICAgICMgcmludCBmaWxlcGF0aAojICAgICAgICAgIyByaW50ICdvcCAnLCBvcAo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">ZGVncmFkIA==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIGZyb20gUHlRdDQgaW1wb3J0IFF0Q29yZTsgUXRDb3JlLnB5cXRSZW1vdmVJbnB1dEhvb2soKQogICAgICAgICMgaW1wb3J0IGlwZGI7IGlwZGIuc2V0X3RyYWNlKCkKICAgICAgICAjIG1pc2Mub2JqX3RvX2ZpbGUoZGF0YSwgZmlsZXBhdGgsIGZpbGV0eXBlPXNlbGYuc2F2ZV9maWxldHlwZSkKCiAgICAgICAgIyBmaWxlcGF0aDIgPSAnb3JnYW5fbGFzdC4nICsgc2VsZi5zYXZlX2ZpbGV0eXBlCiAgICAgICAgIyBmaWxlcGF0aDIgPSBvcC5qb2luKG9kcCwgZmlsZXBhdGgyKQogICAgICAgICMgIyBpbGVwYXRoID0gbWlzYy5zdWdnZXN0X2ZpbGVuYW1lKGZpbGVwYXRoKQogICAgICAgICMgbWlzYy5vYmpfdG9fZmlsZShkYXRhLCBmaWxlcGF0aDIsIGZpbGV0eXBlPXNlbGYuc2F2ZV9maWxldHlwZSkKIyBzYXZlIHRvIG1hdAoKIyAgICAgICAgaXBhcmFtcyA9IHNlbGYuZ2V0X2lwYXJhbXMoKQogICAgICAgICMgZmlsZXBhdGggPSAnb3JnYW5faXBhcmFtcy5wa2x6JwogICAgICAgICMgZmlsZXBhdGggPSBvcC5qb2luKG9kcCwgZmlsZXBhdGgpCiAgICAgICAgIyBtaXNjLm9ial90b19maWxlKGlwYXJhbXMsIGZpbGVwYXRoLCBmaWxldHlwZT0ncGtseicpCgogICAgICAgICMgZiBzYXZlc3RyaW5nIGluIFsnYScsICdBJ106Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">KiA=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNhdmVzdHJpbmcgPSBzdHIoc2F2ZXN0cmluZ19xdCkKCiAgICAgICAgIyAgICBpZiBzYXZlc3RyaW5nIGluIFsnWScsICd5JywgJ2EnLCAnQSddOgo=</text>
+      <register name="6" type="4">
+        <text>*</text>
       </register>
       <register name="7" type="4">
-        <text>quit</text>
+        <text>degrad</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">YW5kIA==</text>
+        <text>int</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">U2F2ZSA=</text>
+        <text>double</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
