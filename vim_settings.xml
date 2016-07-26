@@ -74,6 +74,12 @@
         <mark key="." line="61" column="37" />
         <mark key="^" line="61" column="37" />
       </file>
+      <file name="$USER_HOME$/projects/quantan/quantan.iss" timestamp="1469535599926">
+        <mark key="[" line="55" column="97" />
+        <mark key="]" line="55" column="97" />
+        <mark key="^" line="73" column="124" />
+        <mark key="." line="55" column="97" />
+      </file>
       <file name="$USER_HOME$/projects/lisa/contributors.md" timestamp="1466172084920">
         <mark key="[" line="55" column="15" />
         <mark key="]" line="55" column="20" />
@@ -1322,47 +1328,47 @@
       <jump line="893" column="21" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZGVncmFkIA==</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>def setL</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIF9zdGF0cyhzZWdtZW50YXRpb24pCg==</text>
+      <register name="0" type="4">
+        <text>vc_redist.x64.exe</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>;</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>IsCondaInstalled</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50IG5wLnVuaXF1ZSgpCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">OiA=</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">ZGVncmFkIA==</text>
+        <text>Check</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">KiA=</text>
+        <text>/AddToPath=1 /RegisterPython=1 /InstallationType=AllUsers</text>
       </register>
       <register name="6" type="4">
-        <text>*</text>
+        <text>Miniconda-latest-Windows-x86_64.exe</text>
       </register>
       <register name="7" type="4">
-        <text>degrad</text>
+        <text>Miniconda-latest-Windows-x86_64.exe&quot;; Parameters</text>
       </register>
-      <register name="8" type="4">
-        <text>int</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGh0dHBzOi8vd3d3Lm1pY3Jvc29mdC5jb20vY3MtY3ovZG93bmxvYWQvY29uZmlybWF0aW9uLmFzcHg/aWQ9NDgxNDUK</text>
       </register>
       <register name="9" type="4">
-        <text>double</text>
+        <text>-latest-Windows-x86_64.exe</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
