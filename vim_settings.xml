@@ -1124,12 +1124,12 @@
         <mark key="^" line="178" column="21" />
         <mark key="." line="178" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/io3d/io3d/datareader.py" timestamp="1446818660722">
+      <file name="$USER_HOME$/projects/io3d/io3d/datareader.py" timestamp="1469702300309">
         <mark key="'" line="98" column="12" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="17" column="35" />
-        <mark key="^" line="170" column="30" />
-        <mark key="." line="170" column="30" />
+        <mark key="[" line="169" column="61" />
+        <mark key="]" line="169" column="61" />
+        <mark key="^" line="175" column="30" />
+        <mark key="." line="169" column="0" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/__init__.py" timestamp="1464369261837">
         <mark key="[" line="3" column="0" />
@@ -1331,47 +1331,47 @@
       <jump line="246" column="44" filename="$USER_HOME$/projects/quantan/quantan/histology_analyser_gui.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGF0YTNkLCBtZXRhZGF0YSA9IHNlbGYuX3JlYWRfd2l0aF9zaXRrKGRhdGFwYXRoKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxydW5TZWdtZW50YXRpb25cPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>vc_redist.x64.exe</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGF0YTNkLCBtZXRhZGF0YSA9IHNlbGYuX3JlYWRfd2l0aF9zaXRrKGRhdGFwYXRoKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>;</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>IsCondaInstalled</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IFNpbXBsZUlUSyBhcyBzaXRrCiAgICAgICAgICAgIGltYWdlID0gc2l0ay5SZWFkSW1hZ2UoZGF0YXBhdGgpCgogICAgICAgICAgICBkYXRhM2QgPSBzaXRrLkdldEFycmF5RnJvbUltYWdlKGltYWdlKSAgIyArIDEwMjQKICAgICAgICAgICAgbWV0YWRhdGEgPSB7fSAgIyByZWFkZXIuZ2V0X21ldGFEYXRhKCkKICAgICAgICAgICAgbWV0YWRhdGFbJ3Nlcmllc19udW1iZXInXSA9IDAgICMgcmVhZGVyLnNlcmllc19udW1iZXIKICAgICAgICAgICAgbWV0YWRhdGFbJ2RhdGFkaXInXSA9IGRhdGFwYXRoCiAgICAgICAgICAgIHNwYWNpbmcgPSBpbWFnZS5HZXRTcGFjaW5nKCkKICAgICAgICAgICAgbWV0YWRhdGFbJ3ZveGVsc2l6ZV9tbSddID0gWwogICAgICAgICAgICAgICAgc3BhY2luZ1syXSwKICAgICAgICAgICAgICAgIHNwYWNpbmdbMF0sCiAgICAgICAgICAgICAgICBzcGFjaW5nWzFdLAogICAgICAgICAgICBdCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">OiA=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBlbHNlOgogICAgICAgICAgICBsb2dnZXIuZGVidWcoJ2ZpbGUgZm9ybWF0ICInICsgZXh0ICsgJyInKQo=</text>
       </register>
-      <register name="4" type="4">
-        <text>Check</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIyBhdGEzZCA9IG5wLnRyYW5zcG9zZShkYXRhM2QpCiAgICAgICAgICAgICMgYXRhM2QgPSBucC5yb2xsYXhpcyhkYXRhM2QsMSkK</text>
       </register>
-      <register name="5" type="4">
-        <text>/AddToPath=1 /RegisterPython=1 /InstallationType=AllUsers</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIyBtYWdlID0KICAgICAgICAgICAgIyBzaXRrLlJlYWRJbWFnZSgnL2hvbWUvbWppcmlrL2RhdGEvbWVkaWNhbC9kYXRhX29yaWcvc2xpdmVyMDcvMDEvbGl2ZXItb3JpZzAwMS5taGQnKSAjICBub3FhCiAgICAgICAgICAgICMgeiA9IGltYWdlLkdldFNpemUoKQoKICAgICAgICAgICAgIyBhdGEzZCA9IHNpdGsuSW1hZ2Uoc3pbMF0sc3pbMV0sc3pbMl0sIHNpdGsuc2l0a0ludDE2KQoKICAgICAgICAgICAgIyBvciBpIGluIHJhbmdlKDAsc3pbMF0pOgogICAgICAgICAgICAjICAgIHByaW50IGkKICAgICAgICAgICAgIyAgICBmb3IgaiBpbiByYW5nZSgwLHN6WzFdKToKICAgICAgICAgICAgIyAgICAgICAgZm9yIGsgaW4gcmFuZ2UoMCxzelsyXSk6CiAgICAgICAgICAgICMgICAgICAgICAgICBkYXRhM2RbaSxqLGtdPWltYWdlW2ksaixrXQo=</text>
       </register>
       <register name="6" type="4">
-        <text>Miniconda-latest-Windows-x86_64.exe</text>
+        <text>;</text>
       </register>
       <register name="7" type="4">
-        <text>Miniconda-latest-Windows-x86_64.exe&quot;; Parameters</text>
+        <text>IsCondaInstalled</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGh0dHBzOi8vd3d3Lm1pY3Jvc29mdC5jb20vY3MtY3ovZG93bmxvYWQvY29uZmlybWF0aW9uLmFzcHg/aWQ9NDgxNDUK</text>
+      <register name="8" type="4">
+        <text encoding="base64">OiA=</text>
       </register>
       <register name="9" type="4">
-        <text>-latest-Windows-x86_64.exe</text>
+        <text>Check</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1409,7 +1409,6 @@
       </history-search>
       <history-cmd>
         <entry>166</entry>
-        <entry>e</entry>
         <entry>292</entry>
         <entry>q</entry>
         <entry>114</entry>
@@ -1427,6 +1426,7 @@
         <entry>20</entry>
         <entry>52</entry>
         <entry>81</entry>
+        <entry>e</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
