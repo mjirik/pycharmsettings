@@ -35,6 +35,9 @@
         <mark key="." line="169" column="7" />
         <mark key="^" line="169" column="7" />
       </file>
+      <file name="/a.dummy" timestamp="1469821974413">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/sftpsync-py/tests/sftp_test.py" timestamp="1465326762710">
         <mark key="[" line="31" column="34" />
         <mark key="]" line="31" column="54" />
@@ -811,13 +814,13 @@
         <mark key="." line="61" column="37" />
         <mark key="^" line="61" column="37" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1469820185670">
-        <mark key="a" line="959" column="12" />
+      <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1469822037327">
+        <mark key="a" line="967" column="12" />
         <mark key="'" line="334" column="8" />
-        <mark key="[" line="385" column="0" />
-        <mark key="]" line="385" column="0" />
-        <mark key="." line="385" column="0" />
-        <mark key="^" line="464" column="38" />
+        <mark key="[" line="395" column="53" />
+        <mark key="]" line="395" column="50" />
+        <mark key="." line="395" column="50" />
+        <mark key="^" line="395" column="50" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/__main__.py" timestamp="1464212447040">
         <mark key="[" line="2" column="0" />
@@ -1331,47 +1334,47 @@
       <jump line="328" column="8" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9pbml0VUlfbG9nbyhzZWdHcmlkKQo=</text>
+      <register name="&quot;" type="4">
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2FkV2lkZ2V0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9hY3RpdmF0ZV93aWRnZXQoc2VsZi5zYXZlV2lkZ2V0KQo=</text>
+        <text encoding="base64">ICAgICAgICBidG5Mb2FkRGlyID0gUVB1c2hCdXR0b24oIkRpcmVjdG9yeSIsIHNlbGYpCiAgICAgICAgYnRuTG9hZERpci5jbGlja2VkLmNvbm5lY3Qoc2VsZi5sb2FkRGF0YURpcikKICAgICAgICBsb2FkR3JpZC5hZGRXaWRnZXQoYnRuTG9hZERpciwgNiwgMikK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9pbml0VUlfbG9nbyhzZWdHcmlkKQo=</text>
+      <register name="1" type="4">
+        <text>r</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzYXZlR3JpZCA9IHNlbGYuX2luaXRVSV9sb2dvKHNhdmVHcmlkKQo=</text>
+      <register name="2" type="4">
+        <text>i</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsb2FkR3JpZCA9IHNlbGYuX2luaXRVSV9sb2dvKGxvYWRHcmlkKQo=</text>
+      <register name="3" type="4">
+        <text>D</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmdyaWQuYWRkV2lkZ2V0KCkK</text>
+      <register name="4" type="4">
+        <text>r</text>
       </register>
       <register name="5" type="4">
-        <text>e</text>
+        <text>i</text>
       </register>
       <register name="6" type="4">
-        <text>v</text>
+        <text>D</text>
       </register>
       <register name="7" type="4">
-        <text>a</text>
+        <text>r</text>
       </register>
       <register name="8" type="4">
-        <text>d</text>
+        <text>i</text>
       </register>
       <register name="9" type="4">
-        <text>a</text>
+        <text>D</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
