@@ -550,9 +550,6 @@
         <mark key="^" line="54" column="55" />
         <mark key="." line="54" column="55" />
       </file>
-      <file name="/Dummy.txt" timestamp="1469803874452">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/disco/disco/__init__.py" timestamp="1463148479573">
         <mark key="[" line="33" column="39" />
         <mark key="]" line="33" column="20" />
@@ -814,13 +811,13 @@
         <mark key="." line="61" column="37" />
         <mark key="^" line="61" column="37" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1469484110456">
+      <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1469804182182">
         <mark key="a" line="933" column="12" />
         <mark key="'" line="893" column="21" />
-        <mark key="[" line="933" column="13" />
-        <mark key="]" line="927" column="32" />
-        <mark key="^" line="927" column="32" />
-        <mark key="." line="927" column="32" />
+        <mark key="[" line="1058" column="33" />
+        <mark key="]" line="1058" column="35" />
+        <mark key="^" line="1058" column="35" />
+        <mark key="." line="1058" column="35" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/__main__.py" timestamp="1464212447040">
         <mark key="[" line="2" column="0" />
@@ -1334,8 +1331,8 @@
       <jump line="76" column="52" filename="$USER_HOME$/projects/lisa/lisa/viewer.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Color</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>Color</text>
@@ -1346,35 +1343,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhY3Rvci5HZXRQcm9wZXJ0eSgpLlNldERpZmZ1c2VDb2xvcigxLDEsMSkK</text>
       </register>
-      <register name="1" type="4">
-        <text>Color</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>DiffuseC</text>
+        <text>Color</text>
       </register>
       <register name="3" type="4">
-        <text>EdgeColor</text>
+        <text>DiffuseC</text>
       </register>
       <register name="4" type="4">
-        <text>1</text>
+        <text>EdgeColor</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+        <text>1</text>
       </register>
       <register name="6" type="4">
-        <text>,</text>
-      </register>
-      <register name="7" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="8" type="4">
+      <register name="7" type="4">
         <text>,</text>
       </register>
+      <register name="8" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
       <register name="9" type="4">
-        <text>1</text>
+        <text>,</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
