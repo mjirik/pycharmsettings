@@ -811,13 +811,13 @@
         <mark key="." line="61" column="37" />
         <mark key="^" line="61" column="37" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1469806020131">
-        <mark key="a" line="937" column="12" />
-        <mark key="'" line="897" column="21" />
-        <mark key="[" line="398" column="32" />
-        <mark key="]" line="399" column="21" />
-        <mark key="^" line="399" column="21" />
-        <mark key="." line="399" column="21" />
+      <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1469807590586">
+        <mark key="a" line="941" column="12" />
+        <mark key="'" line="901" column="21" />
+        <mark key="[" line="351" column="34" />
+        <mark key="]" line="351" column="45" />
+        <mark key="." line="351" column="45" />
+        <mark key="^" line="351" column="45" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/__main__.py" timestamp="1464212447040">
         <mark key="[" line="2" column="0" />
@@ -1332,25 +1332,25 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>a</text>
+        <text>Dicom</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>Dicom</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2dGtfZmlsZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9pbml0VUlfbG9nbyhzZWdHcmlkKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9pbml0VUlfbG9nbyhzZWxmLnNhdmVHcmlkKQo=</text>
       </register>
       <register name="1" type="4">
-        <text>a</text>
+        <text>Dicom</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsaXNhX2xvZ28gPSBRTGFiZWwoKQogICAgICAgIGxpc2FfbG9nby5zZXRQaXhtYXAobG9nbykKICAgICAgICBzZWdHcmlkLmFkZFdpZGdldChsaXNhX2xvZ28sIDAsIDIsIDUsIDIpCgo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9pbml0VUlfbG9nbyhncmlkKQo=</text>
       </register>
       <register name="3" type="4">
         <text>e</text>
@@ -1361,8 +1361,8 @@
       <register name="5" type="4">
         <text>a</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsaXNhX2xvZ28gPSBRTGFiZWwoKQogICAgICAgIGxpc2FfbG9nby5zZXRQaXhtYXAobG9nbykKICAgICAgICBzYXZlR3JpZC5hZGRXaWRnZXQobGlzYV9sb2dvLCAwLCAyLCA1LCAyKQo=</text>
+      <register name="6" type="4">
+        <text>s</text>
       </register>
       <register name="7" type="4">
         <text>d</text>
