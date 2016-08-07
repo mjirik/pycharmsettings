@@ -612,12 +612,12 @@
         <mark key="^" line="119" column="23" />
         <mark key="." line="131" column="8" />
       </file>
-      <file name="$USER_HOME$/projects/skelet3d/skelet3d/libfixer.py" timestamp="1470571839502">
+      <file name="$USER_HOME$/projects/skelet3d/skelet3d/libfixer.py" timestamp="1470573119303">
         <mark key="'" line="13" column="4" />
-        <mark key="[" line="180" column="10" />
-        <mark key="]" line="180" column="10" />
-        <mark key="^" line="180" column="24" />
-        <mark key="." line="180" column="10" />
+        <mark key="[" line="120" column="23" />
+        <mark key="]" line="122" column="26" />
+        <mark key="^" line="122" column="26" />
+        <mark key="." line="122" column="26" />
       </file>
       <file name="$USER_HOME$/projects/psongbook/sobo/parser.py" timestamp="1463487326410">
         <mark key="[" line="16" column="0" />
@@ -1346,10 +1346,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">aW50byA=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">aW50byA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkb3dubG9hZF9hbmRfdW56aXBcPg==</text>
@@ -1358,34 +1358,34 @@
         <text encoding="base64">ICAgICAgICAgICAgZHN0ZGlyID0gX2ZpbmRfY29uZGFfZGlyX3dpdGhfY29uZGEoKQo=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">aW50byA=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>n</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="3" type="4">
+        <text>n</text>
+      </register>
+      <register name="4" type="4">
         <text>o</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgIyBpZiBzdWRvIGlzIHVzZWQsIGNvbmRhIGlzIG5vdCBpbiBwYXRoIGFuZCBwcm9jZXNzIHdpbGwgZmFpbAo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">bm90IA==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGRzdGRpciA9ICcnCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgaW1wb3J0IHN1YnByb2Nlc3MKICAgICAgICAgICAgICAgIGltcG9ydCByZQogICAgICAgICAgICAgICAgIyBjb25kIGluZm8gLS1yb290IHdvcmsgb25seSBmb3Igcm9vdCBlbnZpcm9ubWVudAogICAgICAgICAgICAgICAgIyBwID0gc3VicHJvY2Vzcy5Qb3BlbihbJ2NvbmRhJywgJ2luZm8nLCAnLS1yb290J10sIHN0ZG91dD1zdWJwcm9jZXNzLlBJUEUsICBzdGRlcnI9c3VicHJvY2Vzcy5QSVBFKQogICAgICAgICAgICAgICAgcCA9IHN1YnByb2Nlc3MuUG9wZW4oWydjb25kYScsICdpbmZvJywgJy1lJ10sIHN0ZG91dD1zdWJwcm9jZXNzLlBJUEUsICBzdGRlcnI9c3VicHJvY2Vzcy5QSVBFKSAjLCBwcmVleGVjX2ZuPV9fbWFrZV9ub25fc3VkbygpKQogICAgICAgICAgICAgICAgb3V0LCBlcnIgPSBwLmNvbW11bmljYXRlKCkKCiAgICAgICAgICAgICAgICAjIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCiAgICAgICAgICAgICAgICBkc3RkaXIgPSBvdXQuc3RyaXAoKQogICAgICAgICAgICAgICAgZHN0ZGlyID0gcmUuc2VhcmNoKCJcKiguKikoXG58JCkiLCBkc3RkaXIpLmdyb3VwKDEpLnN0cmlwKCkKICAgICAgICAgICAgZXhjZXB0OgogICAgICAgICAgICAgICAgaW1wb3J0IHRyYWNlYmFjawogICAgICAgICAgICAgICAgdHJhY2ViYWNrLnByaW50X2V4YygpCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>.</text>
-      </register>
       <register name="9" type="4">
-        <text>f</text>
+        <text>.</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
