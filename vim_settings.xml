@@ -200,13 +200,13 @@
         <mark key="^" line="23" column="8" />
         <mark key="." line="22" column="23" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1469822037327">
-        <mark key="a" line="967" column="12" />
-        <mark key="'" line="334" column="8" />
-        <mark key="[" line="395" column="53" />
-        <mark key="]" line="395" column="50" />
-        <mark key="." line="395" column="50" />
-        <mark key="^" line="395" column="50" />
+      <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1470992787401">
+        <mark key="a" line="968" column="12" />
+        <mark key="'" line="335" column="8" />
+        <mark key="[" line="8" column="14" />
+        <mark key="]" line="8" column="15" />
+        <mark key="." line="8" column="15" />
+        <mark key="^" line="8" column="15" />
       </file>
       <file name="$USER_HOME$/projects/io3d/setup.cfg" timestamp="1464369380648">
         <mark key="[" line="1" column="0" />
@@ -568,9 +568,6 @@
         <mark key="]" line="56" column="0" />
         <mark key="^" line="57" column="8" />
         <mark key="." line="56" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1469822373070">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/quanta/setup.py" timestamp="1446640023460">
         <mark key="[" line="58" column="105" />
@@ -1346,46 +1343,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">aW50byA=</text>
+        <text>io</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aW50byA=</text>
+        <text>io</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkb3dubG9hZF9hbmRfdW56aXBcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZHN0ZGlyID0gX2ZpbmRfY29uZGFfZGlyX3dpdGhfY29uZGEoKQo=</text>
+        <text encoding="base64">ZnJvbSBsaXNhLmxvZ1dpbmRvdyBpbXBvcnQgUVZCb3hMYXlvdXQK</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">aW50byA=</text>
+        <text>io</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">bG9nV2luZG93IA==</text>
       </register>
       <register name="3" type="4">
-        <text>n</text>
+        <text>.</text>
       </register>
       <register name="4" type="4">
-        <text>o</text>
+        <text>lisa</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBpZiBzdWRvIGlzIHVzZWQsIGNvbmRhIGlzIG5vdCBpbiBwYXRoIGFuZCBwcm9jZXNzIHdpbGwgZmFpbAo=</text>
+        <text encoding="base64">bG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoX19uYW1lX18pCg==</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">bm90IA==</text>
+        <text encoding="base64">aW50byA=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGRzdGRpciA9ICcnCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgaW1wb3J0IHN1YnByb2Nlc3MKICAgICAgICAgICAgICAgIGltcG9ydCByZQogICAgICAgICAgICAgICAgIyBjb25kIGluZm8gLS1yb290IHdvcmsgb25seSBmb3Igcm9vdCBlbnZpcm9ubWVudAogICAgICAgICAgICAgICAgIyBwID0gc3VicHJvY2Vzcy5Qb3BlbihbJ2NvbmRhJywgJ2luZm8nLCAnLS1yb290J10sIHN0ZG91dD1zdWJwcm9jZXNzLlBJUEUsICBzdGRlcnI9c3VicHJvY2Vzcy5QSVBFKQogICAgICAgICAgICAgICAgcCA9IHN1YnByb2Nlc3MuUG9wZW4oWydjb25kYScsICdpbmZvJywgJy1lJ10sIHN0ZG91dD1zdWJwcm9jZXNzLlBJUEUsICBzdGRlcnI9c3VicHJvY2Vzcy5QSVBFKSAjLCBwcmVleGVjX2ZuPV9fbWFrZV9ub25fc3VkbygpKQogICAgICAgICAgICAgICAgb3V0LCBlcnIgPSBwLmNvbW11bmljYXRlKCkKCiAgICAgICAgICAgICAgICAjIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCiAgICAgICAgICAgICAgICBkc3RkaXIgPSBvdXQuc3RyaXAoKQogICAgICAgICAgICAgICAgZHN0ZGlyID0gcmUuc2VhcmNoKCJcKiguKikoXG58JCkiLCBkc3RkaXIpLmdyb3VwKDEpLnN0cmlwKCkKICAgICAgICAgICAgZXhjZXB0OgogICAgICAgICAgICAgICAgaW1wb3J0IHRyYWNlYmFjawogICAgICAgICAgICAgICAgdHJhY2ViYWNrLnByaW50X2V4YygpCg==</text>
+      <register name="8" type="4">
+        <text>n</text>
       </register>
       <register name="9" type="4">
-        <text>.</text>
+        <text>o</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
