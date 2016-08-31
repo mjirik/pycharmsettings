@@ -290,12 +290,12 @@
         <mark key="." line="122" column="26" />
         <mark key="^" line="122" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/sftpsync-py/tests/sftpsync_test.py" timestamp="1472645884032">
+      <file name="$USER_HOME$/projects/sftpsync-py/tests/sftpsync_test.py" timestamp="1472647506070">
         <mark key="'" line="9" column="10" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="12" />
-        <mark key="." line="21" column="12" />
-        <mark key="^" line="21" column="7" />
+        <mark key="[" line="31" column="4" />
+        <mark key="]" line="31" column="7" />
+        <mark key="." line="31" column="7" />
+        <mark key="^" line="31" column="7" />
       </file>
       <file name="$USER_HOME$/projects/io3d/io3d/connect.py" timestamp="1462980576099">
         <mark key="[" line="188" column="0" />
@@ -1365,10 +1365,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjIGNyZWF0ZSBSU0Ega2V5CiAgICAgICAgb3Muc3lzdGVtKCdzc2gta2V5Z2VuIC10IHJzYSAtcSAtZiBpZF9yc2EgLVAgIiInKQo=</text>
+        <text encoding="base64">ICAgIHNlbGYucG9ydCA9IDMzNzgK</text>
       </register>
       <register name="-" type="4">
-        <text>Class</text>
+        <text>3373</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzYXZlT3V0XD4=</text>
@@ -1377,36 +1377,34 @@
         <text encoding="base64">ICAgIGRlZiBzZXRVcENsYXNzKHNlbGYpOgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIGNyZWF0ZSBSU0Ega2V5CiAgICAgICAgb3Muc3lzdGVtKCdzc2gta2V5Z2VuIC10IHJzYSAtcSAtZiBpZF9yc2EgLVAgIiInKQo=</text>
+        <text encoding="base64">ICAgIHNlbGYucG9ydCA9IDMzNzgK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlcihNeVRlc3RDYXNlLCBzZWxmKS5zZXRVcENsYXNzKCkK</text>
+        <text encoding="base64">ICAgICAgICAjIHNlbGYucG9ydCA9ICIyMiIK</text>
       </register>
-      <register name="3" type="8">
-        <text encoding="base64">Pj4+IAo+Pj4gCj4+PiAKPj4+IAo+Pj4g</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmhvc3QgPSAiMTQ3LjIyOC40Ny4xNjIiCgogICAgICAgIHNlbGYucG9ydCArPSAxCiAgICAgICAgc2VsZi5ob3N0ID0gImxvY2FsaG9zdCIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiB0b3VjaChzZWxmLCBmbmFtZSwgdGltZXM9Tm9uZSk6CiAgICAgICAgd2l0aCBvcGVuKGZuYW1lLCAnYScpOgogICAgICAgICAgICBvcy51dGltZShmbmFtZSwgdGltZXMpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmhvc3QgPSAiMTQ3LjIyOC40Ny4xNjIiCgogICAgICAgIHNlbGYucG9ydCArPSAxCiAgICAgICAgc2VsZi5ob3N0ID0gImxvY2FsaG9zdCIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBvcy5tYWtlZGlycygidGVzdF9zZXJ2ZXIvdG9fc2VydmVyIikK</text>
+        <text encoding="base64">ICAgICAgICBwdGhfZnJvbSA9ICJ0ZXN0X3NlcnZlci9mcm9tX3NlcnZlciIKICAgICAgICBwdGhfdG8gPSAidGVzdF9zZXJ2ZXIvdG9fc2VydmVyIgogICAgICAgIGlmIG5vdCBvcy5wYXRoLmV4aXN0cyhwdGhfZnJvbSk6CiAgICAgICAgICAgIG9zLm1ha2VkaXJzKHB0aF9mcm9tKQogICAgICAgIGlmIG5vdCBvcy5wYXRoLmV4aXN0cyhwdGhfdG8pOgogICAgICAgICAgICBvcy5tYWtlZGlycyhwdGhfdG8pCiAgICAgICAgdG91Y2goInRlc3Rfc2VydmVyL2Zyb21fc2VydmVyL3Rlc3QudHh0IikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBvcy5tYWtlZGlycygidGVzdF9zZXJ2ZXIiKQo=</text>
+        <text encoding="base64">ICAgICAgICAjIGNyZWF0ZSBSU0Ega2V5CiAgICAgICAgb3Muc3lzdGVtKCdzc2gta2V5Z2VuIC10IHJzYSAtcSAtZiBpZF9yc2EgLVAgIiInKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnBvcnQgPSAiMjIiCiAgICAgICAgc2VsZi5ob3N0ID0gIjE0Ny4yMjguNDcuMTYyIgo=</text>
+        <text encoding="base64">ICAgICAgICBzdXBlcihNeVRlc3RDYXNlLCBzZWxmKS5zZXRVcENsYXNzKCkK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgb3MK</text>
+      <register name="8" type="8">
+        <text encoding="base64">Pj4+IAo+Pj4gCj4+PiAKPj4+IAo+Pj4g</text>
       </register>
-      <register name="9" type="8">
-        <text>File
-File
-File</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGRlZiB0b3VjaChzZWxmLCBmbmFtZSwgdGltZXM9Tm9uZSk6CiAgICAgICAgd2l0aCBvcGVuKGZuYW1lLCAnYScpOgogICAgICAgICAgICBvcy51dGltZShmbmFtZSwgdGltZXMpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
