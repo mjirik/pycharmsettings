@@ -290,13 +290,11 @@
         <mark key="." line="122" column="26" />
         <mark key="^" line="122" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/sftpsync-py/tests/sftpsync_test.py" timestamp="1472634233187">
-        <mark key="a" line="96" column="25" />
-        <mark key="'" line="66" column="27" />
-        <mark key="[" line="11" column="20" />
-        <mark key="]" line="11" column="17" />
-        <mark key="^" line="11" column="17" />
-        <mark key="." line="11" column="17" />
+      <file name="$USER_HOME$/projects/sftpsync-py/tests/sftpsync_test.py" timestamp="1472640670155">
+        <mark key="[" line="15" column="21" />
+        <mark key="]" line="15" column="26" />
+        <mark key="." line="15" column="26" />
+        <mark key="^" line="15" column="26" />
       </file>
       <file name="$USER_HOME$/projects/io3d/io3d/connect.py" timestamp="1462980576099">
         <mark key="[" line="188" column="0" />
@@ -1366,48 +1364,48 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>FileAction</text>
+        <text>&quot;sftpserver -k ../id_rsa&quot;.split(&quot; &quot;)</text>
       </register>
       <register name="-" type="4">
-        <text>FileAction</text>
+        <text>&quot;sftpserver -k ../id_rsa&quot;.split(&quot; &quot;)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzYXZlT3V0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzYXZlRmlsZUFjdGlvbiA9IGdyb3VwLmFkZEFjdGlvbigiRmlsZSIpCiAgICAgICAgc2F2ZUZpbGVBY3Rpb24uc2V0Q2hlY2thYmxlKEZhbHNlKQogICAgICAgIHNhdmVGaWxlQWN0aW9uLnRyaWdnZXJlZC5jb25uZWN0KHNlbGYuc2F2ZU91dCkKICAgICAgICBtZW51LmFkZEFjdGlvbihzYXZlRmlsZUFjdGlvbikK</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3Qgb3MucGF0aC5leGlzdHMocHRoX2Zyb20pOgogICAgICAgICAgICBvcy5tYWtlZGlycyhwdGhfZnJvbSkK</text>
       </register>
-      <register name="1" type="8">
-        <text>File
-File
-File</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBvcy5tYWtlZGlycygidGVzdF9zZXJ2ZXIvdG9fc2VydmVyIikK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN1ZmZpeCA9ICJ7OjA0ZH0iCg==</text>
+        <text encoding="base64">ICAgICAgICBvcy5tYWtlZGlycygidGVzdF9zZXJ2ZXIiKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN1ZmZpeCA9ICIiCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnBvcnQgPSAiMjIiCiAgICAgICAgc2VsZi5ob3N0ID0gIjE0Ny4yMjguNDcuMTYyIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb2ZpbGVuYW1lID0gc2VsZi5vc2VnLmdldF9zdGFuZGFyZF9vdXB0dXRfZmlsZW5hbWUoc3VmZml4PXN1ZmZpeCkK</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgb3MK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="5" type="8">
+        <text>File
+File
+File</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN1ZmZpeCA9ICJ7OjA0ZH0iCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCAqYXJncywgKiprd2FyZ3MpOgogICAgICAgIHdkZyA9IFFUU2VlZEVkaXRvcldpZGdldCgqYXJncywgKiprd2FyZ3MpCgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN1ZmZpeCA9ICIiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCAqYXJncywgKiprd2FyZ3MpOgogICAgICAgIHdkZyA9IFFUU2VlZEVkaXRvcldpZGdldCgqYXJncywgKiprd2FyZ3MpCiAgICAgICAgCiAgICAKY2xhc3MgUVRTZWVkRWRpdG9yV2lkZ2V0KFFXaWRnZXQpOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgb2ZpbGVuYW1lID0gc2VsZi5vc2VnLmdldF9zdGFuZGFyZF9vdXB0dXRfZmlsZW5hbWUoc3VmZml4PXN1ZmZpeCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICIiIgogICAgRElDT00gdmlld2VyLgogICAgIiIiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
