@@ -290,12 +290,12 @@
         <mark key="." line="122" column="26" />
         <mark key="^" line="122" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/sftpsync-py/tests/sftpsync_test.py" timestamp="1472642011872">
+      <file name="$USER_HOME$/projects/sftpsync-py/tests/sftpsync_test.py" timestamp="1472644372144">
         <mark key="'" line="9" column="10" />
-        <mark key="[" line="31" column="37" />
-        <mark key="]" line="31" column="37" />
-        <mark key="." line="31" column="37" />
-        <mark key="^" line="29" column="20" />
+        <mark key="[" line="45" column="60" />
+        <mark key="]" line="45" column="60" />
+        <mark key="." line="45" column="60" />
+        <mark key="^" line="45" column="55" />
       </file>
       <file name="$USER_HOME$/projects/io3d/io3d/connect.py" timestamp="1462980576099">
         <mark key="[" line="188" column="0" />
@@ -1365,10 +1365,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>y</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>y</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzYXZlT3V0XD4=</text>
@@ -1376,37 +1376,37 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiBub3Qgb3MucGF0aC5leGlzdHMocHRoX2Zyb20pOgogICAgICAgICAgICBvcy5tYWtlZGlycyhwdGhfZnJvbSkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlZiB0b3VjaChzZWxmLCBmbmFtZSwgdGltZXM9Tm9uZSk6CiAgICAgICAgd2l0aCBvcGVuKGZuYW1lLCAnYScpOgogICAgICAgICAgICBvcy51dGltZShmbmFtZSwgdGltZXMpCg==</text>
+      <register name="1" type="8">
+        <text encoding="base64">Pj4+IAo+Pj4gCj4+PiAKPj4+IAo+Pj4g</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBvcy5tYWtlZGlycygidGVzdF9zZXJ2ZXIvdG9fc2VydmVyIikK</text>
+        <text encoding="base64">ICAgIGRlZiB0b3VjaChzZWxmLCBmbmFtZSwgdGltZXM9Tm9uZSk6CiAgICAgICAgd2l0aCBvcGVuKGZuYW1lLCAnYScpOgogICAgICAgICAgICBvcy51dGltZShmbmFtZSwgdGltZXMpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBvcy5tYWtlZGlycygidGVzdF9zZXJ2ZXIiKQo=</text>
+        <text encoding="base64">ICAgICAgICBvcy5tYWtlZGlycygidGVzdF9zZXJ2ZXIvdG9fc2VydmVyIikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnBvcnQgPSAiMjIiCiAgICAgICAgc2VsZi5ob3N0ID0gIjE0Ny4yMjguNDcuMTYyIgo=</text>
+        <text encoding="base64">ICAgICAgICBvcy5tYWtlZGlycygidGVzdF9zZXJ2ZXIiKQo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLnBvcnQgPSAiMjIiCiAgICAgICAgc2VsZi5ob3N0ID0gIjE0Ny4yMjguNDcuMTYyIgo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBpbXBvcnQgb3MK</text>
       </register>
-      <register name="6" type="8">
+      <register name="7" type="8">
         <text>File
 File
 File</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHN1ZmZpeCA9ICJ7OjA0ZH0iCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN1ZmZpeCA9ICIiCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb2ZpbGVuYW1lID0gc2VsZi5vc2VnLmdldF9zdGFuZGFyZF9vdXB0dXRfZmlsZW5hbWUoc3VmZml4PXN1ZmZpeCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN1ZmZpeCA9ICIiCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
