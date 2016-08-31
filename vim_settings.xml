@@ -290,12 +290,11 @@
         <mark key="." line="122" column="26" />
         <mark key="^" line="122" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/sftpsync-py/tests/sftpsync_test.py" timestamp="1472647506070">
-        <mark key="'" line="9" column="10" />
-        <mark key="[" line="31" column="4" />
-        <mark key="]" line="31" column="7" />
-        <mark key="." line="31" column="7" />
-        <mark key="^" line="31" column="7" />
+      <file name="$USER_HOME$/projects/sftpsync-py/tests/sftpsync_test.py" timestamp="1472651188790">
+        <mark key="[" line="44" column="48" />
+        <mark key="]" line="44" column="52" />
+        <mark key="." line="44" column="52" />
+        <mark key="^" line="44" column="52" />
       </file>
       <file name="$USER_HOME$/projects/io3d/io3d/connect.py" timestamp="1462980576099">
         <mark key="[" line="188" column="0" />
@@ -596,7 +595,7 @@
         <mark key="^" line="178" column="21" />
         <mark key="." line="178" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1472558771655">
+      <file name="/Dummy.txt" timestamp="1472651369390">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/io3d/io3d/misc.py" timestamp="1453295785375">
@@ -1262,7 +1261,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="127" column="31" filename="$USER_HOME$/projects/pysegbase/tests/pycut_test.py" />
       <jump line="144" column="31" filename="$USER_HOME$/projects/pysegbase/tests/pycut_test.py" />
       <jump line="176" column="31" filename="$USER_HOME$/projects/pysegbase/tests/pycut_test.py" />
       <jump line="228" column="31" filename="$USER_HOME$/projects/pysegbase/tests/pycut_test.py" />
@@ -1362,49 +1360,50 @@
       <jump line="1288" column="8" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="112" column="46" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="9" column="10" filename="$USER_HOME$/projects/sftpsync-py/tests/sftpsync_test.py" />
+      <jump line="51" column="44" filename="$USER_HOME$/projects/sftpsync-py/tests/sftpsync_test.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHNlbGYucG9ydCA9IDMzNzgK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>3373</text>
+        <text>cl</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzYXZlT3V0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiBzZXRVcENsYXNzKHNlbGYpOgo=</text>
+        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHNlbGYucG9ydCA9IDMzNzgK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYucG9ydCA9ICIyMiIK</text>
+        <text encoding="base64">ICAgICAgICAjIHJ1biBzZXJ2ZXIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmhvc3QgPSAiMTQ3LjIyOC40Ny4xNjIiCgogICAgICAgIHNlbGYucG9ydCArPSAxCiAgICAgICAgc2VsZi5ob3N0ID0gImxvY2FsaG9zdCIK</text>
+        <text encoding="base64">ICAgICAgICBjbCA9IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmhvc3QgPSAiMTQ3LjIyOC40Ny4xNjIiCgogICAgICAgIHNlbGYucG9ydCArPSAxCiAgICAgICAgc2VsZi5ob3N0ID0gImxvY2FsaG9zdCIK</text>
+        <text encoding="base64">ICAgICAgICBob3N0ID0gIjE0Ny4yMjguNDcuMTYyIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwdGhfZnJvbSA9ICJ0ZXN0X3NlcnZlci9mcm9tX3NlcnZlciIKICAgICAgICBwdGhfdG8gPSAidGVzdF9zZXJ2ZXIvdG9fc2VydmVyIgogICAgICAgIGlmIG5vdCBvcy5wYXRoLmV4aXN0cyhwdGhfZnJvbSk6CiAgICAgICAgICAgIG9zLm1ha2VkaXJzKHB0aF9mcm9tKQogICAgICAgIGlmIG5vdCBvcy5wYXRoLmV4aXN0cyhwdGhfdG8pOgogICAgICAgICAgICBvcy5tYWtlZGlycyhwdGhfdG8pCiAgICAgICAgdG91Y2goInRlc3Rfc2VydmVyL2Zyb21fc2VydmVyL3Rlc3QudHh0IikK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCBjbAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIGNyZWF0ZSBSU0Ega2V5CiAgICAgICAgb3Muc3lzdGVtKCdzc2gta2V5Z2VuIC10IHJzYSAtcSAtZiBpZF9yc2EgLVAgIiInKQo=</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgc3VicHJvY2VzcwogICAgICAgIGltcG9ydCB0aW1lCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlcihNeVRlc3RDYXNlLCBzZWxmKS5zZXRVcENsYXNzKCkK</text>
+        <text encoding="base64">ICAgICAgICAjIHJ1biBTRlRQIHNlcnZlcgo=</text>
       </register>
-      <register name="8" type="8">
-        <text encoding="base64">Pj4+IAo+Pj4gCj4+PiAKPj4+IAo+Pj4g</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICMgcnVuIHRlc3QgU0ZUUCBzZXJ2ZXIKICAgIGltcG9ydCBzdWJwcm9jZXNzCiAgICBpbXBvcnQgdGltZQogICAgIyBzZWxmLnBvcnQgPSAiMjIiCiAgICBob3N0ID0gIjE0Ny4yMjguNDcuMTYyIgoKICAgIHBvcnQgPSAzMzczCiAgICBob3N0ID0gImxvY2FsaG9zdCIKICAgICMgcnVuIHNlcnZlcgogICAgY2wgPSAic2Z0cHNlcnZlciAtayAuLi9pZF9yc2EgLXAgIiArIHN0cihwb3J0KQoKICAgIHByaW50IGNsCiAgICBwcm9jZXNzID0gc3VicHJvY2Vzcy5Qb3BlbihjbCwgY3dkPSJ0ZXN0X3NlcnZlciIsIHNoZWxsPVRydWUpCiAgICB0aW1lLnNsZWVwKDEpCgogICAgIyBTZXJ2ZXIgaXMgYXZhaWxhYmxlIGZvciBhbGwgdXNlcnMgYW5kIGFueSBwYXNzd29yZAogICAgIyBzZnRwOi8vdXNlckBsb2NhbGhvc3Q6MzM3My8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiB0b3VjaChzZWxmLCBmbmFtZSwgdGltZXM9Tm9uZSk6CiAgICAgICAgd2l0aCBvcGVuKGZuYW1lLCAnYScpOgogICAgICAgICAgICBvcy51dGltZShmbmFtZSwgdGltZXMpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmhvc3QsIHNlbGYucG9ydCwgc2VsZi5wcm9jZXNzID0gcnVuU2VydmVyKCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
