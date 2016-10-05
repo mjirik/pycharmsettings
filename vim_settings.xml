@@ -34,7 +34,7 @@
         <mark key="^" line="88" column="52" />
         <mark key="." line="88" column="52" />
       </file>
-      <file name="/a.dummy" timestamp="1475669499422">
+      <file name="/a.dummy" timestamp="1475670212262">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/quanta/README.md" timestamp="1452510025795">
@@ -494,15 +494,15 @@
         <mark key="^" line="2" column="42" />
         <mark key="." line="2" column="42" />
       </file>
-      <file name="$USER_HOME$/projects/io3d/io3d/datareaderqt.py" timestamp="1475669352058">
-        <mark key="a" line="132" column="30" />
-        <mark key="'" line="17" column="0" />
-        <mark key="i" line="43" column="20" />
-        <mark key="[" line="251" column="10" />
-        <mark key="]" line="251" column="10" />
-        <mark key="n" line="150" column="0" />
-        <mark key="^" line="251" column="10" />
-        <mark key="." line="251" column="10" />
+      <file name="$USER_HOME$/projects/io3d/io3d/datareaderqt.py" timestamp="1475670668321">
+        <mark key="a" line="139" column="30" />
+        <mark key="'" line="0" column="0" />
+        <mark key="i" line="50" column="20" />
+        <mark key="[" line="174" column="44" />
+        <mark key="]" line="174" column="48" />
+        <mark key="n" line="157" column="0" />
+        <mark key="^" line="174" column="48" />
+        <mark key="." line="174" column="48" />
       </file>
       <file name="$USER_HOME$/projects/skelet3d/examples/example03.py" timestamp="1465901557731">
         <mark key="'" line="6" column="32" />
@@ -1193,8 +1193,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="11" filename="$USER_HOME$/projects/sobo/sobo/psongbook.py" />
-      <jump line="83" column="18" filename="$USER_HOME$/projects/sobo/sobo/psongbook.py" />
       <jump line="110" column="11" filename="$USER_HOME$/projects/sobo/sobo/psongbook.py" />
       <jump line="259" column="17" filename="$USER_HOME$/projects/sobo/sobo/psongbook.py" />
       <jump line="3" column="0" filename="$USER_HOME$/projects/sobo/sobo/sort.py" />
@@ -1293,19 +1291,21 @@
       <jump line="132" column="27" filename="$USER_HOME$/projects/io3d/io3d/datareaderqt.py" />
       <jump line="139" column="13" filename="$USER_HOME$/projects/io3d/io3d/datareaderqt.py" />
       <jump line="17" column="0" filename="$USER_HOME$/projects/io3d/io3d/datareaderqt.py" />
+      <jump line="257" column="33" filename="$USER_HOME$/projects/io3d/io3d/datareaderqt.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/io3d/io3d/datareaderqt.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsb2FkZmlsZWRpclw+</text>
+        <text>make</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmRhdGFwID0gcmVhZGVyLkdldDNERGF0YShzZWxmLmRhdGFwYXRoLCBkYXRhcGx1c19mb3JtYXQ9VHJ1ZSkK</text>
+        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoCiAgICAgICAgJy1sZCcsICctLWxvYWQtZGF0YS1kaXInLAogICAgICAgIGRlZmF1bHQ9IiIsCiAgICAgICAgIyByZXF1aXJlZD1UcnVlLAogICAgICAgIGhlbHA9J2luaXQgZGlyIGZvciBkaXIgZGlhbG9nJwogICAgKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1342,16 +1342,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsb2FkZmlsZWRpclw+</last-search>
+      <last-search>make</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsb2FkZmlsZWRpclw+</last-pattern>
+      <last-pattern>make</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0cnlcPg==</entry>
-        <entry>Porta</entry>
         <entry encoding="base64">XDxidG5TYXZlUG9ydGFsVmVpblRyZWVcPg==</entry>
         <entry>hook</entry>
         <entry encoding="base64">XDxidG5FZGl0U2xhYlw+</entry>
@@ -1370,6 +1368,8 @@
         <entry encoding="base64">XDxkYXRhcmVhZGVyXD4=</entry>
         <entry encoding="base64">XDxsb2FkRGF0YURpckRpYWxvZ1w+</entry>
         <entry encoding="base64">XDxsb2FkZmlsZWRpclw+</entry>
+        <entry>makeShort</entry>
+        <entry>make</entry>
       </history-search>
       <history-cmd>
         <entry>292</entry>
