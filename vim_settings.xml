@@ -494,7 +494,7 @@
         <mark key="^" line="2" column="42" />
         <mark key="." line="2" column="42" />
       </file>
-      <file name="$USER_HOME$/projects/io3d/io3d/datareaderqt.py" timestamp="1475670668321">
+      <file name="$USER_HOME$/projects/io3d/io3d/datareaderqt.py" timestamp="1475672688267">
         <mark key="a" line="139" column="30" />
         <mark key="'" line="0" column="0" />
         <mark key="i" line="50" column="20" />
@@ -621,6 +621,12 @@
         <mark key="]" line="20" column="12" />
         <mark key="^" line="20" column="12" />
         <mark key="." line="20" column="12" />
+      </file>
+      <file name="$USER_HOME$/projects/io3d/README.md" timestamp="1475672923535">
+        <mark key="[" line="46" column="31" />
+        <mark key="]" line="46" column="34" />
+        <mark key="^" line="46" column="34" />
+        <mark key="." line="46" column="34" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/histology_analyser.py" timestamp="1444738796915">
         <mark key="[" line="621" column="17" />
@@ -1106,8 +1112,10 @@
         <mark key="." line="195" column="23" />
         <mark key="^" line="195" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1475668909937">
+      <file name="/Dummy.txt" timestamp="1475672998061">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="9" />
       </file>
       <file name="$USER_HOME$/projects/io3d/io3d/misc.py" timestamp="1453295785375">
         <mark key="'" line="19" column="27" />
@@ -1296,10 +1304,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>refractored to pep8</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>refractored to pep8</text>
       </register>
       <register name="/" type="4">
         <text>make</text>
