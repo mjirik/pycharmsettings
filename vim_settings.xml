@@ -1106,12 +1106,12 @@
         <mark key="." line="3" column="21" />
         <mark key="^" line="3" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/events2calendar/mail2calendar.py" timestamp="1475744371761">
-        <mark key="'" line="200" column="23" />
-        <mark key="[" line="218" column="39" />
-        <mark key="]" line="218" column="44" />
-        <mark key="^" line="218" column="44" />
-        <mark key="." line="218" column="44" />
+      <file name="$USER_HOME$/projects/events2calendar/mail2calendar.py" timestamp="1475745398644">
+        <mark key="'" line="404" column="19" />
+        <mark key="[" line="135" column="71" />
+        <mark key="]" line="135" column="68" />
+        <mark key="^" line="135" column="68" />
+        <mark key="." line="135" column="68" />
       </file>
       <file name="/Dummy.txt" timestamp="1475676333080">
         <mark key="[" line="0" column="0" />
@@ -1202,9 +1202,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="44" filename="$USER_HOME$/projects/sftpsync-py/tests/sftpsync_test.py" />
-      <jump line="1191" column="8" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
-      <jump line="23" column="0" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="126" column="40" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="127" column="51" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="1497" column="8" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
@@ -1302,28 +1299,31 @@
       <jump line="163" column="12" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
       <jump line="223" column="8" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
       <jump line="200" column="23" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
+      <jump line="215" column="35" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
+      <jump line="350" column="25" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
+      <jump line="404" column="19" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>event</text>
+        <text>status</text>
       </register>
       <register name="-" type="4">
-        <text>event</text>
+        <text>status</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtc2dpXD4=</text>
+        <text encoding="base64">XDxzdW1tYXJ5cHJlZml4XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWV0YV9ldmVudFsnbXNnJ10gPSBtc2dfZXZlbnQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWV0YV9ldmVudFsnc3RhdHVzJ10gPSBtc2dfc3RhdHVzCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtc2dfZXZlbnQgPSAnQ3JlYXRlZCAod2l0aCBjb2xsaXNpb24pOiAnICsgc3RhcnQgKyAnICcgKyBuZXdfZXZlbnRbJ3N1bW1hcnknXSArICdcbkNvbGxpc2lvbjogJyArIGNvbGxpc2lvbl9ldmVudF9zdW1tYXJ5ICsgJ1xuXG4nCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtc2cK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtc2dfZXZlbnQgPSAnQ3JlYXRlZCAod2l0aCBjb2xsaXNpb24pOiAnICsgc3RhcnQgKyAnICcgKyBuZXdfZXZlbnRbJ3N1bW1hcnknXSArICdcbkNvbGxpc2lvbjogJyArIGNvbGxpc2lvbl9ldmVudF9zdW1tYXJ5ICsgJ1xuXG4nCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -1332,34 +1332,33 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbXNnX2V2ZW50Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbXNnX2V2ZW50Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIGxvYWQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIGxvYWQKCiAgICAgICAgYm9keUxheW91dC5hZGRXaWRnZXQoc2VsZi5yZWFkX3dpZGdldCkKCg==</text>
+        <text encoding="base64">ICAgICAgICAjIGxvYWQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtc2dpXD4=</last-search>
+      <last-search encoding="base64">XDxzdW1tYXJ5cHJlZml4XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtc2dpXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxzdW1tYXJ5cHJlZml4XD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsb2FkRGF0YURpclw+</entry>
         <entry>Export</entry>
         <entry encoding="base64">XDxpbmZvQm9keVw+</entry>
         <entry encoding="base64">XDxjaGFuZ2VXaWRnZXRcPg==</entry>
@@ -1379,6 +1378,7 @@
         <entry encoding="base64">XDxhZGRfZXZlbnRzXD4=</entry>
         <entry encoding="base64">XDxjaGVja19kdXBsaWNpdHlcPg==</entry>
         <entry encoding="base64">XDxtc2dpXD4=</entry>
+        <entry encoding="base64">XDxzdW1tYXJ5cHJlZml4XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>292</entry>
