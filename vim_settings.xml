@@ -1106,12 +1106,12 @@
         <mark key="." line="3" column="21" />
         <mark key="^" line="3" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/events2calendar/mail2calendar.py" timestamp="1475745398644">
-        <mark key="'" line="404" column="19" />
-        <mark key="[" line="135" column="71" />
-        <mark key="]" line="135" column="68" />
-        <mark key="^" line="135" column="68" />
-        <mark key="." line="135" column="68" />
+      <file name="$USER_HOME$/projects/events2calendar/mail2calendar.py" timestamp="1475746861495">
+        <mark key="'" line="212" column="36" />
+        <mark key="[" line="150" column="66" />
+        <mark key="]" line="153" column="68" />
+        <mark key="." line="153" column="68" />
+        <mark key="^" line="153" column="68" />
       </file>
       <file name="/Dummy.txt" timestamp="1475676333080">
         <mark key="[" line="0" column="0" />
@@ -1202,12 +1202,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="126" column="40" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
-      <jump line="127" column="51" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
-      <jump line="1497" column="8" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
-      <jump line="218" column="40" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
-      <jump line="590" column="8" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
-      <jump line="107" column="46" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="374" column="46" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="615" column="13" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="671" column="13" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
@@ -1302,65 +1296,69 @@
       <jump line="215" column="35" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
       <jump line="350" column="25" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
       <jump line="404" column="19" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
+      <jump line="208" column="16" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
+      <jump line="269" column="12" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
+      <jump line="360" column="4" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
+      <jump line="302" column="47" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
+      <jump line="444" column="28" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
+      <jump line="211" column="36" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>status</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxmLmV2ZW50c1tzZWxmLmV2ZW50X2ldWydpbnB1dCB0ZXh0J10gKyAnXG4nCg==</text>
       </register>
       <register name="-" type="4">
-        <text>status</text>
+        <text>msg_collision</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzdW1tYXJ5cHJlZml4XD4=</text>
+        <text encoding="base64">XDxuZXdcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWV0YV9ldmVudFsnc3RhdHVzJ10gPSBtc2dfc3RhdHVzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxmLmV2ZW50c1tzZWxmLmV2ZW50X2ldWydtc2dfY29sbGlzaW9uJ10gKyAnXG4nCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtc2cK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxmLmV2ZW50c1tzZWxmLmV2ZW50X2ldWydpbnB1dCB0ZXh0J10gKyAnXG4nCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtc2dfZXZlbnQgPSAnQ3JlYXRlZCAod2l0aCBjb2xsaXNpb24pOiAnICsgc3RhcnQgKyAnICcgKyBuZXdfZXZlbnRbJ3N1bW1hcnknXSArICdcbkNvbGxpc2lvbjogJyArIGNvbGxpc2lvbl9ldmVudF9zdW1tYXJ5ICsgJ1xuXG4nCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLmV2ZW50X2kgPT0gMDoKICAgICAgICAgICAgc2VsZi5fX3VwZGF0ZV9ldmVudHMoKQogICAgICAgIGlmIGxlbihzZWxmLmV2ZW50cykgPiAwOgogICAgICAgICAgICBlMmMgPSBFdmVudHMyQ2FsZW5kYXIoKQogICAgICAgICAgICBtc2cgPSBlMmMuYWRkX2V2ZW50cyhzZWxmLmV2ZW50cywgZHJ5cnVuPVRydWUsIGNhbGVuZGFySWQ9c2VsZi5jYWxlbmRhcklkKQogICAgICAgICAgICBzZWxmLnRleHRvdXRwdXQuc2V0VGV4dCgKICAgICAgICAgICAgICAgIHN0cigKICAgICAgICAgICAgICAgICAgICBzZWxmLmV2ZW50c1tzZWxmLmV2ZW50X2ldWydzdGF0dXMnXSArICdcblxuJyArCiAgICAgICAgICAgICAgICAgICAgc2VsZi5ldmVudHNbc2VsZi5ldmVudF9pXVsnbXNnJ10gKyAnXG4nICsKICAgICAgICAgICAgICAgICAgICBzZWxmLmV2ZW50c1tzZWxmLmV2ZW50X2ldWydtc2dfY29sbGlzaW9uJ10gKyAnXG4nCiAgICAgICAgICAgICAgICApLmRlY29kZSgndXRmLTgnKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0ZXh0ID0gc2VsZi5sZS50b1BsYWluVGV4dCgpLnRvVXRmOCgpCiAgICAgICAgdGV4dCA9IHN0cih0ZXh0KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBldmVudHMgPSBwYXJzZV90ZXh0KHRleHQpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAK</text>
+        <text encoding="base64">ICAgICAgICB0ZXh0ID0gc2VsZi5sZS50b1BsYWluVGV4dCgpLnRvVXRmOCgpCiAgICAgICAgdGV4dCA9IHN0cih0ZXh0KQogICAgICAgIGV2ZW50cyA9IHBhcnNlX3RleHQodGV4dCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbXNnX2V2ZW50Cg==</text>
+        <text encoding="base64">ICAgICAgICB0ZXh0ID0gc2VsZi5sZS50b1BsYWluVGV4dCgpLnRvVXRmOCgpCiAgICAgICAgdGV4dCA9IHN0cih0ZXh0KQogICAgICAgIHNlbGYuZXZlbnRzID0gcGFyc2VfdGV4dCh0ZXh0KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtc2cK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIGxvYWQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtc2dfZXZlbnQgPSAnQ3JlYXRlZCAod2l0aCBjb2xsaXNpb24pOiAnICsgc3RhcnQgKyAnICcgKyBuZXdfZXZlbnRbJ3N1bW1hcnknXSArICdcbkNvbGxpc2lvbjogJyArIGNvbGxpc2lvbl9ldmVudF9zdW1tYXJ5ICsgJ1xuXG4nCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzdW1tYXJ5cHJlZml4XD4=</last-search>
+      <last-search encoding="base64">XDxuZXdcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzdW1tYXJ5cHJlZml4XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxuZXdcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Export</entry>
-        <entry encoding="base64">XDxpbmZvQm9keVw+</entry>
         <entry encoding="base64">XDxjaGFuZ2VXaWRnZXRcPg==</entry>
         <entry>Load</entry>
         <entry encoding="base64">XDxzbGFiQm9keVw+</entry>
@@ -1373,12 +1371,14 @@
         <entry>LoadData</entry>
         <entry encoding="base64">XDxFdmVudHMyQ2FsZW5kYXJcPg==</entry>
         <entry encoding="base64">XDxidXR0b25DaGVja1w+</entry>
-        <entry encoding="base64">XDxwYXJzZV9saW5lXD4=</entry>
         <entry encoding="base64">XDxwYXJzZV90ZXh0XD4=</entry>
         <entry encoding="base64">XDxhZGRfZXZlbnRzXD4=</entry>
         <entry encoding="base64">XDxjaGVja19kdXBsaWNpdHlcPg==</entry>
         <entry encoding="base64">XDxtc2dpXD4=</entry>
         <entry encoding="base64">XDxzdW1tYXJ5cHJlZml4XD4=</entry>
+        <entry>parse</entry>
+        <entry encoding="base64">XDxwYXJzZV9saW5lXD4=</entry>
+        <entry encoding="base64">XDxuZXdcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>292</entry>
