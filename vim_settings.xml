@@ -548,13 +548,13 @@
         <mark key="." line="160" column="32" />
         <mark key="^" line="160" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/imtools/imtools/sample_data.py" timestamp="1475837424507">
-        <mark key="a" line="152" column="12" />
-        <mark key="'" line="131" column="34" />
-        <mark key="[" line="87" column="76" />
-        <mark key="]" line="87" column="110" />
-        <mark key="." line="87" column="110" />
-        <mark key="^" line="87" column="110" />
+      <file name="$USER_HOME$/projects/imtools/imtools/sample_data.py" timestamp="1475837710699">
+        <mark key="a" line="158" column="12" />
+        <mark key="'" line="127" column="31" />
+        <mark key="[" line="127" column="32" />
+        <mark key="]" line="128" column="11" />
+        <mark key="." line="128" column="11" />
+        <mark key="^" line="128" column="11" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/dictEditQt.py" timestamp="1474535836274">
         <mark key="[" line="92" column="0" />
@@ -580,7 +580,7 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1475760174100">
+      <file name="/Dummy.txt" timestamp="1475837442735">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="9" />
@@ -1208,7 +1208,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="108" column="13" filename="$USER_HOME$/projects/io3d/io3d/datareaderqt.py" />
       <jump line="119" column="30" filename="$USER_HOME$/projects/io3d/io3d/datareaderqt.py" />
       <jump line="596" column="0" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="522" column="8" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
@@ -1308,6 +1307,7 @@
       <jump line="6" column="10" filename="$USER_HOME$/projects/imtools/imtools/sample_data.py" />
       <jump line="113" column="28" filename="$USER_HOME$/projects/imtools/imtools/sample_data.py" />
       <jump line="123" column="34" filename="$USER_HOME$/projects/imtools/imtools/sample_data.py" />
+      <jump line="127" column="31" filename="$USER_HOME$/projects/imtools/imtools/sample_data.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1317,7 +1317,7 @@
         <text>]</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjaGVja3N1bVw+</text>
+        <text>w</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICJleHBfc21hbGwiOiBbImh0dHA6Ly8xNDcuMjI4LjI0MC42MS9xdWVldGVjaC9zYW1wbGUtZGF0YS9leHBfc21hbGwuemlwIl0sCg==</text>
@@ -1357,15 +1357,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjaGVja3N1bVw+</last-search>
+      <last-search>w</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjaGVja3N1bVw+</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern>w</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzbGFiQm9keVw+</entry>
         <entry>New load</entry>
         <entry>bodyLa</entry>
         <entry encoding="base64">XDxyZWFkX3dpZGdldFw+</entry>
@@ -1385,6 +1384,7 @@
         <entry encoding="base64">XDxhZGRfZXZlbnRzXD4=</entry>
         <entry encoding="base64">XDxfX3VwZGF0ZV9ldmVudHNcPg==</entry>
         <entry encoding="base64">XDxjaGVja3N1bVw+</entry>
+        <entry>w</entry>
       </history-search>
       <history-cmd>
         <entry>292</entry>
