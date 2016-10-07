@@ -238,10 +238,6 @@
         <mark key="." line="41" column="21" />
         <mark key="^" line="41" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/skelet3d/tests/skelet3d_test.py" timestamp="1470570207283">
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="65" column="39" />
-      </file>
       <file name="$USER_HOME$/projects/psongbook/sobo/doc2txt.py" timestamp="1463473984670">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="37" column="0" />
@@ -519,10 +515,6 @@
         <mark key="^" line="28" column="21" />
         <mark key="." line="28" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/tests/liver_segmentation_test.py" timestamp="1470605771826">
-        <mark key="[" line="125" column="0" />
-        <mark key="]" line="125" column="52" />
-      </file>
       <file name="$USER_HOME$/projects/psongbook/setup.py" timestamp="1463464617794">
         <mark key="[" line="46" column="14" />
         <mark key="]" line="46" column="35" />
@@ -647,11 +639,13 @@
         <mark key="^" line="45" column="10" />
         <mark key="." line="45" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/io3d/tests/datawriter_test.py" timestamp="1443767919770">
-        <mark key="[" line="88" column="49" />
-        <mark key="]" line="88" column="52" />
-        <mark key="^" line="88" column="52" />
-        <mark key="." line="88" column="52" />
+      <file name="$USER_HOME$/projects/io3d/tests/datawriter_test.py" timestamp="1475839671992">
+        <mark key="a" line="179" column="36" />
+        <mark key="'" line="212" column="20" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="35" column="88" />
+        <mark key="." line="35" column="70" />
+        <mark key="^" line="35" column="70" />
       </file>
       <file name="$USER_HOME$/projects/quanta/README.md" timestamp="1452510025795">
         <mark key="[" line="58" column="50" />
@@ -730,12 +724,12 @@
         <mark key="^" line="138" column="47" />
         <mark key="." line="138" column="47" />
       </file>
-      <file name="$USER_HOME$/projects/io3d/tests/dcmreaddata_test.py" timestamp="1446816832515">
+      <file name="$USER_HOME$/projects/io3d/tests/dcmreaddata_test.py" timestamp="1475839682795">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="327" column="86" />
-        <mark key="]" line="327" column="85" />
-        <mark key="^" line="327" column="85" />
-        <mark key="." line="327" column="85" />
+        <mark key="[" line="30" column="28" />
+        <mark key="]" line="31" column="3" />
+        <mark key="^" line="31" column="3" />
+        <mark key="." line="31" column="3" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/delwriter.py" timestamp="1448829479942">
         <mark key="[" line="10" column="20" />
@@ -1208,12 +1202,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="119" column="30" filename="$USER_HOME$/projects/io3d/io3d/datareaderqt.py" />
-      <jump line="596" column="0" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
-      <jump line="522" column="8" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
-      <jump line="652" column="31" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
-      <jump line="732" column="31" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
-      <jump line="88" column="39" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="333" column="13" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="30" column="13" filename="$USER_HOME$/projects/io3d/io3d/datareaderqt.py" />
       <jump line="120" column="27" filename="$USER_HOME$/projects/io3d/io3d/datareaderqt.py" />
@@ -1308,65 +1296,69 @@
       <jump line="113" column="28" filename="$USER_HOME$/projects/imtools/imtools/sample_data.py" />
       <jump line="123" column="34" filename="$USER_HOME$/projects/imtools/imtools/sample_data.py" />
       <jump line="127" column="31" filename="$USER_HOME$/projects/imtools/imtools/sample_data.py" />
+      <jump line="50" column="4" filename="$USER_HOME$/projects/io3d/tests/datawriter_test.py" />
+      <jump line="28" column="0" filename="$USER_HOME$/projects/io3d/tests/datawriter_test.py" />
+      <jump line="35" column="57" filename="$USER_HOME$/projects/io3d/tests/datawriter_test.py" />
+      <jump line="67" column="20" filename="$USER_HOME$/projects/io3d/tests/datawriter_test.py" />
+      <jump line="179" column="20" filename="$USER_HOME$/projects/io3d/tests/datawriter_test.py" />
+      <jump line="212" column="20" filename="$USER_HOME$/projects/io3d/tests/datawriter_test.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGRlZiBzZXRVcChzZWxmKToKICAgICAgICBpbXBvcnQgaW10b29scwogICAgICAgIGltcG9ydCBpbXRvb2xzLnNhbXBsZV9kYXRhCiAgICAgICAgaW10b29scy5zYW1wbGVfZGF0YS5nZXRfc2FtcGxlX2RhdGEoWyJqYXRyYV81bW0iLCAidm9sdW1ldHJpZSJdLCBTQU1QTEVfREFUQV9ESVIpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>w</text>
+        <text encoding="base64">XDxTQU1QTEVfREFUQV9ESVJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJleHBfc21hbGwiOiBbImh0dHA6Ly8xNDcuMjI4LjI0MC42MS9xdWVldGVjaC9zYW1wbGUtZGF0YS9leHBfc21hbGwuemlwIl0sCg==</text>
+        <text encoding="base64">ICAgIGRlZiBzZXRVcChzZWxmKToKICAgICAgICBpbXBvcnQgaW10b29scwogICAgICAgIGltcG9ydCBpbXRvb2xzLnNhbXBsZV9kYXRhCiAgICAgICAgaW10b29scy5zYW1wbGVfZGF0YS5nZXRfc2FtcGxlX2RhdGEoWyJqYXRyYV81bW0iLCAidm9sdW1ldHJpZSJdLCBTQU1QTEVfREFUQV9ESVIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBuZW7DrSBzdGHEjcOtIGplCg==</text>
+        <text encoding="base64">aW1wb3J0IG9zLnBhdGgK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50IGxvZ2dlci5sZXZlbAo=</text>
+        <text encoding="base64">aW1wb3J0IG9zLnBhdGggYXMgb3AK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oIi4uZG93bmxvYWRpbmcuLiIpCg==</text>
+        <text encoding="base64">aW1wb3J0IG9zLnBhdGggYXMgb3AK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oImRvd25sb2FkaW5nIGRhdGFzZXQgJyIgKyBsYWJlbCArICInIikK</text>
+        <text encoding="base64">IyBuZW7DrSBzdGHEjcOtIGplCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oImV4cGVjdGVkIGhhc2g6ICciICsgc3RyKGV4cGVjdGVkX2hhc2gpICsgIiciKQogICAgICAgICAgICBsb2dnZXIuaW5mbygiY29tcHV0ZWQgaGFzaDogJyIgKyBzdHIoY29tcHV0ZWRfaGFzaCkgKyAiJyIpCg==</text>
+        <text encoding="base64">ICAgIHByaW50IGxvZ2dlci5sZXZlbAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oIi4uZG93bmxvYWRpbmcuLiIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgImV4cGVjdGVkIGhhc2ggIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oImRvd25sb2FkaW5nIGRhdGFzZXQgJyIgKyBsYWJlbCArICInIikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgY29tcHV0ZWRfaGFzaCA9PSBleHBlY3RlZF9oYXNoOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oImV4cGVjdGVkIGhhc2g6ICciICsgc3RyKGV4cGVjdGVkX2hhc2gpICsgIiciKQogICAgICAgICAgICBsb2dnZXIuaW5mbygiY29tcHV0ZWQgaGFzaDogJyIgKyBzdHIoY29tcHV0ZWRfaGFzaCkgKyAiJyIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQgZToKICAgICAgICAgICAgY29tcHV0ZWRfaGFzaAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>w</last-search>
+      <last-search encoding="base64">XDxTQU1QTEVfREFUQV9ESVJcPg==</last-search>
       <last-offset />
-      <last-pattern>w</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern encoding="base64">XDxTQU1QTEVfREFUQV9ESVJcPg==</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>New load</entry>
-        <entry>bodyLa</entry>
         <entry encoding="base64">XDxyZWFkX3dpZGdldFw+</entry>
         <entry encoding="base64">XDxteV9mZWVkYmFja19mY25cPg==</entry>
         <entry encoding="base64">XDxhZnRlcl9mdW5jdGlvblw+</entry>
@@ -1385,6 +1377,8 @@
         <entry encoding="base64">XDxfX3VwZGF0ZV9ldmVudHNcPg==</entry>
         <entry encoding="base64">XDxjaGVja3N1bVw+</entry>
         <entry>w</entry>
+        <entry>interactive</entry>
+        <entry encoding="base64">XDxTQU1QTEVfREFUQV9ESVJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>292</entry>
