@@ -548,13 +548,13 @@
         <mark key="." line="160" column="32" />
         <mark key="^" line="160" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/imtools/imtools/sample_data.py" timestamp="1475826023774">
-        <mark key="a" line="120" column="12" />
+      <file name="$USER_HOME$/projects/imtools/imtools/sample_data.py" timestamp="1475828606833">
+        <mark key="a" line="134" column="12" />
         <mark key="'" line="6" column="10" />
-        <mark key="[" line="109" column="37" />
-        <mark key="]" line="109" column="53" />
-        <mark key="." line="109" column="53" />
-        <mark key="^" line="109" column="53" />
+        <mark key="[" line="114" column="46" />
+        <mark key="]" line="115" column="15" />
+        <mark key="." line="115" column="15" />
+        <mark key="^" line="115" column="15" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/dictEditQt.py" timestamp="1474535836274">
         <mark key="[" line="92" column="0" />
@@ -1310,11 +1310,11 @@
       <jump line="6" column="10" filename="$USER_HOME$/projects/imtools/imtools/sample_data.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGhhc2h2YWx1ZXMgPSBbXQo=</text>
+      <register name="&quot;" type="4">
+        <text>data_urls[label]</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text>data_urls[label]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfX3VwZGF0ZV9ldmVudHNcPg==</text>
