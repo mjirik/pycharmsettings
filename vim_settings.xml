@@ -548,13 +548,13 @@
         <mark key="." line="160" column="32" />
         <mark key="^" line="160" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/imtools/imtools/sample_data.py" timestamp="1475828606833">
-        <mark key="a" line="134" column="12" />
-        <mark key="'" line="6" column="10" />
-        <mark key="[" line="114" column="46" />
-        <mark key="]" line="115" column="15" />
-        <mark key="." line="115" column="15" />
-        <mark key="^" line="115" column="15" />
+      <file name="$USER_HOME$/projects/imtools/imtools/sample_data.py" timestamp="1475830635727">
+        <mark key="a" line="142" column="12" />
+        <mark key="'" line="123" column="34" />
+        <mark key="[" line="123" column="27" />
+        <mark key="]" line="123" column="34" />
+        <mark key="." line="123" column="34" />
+        <mark key="^" line="123" column="34" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/dictEditQt.py" timestamp="1474535836274">
         <mark key="[" line="92" column="0" />
@@ -1208,8 +1208,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="130" column="8" filename="$USER_HOME$/projects/io3d/io3d/datareaderqt.py" />
-      <jump line="33" column="0" filename="$USER_HOME$/projects/io3d/io3d/datareaderqt.py" />
       <jump line="108" column="13" filename="$USER_HOME$/projects/io3d/io3d/datareaderqt.py" />
       <jump line="119" column="30" filename="$USER_HOME$/projects/io3d/io3d/datareaderqt.py" />
       <jump line="596" column="0" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
@@ -1308,64 +1306,65 @@
       <jump line="0" column="13" filename="/Python Console" />
       <jump line="110" column="12" filename="$USER_HOME$/projects/imtools/imtools/sample_data.py" />
       <jump line="6" column="10" filename="$USER_HOME$/projects/imtools/imtools/sample_data.py" />
+      <jump line="113" column="28" filename="$USER_HOME$/projects/imtools/imtools/sample_data.py" />
+      <jump line="123" column="34" filename="$USER_HOME$/projects/imtools/imtools/sample_data.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>data_urls[label]</text>
+        <text>downloading</text>
       </register>
       <register name="-" type="4">
-        <text>data_urls[label]</text>
+        <text>downloading</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfX3VwZGF0ZV9ldmVudHNcPg==</text>
+        <text encoding="base64">XDxjaGVja3N1bVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgaHRtbF90ZXh0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oIi4uZG93bmxvYWRpbmcuLiIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGhhc2h2YWx1ZXMgPSBbXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oIi4uZG93bmxvYWRpbmcuLiIpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBzZWxmLnRleHRvdXRwdXQuc2V0SHQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oImRvd25sb2FkaW5nIGRhdGFzZXQgJyIgKyBsYWJlbCArICInIikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oImV4cGVjdGVkIGhhc2g6ICciICsgc3RyKGV4cGVjdGVkX2hhc2gpICsgIiciKQogICAgICAgICAgICBsb2dnZXIuaW5mbygiY29tcHV0ZWQgaGFzaDogJyIgKyBzdHIoY29tcHV0ZWRfaGFzaCkgKyAiJyIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgImV4cGVjdGVkIGhhc2ggIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmLmV2ZW50X2kgPT0gMDoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgY29tcHV0ZWRfaGFzaCA9PSBleHBlY3RlZF9oYXNoOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmJ0biA9IFF0R3VpLlFQdXNoQnV0dG9uKCc8Jywgc2VsZikKICAgICAgICBzZWxmLmJ0bi5tb3ZlKDMwMCwgQlVUVE9OX1kgKyAzMCkKICAgICAgICBzZWxmLmJ0bi5jbGlja2VkLmNvbm5lY3Qoc2VsZi5idXR0b25QcmV2KQo=</text>
+        <text encoding="base64">ICAgICAgICBleGNlcHQgZToKICAgICAgICAgICAgY29tcHV0ZWRfaGFzaAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9fc2hvd19ldmVudF9pKCkK</text>
+        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9fc2hvd19ldmVudF9pKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29tcHV0ZWRfaGFzaCA9IGNoZWNrc3VtKG9zLnBhdGguam9pbihkZXN0aW5hdGlvbl9kaXIsIGhhc2hfcGF0aCkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfX3VwZGF0ZV9ldmVudHNcPg==</last-search>
+      <last-search encoding="base64">XDxjaGVja3N1bVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfX3VwZGF0ZV9ldmVudHNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxjaGVja3N1bVw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Load</entry>
         <entry encoding="base64">XDxzbGFiQm9keVw+</entry>
         <entry>New load</entry>
         <entry>bodyLa</entry>
@@ -1385,6 +1384,7 @@
         <entry encoding="base64">XDxuZXdcPg==</entry>
         <entry encoding="base64">XDxhZGRfZXZlbnRzXD4=</entry>
         <entry encoding="base64">XDxfX3VwZGF0ZV9ldmVudHNcPg==</entry>
+        <entry encoding="base64">XDxjaGVja3N1bVw+</entry>
       </history-search>
       <history-cmd>
         <entry>292</entry>
