@@ -455,11 +455,11 @@
         <mark key="^" line="85" column="48" />
         <mark key="." line="85" column="48" />
       </file>
-      <file name="$USER_HOME$/projects/io3d/requirements_conda.txt" timestamp="1454931843378">
-        <mark key="[" line="2" column="4" />
-        <mark key="]" line="3" column="8" />
+      <file name="$USER_HOME$/projects/io3d/requirements_conda.txt" timestamp="1475923901819">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
         <mark key="^" line="3" column="8" />
-        <mark key="." line="3" column="8" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/projects/psongbook/sobo/__main__.py" timestamp="1463474715402">
         <mark key="[" line="78" column="8" />
@@ -578,9 +578,6 @@
         <mark key="]" line="0" column="40" />
         <mark key="^" line="0" column="40" />
         <mark key="." line="0" column="40" />
-      </file>
-      <file name="$USER_HOME$/miniconda/lib/python2.7/site-packages/pysegbase-1.2.9-py2.7.egg!/pysegbase/seed_editor_qt.py" timestamp="1472546772675">
-        <mark key="'" line="1550" column="4" />
       </file>
       <file name="$USER_HOME$/projects/sobo/sobo/inout.py" timestamp="1468361003230">
         <mark key="[" line="16" column="12" />
@@ -858,11 +855,11 @@
         <mark key="." line="3" column="1" />
         <mark key="^" line="3" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/meta.yaml" timestamp="1475922209290">
-        <mark key="[" line="69" column="20" />
-        <mark key="]" line="69" column="21" />
-        <mark key="." line="69" column="21" />
-        <mark key="^" line="70" column="40" />
+      <file name="$USER_HOME$/projects/lisa/meta.yaml" timestamp="1475923804274">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="70" column="40" />
+        <mark key="." line="69" column="47" />
+        <mark key="^" line="69" column="47" />
       </file>
       <file name="$USER_HOME$/projects/io3d/io3d/idxformat.py" timestamp="1447143786214">
         <mark key="'" line="29" column="47" />
@@ -1117,7 +1114,7 @@
         <mark key="." line="177" column="77" />
         <mark key="^" line="177" column="77" />
       </file>
-      <file name="/Dummy.txt" timestamp="1475918464077">
+      <file name="/Dummy.txt" timestamp="1475924030114">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="9" />
@@ -1309,16 +1306,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTQU1QTEVfREFUQV9ESVJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgU2ltcGxlSVRLIGFzIHNpdGsKICAgICAgICBtdGQ9bWV0YWRhdGEKICAgICAgICBkaW0gPSBzaXRrLkdldEltYWdlRnJvbUFycmF5KGRhdGEzZCkKICAgICAgICB2c3ogPSBtdGRbJ3ZveGVsc2l6ZV9tbSddCiAgICAgICAgZGltLlNldFNwYWNpbmcoW3ZzelsxXSwgdnN6WzJdLCB2c3pbMF1dKQogICAgICAgIHNpdGsuV3JpdGVJbWFnZShkaW0sIHBhdGgpCg==</text>
+        <text encoding="base64">ICAgIC0gc2ltcGxlaXRrPTAuOS4qICMgcHJvYmxlbSB3aXRoIGRpY29tIHdyaXRlCiAgICAtIGxpYnBuZz0xLjUuMTMgIyBrdnVsaSBzaW1wbGVpayAwLjkuCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBtdGQ9bWV0YWRhdGEK</text>
