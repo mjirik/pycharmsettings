@@ -174,12 +174,12 @@
         <mark key="." line="122" column="26" />
         <mark key="^" line="122" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/skelet3d/tests/tube_tree_test.py" timestamp="1476135225158">
-        <mark key="'" line="51" column="0" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="1" />
-        <mark key="^" line="18" column="1" />
-        <mark key="." line="18" column="1" />
+      <file name="$USER_HOME$/projects/skelet3d/tests/tube_tree_test.py" timestamp="1476136316115">
+        <mark key="'" line="49" column="0" />
+        <mark key="[" line="87" column="10" />
+        <mark key="]" line="87" column="7" />
+        <mark key="." line="87" column="7" />
+        <mark key="^" line="87" column="7" />
       </file>
       <file name="$USER_HOME$/projects/lisa/mysetup.py" timestamp="1464961249453">
         <mark key="'" line="238" column="56" />
@@ -380,11 +380,11 @@
         <mark key="^" line="2" column="11" />
         <mark key="." line="2" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/skelet3d/skelet3d/__init__.py" timestamp="1476135126175">
-        <mark key="[" line="0" column="49" />
-        <mark key="]" line="0" column="49" />
-        <mark key="^" line="4" column="0" />
-        <mark key="." line="0" column="49" />
+      <file name="$USER_HOME$/projects/skelet3d/skelet3d/__init__.py" timestamp="1476135814070">
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="0" column="23" />
+        <mark key="^" line="0" column="23" />
+        <mark key="." line="0" column="23" />
       </file>
       <file name="$USER_HOME$/projects/imtools/README.md" timestamp="1453334168334">
         <mark key="[" line="1" column="160" />
@@ -1354,11 +1354,11 @@
       <jump line="314" column="0" filename="$USER_HOME$/projects/skelet3d/skelet3d/tree.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">bG9nZ2VyLmRlCg==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>skelet3d</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbzNkXD4=</text>
@@ -1366,35 +1366,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGFwdC1jYWNoZSBwb2xpY3kgb3BlbnNzbAo=</text>
       </register>
-      <register name="1" type="4">
-        <text>.</text>
+      <register name="1" type="2">
+        <text encoding="base64">bG9nZ2VyLmRlCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">dHJlZSA=</text>
+        <text>skelet3d</text>
       </register>
       <register name="3" type="4">
-        <text>tree</text>
-      </register>
-      <register name="4" type="4">
-        <text>y</text>
-      </register>
-      <register name="5" type="4">
-        <text>p</text>
-      </register>
-      <register name="6" type="4">
         <text>.</text>
       </register>
+      <register name="4" type="4">
+        <text encoding="base64">dHJlZSA=</text>
+      </register>
+      <register name="5" type="4">
+        <text>tree</text>
+      </register>
+      <register name="6" type="4">
+        <text>y</text>
+      </register>
       <register name="7" type="4">
+        <text>p</text>
+      </register>
+      <register name="8" type="4">
+        <text>.</text>
+      </register>
+      <register name="9" type="4">
         <text>Constructor</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
