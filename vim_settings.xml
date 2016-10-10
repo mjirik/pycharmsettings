@@ -723,12 +723,12 @@
         <mark key="^" line="25" column="42" />
         <mark key="." line="25" column="42" />
       </file>
-      <file name="$USER_HOME$/projects/skelet3d/tests/tube_tree_test.py" timestamp="1465569897925">
+      <file name="$USER_HOME$/projects/skelet3d/tests/tube_tree_test.py" timestamp="1476108976200">
         <mark key="'" line="51" column="0" />
-        <mark key="[" line="30" column="28" />
-        <mark key="]" line="30" column="35" />
-        <mark key="^" line="30" column="35" />
-        <mark key="." line="30" column="35" />
+        <mark key="[" line="77" column="47" />
+        <mark key="]" line="77" column="65" />
+        <mark key="^" line="77" column="65" />
+        <mark key="." line="77" column="65" />
       </file>
       <file name="$USER_HOME$/projects/sed3/tests/sed_qt_test.py" timestamp="1454931451217">
         <mark key="[" line="14" column="80" />
@@ -1043,8 +1043,8 @@
         <mark key="'" line="129" column="31" />
         <mark key="[" line="89" column="14" />
         <mark key="]" line="89" column="89" />
-        <mark key="^" line="89" column="89" />
         <mark key="." line="89" column="89" />
+        <mark key="^" line="89" column="89" />
       </file>
       <file name="$USER_HOME$/projects/skelet3d/examples/example02.py" timestamp="1465398838088">
         <mark key="'" line="17" column="9" />
@@ -1306,16 +1306,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>GTLar</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>GTLar</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTQU1QTEVfREFUQV9ESVJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC0gc2ltcGxlaXRrPTAuOS4qICMgcHJvYmxlbSB3aXRoIGRpY29tIHdyaXRlCiAgICAtIGxpYnBuZz0xLjUuMTMgIyBrdnVsaSBzaW1wbGVpayAwLjkuCg==</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X3Zlc3NlbF90cmVlX2xhcihzZWxmKToKICAgICAgICBpbXBvcnQgc2tlbGV0M2QuZ3RfbGFyCiAgICAgICAgdHZnID0gVHJlZUdlbmVyYXRvcihza2VsZXQzZC5ndF9sYXIuR1RMYXIpCiAgICAgICAgeWFtbF9wYXRoID0gb3MucGF0aC5qb2luKHBhdGhfdG9fc2NyaXB0LCAiLi9oaXN0X3N0YXRzX3Rlc3QueWFtbCIpCiAgICAgICAgdHZnLmltcG9ydEZyb21ZYW1sKHlhbWxfcGF0aCkKICAgICAgICB0dmcudm94ZWxzaXplX21tID0gWzEsIDEsIDFdCiAgICAgICAgdHZnLnNoYXBlID0gWzEwMCwgMTAwLCAxMDBdCiAgICAgICAgb3V0cHV0ID0gdHZnLmdlbmVyYXRlVHJlZSgpICMgbm9xYQogICAgICAgIGlmIHNlbGYuaW50ZXJhY3RpdmVUZXN0czoKICAgICAgICAgICAgdHZnLnNob3coKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBtdGQ9bWV0YWRhdGEK</text>
@@ -1382,6 +1382,7 @@
         <entry encoding="base64">XDxTQU1QTEVfREFUQV9ESVJcPg==</entry>
       </history-search>
       <history-cmd>
+        <entry>292</entry>
         <entry>q</entry>
         <entry>114</entry>
         <entry>109</entry>
@@ -1400,7 +1401,6 @@
         <entry>81</entry>
         <entry>e</entry>
         <entry>159</entry>
-        <entry>95</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
