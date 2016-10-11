@@ -181,13 +181,13 @@
         <mark key="." line="122" column="26" />
         <mark key="^" line="122" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/skelet3d/tests/tube_tree_test.py" timestamp="1476165219646">
+      <file name="$USER_HOME$/projects/skelet3d/tests/tube_tree_test.py" timestamp="1476166569223">
         <mark key="a" line="86" column="27" />
         <mark key="'" line="8" column="0" />
-        <mark key="[" line="49" column="18" />
-        <mark key="]" line="50" column="34" />
-        <mark key="." line="50" column="34" />
-        <mark key="^" line="50" column="34" />
+        <mark key="[" line="124" column="21" />
+        <mark key="]" line="124" column="30" />
+        <mark key="." line="124" column="30" />
+        <mark key="^" line="124" column="30" />
       </file>
       <file name="$USER_HOME$/projects/lisa/mysetup.py" timestamp="1464961249453">
         <mark key="'" line="238" column="56" />
@@ -806,9 +806,6 @@
         <mark key="." line="173" column="9" />
         <mark key="^" line="173" column="9" />
       </file>
-      <file name="/Python Console" timestamp="1476109311691">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/skelet3d/bld.bat" timestamp="1446806979486">
         <mark key="[" line="55" column="0" />
         <mark key="]" line="64" column="22" />
@@ -1394,47 +1391,47 @@
       <jump line="18" column="0" filename="$USER_HOME$/projects/skelet3d/skelet3d/tree.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>c</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJub2RlQV9aWVhfbW0iOiBucC5yYW5kb20ucmFuZG9tKCkgKiAxMDAsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text>vessel_tree_vtk</text>
       </register>
       <register name="/" type="4">
         <text>finish</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHZnLnNob3coKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJub2RlQV9aWVhfbW0iOiBucC5yYW5kb20ucmFuZG9tKCkgKiAxMDAsCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>c</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJub2RlQV9aWVhfbW0iOiBucC5yYW5kb20ucmFuZG9tKCkgKiAxMDAsCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>-</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICAgIm5vZGVBX1pZWF9tbSI6IG5wLnJhbmRvbS5yYW5kb20oKSAqIDEwMCwKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+        <text>vessel_tree_vtk</text>
       </register>
       <register name="4" type="4">
+        <text>c</text>
+      </register>
+      <register name="5" type="4">
+        <text>-</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="7" type="4">
         <text encoding="base64">bWppcmlrIA==</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Y2xhc3MgVHJlZUdlbmVyYXRvcihUcmVlQ29uc3RydWN0b3IpOgogICAgcGFzcwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKCJubyBmaW5pc2ggZnVuY3Rpb24iKQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtdGQ9bWV0YWRhdGEK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2c3ogPSBtdGRbJ3ZveGVsc2l6ZV9tbSddCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBHRENNSW1hZ2VJTygweDJjZWRkZDApOiBESUNPTSBkb2VzIG5vdCBzdXBwb3J0IHRoaXMgY29tcG9uZW50IHR5cGUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKCJubyBmaW5pc2ggZnVuY3Rpb24iKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
