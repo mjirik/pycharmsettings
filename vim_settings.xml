@@ -406,13 +406,13 @@
         <mark key="." line="29" column="25" />
         <mark key="^" line="29" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/skelet3d/tests/tube_tree_test.py" timestamp="1476348696129">
+      <file name="$USER_HOME$/projects/skelet3d/tests/tube_tree_test.py" timestamp="1476351727963">
         <mark key="a" line="86" column="27" />
         <mark key="'" line="8" column="0" />
-        <mark key="[" line="135" column="0" />
-        <mark key="]" line="135" column="0" />
-        <mark key="." line="135" column="0" />
-        <mark key="^" line="154" column="7" />
+        <mark key="[" line="146" column="24" />
+        <mark key="]" line="146" column="29" />
+        <mark key="." line="146" column="29" />
+        <mark key="^" line="146" column="29" />
       </file>
       <file name="$USER_HOME$/projects/sed3/tests/sed_qt_test.py" timestamp="1454931451217">
         <mark key="[" line="14" column="80" />
@@ -1401,7 +1401,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgaSBpbiByYW5nZShlbGVtZW50X251bWJlcik6CiAgICAgICAgICAgIGVkZ2UgPSB7CiAgICAgICAgIyAgICAgICAgICMibm9kZUFfWllYX21tIjogbnAucmFuZG9tLnJhbmRvbSgzKSAqIDEwMCwKICAgICAgICAgICAgICAgICJub2RlQV9aWVhfbW0iOiBwdHNbaS0xXSwKICAgICAgICAgICAgICAgICJub2RlQl9aWVhfbW0iOiBwdHNbaV0sCiAgICAgICAgIyAgICAgICAgICJub2RlQl9aWVhfbW0iOiBucC5yYW5kb20ucmFuZG9tKDMpICogMTAwLAogICAgICAgICAgICAgICAgInJhZGl1c19tbSI6IDEKICAgICAgICAgICAgfQogICAgICAgICAgICB0cmVlX2RhdGFbaV0gPSBlZGdlCg==</text>
       </register>
       <register name="-" type="4">
         <text>t</text>
@@ -1413,7 +1413,7 @@
         <text encoding="base64">ICAgICAgICB0dmcudm94ZWxzaXplX21tID0gWzEsIDEsIDFdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgaSBpbiByYW5nZShlbGVtZW50X251bWJlcik6CiAgICAgICAgICAgIGVkZ2UgPSB7CiAgICAgICAgIyAgICAgICAgICMibm9kZUFfWllYX21tIjogbnAucmFuZG9tLnJhbmRvbSgzKSAqIDEwMCwKICAgICAgICAgICAgICAgICJub2RlQV9aWVhfbW0iOiBwdHNbaS0xXSwKICAgICAgICAgICAgICAgICJub2RlQl9aWVhfbW0iOiBwdHNbaV0sCiAgICAgICAgIyAgICAgICAgICJub2RlQl9aWVhfbW0iOiBucC5yYW5kb20ucmFuZG9tKDMpICogMTAwLAogICAgICAgICAgICAgICAgInJhZGl1c19tbSI6IDEKICAgICAgICAgICAgfQogICAgICAgICAgICB0cmVlX2RhdGFbaV0gPSBlZGdlCg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -1422,25 +1422,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
-      </register>
-      <register name="5" type="8">
-        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIA==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>scale</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
+      </register>
+      <register name="6" type="8">
+        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIA==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">KiA=</text>
+        <text>scale</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">bGVuZ3RoRXN0aW1hdGlvbiA=</text>
+        <text encoding="base64">KiA=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
