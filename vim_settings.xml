@@ -181,13 +181,13 @@
         <mark key="." line="122" column="26" />
         <mark key="^" line="122" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/skelet3d/tests/tube_tree_test.py" timestamp="1476278348052">
+      <file name="$USER_HOME$/projects/skelet3d/tests/tube_tree_test.py" timestamp="1476343178072">
         <mark key="a" line="86" column="27" />
         <mark key="'" line="8" column="0" />
-        <mark key="[" line="122" column="32" />
-        <mark key="]" line="122" column="32" />
-        <mark key="." line="122" column="32" />
-        <mark key="^" line="118" column="13" />
+        <mark key="[" line="123" column="40" />
+        <mark key="]" line="119" column="53" />
+        <mark key="." line="119" column="53" />
+        <mark key="^" line="119" column="53" />
       </file>
       <file name="$USER_HOME$/projects/lisa/mysetup.py" timestamp="1464961249453">
         <mark key="'" line="238" column="56" />
@@ -812,9 +812,6 @@
         <mark key="." line="173" column="9" />
         <mark key="^" line="173" column="9" />
       </file>
-      <file name="/Python Console" timestamp="1476188585643">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/skelet3d/bld.bat" timestamp="1446806979486">
         <mark key="[" line="55" column="0" />
         <mark key="]" line="64" column="22" />
@@ -1400,47 +1397,47 @@
       <jump line="18" column="0" filename="$USER_HOME$/projects/skelet3d/skelet3d/tree.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>np.random.random(3) * 100</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJub2RlQV9aWVhfbW0iOiBwdHNbaV0sCg==</text>
       </register>
       <register name="-" type="4">
-        <text>np.random.random(3) * 100</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>finish</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJub2RlQV9aWVhfbW0iOiBucC5yYW5kb20ucmFuZG9tKDMpICogMTAwLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJub2RlQV9aWVhfbW0iOiBwdHNbaV0sCg==</text>
       </register>
       <register name="1" type="4">
-        <text>np.random.random(3) * 100</text>
+        <text>0</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+        <text>1</text>
       </register>
       <register name="3" type="4">
-        <text>#</text>
+        <text>np.random.random(3) * 100</text>
       </register>
       <register name="4" type="4">
-        <text>scale</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">KiA=</text>
+        <text>#</text>
       </register>
       <register name="6" type="4">
+        <text>scale</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">KiA=</text>
+      </register>
+      <register name="8" type="4">
         <text encoding="base64">bGVuZ3RoRXN0aW1hdGlvbiA=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0dmcuc2F2ZVRvRmlsZShOb25lKQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJub2RlQV9aWVhfbW0iOiBucC5yYW5kb20ucmFuZG9tKCkgKiAxMDAsCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICAgIm5vZGVBX1pZWF9tbSI6IG5wLnJhbmRvbS5yYW5kb20oKSAqIDEwMCwKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICB0dmcuc2F2ZVRvRmlsZShOb25lKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
