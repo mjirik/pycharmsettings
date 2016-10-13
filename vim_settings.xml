@@ -735,13 +735,13 @@
         <mark key="^" line="2" column="66" />
         <mark key="." line="2" column="66" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1476352886782">
-        <mark key="a" line="393" column="62" />
-        <mark key="'" line="340" column="0" />
-        <mark key="[" line="339" column="49" />
-        <mark key="]" line="339" column="54" />
-        <mark key="." line="339" column="54" />
-        <mark key="^" line="339" column="54" />
+      <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1476353864005">
+        <mark key="a" line="454" column="34" />
+        <mark key="'" line="485" column="19" />
+        <mark key="[" line="373" column="33" />
+        <mark key="]" line="374" column="7" />
+        <mark key="." line="374" column="7" />
+        <mark key="^" line="374" column="7" />
       </file>
       <file name="$USER_HOME$/projects/imtools/imtools/ml/gmmcl.py" timestamp="1448550206184">
         <mark key="[" line="11" column="14" />
@@ -1298,11 +1298,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="158" column="0" filename="$USER_HOME$/projects/io3d/io3d/datareaderqt.py" />
-      <jump line="26" column="7" filename="$USER_HOME$/projects/io3d/io3d/datareaderqt.py" />
-      <jump line="172" column="8" filename="$USER_HOME$/projects/io3d/io3d/datareaderqt.py" />
-      <jump line="142" column="8" filename="$USER_HOME$/projects/io3d/io3d/datareaderqt.py" />
-      <jump line="156" column="0" filename="$USER_HOME$/projects/io3d/io3d/datareaderqt.py" />
       <jump line="24" column="0" filename="$USER_HOME$/projects/io3d/io3d/datareaderqt.py" />
       <jump line="188" column="9" filename="$USER_HOME$/projects/io3d/io3d/datareaderqt.py" />
       <jump line="1" column="0" filename="$USER_HOME$/projects/io3d/io3d/datareaderqt.py" />
@@ -1317,7 +1312,6 @@
       <jump line="382" column="13" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="640" column="8" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="102" column="45" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
-      <jump line="377" column="45" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="617" column="8" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="99" column="17" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="447" column="8" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
@@ -1328,9 +1322,6 @@
       <jump line="423" column="58" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="451" column="17" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="461" column="19" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
-      <jump line="467" column="17" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
-      <jump line="473" column="19" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
-      <jump line="479" column="19" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="392" column="58" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="428" column="58" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="452" column="8" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
@@ -1398,64 +1389,72 @@
       <jump line="84" column="17" filename="$USER_HOME$/projects/skelet3d/skelet3d/tree.py" />
       <jump line="8" column="0" filename="$USER_HOME$/projects/skelet3d/tests/tube_tree_test.py" />
       <jump line="18" column="0" filename="$USER_HOME$/projects/skelet3d/skelet3d/tree.py" />
+      <jump line="375" column="13" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="376" column="15" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="377" column="13" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="378" column="34" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="457" column="19" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="467" column="19" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="473" column="19" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="479" column="19" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="485" column="19" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgaSBpbiByYW5nZShlbGVtZW50X251bWJlcik6CiAgICAgICAgICAgIGVkZ2UgPSB7CiAgICAgICAgIyAgICAgICAgICMibm9kZUFfWllYX21tIjogbnAucmFuZG9tLnJhbmRvbSgzKSAqIDEwMCwKICAgICAgICAgICAgICAgICJub2RlQV9aWVhfbW0iOiBwdHNbaS0xXSwKICAgICAgICAgICAgICAgICJub2RlQl9aWVhfbW0iOiBwdHNbaV0sCiAgICAgICAgIyAgICAgICAgICJub2RlQl9aWVhfbW0iOiBucC5yYW5kb20ucmFuZG9tKDMpICogMTAwLAogICAgICAgICAgICAgICAgInJhZGl1c19tbSI6IDEKICAgICAgICAgICAgfQogICAgICAgICAgICB0cmVlX2RhdGFbaV0gPSBlZGdlCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmJ0bkJhY2tTZWdtZW50YXRpb24gPSBRUHVzaEJ1dHRvbigiSG9tZSIsIHNlbGYpCiAgICAgICAgc2VsZi5idG5CYWNrU2VnbWVudGF0aW9uLnNldFN0eWxlU2hlZXQoJ1FQdXNoQnV0dG9uIHtiYWNrZ3JvdW5kLWNvbG9yOiAjQkE1MTkwOyBjb2xvcjogI0ZGRkZGRn0nKQogICAgICAgIHNlbGYuYnRuQmFja1NlZ21lbnRhdGlvbi5jbGlja2VkLmNvbm5lY3QobGFtYmRhOiBzZWxmLmNoYW5nZVdpZGdldCgnTWFpbicpKQogICAgICAgIG1lbnVMYXlvdXQuYWRkV2lkZ2V0KHNlbGYuYnRuQmFja1NlZ21lbnRhdGlvbikK</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>Segmentation</text>
       </register>
       <register name="/" type="4">
-        <text>finish</text>
+        <text encoding="base64">XDxidG5CYWNrU2VnbWVudGF0aW9uXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB0dmcudm94ZWxzaXplX21tID0gWzEsIDEsIDFdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgaSBpbiByYW5nZShlbGVtZW50X251bWJlcik6CiAgICAgICAgICAgIGVkZ2UgPSB7CiAgICAgICAgIyAgICAgICAgICMibm9kZUFfWllYX21tIjogbnAucmFuZG9tLnJhbmRvbSgzKSAqIDEwMCwKICAgICAgICAgICAgICAgICJub2RlQV9aWVhfbW0iOiBwdHNbaS0xXSwKICAgICAgICAgICAgICAgICJub2RlQl9aWVhfbW0iOiBwdHNbaV0sCiAgICAgICAgIyAgICAgICAgICJub2RlQl9aWVhfbW0iOiBucC5yYW5kb20ucmFuZG9tKDMpICogMTAwLAogICAgICAgICAgICAgICAgInJhZGl1c19tbSI6IDEKICAgICAgICAgICAgfQogICAgICAgICAgICB0cmVlX2RhdGFbaV0gPSBlZGdlCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmJ0bkJhY2tTZWdtZW50YXRpb24gPSBRUHVzaEJ1dHRvbigiSG9tZSIsIHNlbGYpCiAgICAgICAgc2VsZi5idG5CYWNrU2VnbWVudGF0aW9uLnNldFN0eWxlU2hlZXQoJ1FQdXNoQnV0dG9uIHtiYWNrZ3JvdW5kLWNvbG9yOiAjQkE1MTkwOyBjb2xvcjogI0ZGRkZGRn0nKQogICAgICAgIHNlbGYuYnRuQmFja1NlZ21lbnRhdGlvbi5jbGlja2VkLmNvbm5lY3QobGFtYmRhOiBzZWxmLmNoYW5nZVdpZGdldCgnTWFpbicpKQogICAgICAgIG1lbnVMYXlvdXQuYWRkV2lkZ2V0KHNlbGYuYnRuQmFja1NlZ21lbnRhdGlvbikK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgaSBpbiByYW5nZShlbGVtZW50X251bWJlcik6CiAgICAgICAgICAgIGVkZ2UgPSB7CiAgICAgICAgIyAgICAgICAgICMibm9kZUFfWllYX21tIjogbnAucmFuZG9tLnJhbmRvbSgzKSAqIDEwMCwKICAgICAgICAgICAgICAgICJub2RlQV9aWVhfbW0iOiBwdHNbaS0xXSwKICAgICAgICAgICAgICAgICJub2RlQl9aWVhfbW0iOiBwdHNbaV0sCiAgICAgICAgIyAgICAgICAgICJub2RlQl9aWVhfbW0iOiBucC5yYW5kb20ucmFuZG9tKDMpICogMTAwLAogICAgICAgICAgICAgICAgInJhZGl1c19tbSI6IDEKICAgICAgICAgICAgfQogICAgICAgICAgICB0cmVlX2RhdGFbaV0gPSBlZGdlCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
-      </register>
-      <register name="6" type="8">
-        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIA==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>scale</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
+      </register>
+      <register name="7" type="8">
+        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIA==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">KiA=</text>
+        <text>scale</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>finish</last-search>
+      <last-search encoding="base64">XDxidG5CYWNrU2VnbWVudGF0aW9uXD4=</last-search>
       <last-offset />
-      <last-pattern>finish</last-pattern>
+      <last-pattern encoding="base64">XDxidG5CYWNrU2VnbWVudGF0aW9uXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxidG5WaXJ0dWFsUmVzZWN0aW9uXD4=</entry>
         <entry encoding="base64">XDxidG5WaXJ0dWFsUmVzZWN0aW9uUFZcPg==</entry>
         <entry encoding="base64">XDxjdXRfZWRpdG9yX29sZFw+</entry>
         <entry>import</entry>
@@ -1475,6 +1474,7 @@
         <entry>Continue</entry>
         <entry encoding="base64">XDxzaWduYWxfZmluaXNoZWRcPg==</entry>
         <entry encoding="base64">XDxydW5TZWdtZW50YXRpb25cPg==</entry>
+        <entry encoding="base64">XDxidG5CYWNrU2VnbWVudGF0aW9uXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>166</entry>
