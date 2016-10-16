@@ -255,13 +255,11 @@
         <mark key="^" line="158" column="24" />
         <mark key="." line="158" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/events2calendar/mail2calendar.py" timestamp="1476650621540">
-        <mark key="a" line="455" column="12" />
+      <file name="$USER_HOME$/projects/events2calendar/mail2calendar.py" timestamp="1476652752633">
         <mark key="'" line="174" column="39" />
-        <mark key="[" line="81" column="119" />
-        <mark key="]" line="81" column="118" />
-        <mark key="^" line="81" column="118" />
-        <mark key="." line="81" column="118" />
+        <mark key="[" line="451" column="19" />
+        <mark key="]" line="451" column="19" />
+        <mark key="." line="451" column="19" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/show_segmentation.py" timestamp="1469798761684">
         <mark key="a" line="50" column="3" />
@@ -1397,47 +1395,47 @@
       <jump line="18" column="0" filename="$USER_HOME$/projects/skelet3d/skelet3d/tree.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJub2RlQV9aWVhfbW0iOiBwdHNbaV0sCg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>finish</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJub2RlQV9aWVhfbW0iOiBwdHNbaV0sCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBvdXRfdGltZS5ncm91cCgwKSBpcyBOb25lOgogICAgICAgICAgICByZXR1cm4gTm9uZSwgIiIsICIiLCAiIgogICAgICAgIGVsc2U6CiAgICAgICAgICAgIGRhdHVtID0gcHJldl9saW5lX2RhdGUK</text>
       </register>
       <register name="1" type="4">
-        <text>0</text>
+        <text>.</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>1</text>
+        <text>)</text>
       </register>
       <register name="3" type="4">
-        <text>np.random.random(3) * 100</text>
+        <text>0</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+        <text>(</text>
       </register>
       <register name="5" type="4">
-        <text>#</text>
+        <text>group</text>
       </register>
-      <register name="6" type="4">
-        <text>scale</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBvdXRfdGltZS5ncm91cCgwKSBpcyBOb25lOgogICAgICAgICAgICAjIHRoZXJlIGlzIGEgZGF0ZSBidXQgbm8gdGltZQogICAgICAgICAgICByZXR1cm4gTm9uZSwgIiIsICIiLCAiIgogICAgICAgIGVsc2U6CiAgICAgICAgICAgIGRhdHVtID0gcHJldl9saW5lX2RhdGUK</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">KiA=</text>
+        <text>,</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">bGVuZ3RoRXN0aW1hdGlvbiA=</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0dmcuc2F2ZVRvRmlsZShOb25lKQo=</text>
+      <register name="9" type="4">
+        <text>&quot;</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1474,7 +1472,6 @@
         <entry encoding="base64">XDxydW5TZWdtZW50YXRpb25cPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>166</entry>
         <entry>292</entry>
         <entry>q</entry>
         <entry>114</entry>
@@ -1493,6 +1490,7 @@
         <entry>52</entry>
         <entry>81</entry>
         <entry>e</entry>
+        <entry>w¨</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
