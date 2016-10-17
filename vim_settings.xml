@@ -402,12 +402,12 @@
         <mark key="." line="29" column="25" />
         <mark key="^" line="29" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/skelet3d/tests/tube_tree_test.py" timestamp="1476728739784">
+      <file name="$USER_HOME$/projects/skelet3d/tests/tube_tree_test.py" timestamp="1476731286801">
         <mark key="'" line="8" column="0" />
-        <mark key="[" line="118" column="25" />
-        <mark key="]" line="118" column="26" />
-        <mark key="." line="118" column="26" />
-        <mark key="^" line="148" column="19" />
+        <mark key="[" line="118" column="26" />
+        <mark key="]" line="118" column="25" />
+        <mark key="." line="118" column="25" />
+        <mark key="^" line="118" column="25" />
       </file>
       <file name="$USER_HOME$/projects/sed3/tests/sed_qt_test.py" timestamp="1454931451217">
         <mark key="[" line="14" column="80" />
@@ -612,10 +612,10 @@
         <mark key="^" line="178" column="21" />
         <mark key="." line="178" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1476729124382">
+      <file name="/Dummy.txt" timestamp="1476731308236">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="1" />
-        <mark key="." line="0" column="1" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/io3d/io3d/misc.py" timestamp="1453295785375">
         <mark key="'" line="19" column="27" />
@@ -848,7 +848,7 @@
         <mark key="^" line="202" column="30" />
         <mark key="." line="203" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1476728749223">
+      <file name="/Python Console" timestamp="1476730651389">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1476728298038">
@@ -1406,11 +1406,11 @@
       <jump line="312" column="9" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjIGZvciBpLCB0d29fcG9pbnRzIGluIGVudW1lcmF0ZSh2b3IzLnZlcnRpY2VzKToK</text>
+      <register name="&quot;" type="4">
+        <text />
       </register>
       <register name="-" type="4">
-        <text>two_points[1]</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>finish</text>
