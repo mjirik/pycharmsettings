@@ -257,10 +257,6 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="24" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/skelet3d/tests/skelet3d_test.py" timestamp="1470570207283">
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="65" column="39" />
-      </file>
       <file name="$USER_HOME$/projects/psongbook/sobo/doc2txt.py" timestamp="1463473984670">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="37" column="0" />
@@ -406,13 +402,12 @@
         <mark key="." line="29" column="25" />
         <mark key="^" line="29" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/skelet3d/tests/tube_tree_test.py" timestamp="1476343178072">
-        <mark key="a" line="86" column="27" />
+      <file name="$USER_HOME$/projects/skelet3d/tests/tube_tree_test.py" timestamp="1476731286801">
         <mark key="'" line="8" column="0" />
-        <mark key="[" line="123" column="40" />
-        <mark key="]" line="119" column="53" />
-        <mark key="." line="119" column="53" />
-        <mark key="^" line="119" column="53" />
+        <mark key="[" line="118" column="26" />
+        <mark key="]" line="118" column="25" />
+        <mark key="." line="118" column="25" />
+        <mark key="^" line="118" column="25" />
       </file>
       <file name="$USER_HOME$/projects/sed3/tests/sed_qt_test.py" timestamp="1454931451217">
         <mark key="[" line="14" column="80" />
@@ -557,10 +552,6 @@
         <mark key="." line="326" column="63" />
         <mark key="^" line="326" column="63" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/tests/liver_segmentation_test.py" timestamp="1470605771826">
-        <mark key="[" line="125" column="0" />
-        <mark key="]" line="125" column="52" />
-      </file>
       <file name="$USER_HOME$/projects/psongbook/setup.py" timestamp="1463464617794">
         <mark key="[" line="46" column="14" />
         <mark key="]" line="46" column="35" />
@@ -621,10 +612,10 @@
         <mark key="^" line="178" column="21" />
         <mark key="." line="178" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1476709311987">
-        <mark key="[" line="0" column="1" />
-        <mark key="]" line="0" column="1" />
-        <mark key="." line="0" column="1" />
+      <file name="/Dummy.txt" timestamp="1476731308236">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/io3d/io3d/misc.py" timestamp="1453295785375">
         <mark key="'" line="19" column="27" />
@@ -856,6 +847,12 @@
         <mark key="]" line="203" column="0" />
         <mark key="^" line="202" column="30" />
         <mark key="." line="203" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1476730651389">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.py" timestamp="1476728298038">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/quantan/quantan/histology_report.py" timestamp="1452186060856">
         <mark key="[" line="269" column="34" />
@@ -1257,10 +1254,6 @@
         <mark key="^" line="32" column="27" />
         <mark key="." line="32" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/io3d/io3d/datareader.py" timestamp="1475919696260">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="17" column="35" />
-      </file>
       <file name="$USER_HOME$/projects/lisa/lisa/__init__.py" timestamp="1464369261837">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="21" />
@@ -1414,46 +1407,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>isa w</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>isa w</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>finish</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJub2RlQV9aWVhfbW0iOiBwdHNbaV0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHkgPSB2b3IudmVydGljZXNbc2ltcGxleCwgMV0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5leGNlcHRpb24oZXhjc3RyKQo=</text>
+        <text encoding="base64">ICAgICAgICAjIGZvciBpLCB0d29fcG9pbnRzIGluIGVudW1lcmF0ZSh2b3IzLnZlcnRpY2VzKToK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMibm9kZUFfWllYX21tIjogbnAucmFuZG9tLnJhbmRvbSgzKSAqIDEwMCwK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMibm9kZUJfWllYX21tIjogbnAucmFuZG9tLnJhbmRvbSgzKSAqIDEwMCwK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGxvZ2dlci5leGNlcHRpb24oZXhjc3RyKQo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLm9zZWcgPSBvc2VnCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="8" type="4">
         <text>0</text>
       </register>
-      <register name="4" type="4">
-        <text>1</text>
-      </register>
-      <register name="5" type="4">
-        <text>np.random.random(3) * 100</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="7" type="4">
-        <text>#</text>
-      </register>
-      <register name="8" type="4">
-        <text>scale</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">KiA=</text>
+        <text>1</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
