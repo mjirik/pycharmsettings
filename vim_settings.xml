@@ -530,11 +530,10 @@
         <mark key="^" line="48" column="65" />
         <mark key="." line="48" column="65" />
       </file>
-      <file name="$USER_HOME$/projects/imtools/requirements_conda.txt" timestamp="1476944739120">
-        <mark key="[" line="6" column="5" />
-        <mark key="]" line="6" column="6" />
-        <mark key="^" line="6" column="6" />
-        <mark key="." line="6" column="6" />
+      <file name="$USER_HOME$/projects/imtools/requirements_conda.txt" timestamp="1476945038085">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/projects/lisa/tests/datawriter_test.py" timestamp="1464974673000">
         <mark key="[" line="83" column="35" />
@@ -582,7 +581,7 @@
         <mark key="^" line="44" column="52" />
         <mark key="." line="44" column="52" />
       </file>
-      <file name="/Dummy.txt" timestamp="1476944744670">
+      <file name="/Dummy.txt" timestamp="1476945041634">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/disco/disco/__init__.py" timestamp="1463148479573">
@@ -1423,7 +1422,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">cHl5YW1sCg==</text>
+        <text encoding="base64">eWFtbAo=</text>
       </register>
       <register name="-" type="4">
         <text>&quot;delete_sample_data&quot;</text>
@@ -1435,35 +1434,35 @@
         <text encoding="base64">ICAgICAgICBzaHV0aWwucm10cmVlKHRtcF9zYW1wbGVfZGF0YV9wYXRoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHl5YW1sCg==</text>
+        <text encoding="base64">eWFtbAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">cHl5YW1sCg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFRydWUoRmFsc2UpCg==</text>
       </register>
-      <register name="3" type="8">
+      <register name="4" type="8">
         <text>logger.warn(
 logger.info(</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAjIGZvciBpLCB0d29fcG9pbnRzIGluIGVudW1lcmF0ZSh2b3IzLnZlcnRpY2VzKToK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICMibm9kZUFfWllYX21tIjogbnAucmFuZG9tLnJhbmRvbSgzKSAqIDEwMCwK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMibm9kZUJfWllYX21tIjogbnAucmFuZG9tLnJhbmRvbSgzKSAqIDEwMCwK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5leGNlcHRpb24oZXhjc3RyKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMibm9kZUJfWllYX21tIjogbnAucmFuZG9tLnJhbmRvbSgzKSAqIDEwMCwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
