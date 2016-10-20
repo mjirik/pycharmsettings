@@ -225,6 +225,12 @@
         <mark key="^" line="0" column="24" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/imtools/imtools/show_segmentation.py" timestamp="1477001406773">
+        <mark key="[" line="146" column="59" />
+        <mark key="]" line="147" column="24" />
+        <mark key="^" line="147" column="24" />
+        <mark key="." line="147" column="24" />
+      </file>
       <file name="$USER_HOME$/projects/lisa/lisa/lisa_server.py" timestamp="1445344066359">
         <mark key="[" line="31" column="20" />
         <mark key="]" line="31" column="21" />
@@ -1415,48 +1421,47 @@
       <jump line="312" column="9" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">CnB5eWFtbCAzLjEx</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBkcyA9IGRhdGFbImRhdGEzZCJdID4gMAo=</text>
       </register>
       <register name="-" type="4">
-        <text>fix version number</text>
+        <text>'segmentation'</text>
       </register>
       <register name="/" type="4">
         <text>finish</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzaHV0aWwucm10cmVlKHRtcF9zYW1wbGVfZGF0YV9wYXRoKQo=</text>
+        <text encoding="base64">ICAgICAgICBrZXlfd2l0aF9kYXRhID0gInNlZ21lbnRhdGlvbiIK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CnB5eWFtbCAzLjEx</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBkcyA9IGRhdGFbImRhdGEzZCJdID4gMAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>fix version number</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGlmIG5vbnplcm9fdm94ZWxzX251bWJlciA9PSAwOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">eWFtbAo=</text>
+        <text encoding="base64">ICAgIG5vbnplcm9fdm94ZWxzX251bWJlciA9IG5wLnN1bShkcyAhPSAwKQo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">cHl5YW1sCg==</text>
+      <register name="4" type="4">
+        <text>'segmentation'</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFRydWUoRmFsc2UpCg==</text>
+        <text encoding="base64">ICAgIHNlZ21lbnRhdGlvbl9rZXkgPSAic2VnbWVudGF0aW9uIgo=</text>
       </register>
-      <register name="6" type="8">
-        <text>logger.warn(
-logger.info(</text>
+      <register name="6" type="4">
+        <text>segmentation</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIGZvciBpLCB0d29fcG9pbnRzIGluIGVudW1lcmF0ZSh2b3IzLnZlcnRpY2VzKToK</text>
+        <text encoding="base64">ICAgICAgICBmb3IgaSBpbiByYW5nZSgwLCBsZW4oYXJncy5sYWJlbCkpOgogICAgICAgICAgICBkcyA9IGRzIHwgKGRhdGFbJ3NlZ21lbnRhdGlvbiddID09IGFyZ3MubGFiZWxbaV0pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      <register name="9" type="4">
+        <text encoding="base64">bm90IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
