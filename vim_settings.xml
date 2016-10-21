@@ -303,11 +303,11 @@
         <mark key="^" line="17" column="30" />
         <mark key="." line="17" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/imtools/README.md" timestamp="1453334168334">
-        <mark key="[" line="1" column="160" />
-        <mark key="]" line="3" column="15" />
-        <mark key="^" line="3" column="15" />
-        <mark key="." line="3" column="15" />
+      <file name="$USER_HOME$/projects/imtools/README.md" timestamp="1477047964402">
+        <mark key="[" line="14" column="34" />
+        <mark key="]" line="14" column="33" />
+        <mark key="^" line="14" column="33" />
+        <mark key="." line="14" column="33" />
       </file>
       <file name="$USER_HOME$/projects/skelet3d/skelet3d/skeleton_analyser.py" timestamp="1465560469197">
         <mark key="a" line="527" column="28" />
@@ -440,7 +440,7 @@
         <mark key="^" line="178" column="21" />
         <mark key="." line="178" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1477047024198">
+      <file name="/Dummy.txt" timestamp="1477047966989">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="43" />
         <mark key="." line="0" column="25" />
@@ -469,10 +469,10 @@
         <mark key="^" line="588" column="1" />
         <mark key="." line="588" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/imtools/imtools/show_segmentation.py" timestamp="1477047005437">
-        <mark key="[" line="164" column="12" />
-        <mark key="]" line="164" column="31" />
-        <mark key="." line="164" column="31" />
+      <file name="$USER_HOME$/projects/imtools/imtools/show_segmentation.py" timestamp="1477047720490">
+        <mark key="[" line="163" column="4" />
+        <mark key="]" line="163" column="4" />
+        <mark key="." line="163" column="4" />
         <mark key="^" line="164" column="31" />
       </file>
       <file name="$USER_HOME$/projects/io3d/io3d/__init__.py" timestamp="1448883347734">
@@ -1020,10 +1020,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>finish</text>
@@ -1032,41 +1032,34 @@
         <text encoding="base64">ICAgIGZvciBpIGluIHJhbmdlKDAsIGxlbihhcmdzLmxhYmVsKSk6CiAgICAgICAgZHMgPSBkcyB8IChkYXRhW3NlZ21lbnRhdGlvbl9rZXldID09IGFyZ3MubGFiZWxbaV0pCiAgICBkcyA9IGRzLmFzdHlwZSgidWludDgiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIF9zdGF0cyhkcykK</text>
+        <text encoding="base64">ICAgICMgaW1wb3J0IHBkYjsgcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRzID0gbnAuemVyb3MoZGF0YVsnZGF0YTNkJ10uc2hhcGUsIG5wLmJvb2wpCg==</text>
+        <text encoding="base64">ICAgIF9zdGF0cyhkcykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZvciBpIGluIHJhbmdlKDAsIGxlbihhcmdzLmxhYmVsKSk6CiAgICAgICAgZHMgPSBkcyB8ICggPT0gYXJncy5sYWJlbFtpXSkK</text>
+        <text encoding="base64">ICAgIGRzID0gbnAuemVyb3MoZGF0YVsnZGF0YTNkJ10uc2hhcGUsIG5wLmJvb2wpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIF9zdGF0cyhzZWdtZW50YXRpb24pCg==</text>
+        <text encoding="base64">ICAgIGZvciBpIGluIHJhbmdlKDAsIGxlbihhcmdzLmxhYmVsKSk6CiAgICAgICAgZHMgPSBkcyB8ICggPT0gYXJncy5sYWJlbFtpXSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgdnRrdmlld2VyCg==</text>
+        <text encoding="base64">ICAgIF9zdGF0cyhzZWdtZW50YXRpb24pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgdnRrdmlld2VyCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgUmVtb3ZlZCBiZWNhb3VzZSBvZiBlcnJvcnMgd2hlbiBwaXAgaXMgaW5zdGFsbGluZwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="9" type="4">
-        <text>dist',  'docs', 'tests*']),
-
-    # List run-time dependencies here.  These will be installed by pip when
-    # your project is installed. For an analysis of &quot;install_requires&quot; vs pip's
-    # requirements files see:
-    # https://packaging.python.org/en/latest/technical.html#install-requires-vs-requirements-files
-    install_requires=[],
-    # 'SimpleITK'</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICMgUmVtb3ZlZCBiZWNhb3VzZSBvZiBlcnJvcnMgd2hlbiBwaXAgaXMgaW5zdGFsbGluZwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
