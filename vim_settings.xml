@@ -47,12 +47,12 @@
         <mark key="." line="158" column="0" />
         <mark key="^" line="163" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1472819136590">
-        <mark key="'" line="1012" column="19" />
-        <mark key="[" line="1298" column="64" />
-        <mark key="]" line="1299" column="52" />
-        <mark key="^" line="1299" column="52" />
-        <mark key="." line="1299" column="52" />
+      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1477037633491">
+        <mark key="'" line="1016" column="10" />
+        <mark key="[" line="1050" column="0" />
+        <mark key="]" line="1050" column="0" />
+        <mark key="^" line="1048" column="28" />
+        <mark key="." line="1050" column="0" />
       </file>
       <file name="$USER_HOME$/projects/lisa/tests/liver_segmentation_cerveny_test.py" timestamp="1465114359986">
         <mark key="'" line="125" column="3" />
@@ -1326,18 +1326,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="188" column="9" filename="$USER_HOME$/projects/io3d/io3d/datareaderqt.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/projects/io3d/io3d/datareaderqt.py" />
-      <jump line="37" column="13" filename="$USER_HOME$/projects/io3d/io3d/datareaderqt.py" />
-      <jump line="132" column="27" filename="$USER_HOME$/projects/io3d/io3d/datareaderqt.py" />
-      <jump line="139" column="13" filename="$USER_HOME$/projects/io3d/io3d/datareaderqt.py" />
-      <jump line="17" column="0" filename="$USER_HOME$/projects/io3d/io3d/datareaderqt.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/io3d/io3d/datareaderqt.py" />
-      <jump line="305" column="30" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
-      <jump line="371" column="34" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
-      <jump line="379" column="32" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
-      <jump line="382" column="13" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
-      <jump line="640" column="8" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="102" column="45" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="377" column="45" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="617" column="8" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
@@ -1426,65 +1414,76 @@
       <jump line="85" column="15" filename="$USER_HOME$/projects/lisa/lisa/show_segmentation.py" />
       <jump line="86" column="21" filename="$USER_HOME$/projects/lisa/lisa/show_segmentation.py" />
       <jump line="32" column="4" filename="$USER_HOME$/projects/lisa/lisa/show_segmentation.py" />
+      <jump line="1048" column="8" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="1104" column="17" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="1215" column="34" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="1282" column="34" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="1400" column="33" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="1401" column="8" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="504" column="33" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="505" column="8" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="534" column="35" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="535" column="10" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="1015" column="35" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="1016" column="10" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG1pc2MK</text>
+        <text encoding="base64">ICAgICAgICBweXF0UmVtb3ZlSW5wdXRIb29rKCkK</text>
       </register>
       <register name="-" type="4">
-        <text>fix version number</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzaG93U2VnbWVudGF0aW9uXD4=</text>
+        <text encoding="base64">XDxweXF0UmVtb3ZlSW5wdXRIb29rXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzaHV0aWwucm10cmVlKHRtcF9zYW1wbGVfZGF0YV9wYXRoKQo=</text>
+        <text encoding="base64">ICAgICAgICAjIGZyb20gUHlRdDQgaW1wb3J0IFF0Q29yZQogICAgICAgICMgUXRDb3JlLnB5cXRSZW1vdmVJbnB1dEhvb2soKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG1pc2MK</text>
+        <text encoding="base64">ICAgICAgICBweXF0UmVtb3ZlSW5wdXRIb29rKCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IG1pc2MK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">aW1wb3J0IHZpZXdlcgo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">CnB5eWFtbCAzLjEx</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>fix version number</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">eWFtbAo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">cHl5YW1sCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFRydWUoRmFsc2UpCg==</text>
       </register>
-      <register name="8" type="8">
+      <register name="9" type="8">
         <text>logger.warn(
 logger.info(</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIGZvciBpLCB0d29fcG9pbnRzIGluIGVudW1lcmF0ZSh2b3IzLnZlcnRpY2VzKToK</text>
-      </register>
       <register name=":" type="4">
-        <text>885</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzaG93U2VnbWVudGF0aW9uXD4=</last-search>
+      <last-search encoding="base64">XDxweXF0UmVtb3ZlSW5wdXRIb29rXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzaG93U2VnbWVudGF0aW9uXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxweXF0UmVtb3ZlSW5wdXRIb29rXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxib2x0em1hblw+</entry>
         <entry encoding="base64">XDxpbnRlbnNpdHlfbG9jYWxpemF0aW9uX2Z2XD4=</entry>
         <entry encoding="base64">XDxjcm9wRGNtXD4=</entry>
         <entry encoding="base64">XDxfYWRkX2J1dHRvblw+</entry>
@@ -1504,6 +1503,7 @@ logger.info(</text>
         <entry>text_seg</entry>
         <entry encoding="base64">XDx2aWV3ZXJcPg==</entry>
         <entry encoding="base64">XDxzaG93U2VnbWVudGF0aW9uXD4=</entry>
+        <entry encoding="base64">XDxweXF0UmVtb3ZlSW5wdXRIb29rXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
@@ -1524,8 +1524,8 @@ logger.info(</text>
         <entry>e</entry>
         <entry>81</entry>
         <entry>312</entry>
-        <entry>w</entry>
         <entry>885</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
