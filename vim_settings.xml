@@ -440,10 +440,10 @@
         <mark key="^" line="178" column="21" />
         <mark key="." line="178" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1477047966989">
+      <file name="/Dummy.txt" timestamp="1477058797685">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="43" />
-        <mark key="." line="0" column="25" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/imtools/tests/qmisc_test.py" timestamp="1464960292912">
         <mark key="[" line="156" column="44" />
@@ -1025,11 +1025,11 @@
       <jump line="312" column="9" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>tree generator renamed to constructorii</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>tree generator renamed to constructorii</text>
       </register>
       <register name="/" type="4">
         <text>finish</text>
