@@ -18,6 +18,7 @@
         <mark key="." line="22" column="20" />
         <mark key="^" line="22" column="20" />
       </file>
+      <file name="$USER_HOME$/projects/vtkviewer/vtkviewer.py" timestamp="1477046104956" />
       <file name="/a.dummy" timestamp="1475741572534">
         <mark key="[" line="0" column="0" />
       </file>
@@ -439,7 +440,7 @@
         <mark key="^" line="178" column="21" />
         <mark key="." line="178" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1477045893387">
+      <file name="/Dummy.txt" timestamp="1477047024198">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="43" />
         <mark key="." line="0" column="25" />
@@ -467,6 +468,12 @@
         <mark key="]" line="588" column="1" />
         <mark key="^" line="588" column="1" />
         <mark key="." line="588" column="1" />
+      </file>
+      <file name="$USER_HOME$/projects/imtools/imtools/show_segmentation.py" timestamp="1477047005437">
+        <mark key="[" line="164" column="12" />
+        <mark key="]" line="164" column="31" />
+        <mark key="." line="164" column="31" />
+        <mark key="^" line="164" column="31" />
       </file>
       <file name="$USER_HOME$/projects/io3d/io3d/__init__.py" timestamp="1448883347734">
         <mark key="[" line="8" column="22" />
@@ -1013,24 +1020,45 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>py</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>py</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>finish</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHBhY2thZ2VzPWZpbmRfcGFja2FnZXMoZXhjbHVkZT1bJ2Rpc3QnLCAgJ2RvY3MnLCAndGVzdHMqJ10pLAo=</text>
+        <text encoding="base64">ICAgIGZvciBpIGluIHJhbmdlKDAsIGxlbihhcmdzLmxhYmVsKSk6CiAgICAgICAgZHMgPSBkcyB8IChkYXRhW3NlZ21lbnRhdGlvbl9rZXldID09IGFyZ3MubGFiZWxbaV0pCiAgICBkcyA9IGRzLmFzdHlwZSgidWludDgiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgUmVtb3ZlZCBiZWNhb3VzZSBvZiBlcnJvcnMgd2hlbiBwaXAgaXMgaW5zdGFsbGluZwo=</text>
+        <text encoding="base64">ICAgIF9zdGF0cyhkcykK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGRzID0gbnAuemVyb3MoZGF0YVsnZGF0YTNkJ10uc2hhcGUsIG5wLmJvb2wpCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGZvciBpIGluIHJhbmdlKDAsIGxlbihhcmdzLmxhYmVsKSk6CiAgICAgICAgZHMgPSBkcyB8ICggPT0gYXJncy5sYWJlbFtpXSkK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIF9zdGF0cyhzZWdtZW50YXRpb24pCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgdnRrdmlld2VyCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICMgUmVtb3ZlZCBiZWNhb3VzZSBvZiBlcnJvcnMgd2hlbiBwaXAgaXMgaW5zdGFsbGluZwo=</text>
+      </register>
+      <register name="9" type="4">
         <text>dist',  'docs', 'tests*']),
 
     # List run-time dependencies here.  These will be installed by pip when
@@ -1039,28 +1067,6 @@
     # https://packaging.python.org/en/latest/technical.html#install-requires-vs-requirements-files
     install_requires=[],
     # 'SimpleITK'</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">CnB5eWFtbCAzLjEx</text>
-      </register>
-      <register name="4" type="4">
-        <text>fix version number</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">eWFtbAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">cHl5YW1sCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFRydWUoRmFsc2UpCg==</text>
-      </register>
-      <register name="8" type="8">
-        <text>logger.warn(
-logger.info(</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIGZvciBpLCB0d29fcG9pbnRzIGluIGVudW1lcmF0ZSh2b3IzLnZlcnRpY2VzKToK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
