@@ -1345,14 +1345,13 @@
         <mark key="." line="3" column="21" />
         <mark key="^" line="3" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/events2calendar/mail2calendar.py" timestamp="1477314040546">
+      <file name="$USER_HOME$/projects/events2calendar/mail2calendar.py" timestamp="1477315575120">
         <mark key="a" line="184" column="15" />
-        <mark key="b" line="381" column="13" />
-        <mark key="'" line="394" column="4" />
-        <mark key="[" line="196" column="31" />
-        <mark key="]" line="196" column="30" />
-        <mark key="." line="196" column="30" />
-        <mark key="^" line="196" column="30" />
+        <mark key="b" line="387" column="13" />
+        <mark key="'" line="197" column="56" />
+        <mark key="[" line="199" column="111" />
+        <mark key="]" line="200" column="20" />
+        <mark key="." line="200" column="0" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/viewer.py" timestamp="1469803911544">
         <mark key="'" line="76" column="52" />
@@ -1390,7 +1389,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="103" column="8" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
       <jump line="378" column="16" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
       <jump line="301" column="4" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
       <jump line="106" column="17" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
@@ -1446,7 +1444,6 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/lisa/tests/dcmreaddata_test.py" />
       <jump line="262" column="20" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
-      <jump line="197" column="23" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
       <jump line="202" column="23" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
       <jump line="252" column="68" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
       <jump line="319" column="32" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
@@ -1490,49 +1487,51 @@
       <jump line="206" column="11" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
       <jump line="194" column="66" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
       <jump line="394" column="4" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
+      <jump line="196" column="32" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
+      <jump line="197" column="56" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICsgIiIK</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXJzZV90ZXh0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWlzdW1tYXJ5ID0gc3RyKGV2ZW50aVsnc3VtbWFyeSddLmVuY29kZSgndXRmOCcpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgKHRleHQpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiIiArIHN0cihzZWxmLmV2ZW50X2kpICsgJzxicj48L2JyPlxuJyArCiAgICAgICAgICAgICAgICAgICAgIiIgKyBpbnB1dF90ZXh0ICsgJzxicj48L2JyPlxuJyArCiAgICAgICAgICAgICAgICAgICAgIiIgKyBzZWxmLl9mb3JtYXRfZXZlbnQoc2VsZi5tZXZlbnRzW3NlbGYuZXZlbnRfaV1bJ25ldyBldmVudCddKSArICc8YnI+PC9icj48YnI+PC9icj5cblxuJyArCiAgICAgICAgICAgICAgICAgICAgIyAiPGI+IiArIHNlbGYubWV2ZW50c1tzZWxmLmV2ZW50X2ldWydzdGF0dXMnXSArICc8L2I+PGJyPjwvYnI+PGJyPjwvYnI+XG5cbicgKwogICAgICAgICAgICAgICAgICAgICIiICsgc2VsZi5tZXZlbnRzW3NlbGYuZXZlbnRfaV1bJ21zZyddICsgJzxicj48L2JyPlxuJyArCiAgICAgICAgICAgICAgICAgICAgIyAiPGI+IiArIHNlbGYubWV2ZW50c1tzZWxmLmV2ZW50X2ldWydtc2dfY29sbGlzaW9uJ10gKyAnPC9iPjxicj48L2JyPlxuJwogICAgICAgICAgICAgICAgICAgICIiICsgc2VsZi5fZm9ybWF0X2NvbGxpZGluZ19ldmVudHMoc2VsZi5ldmVudF9pKSArICc8YnI+PC9icj5cbicKICAgICAgICAgICAgICAgICAgICAjLmRlY29kZSgndXRmLTgnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICsgIiIK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICsgIiIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0cigK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgKyAiIiArIHNlbGYubWV2ZW50c1tzZWxmLmV2ZW50X2ldWydtc2cnXSArICc8YnI+PC9icj5cbicKICAgICAgICAgICAgICAgICMgIjxiPiIgKyBzZWxmLm1ldmVudHNbc2VsZi5ldmVudF9pXVsnbXNnX2NvbGxpc2lvbiddICsgJzwvYj48YnI+PC9icj5cbicK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBldmVudGkgPSBldmVudFsibmV3IGV2ZW50Il0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgIiIgKyBzdHIoc2VsZi5ldmVudF9pKSArICc8YnI+PC9icj5cbicK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICsgIiIgKyBpbnB1dF90ZXh0ICsgJzxicj48L2JyPlxuJwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmb3JtYXRlZCAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiIiArIHN0cihzZWxmLmV2ZW50X2kpICsgJzxicj48L2JyPlxuJyArCiAgICAgICAgICAgICAgICAgICAgIiIgKyBpbnB1dF90ZXh0ICsgJzxicj48L2JyPlxuJyArCiAgICAgICAgICAgICAgICAgICAgIiIgKyBzZWxmLl9mb3JtYXRfZXZlbnQoc2VsZi5tZXZlbnRzW3NlbGYuZXZlbnRfaV1bJ25ldyBldmVudCddKSArICc8YnI+PC9icj48YnI+PC9icj5cblxuJyArCiAgICAgICAgICAgICAgICAgICAgIyAiPGI+IiArIHNlbGYubWV2ZW50c1tzZWxmLmV2ZW50X2ldWydzdGF0dXMnXSArICc8L2I+PGJyPjwvYnI+PGJyPjwvYnI+XG5cbicgKwogICAgICAgICAgICAgICAgICAgICIiICsgc2VsZi5tZXZlbnRzW3NlbGYuZXZlbnRfaV1bJ21zZyddICsgJzxicj48L2JyPlxuJyArCiAgICAgICAgICAgICAgICAgICAgIyAiPGI+IiArIHNlbGYubWV2ZW50c1tzZWxmLmV2ZW50X2ldWydtc2dfY29sbGlzaW9uJ10gKyAnPC9iPjxicj48L2JyPlxuJwogICAgICAgICAgICAgICAgICAgICIiICsgc2VsZi5fZm9ybWF0X2NvbGxpZGluZ19ldmVudHMoc2VsZi5ldmVudF9pKSArICc8YnI+PC9icj5cbicKICAgICAgICAgICAgICAgICAgICAjLmRlY29kZSgndXRmLTgnKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmb3JtYXRlZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0cigK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBwcmludF9mdW5jdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICBldmVudGkgPSBldmVudFsibmV3IGV2ZW50Il0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
