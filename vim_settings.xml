@@ -1345,12 +1345,13 @@
         <mark key="." line="3" column="21" />
         <mark key="^" line="3" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/events2calendar/mail2calendar.py" timestamp="1477309307488">
-        <mark key="a" line="264" column="26" />
-        <mark key="'" line="356" column="8" />
-        <mark key="[" line="270" column="17" />
-        <mark key="]" line="270" column="17" />
-        <mark key="." line="270" column="0" />
+      <file name="$USER_HOME$/projects/events2calendar/mail2calendar.py" timestamp="1477310722919">
+        <mark key="a" line="184" column="15" />
+        <mark key="'" line="280" column="24" />
+        <mark key="[" line="175" column="29" />
+        <mark key="]" line="175" column="29" />
+        <mark key="." line="175" column="29" />
+        <mark key="^" line="203" column="70" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/viewer.py" timestamp="1469803911544">
         <mark key="'" line="76" column="52" />
@@ -1388,8 +1389,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="327" column="59" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
-      <jump line="343" column="13" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="387" column="58" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="423" column="58" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="451" column="17" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
@@ -1488,64 +1487,65 @@
       <jump line="252" column="68" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
       <jump line="319" column="32" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
       <jump line="352" column="8" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
+      <jump line="241" column="8" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
+      <jump line="277" column="24" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmb3JtYXRlZCAK</text>
+      <register name="&quot;" type="4">
+        <text>i</text>
       </register>
       <register name="-" type="4">
-        <text>str(start)</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxldmVudF90aW1lXD4=</text>
+        <text>colliding</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoc3RyKHN0YXJ0KSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiPGI+IiArIHNlbGYubWV2ZW50c1tzZWxmLmV2ZW50X2ldWydtc2dfY29sbGlzaW9uJ10gKyAnPC9iPjxicj48L2JyPlxuJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmb3JtYXRlZCAK</text>
+        <text encoding="base64">ICAgICAgICBldmVudGkgPSBldmVudFsibmV3IGV2ZW50Il0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmb3JtYXRlZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3JtYXRlZCAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBwcmludF9mdW5jdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICBmb3JtYXRlZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzdHIoZXZlbnRpWydzdW1tYXJ5J10uZW5jb2RlKCd1dGY4JykpCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiBfZm9ybWF0X2V2ZW50KHNlbGYsIGV2ZW50KToKICAgICAgICBldmVudGkgPSBldmVudFsibmV3IGV2ZW50Il0KCiAgICAgICAgc3RhcnQgPSBldmVudGlbJ3N0YXJ0J10uZ2V0KCdkYXRlVGltZScsIGV2ZW50aVsnc3RhcnQnXS5nZXQoJ2RhdGUnKSkKICAgICAgICBlaXN1bW1hcnkgPSBzdHIoZXZlbnRpWydzdW1tYXJ5J10uZW5jb2RlKCd1dGY4JykpCg==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBwcmludF9mdW5jdGlvbgo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBzdHIoZXZlbnRpWydzdW1tYXJ5J10uZW5jb2RlKCd1dGY4JykpCg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmV2ZW50cyA9IFtdCg==</text>
+        <text encoding="base64">ICAgIGRlZiBfZm9ybWF0X2V2ZW50KHNlbGYsIGV2ZW50KToKICAgICAgICBldmVudGkgPSBldmVudFsibmV3IGV2ZW50Il0KCiAgICAgICAgc3RhcnQgPSBldmVudGlbJ3N0YXJ0J10uZ2V0KCdkYXRlVGltZScsIGV2ZW50aVsnc3RhcnQnXS5nZXQoJ2RhdGUnKSkKICAgICAgICBlaXN1bW1hcnkgPSBzdHIoZXZlbnRpWydzdW1tYXJ5J10uZW5jb2RlKCd1dGY4JykpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxldmVudF90aW1lXD4=</last-search>
+      <last-search>colliding</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxldmVudF90aW1lXD4=</last-pattern>
+      <last-pattern>colliding</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Continue</entry>
         <entry encoding="base64">XDxzaWduYWxfZmluaXNoZWRcPg==</entry>
         <entry encoding="base64">XDxydW5TZWdtZW50YXRpb25cPg==</entry>
         <entry>slab</entry>
@@ -1565,6 +1565,7 @@
         <entry encoding="base64">XDx1cGRhdGVfZXZlbnRzX2Zvcl9kdXBsaWNpdHlcPg==</entry>
         <entry encoding="base64">XDxjaGVja19kdXBsaWNpdHlcPg==</entry>
         <entry encoding="base64">XDxldmVudF90aW1lXD4=</entry>
+        <entry>colliding</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
