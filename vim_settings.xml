@@ -615,6 +615,9 @@
         <mark key="." line="33" column="20" />
         <mark key="^" line="33" column="20" />
       </file>
+      <file name="/Dummy.txt" timestamp="1478209773226">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/imtools/imtools/sample_data.py" timestamp="1476877477996">
         <mark key="a" line="164" column="12" />
         <mark key="'" line="129" column="31" />
@@ -806,7 +809,8 @@
         <mark key="." line="51" column="37" />
         <mark key="^" line="51" column="37" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/tb_lar_smooth.py" timestamp="1478209384038">
+      <file name="$USER_HOME$/projects/teigen/teigen/tb_lar_smooth.py" timestamp="1478210102070">
+        <mark key="'" line="51" column="13" />
         <mark key="[" line="176" column="0" />
         <mark key="]" line="181" column="22" />
       </file>
@@ -926,6 +930,9 @@
         <mark key="]" line="2" column="4" />
         <mark key="." line="2" column="4" />
         <mark key="^" line="2" column="4" />
+      </file>
+      <file name="$USER_HOME$/projects/teigen/teigen/tb_lar.py" timestamp="1478210115219">
+        <mark key="'" line="44" column="36" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/geometry3d.py" timestamp="1465916678607">
         <mark key="[" line="67" column="17" />
@@ -1399,11 +1406,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="110" column="12" filename="$USER_HOME$/projects/imtools/imtools/sample_data.py" />
-      <jump line="6" column="10" filename="$USER_HOME$/projects/imtools/imtools/sample_data.py" />
-      <jump line="113" column="28" filename="$USER_HOME$/projects/imtools/imtools/sample_data.py" />
-      <jump line="123" column="34" filename="$USER_HOME$/projects/imtools/imtools/sample_data.py" />
-      <jump line="127" column="31" filename="$USER_HOME$/projects/imtools/imtools/sample_data.py" />
       <jump line="50" column="4" filename="$USER_HOME$/projects/io3d/tests/datawriter_test.py" />
       <jump line="28" column="0" filename="$USER_HOME$/projects/io3d/tests/datawriter_test.py" />
       <jump line="35" column="57" filename="$USER_HOME$/projects/io3d/tests/datawriter_test.py" />
@@ -1499,6 +1501,11 @@
       <jump line="167" column="17" filename="$USER_HOME$/projects/imtools/imtools/show_segmentation.py" />
       <jump line="3" column="0" filename="$USER_HOME$/projects/teigen/teigen/tree.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/teigen/teigen/tree.py" />
+      <jump line="90" column="46" filename="$USER_HOME$/projects/teigen/teigen/tb_lar_smooth.py" />
+      <jump line="92" column="45" filename="$USER_HOME$/projects/teigen/teigen/tb_lar_smooth.py" />
+      <jump line="43" column="8" filename="$USER_HOME$/projects/teigen/teigen/tb_lar_smooth.py" />
+      <jump line="51" column="13" filename="$USER_HOME$/projects/teigen/teigen/tb_lar_smooth.py" />
+      <jump line="44" column="36" filename="$USER_HOME$/projects/teigen/teigen/tb_lar.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1508,7 +1515,7 @@
         <text>#! /usr/bin/env python</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsYWJlbFw+</text>
+        <text encoding="base64">XDxlbmREaXN0TXVsdGlwbGljYXRvclw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZGVmIG1haW4oKToKICAgIGxvZ2dpbmcuYmFzaWNDb25maWcoKQogICAgbG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoKQogICAgbG9nZ2VyLnNldExldmVsKGxvZ2dpbmcuV0FSTklORykKCiAgICAjIGlucHV0IHBhcnNlcgogICAgcGFyc2VyID0gYXJncGFyc2UuQXJndW1lbnRQYXJzZXIoCiAgICAgICAgZGVzY3JpcHRpb249J0hpc3RvbG9neSBhbmFseXNlciByZXBvcnRlci4gVHJ5OiBcCnB5dGhvbiBzcmMvdGJfdm9sdW1lLnB5IC1pIC4vdGVzdHMvaGlzdF9zdGF0c190ZXN0LnlhbWwnCiAgICApCiAgICBwYXJzZXIuYWRkX2FyZ3VtZW50KAogICAgICAgICctaScsICctLWlucHV0ZmlsZScsCiAgICAgICAgZGVmYXVsdD1Ob25lLAogICAgICAgIHJlcXVpcmVkPVRydWUsCiAgICAgICAgaGVscD0naW5wdXQgZmlsZSwgeWFtbCBmaWxlJwogICAgKQogICAgcGFyc2VyLmFkZF9hcmd1bWVudCgKICAgICAgICAnLW8nLCAnLS1vdXRwdXRmaWxlJywKICAgICAgICBkZWZhdWx0PU5vbmUsCiAgICAgICAgaGVscD0nb3V0cHV0IGZpbGUsIC5yYXcsIC5kY20sIC50aWZmLCBnaXZlbiBieSBleHRlbnNpb24gJwogICAgKQogICAgcGFyc2VyLmFkZF9hcmd1bWVudCgKICAgICAgICAnLW90JywgJy0tb3V0cHV0ZmlsZXR5cGUnLAogICAgICAgIGRlZmF1bHQ9J3BrbCcsCiAgICAgICAgaGVscD0nb3V0cHV0IGZpbGUgdHlwZS4gIHJhdywgZGNtLCB0aWZmLCBvciBwa2wsICAgZGVmYXVsdCBpcyBwa2wsICcKICAgICkKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoCiAgICAgICAgJy12cycsICctLXZveGVsc2l6ZScsCiAgICAgICAgZGVmYXVsdD1bMS4wLCAxLjAsIDEuMF0sCiAgICAgICAgdHlwZT1mbG9hdCwKICAgICAgICBtZXRhdmFyPSdOJywKICAgICAgICBuYXJncz0nKycsCiAgICAgICAgaGVscD0nc2l6ZSBvZiB2b3hlbCAoWllYKScKICAgICkKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoCiAgICAgICAgJy1kcycsICctLWRhdGFzaGFwZScsCiAgICAgICAgZGVmYXVsdD1bMjAwLCAyMDAsIDIwMF0sCiAgICAgICAgdHlwZT1pbnQsCiAgICAgICAgbWV0YXZhcj0nTicsCiAgICAgICAgbmFyZ3M9JysnLAogICAgICAgIGhlbHA9J3NpemUgb2Ygb3V0cHV0IGRhdGEgaW4gcGl4ZWxzIGZvciBlYWNoIGF4aXMgKFpZWCknCiAgICApCiAgICBwYXJzZXIuYWRkX2FyZ3VtZW50KAogICAgICAgICctZycsICctLWdlbmVyYXRvcicsCiAgICAgICAgZGVmYXVsdD0ndm9sJywKICAgICAgICB0eXBlPXN0ciwKICAgICAgICBoZWxwPSdWb2x1bWUgb3Igc3VyZmFjZSBtb2RlbCBjYW4gYmUgZ2VuZXJhdGVkIGJ5IHVzZSB0aGlzIG9wdGlvbi4gXAogICAgICAgICAgICAgICAgVXNlICJ2b2wiLCAidm9sdW1lIiBmb3Igdm9sdW1ldHJpYyBtb2RlbC4gRm9yIExBUiBzdXJmYWNlIG1vZGVsXAogICAgICAgICAgICAgICAgdXNlICJsYXIiLiBGb3IgVlRLIGZpbGUgdXNlICJ2dGsiLicKICAgICkKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoCiAgICAgICAgJy1kJywgJy0tZGVidWcnLCBhY3Rpb249J3N0b3JlX3RydWUnLAogICAgICAgIGhlbHA9J0RlYnVnIG1vZGUnKQogICAgcGFyc2VyLmFkZF9hcmd1bWVudCgKICAgICAgICAnLWwnLCAnLS11c2VMYXInLCBhY3Rpb249J3N0b3JlX3RydWUnLAogICAgICAgIGhlbHA9J1VzZSBMQVInKQogICAgYXJncyA9IHBhcnNlci5wYXJzZV9hcmdzKCkKCiAgICBpZiBhcmdzLmRlYnVnOgogICAgICAgIGxvZ2dlci5zZXRMZXZlbChsb2dnaW5nLkRFQlVHKQoKICAgIHN0YXJ0VGltZSA9IGRhdGV0aW1lLm5vdygpCgogICAgZ2VuZXJhdG9yX3BhcmFtcyA9IE5vbmUKICAgIGdlbmVyYXRvcl9jbGFzcyA9IGFyZ3MuZ2VuZXJhdG9yCgogICAgIyBpZiBhcmdzLmdlbmVyYXRvciA9PSAidnRrIjoKICAgICMgICAgIGltcG9ydCBnZW5fdnRrX3RyZWUKICAgICMgICAgIGdlbl92dGtfdHJlZS52dDJ2dGtfZmlsZShhcmdzLmlucHV0ZmlsZSwgYXJncy5vdXRwdXRmaWxlKQogICAgIyAgICAgcmV0dXJuCgogICAgdGcgPSBUcmVlQnVpbGRlcihnZW5lcmF0b3JfY2xhc3MsIGdlbmVyYXRvcl9wYXJhbXMpCiAgICB0Zy5pbXBvcnRGcm9tWWFtbChhcmdzLmlucHV0ZmlsZSkKICAgIHRnLnZveGVsc2l6ZV9tbSA9IGFyZ3Mudm94ZWxzaXplCiAgICB0Zy5zaGFwZSA9IGFyZ3MuZGF0YXNoYXBlCiAgICB0Zy51c2VfbGFyID0gYXJncy51c2VMYXIKICAgIGRhdGEzZCA9IHRnLmJ1aWxkVHJlZSgpCgogICAgbG9nZ2VyLmluZm8oIlRpbWVVc2VkOiIgKyBzdHIoZGF0ZXRpbWUubm93KCkgLSBzdGFydFRpbWUpKQogICAgIyB2b2x1bWVfcHggPSBzdW0oc3VtKHN1bShkYXRhM2QpKSkKICAgICMgdm9sdW1lX21tMyA9IHZvbHVtZV9weCAqIFwKICAgICMgICAgICh0Zy52b3hlbHNpemVfbW1bMF0gKiB0Zy52b3hlbHNpemVfbW1bMV0gKiB0Zy52b3hlbHNpemVfbW1bMl0pCiAgICAjIGxvZ2dlci5pbmZvKCJWb2x1bWUgcHg6IiArIHN0cih2b2x1bWVfcHgpKQogICAgIyBsb2dnZXIuaW5mbygiVm9sdW1lIG1tMzoiICsgc3RyKHZvbHVtZV9tbTMpKQoKICAgICMgdml6dWFsaXphY2UKICAgIGxvZ2dlci5kZWJ1ZygiYmVmb3JlIHZpc3VhbGl6YXRpb24iKQogICAgdGcuc2hvdygpCiAgICBsb2dnZXIuZGVidWcoImFmdGVyIHZpc3VhbGl6YXRpb24iKQoKICAgICMgdWtsw6Fkw6Fuw60gZG8gc291Ym9ydQogICAgaWYgYXJncy5vdXRwdXRmaWxlIGlzIG5vdCBOb25lOgogICAgICAgIHRnLnNhdmVUb0ZpbGUoYXJncy5vdXRwdXRmaWxlLCBhcmdzLm91dHB1dGZpbGV0eXBlKQoKCiMgY2xhc3MgVHJlZUdlbmVyYXRvcihUcmVlQ29uc3RydWN0b3IpOgojICAgICAiIiIKIyAgICAgYmFjayBjb21wYXRpYmlsaXR5CiMgICAgICIiIgojICAgICBwYXNzCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgbWFpbigpCg==</text>
@@ -1548,15 +1555,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsYWJlbFw+</last-search>
+      <last-search encoding="base64">XDxlbmREaXN0TXVsdGlwbGljYXRvclw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsYWJlbFw+</last-pattern>
+      <last-pattern encoding="base64">XDxlbmREaXN0TXVsdGlwbGljYXRvclw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtYWtlX2RhdGFcPg==</entry>
         <entry>imtools</entry>
         <entry encoding="base64">XDxib2x0em1hblw+</entry>
         <entry encoding="base64">XDxpbnRlbnNpdHlfbG9jYWxpemF0aW9uX2Z2XD4=</entry>
@@ -1576,6 +1582,7 @@
         <entry>skelet3d</entry>
         <entry encoding="base64">XDxkaXN0X3RvX3ZlY3RvcnNcPg==</entry>
         <entry encoding="base64">XDxsYWJlbFw+</entry>
+        <entry encoding="base64">XDxlbmREaXN0TXVsdGlwbGljYXRvclw+</entry>
       </history-search>
       <history-cmd>
         <entry>292</entry>
