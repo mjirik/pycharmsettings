@@ -417,6 +417,13 @@
         <mark key="^" line="2" column="11" />
         <mark key="." line="2" column="11" />
       </file>
+      <file name="$USER_HOME$/projects/teigen/teigen/tree.py" timestamp="1478209343488">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="223" column="0" />
+        <mark key="]" line="325" column="9" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/skelet3d/skelet3d/__init__.py" timestamp="1476174647500">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -798,6 +805,10 @@
         <mark key="]" line="51" column="37" />
         <mark key="." line="51" column="37" />
         <mark key="^" line="51" column="37" />
+      </file>
+      <file name="$USER_HOME$/projects/teigen/teigen/tb_lar_smooth.py" timestamp="1478209384038">
+        <mark key="[" line="176" column="0" />
+        <mark key="]" line="181" column="22" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1477307730828">
         <mark key="'" line="690" column="76" />
@@ -1361,6 +1372,12 @@
         <mark key="^" line="20" column="12" />
         <mark key="." line="20" column="12" />
       </file>
+      <file name="$USER_HOME$/projects/teigen/teigen/geometry.py" timestamp="1478209359374">
+        <mark key="[" line="16" column="15" />
+        <mark key="]" line="131" column="10" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="28" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/dicom2fem/dicom2fem/vtk2stl.py" timestamp="1448959466140">
         <mark key="[" line="22" column="23" />
         <mark key="]" line="22" column="23" />
@@ -1382,8 +1399,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="174" column="39" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
-      <jump line="0" column="13" filename="/Python Console" />
       <jump line="110" column="12" filename="$USER_HOME$/projects/imtools/imtools/sample_data.py" />
       <jump line="6" column="10" filename="$USER_HOME$/projects/imtools/imtools/sample_data.py" />
       <jump line="113" column="28" filename="$USER_HOME$/projects/imtools/imtools/sample_data.py" />
@@ -1482,49 +1497,51 @@
       <jump line="158" column="17" filename="$USER_HOME$/projects/imtools/imtools/show_segmentation.py" />
       <jump line="166" column="38" filename="$USER_HOME$/projects/imtools/imtools/show_segmentation.py" />
       <jump line="167" column="17" filename="$USER_HOME$/projects/imtools/imtools/show_segmentation.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/projects/teigen/teigen/tree.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/teigen/teigen/tree.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGlmIGxhYmVsIGlzIE5vbmU6CiAgICAgICBtYSA9IG5wLm1heChzZWdtZW50YXRpb24pCiAgICAgICBtaSA9IG5wLm1pbihzZWdtZW50YXRpb24pCiAgICAgICBtbiA9IChtYSArIG1pKSAqIDAuNQoKICAgICAgIHNlZ21lbnRhdGlvbiA9IHNlZ21lbnRhdGlvbiA+IG1uCg==</text>
+        <text encoding="base64">ZGVmIG1haW4oKToKICAgIGxvZ2dpbmcuYmFzaWNDb25maWcoKQogICAgbG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoKQogICAgbG9nZ2VyLnNldExldmVsKGxvZ2dpbmcuV0FSTklORykKCiAgICAjIGlucHV0IHBhcnNlcgogICAgcGFyc2VyID0gYXJncGFyc2UuQXJndW1lbnRQYXJzZXIoCiAgICAgICAgZGVzY3JpcHRpb249J0hpc3RvbG9neSBhbmFseXNlciByZXBvcnRlci4gVHJ5OiBcCnB5dGhvbiBzcmMvdGJfdm9sdW1lLnB5IC1pIC4vdGVzdHMvaGlzdF9zdGF0c190ZXN0LnlhbWwnCiAgICApCiAgICBwYXJzZXIuYWRkX2FyZ3VtZW50KAogICAgICAgICctaScsICctLWlucHV0ZmlsZScsCiAgICAgICAgZGVmYXVsdD1Ob25lLAogICAgICAgIHJlcXVpcmVkPVRydWUsCiAgICAgICAgaGVscD0naW5wdXQgZmlsZSwgeWFtbCBmaWxlJwogICAgKQogICAgcGFyc2VyLmFkZF9hcmd1bWVudCgKICAgICAgICAnLW8nLCAnLS1vdXRwdXRmaWxlJywKICAgICAgICBkZWZhdWx0PU5vbmUsCiAgICAgICAgaGVscD0nb3V0cHV0IGZpbGUsIC5yYXcsIC5kY20sIC50aWZmLCBnaXZlbiBieSBleHRlbnNpb24gJwogICAgKQogICAgcGFyc2VyLmFkZF9hcmd1bWVudCgKICAgICAgICAnLW90JywgJy0tb3V0cHV0ZmlsZXR5cGUnLAogICAgICAgIGRlZmF1bHQ9J3BrbCcsCiAgICAgICAgaGVscD0nb3V0cHV0IGZpbGUgdHlwZS4gIHJhdywgZGNtLCB0aWZmLCBvciBwa2wsICAgZGVmYXVsdCBpcyBwa2wsICcKICAgICkKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoCiAgICAgICAgJy12cycsICctLXZveGVsc2l6ZScsCiAgICAgICAgZGVmYXVsdD1bMS4wLCAxLjAsIDEuMF0sCiAgICAgICAgdHlwZT1mbG9hdCwKICAgICAgICBtZXRhdmFyPSdOJywKICAgICAgICBuYXJncz0nKycsCiAgICAgICAgaGVscD0nc2l6ZSBvZiB2b3hlbCAoWllYKScKICAgICkKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoCiAgICAgICAgJy1kcycsICctLWRhdGFzaGFwZScsCiAgICAgICAgZGVmYXVsdD1bMjAwLCAyMDAsIDIwMF0sCiAgICAgICAgdHlwZT1pbnQsCiAgICAgICAgbWV0YXZhcj0nTicsCiAgICAgICAgbmFyZ3M9JysnLAogICAgICAgIGhlbHA9J3NpemUgb2Ygb3V0cHV0IGRhdGEgaW4gcGl4ZWxzIGZvciBlYWNoIGF4aXMgKFpZWCknCiAgICApCiAgICBwYXJzZXIuYWRkX2FyZ3VtZW50KAogICAgICAgICctZycsICctLWdlbmVyYXRvcicsCiAgICAgICAgZGVmYXVsdD0ndm9sJywKICAgICAgICB0eXBlPXN0ciwKICAgICAgICBoZWxwPSdWb2x1bWUgb3Igc3VyZmFjZSBtb2RlbCBjYW4gYmUgZ2VuZXJhdGVkIGJ5IHVzZSB0aGlzIG9wdGlvbi4gXAogICAgICAgICAgICAgICAgVXNlICJ2b2wiLCAidm9sdW1lIiBmb3Igdm9sdW1ldHJpYyBtb2RlbC4gRm9yIExBUiBzdXJmYWNlIG1vZGVsXAogICAgICAgICAgICAgICAgdXNlICJsYXIiLiBGb3IgVlRLIGZpbGUgdXNlICJ2dGsiLicKICAgICkKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoCiAgICAgICAgJy1kJywgJy0tZGVidWcnLCBhY3Rpb249J3N0b3JlX3RydWUnLAogICAgICAgIGhlbHA9J0RlYnVnIG1vZGUnKQogICAgcGFyc2VyLmFkZF9hcmd1bWVudCgKICAgICAgICAnLWwnLCAnLS11c2VMYXInLCBhY3Rpb249J3N0b3JlX3RydWUnLAogICAgICAgIGhlbHA9J1VzZSBMQVInKQogICAgYXJncyA9IHBhcnNlci5wYXJzZV9hcmdzKCkKCiAgICBpZiBhcmdzLmRlYnVnOgogICAgICAgIGxvZ2dlci5zZXRMZXZlbChsb2dnaW5nLkRFQlVHKQoKICAgIHN0YXJ0VGltZSA9IGRhdGV0aW1lLm5vdygpCgogICAgZ2VuZXJhdG9yX3BhcmFtcyA9IE5vbmUKICAgIGdlbmVyYXRvcl9jbGFzcyA9IGFyZ3MuZ2VuZXJhdG9yCgogICAgIyBpZiBhcmdzLmdlbmVyYXRvciA9PSAidnRrIjoKICAgICMgICAgIGltcG9ydCBnZW5fdnRrX3RyZWUKICAgICMgICAgIGdlbl92dGtfdHJlZS52dDJ2dGtfZmlsZShhcmdzLmlucHV0ZmlsZSwgYXJncy5vdXRwdXRmaWxlKQogICAgIyAgICAgcmV0dXJuCgogICAgdGcgPSBUcmVlQnVpbGRlcihnZW5lcmF0b3JfY2xhc3MsIGdlbmVyYXRvcl9wYXJhbXMpCiAgICB0Zy5pbXBvcnRGcm9tWWFtbChhcmdzLmlucHV0ZmlsZSkKICAgIHRnLnZveGVsc2l6ZV9tbSA9IGFyZ3Mudm94ZWxzaXplCiAgICB0Zy5zaGFwZSA9IGFyZ3MuZGF0YXNoYXBlCiAgICB0Zy51c2VfbGFyID0gYXJncy51c2VMYXIKICAgIGRhdGEzZCA9IHRnLmJ1aWxkVHJlZSgpCgogICAgbG9nZ2VyLmluZm8oIlRpbWVVc2VkOiIgKyBzdHIoZGF0ZXRpbWUubm93KCkgLSBzdGFydFRpbWUpKQogICAgIyB2b2x1bWVfcHggPSBzdW0oc3VtKHN1bShkYXRhM2QpKSkKICAgICMgdm9sdW1lX21tMyA9IHZvbHVtZV9weCAqIFwKICAgICMgICAgICh0Zy52b3hlbHNpemVfbW1bMF0gKiB0Zy52b3hlbHNpemVfbW1bMV0gKiB0Zy52b3hlbHNpemVfbW1bMl0pCiAgICAjIGxvZ2dlci5pbmZvKCJWb2x1bWUgcHg6IiArIHN0cih2b2x1bWVfcHgpKQogICAgIyBsb2dnZXIuaW5mbygiVm9sdW1lIG1tMzoiICsgc3RyKHZvbHVtZV9tbTMpKQoKICAgICMgdml6dWFsaXphY2UKICAgIGxvZ2dlci5kZWJ1ZygiYmVmb3JlIHZpc3VhbGl6YXRpb24iKQogICAgdGcuc2hvdygpCiAgICBsb2dnZXIuZGVidWcoImFmdGVyIHZpc3VhbGl6YXRpb24iKQoKICAgICMgdWtsw6Fkw6Fuw60gZG8gc291Ym9ydQogICAgaWYgYXJncy5vdXRwdXRmaWxlIGlzIG5vdCBOb25lOgogICAgICAgIHRnLnNhdmVUb0ZpbGUoYXJncy5vdXRwdXRmaWxlLCBhcmdzLm91dHB1dGZpbGV0eXBlKQoKCiMgY2xhc3MgVHJlZUdlbmVyYXRvcihUcmVlQ29uc3RydWN0b3IpOgojICAgICAiIiIKIyAgICAgYmFjayBjb21wYXRpYmlsaXR5CiMgICAgICIiIgojICAgICBwYXNzCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgbWFpbigpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>$segmentation.dtype != np.bool:</text>
+        <text>#! /usr/bin/env python</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsYWJlbFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgaWYgc2VnbWVudGF0aW9uLmR0eXBlICE9IG5wLmJvb2w6Cg==</text>
+        <text encoding="base64">ZGVmIG1haW4oKToKICAgIGxvZ2dpbmcuYmFzaWNDb25maWcoKQogICAgbG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoKQogICAgbG9nZ2VyLnNldExldmVsKGxvZ2dpbmcuV0FSTklORykKCiAgICAjIGlucHV0IHBhcnNlcgogICAgcGFyc2VyID0gYXJncGFyc2UuQXJndW1lbnRQYXJzZXIoCiAgICAgICAgZGVzY3JpcHRpb249J0hpc3RvbG9neSBhbmFseXNlciByZXBvcnRlci4gVHJ5OiBcCnB5dGhvbiBzcmMvdGJfdm9sdW1lLnB5IC1pIC4vdGVzdHMvaGlzdF9zdGF0c190ZXN0LnlhbWwnCiAgICApCiAgICBwYXJzZXIuYWRkX2FyZ3VtZW50KAogICAgICAgICctaScsICctLWlucHV0ZmlsZScsCiAgICAgICAgZGVmYXVsdD1Ob25lLAogICAgICAgIHJlcXVpcmVkPVRydWUsCiAgICAgICAgaGVscD0naW5wdXQgZmlsZSwgeWFtbCBmaWxlJwogICAgKQogICAgcGFyc2VyLmFkZF9hcmd1bWVudCgKICAgICAgICAnLW8nLCAnLS1vdXRwdXRmaWxlJywKICAgICAgICBkZWZhdWx0PU5vbmUsCiAgICAgICAgaGVscD0nb3V0cHV0IGZpbGUsIC5yYXcsIC5kY20sIC50aWZmLCBnaXZlbiBieSBleHRlbnNpb24gJwogICAgKQogICAgcGFyc2VyLmFkZF9hcmd1bWVudCgKICAgICAgICAnLW90JywgJy0tb3V0cHV0ZmlsZXR5cGUnLAogICAgICAgIGRlZmF1bHQ9J3BrbCcsCiAgICAgICAgaGVscD0nb3V0cHV0IGZpbGUgdHlwZS4gIHJhdywgZGNtLCB0aWZmLCBvciBwa2wsICAgZGVmYXVsdCBpcyBwa2wsICcKICAgICkKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoCiAgICAgICAgJy12cycsICctLXZveGVsc2l6ZScsCiAgICAgICAgZGVmYXVsdD1bMS4wLCAxLjAsIDEuMF0sCiAgICAgICAgdHlwZT1mbG9hdCwKICAgICAgICBtZXRhdmFyPSdOJywKICAgICAgICBuYXJncz0nKycsCiAgICAgICAgaGVscD0nc2l6ZSBvZiB2b3hlbCAoWllYKScKICAgICkKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoCiAgICAgICAgJy1kcycsICctLWRhdGFzaGFwZScsCiAgICAgICAgZGVmYXVsdD1bMjAwLCAyMDAsIDIwMF0sCiAgICAgICAgdHlwZT1pbnQsCiAgICAgICAgbWV0YXZhcj0nTicsCiAgICAgICAgbmFyZ3M9JysnLAogICAgICAgIGhlbHA9J3NpemUgb2Ygb3V0cHV0IGRhdGEgaW4gcGl4ZWxzIGZvciBlYWNoIGF4aXMgKFpZWCknCiAgICApCiAgICBwYXJzZXIuYWRkX2FyZ3VtZW50KAogICAgICAgICctZycsICctLWdlbmVyYXRvcicsCiAgICAgICAgZGVmYXVsdD0ndm9sJywKICAgICAgICB0eXBlPXN0ciwKICAgICAgICBoZWxwPSdWb2x1bWUgb3Igc3VyZmFjZSBtb2RlbCBjYW4gYmUgZ2VuZXJhdGVkIGJ5IHVzZSB0aGlzIG9wdGlvbi4gXAogICAgICAgICAgICAgICAgVXNlICJ2b2wiLCAidm9sdW1lIiBmb3Igdm9sdW1ldHJpYyBtb2RlbC4gRm9yIExBUiBzdXJmYWNlIG1vZGVsXAogICAgICAgICAgICAgICAgdXNlICJsYXIiLiBGb3IgVlRLIGZpbGUgdXNlICJ2dGsiLicKICAgICkKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoCiAgICAgICAgJy1kJywgJy0tZGVidWcnLCBhY3Rpb249J3N0b3JlX3RydWUnLAogICAgICAgIGhlbHA9J0RlYnVnIG1vZGUnKQogICAgcGFyc2VyLmFkZF9hcmd1bWVudCgKICAgICAgICAnLWwnLCAnLS11c2VMYXInLCBhY3Rpb249J3N0b3JlX3RydWUnLAogICAgICAgIGhlbHA9J1VzZSBMQVInKQogICAgYXJncyA9IHBhcnNlci5wYXJzZV9hcmdzKCkKCiAgICBpZiBhcmdzLmRlYnVnOgogICAgICAgIGxvZ2dlci5zZXRMZXZlbChsb2dnaW5nLkRFQlVHKQoKICAgIHN0YXJ0VGltZSA9IGRhdGV0aW1lLm5vdygpCgogICAgZ2VuZXJhdG9yX3BhcmFtcyA9IE5vbmUKICAgIGdlbmVyYXRvcl9jbGFzcyA9IGFyZ3MuZ2VuZXJhdG9yCgogICAgIyBpZiBhcmdzLmdlbmVyYXRvciA9PSAidnRrIjoKICAgICMgICAgIGltcG9ydCBnZW5fdnRrX3RyZWUKICAgICMgICAgIGdlbl92dGtfdHJlZS52dDJ2dGtfZmlsZShhcmdzLmlucHV0ZmlsZSwgYXJncy5vdXRwdXRmaWxlKQogICAgIyAgICAgcmV0dXJuCgogICAgdGcgPSBUcmVlQnVpbGRlcihnZW5lcmF0b3JfY2xhc3MsIGdlbmVyYXRvcl9wYXJhbXMpCiAgICB0Zy5pbXBvcnRGcm9tWWFtbChhcmdzLmlucHV0ZmlsZSkKICAgIHRnLnZveGVsc2l6ZV9tbSA9IGFyZ3Mudm94ZWxzaXplCiAgICB0Zy5zaGFwZSA9IGFyZ3MuZGF0YXNoYXBlCiAgICB0Zy51c2VfbGFyID0gYXJncy51c2VMYXIKICAgIGRhdGEzZCA9IHRnLmJ1aWxkVHJlZSgpCgogICAgbG9nZ2VyLmluZm8oIlRpbWVVc2VkOiIgKyBzdHIoZGF0ZXRpbWUubm93KCkgLSBzdGFydFRpbWUpKQogICAgIyB2b2x1bWVfcHggPSBzdW0oc3VtKHN1bShkYXRhM2QpKSkKICAgICMgdm9sdW1lX21tMyA9IHZvbHVtZV9weCAqIFwKICAgICMgICAgICh0Zy52b3hlbHNpemVfbW1bMF0gKiB0Zy52b3hlbHNpemVfbW1bMV0gKiB0Zy52b3hlbHNpemVfbW1bMl0pCiAgICAjIGxvZ2dlci5pbmZvKCJWb2x1bWUgcHg6IiArIHN0cih2b2x1bWVfcHgpKQogICAgIyBsb2dnZXIuaW5mbygiVm9sdW1lIG1tMzoiICsgc3RyKHZvbHVtZV9tbTMpKQoKICAgICMgdml6dWFsaXphY2UKICAgIGxvZ2dlci5kZWJ1ZygiYmVmb3JlIHZpc3VhbGl6YXRpb24iKQogICAgdGcuc2hvdygpCiAgICBsb2dnZXIuZGVidWcoImFmdGVyIHZpc3VhbGl6YXRpb24iKQoKICAgICMgdWtsw6Fkw6Fuw60gZG8gc291Ym9ydQogICAgaWYgYXJncy5vdXRwdXRmaWxlIGlzIG5vdCBOb25lOgogICAgICAgIHRnLnNhdmVUb0ZpbGUoYXJncy5vdXRwdXRmaWxlLCBhcmdzLm91dHB1dGZpbGV0eXBlKQoKCiMgY2xhc3MgVHJlZUdlbmVyYXRvcihUcmVlQ29uc3RydWN0b3IpOgojICAgICAiIiIKIyAgICAgYmFjayBjb21wYXRpYmlsaXR5CiMgICAgICIiIgojICAgICBwYXNzCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgbWFpbigpCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmIGxhYmVsIGlzIE5vbmU6CiAgICAgICBtYSA9IG5wLm1heChzZWdtZW50YXRpb24pCiAgICAgICBtaSA9IG5wLm1pbihzZWdtZW50YXRpb24pCiAgICAgICBtbiA9IChtYSArIG1pKSAqIDAuNQoKICAgICAgIHNlZ21lbnRhdGlvbiA9IHNlZ21lbnRhdGlvbiA+IG1uCg==</text>
+      <register name="1" type="4">
+        <text>#! /usr/bin/env python</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>$segmentation.dtype != np.bool:</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGlmIGxhYmVsIGlzIE5vbmU6CiAgICAgICBtYSA9IG5wLm1heChzZWdtZW50YXRpb24pCiAgICAgICBtaSA9IG5wLm1pbihzZWdtZW50YXRpb24pCiAgICAgICBtbiA9IChtYSArIG1pKSAqIDAuNQoKICAgICAgIHNlZ21lbnRhdGlvbiA9IHNlZ21lbnRhdGlvbiA+IG1uCg==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+        <text>$segmentation.dtype != np.bool:</text>
       </register>
       <register name="4" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="5" type="4">
         <text>n</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBlbHNlOgogICAgICAgICAgICBmb3JtYXRlZCA9ICI8Yj4iICsgc3RyKGR0WzBdKSArICI8L2I+PGJyPjwvYnI+IiArIHN0cihkdFsxXSkgKyAiPGJyPjwvYnI+IiArIGVpc3VtbWFyeQo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZm9ybWF0ZWQgPSAiPGI+IiArIHN0cihkdFswXSkgKyAiPC9iPjxicj48L2JyPiIgKyBzdHIoZHRbMV0pICsgIjxicj48L2JyPiIgKyBlaXN1bW1hcnkK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLm1ldmVudHMgPSBwYXJzZV90ZXh0KHRleHQpCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZXZlbnRzCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmIHBhcnNlX3RleHQodGV4dCk6Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZXZlbnRzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
