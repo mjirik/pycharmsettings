@@ -532,11 +532,11 @@
         <mark key="^" line="46" column="25" />
         <mark key="." line="46" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/generators/cylinders.py" timestamp="1478252532021">
-        <mark key="[" line="82" column="63" />
-        <mark key="]" line="82" column="62" />
-        <mark key="." line="82" column="62" />
-        <mark key="^" line="82" column="62" />
+      <file name="$USER_HOME$/projects/teigen/teigen/generators/cylinders.py" timestamp="1478253372537">
+        <mark key="[" line="90" column="42" />
+        <mark key="]" line="90" column="55" />
+        <mark key="." line="90" column="55" />
+        <mark key="^" line="90" column="55" />
       </file>
       <file name="$USER_HOME$/projects/lisa/applications/lisa_gui" timestamp="1464115022342">
         <mark key="[" line="1" column="47" />
@@ -1545,10 +1545,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>add_cylinder</text>
+        <text>*two_points_id</text>
       </register>
       <register name="-" type="4">
-        <text>add_cylinder</text>
+        <text>*two_points_id</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmREaXN0TXVsdGlwbGljYXRvclw+</text>
@@ -1556,35 +1556,36 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRlZiBhZGRfY3lsaW5kZXIoc2VsZiwgbm9kZUEsIG5vZGVCLCByYWRpdXMsIGN5bGluZGVyX2lkKToK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlZiBfcHJvY2Vzc19jeWxpbmRlcl9jYW5kaWRhdGUoc2VsZiwgbm9kZUEsIG5vZGVCKTogIywgcmFkaXVzLCBjeWxpbmRlcl9pZCk6Cg==</text>
+      <register name="1" type="8">
+        <text>vor3.vertices[two_points_id[0]]
+vor3.vertices[two_points_id[1]]</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIyAibm9kZUFfWllYX21tIjogdm9yMy52ZXJ0aWNlc1tzaW1wbGV4XSwKICAgICAgICAgICAgICAgICAgICAgICAgIyAibm9kZUJfWllYX21tIjogdm9yMy52ZXJ0aWNlc1tzaW1wbGV4XSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBydW4oKQo=</text>
+        <text encoding="base64">ICAgIGRlZiBfcHJvY2Vzc19jeWxpbmRlcl9jYW5kaWRhdGUoc2VsZiwgbm9kZUEsIG5vZGVCKTogIywgcmFkaXVzLCBjeWxpbmRlcl9pZCk6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBlbGVtZW50X251bWJlciA9IDgwCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICBydW4oKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnVpbGQoKQo=</text>
+        <text encoding="base64">ICAgICAgICBlbGVtZW50X251bWJlciA9IDgwCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnVpbGQoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
