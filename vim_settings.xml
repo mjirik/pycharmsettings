@@ -532,11 +532,11 @@
         <mark key="^" line="46" column="25" />
         <mark key="." line="46" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/generators/cylinders.py" timestamp="1478253372537">
-        <mark key="[" line="90" column="42" />
-        <mark key="]" line="90" column="55" />
-        <mark key="." line="90" column="55" />
-        <mark key="^" line="90" column="55" />
+      <file name="$USER_HOME$/projects/teigen/teigen/generators/cylinders.py" timestamp="1478255477911">
+        <mark key="[" line="91" column="41" />
+        <mark key="]" line="91" column="41" />
+        <mark key="." line="91" column="41" />
+        <mark key="^" line="138" column="38" />
       </file>
       <file name="$USER_HOME$/projects/lisa/applications/lisa_gui" timestamp="1464115022342">
         <mark key="[" line="1" column="47" />
@@ -718,12 +718,12 @@
         <mark key="^" line="45" column="10" />
         <mark key="." line="45" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/tests/tube_tree_test.py" timestamp="1478250677623">
-        <mark key="'" line="187" column="4" />
-        <mark key="[" line="180" column="32" />
-        <mark key="]" line="116" column="25" />
-        <mark key="." line="116" column="25" />
-        <mark key="^" line="116" column="25" />
+      <file name="$USER_HOME$/projects/teigen/tests/tube_tree_test.py" timestamp="1478255464599">
+        <mark key="'" line="191" column="4" />
+        <mark key="[" line="188" column="0" />
+        <mark key="]" line="188" column="0" />
+        <mark key="." line="188" column="0" />
+        <mark key="^" line="114" column="15" />
       </file>
       <file name="$USER_HOME$/projects/io3d/tests/datawriter_test.py" timestamp="1475921527505">
         <mark key="a" line="185" column="36" />
@@ -918,7 +918,7 @@
         <mark key="^" line="202" column="30" />
         <mark key="." line="203" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1478252546752">
+      <file name="/Python Console" timestamp="1478255482173">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="16" />
         <mark key="^" line="0" column="16" />
@@ -1545,47 +1545,47 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>*two_points_id</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>*two_points_id</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmREaXN0TXVsdGlwbGljYXRvclw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiBhZGRfY3lsaW5kZXIoc2VsZiwgbm9kZUEsIG5vZGVCLCByYWRpdXMsIGN5bGluZGVyX2lkKToK</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X3RyZWVfZ2VuZXJhdG9yKHNlbGYpOgo=</text>
       </register>
-      <register name="1" type="8">
-        <text>vor3.vertices[two_points_id[0]]
-vor3.vertices[two_points_id[1]]</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGlmIHNlbGYuc2hvdzoKICAgICAgICBpbXBvcnQgaW10b29scwogICAgICAgIGltcG9ydCBpbXRvb2xzLnNobwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIyAibm9kZUFfWllYX21tIjogdm9yMy52ZXJ0aWNlc1tzaW1wbGV4XSwKICAgICAgICAgICAgICAgICAgICAgICAgIyAibm9kZUJfWllYX21tIjogdm9yMy52ZXJ0aWNlc1tzaW1wbGV4XSwK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZiBfcHJvY2Vzc19jeWxpbmRlcl9jYW5kaWRhdGUoc2VsZiwgbm9kZUEsIG5vZGVCKTogIywgcmFkaXVzLCBjeWxpbmRlcl9pZCk6Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBydW4oKQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlbGVtZW50X251bWJlciA9IDgwCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
+      <register name="3" type="8">
+        <text>vor3.vertices[two_points_id[0]]
+vor3.vertices[two_points_id[1]]</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIyAibm9kZUFfWllYX21tIjogdm9yMy52ZXJ0aWNlc1tzaW1wbGV4XSwKICAgICAgICAgICAgICAgICAgICAgICAgIyAibm9kZUJfWllYX21tIjogdm9yMy52ZXJ0aWNlc1tzaW1wbGV4XSwK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGRlZiBfcHJvY2Vzc19jeWxpbmRlcl9jYW5kaWRhdGUoc2VsZiwgbm9kZUEsIG5vZGVCKTogIywgcmFkaXVzLCBjeWxpbmRlcl9pZCk6Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBydW4oKQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnVpbGQoKQo=</text>
+        <text encoding="base64">ICAgICAgICBlbGVtZW50X251bWJlciA9IDgwCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1622,9 +1622,6 @@ vor3.vertices[two_points_id[1]]</text>
         <entry>filter</entry>
       </history-search>
       <history-cmd>
-        <entry>W</entry>
-        <entry>179</entry>
-        <entry>195</entry>
         <entry>62</entry>
         <entry>528</entry>
         <entry>582</entry>
@@ -1641,6 +1638,9 @@ vor3.vertices[two_points_id[1]]</text>
         <entry>283</entry>
         <entry>155</entry>
         <entry>107</entry>
+        <entry>132</entry>
+        <entry>85</entry>
+        <entry>137</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
