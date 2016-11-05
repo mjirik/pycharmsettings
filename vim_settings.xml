@@ -309,13 +309,13 @@
         <mark key="." line="203" column="11" />
         <mark key="^" line="203" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/imtools/imtools/show_segmentation_qt.py" timestamp="1478361846093">
-        <mark key="a" line="68" column="22" />
-        <mark key="'" line="18" column="17" />
-        <mark key="[" line="103" column="78" />
-        <mark key="]" line="105" column="66" />
-        <mark key="." line="105" column="66" />
-        <mark key="^" line="105" column="66" />
+      <file name="$USER_HOME$/projects/imtools/imtools/show_segmentation_qt.py" timestamp="1478379759945">
+        <mark key="a" line="81" column="0" />
+        <mark key="'" line="104" column="8" />
+        <mark key="[" line="150" column="44" />
+        <mark key="]" line="151" column="30" />
+        <mark key="." line="151" column="30" />
+        <mark key="^" line="151" column="30" />
       </file>
       <file name="$USER_HOME$/projects/lisa/INSTALL.md" timestamp="1448570601058">
         <mark key="[" line="53" column="67" />
@@ -675,12 +675,12 @@
         <mark key="^" line="588" column="1" />
         <mark key="." line="588" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/imtools/imtools/show_segmentation.py" timestamp="1478350990152">
+      <file name="$USER_HOME$/projects/imtools/imtools/show_segmentation.py" timestamp="1478379114475">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="178" column="0" />
-        <mark key="]" line="178" column="58" />
-        <mark key="." line="41" column="22" />
-        <mark key="^" line="41" column="22" />
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="100" column="19" />
+        <mark key="." line="99" column="0" />
+        <mark key="^" line="96" column="11" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/organ_model.py" timestamp="1477324015000">
         <mark key="'" line="26" column="7" />
@@ -1441,13 +1441,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/projects/lisa/tests/dcmreaddata_test.py" />
-      <jump line="262" column="20" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
-      <jump line="202" column="23" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
-      <jump line="252" column="68" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
-      <jump line="319" column="32" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
-      <jump line="352" column="8" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
-      <jump line="241" column="8" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
       <jump line="366" column="15" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
       <jump line="346" column="35" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
       <jump line="345" column="30" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
@@ -1541,66 +1534,70 @@
       <jump line="66" column="0" filename="$USER_HOME$/projects/imtools/imtools/show_segmentation_qt.py" />
       <jump line="18" column="17" filename="$USER_HOME$/projects/imtools/imtools/show_segmentation_qt.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="138" column="19" filename="$USER_HOME$/projects/imtools/imtools/show_segmentation_qt.py" />
+      <jump line="294" column="16" filename="$USER_HOME$/projects/imtools/imtools/show_segmentation_qt.py" />
+      <jump line="23" column="35" filename="$USER_HOME$/projects/imtools/imtools/show_segmentation_qt.py" />
+      <jump line="80" column="0" filename="$USER_HOME$/projects/imtools/imtools/show_segmentation_qt.py" />
+      <jump line="22" column="9" filename="$USER_HOME$/projects/imtools/imtools/show_segmentation_qt.py" />
+      <jump line="137" column="14" filename="$USER_HOME$/projects/imtools/imtools/show_segmentation_qt.py" />
+      <jump line="104" column="8" filename="$USER_HOME$/projects/imtools/imtools/show_segmentation_qt.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">a2lkbmV5IA==</text>
+        <text>vtk_file</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">a2lkbmV5IA==</text>
+        <text>vtk_file</text>
       </register>
       <register name="/" type="4">
-        <text>update_parameters</text>
+        <text encoding="base64">XDxhY3Rpb25fdWlfcGFyYW1zXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">IFF0Q29yZS5RdC5DaGVja2Vk</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgdnRrdmlld2VyCiAgICAgICAgdnRrdiA9IHZ0a3ZpZXdlci5WVEtWaWV3ZXIoKQogICAgICAgIHZ0a3YuQWRkRmlsZSh2dGtfZmlsZSkKICAgICAgICB2dGt2LlN0YXJ0KCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgUHlRdDQuUXRDb3JlCg==</text>
+        <text encoding="base64">ICAgICAgICB2dGt2LmlyZW4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CgogICAgICAgICMgc2VsZi5pbml0TGFiZWxzKCkKICAgICAgICAjIGxibFNlZ1R5cGUgPSBRTGFiZWwoJ0Nob29zZSB0eXBlIG9mIHNlZ21lbnRhdGlvbicpCiAgICAgICAgIyBzZWxmLm1haW5MYXlvdXQuYWRkV2lkZ2V0KGxibFNlZ1R5cGUsIDUsIDEsIDEsIDYpCiAgICAgICAgIyBzZWxmLmluaXRDb25maWdzKCkKCiAgICAgICAgIyBzZWxmLmxibFNlZ0Vycm9yID0gUUxhYmVsKCkKICAgICAgICAjIHNlbGYubGJsU2VnRXJyb3Iuc2V0U3R5bGVTaGVldCgiY29sb3I6IHJlZDsiKTsKICAgICAgICAjIHNlbGYubWFpbkxheW91dC5hZGRXaWRnZXQoc2VsZi5sYmxTZWdFcnJvciwgMTAsIDEsIDEsIDYpCgogICAgICAgICMgbGJsU2VnQ29uZmlnQkVUQSA9IFFMYWJlbCgnQ2hvb3NlIGNvbmZpZ3VyZSAoYmV0YSknKQogICAgICAgICMgc2VsZi5tYWluTGF5b3V0LmFkZFdpZGdldChsYmxTZWdDb25maWdCRVRBLCAxMSwgMSwgMSwgNikKICAgICAgICAjIHNlbGYuaW5pdExhYmVsc0F1dG8oKQo=</text>
+        <text encoding="base64">ICAgIGlmIHF0X2FwcCBpcyBOb25lOgogICAgICAgIHF0X2FwcCA9IFFBcHBsaWNhdGlvbihzeXMuYXJndikKICAgICAgICBsb2dnZXIuZGVidWcoInFhcHAgY29uc3RydWN0ZWQiKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aXRlbVZhbHVlID0gUXRXaWRnZXRzLlFMaW5lRWRpdCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBxdyA9IFF0R3VpLlFXaWRnZXQoc2VsZikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBkZWYgY29uZmlnRXZlbnQoc2VsZiwgZXZlbnQpOgogICAgICAgIGlkID0gc2VsZi5ncm91cC5jaGVja2VkSWQoKQogICAgICAgIHNlbGYubGJsU2VnRXJyb3Iuc2V0VGV4dCgiIikKICAgICAgICBpZiBpZCA9PSAxOgogICAgICAgICAgICBzZWxmLm9zZWcudXBkYXRlX3BhcmFtZXRlcnNfYmFzZWRfb25fbGFiZWwoImxhYmVsIGhlYXJ0aCIpCiAgICAgICAgICAgIHNlbGYuZW5hYmxlU2VnVHlwZSgpCiAgICAgICAgZWxpZiBpZCA9PSAyOgogICAgICAgICAgICBzZWxmLm9zZWcudXBkYXRlX3BhcmFtZXRlcnNfYmFzZWRfb25fbGFiZWwoImxhYmVsIGtpZG5leSBMIikKICAgICAgICAgICAgc2VsZi5lbmFibGVTZWdUeXBlKCkKICAgICAgICBlbGlmIGlkID09IDM6CiAgICAgICAgICAgIHNlbGYub3NlZy51cGRhdGVfcGFyYW1ldGVyc19iYXNlZF9vbl9sYWJlbCgibGFiZWwga2lkbmV5IFIiKQogICAgICAgICAgICBzZWxmLmVuYWJsZVNlZ1R5cGUoKQogICAgICAgIGVsaWYgaWQgPT0gNDoKICAgICAgICAgICAgc2VsZi5vc2VnLnVwZGF0ZV9wYXJhbWV0ZXJzX2Jhc2VkX29uX2xhYmVsKCJsYWJlbCBsaXZlciIpCiAgICAgICAgICAgIHNlbGYuZW5hYmxlU2VnVHlwZSgpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgc2VsZi5sYmxTZWdFcnJvci5zZXRUZXh0KCJVbmtub3duIGVycm9yOiBDb25maWcgaGF2ZSBub3QgYmVlbiBzZXQuIikKICAgICAgICAgICAgc2VsZi5kaXNhYmxlU2VnVHlwZSgpCgogICAgZGVmIGVuYWJsZVNlZ1R5cGUoc2VsZik6CiAgICAgICAgc2VsZi5idG5TZWdNYW51YWwuc2V0RGlzYWJsZWQoRmFsc2UpCiAgICAgICAgc2VsZi5idG5TZWdTZW1pQXV0by5zZXREaXNhYmxlZChGYWxzZSkKICAgICAgICBzZWxmLmJ0blNlZ01hc2suc2V0RGlzYWJsZWQoRmFsc2UpCiAgICAgICAgc2VsZi5idG5TZWdQVi5zZXREaXNhYmxlZChGYWxzZSkKICAgICAgICBzZWxmLmJ0blNlZ0hWLnNldERpc2FibGVkKEZhbHNlKQoKICAgIGRlZiBkaXNhYmxlU2VnVHlwZShzZWxmKToKICAgICAgICBzZWxmLmJ0blNlZ01hbnVhbC5zZXREaXNhYmxlZChUcnVlKQogICAgICAgIHNlbGYuYnRuU2VnU2VtaUF1dG8uc2V0RGlzYWJsZWQoVHJ1ZSkKICAgICAgICBzZWxmLmJ0blNlZ01hc2suc2V0RGlzYWJsZWQoVHJ1ZSkKICAgICAgICBzZWxmLmJ0blNlZ1BWLnNldERpc2FibGVkKFRydWUpCiAgICAgICAgc2VsZi5idG5TZWdIVi5zZXREaXNhYmxlZChUcnVlKQoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm1haW5MYXlvdXQuYWRkV2lkZ2V0KHNlbGYudWlfYnV0dG9uc1snU2hvdyddLCBzZWxmLl9yb3csIDEsIDEsIDYpCg==</text>
+        <text encoding="base64">ICAgIGRlZiBpbml0Q29uZmlncyhzZWxmKToKICAgICAgICBzZWxmLmJ0blNlZ01hbnVhbCA9IFFQdXNoQnV0dG9uKCJNYW51YWwiLCBzZWxmKQogICAgICAgICMgYnRuU2VnTWFudWFsLmNsaWNrZWQuY29ubmVjdChzZWxmLmJ0bk1hbnVhbFNlZykKICAgICAgICBzZWxmLm1haW5MYXlvdXQuYWRkV2lkZ2V0KHNlbGYuYnRuU2VnTWFudWFsLCA2LCAxKQoKICAgICAgICBzZWxmLmJ0blNlZ1NlbWlBdXRvID0gUVB1c2hCdXR0b24oIlNlbWktYXV0b21hdGljIiwgc2VsZikKICAgICAgICAjIGJ0blNlZ1NlbWlBdXRvLmNsaWNrZWQuY29ubmVjdChzZWxmLmJ0blNlbWlhdXRvU2VnKQogICAgICAgIHNlbGYubWFpbkxheW91dC5hZGRXaWRnZXQoc2VsZi5idG5TZWdTZW1pQXV0bywgNiwgMikKCiAgICAgICAgc2VsZi5idG5TZWdNYXNrID0gUVB1c2hCdXR0b24oIk1hc2siLCBzZWxmKQogICAgICAgICMgYnRuU2VnTWFzay5jbGlja2VkLmNvbm5lY3Qoc2VsZi5tYXNrUmVnaW9uKQogICAgICAgIHNlbGYubWFpbkxheW91dC5hZGRXaWRnZXQoc2VsZi5idG5TZWdNYXNrLCA2LCAzKQoKICAgICAgICBzZWxmLmJ0blNlZ1BWID0gUVB1c2hCdXR0b24oIlBvcnRhbCBWZWluIiwgc2VsZikKICAgICAgICAjIGJ0blNlZ1BWLmNsaWNrZWQuY29ubmVjdChzZWxmLmJ0blBvcnRhbFZlaW5TZWdtZW50YXRpb24pCiAgICAgICAgc2VsZi5tYWluTGF5b3V0LmFkZFdpZGdldChzZWxmLmJ0blNlZ1BWLCA2LCA0KQoKICAgICAgICBzZWxmLmJ0blNlZ0hWID0gUVB1c2hCdXR0b24oIkhlcGF0aWMgVmVpbiIsIHNlbGYpCiAgICAgICAgIyBidG5TZWdIVi5jbGlja2VkLmNvbm5lY3Qoc2VsZi5idG5IZXBhdGljVmVpbnNTZWdtZW50YXRpb24pCiAgICAgICAgc2VsZi5tYWluTGF5b3V0LmFkZFdpZGdldChzZWxmLmJ0blNlZ0hWLCA2LCA1KQoKICAgICAgICBzZWxmLmRpc2FibGVTZWdUeXBlKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9yb3cgKz0gMQo=</text>
+        <text encoding="base64">ICAgIGRlZiBpbml0TGFiZWxzQXV0byhzZWxmKToKICAgICAgICBwb3NpdGlvbiA9IDEKICAgICAgICBzZWxmLmdyb3VwQSA9IFF0R3VpLlFCdXR0b25Hcm91cCgpCiAgICAgICAgZm9yIGtleSwgdmFsdWUgaW4gc2VsZi5vc2VnLnNsYWIuaXRlbXMoKToKICAgICAgICAgICAgYnRuTGFiZWwgPSBRUHVzaEJ1dHRvbihrZXkpCiAgICAgICAgICAgIGJ0bkxhYmVsLnNldENoZWNrYWJsZShUcnVlKQogICAgICAgICAgICBidG5MYWJlbC5jbGlja2VkLmNvbm5lY3Qoc2VsZi5jb25maWdBdXRvRXZlbnQpCiAgICAgICAgICAgIHNlbGYubWFpbkxheW91dC5hZGRXaWRnZXQoYnRuTGFiZWwsIDEyLCBwb3NpdGlvbikKICAgICAgICAgICAgc2VsZi5ncm91cEEuYWRkQnV0dG9uKGJ0bkxhYmVsKQogICAgICAgICAgICBzZWxmLmdyb3VwQS5zZXRJZChidG5MYWJlbCwgcG9zaXRpb24pCiAgICAgICAgICAgIHBvc2l0aW9uICs9IDEKCiAgICBkZWYgY29uZmlnQXV0b0V2ZW50KHNlbGYpOgogICAgICAgIGFsdF9zZWdfcGFyYW1zID0gewogICAgICAgICAgICAib3V0cHV0X2xhYmVsIjogJ2xlZnQga2lkbmV5JywKICAgICAgICAgICAgJ2NsZWFuX3NlZWRzX2FmdGVyX3VwZGF0ZV9wYXJhbWV0ZXJzJzogVHJ1ZSwKICAgICAgICB9CiAgICAgICAgaWQgPSBzZWxmLmdyb3VwQS5jaGVja2VkSWQoKQogICAgICAgIHByaW50IGlkCiAgICAgICAgc2VsZWN0ZWRfbGFiZWwgPSBzZWxmLm9zZWcuc2xhYi5rZXlzKClbaWQgLSAxXQogICAgICAgIGFsdF9zZWdfcGFyYW1zWydvdXRwdXRfbGFiZWwnXSA9IHNlbGVjdGVkX2xhYmVsCiAgICAgICAgc2VsZi5vc2VnLnVwZGF0ZV9wYXJhbWV0ZXJzKGFsdF9zZWdfcGFyYW1zKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9yb3cgPSAwCg==</text>
+        <text encoding="base64">ICAgIGRlZiBpbml0TGFiZWxzKHNlbGYpOgogICAgICAgIGJ0bkhlYXJ0aCA9IFFQdXNoQnV0dG9uKCJIZWFydGgiLCBzZWxmKQogICAgICAgIGJ0bkhlYXJ0aC5zZXRDaGVja2FibGUoVHJ1ZSkKICAgICAgICBidG5IZWFydGguY2xpY2tlZC5jb25uZWN0KHNlbGYuY29uZmlnRXZlbnQpCiAgICAgICAgc2VsZi5tYWluTGF5b3V0LmFkZFdpZGdldChidG5IZWFydGgsIDIsIDEpCgogICAgICAgIGJ0bktpZG5leUwgPSBRUHVzaEJ1dHRvbigiS2lkbmV5IExlZnQiLCBzZWxmKQogICAgICAgIGJ0bktpZG5leUwuc2V0Q2hlY2thYmxlKFRydWUpCiAgICAgICAgYnRuS2lkbmV5TC5jbGlja2VkLmNvbm5lY3Qoc2VsZi5jb25maWdFdmVudCkKICAgICAgICBzZWxmLm1haW5MYXlvdXQuYWRkV2lkZ2V0KGJ0bktpZG5leUwsIDIsIDIpCgogICAgICAgIGJ0bktpZG5leVIgPSBRUHVzaEJ1dHRvbigiS2lkbmV5IFJpZ2h0Iiwgc2VsZikKICAgICAgICBidG5LaWRuZXlSLnNldENoZWNrYWJsZShUcnVlKQogICAgICAgIGJ0bktpZG5leVIuY2xpY2tlZC5jb25uZWN0KHNlbGYuY29uZmlnRXZlbnQpCiAgICAgICAgc2VsZi5tYWluTGF5b3V0LmFkZFdpZGdldChidG5LaWRuZXlSLCAyLCAzKQoKICAgICAgICBidG5MaXZlciA9IFFQdXNoQnV0dG9uKCJMaXZlciIsIHNlbGYpCiAgICAgICAgYnRuTGl2ZXIuc2V0Q2hlY2thYmxlKFRydWUpCiAgICAgICAgYnRuTGl2ZXIuY2xpY2tlZC5jb25uZWN0KHNlbGYuY29uZmlnRXZlbnQpCiAgICAgICAgc2VsZi5tYWluTGF5b3V0LmFkZFdpZGdldChidG5MaXZlciwgMiwgNCkKCiAgICAgICAgc2VsZi5ncm91cCA9IFF0R3VpLlFCdXR0b25Hcm91cCgpCiAgICAgICAgc2VsZi5ncm91cC5hZGRCdXR0b24oYnRuSGVhcnRoKQogICAgICAgIHNlbGYuZ3JvdXAuYWRkQnV0dG9uKGJ0bktpZG5leUwpCiAgICAgICAgc2VsZi5ncm91cC5hZGRCdXR0b24oYnRuS2lkbmV5UikKICAgICAgICBzZWxmLmdyb3VwLmFkZEJ1dHRvbihidG5MaXZlcikKICAgICAgICBzZWxmLmdyb3VwLnNldElkKGJ0bkhlYXJ0aCwgMSkKICAgICAgICBzZWxmLmdyb3VwLnNldElkKGJ0bktpZG5leUwsIDIpCiAgICAgICAgc2VsZi5ncm91cC5zZXRJZChidG5LaWRuZXlSLCAzKQogICAgICAgIHNlbGYuZ3JvdXAuc2V0SWQoYnRuTGl2ZXIsIDQpCgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBxdyA9IFF0R3VpLlFXaWRnZXQoTWFpbldpbmRvdykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9yb3cgKz0gMQogICAgICAgIHNlbGYudWlfYnV0dG9uc1siU2hvdyJdID0gUVB1c2hCdXR0b24oIlNob3ciLCBzZWxmKQogICAgICAgIHNlbGYudWlfYnV0dG9uc1siU2hvdyJdLmNsaWNrZWQuY29ubmVjdChzZWxmLmFjdGlvblNob3cpCiAgICAgICAgc2VsZi5tYWluTGF5b3V0LmFkZFdpZGdldChzZWxmLnVpX2J1dHRvbnNbJ1Nob3cnXSwgc2VsZi5fcm93LCAxLCAxLCA2KQo=</text>
+        <text encoding="base64">ICAgICAgICBmcm9tIFB5UXQ0IGltcG9ydCBRdEd1aQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>update_parameters</last-search>
+      <last-search encoding="base64">XDxhY3Rpb25fdWlfcGFyYW1zXD4=</last-search>
       <last-offset />
-      <last-pattern>update_parameters</last-pattern>
+      <last-pattern encoding="base64">XDxhY3Rpb25fdWlfcGFyYW1zXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxib2x0em1hblw+</entry>
-        <entry encoding="base64">XDxpbnRlbnNpdHlfbG9jYWxpemF0aW9uX2Z2XD4=</entry>
-        <entry encoding="base64">XDxjcm9wRGNtXD4=</entry>
         <entry encoding="base64">XDxfYWRkX2J1dHRvblw+</entry>
         <entry encoding="base64">XDxzbmdia1w+</entry>
         <entry encoding="base64">XDxzbmdia19mcm9tX2ZpbGVcPg==</entry>
@@ -1618,6 +1615,9 @@
         <entry encoding="base64">XDxlbGVtZW50X251bWJlclw+</entry>
         <entry encoding="base64">XDxpbml0TGFiZWxzQXV0b1w+</entry>
         <entry>update_parameters</entry>
+        <entry encoding="base64">XDxRV2lkZ2V0XD4=</entry>
+        <entry>Rendere</entry>
+        <entry encoding="base64">XDxhY3Rpb25fdWlfcGFyYW1zXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>292</entry>
