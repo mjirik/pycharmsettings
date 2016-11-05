@@ -47,8 +47,8 @@
         <mark key="." line="158" column="0" />
         <mark key="^" line="163" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1477307730828">
-        <mark key="'" line="690" column="76" />
+      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1478376422480">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="18" column="0" />
         <mark key="]" line="19" column="35" />
         <mark key="^" line="1316" column="52" />
@@ -639,7 +639,7 @@
         <mark key="^" line="178" column="21" />
         <mark key="." line="178" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1478376132814">
+      <file name="/Dummy.txt" timestamp="1478376623904">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1000,11 +1000,11 @@
         <mark key="^" line="62" column="18" />
         <mark key="." line="62" column="18" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/config_default.py" timestamp="1466153401945">
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="73" column="56" />
-        <mark key="^" line="61" column="55" />
-        <mark key="." line="73" column="0" />
+      <file name="$USER_HOME$/projects/lisa/lisa/config_default.py" timestamp="1478376228397">
+        <mark key="[" line="63" column="20" />
+        <mark key="]" line="63" column="26" />
+        <mark key="^" line="63" column="26" />
+        <mark key="." line="63" column="26" />
       </file>
       <file name="$USER_HOME$/projects/quantan/tests/histology_test.py" timestamp="1465902602660">
         <mark key="'" line="81" column="20" />
@@ -1399,15 +1399,6 @@
         <mark key="." line="3" column="21" />
         <mark key="^" line="3" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/events2calendar/mail2calendar.py" timestamp="1477321327232">
-        <mark key="a" line="190" column="15" />
-        <mark key="b" line="415" column="13" />
-        <mark key="'" line="441" column="31" />
-        <mark key="[" line="178" column="70" />
-        <mark key="]" line="178" column="54" />
-        <mark key="." line="178" column="54" />
-        <mark key="^" line="178" column="54" />
-      </file>
       <file name="$USER_HOME$/projects/lisa/lisa/viewer.py" timestamp="1469803911544">
         <mark key="'" line="76" column="52" />
         <mark key="[" line="61" column="30" />
@@ -1450,7 +1441,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="255" column="68" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/lisa/tests/dcmreaddata_test.py" />
       <jump line="262" column="20" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
       <jump line="202" column="23" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
@@ -1550,16 +1540,17 @@
       <jump line="1" column="0" filename="$USER_HOME$/projects/imtools/imtools/show_segmentation_qt.py" />
       <jump line="66" column="0" filename="$USER_HOME$/projects/imtools/imtools/show_segmentation_qt.py" />
       <jump line="18" column="17" filename="$USER_HOME$/projects/imtools/imtools/show_segmentation_qt.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text encoding="base64">a2lkbmV5IA==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">a2lkbmV5IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbml0TGFiZWxzQXV0b1w+</text>
+        <text>update_parameters</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IFF0Q29yZS5RdC5DaGVja2Vk</text>
@@ -1599,15 +1590,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpbml0TGFiZWxzQXV0b1w+</last-search>
+      <last-search>update_parameters</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbml0TGFiZWxzQXV0b1w+</last-pattern>
+      <last-pattern>update_parameters</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>imtools</entry>
         <entry encoding="base64">XDxib2x0em1hblw+</entry>
         <entry encoding="base64">XDxpbnRlbnNpdHlfbG9jYWxpemF0aW9uX2Z2XD4=</entry>
         <entry encoding="base64">XDxjcm9wRGNtXD4=</entry>
@@ -1627,6 +1617,7 @@
         <entry encoding="base64">XDxkaXN0X3RvX3ZlY3RvcnNcPg==</entry>
         <entry encoding="base64">XDxlbGVtZW50X251bWJlclw+</entry>
         <entry encoding="base64">XDxpbml0TGFiZWxzQXV0b1w+</entry>
+        <entry>update_parameters</entry>
       </history-search>
       <history-cmd>
         <entry>292</entry>
