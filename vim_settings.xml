@@ -309,13 +309,13 @@
         <mark key="." line="203" column="11" />
         <mark key="^" line="203" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/imtools/imtools/show_segmentation_qt.py" timestamp="1478360165428">
-        <mark key="a" line="100" column="7" />
-        <mark key="'" line="16" column="77" />
-        <mark key="[" line="65" column="47" />
-        <mark key="]" line="65" column="60" />
-        <mark key="." line="65" column="60" />
-        <mark key="^" line="65" column="60" />
+      <file name="$USER_HOME$/projects/imtools/imtools/show_segmentation_qt.py" timestamp="1478361846093">
+        <mark key="a" line="68" column="22" />
+        <mark key="'" line="18" column="17" />
+        <mark key="[" line="103" column="78" />
+        <mark key="]" line="105" column="66" />
+        <mark key="." line="105" column="66" />
+        <mark key="^" line="105" column="66" />
       </file>
       <file name="$USER_HOME$/projects/lisa/INSTALL.md" timestamp="1448570601058">
         <mark key="[" line="53" column="67" />
@@ -1450,10 +1450,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="105" column="29" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
-      <jump line="211" column="6" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
-      <jump line="110" column="29" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
-      <jump line="216" column="6" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
       <jump line="255" column="68" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/lisa/tests/dcmreaddata_test.py" />
       <jump line="262" column="20" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
@@ -1550,49 +1546,53 @@
       <jump line="229" column="12" filename="$USER_HOME$/projects/imtools/imtools/show_segmentation_qt.py" />
       <jump line="70" column="7" filename="$USER_HOME$/projects/imtools/imtools/show_segmentation_qt.py" />
       <jump line="16" column="77" filename="$USER_HOME$/projects/imtools/imtools/show_segmentation_qt.py" />
+      <jump line="67" column="22" filename="$USER_HOME$/projects/imtools/imtools/show_segmentation_qt.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/projects/imtools/imtools/show_segmentation_qt.py" />
+      <jump line="66" column="0" filename="$USER_HOME$/projects/imtools/imtools/show_segmentation_qt.py" />
+      <jump line="18" column="17" filename="$USER_HOME$/projects/imtools/imtools/show_segmentation_qt.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>True</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>True</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbml0TGFiZWxzQXV0b1w+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm1haW5MYXlvdXQuYWRkV2lkZ2V0KHNlbGYudWlfYnV0dG9uc1sncmVzaXplX21tJ10sIHNlbGYuX3JvdywgMikK</text>
+      <register name="0" type="4">
+        <text encoding="base64">IFF0Q29yZS5RdC5DaGVja2Vk</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CgogICAgICAgICMgc2VsZi5pbml0TGFiZWxzKCkKICAgICAgICAjIGxibFNlZ1R5cGUgPSBRTGFiZWwoJ0Nob29zZSB0eXBlIG9mIHNlZ21lbnRhdGlvbicpCiAgICAgICAgIyBzZWxmLm1haW5MYXlvdXQuYWRkV2lkZ2V0KGxibFNlZ1R5cGUsIDUsIDEsIDEsIDYpCiAgICAgICAgIyBzZWxmLmluaXRDb25maWdzKCkKCiAgICAgICAgIyBzZWxmLmxibFNlZ0Vycm9yID0gUUxhYmVsKCkKICAgICAgICAjIHNlbGYubGJsU2VnRXJyb3Iuc2V0U3R5bGVTaGVldCgiY29sb3I6IHJlZDsiKTsKICAgICAgICAjIHNlbGYubWFpbkxheW91dC5hZGRXaWRnZXQoc2VsZi5sYmxTZWdFcnJvciwgMTAsIDEsIDEsIDYpCgogICAgICAgICMgbGJsU2VnQ29uZmlnQkVUQSA9IFFMYWJlbCgnQ2hvb3NlIGNvbmZpZ3VyZSAoYmV0YSknKQogICAgICAgICMgc2VsZi5tYWluTGF5b3V0LmFkZFdpZGdldChsYmxTZWdDb25maWdCRVRBLCAxMSwgMSwgMSwgNikKICAgICAgICAjIHNlbGYuaW5pdExhYmVsc0F1dG8oKQo=</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgUHlRdDQuUXRDb3JlCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aXRlbVZhbHVlID0gUXRXaWRnZXRzLlFMaW5lRWRpdCgpCg==</text>
+        <text encoding="base64">CgogICAgICAgICMgc2VsZi5pbml0TGFiZWxzKCkKICAgICAgICAjIGxibFNlZ1R5cGUgPSBRTGFiZWwoJ0Nob29zZSB0eXBlIG9mIHNlZ21lbnRhdGlvbicpCiAgICAgICAgIyBzZWxmLm1haW5MYXlvdXQuYWRkV2lkZ2V0KGxibFNlZ1R5cGUsIDUsIDEsIDEsIDYpCiAgICAgICAgIyBzZWxmLmluaXRDb25maWdzKCkKCiAgICAgICAgIyBzZWxmLmxibFNlZ0Vycm9yID0gUUxhYmVsKCkKICAgICAgICAjIHNlbGYubGJsU2VnRXJyb3Iuc2V0U3R5bGVTaGVldCgiY29sb3I6IHJlZDsiKTsKICAgICAgICAjIHNlbGYubWFpbkxheW91dC5hZGRXaWRnZXQoc2VsZi5sYmxTZWdFcnJvciwgMTAsIDEsIDEsIDYpCgogICAgICAgICMgbGJsU2VnQ29uZmlnQkVUQSA9IFFMYWJlbCgnQ2hvb3NlIGNvbmZpZ3VyZSAoYmV0YSknKQogICAgICAgICMgc2VsZi5tYWluTGF5b3V0LmFkZFdpZGdldChsYmxTZWdDb25maWdCRVRBLCAxMSwgMSwgMSwgNikKICAgICAgICAjIHNlbGYuaW5pdExhYmVsc0F1dG8oKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aXRlbVZhbHVlID0gUXRXaWRnZXRzLlFMaW5lRWRpdCgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm1haW5MYXlvdXQuYWRkV2lkZ2V0KHNlbGYudWlfYnV0dG9uc1snU2hvdyddLCBzZWxmLl9yb3csIDEsIDEsIDYpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9yb3cgKz0gMQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9yb3cgPSAwCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLm1haW5MYXlvdXQuYWRkV2lkZ2V0KHNlbGYudWlfYnV0dG9uc1snU2hvdyddLCBzZWxmLl9yb3csIDEsIDEsIDYpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLl9yb3cgKz0gMQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLl9yb3cgPSAwCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9yb3cgKz0gMQogICAgICAgIHNlbGYudWlfYnV0dG9uc1siU2hvdyJdID0gUVB1c2hCdXR0b24oIlNob3ciLCBzZWxmKQogICAgICAgIHNlbGYudWlfYnV0dG9uc1siU2hvdyJdLmNsaWNrZWQuY29ubmVjdChzZWxmLmFjdGlvblNob3cpCiAgICAgICAgc2VsZi5tYWluTGF5b3V0LmFkZFdpZGdldChzZWxmLnVpX2J1dHRvbnNbJ1Nob3cnXSwgc2VsZi5fcm93LCAxLCAxLCA2KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmluaXRfc2xhYl91aSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9yb3cgKz0gMQogICAgICAgIHNlbGYudWlfYnV0dG9uc1siU2hvdyJdID0gUVB1c2hCdXR0b24oIlNob3ciLCBzZWxmKQogICAgICAgIHNlbGYudWlfYnV0dG9uc1siU2hvdyJdLmNsaWNrZWQuY29ubmVjdChzZWxmLmFjdGlvblNob3cpCiAgICAgICAgc2VsZi5tYWluTGF5b3V0LmFkZFdpZGdldChzZWxmLnVpX2J1dHRvbnNbJ1Nob3cnXSwgc2VsZi5fcm93LCAxLCAxLCA2KQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
