@@ -309,13 +309,12 @@
         <mark key="." line="203" column="11" />
         <mark key="^" line="203" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/imtools/imtools/show_segmentation_qt.py" timestamp="1478388119523">
-        <mark key="a" line="152" column="7" />
-        <mark key="'" line="34" column="13" />
-        <mark key="[" line="35" column="23" />
-        <mark key="]" line="34" column="39" />
-        <mark key="^" line="34" column="39" />
-        <mark key="." line="34" column="39" />
+      <file name="$USER_HOME$/projects/imtools/imtools/show_segmentation_qt.py" timestamp="1478477888324">
+        <mark key="a" line="161" column="7" />
+        <mark key="[" line="212" column="17" />
+        <mark key="]" line="212" column="26" />
+        <mark key="." line="212" column="26" />
+        <mark key="^" line="212" column="26" />
       </file>
       <file name="$USER_HOME$/projects/lisa/INSTALL.md" timestamp="1448570601058">
         <mark key="[" line="53" column="67" />
@@ -1441,8 +1440,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="196" column="32" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
-      <jump line="197" column="56" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
       <jump line="263" column="23" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
       <jump line="420" column="4" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
@@ -1541,65 +1538,65 @@
       <jump line="461" column="8" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="1185" column="8" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="273" column="22" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="186" column="8" filename="$USER_HOME$/projects/imtools/imtools/show_segmentation_qt.py" />
+      <jump line="45" column="13" filename="$USER_HOME$/projects/imtools/imtools/show_segmentation_qt.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
+      <register name="&quot;" type="4">
+        <text>slab_widget</text>
       </register>
       <register name="-" type="4">
-        <text>widgets</text>
+        <text>slab_widget</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhY3Rpb24zRFZpc3VhbGl6YXRpb25XaWRnZXRcPg==</text>
+        <text encoding="base64">XDxpbml0VUlcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnVpX3dpZGdldHMgPSB7fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fcm93X3NsYWIgKz0gMQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmluaXRVSSgpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnVpX3dpZGdldHNbIkxvYWQiXSA9IHNlbGYucmVhZF93aWRnZXQK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnVpX2J1dHRvbnMgPSB7fQogICAgICAgIHNlbGYudWlfc2xhYiA9IHt9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnVpX3dpZGdldHNbIkVkaXRTbGFiIl0gPSBzZWxmLnNsYWJCb2R5LAo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnVpX3dpZGdldHNbIlNlZ21lbnRhdGlvbiJdID0gc2VsZi5zZWdCb2R5LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNsYWIgPSB7fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnVpX3dpZGdldHNbIk1haW4iXSA9IHNlbGYuaW5mb0JvZHksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNsYWIgPSB7fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnVpX3dpZGdldHMgPSB7fQo=</text>
+        <text encoding="base64">ICAgIGRlZiBhZGRfZGF0YShzZWxmKToK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdy5oaWRlKCkK</text>
+        <text encoding="base64">ICAgICAgICBzdXBlcihTaG93U2VnbWVudGF0aW9uV2lkZ2V0LCBzZWxmKS5fX2luaXRfXygpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBlbGlmIG9wdGlvbiBpbiBzZWxmLnVpX3dpZGdldHMua2V5cygpOgo=</text>
+        <text encoding="base64">ICAgIGRlZiBhZGRfZGF0YShzZWxmKToK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhY3Rpb24zRFZpc3VhbGl6YXRpb25XaWRnZXRcPg==</last-search>
+      <last-search encoding="base64">XDxpbml0VUlcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhY3Rpb24zRFZpc3VhbGl6YXRpb25XaWRnZXRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxpbml0VUlcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Continue</entry>
-        <entry encoding="base64">XDxzaWduYWxfZmluaXNoZWRcPg==</entry>
         <entry encoding="base64">XDxydW5TZWdtZW50YXRpb25cPg==</entry>
         <entry>export</entry>
         <entry>skelet3d</entry>
@@ -1618,6 +1615,8 @@
         <entry>read_w</entry>
         <entry encoding="base64">XDxjaGFuZ2VXaWRnZXRcPg==</entry>
         <entry encoding="base64">XDxhY3Rpb24zRFZpc3VhbGl6YXRpb25XaWRnZXRcPg==</entry>
+        <entry encoding="base64">XDxpbml0X3NsYWJcPg==</entry>
+        <entry encoding="base64">XDxpbml0VUlcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
