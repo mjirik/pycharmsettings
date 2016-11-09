@@ -366,6 +366,12 @@
         <mark key="^" line="1" column="6" />
         <mark key="." line="1" column="6" />
       </file>
+      <file name="$USER_HOME$/projects/io3d/io3d/cachefile.py" timestamp="1478728718000">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="30" column="22" />
+      </file>
       <file name="$USER_HOME$/projects/events2calendar/README.md" timestamp="1459100360089">
         <mark key="[" line="5" column="45" />
         <mark key="]" line="5" column="45" />
@@ -581,7 +587,7 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1478718422463">
+      <file name="/Dummy.txt" timestamp="1478728721731">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1438,8 +1444,8 @@
       <jump line="120" column="20" filename="$USER_HOME$/projects/io3d/io3d/datareaderqt.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>dcmdir</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>dcmdir</text>
@@ -1448,7 +1454,7 @@
         <text>read_data</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBoZWFkLCB0ZWlsID0gb3MucGF0aC5zcGxpdChzZWdfcGF0aCkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9fdXBkYXRlKCkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1457,28 +1463,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBqago=</text>
+        <text encoding="base64">ICAgIGRlZiBfXwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGlyZWN0b3J5PXNlbGYubG9hZGRpcgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGlyZWN0b3J5PXNlbGYubG9hZGZpbGVkaXIK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGlyZWN0b3J5ID0gc2VsZi5vc2VnLmNhY2hlLmdldCgnZGF0YWRpcicpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmLmRhdGFkaXIgaXMgTm9uZToK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGlvM2QuY2FjaGVmaWxlCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBqago=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGlyZWN0b3J5PXNlbGYubG9hZGRpcgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGlyZWN0b3J5PXNlbGYubG9hZGZpbGVkaXIK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGlyZWN0b3J5ID0gc2VsZi5vc2VnLmNhY2hlLmdldCgnZGF0YWRpcicpCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLmRhdGFkaXIgaXMgTm9uZToK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">aW1wb3J0IGlvM2QuY2FjaGVmaWxlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
