@@ -47,8 +47,8 @@
         <mark key="." line="158" column="0" />
         <mark key="^" line="163" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1478715949238">
-        <mark key="'" line="250" column="13" />
+      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1478731251087">
+        <mark key="'" line="250" column="21" />
         <mark key="[" line="61" column="0" />
         <mark key="]" line="61" column="0" />
         <mark key="." line="61" column="0" />
@@ -742,14 +742,15 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1478725609129">
-        <mark key="a" line="334" column="18" />
+      <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1478731605252">
+        <mark key="a" line="654" column="18" />
         <mark key="b" line="665" column="25" />
-        <mark key="'" line="678" column="18" />
-        <mark key="[" line="892" column="0" />
-        <mark key="]" line="892" column="44" />
-        <mark key="^" line="335" column="51" />
-        <mark key="." line="335" column="0" />
+        <mark key="c" line="713" column="0" />
+        <mark key="'" line="713" column="0" />
+        <mark key="[" line="660" column="36" />
+        <mark key="]" line="657" column="7" />
+        <mark key="^" line="657" column="7" />
+        <mark key="." line="657" column="7" />
       </file>
       <file name="$USER_HOME$/projects/imtools/imtools/ml/gmmcl.py" timestamp="1448550206184">
         <mark key="[" line="11" column="14" />
@@ -1332,8 +1333,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="30" filename="$USER_HOME$/projects/teigen/teigen/generators/cylinders.py" />
-      <jump line="7" column="0" filename="$USER_HOME$/projects/lisa/lisa/segmentationQt.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/lisa/lisa/segmentationQt.py" />
       <jump line="48" column="15" filename="$USER_HOME$/projects/imtools/imtools/show_segmentation_qt.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/imtools/imtools/show_segmentation.py" />
@@ -1410,10 +1409,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="305" column="18" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="337" column="53" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
-      <jump line="61" column="20" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="26" column="15" filename="$USER_HOME$/projects/io3d/io3d/datareaderqt.py" />
       <jump line="152" column="24" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
-      <jump line="250" column="13" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="664" column="34" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="665" column="34" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="678" column="18" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
@@ -1432,58 +1429,62 @@
       <jump line="284" column="23" filename="$USER_HOME$/projects/io3d/io3d/datareaderqt.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/io3d/io3d/datareaderqt.py" />
       <jump line="120" column="20" filename="$USER_HOME$/projects/io3d/io3d/datareaderqt.py" />
+      <jump line="115" column="8" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="61" column="25" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="250" column="21" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="713" column="0" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>h</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>h</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>read_data</text>
+        <text encoding="base64">XDxjYWNoZWZcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9fdXBkYXRlKCkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnN0YXR1c0JhcigpLnNob3dNZXNzYWdlKCdSZWFkaW5nIGRhdGEgZmlsZS4uLicpCiAgICAgICAgUUFwcGxpY2F0aW9uLnByb2Nlc3NFdmVudHMoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlZiBfXwo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnN0YXR1c0JhcigpLnNob3dNZXNzYWdlKCdSZWFkaW5nIGRhdGEgZmlsZS4uLicpCiAgICAgICAgUUFwcGxpY2F0aW9uLnByb2Nlc3NFdmVudHMoKQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBqago=</text>
+        <text encoding="base64">ICAgIGRlZiBfXwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGlyZWN0b3J5PXNlbGYubG9hZGRpcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGlyZWN0b3J5PXNlbGYubG9hZGZpbGVkaXIK</text>
+        <text encoding="base64">ICAgICAgICBqago=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGlyZWN0b3J5ID0gc2VsZi5vc2VnLmNhY2hlLmdldCgnZGF0YWRpcicpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGlyZWN0b3J5PXNlbGYubG9hZGRpcgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmLmRhdGFkaXIgaXMgTm9uZToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGlyZWN0b3J5PXNlbGYubG9hZGZpbGVkaXIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGlvM2QuY2FjaGVmaWxlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGlyZWN0b3J5ID0gc2VsZi5vc2VnLmNhY2hlLmdldCgnZGF0YWRpcicpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>read_data</last-search>
+      <last-search encoding="base64">XDxjYWNoZWZcPg==</last-search>
       <last-offset />
-      <last-pattern>read_data</last-pattern>
+      <last-pattern encoding="base64">XDxjYWNoZWZcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -1500,7 +1501,6 @@
         <entry>readw</entry>
         <entry>widget</entry>
         <entry encoding="base64">XDxjYWNoZWZpbGVcPg==</entry>
-        <entry encoding="base64">XDxjYWNoZWZcPg==</entry>
         <entry>cache</entry>
         <entry encoding="base64">XDxjYWNoZVw+</entry>
         <entry encoding="base64">XDxfX2dldF9kYXRhZGlyXD4=</entry>
@@ -1509,6 +1509,7 @@
         <entry>__get</entry>
         <entry>directory=self.</entry>
         <entry>read_data</entry>
+        <entry encoding="base64">XDxjYWNoZWZcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>195</entry>
