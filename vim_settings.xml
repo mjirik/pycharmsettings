@@ -366,11 +366,11 @@
         <mark key="^" line="1" column="6" />
         <mark key="." line="1" column="6" />
       </file>
-      <file name="$USER_HOME$/projects/io3d/io3d/cachefile.py" timestamp="1478728718000">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-        <mark key="^" line="30" column="22" />
+      <file name="$USER_HOME$/projects/io3d/io3d/cachefile.py" timestamp="1478731019076">
+        <mark key="[" line="21" column="26" />
+        <mark key="]" line="21" column="26" />
+        <mark key="." line="21" column="26" />
+        <mark key="^" line="21" column="51" />
       </file>
       <file name="$USER_HOME$/projects/events2calendar/README.md" timestamp="1459100360089">
         <mark key="[" line="5" column="45" />
@@ -1444,11 +1444,11 @@
       <jump line="120" column="20" filename="$USER_HOME$/projects/io3d/io3d/datareaderqt.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>dcmdir</text>
+        <text>h</text>
       </register>
       <register name="/" type="4">
         <text>read_data</text>
