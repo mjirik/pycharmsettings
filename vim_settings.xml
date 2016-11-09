@@ -948,13 +948,13 @@
         <mark key="^" line="20" column="38" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/io3d/io3d/datareaderqt.py" timestamp="1478725641612">
-        <mark key="a" line="293" column="23" />
-        <mark key="'" line="130" column="20" />
-        <mark key="[" line="116" column="45" />
-        <mark key="]" line="116" column="48" />
-        <mark key="." line="116" column="48" />
-        <mark key="^" line="116" column="48" />
+      <file name="$USER_HOME$/projects/io3d/io3d/datareaderqt.py" timestamp="1478731827370">
+        <mark key="a" line="303" column="23" />
+        <mark key="'" line="182" column="16" />
+        <mark key="[" line="46" column="24" />
+        <mark key="]" line="46" column="46" />
+        <mark key="." line="46" column="46" />
+        <mark key="^" line="46" column="46" />
       </file>
       <file name="$USER_HOME$/projects/skelet3d/examples/example03.py" timestamp="1465901557731">
         <mark key="'" line="6" column="32" />
@@ -1333,9 +1333,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/projects/lisa/lisa/segmentationQt.py" />
-      <jump line="48" column="15" filename="$USER_HOME$/projects/imtools/imtools/show_segmentation_qt.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/imtools/imtools/show_segmentation.py" />
       <jump line="221" column="4" filename="$USER_HOME$/projects/imtools/imtools/show_segmentation_qt.py" />
       <jump line="72" column="32" filename="$USER_HOME$/projects/imtools/imtools/show_segmentation_qt.py" />
       <jump line="28" column="13" filename="$USER_HOME$/projects/imtools/imtools/show_segmentation_qt.py" />
@@ -1433,6 +1430,9 @@
       <jump line="61" column="25" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="250" column="21" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="713" column="0" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="49" column="24" filename="$USER_HOME$/projects/io3d/io3d/datareaderqt.py" />
+      <jump line="168" column="13" filename="$USER_HOME$/projects/io3d/io3d/datareaderqt.py" />
+      <jump line="172" column="16" filename="$USER_HOME$/projects/io3d/io3d/datareaderqt.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1442,7 +1442,7 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjYWNoZWZcPg==</text>
+        <text encoding="base64">XDxkYXRhcGF0aFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLnN0YXR1c0JhcigpLnNob3dNZXNzYWdlKCdSZWFkaW5nIGRhdGEgZmlsZS4uLicpCiAgICAgICAgUUFwcGxpY2F0aW9uLnByb2Nlc3NFdmVudHMoKQo=</text>
@@ -1482,15 +1482,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjYWNoZWZcPg==</last-search>
+      <last-search encoding="base64">XDxkYXRhcGF0aFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjYWNoZWZcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxkYXRhcGF0aFw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjaGFuZ2VXaWRnZXRcPg==</entry>
         <entry encoding="base64">XDxhY3Rpb24zRFZpc3VhbGl6YXRpb25XaWRnZXRcPg==</entry>
         <entry encoding="base64">XDxpbml0X3NsYWJcPg==</entry>
         <entry encoding="base64">XDxpbml0VUlcPg==</entry>
@@ -1510,6 +1509,7 @@
         <entry>directory=self.</entry>
         <entry>read_data</entry>
         <entry encoding="base64">XDxjYWNoZWZcPg==</entry>
+        <entry encoding="base64">XDxkYXRhcGF0aFw+</entry>
       </history-search>
       <history-cmd>
         <entry>195</entry>
