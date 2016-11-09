@@ -801,13 +801,13 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1478687207776">
+      <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1478688184816">
         <mark key="a" line="447" column="17" />
-        <mark key="'" line="629" column="8" />
-        <mark key="[" line="441" column="0" />
-        <mark key="]" line="441" column="0" />
-        <mark key="^" line="330" column="50" />
-        <mark key="." line="441" column="0" />
+        <mark key="'" line="469" column="35" />
+        <mark key="[" line="654" column="38" />
+        <mark key="]" line="655" column="35" />
+        <mark key="^" line="655" column="35" />
+        <mark key="." line="655" column="35" />
       </file>
       <file name="$USER_HOME$/projects/imtools/imtools/ml/gmmcl.py" timestamp="1448550206184">
         <mark key="[" line="11" column="14" />
@@ -1440,9 +1440,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="261" column="8" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
-      <jump line="22" column="10" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
-      <jump line="271" column="14" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
       <jump line="272" column="37" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
       <jump line="273" column="47" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
       <jump line="280" column="65" filename="$USER_HOME$/projects/events2calendar/mail2calendar.py" />
@@ -1508,7 +1505,6 @@
       <jump line="293" column="8" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="340" column="0" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="439" column="0" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
-      <jump line="463" column="19" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="472" column="19" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="476" column="19" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="481" column="21" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
@@ -1524,7 +1520,6 @@
       <jump line="490" column="19" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="329" column="8" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="333" column="13" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
-      <jump line="334" column="34" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="441" column="0" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="461" column="8" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="1185" column="8" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
@@ -1540,66 +1535,68 @@
       <jump line="336" column="13" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="405" column="0" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="629" column="8" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="334" column="13" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="462" column="12" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="463" column="10" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="467" column="24" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="469" column="35" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCByZWFkZXJXaWRnZXQubG9hZGRpcgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>obj</text>
       </register>
       <register name="/" type="4">
-        <text>New load</text>
+        <text>readw</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmb3Iga2V5LCB3aWRnZXQgaW4gc2VsZi51aV93aWRnZXRzLml0ZXJpdGVtcygpOgo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCByZWFkZXJXaWRnZXQubG9hZGRpcgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCByZWFkZXJXaWRnZXQubG9hZGRpcgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIGYgb3NlZy5kYXRhcGF0aCBpcyBOb25lOgogICAgICAgICMgICAgIHNlZy5kYXRhcGF0aCA9IGRjbXJlYWRlci5nZXRfZGNtZGlyX3F0KAogICAgICAgICMgICAgICAgIGFwcD1UcnVlLAogICAgICAgICMgICAgICAgIGRpcmVjdG9yeT1zZWxmLm9zZWcuaW5wdXRfZGF0YXBhdGhfc3RhcnQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE8gdXByYXZpdAogICAgICAgICMgaW1wb3J0IGlwZGI7IGlwZGIuc2V0X3RyYWNlKCkKICAgICAgICAjIGZvciB3aWRnZXQgaW4gd2lkZ2V0czoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmb3Igd2lkZ2V0IGluIHdpZGdldHM6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIGZvciBrZXksIHdpZGdldCBpbiBzZWxmLnVpX3dpZGdldHMuaXRlcml0ZW1zKCk6Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIFRPRE8gdXByYXZpdAogICAgICAgICMgaW1wb3J0IGlwZGI7IGlwZGIuc2V0X3RyYWNlKCkKICAgICAgICAjIGZvciB3aWRnZXQgaW4gd2lkZ2V0czoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmluaXRVSSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3Igd2lkZ2V0IGluIHdpZGdldHM6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnVpX2J1dHRvbnMgPSB7fQogICAgICAgIHNlbGYudWlfc2xhYiA9IHt9Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIGZvciBrZXksIHdpZGdldCBpbiBzZWxmLnVpX3dpZGdldHMuaXRlcml0ZW1zKCk6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmluaXRVSSgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNsYWIgPSB7fQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnVpX2J1dHRvbnMgPSB7fQogICAgICAgIHNlbGYudWlfc2xhYiA9IHt9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>New load</last-search>
+      <last-search>readw</last-search>
       <last-offset />
-      <last-pattern>New load</last-pattern>
+      <last-pattern>readw</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkaXN0X3RvX3ZlY3RvcnNcPg==</entry>
-        <entry encoding="base64">XDxlbGVtZW50X251bWJlclw+</entry>
-        <entry encoding="base64">XDxpbml0TGFiZWxzQXV0b1w+</entry>
         <entry>update_parameters</entry>
         <entry encoding="base64">XDxRV2lkZ2V0XD4=</entry>
         <entry>Rendere</entry>
@@ -1617,6 +1614,9 @@
         <entry encoding="base64">XDx1aV93aWRnZXRzXD4=</entry>
         <entry>load</entry>
         <entry>New load</entry>
+        <entry encoding="base64">XDxyZWFkX3dpZGdldFw+</entry>
+        <entry>widget</entry>
+        <entry>readw</entry>
       </history-search>
       <history-cmd>
         <entry>114</entry>
