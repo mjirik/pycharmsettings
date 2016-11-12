@@ -948,11 +948,11 @@
         <mark key="^" line="20" column="38" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/io3d/io3d/datareaderqt.py" timestamp="1478969541096">
+      <file name="$USER_HOME$/projects/io3d/io3d/datareaderqt.py" timestamp="1478970751253">
         <mark key="a" line="305" column="23" />
-        <mark key="'" line="184" column="16" />
-        <mark key="[" line="171" column="36" />
-        <mark key="]" line="173" column="7" />
+        <mark key="'" line="170" column="0" />
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="48" />
         <mark key="^" line="173" column="7" />
         <mark key="." line="173" column="7" />
       </file>
@@ -1413,7 +1413,6 @@
       <jump line="678" column="18" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="105" column="8" filename="$USER_HOME$/projects/io3d/io3d/datareaderqt.py" />
       <jump line="163" column="27" filename="$USER_HOME$/projects/io3d/io3d/datareaderqt.py" />
-      <jump line="170" column="13" filename="$USER_HOME$/projects/io3d/io3d/datareaderqt.py" />
       <jump line="223" column="14" filename="$USER_HOME$/projects/io3d/io3d/datareaderqt.py" />
       <jump line="253" column="18" filename="$USER_HOME$/projects/io3d/io3d/datareaderqt.py" />
       <jump line="276" column="38" filename="$USER_HOME$/projects/io3d/io3d/datareaderqt.py" />
@@ -1433,10 +1432,11 @@
       <jump line="168" column="13" filename="$USER_HOME$/projects/io3d/io3d/datareaderqt.py" />
       <jump line="172" column="16" filename="$USER_HOME$/projects/io3d/io3d/datareaderqt.py" />
       <jump line="0" column="7" filename="$USER_HOME$/projects/io3d/io3d/datareaderqt.py" />
+      <jump line="170" column="0" filename="$USER_HOME$/projects/io3d/io3d/datareaderqt.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzdXBlcihEYXRhUmVhZGVyV2lkZ2V0LCBzZWxmKS5fX2luaXRfXygpCg==</text>
       </register>
       <register name="-" type="4">
         <text>=</text>
@@ -1445,7 +1445,7 @@
         <text encoding="base64">XDxkYXRhcGF0aFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWZ0ZXJfZnVuY3Rpb249c2VsZi5fYWZ0ZXJfcmVhZF9jYWxsYmFjawo=</text>
+        <text encoding="base64">ICAgICAgICBzdXBlcihEYXRhUmVhZGVyV2lkZ2V0LCBzZWxmKS5fX2luaXRfXygpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
