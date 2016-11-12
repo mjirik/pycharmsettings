@@ -948,11 +948,11 @@
         <mark key="^" line="20" column="38" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/io3d/io3d/datareaderqt.py" timestamp="1478970751253">
+      <file name="$USER_HOME$/projects/io3d/io3d/datareaderqt.py" timestamp="1478970822030">
         <mark key="a" line="305" column="23" />
         <mark key="'" line="170" column="0" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="48" />
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="42" />
         <mark key="^" line="173" column="7" />
         <mark key="." line="173" column="7" />
       </file>
@@ -1312,11 +1312,11 @@
         <mark key="^" line="57" column="61" />
         <mark key="." line="57" column="61" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/generators/cylindersqt.py" timestamp="1478248654704">
-        <mark key="[" line="25" column="6" />
-        <mark key="]" line="25" column="14" />
-        <mark key="^" line="25" column="14" />
-        <mark key="." line="25" column="14" />
+      <file name="$USER_HOME$/projects/teigen/teigen/generators/cylindersqt.py" timestamp="1478970811054">
+        <mark key="[" line="30" column="22" />
+        <mark key="]" line="31" column="11" />
+        <mark key="^" line="31" column="11" />
+        <mark key="." line="31" column="11" />
       </file>
       <file name="$USER_HOME$/projects/lisa/mysetup.py" timestamp="1464961249453">
         <mark key="'" line="238" column="56" />
@@ -1436,16 +1436,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlcihEYXRhUmVhZGVyV2lkZ2V0LCBzZWxmKS5fX2luaXRfXygpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm1haW5MYXlvdXQgPSBRR3JpZExheW91dChzZWxmKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>DataReaderWidget</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkYXRhcGF0aFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlcihEYXRhUmVhZGVyV2lkZ2V0LCBzZWxmKS5fX2luaXRfXygpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm1haW5MYXlvdXQgPSBRR3JpZExheW91dChzZWxmKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
@@ -1454,28 +1454,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnN0YXR1c0JhcigpLnNob3dNZXNzYWdlKCdSZWFkaW5nIGRhdGEgZmlsZS4uLicpCiAgICAgICAgUUFwcGxpY2F0aW9uLnByb2Nlc3NFdmVudHMoKQo=</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnN0YXR1c0JhcigpLnNob3dNZXNzYWdlKCdSZWFkaW5nIGRhdGEgZmlsZS4uLicpCiAgICAgICAgUUFwcGxpY2F0aW9uLnByb2Nlc3NFdmVudHMoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiBfXwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGRlZiBfXwo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBqago=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGlyZWN0b3J5PXNlbGYubG9hZGRpcgo=</text>
+        <text encoding="base64">ICAgICAgICBqago=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGlyZWN0b3J5PXNlbGYubG9hZGZpbGVkaXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGlyZWN0b3J5PXNlbGYubG9hZGRpcgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGlyZWN0b3J5ID0gc2VsZi5vc2VnLmNhY2hlLmdldCgnZGF0YWRpcicpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGlyZWN0b3J5PXNlbGYubG9hZGZpbGVkaXIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
