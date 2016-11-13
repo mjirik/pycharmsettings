@@ -421,7 +421,7 @@
         <mark key="^" line="14" column="33" />
         <mark key="." line="14" column="33" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/simpleio.py" timestamp="1479066256447">
+      <file name="$USER_HOME$/projects/teigen/teigen/simpleio.py" timestamp="1479067950754">
         <mark key="[" line="27" column="32" />
         <mark key="]" line="27" column="34" />
         <mark key="." line="27" column="34" />
@@ -510,12 +510,11 @@
         <mark key="^" line="46" column="25" />
         <mark key="." line="46" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/generators/cylinders.py" timestamp="1479066543311">
-        <mark key="'" line="80" column="0" />
-        <mark key="[" line="166" column="30" />
-        <mark key="]" line="166" column="31" />
-        <mark key="." line="166" column="31" />
-        <mark key="^" line="166" column="31" />
+      <file name="$USER_HOME$/projects/teigen/teigen/generators/cylinders.py" timestamp="1479067530804">
+        <mark key="'" line="81" column="0" />
+        <mark key="[" line="170" column="0" />
+        <mark key="]" line="170" column="0" />
+        <mark key="." line="170" column="0" />
       </file>
       <file name="$USER_HOME$/projects/lisa/applications/lisa_gui" timestamp="1464115022342">
         <mark key="[" line="1" column="47" />
@@ -705,14 +704,14 @@
         <mark key="." line="837" column="0" />
         <mark key="^" line="827" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/dictwidgetqt.py" timestamp="1479060733593">
-        <mark key="a" line="84" column="22" />
+      <file name="$USER_HOME$/projects/teigen/teigen/dictwidgetqt.py" timestamp="1479068223211">
+        <mark key="a" line="85" column="22" />
         <mark key="'" line="42" column="31" />
-        <mark key="z" line="166" column="41" />
-        <mark key="[" line="164" column="32" />
-        <mark key="]" line="164" column="31" />
-        <mark key="." line="164" column="31" />
-        <mark key="^" line="164" column="31" />
+        <mark key="z" line="168" column="41" />
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="12" />
+        <mark key="." line="106" column="12" />
+        <mark key="^" line="103" column="29" />
       </file>
       <file name="$USER_HOME$/projects/teigen/.gitignore" timestamp="1478268146916">
         <mark key="[" line="88" column="12" />
@@ -1333,12 +1332,12 @@
         <mark key="^" line="57" column="61" />
         <mark key="." line="57" column="61" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/generators/cylindersqt.py" timestamp="1479061233293">
+      <file name="$USER_HOME$/projects/teigen/teigen/generators/cylindersqt.py" timestamp="1479068040313">
         <mark key="'" line="61" column="52" />
-        <mark key="[" line="125" column="57" />
-        <mark key="]" line="126" column="16" />
-        <mark key="." line="126" column="16" />
-        <mark key="^" line="126" column="16" />
+        <mark key="[" line="107" column="9" />
+        <mark key="]" line="108" column="30" />
+        <mark key="^" line="108" column="30" />
+        <mark key="." line="108" column="30" />
       </file>
       <file name="$USER_HOME$/projects/lisa/mysetup.py" timestamp="1464961249453">
         <mark key="'" line="238" column="56" />
@@ -1458,46 +1457,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;tree_volume.pklz&quot;</text>
+        <text>png</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;tree_volume.pklz&quot;</text>
+        <text>png</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb25mXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X2lvM2Qoc2VsZik6CiAgICAgICAgaW1wb3J0IGlvM2QKICAgICAgICBkYXRhM2QgPSBucC56ZXJvcyhbMTAsMTAsMTBdKQogICAgICAgIHNlZ21lbnRhdGlvbiA9IG5wLnplcm9zKFsxMCwxMCwxMF0pCgogICAgICAgIGRhdGEzZCBbMjo3LDozOjUsIDo2XSA9IDEwMAogICAgICAgIGRhdGFwID0gewogICAgICAgICAgICAiZGF0YTNkIjogZGF0YTNkLAogICAgICAgICAgICAjICJzZWdtZW50YXRpb24iOiBzZWdtZW50YXRpb24sCiAgICAgICAgICAgICJ2b3hlbHNpemVfbW0iOiBbMSwxLDFdCiAgICAgICAgfQogICAgICAgIGlvM2Qud3JpdGUoZGF0YXAsICJmaWxlMS5wa2x6IikK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmdlbi5ydW4oKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IGlvM2QK</text>
+        <text encoding="base64">ICAgICAgICAjIGdkX21heF9pID0gMAogICAgICAgICMgZm9yIGtleSwgdmFsdWUgaW4gc2VsZi5jb25maWdfaW4uaXRlcml0ZW1zKCk6CiAgICAgICAgIyAgICAgaWYgdHlwZSh2YWx1ZSkgaXMgaW50OgogICAgICAgICMgICAgICAgICBzYiA9IFFTcGluQm94KCkKICAgICAgICAjICAgICAgICAgc2Iuc2V0UmFuZ2UoLTEwMDAwMCwgMTAwMDAwKQogICAgICAgICMgICAgIGVsaWYgdHlwZSh2YWx1ZSkgaXMgZmxvYXQ6CiAgICAgICAgIyAgICAgICAgIHNiID0gUURvdWJsZVNwaW5Cb3goKQogICAgICAgICMgICAgIGVsaWYgdHlwZSh2YWx1ZSkgaXMgc3RyOgogICAgICAgICMgICAgICAgICBzYiA9IFFMaW5lRWRpdCgpCiAgICAgICAgIyAgICAgZWxpZiB0eXBlKHZhbHVlKSBpcyBib29sOgogICAgICAgICMgICAgICAgICBzYiA9IFFDaGVja0JveCgpCiAgICAgICAgIyAgICAgZWxzZToKICAgICAgICAjICAgICAgICAgbG9nZ2VyLmVycm9yKCJVbmV4cGVjdGVkIHR5cGUgaW4gY29uZmlnIGRpY3Rpb25hcnkiKQogICAgICAgICMKICAgICAgICAjCiAgICAgICAgIyAgICAgcm93ID0gZ2RfbWF4X2kgLyBzZWxmLm5jb2xzCiAgICAgICAgIyAgICAgY29sID0gKGdkX21heF9pICUgc2VsZi5uY29scykgKiAyCiAgICAgICAgIwogICAgICAgICMgICAgIGdkLmFkZFdpZGdldChRTGFiZWwoa2V5KSxyb3csIGNvbCArMSkKICAgICAgICAjICAgICBnZC5hZGRXaWRnZXQoc2IsIHJvdywgY29sICsgMikKICAgICAgICAjICAgICBzZWxmLmNvbmZpZy5hZGRfaGFuZGxlcihrZXksIHNiKQogICAgICAgICMgICAgIGdkX21heF9pICs9IDEKICAgICAgICAjCiAgICAgICAgIyB0ZXh0X2NvbCA9IChzZWxmLm5jb2xzICogMikgKyAzCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbzNkLndyaXRlKGRhdGFwLCAiZmlsZTEucGtseiIpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmdlbi5ydW4oKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaW8zZAo=</text>
+        <text encoding="base64">ICAgICAgICBmcm9tIC4uIGltcG9ydCBzaW1wbGVpbwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxuID0gZGF0YTNkLnNoYXBlWzBdCg==</text>
+        <text encoding="base64">ICAgICAgICAjIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpbzNkLndyCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">CiAgICAgICAgICAgIHR2Z3ZvbCA9IFRyZWVCdWlsZGVyKCd2b2wnKQogICAgICAgICAgICB0dmd2b2wudm94ZWxzaXplX21tID0gWzEsIDEsIDFdCiAgICAgICAgICAgIHR2Z3ZvbC5zaGFwZSA9IFsxMDAsIDEwMCwgMTAwXQogICAgICAgICAgICB0dmd2b2wudHJlZV9kYXRhID0gdHJlZV9kYXRhCiAgICAgICAgICAgIG91dHB1dHZvbCA9IHR2Z3ZvbC5idWlsZFRyZWUoKQogICAgICAgICAgICAjIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCiAgICAgICAgICAgIGZyb20gLi4gaW1wb3J0IHNpbXBsZWlvCiAgICAgICAgICAgICMgc2ltcGxlaW8uc2F2ZV9pbWFnZV9zdGFjayhvdXRwdXR2b2wuYXN0eXBlKG5wLnVpbnQ4KSoxNTAsIGZuKQoKICAgICAgICAgICAgdHZndm9sLnNhdmVUb0ZpbGUoZm4pCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZm4gPSAib3V0cHV0L291dHB1dHs6MDVkfS5qcGciCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAidHJlZV92b2x1bWUucGtseiIK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAiZGVmYXVsdCBhcmdzIgogICAgICAgIHByaW50IHNlbGYuY29uZmlnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IGlvM2QK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
