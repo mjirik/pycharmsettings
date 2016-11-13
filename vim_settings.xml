@@ -699,11 +699,14 @@
         <mark key="." line="837" column="0" />
         <mark key="^" line="827" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/dictwidgetqt.py" timestamp="1479049055652">
-        <mark key="[" line="35" column="26" />
-        <mark key="]" line="34" column="7" />
-        <mark key="^" line="34" column="7" />
-        <mark key="." line="34" column="7" />
+      <file name="$USER_HOME$/projects/teigen/teigen/dictwidgetqt.py" timestamp="1479053274004">
+        <mark key="a" line="83" column="22" />
+        <mark key="'" line="42" column="31" />
+        <mark key="z" line="165" column="41" />
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="." line="84" column="0" />
+        <mark key="^" line="88" column="39" />
       </file>
       <file name="$USER_HOME$/projects/teigen/.gitignore" timestamp="1478268146916">
         <mark key="[" line="88" column="12" />
@@ -1340,7 +1343,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/projects/imtools/imtools/show_segmentation_qt.py" />
       <jump line="66" column="0" filename="$USER_HOME$/projects/imtools/imtools/show_segmentation_qt.py" />
       <jump line="18" column="17" filename="$USER_HOME$/projects/imtools/imtools/show_segmentation_qt.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
@@ -1440,13 +1442,14 @@
       <jump line="91" column="0" filename="$USER_HOME$/projects/teigen/teigen/generators/cylindersqt.py" />
       <jump line="73" column="0" filename="$USER_HOME$/projects/io3d/io3d/datareaderqt.py" />
       <jump line="105" column="29" filename="$USER_HOME$/projects/teigen/teigen/generators/cylindersqt.py" />
+      <jump line="42" column="31" filename="$USER_HOME$/projects/teigen/teigen/dictwidgetqt.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50IGNhcHRpb24K</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>key</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkYXRhcGF0aFw+</text>
@@ -1455,34 +1458,34 @@
         <text encoding="base64">ICAgICAgICBzZWxmLm1haW5MYXlvdXQgPSBRR3JpZExheW91dChzZWxmKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50IGNhcHRpb24K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGN3LmV4ZWNfKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGltcAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGN3LmV4ZWNfKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBRUHVzaEJ1dHRvblwgCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNvbmZpZ19pbiA9IGNvbmZpZ19pbgo=</text>
+        <text encoding="base64">ICAgIGN3LmV4ZWNfKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNvbmZpZ19pbiA9IGNvbmZpZ19pbgo=</text>
+        <text encoding="base64">ICAgIGN3LmV4ZWNfKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICBRUHVzaEJ1dHRvblwgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNvbmZpZ19pbiA9IGNvbmZpZ19pbgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNvbmZpZ19pbiA9IGNvbmZpZ19pbgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1519,7 +1522,6 @@
         <entry encoding="base64">XDxkYXRhcGF0aFw+</entry>
       </history-search>
       <history-cmd>
-        <entry>195</entry>
         <entry>62</entry>
         <entry>528</entry>
         <entry>582</entry>
@@ -1538,6 +1540,7 @@
         <entry>123</entry>
         <entry>149</entry>
         <entry>130</entry>
+        <entry>85</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
