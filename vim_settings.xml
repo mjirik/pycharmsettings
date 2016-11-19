@@ -470,11 +470,11 @@
         <mark key="^" line="57" column="47" />
         <mark key="." line="57" column="47" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/meta.yaml" timestamp="1479590951988">
-        <mark key="[" line="53" column="16" />
-        <mark key="]" line="54" column="11" />
-        <mark key="^" line="54" column="11" />
-        <mark key="." line="54" column="11" />
+      <file name="$USER_HOME$/projects/teigen/meta.yaml" timestamp="1479595396881">
+        <mark key="[" line="54" column="12" />
+        <mark key="]" line="55" column="14" />
+        <mark key="^" line="55" column="14" />
+        <mark key="." line="55" column="14" />
       </file>
       <file name="$USER_HOME$/projects/quaha/quaha/histology_analyser.py" timestamp="1445350234957">
         <mark key="'" line="502" column="11" />
@@ -543,13 +543,13 @@
         <mark key="^" line="269" column="68" />
         <mark key="." line="269" column="68" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/generators/cylindersqt.py" timestamp="1479594829906">
+      <file name="$USER_HOME$/projects/teigen/teigen/generators/cylindersqt.py" timestamp="1479595349713">
         <mark key="a" line="109" column="19" />
-        <mark key="'" line="233" column="4" />
-        <mark key="[" line="174" column="24" />
-        <mark key="]" line="174" column="24" />
-        <mark key="^" line="174" column="24" />
-        <mark key="." line="174" column="24" />
+        <mark key="'" line="231" column="4" />
+        <mark key="[" line="173" column="12" />
+        <mark key="]" line="173" column="16" />
+        <mark key="^" line="173" column="16" />
+        <mark key="." line="173" column="16" />
       </file>
       <file name="$USER_HOME$/projects/lisa/tests/skeleton_test.py" timestamp="1465383548233">
         <mark key="[" line="11" column="0" />
@@ -710,9 +710,6 @@
         <mark key="^" line="58" column="115" />
         <mark key="." line="58" column="115" />
       </file>
-      <file name="/Dummy.txt" timestamp="1479595057172">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/imtools/imtools/gt_volume.py" timestamp="1465564170118">
         <mark key="'" line="135" column="0" />
         <mark key="[" line="26" column="0" />
@@ -731,11 +728,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/installer.bat" timestamp="1479589309040">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="10" column="28" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/projects/teigen/installer.bat" timestamp="1479595411396">
+        <mark key="[" line="2" column="47" />
+        <mark key="]" line="2" column="59" />
+        <mark key="^" line="2" column="59" />
+        <mark key="." line="2" column="59" />
       </file>
       <file name="$USER_HOME$/projects/io3d/io3d/datawriter.py" timestamp="1475921399048">
         <mark key="[" line="91" column="0" />
@@ -1317,9 +1314,12 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="27" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/tests/tube_tree_test.py" timestamp="1479593937577">
-        <mark key="'" line="257" column="4" />
-        <mark key="[" line="238" column="9" />
+      <file name="$USER_HOME$/projects/teigen/tests/tube_tree_test.py" timestamp="1479595172205">
+        <mark key="'" line="159" column="28" />
+        <mark key="[" line="225" column="20" />
+        <mark key="]" line="225" column="31" />
+        <mark key="." line="225" column="31" />
+        <mark key="^" line="225" column="31" />
       </file>
       <file name="$USER_HOME$/projects/skelet3d/skelet3d/tb_vtk.py" timestamp="1476172983893">
         <mark key="[" line="133" column="39" />
@@ -1491,7 +1491,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="464" column="19" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="473" column="17" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="477" column="19" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="482" column="23" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
@@ -1591,49 +1590,50 @@
       <jump line="1201" column="27" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="161" column="0" filename="$USER_HOME$/projects/teigen/teigen/generators/cylindersqt.py" />
       <jump line="226" column="4" filename="$USER_HOME$/projects/teigen/teigen/generators/cylindersqt.py" />
+      <jump line="159" column="28" filename="$USER_HOME$/projects/teigen/tests/tube_tree_test.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBleGNlcHQ6CiAgICAgICAgICAgIHBhc3MK</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>3D Visu</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxlbmFtZSA9ICJmaWxlezowNWR9LmpwZyIK</text>
+        <text encoding="base64">ICAgIEB1bml0dGVzdC5za2lwSWYobm90ICgibGFyY2MiIGluIHN5cy5tb2R1bGVzKSwgImxhcmNjIGlzIG5vdCBpbnN0YWxsZWQiKQogICAgZGVmIHRlc3RfdmVzc2VsX3RyZWVfbGFyKHNlbGYpOgo=</text>
       </register>
-      <register name="1" type="4">
-        <text>}</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBleGNlcHQ6CiAgICAgICAgICAgIHBhc3MK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>{</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJmaWxlezowNWR9LmpwZyIsCg==</text>
-      </register>
-      <register name="4" type="4">
-        <text>}</text>
-      </register>
-      <register name="5" type="4">
-        <text>05d</text>
-      </register>
-      <register name="6" type="4">
+      <register name="3" type="4">
         <text>:</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X3Zlc3NlbF90cmVlX2xhcihzZWxmKToK</text>
+      </register>
+      <register name="5" type="4">
+        <text>not (&quot;larcc&quot; in sys.modules), &quot;larcc is not installed&quot;)</text>
+      </register>
+      <register name="6" type="4">
+        <text>(</text>
+      </register>
       <register name="7" type="4">
-        <text>{</text>
+        <text>If</text>
       </register>
       <register name="8" type="4">
-        <text>&quot;</text>
+        <text>}</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text>{</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
