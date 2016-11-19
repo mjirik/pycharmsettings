@@ -543,11 +543,11 @@
         <mark key="^" line="269" column="68" />
         <mark key="." line="269" column="68" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/generators/cylindersqt.py" timestamp="1479120367288">
+      <file name="$USER_HOME$/projects/teigen/teigen/generators/cylindersqt.py" timestamp="1479591768413">
         <mark key="a" line="103" column="19" />
-        <mark key="'" line="69" column="17" />
-        <mark key="[" line="148" column="38" />
-        <mark key="]" line="148" column="41" />
+        <mark key="'" line="226" column="4" />
+        <mark key="[" line="226" column="0" />
+        <mark key="]" line="226" column="32" />
         <mark key="^" line="148" column="41" />
         <mark key="." line="148" column="41" />
       </file>
@@ -1320,12 +1320,12 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="27" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/tests/tube_tree_test.py" timestamp="1479065967603">
-        <mark key="'" line="240" column="4" />
-        <mark key="[" line="223" column="39" />
-        <mark key="]" line="223" column="48" />
-        <mark key="." line="223" column="48" />
-        <mark key="^" line="223" column="48" />
+      <file name="$USER_HOME$/projects/teigen/tests/tube_tree_test.py" timestamp="1479593085124">
+        <mark key="'" line="256" column="4" />
+        <mark key="[" line="238" column="9" />
+        <mark key="]" line="231" column="32" />
+        <mark key="." line="231" column="32" />
+        <mark key="^" line="231" column="32" />
       </file>
       <file name="$USER_HOME$/projects/skelet3d/skelet3d/tb_vtk.py" timestamp="1476172983893">
         <mark key="[" line="133" column="39" />
@@ -1497,8 +1497,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="328" column="34" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
-      <jump line="440" column="0" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="464" column="19" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="473" column="17" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="477" column="19" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
@@ -1597,49 +1595,51 @@
       <jump line="499" column="37" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="447" column="28" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="1201" column="27" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="161" column="0" filename="$USER_HOME$/projects/teigen/teigen/generators/cylindersqt.py" />
+      <jump line="226" column="4" filename="$USER_HOME$/projects/teigen/teigen/generators/cylindersqt.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHN5cwppbXBvcnQgZ2VuZXJhdG9ycy5jeWxpbmRlcnNxdAo=</text>
+      <register name="&quot;" type="4">
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>3D Visu</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIC0gcHlxdCA0LjExLioK</text>
+      <register name="0" type="4">
+        <text>&quot;Image files (*.jpg *.gif)&quot;</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHN5cwppbXBvcnQgZ2VuZXJhdG9ycy5jeWxpbmRlcnNxdAo=</text>
+      <register name="1" type="4">
+        <text>&quot;</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBnZW5lcmF0b3JzIGdlbmVyYXRvcnMuY3lsaW5kZXJzcXQubWFpbgo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="3" type="4">
-        <text>:</text>
+        <text>'</text>
       </register>
       <register name="4" type="4">
-        <text>gui</text>
+        <text>#</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGd1aQo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="6" type="4">
-        <text>_</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIyAiZmlsZXs6MDVkfS5qcGciLAo=</text>
       </register>
       <register name="7" type="4">
-        <text>_</text>
+        <text>.</text>
       </register>
       <register name="8" type="4">
-        <text>_</text>
+        <text>QtGui</text>
       </register>
       <register name="9" type="4">
-        <text>_</text>
+        <text>self</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
