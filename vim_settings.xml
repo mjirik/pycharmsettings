@@ -470,11 +470,11 @@
         <mark key="^" line="57" column="47" />
         <mark key="." line="57" column="47" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/meta.yaml" timestamp="1479575063998">
-        <mark key="[" line="41" column="11" />
-        <mark key="]" line="42" column="17" />
-        <mark key="^" line="42" column="17" />
-        <mark key="." line="42" column="17" />
+      <file name="$USER_HOME$/projects/teigen/meta.yaml" timestamp="1479583345948">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="^" line="35" column="3" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/projects/quaha/quaha/histology_analyser.py" timestamp="1445350234957">
         <mark key="'" line="502" column="11" />
@@ -1593,8 +1593,8 @@
       <jump line="1201" column="27" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>scipy</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC0gY29uZGEtYnVpbGQK</text>
       </register>
       <register name="-" type="4">
         <text>scipy</text>
@@ -1605,35 +1605,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICJTYXZlIGZpbGUiLAogICAgICAgICAgICAgICAgImZpbGV7OjA1ZH0uanBnIiwK</text>
       </register>
-      <register name="1" type="4">
-        <text>scipy</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIC0gY29uZGEtYnVpbGQK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIC0gYW5hY29uZGEtY2xpZW50Cg==</text>
+      </register>
+      <register name="3" type="4">
+        <text>scipy</text>
+      </register>
+      <register name="4" type="4">
         <text encoding="base64">d2dldCA=</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAiU2F2ZSBmaWxlIiwK</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBmaWxlbmFtZSA9IFF0R3VpLlFGaWxlRGlhbG9nLmdldFNhdmVGaWxlTmFtZSgKICAgICAgICAgICAgc2VsZiwKICAgICAgICAgICAgIlNhdmUgZmlsZSIsCiAgICAgICAgICAgICJmaWxlezowNWR9LmpwZyIsCiAgICAgICAgICAgICMgIi5qcGciCiAgICAgICAgKQogICAgICAgIGZpbGVuYW1lID0gc3RyKGZpbGVuYW1lKQogICAgICAgIHNlbGYuZ2VuLnNhdmVWb2x1bWVUb0ZpbGUoZmlsZW5hbWU9ZmlsZW5hbWUpCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">aW1wb3J0IHN5cwo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICByYWRpdXMgPSBzZWxmLnJhZGl1c19nZW5lcmF0b3IoKnNlbGYucmFkaXVzX2dlbmVyYXRvcl9hcmdzKQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBuZXdfY2ZnID0gc2VsZi5jb25maWd3Zy5jb25maWdfYXNfZGljdCgpCiAgICAgICAgbG9nZ2VyLmRlYnVnKHN0cihuZXdfY2ZnKSkKICAgICAgICBzZWxmLmNvbmZpZyA9IG5ld19jZmcK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBuZXdfY2ZnID0gc2VsZi5jb25maWd3Zy5jb25maWdfYXNfZGljdCgpCiAgICAgICAgbG9nZ2VyLmRlYnVnKHN0cihuZXdfY2ZnKSkKICAgICAgICBzZWxmLmNvbmZpZyA9IG5ld19jZmcK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
