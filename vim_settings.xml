@@ -232,14 +232,13 @@
         <mark key="^" line="23" column="8" />
         <mark key="." line="22" column="23" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/dictwidgetqt.py" timestamp="1479081684694">
-        <mark key="a" line="91" column="22" />
+      <file name="$USER_HOME$/projects/teigen/teigen/dictwidgetqt.py" timestamp="1479596884281">
+        <mark key="a" line="90" column="22" />
         <mark key="'" line="42" column="31" />
-        <mark key="z" line="174" column="41" />
-        <mark key="[" line="45" column="37" />
-        <mark key="]" line="46" column="41" />
-        <mark key="." line="46" column="41" />
-        <mark key="^" line="46" column="41" />
+        <mark key="z" line="175" column="41" />
+        <mark key="]" line="116" column="17" />
+        <mark key="." line="116" column="17" />
+        <mark key="^" line="116" column="17" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1479137900278">
         <mark key="a" line="338" column="8" />
@@ -1594,7 +1593,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQ6CiAgICAgICAgICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgIGRlZiBjcmVhdGVfYXJyYXlfYm94Cg==</text>
       </register>
       <register name="-" type="4">
         <text>:</text>
@@ -1606,34 +1605,34 @@
         <text encoding="base64">ICAgIEB1bml0dGVzdC5za2lwSWYobm90ICgibGFyY2MiIGluIHN5cy5tb2R1bGVzKSwgImxhcmNjIGlzIG5vdCBpbnN0YWxsZWQiKQogICAgZGVmIHRlc3RfdmVzc2VsX3RyZWVfbGFyKHNlbGYpOgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQ6CiAgICAgICAgICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgIGRlZiBjcmVhdGVfYXJyYXlfYm94Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="3" type="4">
-        <text>:</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAjIHRleHRfY29sID0gKHNlbGYubmNvbHMgKiAyKSArIDMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X3Zlc3NlbF90cmVlX2xhcihzZWxmKToK</text>
+        <text encoding="base64">ICAgICAgICBleGNlcHQ6CiAgICAgICAgICAgIHBhc3MK</text>
       </register>
-      <register name="5" type="4">
-        <text>not (&quot;larcc&quot; in sys.modules), &quot;larcc is not installed&quot;)</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
       </register>
       <register name="6" type="4">
-        <text>(</text>
+        <text>:</text>
       </register>
-      <register name="7" type="4">
-        <text>If</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X3Zlc3NlbF90cmVlX2xhcihzZWxmKToK</text>
       </register>
       <register name="8" type="4">
-        <text>}</text>
+        <text>not (&quot;larcc&quot; in sys.modules), &quot;larcc is not installed&quot;)</text>
       </register>
       <register name="9" type="4">
-        <text>{</text>
+        <text>(</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
