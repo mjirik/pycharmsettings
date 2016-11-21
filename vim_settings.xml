@@ -796,14 +796,14 @@
         <mark key="^" line="33" column="53" />
         <mark key="." line="33" column="53" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/dictwidgetqt.py" timestamp="1479769781800">
-        <mark key="a" line="205" column="7" />
-        <mark key="'" line="205" column="40" />
-        <mark key="z" line="194" column="41" />
-        <mark key="[" line="71" column="8" />
-        <mark key="]" line="126" column="0" />
-        <mark key="." line="126" column="0" />
-        <mark key="^" line="126" column="0" />
+      <file name="$USER_HOME$/projects/teigen/teigen/dictwidgetqt.py" timestamp="1479771122031">
+        <mark key="a" line="211" column="7" />
+        <mark key="'" line="211" column="40" />
+        <mark key="z" line="200" column="41" />
+        <mark key="[" line="51" column="59" />
+        <mark key="]" line="51" column="62" />
+        <mark key="." line="51" column="62" />
+        <mark key="^" line="51" column="62" />
       </file>
       <file name="$USER_HOME$/projects/quantan/quantan/quantan.py" timestamp="1465904477828">
         <mark key="[" line="837" column="0" />
@@ -980,10 +980,13 @@
         <mark key="^" line="202" column="30" />
         <mark key="." line="203" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1479728036796">
+      <file name="/Python Console" timestamp="1479771080548">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="3" />
+        <mark key="^" line="0" column="3" />
+        <mark key="." line="0" column="3" />
       </file>
-      <file name="/fragment.py" timestamp="1478256336012">
+      <file name="/fragment.py" timestamp="1479771005948">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/quantan/quantan/histology_report.py" timestamp="1452186060856">
@@ -1607,25 +1610,25 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>types</text>
+        <text>dict</text>
       </register>
       <register name="-" type="4">
-        <text>types</text>
+        <text>dict</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1cGRhdGVfc2xhYl91aVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuY29tcG9zZWRba2V5XS5hcHBlbmQoa2V5KQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl90bXBfY29tcG9zZWRfa2V5c19kaWN0ID0ge30K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBrZXlfYXJyYXlfaSArPSAxCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fZ2V0X3RtcF9jb21wb3NlZF9rZXlzKGNvbmZpZ19pbikK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBrZXlfYXJyYXlfaSArPSAxCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -1634,16 +1637,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYudnRrdi5TdGFydCgpCiAgICAgICAgIyBvciBzaG93IHdpbgogICAgICAgICMgc2VsZi5yZW5XaW4uUmVuZGVyKCkKICAgICAgICAjIHNlbGYudnRrdi5pcmVuLlN0YXJ0KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzdy5zaG93KCkK</text>
+        <text encoding="base64">ICAgICAgICAjIHNlbGYudnRrdi5TdGFydCgpCiAgICAgICAgIyBvciBzaG93IHdpbgogICAgICAgICMgc2VsZi5yZW5XaW4uUmVuZGVyKCkKICAgICAgICAjIHNlbGYudnRrdi5pcmVuLlN0YXJ0KCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9yb3cgPSAwCg==</text>
+        <text encoding="base64">ICAgICAgICBzdy5zaG93KCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9yb3cgPSAwCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
