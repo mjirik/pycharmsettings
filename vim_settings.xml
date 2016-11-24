@@ -474,12 +474,12 @@
         <mark key="^" line="14" column="33" />
         <mark key="." line="14" column="33" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1479945291512">
+      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1479945554942">
         <mark key="'" line="30" column="22" />
-        <mark key="[" line="71" column="61" />
-        <mark key="]" line="71" column="61" />
-        <mark key="^" line="31" column="31" />
-        <mark key="." line="71" column="61" />
+        <mark key="[" line="69" column="43" />
+        <mark key="]" line="70" column="15" />
+        <mark key="." line="70" column="15" />
+        <mark key="^" line="70" column="15" />
       </file>
       <file name="$USER_HOME$/projects/skelet3d/skelet3d/skeleton_analyser.py" timestamp="1465560469197">
         <mark key="a" line="527" column="28" />
@@ -992,7 +992,7 @@
         <mark key="^" line="202" column="30" />
         <mark key="." line="203" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1479771080548">
+      <file name="/Python Console" timestamp="1479945573186">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -1622,10 +1622,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>**self.config2</text>
+        <text encoding="base64">cHJpbnQg</text>
       </register>
       <register name="-" type="4">
-        <text>**self.config2</text>
+        <text encoding="base64">cHJpbnQg</text>
       </register>
       <register name="/" type="4">
         <text>tablewidget</text>
@@ -1634,34 +1634,34 @@
         <text encoding="base64">ICAgICAgICBzZWxmLmdlbiA9IGdlbmVyYXRvcnMuZ2Vuc2VpX3dyYXBwZXIuR2Vuc2VpR2VuZXJhdG9yKCoqc2VsZi5jb25maWcyKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAjIGFyZWFfc2hhcGVfej0xMDAsCiAgICAgICAgICAgICAgICAgIyBhcmVhX3NoYXBlX3g9MTAwLAogICAgICAgICAgICAgICAgICMgYXJlYV9zaGFwZV95PTEwMCwKICAgICAgICAgICAgICAgICBlbGVtZW50X251bWJlcj0zMCwKICAgICAgICAgICAgICAgICB1bmlmb3JtX3JhZGl1cz1GYWxzZSwKICAgICAgICAgICAgICAgICBub3JtYWxfcmFkaXVzPUZhbHNlLAogICAgICAgICAgICAgICAgIGZpeGVkX3JhZGl1cz1GYWxzZSwKICAgICAgICAgICAgICAgICByYWRpdXNfbWluaW11bT0yLjAsCiAgICAgICAgICAgICAgICAgcmFkaXVzX21heGltdW09MTAuMCwKICAgICAgICAgICAgICAgICByYWRpdXNfbWVhbj01LjAsCiAgICAgICAgICAgICAgICAgcmFkaXVzX3N0YW5kYXJkX2RldmlhdGlvbj01LjAsCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmdlbl90YWJfd2cuY3Vycgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAjIHZveGVsc2l6ZV9tbV96PTEuMCwKICAgICAgICAgICAgICAgICAjIHZveGVsc2l6ZV9tbV94PTEuMCwKICAgICAgICAgICAgICAgICAjIHZveGVsc2l6ZV9tbV95PTEuMCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAjIGFyZWFfc2hhcGVfej0xMDAsCiAgICAgICAgICAgICAgICAgIyBhcmVhX3NoYXBlX3g9MTAwLAogICAgICAgICAgICAgICAgICMgYXJlYV9zaGFwZV95PTEwMCwKICAgICAgICAgICAgICAgICBlbGVtZW50X251bWJlcj0zMCwKICAgICAgICAgICAgICAgICB1bmlmb3JtX3JhZGl1cz1GYWxzZSwKICAgICAgICAgICAgICAgICBub3JtYWxfcmFkaXVzPUZhbHNlLAogICAgICAgICAgICAgICAgIGZpeGVkX3JhZGl1cz1GYWxzZSwKICAgICAgICAgICAgICAgICByYWRpdXNfbWluaW11bT0yLjAsCiAgICAgICAgICAgICAgICAgcmFkaXVzX21heGltdW09MTAuMCwKICAgICAgICAgICAgICAgICByYWRpdXNfbWVhbj01LjAsCiAgICAgICAgICAgICAgICAgcmFkaXVzX3N0YW5kYXJkX2RldmlhdGlvbj01LjAsCg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAjIHZveGVsc2l6ZV9tbV96PTEuMCwKICAgICAgICAgICAgICAgICAjIHZveGVsc2l6ZV9tbV94PTEuMCwKICAgICAgICAgICAgICAgICAjIHZveGVsc2l6ZV9tbV95PTEuMCwK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICBidWlsZD1UcnVlLAogICAgICAgICAgICAgICAgIGd0cmVlPU5vbmUsCiAgICAgICAgICAgICAgICAgIyBlbmREaXN0TXVsdGlwbGljYXRvcj0xLAogICAgICAgICAgICAgICAgICMgdXNlX2pvaW50cz1UcnVlLAo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">Y3lsaW5kZXJzcXQg</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>.</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>enerators</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">aW1wb3J0IGdlbmVyYXRvcnMK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">aW1wb3J0IA==</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">cXJvbSA=</text>
+        <text encoding="base64">aW1wb3J0IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
