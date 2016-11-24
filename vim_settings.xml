@@ -289,11 +289,11 @@
         <mark key="^" line="78" column="16" />
         <mark key="." line="78" column="16" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/installer.bat" timestamp="1479728594921">
-        <mark key="[" line="6" column="26" />
-        <mark key="]" line="2" column="46" />
-        <mark key="^" line="2" column="46" />
-        <mark key="." line="2" column="46" />
+      <file name="$USER_HOME$/projects/teigen/installer.bat" timestamp="1480019574475">
+        <mark key="[" line="13" column="48" />
+        <mark key="]" line="13" column="48" />
+        <mark key="^" line="13" column="48" />
+        <mark key="." line="13" column="48" />
       </file>
       <file name="$USER_HOME$/projects/teigen/teigen/__init__.py" timestamp="1479914487663">
         <mark key="[" line="0" column="6" />
@@ -688,7 +688,7 @@
         <mark key="^" line="178" column="21" />
         <mark key="." line="178" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1480019001858">
+      <file name="/Dummy.txt" timestamp="1480019576361">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -795,12 +795,11 @@
         <mark key="^" line="23" column="8" />
         <mark key="." line="22" column="23" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/generators/gensei_wrapper.py" timestamp="1480018476322">
-        <mark key="'" line="161" column="40" />
-        <mark key="[" line="57" column="32" />
-        <mark key="]" line="57" column="48" />
-        <mark key="." line="57" column="48" />
-        <mark key="^" line="57" column="48" />
+      <file name="$USER_HOME$/projects/teigen/teigen/generators/gensei_wrapper.py" timestamp="1480019456863">
+        <mark key="'" line="56" column="43" />
+        <mark key="[" line="122" column="0" />
+        <mark key="]" line="124" column="39" />
+        <mark key="." line="122" column="0" />
       </file>
       <file name="$USER_HOME$/projects/imtools/imtools/segmentation.py" timestamp="1451859586696">
         <mark key="'" line="53" column="8" />
@@ -1534,7 +1533,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="652" column="24" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="305" column="18" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="337" column="53" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
@@ -1634,10 +1632,11 @@
       <jump line="115" column="36" filename="$USER_HOME$/projects/teigen/teigen/generators/gensei_wrapper.py" />
       <jump line="117" column="10" filename="$USER_HOME$/projects/teigen/teigen/generators/gensei_wrapper.py" />
       <jump line="151" column="40" filename="$USER_HOME$/projects/teigen/teigen/generators/gensei_wrapper.py" />
+      <jump line="56" column="43" filename="$USER_HOME$/projects/teigen/teigen/generators/gensei_wrapper.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBmcm9tIGdlbnNlaS5iYXNlIGltcG9ydCAqCiAgICAgICAgZnJvbSBnZW5zZWkgaW1wb3J0IE9iamVjdHMsIEJveAogICAgICAgIGZyb20gZ2Vuc2VpLnV0aWxzIGltcG9ydCBnZXRfc3VmZml4Cg==</text>
       </register>
       <register name="-" type="4">
         <text>}</text>
@@ -1649,34 +1648,34 @@
         <text encoding="base64">ICAgICAgICBjb25maWcuYm94WydkaW1zJ10gPSBzZWxmLmRpbXMK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYuYXJlYV92b2x1bWUgPSBucC5wcm9kKHNlbGYuYXJlYV9zaGFwZSAqIHNlbGYudm94ZWxzaXplX21tKQo=</text>
+        <text encoding="base64">ICAgICAgICBmcm9tIGdlbnNlaS5iYXNlIGltcG9ydCAqCiAgICAgICAgZnJvbSBnZW5zZWkgaW1wb3J0IE9iamVjdHMsIEJveAogICAgICAgIGZyb20gZ2Vuc2VpLnV0aWxzIGltcG9ydCBnZXRfc3VmZml4Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">ICAgIGRlZiBpbXBvcnRfZ2Vuc2VpKHNlbGYpOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmb3Igb2JqIGluIHNlbGYuCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmltcG9ydF9nZW5zZWkoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBdCg==</text>
+        <text encoding="base64">ICAgICAgICBmcm9tIGdlbnNlaS5iYXNlIGltcG9ydCAqCiAgICAgICAgZnJvbSBnZW5zZWkgaW1wb3J0IE9iamVjdHMsIEJveAogICAgICAgIGZyb20gZ2Vuc2VpLnV0aWxzIGltcG9ydCBnZXRfc3VmZml4Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRpY3R3aWRnZXRxdC5EaWN0V2lkZ2V0KHNlbGYuY29uZmlnc1tpXSwgaGlkZV9rZXlzPWhpZGVfa2V5cyksCg==</text>
+        <text encoding="base64">ZnJvbSBnZW5zZWkuYmFzZSBpbXBvcnQgKgpmcm9tIGdlbnNlaSBpbXBvcnQgT2JqZWN0cywgQm94CmZyb20gZ2Vuc2VpLnV0aWxzIGltcG9ydCBnZXRfc3VmZml4Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIHNlbGYuYXJlYV92b2x1bWUgPSBucC5wcm9kKHNlbGYuYXJlYV9zaGFwZSAqIHNlbGYudm94ZWxzaXplX21tKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yCgogICAgICAgICAgICBkaWN0d2lkZ2V0cXQuRGljdFdpZGdldChzZWxmLmNvbmZpZ3NbMV0sIGhpZGVfa2V5cz1oaWRlX2tleXMpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3Igb2JqIGluIHNlbGYuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGljdHdpZGdldHF0LkRpY3RXaWRnZXQoc2VsZi5jb25maWdzWzBdLCBoaWRlX2tleXM9aGlkZV9rZXlzKSwK</text>
+        <text encoding="base64">ICAgICAgICBdCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
