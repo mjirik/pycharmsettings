@@ -328,13 +328,12 @@
         <mark key="." line="203" column="11" />
         <mark key="^" line="203" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/imtools/imtools/show_segmentation_qt.py" timestamp="1479766649354">
-        <mark key="a" line="161" column="7" />
-        <mark key="'" line="64" column="13" />
-        <mark key="[" line="183" column="0" />
-        <mark key="]" line="183" column="0" />
-        <mark key="." line="183" column="0" />
-        <mark key="^" line="167" column="17" />
+      <file name="$USER_HOME$/projects/imtools/imtools/show_segmentation_qt.py" timestamp="1479985788929">
+        <mark key="'" line="181" column="20" />
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="12" />
+        <mark key="." line="74" column="12" />
+        <mark key="^" line="70" column="32" />
       </file>
       <file name="$USER_HOME$/projects/lisa/INSTALL.md" timestamp="1448570601058">
         <mark key="[" line="53" column="67" />
@@ -1514,8 +1513,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="500" column="28" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
-      <jump line="501" column="17" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="273" column="13" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="294" column="13" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="317" column="13" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
@@ -1614,49 +1611,51 @@
       <jump line="30" column="22" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="87" column="42" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="107" column="58" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="306" column="0" filename="$USER_HOME$/projects/imtools/imtools/show_segmentation_qt.py" />
+      <jump line="168" column="20" filename="$USER_HOME$/projects/imtools/imtools/show_segmentation_qt.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">cHJpbnQg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAga3dhcmdzLnBvCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHJpbnQg</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>portal</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmdlbiA9IGdlbmVyYXRvcnMuZ2Vuc2VpX3dyYXBwZXIuR2Vuc2VpR2VuZXJhdG9yKCoqc2VsZi5jb25maWcyKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9yb3cgKz0gMQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmdlbl90YWJfd2cuY3Vycgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAga3dhcmdzLnBvCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAjIGFyZWFfc2hhcGVfej0xMDAsCiAgICAgICAgICAgICAgICAgIyBhcmVhX3NoYXBlX3g9MTAwLAogICAgICAgICAgICAgICAgICMgYXJlYV9zaGFwZV95PTEwMCwKICAgICAgICAgICAgICAgICBlbGVtZW50X251bWJlcj0zMCwKICAgICAgICAgICAgICAgICB1bmlmb3JtX3JhZGl1cz1GYWxzZSwKICAgICAgICAgICAgICAgICBub3JtYWxfcmFkaXVzPUZhbHNlLAogICAgICAgICAgICAgICAgIGZpeGVkX3JhZGl1cz1GYWxzZSwKICAgICAgICAgICAgICAgICByYWRpdXNfbWluaW11bT0yLjAsCiAgICAgICAgICAgICAgICAgcmFkaXVzX21heGltdW09MTAuMCwKICAgICAgICAgICAgICAgICByYWRpdXNfbWVhbj01LjAsCiAgICAgICAgICAgICAgICAgcmFkaXVzX3N0YW5kYXJkX2RldmlhdGlvbj01LjAsCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAjIHZveGVsc2l6ZV9tbV96PTEuMCwKICAgICAgICAgICAgICAgICAjIHZveGVsc2l6ZV9tbV94PTEuMCwKICAgICAgICAgICAgICAgICAjIHZveGVsc2l6ZV9tbV95PTEuMCwK</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICBidWlsZD1UcnVlLAogICAgICAgICAgICAgICAgIGd0cmVlPU5vbmUsCiAgICAgICAgICAgICAgICAgIyBlbmREaXN0TXVsdGlwbGljYXRvcj0xLAogICAgICAgICAgICAgICAgICMgdXNlX2pvaW50cz1UcnVlLAo=</text>
+        <text encoding="base64">ICAgICAgICBpbzNkLkRhdGFSZWFkZXIK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">Y3lsaW5kZXJzcXQg</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmdlbl90YWJfd2cuY3Vycgo=</text>
       </register>
-      <register name="6" type="4">
-        <text>.</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAjIGFyZWFfc2hhcGVfej0xMDAsCiAgICAgICAgICAgICAgICAgIyBhcmVhX3NoYXBlX3g9MTAwLAogICAgICAgICAgICAgICAgICMgYXJlYV9zaGFwZV95PTEwMCwKICAgICAgICAgICAgICAgICBlbGVtZW50X251bWJlcj0zMCwKICAgICAgICAgICAgICAgICB1bmlmb3JtX3JhZGl1cz1GYWxzZSwKICAgICAgICAgICAgICAgICBub3JtYWxfcmFkaXVzPUZhbHNlLAogICAgICAgICAgICAgICAgIGZpeGVkX3JhZGl1cz1GYWxzZSwKICAgICAgICAgICAgICAgICByYWRpdXNfbWluaW11bT0yLjAsCiAgICAgICAgICAgICAgICAgcmFkaXVzX21heGltdW09MTAuMCwKICAgICAgICAgICAgICAgICByYWRpdXNfbWVhbj01LjAsCiAgICAgICAgICAgICAgICAgcmFkaXVzX3N0YW5kYXJkX2RldmlhdGlvbj01LjAsCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>enerators</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAjIHZveGVsc2l6ZV9tbV96PTEuMCwKICAgICAgICAgICAgICAgICAjIHZveGVsc2l6ZV9tbV94PTEuMCwKICAgICAgICAgICAgICAgICAjIHZveGVsc2l6ZV9tbV95PTEuMCwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGdlbmVyYXRvcnMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICBidWlsZD1UcnVlLAogICAgICAgICAgICAgICAgIGd0cmVlPU5vbmUsCiAgICAgICAgICAgICAgICAgIyBlbmREaXN0TXVsdGlwbGljYXRvcj0xLAogICAgICAgICAgICAgICAgICMgdXNlX2pvaW50cz1UcnVlLAo=</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">aW1wb3J0IA==</text>
+        <text encoding="base64">Y3lsaW5kZXJzcXQg</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
