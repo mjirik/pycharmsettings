@@ -177,11 +177,10 @@
         <mark key="^" line="24" column="5" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/imtools/tests/tube_tree_test.py" timestamp="1479766380111">
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="84" column="17" />
-        <mark key="." line="84" column="0" />
-        <mark key="^" line="84" column="40" />
+      <file name="$USER_HOME$/projects/imtools/tests/tube_tree_test.py" timestamp="1480549128008">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
       </file>
       <file name="$USER_HOME$/projects/discon/meta.yaml" timestamp="1463300480628">
         <mark key="'" line="0" column="0" />
@@ -328,12 +327,12 @@
         <mark key="." line="203" column="11" />
         <mark key="^" line="203" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/imtools/imtools/show_segmentation_qt.py" timestamp="1479990973316">
-        <mark key="'" line="228" column="8" />
-        <mark key="[" line="341" column="31" />
-        <mark key="]" line="341" column="51" />
-        <mark key="^" line="341" column="51" />
-        <mark key="." line="341" column="51" />
+      <file name="$USER_HOME$/projects/imtools/imtools/show_segmentation_qt.py" timestamp="1480549932222">
+        <mark key="'" line="231" column="8" />
+        <mark key="[" line="192" column="26" />
+        <mark key="]" line="192" column="26" />
+        <mark key="^" line="192" column="25" />
+        <mark key="." line="192" column="26" />
       </file>
       <file name="$USER_HOME$/projects/lisa/INSTALL.md" timestamp="1448570601058">
         <mark key="[" line="53" column="67" />
@@ -994,13 +993,15 @@
         <mark key="^" line="202" column="30" />
         <mark key="." line="203" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/imtools/tests/widgets_test.py" timestamp="1480548437272">
-        <mark key="[" line="41" column="17" />
-        <mark key="]" line="42" column="17" />
-        <mark key="^" line="42" column="17" />
-        <mark key="." line="42" column="17" />
+      <file name="$USER_HOME$/projects/imtools/tests/widgets_test.py" timestamp="1480551839095">
+        <mark key="a" line="91" column="35" />
+        <mark key="'" line="10" column="16" />
+        <mark key="[" line="75" column="37" />
+        <mark key="]" line="77" column="39" />
+        <mark key="." line="77" column="39" />
+        <mark key="^" line="77" column="39" />
       </file>
-      <file name="/Python Console" timestamp="1480548206246">
+      <file name="/Python Console" timestamp="1480550038301">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -1534,12 +1535,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="337" column="53" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
-      <jump line="26" column="15" filename="$USER_HOME$/projects/io3d/io3d/datareaderqt.py" />
-      <jump line="152" column="24" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
-      <jump line="664" column="34" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
-      <jump line="665" column="34" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
-      <jump line="678" column="18" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="105" column="8" filename="$USER_HOME$/projects/io3d/io3d/datareaderqt.py" />
       <jump line="163" column="27" filename="$USER_HOME$/projects/io3d/io3d/datareaderqt.py" />
       <jump line="223" column="14" filename="$USER_HOME$/projects/io3d/io3d/datareaderqt.py" />
@@ -1634,49 +1629,55 @@
       <jump line="56" column="43" filename="$USER_HOME$/projects/teigen/teigen/generators/gensei_wrapper.py" />
       <jump line="270" column="0" filename="$USER_HOME$/projects/teigen/teigen/generators/gensei_wrapper.py" />
       <jump line="74" column="52" filename="$USER_HOME$/projects/teigen/teigen/generators/cylinders.py" />
+      <jump line="59" column="0" filename="$USER_HOME$/projects/imtools/tests/widgets_test.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/projects/imtools/tests/widgets_test.py" />
+      <jump line="9" column="25" filename="$USER_HOME$/projects/imtools/tests/widgets_test.py" />
+      <jump line="79" column="68" filename="$USER_HOME$/projects/imtools/tests/widgets_test.py" />
+      <jump line="80" column="35" filename="$USER_HOME$/projects/imtools/tests/widgets_test.py" />
+      <jump line="10" column="16" filename="$USER_HOME$/projects/imtools/tests/widgets_test.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>_</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaW10b29scy5zaG93X3NlZ21lbnRhdGlvbl9xdCBhcyBzc3F0CiAgICAgICAgYXBwID0gUUFwcGxpY2F0aW9uKHN5cy5hcmd2KQo=</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXNvbHV0aW9uXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBhdHRyKCdpbnRlcmFjdGl2ZScpCiAgICBkZWYgdGVzdF92aXN1YWxpemF0aW9uKHNlbGYpOgoKICAgICAgICBpbXBvcnQgUHlRdDQKICAgICAgICBmcm9tIFB5UXQ0LlF0R3VpIGltcG9ydCBRQXBwbGljYXRpb24sIFFGaWxlRGlhbG9nCiAgICAgICAgIyBmcm9tIHRlaWdlbi5kaWN0d2lkZ2V0cXQgaW1wb3J0IERpY3RXaWRnZXQKICAgICAgICAjIGZyb20gdGVpZ2VuLmd1aSBpbXBvcnQgVGVpZ2VuV2lkZ2V0CiAgICAgICAgaW1wb3J0IGltdG9vbHMuc2hvd19zZWdtZW50YXRpb25fcXQKICAgICAgICBhcHAgPSBRQXBwbGljYXRpb24oc3lzLmFyZ3YpCiAgICAgICAgY2ZnID0geyJib29sIjogVHJ1ZSwgImludCI6NSwgJ3N0cic6ICdzdHJkcnInLCAndnMnOlsxLjAsIDIuNSwgN119CiAgICAgICAgY2FwdGlvbnMgPSB7ImludCI6ICJ0b3RvIGplIGludCJ9CiAgICAgICAgY3cgPSBpbXRvb2xzLnNob3dfc2VnbWVudGF0aW9uX3F0LlNob3dTZWdtZW50YXRpb25XaWRnZXQoTm9uZSkKICAgICAgICBjdy5zaG93KCkKICAgICAgICBhcHAuZXhlY18oKQo=</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaW10b29scy5zaG93X3NlZ21lbnRhdGlvbl9xdCBhcyBzc3F0CiAgICAgICAgYXBwID0gUUFwcGxpY2F0aW9uKHN5cy5hcmd2KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBdCg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgbnVtcHkgYXMgbnAKICAgICAgICBzZWdtZW50YXRpb24gPSBucC56ZXJvcyhbMTAsIDEwLCAxMF0pCiAgICAgICAgc2VnbWVudGF0aW9uWzM6NywgMjo3LCAyOjhdID0gMQogICAgICAgIHNlZ21lbnRhdGlvbls4LCAyLCA1OjhdID0gMAogICAgICAgIHNlZ21lbnRhdGlvblszOjQsIDQ6NywgMjo0XSA9IDAKICAgICAgICBzZWdtZW50YXRpb25bNjo3LCAyLCA6XSA9IDAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIGdlbnNlaS5iYXNlIGltcG9ydCAqCiAgICAgICAgZnJvbSBnZW5zZWkgaW1wb3J0IE9iamVjdHMsIEJveAogICAgICAgIGZyb20gZ2Vuc2VpLnV0aWxzIGltcG9ydCBnZXRfc3VmZml4Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEluKCJhZGRfZGF0YV9maWxlIiwgc3cudWlfYnV0dG9ucy5rZXlzKCkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZiBpbXBvcnRfZ2Vuc2VpKHNlbGYpOgo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnZ0a3Zfc3RhcnQoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmltcG9ydF9nZW5zZWkoKQo=</text>
+        <text encoding="base64">ICAgICAgICBzdy51aV9idXR0b25zLmtleXMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIGdlbnNlaS5iYXNlIGltcG9ydCAqCiAgICAgICAgZnJvbSBnZW5zZWkgaW1wb3J0IE9iamVjdHMsIEJveAogICAgICAgIGZyb20gZ2Vuc2VpLnV0aWxzIGltcG9ydCBnZXRfc3VmZml4Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgUHlRdDQKICAgICAgICBmcm9tIFB5UXQ0LlF0R3VpIGltcG9ydCBRQXBwbGljYXRpb24sIFFGaWxlRGlhbG9nCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBnZW5zZWkuYmFzZSBpbXBvcnQgKgpmcm9tIGdlbnNlaSBpbXBvcnQgT2JqZWN0cywgQm94CmZyb20gZ2Vuc2VpLnV0aWxzIGltcG9ydCBnZXRfc3VmZml4Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgUHlRdDQKICAgICAgICBmcm9tIFB5UXQ0LlF0R3VpIGltcG9ydCBRQXBwbGljYXRpb24sIFFGaWxlRGlhbG9nCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYuYXJlYV92b2x1bWUgPSBucC5wcm9kKHNlbGYuYXJlYV9zaGFwZSAqIHNlbGYudm94ZWxzaXplX21tKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">ICAgICAgICMgR1VJCiAgICAtICJleHBvcnQgRElTUExBWT06OTkuMCIKICAgIC0gc2ggLWUgL2V0Yy9pbml0LmQveHZmYiBzdGFydAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmb3Igb2JqIGluIHNlbGYuCg==</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X3Nob3dfc2VnbWVudGF0aW9uX3F0X3dpZGdldChzZWxmKToKICAgICAgICBpbXBvcnQgUHlRdDQKICAgICAgICBmcm9tIFB5UXQ0LlF0R3VpIGltcG9ydCBRQXBwbGljYXRpb24sIFFGaWxlRGlhbG9nCiAgICAgICAgIyBmcm9tIHRlaWdlbi5kaWN0d2lkZ2V0cXQgaW1wb3J0IERpY3RXaWRnZXQKICAgICAgICAjIGZyb20gdGVpZ2VuLmdlbmVyYXRvcnMuY3lsaW5kZXJzcXQgaW1wb3J0IEN5bGluZGVyc1dpZGdldAogICAgICAgIGltcG9ydCBpbXRvb2xzLnNob3dfc2VnbWVudGF0aW9uX3F0IGFzIHNzcXQKICAgICAgICBhcHAgPSBRQXBwbGljYXRpb24oc3lzLmFyZ3YpCiAgICAgICAgc3cgPSBzc3F0LlNob3dTZWdtZW50YXRpb25XaWRnZXQoTm9uZSkKICAgICAgICBzdy5zaG93KCkKICAgICAgICBhcHAuZXhlY18oKQoKICAgIGRlZiB0ZXN0X3Nob3dfc2VnbWVudGF0aW9uX3F0X3dpZGdldF9oaWRkZW5fYnV0dG9ucyhzZWxmKToKICAgICAgICBpbXBvcnQgUHlRdDQKICAgICAgICBmcm9tIFB5UXQ0LlF0R3VpIGltcG9ydCBRQXBwbGljYXRpb24sIFFGaWxlRGlhbG9nCiAgICAgICAgIyBmcm9tIHRlaWdlbi5kaWN0d2lkZ2V0cXQgaW1wb3J0IERpY3RXaWRnZXQKICAgICAgICAjIGZyb20gdGVpZ2VuLmdlbmVyYXRvcnMuY3lsaW5kZXJzcXQgaW1wb3J0IEN5bGluZGVyc1dpZGdldAogICAgICAgIGltcG9ydCBpbXRvb2xzLnNob3dfc2VnbWVudGF0aW9uX3F0IGFzIHNzcXQKICAgICAgICBhcHAgPSBRQXBwbGljYXRpb24oc3lzLmFyZ3YpCiAgICAgICAgc3cgPSBzc3F0LlNob3dTZWdtZW50YXRpb25XaWRnZXQoTm9uZSwgc2hvd19idXR0b25zPUZhbHNlKQogICAgICAgICMgc3cuc2hvdygpCiAgICAgICAgc3cuc2hvd19maWxlKCJ+L3Byb2plY3RzL2ltdG9vbHMvbWVzaC52dGsiKQogICAgICAgIGFwcC5leGVjXygpCgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
