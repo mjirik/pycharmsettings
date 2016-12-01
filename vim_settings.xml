@@ -649,13 +649,13 @@
         <mark key="." line="160" column="32" />
         <mark key="^" line="160" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/imtools/imtools/sample_data.py" timestamp="1480593939853">
-        <mark key="a" line="165" column="12" />
-        <mark key="'" line="130" column="31" />
-        <mark key="[" line="90" column="57" />
-        <mark key="]" line="90" column="61" />
-        <mark key="." line="90" column="61" />
-        <mark key="^" line="90" column="61" />
+      <file name="$USER_HOME$/projects/imtools/imtools/sample_data.py" timestamp="1480604903715">
+        <mark key="a" line="177" column="12" />
+        <mark key="'" line="142" column="31" />
+        <mark key="[" line="67" column="10" />
+        <mark key="]" line="67" column="15" />
+        <mark key="." line="67" column="15" />
+        <mark key="^" line="67" column="15" />
       </file>
       <file name="$USER_HOME$/Dropbox/studium/dizertace/data/jkunes/compare_histology_results.py" timestamp="1450862143914">
         <mark key="'" line="322" column="8" />
@@ -684,7 +684,7 @@
         <mark key="^" line="178" column="21" />
         <mark key="." line="178" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1480594136101">
+      <file name="/Dummy.txt" timestamp="1480596824921">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -746,11 +746,12 @@
         <mark key="^" line="2" column="69" />
         <mark key="." line="2" column="69" />
       </file>
-      <file name="$USER_HOME$/projects/imtools/tests/sample_data_test.py" timestamp="1476877664669">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="47" />
-        <mark key="." line="39" column="0" />
-        <mark key="^" line="44" column="41" />
+      <file name="$USER_HOME$/projects/imtools/tests/sample_data_test.py" timestamp="1480604823057">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="42" column="34" />
+        <mark key="]" line="41" column="9" />
+        <mark key="." line="41" column="9" />
+        <mark key="^" line="41" column="9" />
       </file>
       <file name="$USER_HOME$/projects/lisa/install_nosudo.sh" timestamp="1465568977912">
         <mark key="[" line="42" column="0" />
@@ -982,7 +983,7 @@
         <mark key="." line="107" column="50" />
         <mark key="^" line="107" column="50" />
       </file>
-      <file name="/Python Console" timestamp="1480593423672">
+      <file name="/Python Console" timestamp="1480604826118">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -1516,8 +1517,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="105" column="8" filename="$USER_HOME$/projects/io3d/io3d/datareaderqt.py" />
-      <jump line="163" column="27" filename="$USER_HOME$/projects/io3d/io3d/datareaderqt.py" />
       <jump line="223" column="14" filename="$USER_HOME$/projects/io3d/io3d/datareaderqt.py" />
       <jump line="253" column="18" filename="$USER_HOME$/projects/io3d/io3d/datareaderqt.py" />
       <jump line="276" column="38" filename="$USER_HOME$/projects/io3d/io3d/datareaderqt.py" />
@@ -1616,19 +1615,21 @@
       <jump line="79" column="68" filename="$USER_HOME$/projects/imtools/tests/widgets_test.py" />
       <jump line="80" column="35" filename="$USER_HOME$/projects/imtools/tests/widgets_test.py" />
       <jump line="10" column="16" filename="$USER_HOME$/projects/imtools/tests/widgets_test.py" />
+      <jump line="54" column="24" filename="$USER_HOME$/projects/imtools/tests/sample_data_test.py" />
+      <jump line="13" column="0" filename="$USER_HOME$/projects/imtools/tests/sample_data_test.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>implementation</text>
+        <text>&quot;downloading from '&quot; + url + &quot;'&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>implementation</text>
+        <text>&quot;downloading from '&quot; + url + &quot;'&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXNvbHV0aW9uXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICMgQHVuaXR0ZXN0LnNraXAoIndhaXRpbmcgZm9yIGltcGxlbWVudGF0aW9uIikK</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZygiZG93bmxvYWRpbmcgZnJvbSAnIiArIHVybCArICInIikK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLl9yb3cgKz0gMQogICAgICAgIGtleXdvcmQgPSAiQ2xlYXIiCiAgICAgICAgc2VsZi51aV9idXR0b25zW2tleXdvcmRdID0gUVB1c2hCdXR0b24oa2V5d29yZCwgc2VsZikKICAgICAgICBzZWxmLnVpX2J1dHRvbnNba2V5d29yZF0uY2xpY2tlZC5jb25uZWN0KHNlbGYuY2xlYXJfM2Rfdmlld2VyKQogICAgICAgIHNlbGYubWFpbkxheW91dC5hZGRXaWRnZXQoc2VsZi51aV9idXR0b25zW2tleXdvcmRdLCBzZWxmLl9yb3csIDEsIDEsIDMpCg==</text>
