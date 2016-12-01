@@ -984,13 +984,13 @@
         <mark key="^" line="202" column="30" />
         <mark key="." line="203" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/imtools/tests/widgets_test.py" timestamp="1480551839095">
-        <mark key="a" line="91" column="35" />
+      <file name="$USER_HOME$/projects/imtools/tests/widgets_test.py" timestamp="1480552948877">
+        <mark key="a" line="92" column="35" />
         <mark key="'" line="10" column="16" />
-        <mark key="[" line="75" column="37" />
-        <mark key="]" line="77" column="39" />
-        <mark key="." line="77" column="39" />
-        <mark key="^" line="77" column="39" />
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="24" />
+        <mark key="." line="75" column="0" />
+        <mark key="^" line="78" column="39" />
       </file>
       <file name="/Python Console" timestamp="1480550038301">
         <mark key="[" line="0" column="0" />
@@ -1629,7 +1629,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaW10b29scy5zaG93X3NlZ21lbnRhdGlvbl9xdCBhcyBzc3F0CiAgICAgICAgYXBwID0gUUFwcGxpY2F0aW9uKHN5cy5hcmd2KQo=</text>
+        <text encoding="base64">ICAgIEBhdHRyKCdpbnRlcmFjdGl2ZScpCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -1638,7 +1638,7 @@
         <text encoding="base64">XDxyZXNvbHV0aW9uXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaW10b29scy5zaG93X3NlZ21lbnRhdGlvbl9xdCBhcyBzc3F0CiAgICAgICAgYXBwID0gUUFwcGxpY2F0aW9uKHN5cy5hcmd2KQo=</text>
+        <text encoding="base64">ICAgIEBhdHRyKCdpbnRlcmFjdGl2ZScpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBpbXBvcnQgbnVtcHkgYXMgbnAKICAgICAgICBzZWdtZW50YXRpb24gPSBucC56ZXJvcyhbMTAsIDEwLCAxMF0pCiAgICAgICAgc2VnbWVudGF0aW9uWzM6NywgMjo3LCAyOjhdID0gMQogICAgICAgIHNlZ21lbnRhdGlvbls4LCAyLCA1OjhdID0gMAogICAgICAgIHNlZ21lbnRhdGlvblszOjQsIDQ6NywgMjo0XSA9IDAKICAgICAgICBzZWdtZW50YXRpb25bNjo3LCAyLCA6XSA9IDAK</text>
