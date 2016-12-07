@@ -564,8 +564,8 @@
         <mark key="." line="66" column="18" />
         <mark key="^" line="69" column="47" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/examples/myqtgraph.py" timestamp="1481112996861">
-        <mark key="'" line="5" column="25" />
+      <file name="$USER_HOME$/projects/teigen/examples/myqtgraph.py" timestamp="1481113512277">
+        <mark key="'" line="211" column="31" />
         <mark key="[" line="144" column="27" />
         <mark key="]" line="144" column="27" />
         <mark key="." line="144" column="27" />
@@ -843,14 +843,14 @@
         <mark key="." line="837" column="0" />
         <mark key="^" line="827" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/dictwidgetqt.py" timestamp="1481065796754">
+      <file name="$USER_HOME$/projects/teigen/teigen/dictwidgetqt.py" timestamp="1481114904562">
         <mark key="a" line="211" column="7" />
         <mark key="'" line="211" column="40" />
         <mark key="z" line="200" column="41" />
-        <mark key="[" line="34" column="7" />
-        <mark key="]" line="34" column="7" />
-        <mark key="." line="34" column="7" />
-        <mark key="^" line="34" column="7" />
+        <mark key="[" line="259" column="11" />
+        <mark key="]" line="256" column="42" />
+        <mark key="." line="256" column="42" />
+        <mark key="^" line="256" column="42" />
       </file>
       <file name="$USER_HOME$/projects/teigen/.gitignore" timestamp="1478268146916">
         <mark key="[" line="88" column="12" />
@@ -1552,20 +1552,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="172" column="16" filename="$USER_HOME$/projects/io3d/io3d/datareaderqt.py" />
-      <jump line="0" column="7" filename="$USER_HOME$/projects/io3d/io3d/datareaderqt.py" />
-      <jump line="170" column="0" filename="$USER_HOME$/projects/io3d/io3d/datareaderqt.py" />
-      <jump line="121" column="3" filename="$USER_HOME$/projects/teigen/teigen/generators/cylindersqt.py" />
-      <jump line="122" column="30" filename="$USER_HOME$/projects/teigen/teigen/generators/cylindersqt.py" />
-      <jump line="91" column="0" filename="$USER_HOME$/projects/teigen/teigen/generators/cylindersqt.py" />
-      <jump line="73" column="0" filename="$USER_HOME$/projects/io3d/io3d/datareaderqt.py" />
-      <jump line="105" column="29" filename="$USER_HOME$/projects/teigen/teigen/generators/cylindersqt.py" />
-      <jump line="42" column="31" filename="$USER_HOME$/projects/teigen/teigen/dictwidgetqt.py" />
-      <jump line="50" column="8" filename="$USER_HOME$/projects/teigen/teigen/generators/cylindersqt.py" />
-      <jump line="61" column="52" filename="$USER_HOME$/projects/teigen/teigen/generators/cylindersqt.py" />
-      <jump line="80" column="0" filename="$USER_HOME$/projects/teigen/teigen/generators/cylinders.py" />
-      <jump line="102" column="8" filename="$USER_HOME$/projects/teigen/teigen/generators/cylindersqt.py" />
-      <jump line="39" column="24" filename="$USER_HOME$/projects/teigen/teigen/generators/cylinders.py" />
       <jump line="85" column="0" filename="$USER_HOME$/projects/teigen/teigen/generators/cylinders.py" />
       <jump line="362" column="0" filename="$USER_HOME$/projects/teigen/teigen/generators/cylinders.py" />
       <jump line="117" column="0" filename="$USER_HOME$/projects/teigen/teigen/tb_volume.py" />
@@ -1652,16 +1638,30 @@
       <jump line="143" column="11" filename="$USER_HOME$/projects/teigen/examples/myqtgraph.py" />
       <jump line="183" column="0" filename="$USER_HOME$/projects/teigen/examples/myqtgraph.py" />
       <jump line="5" column="25" filename="$USER_HOME$/projects/teigen/examples/myqtgraph.py" />
+      <jump line="122" column="4" filename="$USER_HOME$/projects/teigen/examples/myqtgraph.py" />
+      <jump line="28" column="4" filename="$USER_HOME$/projects/teigen/examples/myqtgraph.py" />
+      <jump line="29" column="14" filename="$USER_HOME$/projects/teigen/examples/myqtgraph.py" />
+      <jump line="108" column="14" filename="$USER_HOME$/projects/teigen/examples/myqtgraph.py" />
+      <jump line="111" column="4" filename="$USER_HOME$/projects/teigen/examples/myqtgraph.py" />
+      <jump line="116" column="12" filename="$USER_HOME$/projects/teigen/examples/myqtgraph.py" />
+      <jump line="117" column="20" filename="$USER_HOME$/projects/teigen/examples/myqtgraph.py" />
+      <jump line="119" column="19" filename="$USER_HOME$/projects/teigen/examples/myqtgraph.py" />
+      <jump line="188" column="16" filename="$USER_HOME$/projects/teigen/examples/myqtgraph.py" />
+      <jump line="189" column="16" filename="$USER_HOME$/projects/teigen/examples/myqtgraph.py" />
+      <jump line="190" column="16" filename="$USER_HOME$/projects/teigen/examples/myqtgraph.py" />
+      <jump line="191" column="16" filename="$USER_HOME$/projects/teigen/examples/myqtgraph.py" />
+      <jump line="192" column="16" filename="$USER_HOME$/projects/teigen/examples/myqtgraph.py" />
+      <jump line="211" column="31" filename="$USER_HOME$/projects/teigen/examples/myqtgraph.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>FF0</text>
+        <text>dct</text>
       </register>
       <register name="-" type="4">
-        <text>FF0</text>
+        <text>dct</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZWdpc3RlclBhcmFtZXRlclR5cGVcPg==</text>
+        <text encoding="base64">XDxpdGVtXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB7J25hbWUnOiAnQ29sb3InLCAndHlwZSc6ICdjb2xvcicsICd2YWx1ZSc6ICJGRjAiLCAndGlwJzogIlRoaXMgaXMgYSBjb2xvciBidXR0b24ifSwK</text>
@@ -1701,16 +1701,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZWdpc3RlclBhcmFtZXRlclR5cGVcPg==</last-search>
+      <last-search encoding="base64">XDxpdGVtXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZWdpc3RlclBhcmFtZXRlclR5cGVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxpdGVtXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxidG5WaXJ0dWFsUmVzZWN0aW9uUFZcPg==</entry>
-        <entry encoding="base64">XDxjaGFuZ2VXaWRnZXRcPg==</entry>
         <entry>3D vis</entry>
         <entry>3D Visu</entry>
         <entry encoding="base64">XDxRVGV4dEVkaXRcPg==</entry>
@@ -1729,6 +1727,8 @@
         <entry encoding="base64">XDxmaW5pc2hfcHJvZ3Jlc3NfY2FsbGJhY2tcPg==</entry>
         <entry encoding="base64">XDxfc3BsaXR0ZXJcPg==</entry>
         <entry encoding="base64">XDxyZWdpc3RlclBhcmFtZXRlclR5cGVcPg==</entry>
+        <entry encoding="base64">XDx0YWJzXD4=</entry>
+        <entry encoding="base64">XDxpdGVtXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>20</entry>
