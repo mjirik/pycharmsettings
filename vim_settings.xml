@@ -47,13 +47,13 @@
         <mark key="." line="158" column="0" />
         <mark key="^" line="163" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1481190493333">
+      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1481192018875">
         <mark key="a" line="929" column="40" />
-        <mark key="'" line="1019" column="0" />
-        <mark key="[" line="932" column="8" />
-        <mark key="]" line="932" column="8" />
-        <mark key="^" line="929" column="7" />
-        <mark key="." line="932" column="8" />
+        <mark key="'" line="699" column="18" />
+        <mark key="[" line="930" column="52" />
+        <mark key="]" line="930" column="52" />
+        <mark key="^" line="930" column="52" />
+        <mark key="." line="930" column="52" />
       </file>
       <file name="$USER_HOME$/projects/lisa/tests/liver_segmentation_cerveny_test.py" timestamp="1465114359986">
         <mark key="'" line="125" column="3" />
@@ -1562,7 +1562,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="26" filename="$USER_HOME$/projects/teigen/teigen/tb_volume.py" />
       <jump line="73" column="12" filename="$USER_HOME$/projects/teigen/teigen/tablewidget.py" />
       <jump line="98" column="13" filename="$USER_HOME$/projects/teigen/teigen/generators/cylindersqt.py" />
       <jump line="72" column="6" filename="$USER_HOME$/projects/teigen/teigen/tablewidget.py" />
@@ -1662,6 +1661,7 @@
       <jump line="1015" column="50" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="930" column="48" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="1017" column="0" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="699" column="18" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
