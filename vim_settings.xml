@@ -801,11 +801,12 @@
         <mark key="." line="41" column="9" />
         <mark key="^" line="41" column="9" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/dictwidgetpyqtgraph.py" timestamp="1481229671579">
-        <mark key="[" line="61" column="42" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
-        <mark key="^" line="34" column="33" />
+      <file name="$USER_HOME$/projects/teigen/teigen/dictwidgetpyqtgraph.py" timestamp="1481230272147">
+        <mark key="'" line="65" column="50" />
+        <mark key="[" line="65" column="61" />
+        <mark key="]" line="65" column="59" />
+        <mark key="." line="65" column="59" />
+        <mark key="^" line="65" column="59" />
       </file>
       <file name="$USER_HOME$/projects/lisa/install_nosudo.sh" timestamp="1465568977912">
         <mark key="[" line="42" column="0" />
@@ -1578,7 +1579,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="414" column="0" filename="$USER_HOME$/projects/teigen/teigen/generators/cylinders.py" />
       <jump line="62" column="8" filename="$USER_HOME$/projects/teigen/teigen/generators/cylindersqt.py" />
       <jump line="66" column="17" filename="$USER_HOME$/projects/teigen/teigen/generators/cylindersqt.py" />
       <jump line="109" column="24" filename="$USER_HOME$/projects/teigen/teigen/generators/cylinders.py" />
@@ -1678,13 +1678,14 @@
       <jump line="133" column="33" filename="$USER_HOME$/projects/imtools/imtools/uiThreshold.py" />
       <jump line="85" column="43" filename="$USER_HOME$/projects/imtools/imtools/uiThreshold.py" />
       <jump line="145" column="51" filename="$USER_HOME$/projects/imtools/imtools/uiThreshold.py" />
+      <jump line="65" column="50" filename="$USER_HOME$/projects/teigen/teigen/dictwidgetpyqtgraph.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG91dGRpY3QgPSBbXQoKICAgIGZvciBrZXkgaW4ga2V5X3ZhbHVlOgogICAgICAgIHZhbHVlID0ga2V5X3ZhbHVlW2tleV0K</text>
+      <register name="&quot;" type="4">
+        <text>key_value=children_key_value</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>key_value=children_key_value</text>
       </register>
       <register name="/" type="4">
         <text>imgFiltering</text>
