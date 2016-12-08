@@ -12,11 +12,11 @@
         <mark key="^" line="31" column="54" />
         <mark key="." line="31" column="54" />
       </file>
-      <file name="$USER_HOME$/projects/imtools/tests/ui_threshold_test.py" timestamp="1481202618544">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="^" line="27" column="27" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/projects/imtools/tests/ui_threshold_test.py" timestamp="1481202762033">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="8" column="9" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/data_plus.py" timestamp="1461422289621">
         <mark key="[" line="22" column="20" />
@@ -46,13 +46,11 @@
         <mark key="^" line="38" column="37" />
         <mark key="." line="38" column="37" />
       </file>
-      <file name="$USER_HOME$/projects/imtools/imtools/uiThreshold.py" timestamp="1481202389423">
-        <mark key="a" line="163" column="25" />
-        <mark key="'" line="85" column="43" />
-        <mark key="[" line="274" column="60" />
-        <mark key="]" line="274" column="60" />
-        <mark key="^" line="274" column="59" />
-        <mark key="." line="274" column="60" />
+      <file name="$USER_HOME$/projects/imtools/imtools/uiThreshold.py" timestamp="1481203619282">
+        <mark key="[" line="476" column="30" />
+        <mark key="]" line="476" column="50" />
+        <mark key="." line="476" column="50" />
+        <mark key="^" line="476" column="50" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/gen_vtk_tree.py" timestamp="1463677085556">
         <mark key="'" line="133" column="0" />
@@ -667,6 +665,10 @@
         <mark key="." line="46" column="35" />
         <mark key="^" line="46" column="35" />
       </file>
+      <file name="$USER_HOME$/projects/imtools/imtools/viewer.py" timestamp="1481202727680">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="71" />
+      </file>
       <file name="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" timestamp="1466543681084">
         <mark key="'" line="29" column="70" />
         <mark key="[" line="43" column="16" />
@@ -724,7 +726,7 @@
         <mark key="^" line="178" column="21" />
         <mark key="." line="178" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1481202560645">
+      <file name="/Dummy.txt" timestamp="1481202621450">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1076,6 +1078,10 @@
         <mark key="]" line="129" column="44" />
         <mark key="^" line="129" column="44" />
         <mark key="." line="129" column="44" />
+      </file>
+      <file name="$USER_HOME$/projects/teigen/teigen/tb_lar.py" timestamp="1481062070152">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="13" column="13" />
       </file>
       <file name="$USER_HOME$/projects/sftpsync-py/sftpsync/__init__.py" timestamp="1465681754442">
         <mark key="a" line="219" column="0" />
@@ -1572,7 +1578,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="151" column="0" filename="$USER_HOME$/projects/teigen/teigen/generators/cylinders.py" />
       <jump line="414" column="0" filename="$USER_HOME$/projects/teigen/teigen/generators/cylinders.py" />
       <jump line="62" column="8" filename="$USER_HOME$/projects/teigen/teigen/generators/cylindersqt.py" />
       <jump line="66" column="17" filename="$USER_HOME$/projects/teigen/teigen/generators/cylindersqt.py" />
@@ -1672,19 +1677,20 @@
       <jump line="324" column="16" filename="$USER_HOME$/projects/imtools/imtools/uiThreshold.py" />
       <jump line="133" column="33" filename="$USER_HOME$/projects/imtools/imtools/uiThreshold.py" />
       <jump line="85" column="43" filename="$USER_HOME$/projects/imtools/imtools/uiThreshold.py" />
+      <jump line="145" column="51" filename="$USER_HOME$/projects/imtools/imtools/uiThreshold.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>True</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>True</text>
       </register>
       <register name="/" type="4">
         <text>imgFiltering</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBhdHRyKCdpbnRlcmFjdGl2ZScpCg==</text>
+        <text encoding="base64">ZnJvbSBQeVF0NC5RdEd1aSBpbXBvcnQgUUFwcGxpY2F0aW9uLCBRRGlhbG9nLCBRR3JpZExheW91dCwgUVB1c2hCdXR0b24K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1693,28 +1699,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5maXJzdFJ1biA9IFRydWUK</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLnRocmVzaG9sZF91cHBlciBpcyBOb25lOgogICAgICAgICAgICBzZWxmLnRocmVzaG9sZF91cHBlciA9IC0xCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNuYWQganNlbSBwcmlkYW5pbSBuYXNsZWR1amljaWhvIHJhZGt1IG5pYyBuZXJvemJ5bAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXNlX21pbl90aHJlc2hvbGQ9VHJ1ZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnRocmVzaG9sZCA9IHRocmVzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJlcyA9IHNlbGYudGhyZXNob2xkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyZXMgPSBzZWxmLnRocmVzaG9sZAogICAgICAgICAgICBpZiB0aHJlcyA9PSAtMToKICAgICAgICAgICAgICAgIHRyeToKICAgICAgICAgICAgICAgICAgICBpZiBhdXRvX21ldGhvZCBpcyAnb3RzdSc6CiAgICAgICAgICAgICAgICAgICAgICAgIGxvZ2dlci5kZWJ1ZygndXNpbmcgb3RzdSB0aHJlc2hvbGQnKQogICAgICAgICAgICAgICAgICAgICAgICB0aHJlcyA9IHRocmVzaG9sZGluZ19mdW5jdGlvbnMuY2FsY3VsYXRlQXV0b21hdGljVGhyZXNob2xkT3RzdSgKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYuZGF0YSwgc2VsZi5hcnJTZWVkKQogICAgICAgICAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICAgICAgICAgIHRocmVzID0gdGhyZXNob2xkaW5nX2Z1bmN0aW9ucy5jYWxjdWxhdGVBdXRvbWF0aWNUaHJlc2hvbGQoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBzZWxmLmRhdGEsIHNlbGYuYXJyU2VlZCkKICAgICAgICAgICAgICAgIGV4Y2VwdDoKICAgICAgICAgICAgICAgICAgICBsb2dnZXIuaW5mbyh0cmFjZWJhY2suZm9ybWF0X2V4YygpKQogICAgICAgICAgICAgICAgICAgIHRocmVzID0gKHNlbGYubWF4MCArIHNlbGYubWluMCkgLyAyCiAgICAgICAgICAgICMgc25hZCBqc2VtIHByaWRhbmltIG5hc2xlZHVqaWNpaG8gcmFka3UgbmljIG5lcm96YnlsCiAgICAgICAgICAgIHNlbGYudGhyZXNob2xkID0gdGhyZXMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5maXJzdFJ1biA9IFRydWUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIHNuYWQganNlbSBwcmlkYW5pbSBuYXNsZWR1amljaWhvIHJhZGt1IG5pYyBuZXJvemJ5bAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnRocmVzaG9sZCA9IHRocmVzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aHJlcyA9IHNlbGYudGhyZXNob2xkCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
