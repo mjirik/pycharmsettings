@@ -12,6 +12,12 @@
         <mark key="^" line="31" column="54" />
         <mark key="." line="31" column="54" />
       </file>
+      <file name="$USER_HOME$/projects/imtools/tests/ui_threshold_test.py" timestamp="1481197123009">
+        <mark key="[" line="16" column="85" />
+        <mark key="]" line="17" column="16" />
+        <mark key="^" line="17" column="16" />
+        <mark key="." line="17" column="16" />
+      </file>
       <file name="$USER_HOME$/projects/lisa/lisa/data_plus.py" timestamp="1461422289621">
         <mark key="[" line="22" column="20" />
         <mark key="]" line="22" column="20" />
@@ -675,13 +681,13 @@
         <mark key="." line="160" column="32" />
         <mark key="^" line="160" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/imtools/imtools/sample_data.py" timestamp="1480604903715">
-        <mark key="a" line="177" column="12" />
-        <mark key="'" line="142" column="31" />
-        <mark key="[" line="67" column="10" />
-        <mark key="]" line="67" column="15" />
-        <mark key="." line="67" column="15" />
-        <mark key="^" line="67" column="15" />
+      <file name="$USER_HOME$/projects/imtools/imtools/sample_data.py" timestamp="1481196901436">
+        <mark key="a" line="325" column="6" />
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="342" column="5" />
+        <mark key="]" line="343" column="15" />
+        <mark key="^" line="343" column="15" />
+        <mark key="." line="343" column="15" />
       </file>
       <file name="$USER_HOME$/Dropbox/studium/dizertace/data/jkunes/compare_histology_results.py" timestamp="1450862143914">
         <mark key="'" line="322" column="8" />
@@ -1562,8 +1568,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="73" column="12" filename="$USER_HOME$/projects/teigen/teigen/tablewidget.py" />
-      <jump line="98" column="13" filename="$USER_HOME$/projects/teigen/teigen/generators/cylindersqt.py" />
       <jump line="72" column="6" filename="$USER_HOME$/projects/teigen/teigen/tablewidget.py" />
       <jump line="73" column="17" filename="$USER_HOME$/projects/teigen/teigen/generators/cylinders.py" />
       <jump line="76" column="17" filename="$USER_HOME$/projects/teigen/teigen/generators/cylinders.py" />
@@ -1662,49 +1666,51 @@
       <jump line="930" column="48" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="1017" column="0" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="699" column="18" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="323" column="6" filename="$USER_HOME$/projects/imtools/imtools/sample_data.py" />
+      <jump line="11" column="0" filename="$USER_HOME$/projects/imtools/imtools/sample_data.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>Hook</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAjIHB5cXRSZW1vdmVJbnB1dEhvb2soKQogICAgICAgICMgaW1wb3J0IGlwZGI7IGlwZGIuc2V0X3RyYWNlKCkgIyAgbm9xYSBCUkVBS1BPSU5UCg==</text>
+        <text encoding="base64">ICAgIGRhdGEzZCBbc2VnbWVudGF0aW9uID09IDFdID0gbGl2ZXJfaW50ZW5zaXR5Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIGZyb20gUHlRdDQuUXRDb3JlIGltcG9ydCBweXF0UmVtb3ZlSW5wdXRIb29rCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dGVybWkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNoaWxkcmVuX2RpY3QgPSBkaWN0X3RvX3B5cXRncmFwaChrZXlfdmFsdWU9Y2hpbGRyZW5fa2V5X3ZhbHVlKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFRydWUoRmFsc2UpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIFB5UXQ0LlF0R3VpIGltcG9ydCBRQXBwbGljYXRpb24sIFFGaWxlRGlhbG9nCiAgICAgICAgYXBwID0gUUFwcGxpY2F0aW9uKHN5cy5hcmd2KQogICAgICAgIHAgPSBQYXJhbWV0ZXIuY3JlYXRlKG5hbWU9J3BhcmFtcycsIHR5cGU9J2dyb3VwJywgY2hpbGRyZW49cGFyYW1zKQogICAgICAgIHQgPSBQYXJhbWV0ZXJUcmVlKCkKICAgICAgICBwcmludCBwLmdldFZhbHVlcygpCiAgICAgICAgdC5zZXRQYXJhbWV0ZXJzKHAsIHNob3dUb3A9RmFsc2UpCiAgICAgICAgdC5zaG93KCkKCiAgICAgICAgYXBwLmV4ZWNfKCkKCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGJvdW5kYXJ5ID0gaW50KHNpemUvNCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBweXF0Z3JhcGguCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIGZyb20gdGVpZ2VuLmRpY3R3aWRnZXRxdCBpbXBvcnQgRGljdFdpZGdldAogICAgICAgIGltcG9ydCB0ZWlnZW4KICAgICAgICBpbXBvcnQgdGVpZ2VuLmdlb21ldHJ5M2QKICAgICAgICBpbXBvcnQgdGVpZ2VuLmd1aQo=</text>
+        <text encoding="base64">ZGVmIAoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAga2V5X3BhcmFtZXRlcnMgPSB7CiAgICAgICAgICAgICAgICAibmFtZSI6a2V5LAogICAgICAgICAgICAgICAgJ3ZhbHVlJzogdmFsdWUsCiAgICAgICAgICAgICAgICAndHlwZScKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAjIGZyb20gUHlRdDQuUXRDb3JlIGltcG9ydCBweXF0UmVtb3ZlSW5wdXRIb29rCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
