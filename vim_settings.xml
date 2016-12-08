@@ -12,11 +12,11 @@
         <mark key="^" line="31" column="54" />
         <mark key="." line="31" column="54" />
       </file>
-      <file name="$USER_HOME$/projects/imtools/tests/ui_threshold_test.py" timestamp="1481199005912">
-        <mark key="[" line="16" column="104" />
-        <mark key="]" line="16" column="118" />
-        <mark key="^" line="16" column="118" />
-        <mark key="." line="16" column="118" />
+      <file name="$USER_HOME$/projects/imtools/tests/ui_threshold_test.py" timestamp="1481199472505">
+        <mark key="[" line="16" column="87" />
+        <mark key="]" line="16" column="87" />
+        <mark key="^" line="16" column="87" />
+        <mark key="." line="16" column="87" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/data_plus.py" timestamp="1461422289621">
         <mark key="[" line="22" column="20" />
@@ -45,6 +45,9 @@
         <mark key="]" line="38" column="37" />
         <mark key="^" line="38" column="37" />
         <mark key="." line="38" column="37" />
+      </file>
+      <file name="$USER_HOME$/projects/imtools/imtools/uiThreshold.py" timestamp="1481199634844">
+        <mark key="'" line="324" column="16" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/gen_vtk_tree.py" timestamp="1463677085556">
         <mark key="'" line="133" column="0" />
@@ -1069,10 +1072,6 @@
         <mark key="^" line="129" column="44" />
         <mark key="." line="129" column="44" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/tb_lar.py" timestamp="1481062070152">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="13" column="13" />
-      </file>
       <file name="$USER_HOME$/projects/sftpsync-py/sftpsync/__init__.py" timestamp="1465681754442">
         <mark key="a" line="219" column="0" />
         <mark key="'" line="63" column="0" />
@@ -1568,7 +1567,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="6" filename="$USER_HOME$/projects/teigen/teigen/tablewidget.py" />
       <jump line="73" column="17" filename="$USER_HOME$/projects/teigen/teigen/generators/cylinders.py" />
       <jump line="76" column="17" filename="$USER_HOME$/projects/teigen/teigen/generators/cylinders.py" />
       <jump line="151" column="0" filename="$USER_HOME$/projects/teigen/teigen/generators/cylinders.py" />
@@ -1668,6 +1666,7 @@
       <jump line="699" column="18" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="323" column="6" filename="$USER_HOME$/projects/imtools/imtools/sample_data.py" />
       <jump line="11" column="0" filename="$USER_HOME$/projects/imtools/imtools/sample_data.py" />
+      <jump line="324" column="16" filename="$USER_HOME$/projects/imtools/imtools/uiThreshold.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1677,7 +1676,7 @@
         <text>r</text>
       </register>
       <register name="/" type="4">
-        <text>Hook</text>
+        <text>ssigma</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRhdGEzZCBbc2VnbWVudGF0aW9uID09IDFdID0gbGl2ZXJfaW50ZW5zaXR5Cg==</text>
@@ -1717,15 +1716,14 @@
       </register>
     </registers>
     <search>
-      <last-search>Hook</last-search>
+      <last-search>ssigma</last-search>
       <last-offset />
-      <last-pattern>Hook</last-pattern>
+      <last-pattern>ssigma</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>3D Visu</entry>
         <entry encoding="base64">XDxRVGV4dEVkaXRcPg==</entry>
         <entry>lineEdit</entry>
         <entry>LineEd</entry>
@@ -1745,6 +1743,7 @@
         <entry encoding="base64">XDx0YWJzXD4=</entry>
         <entry encoding="base64">XDxpdGVtXD4=</entry>
         <entry>Hook</entry>
+        <entry>ssigma</entry>
       </history-search>
       <history-cmd>
         <entry>52</entry>
