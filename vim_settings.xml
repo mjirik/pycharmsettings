@@ -801,12 +801,12 @@
         <mark key="." line="41" column="9" />
         <mark key="^" line="41" column="9" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/dictwidgetpyqtgraph.py" timestamp="1481230272147">
-        <mark key="'" line="65" column="50" />
-        <mark key="[" line="65" column="61" />
-        <mark key="]" line="65" column="59" />
-        <mark key="." line="65" column="59" />
-        <mark key="^" line="65" column="59" />
+      <file name="$USER_HOME$/projects/teigen/teigen/dictwidgetpyqtgraph.py" timestamp="1481231041115">
+        <mark key="'" line="46" column="30" />
+        <mark key="[" line="59" column="18" />
+        <mark key="]" line="60" column="31" />
+        <mark key="." line="60" column="31" />
+        <mark key="^" line="60" column="31" />
       </file>
       <file name="$USER_HOME$/projects/lisa/install_nosudo.sh" timestamp="1465568977912">
         <mark key="[" line="42" column="0" />
@@ -1579,7 +1579,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="8" filename="$USER_HOME$/projects/teigen/teigen/generators/cylindersqt.py" />
       <jump line="66" column="17" filename="$USER_HOME$/projects/teigen/teigen/generators/cylindersqt.py" />
       <jump line="109" column="24" filename="$USER_HOME$/projects/teigen/teigen/generators/cylinders.py" />
       <jump line="96" column="8" filename="$USER_HOME$/projects/teigen/teigen/generators/cylinders.py" />
@@ -1679,13 +1678,14 @@
       <jump line="85" column="43" filename="$USER_HOME$/projects/imtools/imtools/uiThreshold.py" />
       <jump line="145" column="51" filename="$USER_HOME$/projects/imtools/imtools/uiThreshold.py" />
       <jump line="65" column="50" filename="$USER_HOME$/projects/teigen/teigen/dictwidgetpyqtgraph.py" />
+      <jump line="47" column="30" filename="$USER_HOME$/projects/teigen/teigen/dictwidgetpyqtgraph.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>key_value=children_key_value</text>
+        <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>key_value=children_key_value</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>imgFiltering</text>
@@ -1694,34 +1694,34 @@
         <text encoding="base64">ICAgICAgICAgICAgdmFsdWUgPSBjaGlsZHJlbl9saXN0Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG91dGRpY3QgPSBbXQoKICAgIGZvciBrZXkgaW4ga2V5X3ZhbHVlOgogICAgICAgIHZhbHVlID0ga2V5X3ZhbHVlW2tleV0K</text>
+        <text encoding="base64">ICAgICAgICBrZXlfcGFyYW1ldGVycy51cGRhdGUK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0cCA9IHR5cGUodmFsdWUpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG91dHB1dCA9IHtrZXk6dmFsdWV9Cg==</text>
+        <text encoding="base64">ICAgIG91dGRpY3QgPSBbXQoKICAgIGZvciBrZXkgaW4ga2V5X3ZhbHVlOgogICAgICAgIHZhbHVlID0ga2V5X3ZhbHVlW2tleV0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG91dHB1dCA9IHtrZXk6dmFsdWV9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmLnRocmVzaG9sZF91cHBlciBpcyBOb25lOgogICAgICAgICAgICBzZWxmLnRocmVzaG9sZF91cHBlciA9IC0xCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXNlX21pbl90aHJlc2hvbGQ9VHJ1ZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLnRocmVzaG9sZF91cHBlciBpcyBOb25lOgogICAgICAgICAgICBzZWxmLnRocmVzaG9sZF91cHBlciA9IC0xCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXNlX21pbl90aHJlc2hvbGQ9VHJ1ZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
