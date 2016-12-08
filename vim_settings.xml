@@ -12,11 +12,11 @@
         <mark key="^" line="31" column="54" />
         <mark key="." line="31" column="54" />
       </file>
-      <file name="$USER_HOME$/projects/imtools/tests/ui_threshold_test.py" timestamp="1481199472505">
-        <mark key="[" line="16" column="87" />
-        <mark key="]" line="16" column="87" />
-        <mark key="^" line="16" column="87" />
-        <mark key="." line="16" column="87" />
+      <file name="$USER_HOME$/projects/imtools/tests/ui_threshold_test.py" timestamp="1481202500649">
+        <mark key="[" line="27" column="25" />
+        <mark key="]" line="27" column="27" />
+        <mark key="^" line="27" column="27" />
+        <mark key="." line="27" column="27" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/data_plus.py" timestamp="1461422289621">
         <mark key="[" line="22" column="20" />
@@ -46,12 +46,13 @@
         <mark key="^" line="38" column="37" />
         <mark key="." line="38" column="37" />
       </file>
-      <file name="$USER_HOME$/projects/imtools/imtools/uiThreshold.py" timestamp="1481201503173">
-        <mark key="'" line="324" column="16" />
-        <mark key="[" line="440" column="0" />
-        <mark key="]" line="440" column="0" />
-        <mark key="^" line="440" column="20" />
-        <mark key="." line="440" column="0" />
+      <file name="$USER_HOME$/projects/imtools/imtools/uiThreshold.py" timestamp="1481202389423">
+        <mark key="a" line="163" column="25" />
+        <mark key="'" line="85" column="43" />
+        <mark key="[" line="274" column="60" />
+        <mark key="]" line="274" column="60" />
+        <mark key="^" line="274" column="59" />
+        <mark key="." line="274" column="60" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/gen_vtk_tree.py" timestamp="1463677085556">
         <mark key="'" line="133" column="0" />
@@ -723,7 +724,7 @@
         <mark key="^" line="178" column="21" />
         <mark key="." line="178" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1481193176925">
+      <file name="/Dummy.txt" timestamp="1481201516694">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1038,7 +1039,7 @@
         <mark key="." line="107" column="50" />
         <mark key="^" line="107" column="50" />
       </file>
-      <file name="/Python Console" timestamp="1481135073800">
+      <file name="/Python Console" timestamp="1481202459247">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -1571,8 +1572,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="73" column="17" filename="$USER_HOME$/projects/teigen/teigen/generators/cylinders.py" />
-      <jump line="76" column="17" filename="$USER_HOME$/projects/teigen/teigen/generators/cylinders.py" />
       <jump line="151" column="0" filename="$USER_HOME$/projects/teigen/teigen/generators/cylinders.py" />
       <jump line="414" column="0" filename="$USER_HOME$/projects/teigen/teigen/generators/cylinders.py" />
       <jump line="62" column="8" filename="$USER_HOME$/projects/teigen/teigen/generators/cylindersqt.py" />
@@ -1671,64 +1670,65 @@
       <jump line="323" column="6" filename="$USER_HOME$/projects/imtools/imtools/sample_data.py" />
       <jump line="11" column="0" filename="$USER_HOME$/projects/imtools/imtools/sample_data.py" />
       <jump line="324" column="16" filename="$USER_HOME$/projects/imtools/imtools/uiThreshold.py" />
+      <jump line="133" column="33" filename="$USER_HOME$/projects/imtools/imtools/uiThreshold.py" />
+      <jump line="85" column="43" filename="$USER_HOME$/projects/imtools/imtools/uiThreshold.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X3VpX3RocmVzaG9sZChzZWxmKToKICAgICAgICBkYXRhcCA9IGltdG9vbHMuc2FtcGxlX2RhdGEuZ2VuZXJhdGUoKQogICAgICAgIHVpdCA9IGltdG9vbHMudWlUaHJlc2hvbGQudWlUaHJlc2hvbGQoZGF0YXBbJ2RhdGEzZCddLCBkYXRhcFsndm94ZWxzaXplX21tJ10sIGludGVyYWN0aXZpdHk9VHJ1ZSwgdGhyZXNob2xkPTEwMCkKICAgICAgICB1aXQucnVuKCkKICAgICAgICBwbHQuc2hvdygpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>ssigma</text>
+        <text>imgFiltering</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2lnbWEgPSBudW1weS5yb3VuZChzZWxmLmlucHV0U2lnbWEsIDIpCg==</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X3VpX3RocmVzaG9sZChzZWxmKToKICAgICAgICBkYXRhcCA9IGltdG9vbHMuc2FtcGxlX2RhdGEuZ2VuZXJhdGUoKQogICAgICAgIHVpdCA9IGltdG9vbHMudWlUaHJlc2hvbGQudWlUaHJlc2hvbGQoZGF0YXBbJ2RhdGEzZCddLCBkYXRhcFsndm94ZWxzaXplX21tJ10sIGludGVyYWN0aXZpdHk9VHJ1ZSwgdGhyZXNob2xkPTEwMCkKICAgICAgICB1aXQucnVuKCkKICAgICAgICBwbHQuc2hvdygpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5maXJzdFJ1biA9IFRydWUK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIHNuYWQganNlbSBwcmlkYW5pbSBuYXNsZWR1amljaWhvIHJhZGt1IG5pYyBuZXJvemJ5bAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAKCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnRocmVzaG9sZCA9IHRocmVzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzaWdtYQo=</text>
+        <text encoding="base64">ICAgICAgICB0aHJlcyA9IHNlbGYudGhyZXNob2xkCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2lnbWEgPSBudW1weQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyZXMgPSBzZWxmLnRocmVzaG9sZAogICAgICAgICAgICBpZiB0aHJlcyA9PSAtMToKICAgICAgICAgICAgICAgIHRyeToKICAgICAgICAgICAgICAgICAgICBpZiBhdXRvX21ldGhvZCBpcyAnb3RzdSc6CiAgICAgICAgICAgICAgICAgICAgICAgIGxvZ2dlci5kZWJ1ZygndXNpbmcgb3RzdSB0aHJlc2hvbGQnKQogICAgICAgICAgICAgICAgICAgICAgICB0aHJlcyA9IHRocmVzaG9sZGluZ19mdW5jdGlvbnMuY2FsY3VsYXRlQXV0b21hdGljVGhyZXNob2xkT3RzdSgKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYuZGF0YSwgc2VsZi5hcnJTZWVkKQogICAgICAgICAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICAgICAgICAgIHRocmVzID0gdGhyZXNob2xkaW5nX2Z1bmN0aW9ucy5jYWxjdWxhdGVBdXRvbWF0aWNUaHJlc2hvbGQoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBzZWxmLmRhdGEsIHNlbGYuYXJyU2VlZCkKICAgICAgICAgICAgICAgIGV4Y2VwdDoKICAgICAgICAgICAgICAgICAgICBsb2dnZXIuaW5mbyh0cmFjZWJhY2suZm9ybWF0X2V4YygpKQogICAgICAgICAgICAgICAgICAgIHRocmVzID0gKHNlbGYubWF4MCArIHNlbGYubWluMCkgLyAyCiAgICAgICAgICAgICMgc25hZCBqc2VtIHByaWRhbmltIG5hc2xlZHVqaWNpaG8gcmFka3UgbmljIG5lcm96YnlsCiAgICAgICAgICAgIHNlbGYudGhyZXNob2xkID0gdGhyZXMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2lnbWEgPSBudW1weS5yb3VuZChzZWxmLnNzaWdtYS52YWwsIDIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>ssigma</last-search>
+      <last-search>imgFiltering</last-search>
       <last-offset />
-      <last-pattern>ssigma</last-pattern>
+      <last-pattern>imgFiltering</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxRVGV4dEVkaXRcPg==</entry>
         <entry>lineEdit</entry>
         <entry>LineEd</entry>
         <entry encoding="base64">XDxRTGluZUVkaXRcPg==</entry>
@@ -1748,6 +1748,7 @@
         <entry encoding="base64">XDxpdGVtXD4=</entry>
         <entry>Hook</entry>
         <entry>ssigma</entry>
+        <entry>imgFiltering</entry>
       </history-search>
       <history-cmd>
         <entry>52</entry>
