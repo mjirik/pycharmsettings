@@ -46,8 +46,12 @@
         <mark key="^" line="38" column="37" />
         <mark key="." line="38" column="37" />
       </file>
-      <file name="$USER_HOME$/projects/imtools/imtools/uiThreshold.py" timestamp="1481199634844">
+      <file name="$USER_HOME$/projects/imtools/imtools/uiThreshold.py" timestamp="1481201503173">
         <mark key="'" line="324" column="16" />
+        <mark key="[" line="440" column="0" />
+        <mark key="]" line="440" column="0" />
+        <mark key="^" line="440" column="20" />
+        <mark key="." line="440" column="0" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/gen_vtk_tree.py" timestamp="1463677085556">
         <mark key="'" line="133" column="0" />
@@ -1670,7 +1674,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>r</text>
@@ -1679,37 +1683,37 @@
         <text>ssigma</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRhdGEzZCBbc2VnbWVudGF0aW9uID09IDFdID0gbGl2ZXJfaW50ZW5zaXR5Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2lnbWEgPSBudW1weS5yb3VuZChzZWxmLmlucHV0U2lnbWEsIDIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBzaWdtYQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2lnbWEgPSBudW1weQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGJvdW5kYXJ5ID0gaW50KHNpemUvNCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2lnbWEgPSBudW1weS5yb3VuZChzZWxmLnNzaWdtYS52YWwsIDIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGVmIAoK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIGZyb20gUHlRdDQuUXRDb3JlIGltcG9ydCBweXF0UmVtb3ZlSW5wdXRIb29rCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
