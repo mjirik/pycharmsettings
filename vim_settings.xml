@@ -802,6 +802,13 @@
         <mark key="." line="41" column="9" />
         <mark key="^" line="41" column="9" />
       </file>
+      <file name="$USER_HOME$/projects/teigen/teigen/dictwidgetpyqtgraph.py" timestamp="1481284765609">
+        <mark key="'" line="149" column="42" />
+        <mark key="[" line="204" column="0" />
+        <mark key="]" line="204" column="0" />
+        <mark key="." line="204" column="0" />
+        <mark key="^" line="133" column="9" />
+      </file>
       <file name="$USER_HOME$/projects/lisa/install_nosudo.sh" timestamp="1465568977912">
         <mark key="[" line="42" column="0" />
         <mark key="]" line="47" column="3" />
@@ -1036,7 +1043,7 @@
         <mark key="." line="107" column="50" />
         <mark key="^" line="107" column="50" />
       </file>
-      <file name="/Python Console" timestamp="1481235466258">
+      <file name="/Python Console" timestamp="1481283116289">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -1570,7 +1577,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="155" column="28" filename="$USER_HOME$/projects/teigen/teigen/generators/cylinders.py" />
       <jump line="1105" column="8" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="1102" column="8" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="1108" column="15" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
@@ -1670,49 +1676,51 @@
       <jump line="38" column="15" filename="$USER_HOME$/projects/teigen/teigen/dictwidgetpyqtgraph.py" />
       <jump line="92" column="15" filename="$USER_HOME$/projects/teigen/teigen/dictwidgetpyqtgraph.py" />
       <jump line="135" column="27" filename="$USER_HOME$/projects/teigen/teigen/dictwidgetpyqtgraph.py" />
+      <jump line="143" column="42" filename="$USER_HOME$/projects/teigen/teigen/dictwidgetpyqtgraph.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>True</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuYW1lXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnpfc2l6ZV9tLnNpZ1ZhbHVlQ2hhbmdlZC5jb25uZWN0KHNlbGYuel9tQ2hhbmdlZCkK</text>
+        <text encoding="base64">ICAgICAgICBncC5hZGRDaGlsZChwdnN4KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmEuc2lnVmFsdWVDaGFuZ2VkLmNvbm5lY3Qoc2VsZi5hQ2hhbmdlZCkKICAgICAgICBzZWxmLmIuc2lnVmFsdWVDaGFuZ2VkLmNvbm5lY3Qoc2VsZi5iQ2hhbmdlZCkK</text>
+      <register name="2" type="8">
+        <text>t
+t</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmEgPSBzZWxmLnBhcmFtKCdBID0gMS9CJykKICAgICAgICBzZWxmLmIgPSBzZWxmLnBhcmFtKCdCID0gMS9BJykK</text>
+        <text encoding="base64">ICAgICAgICAqKm9wdHMpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2hpbGRyZW4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgbnR5cGUgPSBOb25lCiAgICAjIGlmIHRwID09IGludDoKICAgICMgICAgIG50eXBlID0gJ2ludCcKICAgICMgZWxpZiAodHAgPT0gYm9vbCk6CiAgICAjICAgICBudHlwZSA9ICdib29sJwogICAgIyBlbGlmICh0cCA9PSBzdHIpOgogICAgIyAgICAgbnR5cGUgPSAnc3RyJwogICAgIyBlbGlmICh0cCA9PSBmbG9hdCk6CiAgICAjICAgICBudHlwZSA9ICdmbG9hdCcK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmEuc2lnVmFsdWVDaGFuZ2VkLmNvbm5lY3Qoc2VsZi5hQ2hhbmdlZCkKICAgICAgICBzZWxmLmIuc2lnVmFsdWVDaGFuZ2VkLmNvbm5lY3Qoc2VsZi5iQ2hhbmdlZCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE8gdGFrZSBjYXJlIGFib3V0IG90aGVyIHR5cGVzCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmEgPSBzZWxmLnBhcmFtKCdBID0gMS9CJykKICAgICAgICBzZWxmLmIgPSBzZWxmLnBhcmFtKCdCID0gMS9BJykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIyBweXF0Z3JhcGggZXhwZXJpbWVudHMKICAgICAgICBpbXBvcnQgZGljdHdpZGdldHB5cXRncmFwaAogICAgICAgIGltcG9ydCBweXF0Z3JhcGgKICAgICAgICBmcm9tIHB5cXRncmFwaC5wYXJhbWV0ZXJ0cmVlIGltcG9ydCBQYXJhbWV0ZXIsIFBhcmFtZXRlclRyZWUsIFBhcmFtZXRlckl0ZW0sIHJlZ2lzdGVyUGFyYW1ldGVyVHlwZQogICAgICAgIGlucHV0X3BhcmFtcyA9IHsKICAgICAgICAgICAgInZveGVsc2l6ZV9tbSI6IFsxLjAsIDEuMCwgMS4wXSwKICAgICAgICAgICAgJ2FyZWFfc2l6ZV9weCc6IFsxMDAsIDEwMCwgMTAwXSwKICAgICAgICAgICAgJ2FyZWFfc2l6ZV9tbSc6IFsxMDAuMCwgMTAwLjAsIDEwMC4wXQogICAgICAgIH0KICAgICAgICBncl9zdHJ1Y3QgPSBkaWN0d2lkZ2V0cHlxdGdyYXBoLnRvX3B5cXRncmFwaF9zdHJ1Y3QoJ3BhcmFtcycsIGlucHV0X3BhcmFtcykKCiAgICAgICAgcCA9IFBhcmFtZXRlci5jcmVhdGUoKipncl9zdHJ1Y3QpCiAgICAgICAgdCA9IFBhcmFtZXRlclRyZWUoKQogICAgICAgIHQuc2V0UGFyYW1ldGVycyhwLCBzaG93VG9wPUZhbHNlKQogICAgICAgIHQuc2hvdygpCiAgICAgICAgc2VsZi5tYWluTGF5b3V0LmFkZFdpZGdldCh0LDAsMSw1LDEpCgogICAgICAgICMjCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2hpbGRyZW4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CgoKCgoK</text>
+        <text encoding="base64">ICAgICMgbnR5cGUgPSBOb25lCiAgICAjIGlmIHRwID09IGludDoKICAgICMgICAgIG50eXBlID0gJ2ludCcKICAgICMgZWxpZiAodHAgPT0gYm9vbCk6CiAgICAjICAgICBudHlwZSA9ICdib29sJwogICAgIyBlbGlmICh0cCA9PSBzdHIpOgogICAgIyAgICAgbnR5cGUgPSAnc3RyJwogICAgIyBlbGlmICh0cCA9PSBmbG9hdCk6CiAgICAjICAgICBudHlwZSA9ICdmbG9hdCcK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIFRPRE8gdGFrZSBjYXJlIGFib3V0IG90aGVyIHR5cGVzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1750,7 +1758,6 @@
       </history-search>
       <history-cmd>
         <entry>52</entry>
-        <entry>e</entry>
         <entry>81</entry>
         <entry>312</entry>
         <entry>885</entry>
@@ -1768,6 +1775,7 @@
         <entry>659</entry>
         <entry>351</entry>
         <entry>q</entry>
+        <entry>e</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
