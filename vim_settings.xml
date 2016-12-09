@@ -802,12 +802,12 @@
         <mark key="." line="41" column="9" />
         <mark key="^" line="41" column="9" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/dictwidgetpyqtgraph.py" timestamp="1481308501437">
-        <mark key="'" line="166" column="42" />
-        <mark key="[" line="235" column="66" />
-        <mark key="]" line="235" column="65" />
-        <mark key="." line="235" column="65" />
-        <mark key="^" line="235" column="65" />
+      <file name="$USER_HOME$/projects/teigen/teigen/dictwidgetpyqtgraph.py" timestamp="1481311558688">
+        <mark key="'" line="209" column="66" />
+        <mark key="[" line="221" column="35" />
+        <mark key="]" line="222" column="15" />
+        <mark key="." line="222" column="15" />
+        <mark key="^" line="222" column="15" />
       </file>
       <file name="$USER_HOME$/projects/lisa/install_nosudo.sh" timestamp="1465568977912">
         <mark key="[" line="42" column="0" />
@@ -1043,7 +1043,7 @@
         <mark key="." line="107" column="50" />
         <mark key="^" line="107" column="50" />
       </file>
-      <file name="/Python Console" timestamp="1481283116289">
+      <file name="/Python Console" timestamp="1481310978195">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -1577,7 +1577,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1105" column="8" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="1102" column="8" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="1108" column="15" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="355" column="13" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
@@ -1677,52 +1676,50 @@
       <jump line="92" column="15" filename="$USER_HOME$/projects/teigen/teigen/dictwidgetpyqtgraph.py" />
       <jump line="135" column="27" filename="$USER_HOME$/projects/teigen/teigen/dictwidgetpyqtgraph.py" />
       <jump line="143" column="42" filename="$USER_HOME$/projects/teigen/teigen/dictwidgetpyqtgraph.py" />
+      <jump line="209" column="66" filename="$USER_HOME$/projects/teigen/teigen/dictwidgetpyqtgraph.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRlZiBhcmVhc2l6ZV9tQ2hhbmdlZChzZWxmKToKICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5wX3ZveGVsc2l6ZV9tLnZhbHVlKCkgKiBzZWxmLnBfYXJlYXNpemVfcHgudmFsdWUoKSwK</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>int</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuYW1lXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiBhcmVhc2l6ZV9tQ2hhbmdlZChzZWxmKToKICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnBfYXJlYXNpemVfbS5zaWdWYWx1ZUNoYW5nZWQuY29ubmVjdChzZWxmLmFyZWFzaXplX21DaGFuZ2VkKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnBfCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5wX3ZveGVsc2l6ZV9tLnZhbHVlKCkgKiBzZWxmLnBfYXJlYXNpemVfcHgudmFsdWUoKSwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcCA9IExpc3RQYXJhbWV0ZXIobmFtZT0iTGlzdFBhcmFtZXRlciB2b3hlbHNpemVfbW0iLCB2YWx1ZT1bMS4wLDIuMCwzLjBdLCB0eXBlPSdmbG9hdCcsIHN1ZmZpeD0nbScsIHNpUHJlZml4PVRydWUpCgogICAgICAgIHNlbGYuYWRkQ2hpbGQocHApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50KHNlbGYucF92b3hlbHNpemVfbS52YWx1ZSgpIC8gc2VsZi5wX2FyZWFzaXplX20udmFsdWUoKSksCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IK</text>
+        <text encoding="base64">ICAgICAgICAjIHB2b3hlbHNpemUuYWRkQ2hpbGQocHZzeikKICAgICAgICAjIHB2b3hlbHNpemUuYWRkQ2hpbGQocHZzeCkKICAgICAgICAjIHB2b3hlbHNpemUuYWRkQ2hpbGQocHZzeSkKICAgICAgICAjIHNlbGYucHZveGVsc2l6ZSA9IHB2b3hlbHNpemUKCiAgICAgICAgIyBwYXJlYXNpemUgPSBwVHlwZXMuR3JvdXBQYXJhbWV0ZXIobmFtZT0ic2hhcGUiLCB0aXRsZT0iYXJlYSBzaXplIFtweF0iKQogICAgICAgICMgcGFzeiA9IHBUeXBlcy5QYXJhbWV0ZXIobmFtZT0neicsIHR5cGU9J2Zsb2F0JywgdmFsdWU9MC4wMSwgc3VmZml4PSdweCcsIHNpUHJlZml4PUZhbHNlKQogICAgICAgICMgcGFzeCA9IHBUeXBlcy5QYXJhbWV0ZXIobmFtZT0neCcsIHR5cGU9J2Zsb2F0JywgdmFsdWU9MC4wMSwgc3VmZml4PSdweCcsIHNpUHJlZml4PUZhbHNlKQogICAgICAgICMgcGFzeSA9IHBUeXBlcy5QYXJhbWV0ZXIobmFtZT0neScsIHR5cGU9J2Zsb2F0JywgdmFsdWU9MC4wMSwgc3VmZml4PSdweCcsIHNpUHJlZml4PUZhbHNlKQogICAgICAgICMgcGFyZWFzaXplLmFkZENoaWxkKHBhc3opCiAgICAgICAgIyBwYXJlYXNpemUuYWRkQ2hpbGQocGFzeCkKICAgICAgICAjIHBhcmVhc2l6ZS5hZGRDaGlsZChwYXN5KQogICAgICAgICMgcHZveGVsc2l6ZS5hZGRDaGlsZCh7J25hbWUnOiAnel9tJywgJ3R5cGUnOiAnZmxvYXQnLCAndmFsdWUnOiAwLjAxLCAnc3VmZml4JzogJ20nLCAnc2lQcmVmaXgnOiBUcnVlfSkKCiAgICAgICAgIyBzZWxmLmFkZENoaWxkKHsnbmFtZSc6ICd6X20nLCAndHlwZSc6ICdmbG9hdCcsICd2YWx1ZSc6IDAuMDEsICdzdWZmaXgnOiAnbScsICdzaVByZWZpeCc6IFRydWV9KQogICAgICAgICMgc2VsZi5hZGRDaGlsZCh7J25hbWUnOiAnel9zaXplX3B4JywgJ3R5cGUnOiAnaW50JywgJ3ZhbHVlJzogMTAwLCAnc3VmZml4JzogJ3B4JywgJ3NpUHJlZml4JzogRmFsc2V9KQogICAgICAgICMgc2VsZi5hZGRDaGlsZCh7J25hbWUnOiAnel9zaXplX20nLCAndHlwZSc6ICdmbG9hdCcsICd2YWx1ZSc6IDEwLjAsICdzdWZmaXgnOiAnbScsICdzaVByZWZpeCc6IFRydWV9KQogICAgICAgICMgc2VsZi5hZGRDaGlsZCh7J25hbWUnOiAneF9tJywgJ3R5cGUnOiAnZmxvYXQnLCAndmFsdWUnOiAxLzcuLCAnc3VmZml4JzogJ3MnLCAnc2lQcmVmaXgnOiBUcnVlfSkKICAgICAgICAjIHNlbGYuYWRkQ2hpbGQoeyduYW1lJzogJ3lfbScsICd0eXBlJzogJ2Zsb2F0JywgJ3ZhbHVlJzogMS83LiwgJ3N1ZmZpeCc6ICdzJywgJ3NpUHJlZml4JzogVHJ1ZX0pCgoKICAgICAgICAjIHNlbGYuel9tID0gc2VsZi5wYXJhbSgnel9tJykKICAgICAgICAjIHNlbGYuel9zaXplX20gPSBzZWxmLnBhcmFtKCd6X3NpemVfbScpCiAgICAgICAgIyBzZWxmLnpfc2l6ZV9weCA9IHNlbGYucGFyYW0oJ3pfc2l6ZV9weCcpCgogICAgICAgICMgc2VsZi56X3NpemVfbS5zaWdWYWx1ZUNoYW5nZWQuY29ubmVjdChzZWxmLnpfc2l6ZV9tQ2hhbmdlZCkKICAgICAgICAjIHNlbGYuel9zaXplX3B4LnNpZ1ZhbHVlQ2hhbmdlZC5jb25uZWN0KHNlbGYuel9zaXplX3B4Q2hhbmdlZCkKCiAgICAgICAgIyBzZWxmLmFkZENoaWxkKHB2b3hlbHNpemUpCiAgICAgICAgIyBzZWxmLmFkZENoaWxkKHBhcmVhc2l6ZSkKCiAgICAgICAgIyBzZWxmLnpfc2l6ZV9tLnNpZ1ZhbHVlQ2hhbmdlZC5jb25uZWN0KHNlbGYuel9zaXplX21DaGFuZ2VkKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YWx1ZXMgPSBvcHRzLnBvcCgndmFsdWUnKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="8">
-        <text>gp
-gp
-gp</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLnNldFZhbHVlKG5ld192YWwpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBuYW1lID0gb3B0cy5wb3AoJ25hbWUnKQogICAgICAgIGlmICd0aXRsZScgaW4gb3B0cy5rZXlzKCk6CiAgICAgICAgICAgIHRpdGxlID0gb3B0cy5wb3AoJ3RpdGxlJykKICAgICAgICB2YWx1ZXMgPSBvcHRzLnBvcCgndmFsdWUnKQo=</text>
+        <text encoding="base64">CgoKICAgICAgICAjIHB2c3ogPSBwVHlwZXMuUGFyYW1ldGVyKG5hbWU9J3onLCB2YWx1ZT12YWx1ZXNbMF0sICoqb3B0cykKICAgICAgICAjIHB2c3ggPSBwVHlwZXMuUGFyYW1ldGVyKG5hbWU9J3gnLCB2YWx1ZT12YWx1ZXNbMV0sICoqb3B0cykKICAgICAgICAjIHB2c3kgPSBwVHlwZXMuUGFyYW1ldGVyKG5hbWU9J3knLCB2YWx1ZT12YWx1ZXNbMl0sICoqb3B0cykKICAgICAgICAjIHB2c3kgPSBwVHlwZXMuUGFyYW1ldGVyKG5hbWU9J3knLCB2YWx1ZT12YWx1ZXNbMl0sICoqb3B0cykKCiAgICAgICAgIyBzZWxmLmFkZENoaWxkKHB2c3opCiAgICAgICAgIyBzZWxmLmFkZENoaWxkKHB2c3gpCiAgICAgICAgIyBzZWxmLmFkZENoaWxkKHB2c3kpCiAgICAgICAgIyBvcHRzWyd2YWx1ZSddID0gdmFsdWVzWzBdCiAgICAgICAgIyBvcHRzWyduYW1lJ10gPSAndXUnCiAgICAgICAgIyBzZWxmLmFkZENoaWxkKG9wdHMpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5jaGlsZHNbaV0K</text>
       </register>
-      <register name="8" type="8">
-        <text>t
-t</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAqKm9wdHMpCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
