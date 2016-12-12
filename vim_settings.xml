@@ -596,12 +596,12 @@
         <mark key="^" line="44" column="50" />
         <mark key="." line="44" column="50" />
       </file>
-      <file name="$USER_HOME$/projects/imtools/imtools/thresholding_functions.py" timestamp="1463666926761">
+      <file name="$USER_HOME$/projects/imtools/imtools/thresholding_functions.py" timestamp="1481554062679">
         <mark key="'" line="85" column="4" />
-        <mark key="[" line="460" column="23" />
-        <mark key="]" line="460" column="22" />
-        <mark key="^" line="460" column="22" />
-        <mark key="." line="460" column="22" />
+        <mark key="[" line="447" column="29" />
+        <mark key="]" line="447" column="31" />
+        <mark key="^" line="447" column="31" />
+        <mark key="." line="447" column="31" />
       </file>
       <file name="$USER_HOME$/projects/imtools/imtools/qmisc.py" timestamp="1453372769423">
         <mark key="'" line="106" column="23" />
@@ -1282,12 +1282,12 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/imtools/tests/histology_test.py" timestamp="1465119020000">
+      <file name="$USER_HOME$/projects/imtools/tests/histology_test.py" timestamp="1481554504450">
         <mark key="'" line="0" column="17" />
-        <mark key="[" line="20" column="24" />
-        <mark key="]" line="20" column="39" />
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
         <mark key="^" line="20" column="39" />
-        <mark key="." line="20" column="39" />
+        <mark key="." line="78" column="0" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/gen_volume_tree.py" timestamp="1444722987176">
         <mark key="[" line="156" column="51" />
@@ -1687,10 +1687,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>ize</text>
+        <text encoding="base64">PT0g</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuYW1lXD4=</text>
@@ -1699,38 +1699,38 @@
         <text encoding="base64">ICAgICAgICBzZWxmLmFkZENoaWxkKHB2b3hlbHNpemUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwZGIK</text>
-      </register>
-      <register name="3" type="8">
-        <text>v
-v
-v</text>
-      </register>
-      <register name="4" type="8">
-        <text>v
-v
-v</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmEuc2lnVmFsdWVDaGFuZ2VkLmNvbm5lY3Qoc2VsZi5hQ2hhbmdlZCkKICAgICAgICBzZWxmLmIuc2lnVmFsdWVDaGFuZ2VkLmNvbm5lY3Qoc2VsZi5iQ2hhbmdlZCkK</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBwZGIK</text>
+      </register>
+      <register name="5" type="8">
+        <text>v
+v
+v</text>
+      </register>
+      <register name="6" type="8">
+        <text>v
+v
+v</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmEgPSBzZWxmLnBhcmFtKCdBID0gMS9CJykKICAgICAgICBzZWxmLmIgPSBzZWxmLnBhcmFtKCdCID0gMS9BJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2hpbGRyZW4K</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmEuc2lnVmFsdWVDaGFuZ2VkLmNvbm5lY3Qoc2VsZi5hQ2hhbmdlZCkKICAgICAgICBzZWxmLmIuc2lnVmFsdWVDaGFuZ2VkLmNvbm5lY3Qoc2VsZi5iQ2hhbmdlZCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgbnR5cGUgPSBOb25lCiAgICAjIGlmIHRwID09IGludDoKICAgICMgICAgIG50eXBlID0gJ2ludCcKICAgICMgZWxpZiAodHAgPT0gYm9vbCk6CiAgICAjICAgICBudHlwZSA9ICdib29sJwogICAgIyBlbGlmICh0cCA9PSBzdHIpOgogICAgIyAgICAgbnR5cGUgPSAnc3RyJwogICAgIyBlbGlmICh0cCA9PSBmbG9hdCk6CiAgICAjICAgICBudHlwZSA9ICdmbG9hdCcK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmEgPSBzZWxmLnBhcmFtKCdBID0gMS9CJykKICAgICAgICBzZWxmLmIgPSBzZWxmLnBhcmFtKCdCID0gMS9BJykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
