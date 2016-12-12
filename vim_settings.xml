@@ -12,13 +12,13 @@
         <mark key="^" line="31" column="54" />
         <mark key="." line="31" column="54" />
       </file>
-      <file name="$USER_HOME$/projects/imtools/tests/ui_threshold_test.py" timestamp="1481551137242">
-        <mark key="'" line="45" column="0" />
-        <mark key="[" line="44" column="88" />
-        <mark key="]" line="44" column="89" />
-        <mark key="." line="44" column="89" />
-        <mark key="^" line="12" column="17" />
-        <mark key="o" line="40" column="22" />
+      <file name="$USER_HOME$/projects/imtools/tests/ui_threshold_test.py" timestamp="1481553561814">
+        <mark key="'" line="46" column="0" />
+        <mark key="[" line="58" column="60" />
+        <mark key="]" line="60" column="128" />
+        <mark key="^" line="60" column="128" />
+        <mark key="." line="60" column="128" />
+        <mark key="o" line="41" column="22" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/data_plus.py" timestamp="1461422289621">
         <mark key="[" line="22" column="20" />
@@ -596,12 +596,12 @@
         <mark key="^" line="44" column="50" />
         <mark key="." line="44" column="50" />
       </file>
-      <file name="$USER_HOME$/projects/imtools/imtools/thresholding_functions.py" timestamp="1481551514185">
+      <file name="$USER_HOME$/projects/imtools/imtools/thresholding_functions.py" timestamp="1481553294446">
         <mark key="'" line="85" column="4" />
-        <mark key="[" line="460" column="23" />
-        <mark key="]" line="460" column="22" />
-        <mark key="^" line="460" column="22" />
-        <mark key="." line="460" column="22" />
+        <mark key="[" line="416" column="0" />
+        <mark key="]" line="416" column="0" />
+        <mark key="^" line="414" column="32" />
+        <mark key="." line="416" column="0" />
       </file>
       <file name="$USER_HOME$/projects/imtools/imtools/qmisc.py" timestamp="1453372769423">
         <mark key="'" line="106" column="23" />
@@ -731,10 +731,10 @@
         <mark key="^" line="178" column="21" />
         <mark key="." line="178" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1481269274690">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1481553888504">
+        <mark key="[" line="0" column="32" />
+        <mark key="]" line="0" column="32" />
+        <mark key="." line="0" column="32" />
       </file>
       <file name="$USER_HOME$/projects/io3d/io3d/misc.py" timestamp="1453295785375">
         <mark key="'" line="19" column="27" />
@@ -1047,17 +1047,14 @@
         <mark key="." line="107" column="50" />
         <mark key="^" line="107" column="50" />
       </file>
-      <file name="/Python Console" timestamp="1481551519436">
+      <file name="/Python Console" timestamp="1481552763879">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="/fragment.py" timestamp="1481551628221">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="/fragment.py" timestamp="1481551843642">
+        <mark key="^" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/projects/quantan/quantan/histology_report.py" timestamp="1452186060856">
         <mark key="[" line="269" column="34" />
@@ -1687,48 +1684,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>portal_vein_intensity</text>
+        <text encoding="base64">IG5ldyB0ZXN0cyBmb3IgdWkgdGhyZXNob2xk</text>
       </register>
       <register name="-" type="4">
-        <text>portal_vein_intensity</text>
+        <text encoding="base64">IG5ldyB0ZXN0cyBmb3IgdWkgdGhyZXNob2xk</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuYW1lXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRhdGEzZCBbc2VnbWVudGF0aW9uID09IDJdID0gcG9ydGFsX3ZlaW5faW50ZW5zaXR5Cg==</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X2dldFByaW9yaXR5T2JqZWN0KHNlbGYpOgogICAgICAgIGltcG9ydCBza2ltYWdlLm1vcnBob2xvZ3kKICAgICAgICBub2JqID0gMgogICAgICAgIGRhdGFwID0gaW10b29scy5zYW1wbGVfZGF0YS5nZW5lcmF0ZSgpCiAgICAgICAgdGhyZXNob2xkZWQgPSBkYXRhcFsiZGF0YTNkIl0gPiA4MAogICAgICAgIHNlbGVjdGlvbiA9IGltdG9vbHMudGhyZXNob2xkaW5nX2Z1bmN0aW9ucy5nZXRQcmlvcml0eU9iamVjdHModGhyZXNob2xkZWQsIG5PYmo9bm9iaiwgc2VlZHM9Tm9uZSkKCiAgICAgICAgbGFiID0gc2tpbWFnZS5tb3JwaG9sb2d5LmxhYmVsKHNlbGVjdGlvbikKICAgICAgICBvdXRwdXRfbm9iaiA9IG5wLnVuaXF1ZShsYWIpCgogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwobm9iaiwgbm9iaikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHNsYWIgPSB7CiAgICAgICAgJ2xpdmVyJzogMSwKICAgICAgICAncG9ydGEnOiAyLAogICAgICAgICdzcGxlZW4nOiAxNwogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGlmIHNlZWRzX211bHRpX2luZGV4IGlzIG5vdCBOb25lOgogICAgICAgIHNlZWRzX211bHRpX2luZGV4PXNlZWRzX211bHRpX2luZGV4YQoK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaW10b29scwo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCBzZWxlY3Rpb24K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaW10b29scy50aHJlc2hvbGRpbmdfZnVuY3Rpb25zCg==</text>
+        <text encoding="base64">ICAgICAgICBza2ltYWdlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaW10b29scy50aHJlc2hvbGRpbmdfZnVuY3Rpb25zCg==</text>
+        <text encoding="base64">ICAgIHNsYWIgPSB7CiAgICAgICAgJ2xpdmVyJzogMSwKICAgICAgICAncG9ydGEnOiAyLAogICAgICAgICdzcGxlZW4nOiAxNwogICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGJvdW5kYXJ5Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG5wLnplCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="8">
-        <text>v
-v
-v</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaW10b29scwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
