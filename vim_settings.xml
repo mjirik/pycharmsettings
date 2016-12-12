@@ -12,12 +12,12 @@
         <mark key="^" line="31" column="54" />
         <mark key="." line="31" column="54" />
       </file>
-      <file name="$USER_HOME$/projects/imtools/tests/ui_threshold_test.py" timestamp="1481553948015">
+      <file name="$USER_HOME$/projects/imtools/tests/ui_threshold_test.py" timestamp="1481557472451">
         <mark key="'" line="46" column="0" />
-        <mark key="[" line="38" column="20" />
-        <mark key="]" line="39" column="7" />
-        <mark key="." line="39" column="7" />
-        <mark key="^" line="39" column="7" />
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
+        <mark key="^" line="67" column="32" />
         <mark key="o" line="41" column="22" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/data_plus.py" timestamp="1461422289621">
@@ -33,7 +33,7 @@
         <mark key="^" line="14" column="19" />
         <mark key="." line="14" column="19" />
       </file>
-      <file name="/a.dummy" timestamp="1481323721180">
+      <file name="/a.dummy" timestamp="1481556786214">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/lisa_server.py" timestamp="1445344066359">
@@ -48,8 +48,8 @@
         <mark key="^" line="38" column="37" />
         <mark key="." line="38" column="37" />
       </file>
-      <file name="$USER_HOME$/projects/imtools/imtools/uiThreshold.py" timestamp="1481203619282">
-        <mark key="[" line="476" column="30" />
+      <file name="$USER_HOME$/projects/imtools/imtools/uiThreshold.py" timestamp="1481556852722">
+        <mark key="[" line="476" column="51" />
         <mark key="]" line="476" column="50" />
         <mark key="." line="476" column="50" />
         <mark key="^" line="476" column="50" />
@@ -731,7 +731,7 @@
         <mark key="^" line="178" column="21" />
         <mark key="." line="178" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1481269274690">
+      <file name="/Dummy.txt" timestamp="1481557475924">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1047,13 +1047,13 @@
         <mark key="." line="107" column="50" />
         <mark key="^" line="107" column="50" />
       </file>
-      <file name="/Python Console" timestamp="1481556009253">
+      <file name="/Python Console" timestamp="1481557306245">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="/fragment.py" timestamp="1481555977018">
+      <file name="/fragment.py" timestamp="1481557351818">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="^" line="4" column="0" />
@@ -1687,50 +1687,50 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBhdHRyKCdpbnRlcmFjdGl2ZScpCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PT0g</text>
+        <text>100</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuYW1lXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFkZENoaWxkKHB2b3hlbHNpemUpCg==</text>
+        <text encoding="base64">ICAgIEBhdHRyKCdpbnRlcmFjdGl2ZScpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBhdHRyKCdpbnRlcmFjdGl2ZScpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5pbWdGaWx0ZXJpbmcsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwZGIK</text>
-      </register>
-      <register name="5" type="8">
-        <text>v
-v
-v</text>
-      </register>
-      <register name="6" type="8">
-        <text>v
-v
-v</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmEuc2lnVmFsdWVDaGFuZ2VkLmNvbm5lY3Qoc2VsZi5hQ2hhbmdlZCkKICAgICAgICBzZWxmLmIuc2lnVmFsdWVDaGFuZ2VkLmNvbm5lY3Qoc2VsZi5iQ2hhbmdlZCkK</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBwZGIK</text>
+      </register>
+      <register name="7" type="8">
+        <text>v
+v
+v</text>
+      </register>
+      <register name="8" type="8">
+        <text>v
+v
+v</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmEgPSBzZWxmLnBhcmFtKCdBID0gMS9CJykKICAgICAgICBzZWxmLmIgPSBzZWxmLnBhcmFtKCdCID0gMS9BJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
