@@ -1431,11 +1431,11 @@
         <mark key="^" line="3" column="8" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/ndnoise/ndnoise/generator.py" timestamp="1481711360937">
-        <mark key="[" line="19" column="26" />
-        <mark key="]" line="19" column="26" />
-        <mark key="." line="19" column="26" />
-        <mark key="^" line="17" column="40" />
+      <file name="$USER_HOME$/projects/ndnoise/ndnoise/generator.py" timestamp="1481713255209">
+        <mark key="[" line="37" column="18" />
+        <mark key="]" line="37" column="19" />
+        <mark key="." line="37" column="19" />
+        <mark key="^" line="39" column="0" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/training.py" timestamp="1453117814988">
         <mark key="'" line="38" column="8" />
@@ -1711,46 +1711,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>h</text>
+        <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>h</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuYW1lXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZvciBpIGluIHJhbmdlKGxlbihzaGFwZSkpOgo=</text>
+        <text encoding="base64">ZGVmIGxvcGFzcyhzaGFwZSwgcmFkaXVzLCBkaXN0PU5vbmUpOgogICAgaWYgZGlzdCBpcyBOb25lOgogICAgICAgIGRpc3QgPSBjb25zdHJ1Y3RfZmlsdGVyX2Rpc3Qoc2hhcGUpCiAgICBvdXRwdXQgPSBkaXN0IDwgcmFkaXVzCiAgICByZXR1cm4gb3V0cHV0Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>h</text>
+        <text>o</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>s</text>
+        <text>l</text>
       </register>
       <register name="3" type="4">
-        <text>spectrum</text>
+        <text encoding="base64">b3V0cHV0IA==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHByaW50IG91dHB1dAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">PA==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG91dHB1dCA9IG5wLnBvd2VyKGRzdCwgZSkK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>output</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGZpbHRlciA9IGNvbnN0cnVjdF9maWx0ZXIoc2hhcGUpCg==</text>
+      <register name="9" type="4">
+        <text>h</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
