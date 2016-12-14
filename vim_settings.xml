@@ -473,11 +473,11 @@
         <mark key="^" line="145" column="29" />
         <mark key="." line="145" column="29" />
       </file>
-      <file name="$USER_HOME$/projects/ndnoise/ndnoise/__init__.py" timestamp="1481704555839">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="29" />
-        <mark key="^" line="0" column="29" />
-        <mark key="." line="0" column="29" />
+      <file name="$USER_HOME$/projects/ndnoise/ndnoise/__init__.py" timestamp="1481713865355">
+        <mark key="[" line="0" column="30" />
+        <mark key="]" line="0" column="35" />
+        <mark key="^" line="0" column="35" />
+        <mark key="." line="0" column="35" />
       </file>
       <file name="$USER_HOME$/projects/pysegbase/pysegbase/seed_editor_qt.py" timestamp="1472547926144">
         <mark key="[" line="588" column="0" />
@@ -817,11 +817,11 @@
         <mark key="^" line="152" column="11" />
         <mark key="." line="152" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/ndnoise/tests/ndnoise_test.py" timestamp="1481711227907">
-        <mark key="[" line="14" column="34" />
-        <mark key="]" line="15" column="20" />
-        <mark key="^" line="15" column="20" />
-        <mark key="." line="15" column="20" />
+      <file name="$USER_HOME$/projects/ndnoise/tests/ndnoise_test.py" timestamp="1481715439870">
+        <mark key="[" line="18" column="26" />
+        <mark key="]" line="18" column="31" />
+        <mark key="^" line="18" column="31" />
+        <mark key="." line="18" column="31" />
       </file>
       <file name="$USER_HOME$/projects/teigen/tests/tube_tree_test.py" timestamp="1481117943803">
         <mark key="'" line="289" column="29" />
@@ -1431,11 +1431,10 @@
         <mark key="^" line="3" column="8" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/ndnoise/ndnoise/generator.py" timestamp="1481713255209">
-        <mark key="[" line="37" column="18" />
-        <mark key="]" line="37" column="19" />
-        <mark key="." line="37" column="19" />
-        <mark key="^" line="39" column="0" />
+      <file name="$USER_HOME$/projects/ndnoise/ndnoise/generator.py" timestamp="1481715111729">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/training.py" timestamp="1453117814988">
         <mark key="'" line="38" column="8" />
@@ -1711,46 +1710,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>o</text>
+        <text>lena</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>lena</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuYW1lXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGVmIGxvcGFzcyhzaGFwZSwgcmFkaXVzLCBkaXN0PU5vbmUpOgogICAgaWYgZGlzdCBpcyBOb25lOgogICAgICAgIGRpc3QgPSBjb25zdHJ1Y3RfZmlsdGVyX2Rpc3Qoc2hhcGUpCiAgICBvdXRwdXQgPSBkaXN0IDwgcmFkaXVzCiAgICByZXR1cm4gb3V0cHV0Cg==</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X3NvbWV0aGluZyhzZWxmKToKICAgICAgICBub2lzZSwgc3BlY3RydW0gPSBuZG5vaXNlLmdlbmVyYXRlKFsxMDAsIDEwMF0pCgoKICAgICAgICBuZG5vaXNlLnNob3cobm9pc2UsIHNwZWN0cnVtKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwoVHJ1ZSwgRmFsc2UpCg==</text>
       </register>
       <register name="1" type="4">
-        <text>o</text>
+        <text>lena</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>l</text>
+        <text>noise</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">b3V0cHV0IA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBub2lzZSwgc3BlY3RydW0gPSBuZG5vaXNlLmdlbmVyYXRlKFsxMDAsIDEwMF0pCg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBrCg==</text>
+      </register>
+      <register name="5" type="4">
+        <text>something</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50IG91dHB1dAo=</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">PA==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIG91dHB1dCA9IG5wLnBvd2VyKGRzdCwgZSkK</text>
+      <register name="7" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="8" type="4">
-        <text>output</text>
+        <text>*</text>
       </register>
       <register name="9" type="4">
-        <text>h</text>
+        <text>amplitude</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
