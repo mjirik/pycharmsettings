@@ -473,6 +473,12 @@
         <mark key="^" line="145" column="29" />
         <mark key="." line="145" column="29" />
       </file>
+      <file name="$USER_HOME$/projects/ndnoise/ndnoise/__init__.py" timestamp="1481704555839">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="29" />
+        <mark key="^" line="0" column="29" />
+        <mark key="." line="0" column="29" />
+      </file>
       <file name="$USER_HOME$/projects/pysegbase/pysegbase/seed_editor_qt.py" timestamp="1472547926144">
         <mark key="[" line="588" column="0" />
         <mark key="]" line="588" column="1" />
@@ -811,11 +817,11 @@
         <mark key="^" line="152" column="11" />
         <mark key="." line="152" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/ndnoise/tests/ndnoise_test.py" timestamp="1481703973570">
-        <mark key="[" line="6" column="29" />
-        <mark key="]" line="3" column="13" />
-        <mark key="^" line="3" column="13" />
-        <mark key="." line="3" column="13" />
+      <file name="$USER_HOME$/projects/ndnoise/tests/ndnoise_test.py" timestamp="1481706439058">
+        <mark key="[" line="14" column="34" />
+        <mark key="]" line="15" column="17" />
+        <mark key="^" line="15" column="17" />
+        <mark key="." line="15" column="17" />
       </file>
       <file name="$USER_HOME$/projects/teigen/tests/tube_tree_test.py" timestamp="1481117943803">
         <mark key="'" line="289" column="29" />
@@ -843,6 +849,12 @@
         <mark key="]" line="0" column="10" />
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
+      </file>
+      <file name="$USER_HOME$/projects/ndnoise/README.md" timestamp="1481705620358">
+        <mark key="[" line="4" column="12" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/projects/imtools/imtools/gt_lar_smooth.py" timestamp="1465564056261">
         <mark key="'" line="442" column="32" />
@@ -876,12 +888,12 @@
         <mark key="^" line="1" column="6" />
         <mark key="." line="1" column="6" />
       </file>
-      <file name="$USER_HOME$/projects/imtools/imtools/thresholding_functions.py" timestamp="1481554062679">
+      <file name="$USER_HOME$/projects/imtools/imtools/thresholding_functions.py" timestamp="1481704942575">
         <mark key="'" line="85" column="4" />
-        <mark key="[" line="447" column="29" />
-        <mark key="]" line="447" column="31" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="12" column="36" />
         <mark key="^" line="447" column="31" />
-        <mark key="." line="447" column="31" />
+        <mark key="." line="0" column="1" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/data_plus.py" timestamp="1461422289621">
         <mark key="[" line="22" column="20" />
@@ -1419,6 +1431,11 @@
         <mark key="^" line="3" column="8" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/ndnoise/ndnoise/generator.py" timestamp="1481706350385">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/lisa/lisa/training.py" timestamp="1453117814988">
         <mark key="'" line="38" column="8" />
         <mark key="[" line="58" column="18" />
@@ -1692,51 +1709,47 @@
       <jump line="135" column="27" filename="$USER_HOME$/projects/teigen/teigen/dictwidgetpyqtgraph.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBhdHRyKCdpbnRlcmFjdGl2ZScpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>100</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuYW1lXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBhdHRyKCdpbnRlcmFjdGl2ZScpCg==</text>
+        <text encoding="base64">ICAgIGltID0gbnAucmFuZG9tLnJhbmRvbShzaGFwZSkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIEBhdHRyKCdpbnRlcmFjdGl2ZScpCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5pbWdGaWx0ZXJpbmcsCg==</text>
+      <register name="2" type="4">
+        <text>s</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>a</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">cGx0IA==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgIHBsdC4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwZGIK</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
-      <register name="7" type="8">
-        <text>v
-v
-v</text>
+      <register name="7" type="4">
+        <text>Introduction into noise generation</text>
       </register>
-      <register name="8" type="8">
-        <text>v
-v
-v</text>
+      <register name="8" type="2">
+        <text encoding="base64">UHVycG9zZTogICAgIChDWkUtWkNVLUZBVi1LS1kpIExpdmVyIG1lZGljYWwgcHJvamVjdAoKQXV0aG9yOiAgICAgIFBhdmVsIFZvbGtvdmluc2t5CkVtYWlsOiAgICAgICB2b2xrb3ZpbnNreS5wYXZlbEBnbWFpbC5jb20KCkNyZWF0ZWQ6ICAgICAyMDE0LzAyLzIyCkNvcHlyaWdodDogICAoYykgUGF2ZWwgVm9sa292aW5za3kK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBhdHRyKCdpbnRlcmFjdGl2ZScpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
