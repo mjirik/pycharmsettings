@@ -817,11 +817,11 @@
         <mark key="^" line="152" column="11" />
         <mark key="." line="152" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/ndnoise/tests/ndnoise_test.py" timestamp="1481715439870">
-        <mark key="[" line="18" column="26" />
-        <mark key="]" line="18" column="31" />
-        <mark key="^" line="18" column="31" />
-        <mark key="." line="18" column="31" />
+      <file name="$USER_HOME$/projects/ndnoise/tests/ndnoise_test.py" timestamp="1481716295996">
+        <mark key="[" line="24" column="37" />
+        <mark key="]" line="24" column="51" />
+        <mark key="^" line="24" column="51" />
+        <mark key="." line="24" column="51" />
       </file>
       <file name="$USER_HOME$/projects/teigen/tests/tube_tree_test.py" timestamp="1481117943803">
         <mark key="'" line="289" column="29" />
@@ -970,7 +970,7 @@
         <mark key="." line="60" column="25" />
         <mark key="^" line="60" column="25" />
       </file>
-      <file name="/Python Console" timestamp="1481708811039">
+      <file name="/Python Console" timestamp="1481715596740">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -1431,10 +1431,11 @@
         <mark key="^" line="3" column="8" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/ndnoise/ndnoise/generator.py" timestamp="1481715111729">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/projects/ndnoise/ndnoise/generator.py" timestamp="1481716547088">
+        <mark key="[" line="17" column="43" />
+        <mark key="]" line="22" column="15" />
+        <mark key="." line="22" column="15" />
+        <mark key="^" line="22" column="15" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/training.py" timestamp="1453117814988">
         <mark key="'" line="38" column="8" />
@@ -1710,46 +1711,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>lena</text>
+        <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>lena</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuYW1lXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X3NvbWV0aGluZyhzZWxmKToKICAgICAgICBub2lzZSwgc3BlY3RydW0gPSBuZG5vaXNlLmdlbmVyYXRlKFsxMDAsIDEwMF0pCgoKICAgICAgICBuZG5vaXNlLnNob3cobm9pc2UsIHNwZWN0cnVtKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwoVHJ1ZSwgRmFsc2UpCg==</text>
+        <text encoding="base64">ICAgIGZpbHRlciAqPSBsb3Bhc3NfZmlsdGVyKHNwZWN0cnVtLnNoYXBlLCAxMCwgZGlzdD1kaXN0KQo=</text>
       </register>
       <register name="1" type="4">
-        <text>lena</text>
+        <text>o</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>noise</text>
+        <text>l</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBub2lzZSwgc3BlY3RydW0gPSBuZG5vaXNlLmdlbmVyYXRlKFsxMDAsIDEwMF0pCg==</text>
+      <register name="3" type="4">
+        <text>lopass_filter(spectrum.shape, 10, dist=dist)</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBrCg==</text>
+      <register name="4" type="4">
+        <text>g</text>
       </register>
       <register name="5" type="4">
-        <text>something</text>
+        <text>)</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>(</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+        <text>real</text>
       </register>
       <register name="8" type="4">
-        <text>*</text>
+        <text>.</text>
       </register>
       <register name="9" type="4">
-        <text>amplitude</text>
+        <text>np</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
