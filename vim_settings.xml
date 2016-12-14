@@ -970,7 +970,7 @@
         <mark key="." line="60" column="25" />
         <mark key="^" line="60" column="25" />
       </file>
-      <file name="/Python Console" timestamp="1481715596740">
+      <file name="/Python Console" timestamp="1481729152516">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -1431,11 +1431,11 @@
         <mark key="^" line="3" column="8" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/ndnoise/ndnoise/generator.py" timestamp="1481726856732">
-        <mark key="[" line="22" column="29" />
-        <mark key="]" line="22" column="29" />
-        <mark key="." line="22" column="29" />
-        <mark key="^" line="90" column="37" />
+      <file name="$USER_HOME$/projects/ndnoise/ndnoise/generator.py" timestamp="1481729132850">
+        <mark key="[" line="88" column="12" />
+        <mark key="]" line="88" column="15" />
+        <mark key="." line="88" column="15" />
+        <mark key="^" line="88" column="15" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/training.py" timestamp="1453117814988">
         <mark key="'" line="38" column="8" />
@@ -1711,10 +1711,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_</text>
+        <text>abs</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>abs</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuYW1lXD4=</text>
@@ -1723,34 +1723,34 @@
         <text encoding="base64">ZGVmIGFwcGx5X2ZpbHRlcl9vbl9hYnMoc2hzcGVjdHJ1bSwgZmlsdGVyKToKICAgIHJhZGlpLCBhbmdsZSA9IFIyUChzaHNwZWN0cnVtKQogICAgcmFkaWkgKj0gZmlsdGVyCiAgICBzaHNwZWN0cnVtID0gUDJSKHJhZGlpLCBhbmdsZSkKICAgIHJldHVybiBzaHNwZWN0cnVtCg==</text>
       </register>
       <register name="1" type="4">
-        <text>_</text>
+        <text>abs</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>on_abs</text>
+        <text>_</text>
       </register>
       <register name="3" type="4">
-        <text>np.imag(shspectrum)</text>
-      </register>
-      <register name="4" type="4">
-        <text>np.abs(shspectrum)</text>
-      </register>
-      <register name="5" type="4">
         <text>on_abs</text>
       </register>
+      <register name="4" type="4">
+        <text>np.imag(shspectrum)</text>
+      </register>
+      <register name="5" type="4">
+        <text>np.abs(shspectrum)</text>
+      </register>
       <register name="6" type="4">
-        <text>h</text>
+        <text>on_abs</text>
       </register>
       <register name="7" type="4">
-        <text>s</text>
+        <text>h</text>
       </register>
       <register name="8" type="4">
-        <text>*</text>
+        <text>s</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGZpbHRlciA9IHBmaWx0ZXIK</text>
+      <register name="9" type="4">
+        <text>*</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
