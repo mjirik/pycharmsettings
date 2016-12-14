@@ -1431,11 +1431,8 @@
         <mark key="^" line="3" column="8" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/ndnoise/ndnoise/generator.py" timestamp="1481720102902">
-        <mark key="[" line="73" column="4" />
-        <mark key="]" line="73" column="6" />
-        <mark key="." line="73" column="6" />
-        <mark key="^" line="73" column="6" />
+      <file name="$USER_HOME$/projects/ndnoise/ndnoise/generator.py" timestamp="1481720919311">
+        <mark key="[" line="21" column="51" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/training.py" timestamp="1453117814988">
         <mark key="'" line="38" column="8" />
@@ -1711,10 +1708,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>x</text>
+        <text encoding="base64">ZmlsdGVyIA==</text>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text encoding="base64">ZmlsdGVyIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuYW1lXD4=</text>
@@ -1723,34 +1720,34 @@
         <text encoding="base64">ICAgIHBsdC5zdXB0aXRsZSgiYW5nbGUiKQo=</text>
       </register>
       <register name="1" type="4">
-        <text>x</text>
+        <text encoding="base64">ZmlsdGVyIA==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>a</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGZpbHRlciA9IHBvd2VyX2ZpbHRlcihzaHNwZWN0cnVtLCBleHBvbmVudCkK</text>
       </register>
       <register name="3" type="4">
-        <text>x</text>
+        <text>*</text>
       </register>
       <register name="4" type="4">
-        <text>a</text>
+        <text>shape</text>
       </register>
       <register name="5" type="4">
-        <text>x</text>
+        <text>.</text>
       </register>
       <register name="6" type="4">
-        <text>a</text>
+        <text encoding="base64">c2hwZWN0cnVtX3BvbGFyIA==</text>
       </register>
       <register name="7" type="4">
-        <text>x</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="8" type="4">
-        <text>a</text>
+        <text>,</text>
       </register>
       <register name="9" type="4">
-        <text>suptitle</text>
+        <text>data</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
