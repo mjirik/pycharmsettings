@@ -817,11 +817,11 @@
         <mark key="^" line="152" column="11" />
         <mark key="." line="152" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/ndnoise/tests/ndnoise_test.py" timestamp="1481706439058">
+      <file name="$USER_HOME$/projects/ndnoise/tests/ndnoise_test.py" timestamp="1481711227907">
         <mark key="[" line="14" column="34" />
-        <mark key="]" line="15" column="17" />
-        <mark key="^" line="15" column="17" />
-        <mark key="." line="15" column="17" />
+        <mark key="]" line="15" column="20" />
+        <mark key="^" line="15" column="20" />
+        <mark key="." line="15" column="20" />
       </file>
       <file name="$USER_HOME$/projects/teigen/tests/tube_tree_test.py" timestamp="1481117943803">
         <mark key="'" line="289" column="29" />
@@ -1431,11 +1431,11 @@
         <mark key="^" line="3" column="8" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/ndnoise/ndnoise/generator.py" timestamp="1481709909617">
-        <mark key="[" line="34" column="27" />
-        <mark key="]" line="34" column="28" />
-        <mark key="." line="34" column="28" />
-        <mark key="^" line="20" column="28" />
+      <file name="$USER_HOME$/projects/ndnoise/ndnoise/generator.py" timestamp="1481711360937">
+        <mark key="[" line="19" column="26" />
+        <mark key="]" line="19" column="26" />
+        <mark key="." line="19" column="26" />
+        <mark key="^" line="17" column="40" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/training.py" timestamp="1453117814988">
         <mark key="'" line="38" column="8" />
@@ -1711,10 +1711,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>dst</text>
+        <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>dst</text>
+        <text>h</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuYW1lXD4=</text>
@@ -1723,34 +1723,34 @@
         <text encoding="base64">ICAgIGZvciBpIGluIHJhbmdlKGxlbihzaGFwZSkpOgo=</text>
       </register>
       <register name="1" type="4">
-        <text>dst</text>
+        <text>h</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>0</text>
+        <text>s</text>
       </register>
       <register name="3" type="4">
-        <text>.</text>
+        <text>spectrum</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGRzdCA9IG5wLnplcm9zKHNoYXBlKQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHkwLCB5MSA9IHlpCg==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">cHJpbnQg</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGZpbHRlciA9IGNvbnN0cnVjdF9maWx0ZXIoc2hhcGUpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
