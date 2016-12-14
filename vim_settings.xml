@@ -817,11 +817,11 @@
         <mark key="^" line="152" column="11" />
         <mark key="." line="152" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/ndnoise/tests/ndnoise_test.py" timestamp="1481717481850">
-        <mark key="[" line="21" column="62" />
-        <mark key="]" line="21" column="90" />
-        <mark key="^" line="21" column="90" />
-        <mark key="." line="21" column="90" />
+      <file name="$USER_HOME$/projects/ndnoise/tests/ndnoise_test.py" timestamp="1481719004271">
+        <mark key="[" line="25" column="24" />
+        <mark key="]" line="25" column="23" />
+        <mark key="^" line="25" column="23" />
+        <mark key="." line="25" column="23" />
       </file>
       <file name="$USER_HOME$/projects/teigen/tests/tube_tree_test.py" timestamp="1481117943803">
         <mark key="'" line="289" column="29" />
@@ -1431,11 +1431,11 @@
         <mark key="^" line="3" column="8" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/ndnoise/ndnoise/generator.py" timestamp="1481717448235">
-        <mark key="[" line="17" column="45" />
-        <mark key="]" line="17" column="45" />
-        <mark key="." line="17" column="45" />
-        <mark key="^" line="54" column="18" />
+      <file name="$USER_HOME$/projects/ndnoise/ndnoise/generator.py" timestamp="1481720102902">
+        <mark key="[" line="73" column="4" />
+        <mark key="]" line="73" column="6" />
+        <mark key="." line="73" column="6" />
+        <mark key="^" line="73" column="6" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/training.py" timestamp="1453117814988">
         <mark key="'" line="38" column="8" />
@@ -1711,46 +1711,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>x</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>x</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuYW1lXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHNoc3BlY3R1cm0gPSBucC5mZnQuZmZ0c2hpZnQoc3BlY3RydW0pCiAgICBpZiBsb2dfdmlldzoKICAgICAgICBzaHNwZWN0dXJtID0gbnAubG9nKHNoc3BlY3R1cm0pCiAgICBwbHQuc3VicGxvdCgxMzIpCiAgICBwbHQuaW1zaG93KG5wLmFicyhzaHNwZWN0dXJtKSkKICAgIHBsdC5jb2xvcmJhcigpCg==</text>
+        <text encoding="base64">ICAgIHBsdC5zdXB0aXRsZSgiYW5nbGUiKQo=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+        <text>x</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+        <text>a</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">c2lnbmFsLCBmaWx0ZXIsIHNwZWN0cnVtIA==</text>
+        <text>x</text>
       </register>
       <register name="4" type="4">
-        <text>specturm</text>
+        <text>a</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIGxvZ192aWV3OgogICAgICAgIHNoc3BlY3R1cm0gPSBucC5sb2coc2hzcGVjdHVybSkK</text>
+      <register name="5" type="4">
+        <text>x</text>
       </register>
       <register name="6" type="4">
-        <text>spectrum</text>
+        <text>a</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>x</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHBsdC5ncmF5KCkK</text>
+      <register name="8" type="4">
+        <text>a</text>
       </register>
       <register name="9" type="4">
-        <text>10</text>
+        <text>suptitle</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
