@@ -1431,8 +1431,11 @@
         <mark key="^" line="3" column="8" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/ndnoise/ndnoise/generator.py" timestamp="1481720919311">
-        <mark key="[" line="21" column="51" />
+      <file name="$USER_HOME$/projects/ndnoise/ndnoise/generator.py" timestamp="1481722092181">
+        <mark key="[" line="31" column="27" />
+        <mark key="]" line="31" column="27" />
+        <mark key="." line="31" column="27" />
+        <mark key="^" line="31" column="28" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/training.py" timestamp="1453117814988">
         <mark key="'" line="38" column="8" />
@@ -1605,8 +1608,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="155" column="28" filename="$USER_HOME$/projects/teigen/teigen/generators/cylinders.py" />
-      <jump line="1105" column="8" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="1102" column="8" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="1108" column="15" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="355" column="13" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
@@ -1705,13 +1706,15 @@
       <jump line="38" column="15" filename="$USER_HOME$/projects/teigen/teigen/dictwidgetpyqtgraph.py" />
       <jump line="92" column="15" filename="$USER_HOME$/projects/teigen/teigen/dictwidgetpyqtgraph.py" />
       <jump line="135" column="27" filename="$USER_HOME$/projects/teigen/teigen/dictwidgetpyqtgraph.py" />
+      <jump line="34" column="32" filename="$USER_HOME$/projects/ndnoise/ndnoise/generator.py" />
+      <jump line="22" column="0" filename="$USER_HOME$/projects/ndnoise/ndnoise/generator.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ZmlsdGVyIA==</text>
+        <text>h</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZmlsdGVyIA==</text>
+        <text>h</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuYW1lXD4=</text>
@@ -1720,34 +1723,34 @@
         <text encoding="base64">ICAgIHBsdC5zdXB0aXRsZSgiYW5nbGUiKQo=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ZmlsdGVyIA==</text>
+        <text>h</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGZpbHRlciA9IHBvd2VyX2ZpbHRlcihzaHNwZWN0cnVtLCBleHBvbmVudCkK</text>
+      <register name="2" type="4">
+        <text>s</text>
       </register>
       <register name="3" type="4">
         <text>*</text>
       </register>
-      <register name="4" type="4">
-        <text>shape</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGZpbHRlciA9IHBmaWx0ZXIK</text>
       </register>
       <register name="5" type="4">
         <text>.</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">c2hwZWN0cnVtX3BvbGFyIA==</text>
+        <text>shspectrum</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+        <text>shspectrum</text>
       </register>
-      <register name="8" type="4">
-        <text>,</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>data</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
