@@ -733,7 +733,7 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1481878957597">
+      <file name="/Dummy.txt" timestamp="1481879492153">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -931,6 +931,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1481879359166">
+        <mark key="[" line="497" column="0" />
+        <mark key="]" line="497" column="91" />
+        <mark key="^" line="498" column="89" />
+        <mark key="." line="497" column="0" />
       </file>
       <file name="$USER_HOME$/projects/imtools/imtools/ml/gmmcl.py" timestamp="1448550206184">
         <mark key="[" line="11" column="14" />
@@ -1699,7 +1705,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICMgR1VJCiAgICAtICJleHBvcnQgRElTUExBWT06OTkuMCIKICAgIC0gc2ggLWUgL2V0Yy9pbml0LmQveHZmYiBzdGFydAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2lkZ2V0LmFkZF9kYXRhKHNlbGYub3NlZy5zZWdtZW50YXRpb24sIHNlbGYub3NlZy52b3hlbHNpemVfbW0sIHNlbGYub3NlZy5zbGFiKQo=</text>
       </register>
       <register name="-" type="4">
         <text>abs</text>
@@ -1711,34 +1717,34 @@
         <text encoding="base64">ZGVmIGFwcGx5X2ZpbHRlcl9vbl9hYnMoc2hzcGVjdHJ1bSwgZmlsdGVyKToKICAgIHJhZGlpLCBhbmdsZSA9IFIyUChzaHNwZWN0cnVtKQogICAgcmFkaWkgKj0gZmlsdGVyCiAgICBzaHNwZWN0cnVtID0gUDJSKHJhZGlpLCBhbmdsZSkKICAgIHJldHVybiBzaHNwZWN0cnVtCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgR1VJCiAgICAtICJleHBvcnQgRElTUExBWT06OTkuMCIKICAgIC0gc2ggLWUgL2V0Yy9pbml0LmQveHZmYiBzdGFydAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2lkZ2V0LmFkZF9kYXRhKHNlbGYub3NlZy5zZWdtZW50YXRpb24sIHNlbGYub3NlZy52b3hlbHNpemVfbW0sIHNlbGYub3NlZy5zbGFiKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>abs</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICMgR1VJCiAgICAtICJleHBvcnQgRElTUExBWT06OTkuMCIKICAgIC0gc2ggLWUgL2V0Yy9pbml0LmQveHZmYiBzdGFydAo=</text>
       </register>
       <register name="3" type="4">
-        <text>_</text>
+        <text>abs</text>
       </register>
       <register name="4" type="4">
-        <text>on_abs</text>
+        <text>_</text>
       </register>
       <register name="5" type="4">
-        <text>np.imag(shspectrum)</text>
-      </register>
-      <register name="6" type="4">
-        <text>np.abs(shspectrum)</text>
-      </register>
-      <register name="7" type="4">
         <text>on_abs</text>
       </register>
+      <register name="6" type="4">
+        <text>np.imag(shspectrum)</text>
+      </register>
+      <register name="7" type="4">
+        <text>np.abs(shspectrum)</text>
+      </register>
       <register name="8" type="4">
-        <text>h</text>
+        <text>on_abs</text>
       </register>
       <register name="9" type="4">
-        <text>s</text>
+        <text>h</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
