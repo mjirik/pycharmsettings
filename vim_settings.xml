@@ -1049,13 +1049,13 @@
         <mark key="^" line="202" column="30" />
         <mark key="." line="203" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/imtools/tests/widgets_test.py" timestamp="1481885188184">
-        <mark key="a" line="72" column="14" />
-        <mark key="'" line="7" column="8" />
-        <mark key="[" line="110" column="27" />
-        <mark key="]" line="110" column="27" />
-        <mark key="." line="110" column="27" />
-        <mark key="^" line="110" column="27" />
+      <file name="$USER_HOME$/projects/imtools/tests/widgets_test.py" timestamp="1481886890847">
+        <mark key="a" line="78" column="14" />
+        <mark key="'" line="108" column="17" />
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="91" column="0" />
+        <mark key="." line="89" column="0" />
+        <mark key="^" line="120" column="24" />
       </file>
       <file name="/Python Console" timestamp="1481729333509">
         <mark key="[" line="0" column="0" />
@@ -1602,9 +1602,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1108" column="15" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
-      <jump line="355" column="13" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
-      <jump line="370" column="55" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="400" column="56" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="437" column="58" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="499" column="37" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
@@ -1702,49 +1699,52 @@
       <jump line="22" column="0" filename="$USER_HOME$/projects/ndnoise/ndnoise/generator.py" />
       <jump line="71" column="14" filename="$USER_HOME$/projects/imtools/tests/widgets_test.py" />
       <jump line="7" column="8" filename="$USER_HOME$/projects/imtools/tests/widgets_test.py" />
+      <jump line="89" column="0" filename="$USER_HOME$/projects/imtools/tests/widgets_test.py" />
+      <jump line="64" column="0" filename="$USER_HOME$/projects/imtools/tests/widgets_test.py" />
+      <jump line="107" column="17" filename="$USER_HOME$/projects/imtools/tests/widgets_test.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhcHAucXVpdCgpCiAgICAgICAgYXBwLmRlbGV0ZUxhdGVyKCkK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>app</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuYW1lXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgbnVtcHkgYXMgbnAKICAgICAgICBzZWdtZW50YXRpb24gPSBucC56ZXJvcyhbMjAsIDMwLCA0MF0pCiAgICAgICAgIyBnZW5lcmF0ZSB0ZXN0IGRhdGEKICAgICAgICBzZWdtZW50YXRpb25bNjoxMCwgNzoyNCwgMTA6MzddID0gMQogICAgICAgIHNlZ21lbnRhdGlvbls2OjEwLCA3LCAxMF0gPSAwCiAgICAgICAgc2VnbWVudGF0aW9uWzY6MTAsIDIzLCAxMF0gPSAwCiAgICAgICAgc2VnbWVudGF0aW9uWzY6MTAsIDcsIDM2XSA9IDAKICAgICAgICBzZWdtZW50YXRpb25bNjoxMCwgMjMsIDM2XSA9IDAKICAgICAgICBzZWdtZW50YXRpb25bMjoxOCwgMTI6MTksIDE4OjI4XSA9IDIKCiAgICAgICAgZGF0YTNkID0gc2VnbWVudGF0aW9uICogMTAwICsgbnAucmFuZG9tLnJhbmRvbShzZWdtZW50YXRpb24uc2hhcGUpICogMzAKICAgICAgICB2b3hlbHNpemVfbW09WzMsMiwxXQoKICAgICAgICBpbXBvcnQgaW8zZAogICAgICAgIGRhdGFwID0gewogICAgICAgICAgICAnZGF0YTNkJzogZGF0YTNkLAogICAgICAgICAgICAnc2VnbWVudGF0aW9uJzogc2VnbWVudGF0aW9uLAogICAgICAgICAgICAndm94ZWxzaXplX21tJzogdm94ZWxzaXplX21tCiAgICAgICAgfQogICAgICAgIGlvM2Qud3JpdGUoZGF0YXAsICJkb251dC5wa2x6IikK</text>
+        <text encoding="base64">ICAgICAgICBhcHAucXVpdCgpCiAgICAgICAgYXBwLmRlbGV0ZUxhdGVyKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEluKCJhZGRfZGF0YV9maWxlIiwgc3cudWlfYnV0dG9ucy5rZXlzKCkpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhcHAuZXhlY18oKQo=</text>
+        <text encoding="base64">ICAgICAgICAjIHByaW50ICJqZXN0ZSBwb3JhZCBkb2JyeSIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUUFwcGxpY2F0aW9uOjpzZXRHcmFwaGljc1N5c3RlbQo=</text>
+        <text encoding="base64">ICAgICAgICAjIHByaW50ICJ6YXRpbSBkb2JyeSIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2lkZ2V0LmFkZF9kYXRhKHNlbGYub3NlZy5zZWdtZW50YXRpb24sIHNlbGYub3NlZy52b3hlbHNpemVfbW0sIHNlbGYub3NlZy5zbGFiKQo=</text>
+        <text encoding="base64">ICAgICAgICAjIHByaW50ICJwb3JhZCBkb2JyeSIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgR1VJCiAgICAtICJleHBvcnQgRElTUExBWT06OTkuMCIKICAgIC0gc2ggLWUgL2V0Yy9pbml0LmQveHZmYiBzdGFydAo=</text>
+        <text encoding="base64">ICAgICAgICBzdzIgPSBzc3F0LlNob3dTZWdtZW50YXRpb25XaWRnZXQoTm9uZSwgc2hvd19sb2FkX2J1dHRvbj1UcnVlKQogICAgICAgIHN3Mi5zaG93KCkKICAgICAgICBzdzIuY2xvc2UoKQo=</text>
       </register>
-      <register name="6" type="4">
-        <text>abs</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBnYy5jb2xsZWN0KCkK</text>
       </register>
-      <register name="7" type="4">
-        <text>_</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICA9IFFBcHBsaWNhdGlvbihzeXMuYXJndikK</text>
       </register>
-      <register name="8" type="4">
-        <text>on_abs</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaW10b29scy5zYW1wbGVfZGF0YQo=</text>
       </register>
-      <register name="9" type="4">
-        <text>np.imag(shspectrum)</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEluKCJhZGRfZGF0YV9maWxlIiwgc3cudWlfYnV0dG9ucy5rZXlzKCkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1781,7 +1781,6 @@
         <entry>imgFiltering</entry>
       </history-search>
       <history-cmd>
-        <entry>52</entry>
         <entry>e</entry>
         <entry>81</entry>
         <entry>312</entry>
@@ -1800,6 +1799,7 @@
         <entry>659</entry>
         <entry>351</entry>
         <entry>q</entry>
+        <entry>ě</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
