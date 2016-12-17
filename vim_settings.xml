@@ -16,8 +16,8 @@
         <mark key="'" line="46" column="0" />
         <mark key="[" line="65" column="42" />
         <mark key="]" line="65" column="77" />
-        <mark key="." line="65" column="77" />
         <mark key="^" line="65" column="77" />
+        <mark key="." line="65" column="77" />
         <mark key="o" line="41" column="22" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/data_plus.py" timestamp="1461422289621">
@@ -344,6 +344,12 @@
         <mark key="." line="122" column="26" />
         <mark key="^" line="122" column="26" />
       </file>
+      <file name="$USER_HOME$/projects/teigen/tgout/requirements_conda.txt" timestamp="1481974032913">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="1" column="4" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/sftpsync-py/tests/sftpsync_test.py" timestamp="1472651188790">
         <mark key="a" line="91" column="25" />
         <mark key="'" line="61" column="27" />
@@ -371,6 +377,12 @@
         <mark key="]" line="53" column="80" />
         <mark key="^" line="53" column="80" />
         <mark key="." line="53" column="80" />
+      </file>
+      <file name="$USER_HOME$/projects/teigen/.travis.yml" timestamp="1481974411581">
+        <mark key="[" line="52" column="50" />
+        <mark key="]" line="52" column="55" />
+        <mark key="." line="52" column="55" />
+        <mark key="^" line="52" column="55" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/virtual_resection.py" timestamp="1465920666063">
         <mark key="'" line="215" column="20" />
@@ -504,13 +516,13 @@
         <mark key="^" line="14" column="33" />
         <mark key="." line="14" column="33" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1481323704593">
+      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1481974667012">
         <mark key="a" line="112" column="47" />
-        <mark key="'" line="336" column="27" />
-        <mark key="[" line="276" column="62" />
-        <mark key="]" line="276" column="68" />
-        <mark key="." line="276" column="68" />
-        <mark key="^" line="276" column="68" />
+        <mark key="'" line="337" column="27" />
+        <mark key="[" line="332" column="51" />
+        <mark key="]" line="332" column="53" />
+        <mark key="." line="332" column="53" />
+        <mark key="^" line="332" column="53" />
       </file>
       <file name="$USER_HOME$/projects/skelet3d/skelet3d/skeleton_analyser.py" timestamp="1465560469197">
         <mark key="a" line="527" column="28" />
@@ -697,8 +709,8 @@
         <mark key="'" line="11" column="0" />
         <mark key="[" line="193" column="12" />
         <mark key="]" line="193" column="65" />
-        <mark key="." line="193" column="65" />
         <mark key="^" line="193" column="65" />
+        <mark key="." line="193" column="65" />
       </file>
       <file name="$USER_HOME$/Dropbox/studium/dizertace/data/jkunes/compare_histology_results.py" timestamp="1450862143914">
         <mark key="'" line="322" column="8" />
@@ -816,6 +828,10 @@
       </file>
       <file name="$USER_HOME$/projects/teigen/teigen/dictwidgetpyqtgraph.py" timestamp="1481269253120">
         <mark key="'" line="253" column="27" />
+        <mark key="[" line="177" column="23" />
+        <mark key="]" line="177" column="26" />
+        <mark key="." line="177" column="26" />
+        <mark key="^" line="177" column="26" />
       </file>
       <file name="$USER_HOME$/projects/lisa/install_nosudo.sh" timestamp="1465568977912">
         <mark key="[" line="42" column="0" />
@@ -1122,12 +1138,6 @@
         <mark key="]" line="136" column="25" />
         <mark key="^" line="136" column="25" />
         <mark key="." line="136" column="25" />
-      </file>
-      <file name="$USER_HOME$/projects/teigen/meta.yaml" timestamp="1481052313082">
-        <mark key="[" line="56" column="22" />
-        <mark key="]" line="50" column="10" />
-        <mark key="^" line="50" column="10" />
-        <mark key="." line="50" column="10" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/config_default.py" timestamp="1479136532291">
         <mark key="[" line="63" column="20" />
@@ -1704,17 +1714,17 @@
       <jump line="107" column="17" filename="$USER_HOME$/projects/imtools/tests/widgets_test.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhcHAucXVpdCgpCiAgICAgICAgYXBwLmRlbGV0ZUxhdGVyKCkK</text>
+      <register name="&quot;" type="4">
+        <text>png</text>
       </register>
       <register name="-" type="4">
-        <text>app</text>
+        <text>png</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuYW1lXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhcHAucXVpdCgpCiAgICAgICAgYXBwLmRlbGV0ZUxhdGVyKCkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmZpZ3VyZS5zYXZlZmlnKGZuX2Jhc2UgKyAiXyIgKyAiZ3JhcGgucG5nIikK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEluKCJhZGRfZGF0YV9maWxlIiwgc3cudWlfYnV0dG9ucy5rZXlzKCkpCg==</text>
@@ -1759,7 +1769,6 @@
     </search>
     <history>
       <history-search>
-        <entry>lineEdit</entry>
         <entry>LineEd</entry>
         <entry encoding="base64">XDxRTGluZUVkaXRcPg==</entry>
         <entry encoding="base64">XDxzdHJfZm9ybWF0X29sZF90b19uZXdcPg==</entry>
@@ -1779,9 +1788,10 @@
         <entry>Hook</entry>
         <entry>ssigma</entry>
         <entry>imgFiltering</entry>
+        <entry encoding="base64">XDxuYW1lXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>e</entry>
+        <entry>52</entry>
         <entry>81</entry>
         <entry>312</entry>
         <entry>885</entry>
@@ -1799,7 +1809,7 @@
         <entry>659</entry>
         <entry>351</entry>
         <entry>q</entry>
-        <entry>ě</entry>
+        <entry>e</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
