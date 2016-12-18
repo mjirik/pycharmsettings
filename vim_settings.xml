@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/start_script.py" timestamp="1477142534985">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/sftpsync-py/tests/sftp_test.py" timestamp="1465326762710">
         <mark key="[" line="31" column="34" />
         <mark key="]" line="31" column="54" />
@@ -32,9 +29,6 @@
         <mark key="]" line="14" column="19" />
         <mark key="^" line="14" column="19" />
         <mark key="." line="14" column="19" />
-      </file>
-      <file name="/a.dummy" timestamp="1481556786214">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/lisa_server.py" timestamp="1445344066359">
         <mark key="[" line="31" column="20" />
@@ -100,9 +94,6 @@
         <mark key="]" line="55" column="97" />
         <mark key="^" line="73" column="124" />
         <mark key="." line="55" column="97" />
-      </file>
-      <file name="$USER_HOME$/projects/teigen/setup.cfg" timestamp="1481236596055">
-        <mark key="[" line="2" column="26" />
       </file>
       <file name="$USER_HOME$/projects/lisa/contributors.md" timestamp="1466172084920">
         <mark key="[" line="55" column="15" />
@@ -172,9 +163,6 @@
         <mark key="]" line="57" column="38" />
         <mark key="^" line="57" column="38" />
         <mark key="." line="57" column="38" />
-      </file>
-      <file name="$USER_HOME$/projects/sobo/tests/sobo_test.py" timestamp="1468040831003">
-        <mark key="[" line="10" column="48" />
       </file>
       <file name="$USER_HOME$/projects/quantan/setup.cfg" timestamp="1465903649536">
         <mark key="[" line="2" column="26" />
@@ -516,13 +504,13 @@
         <mark key="^" line="14" column="33" />
         <mark key="." line="14" column="33" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1481974667012">
-        <mark key="a" line="112" column="47" />
-        <mark key="'" line="337" column="27" />
-        <mark key="[" line="332" column="51" />
-        <mark key="]" line="332" column="53" />
-        <mark key="." line="332" column="53" />
-        <mark key="^" line="332" column="53" />
+      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1482095530098">
+        <mark key="a" line="84" column="15" />
+        <mark key="'" line="338" column="27" />
+        <mark key="[" line="278" column="0" />
+        <mark key="]" line="279" column="75" />
+        <mark key="." line="287" column="32" />
+        <mark key="^" line="287" column="32" />
       </file>
       <file name="$USER_HOME$/projects/skelet3d/skelet3d/skeleton_analyser.py" timestamp="1465560469197">
         <mark key="a" line="527" column="28" />
@@ -695,9 +683,6 @@
         <mark key="^" line="67" column="17" />
         <mark key="." line="67" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/README.md" timestamp="1479669601786">
-        <mark key="[" line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/psongbook/sobo/psongbook.py" timestamp="1463491785021">
         <mark key="[" line="160" column="32" />
         <mark key="]" line="160" column="32" />
@@ -839,11 +824,12 @@
         <mark key="^" line="20" column="27" />
         <mark key="." line="20" column="27" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/tests/gui_test.py" timestamp="1481233938290">
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="66" column="15" />
-        <mark key="." line="64" column="13" />
-        <mark key="^" line="64" column="13" />
+      <file name="$USER_HOME$/projects/teigen/tests/gui_test.py" timestamp="1482095587795">
+        <mark key="'" line="50" column="18" />
+        <mark key="[" line="51" column="12" />
+        <mark key="]" line="51" column="18" />
+        <mark key="." line="51" column="18" />
+        <mark key="^" line="51" column="18" />
       </file>
       <file name="$USER_HOME$/projects/quanta/meta.yaml" timestamp="1446809867792">
         <mark key="[" line="58" column="10" />
@@ -1457,9 +1443,6 @@
         <mark key="^" line="502" column="16" />
         <mark key="." line="502" column="16" />
       </file>
-      <file name="vim_settings.xml" timestamp="1465123778304">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/sobo/sobo/sort.py" timestamp="1468362466010">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="62" column="12" />
@@ -1618,7 +1601,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="400" column="56" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="437" column="58" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="499" column="37" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="447" column="28" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
@@ -1718,19 +1700,20 @@
       <jump line="89" column="0" filename="$USER_HOME$/projects/imtools/tests/widgets_test.py" />
       <jump line="64" column="0" filename="$USER_HOME$/projects/imtools/tests/widgets_test.py" />
       <jump line="107" column="17" filename="$USER_HOME$/projects/imtools/tests/widgets_test.py" />
+      <jump line="50" column="18" filename="$USER_HOME$/projects/teigen/tests/gui_test.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>png</text>
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text>png</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuYW1lXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmZpZ3VyZS5zYXZlZmlnKGZuX2Jhc2UgKyAiXyIgKyAiZ3JhcGgucG5nIikK</text>
+        <text encoding="base64">ICAgICAgICBncl9zdHJ1Y3RbJ2NoaWxkcmVuJ10uYXBwZW5kKAogICAgICAgICAgICBkaWN0d2lkZ2V0cHlxdGdyYXBoLkFyZWFTYW1wbGluZ1BhcmFtZXRlcihuYW1lPSdBcmVhIFNhbXBsaW5nJykpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEluKCJhZGRfZGF0YV9maWxlIiwgc3cudWlfYnV0dG9ucy5rZXlzKCkpCg==</text>
