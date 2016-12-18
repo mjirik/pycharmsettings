@@ -811,12 +811,12 @@
         <mark key="." line="41" column="9" />
         <mark key="^" line="41" column="9" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/dictwidgetpyqtgraph.py" timestamp="1482097987481">
-        <mark key="'" line="254" column="27" />
-        <mark key="[" line="202" column="121" />
-        <mark key="]" line="202" column="150" />
-        <mark key="." line="202" column="150" />
-        <mark key="^" line="202" column="150" />
+      <file name="$USER_HOME$/projects/teigen/teigen/dictwidgetpyqtgraph.py" timestamp="1482100830596">
+        <mark key="'" line="257" column="27" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="55" />
+        <mark key="." line="206" column="48" />
+        <mark key="^" line="206" column="48" />
       </file>
       <file name="$USER_HOME$/projects/lisa/install_nosudo.sh" timestamp="1465568977912">
         <mark key="[" line="42" column="0" />
@@ -824,12 +824,13 @@
         <mark key="^" line="20" column="27" />
         <mark key="." line="20" column="27" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/tests/gui_test.py" timestamp="1482095587795">
-        <mark key="'" line="50" column="18" />
-        <mark key="[" line="51" column="12" />
-        <mark key="]" line="51" column="18" />
-        <mark key="." line="51" column="18" />
-        <mark key="^" line="51" column="18" />
+      <file name="$USER_HOME$/projects/teigen/tests/gui_test.py" timestamp="1482100891590">
+        <mark key="a" line="57" column="9" />
+        <mark key="'" line="57" column="9" />
+        <mark key="[" line="60" column="8" />
+        <mark key="]" line="60" column="16" />
+        <mark key="." line="60" column="16" />
+        <mark key="^" line="60" column="16" />
       </file>
       <file name="$USER_HOME$/projects/quanta/meta.yaml" timestamp="1446809867792">
         <mark key="[" line="58" column="10" />
@@ -1059,13 +1060,13 @@
         <mark key="." line="89" column="0" />
         <mark key="^" line="120" column="24" />
       </file>
-      <file name="/Python Console" timestamp="1482098009607">
+      <file name="/Python Console" timestamp="1482100912559">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="/fragment.py" timestamp="1481557351818">
+      <file name="/fragment.py" timestamp="1482101385816">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="^" line="4" column="0" />
@@ -1601,7 +1602,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="437" column="58" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="499" column="37" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="447" column="28" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="1201" column="27" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
@@ -1701,10 +1701,11 @@
       <jump line="64" column="0" filename="$USER_HOME$/projects/imtools/tests/widgets_test.py" />
       <jump line="107" column="17" filename="$USER_HOME$/projects/imtools/tests/widgets_test.py" />
       <jump line="50" column="18" filename="$USER_HOME$/projects/teigen/tests/gui_test.py" />
+      <jump line="57" column="9" filename="$USER_HOME$/projects/teigen/tests/gui_test.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYuYWRkQ2hpbGQoeyduYW1lJzogJ0EgPSAxL0InLCAndHlwZSc6ICdmbG9hdCcsICd2YWx1ZSc6IDcsICdzdWZmaXgnOiAnSHonLCAnc2lQcmVmaXgnOiBUcnVlfSkKICAgICAgICAjIHNlbGYuYWRkQ2hpbGQoeyduYW1lJzogJ0IgPSAxL0EnLCAndHlwZSc6ICdmbG9hdCcsICd2YWx1ZSc6IDEvNy4sICdzdWZmaXgnOiAncycsICdzaVByZWZpeCc6IFRydWV9KQogICAgICAgICMgc2VsZi5hID0gc2VsZi5wYXJhbSgnQSA9IDEvQicpCiAgICAgICAgIyBzZWxmLmIgPSBzZWxmLnBhcmFtKCdCID0gMS9BJykKICAgICAgICAjIHNlbGYuYS5zaWdWYWx1ZUNoYW5nZWQuY29ubmVjdChzZWxmLmFDaGFuZ2VkKQogICAgICAgICMgc2VsZi5iLnNpZ1ZhbHVlQ2hhbmdlZC5jb25uZWN0KHNlbGYuYkNoYW5nZWQpCiAgICAgICAgIyBwdm94ZWxzaXplID0gcFR5cGVzLkdyb3VwUGFyYW1ldGVyKG5hbWU9InZveGVsc2l6ZV9tbSIsIHRpdGxlPSJ2b3hlbHNpemUgW21tXSIpCiAgICAgICAgIyBwdnN6ID0gcFR5cGVzLlBhcmFtZXRlcihuYW1lPSd6X20nLCB0eXBlPSdmbG9hdCcsIHZhbHVlPTAuMDEsIHN1ZmZpeD0nbScsIHNpUHJlZml4PVRydWUpCiAgICAgICAgIyBwdnN4ID0gcFR5cGVzLlBhcmFtZXRlcihuYW1lPSd4X20nLCB0eXBlPSdmbG9hdCcsIHZhbHVlPTAuMDEsIHN1ZmZpeD0nbScsIHNpUHJlZml4PVRydWUpCiAgICAgICAgIyBwdnN5ID0gcFR5cGVzLlBhcmFtZXRlcihuYW1lPSd5X20nLCB0eXBlPSdmbG9hdCcsIHZhbHVlPTAuMDEsIHN1ZmZpeD0nbScsIHNpUHJlZml4PVRydWUpCg==</text>
+        <text encoding="base64">aW1wb3J0IHB5cXRncmFwaC5wYXJhbWV0ZXJ0cmVlLnBhcmFtZXRlclR5cGVzIGFzIHBUeXBlcwo=</text>
       </register>
       <register name="-" type="4">
         <text>[</text>
@@ -1713,7 +1714,7 @@
         <text encoding="base64">XDxuYW1lXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAidm94ZWxzaXplX21tIiBpbiBvcHRzLmtleXMoKToKICAgICAgICAgICAgdm94ZWxzaXplX21tID0gb3B0c1sndm94ZWxzaXplX21tJ10K</text>
+        <text encoding="base64">aW1wb3J0IHB5cXRncmFwaC5wYXJhbWV0ZXJ0cmVlLnBhcmFtZXRlclR5cGVzIGFzIHBUeXBlcwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAjIHNlbGYuYWRkQ2hpbGQoeyduYW1lJzogJ0EgPSAxL0InLCAndHlwZSc6ICdmbG9hdCcsICd2YWx1ZSc6IDcsICdzdWZmaXgnOiAnSHonLCAnc2lQcmVmaXgnOiBUcnVlfSkKICAgICAgICAjIHNlbGYuYWRkQ2hpbGQoeyduYW1lJzogJ0IgPSAxL0EnLCAndHlwZSc6ICdmbG9hdCcsICd2YWx1ZSc6IDEvNy4sICdzdWZmaXgnOiAncycsICdzaVByZWZpeCc6IFRydWV9KQogICAgICAgICMgc2VsZi5hID0gc2VsZi5wYXJhbSgnQSA9IDEvQicpCiAgICAgICAgIyBzZWxmLmIgPSBzZWxmLnBhcmFtKCdCID0gMS9BJykKICAgICAgICAjIHNlbGYuYS5zaWdWYWx1ZUNoYW5nZWQuY29ubmVjdChzZWxmLmFDaGFuZ2VkKQogICAgICAgICMgc2VsZi5iLnNpZ1ZhbHVlQ2hhbmdlZC5jb25uZWN0KHNlbGYuYkNoYW5nZWQpCiAgICAgICAgIyBwdm94ZWxzaXplID0gcFR5cGVzLkdyb3VwUGFyYW1ldGVyKG5hbWU9InZveGVsc2l6ZV9tbSIsIHRpdGxlPSJ2b3hlbHNpemUgW21tXSIpCiAgICAgICAgIyBwdnN6ID0gcFR5cGVzLlBhcmFtZXRlcihuYW1lPSd6X20nLCB0eXBlPSdmbG9hdCcsIHZhbHVlPTAuMDEsIHN1ZmZpeD0nbScsIHNpUHJlZml4PVRydWUpCiAgICAgICAgIyBwdnN4ID0gcFR5cGVzLlBhcmFtZXRlcihuYW1lPSd4X20nLCB0eXBlPSdmbG9hdCcsIHZhbHVlPTAuMDEsIHN1ZmZpeD0nbScsIHNpUHJlZml4PVRydWUpCiAgICAgICAgIyBwdnN5ID0gcFR5cGVzLlBhcmFtZXRlcihuYW1lPSd5X20nLCB0eXBlPSdmbG9hdCcsIHZhbHVlPTAuMDEsIHN1ZmZpeD0nbScsIHNpUHJlZml4PVRydWUpCg==</text>
