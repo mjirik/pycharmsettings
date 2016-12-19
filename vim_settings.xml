@@ -824,13 +824,13 @@
         <mark key="^" line="20" column="27" />
         <mark key="." line="20" column="27" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/tests/gui_test.py" timestamp="1482101570693">
-        <mark key="a" line="57" column="9" />
-        <mark key="'" line="57" column="9" />
-        <mark key="[" line="60" column="21" />
-        <mark key="]" line="60" column="30" />
-        <mark key="." line="60" column="30" />
-        <mark key="^" line="60" column="30" />
+      <file name="$USER_HOME$/projects/teigen/tests/gui_test.py" timestamp="1482140314450">
+        <mark key="a" line="58" column="9" />
+        <mark key="'" line="58" column="9" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="24" />
+        <mark key="." line="45" column="0" />
+        <mark key="^" line="61" column="30" />
       </file>
       <file name="$USER_HOME$/projects/quanta/meta.yaml" timestamp="1446809867792">
         <mark key="[" line="58" column="10" />
@@ -838,12 +838,12 @@
         <mark key="^" line="45" column="10" />
         <mark key="." line="45" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/tests/tube_tree_test.py" timestamp="1481117943803">
-        <mark key="'" line="289" column="29" />
-        <mark key="[" line="282" column="0" />
-        <mark key="]" line="287" column="35" />
-        <mark key="." line="286" column="24" />
-        <mark key="^" line="286" column="24" />
+      <file name="$USER_HOME$/projects/teigen/tests/tube_tree_test.py" timestamp="1482140725785">
+        <mark key="'" line="224" column="0" />
+        <mark key="[" line="225" column="0" />
+        <mark key="]" line="225" column="0" />
+        <mark key="." line="225" column="0" />
+        <mark key="^" line="288" column="24" />
       </file>
       <file name="$USER_HOME$/projects/io3d/tests/datawriter_test.py" timestamp="1475921527505">
         <mark key="a" line="185" column="36" />
@@ -1602,7 +1602,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="499" column="37" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="447" column="28" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="1201" column="27" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="161" column="0" filename="$USER_HOME$/projects/teigen/teigen/generators/cylindersqt.py" />
@@ -1702,10 +1701,11 @@
       <jump line="107" column="17" filename="$USER_HOME$/projects/imtools/tests/widgets_test.py" />
       <jump line="50" column="18" filename="$USER_HOME$/projects/teigen/tests/gui_test.py" />
       <jump line="57" column="9" filename="$USER_HOME$/projects/teigen/tests/gui_test.py" />
+      <jump line="224" column="0" filename="$USER_HOME$/projects/teigen/tests/tube_tree_test.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>ndarray</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICMgQHVuaXR0ZXN0LnNraXAoIlRlc3QgZm9yIGd1aSIpCg==</text>
       </register>
       <register name="-" type="4">
         <text>ndarray</text>
@@ -1714,40 +1714,40 @@
         <text encoding="base64">XDxuYW1lXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFyZW50X29wdHNbJ3RpdGxlJ10gID0gb3B0cy5wb3AoJ3RpdGxlJykK</text>
+        <text encoding="base64">ICAgIEBhdHRyKCdpbnRlcmFjdGl2ZScpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgQHVuaXR0ZXN0LnNraXAoIlRlc3QgZm9yIGd1aSIpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnBfYXJlYXNpemVfbW0ucmVjb25zdHJ1Y3Rpb25fdHlwZSA9ICdsaXN0JwogICAgICAgIHNlbGYucF9hcmVhc2l6ZV9weC5yZWNvbnN0cnVjdGlvbl90eXBlID0gJ2xpc3QnCg==</text>
+        <text encoding="base64">ICAgIEB1bml0dGVzdC5za2lwKCJUZXN0IGZvciBndWkiKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFyZW50X29wdHNbJ3RpdGxlJ10gID0gb3B0cy5wb3AoJ3RpdGxlJykK</text>
+        <text encoding="base64">ICAgICMgQHVuaXR0ZXN0LnNraXAoIlRlc3QgZm9yIGd1aSIpCg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLnBfYXJlYXNpemVfbW0ucmVjb25zdHJ1Y3Rpb25fdHlwZSA9ICdsaXN0JwogICAgICAgIHNlbGYucF9hcmVhc2l6ZV9weC5yZWNvbnN0cnVjdGlvbl90eXBlID0gJ2xpc3QnCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcGFyZW50X29wdHNbJ3RpdGxlJ10gID0gb3B0cy5wb3AoJ3RpdGxlJykK</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAjIHNlbGYuYWRkQ2hpbGQoeyduYW1lJzogJ0EgPSAxL0InLCAndHlwZSc6ICdmbG9hdCcsICd2YWx1ZSc6IDcsICdzdWZmaXgnOiAnSHonLCAnc2lQcmVmaXgnOiBUcnVlfSkKICAgICAgICAjIHNlbGYuYWRkQ2hpbGQoeyduYW1lJzogJ0IgPSAxL0EnLCAndHlwZSc6ICdmbG9hdCcsICd2YWx1ZSc6IDEvNy4sICdzdWZmaXgnOiAncycsICdzaVByZWZpeCc6IFRydWV9KQogICAgICAgICMgc2VsZi5hID0gc2VsZi5wYXJhbSgnQSA9IDEvQicpCiAgICAgICAgIyBzZWxmLmIgPSBzZWxmLnBhcmFtKCdCID0gMS9BJykKICAgICAgICAjIHNlbGYuYS5zaWdWYWx1ZUNoYW5nZWQuY29ubmVjdChzZWxmLmFDaGFuZ2VkKQogICAgICAgICMgc2VsZi5iLnNpZ1ZhbHVlQ2hhbmdlZC5jb25uZWN0KHNlbGYuYkNoYW5nZWQpCiAgICAgICAgIyBwdm94ZWxzaXplID0gcFR5cGVzLkdyb3VwUGFyYW1ldGVyKG5hbWU9InZveGVsc2l6ZV9tbSIsIHRpdGxlPSJ2b3hlbHNpemUgW21tXSIpCiAgICAgICAgIyBwdnN6ID0gcFR5cGVzLlBhcmFtZXRlcihuYW1lPSd6X20nLCB0eXBlPSdmbG9hdCcsIHZhbHVlPTAuMDEsIHN1ZmZpeD0nbScsIHNpUHJlZml4PVRydWUpCiAgICAgICAgIyBwdnN4ID0gcFR5cGVzLlBhcmFtZXRlcihuYW1lPSd4X20nLCB0eXBlPSdmbG9hdCcsIHZhbHVlPTAuMDEsIHN1ZmZpeD0nbScsIHNpUHJlZml4PVRydWUpCiAgICAgICAgIyBwdnN5ID0gcFR5cGVzLlBhcmFtZXRlcihuYW1lPSd5X20nLCB0eXBlPSdmbG9hdCcsIHZhbHVlPTAuMDEsIHN1ZmZpeD0nbScsIHNpUHJlZml4PVRydWUpCg==</text>
       </register>
-      <register name="5" type="8">
+      <register name="8" type="8">
         <text>voxel
 voxel
 voxel
 voxel</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEluKCJhZGRfZGF0YV9maWxlIiwgc3cudWlfYnV0dG9ucy5rZXlzKCkpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIHByaW50ICJqZXN0ZSBwb3JhZCBkb2JyeSIK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIHByaW50ICJ6YXRpbSBkb2JyeSIK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIHByaW50ICJwb3JhZCBkb2JyeSIK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEluKCJhZGRfZGF0YV9maWxlIiwgc3cudWlfYnV0dG9ucy5rZXlzKCkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
