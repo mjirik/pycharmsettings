@@ -501,14 +501,14 @@
         <mark key="^" line="14" column="33" />
         <mark key="." line="14" column="33" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1482225540736">
+      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1482227856952">
         <mark key="a" line="60" column="7" />
         <mark key="b" line="236" column="36" />
         <mark key="'" line="211" column="24" />
-        <mark key="[" line="216" column="44" />
-        <mark key="]" line="216" column="45" />
-        <mark key="." line="216" column="45" />
-        <mark key="^" line="337" column="40" />
+        <mark key="[" line="177" column="92" />
+        <mark key="]" line="177" column="98" />
+        <mark key="." line="177" column="98" />
+        <mark key="^" line="177" column="98" />
       </file>
       <file name="$USER_HOME$/projects/skelet3d/skelet3d/skeleton_analyser.py" timestamp="1465560469197">
         <mark key="a" line="527" column="28" />
@@ -614,13 +614,13 @@
         <mark key="^" line="46" column="25" />
         <mark key="." line="46" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/generators/cylinders.py" timestamp="1481189125322">
-        <mark key="a" line="125" column="8" />
-        <mark key="'" line="247" column="40" />
-        <mark key="[" line="251" column="0" />
-        <mark key="]" line="251" column="0" />
-        <mark key="^" line="46" column="16" />
-        <mark key="." line="251" column="0" />
+      <file name="$USER_HOME$/projects/teigen/teigen/generators/cylinders.py" timestamp="1482227063519">
+        <mark key="a" line="126" column="8" />
+        <mark key="'" line="248" column="40" />
+        <mark key="[" line="78" column="38" />
+        <mark key="]" line="56" column="39" />
+        <mark key="^" line="56" column="39" />
+        <mark key="." line="56" column="39" />
       </file>
       <file name="$USER_HOME$/projects/lisa/applications/lisa_gui" timestamp="1464115022342">
         <mark key="[" line="1" column="47" />
@@ -734,7 +734,7 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1482224907059">
+      <file name="/Dummy.txt" timestamp="1482227357693">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1706,10 +1706,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>i</text>
+        <text>cols</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>cols</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhZGRXaWRnZXRcPg==</text>
@@ -1718,34 +1718,34 @@
         <text encoding="base64">ICAgICAgICBjb25maWcucG9wKCJhcmVhc2l6ZV9tbSIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBbXQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnVpX291dHB1dF9kaXJfd2lkZ2V0ID0gaW93aWRnZXRxdC5TZXREaXJXaWRnZXQoIn4vdGVpZ2VuX2RhdGEvc2xpY2V7OjA2ZH0uanBnIiwgIm91dHB1dCBkaXJlY3RvcnkiKQogICAgICAgIHNlbGYudWlfb3V0cHV0X2Rpcl93aWRnZXQuc2V0VG9vbFRpcCgiRGF0YSBhcmUgc3RvcmVkIGluIGRlZmluZWQgZGlyZWN0b3J5LlxuT3V0cHV0IGZvcm1hdCBpcyBiYXNlZCBvbiBmaWxlIGV4dGVuc2lvbi5cbkZvciBzYXZpbmcgaW50byBpbWFnZSBzdGFjayB1c2UgJ2ZpbGVuYW1lezowNmR9LmpwZyciKQogICAgICAgIHNlbGYubWFpbkxheW91dC5hZGRXaWRnZXQoc2VsZi51aV9vdXRwdXRfZGlyX3dpZGdldCwgMywgMSkgIyAsIChnZF9tYXhfaSAvIDIpLCB0ZXh0X2NvbCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBidG5fYWNjZXB0ID0gUVB1c2hCdXR0b24oIlJ1biIsIHNlbGYpCiAgICAgICAgYnRuX2FjY2VwdC5jbGlja2VkLmNvbm5lY3Qoc2VsZi5idG5SdW4pCiAgICAgICAgc2VsZi5tYWluTGF5b3V0LmFkZFdpZGdldChidG5fYWNjZXB0LCAyLCAxKSAjICwgKGdkX21heF9pIC8gMiksIHRleHRfY29sKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25maWcudXBkYXRlKGNmZzEpCg==</text>
+        <text encoding="base64">ICAgICAgICBbXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25maWcudXBkYXRlKGNmZzEpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="7" type="8">
-        <text encoding="base64">Y2ZnMCA9IApjZmcxID0g</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiBfYXJlYV9zYW1wbGluZ19nZW5zZWlfZXhwb3J0KHNlbGYsIGFyZWFfc2FtcGxpbmdfcGFyYW1zKToKICAgICAgICBhc3AgPSBhcmVhX3NhbXBsaW5nX3BhcmFtcwogICAgICAgIHZzX21tID0gbnAuYXNhcnJheShhc3BbInZveGVsc2l6ZV9tbSJdKQogICAgICAgIHJlc29sdXRpb24gPSAxLjAgLyB2c19tbQogICAgICAgIGRjdCA9IHsKICAgICAgICAgICAgJ2RpbXMnOiBhc3BbImFyZWFzaXplX21tIl0sCiAgICAgICAgICAgICduX3NsaWNlJzogYXNwWyJhcmVhc2l6ZV9weCJdWzBdLAogICAgICAgICAgICAncmVzb2x1dGlvbic6IFtyZXNvbHV0aW9uWzFdLCByZXNvbHV0aW9uWzJdXQogICAgICAgIH0KICAgICAgICByZXR1cm4gZGN0CgoKICAgIGRlZiBfYXJlYV9zYW1wbGluZ19jeWxpbmRlcl9nZW5lcmF0b3JfZXhwb3J0KHNlbGYsIGFyZWFfc2FtcGxpbmdfcGFyYW1zKToKICAgICAgICByZXR1cm4gewogICAgICAgICAgICAndm94ZWxzaXplX21tJzogYXJlYV9zYW1wbGluZ19wYXJhbXNbInZveGVsc2l6ZV9tbSJdLAogICAgICAgICAgICAnYXJlYV9zaGFwZSc6IGFyZWFfc2FtcGxpbmdfcGFyYW1zWyJhcmVhc2l6ZV9weCJdCiAgICAgICAgfQo=</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="8">
+        <text encoding="base64">Y2ZnMCA9IApjZmcxID0g</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
