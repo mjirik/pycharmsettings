@@ -501,14 +501,14 @@
         <mark key="^" line="14" column="33" />
         <mark key="." line="14" column="33" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1482227856952">
+      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1482228693730">
         <mark key="a" line="60" column="7" />
         <mark key="b" line="236" column="36" />
         <mark key="'" line="211" column="24" />
-        <mark key="[" line="177" column="92" />
-        <mark key="]" line="177" column="98" />
-        <mark key="." line="177" column="98" />
-        <mark key="^" line="177" column="98" />
+        <mark key="[" line="232" column="19" />
+        <mark key="]" line="232" column="17" />
+        <mark key="." line="232" column="17" />
+        <mark key="^" line="232" column="17" />
       </file>
       <file name="$USER_HOME$/projects/skelet3d/skelet3d/skeleton_analyser.py" timestamp="1465560469197">
         <mark key="a" line="527" column="28" />
@@ -746,9 +746,10 @@
         <mark key="^" line="81" column="18" />
         <mark key="." line="81" column="18" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/examples/parametertree.py" timestamp="1481237411479">
-        <mark key="[" line="97" column="0" />
-        <mark key="]" line="97" column="72" />
+      <file name="$USER_HOME$/projects/teigen/examples/parametertree.py" timestamp="1482228610485">
+        <mark key="'" line="45" column="6" />
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="101" column="6" />
         <mark key="." line="78" column="56" />
         <mark key="^" line="78" column="56" />
       </file>
@@ -815,12 +816,12 @@
         <mark key="." line="41" column="9" />
         <mark key="^" line="41" column="9" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/dictwidgetpyqtgraph.py" timestamp="1482146219080">
+      <file name="$USER_HOME$/projects/teigen/teigen/dictwidgetpyqtgraph.py" timestamp="1482228522851">
         <mark key="'" line="256" column="27" />
-        <mark key="[" line="40" column="46" />
-        <mark key="]" line="41" column="11" />
-        <mark key="." line="41" column="11" />
-        <mark key="^" line="41" column="11" />
+        <mark key="[" line="267" column="128" />
+        <mark key="]" line="268" column="3" />
+        <mark key="." line="268" column="3" />
+        <mark key="^" line="268" column="3" />
       </file>
       <file name="$USER_HOME$/projects/lisa/install_nosudo.sh" timestamp="1465568977912">
         <mark key="[" line="42" column="0" />
@@ -1603,7 +1604,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="107" column="58" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="306" column="0" filename="$USER_HOME$/projects/imtools/imtools/show_segmentation_qt.py" />
       <jump line="168" column="20" filename="$USER_HOME$/projects/imtools/imtools/show_segmentation_qt.py" />
       <jump line="288" column="29" filename="$USER_HOME$/projects/teigen/tests/tube_tree_test.py" />
@@ -1703,64 +1703,64 @@
       <jump line="202" column="24" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="207" column="24" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="211" column="24" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
+      <jump line="45" column="6" filename="$USER_HOME$/projects/teigen/examples/parametertree.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>cols</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>cols</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhZGRXaWRnZXRcPg==</text>
+        <text encoding="base64">XDxTY2FsYWJsZUdyb3VwXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25maWcucG9wKCJhcmVhc2l6ZV9tbSIpCg==</text>
+        <text encoding="base64">ICAgIFNjYWxhYmxlR3JvdXAobmFtZT0iRXhwYW5kYWJsZSBQYXJhbWV0ZXIgR3JvdXAiLCBjaGlsZHJlbj1bCiAgICAgICAgeyduYW1lJzogJ1NjYWxhYmxlUGFyYW0gMScsICd0eXBlJzogJ3N0cicsICd2YWx1ZSc6ICJkZWZhdWx0IHBhcmFtIDEifSwKICAgICAgICB7J25hbWUnOiAnU2NhbGFibGVQYXJhbSAyJywgJ3R5cGUnOiAnc3RyJywgJ3ZhbHVlJzogImRlZmF1bHQgcGFyYW0gMiJ9LAogICAgXSksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnVpX291dHB1dF9kaXJfd2lkZ2V0ID0gaW93aWRnZXRxdC5TZXREaXJXaWRnZXQoIn4vdGVpZ2VuX2RhdGEvc2xpY2V7OjA2ZH0uanBnIiwgIm91dHB1dCBkaXJlY3RvcnkiKQogICAgICAgIHNlbGYudWlfb3V0cHV0X2Rpcl93aWRnZXQuc2V0VG9vbFRpcCgiRGF0YSBhcmUgc3RvcmVkIGluIGRlZmluZWQgZGlyZWN0b3J5LlxuT3V0cHV0IGZvcm1hdCBpcyBiYXNlZCBvbiBmaWxlIGV4dGVuc2lvbi5cbkZvciBzYXZpbmcgaW50byBpbWFnZSBzdGFjayB1c2UgJ2ZpbGVuYW1lezowNmR9LmpwZyciKQogICAgICAgIHNlbGYubWFpbkxheW91dC5hZGRXaWRnZXQoc2VsZi51aV9vdXRwdXRfZGlyX3dpZGdldCwgMywgMSkgIyAsIChnZF9tYXhfaSAvIDIpLCB0ZXh0X2NvbCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBidG5fYWNjZXB0ID0gUVB1c2hCdXR0b24oIlJ1biIsIHNlbGYpCiAgICAgICAgYnRuX2FjY2VwdC5jbGlja2VkLmNvbm5lY3Qoc2VsZi5idG5SdW4pCiAgICAgICAgc2VsZi5tYWluTGF5b3V0LmFkZFdpZGdldChidG5fYWNjZXB0LCAyLCAxKSAjICwgKGdkX21heF9pIC8gMiksIHRleHRfY29sKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnVpX291dHB1dF9kaXJfd2lkZ2V0ID0gaW93aWRnZXRxdC5TZXREaXJXaWRnZXQoIn4vdGVpZ2VuX2RhdGEvc2xpY2V7OjA2ZH0uanBnIiwgIm91dHB1dCBkaXJlY3RvcnkiKQogICAgICAgIHNlbGYudWlfb3V0cHV0X2Rpcl93aWRnZXQuc2V0VG9vbFRpcCgiRGF0YSBhcmUgc3RvcmVkIGluIGRlZmluZWQgZGlyZWN0b3J5LlxuT3V0cHV0IGZvcm1hdCBpcyBiYXNlZCBvbiBmaWxlIGV4dGVuc2lvbi5cbkZvciBzYXZpbmcgaW50byBpbWFnZSBzdGFjayB1c2UgJ2ZpbGVuYW1lezowNmR9LmpwZyciKQogICAgICAgIHNlbGYubWFpbkxheW91dC5hZGRXaWRnZXQoc2VsZi51aV9vdXRwdXRfZGlyX3dpZGdldCwgMywgMSkgIyAsIChnZF9tYXhfaSAvIDIpLCB0ZXh0X2NvbCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBbXQo=</text>
+        <text encoding="base64">ICAgICAgICBidG5fYWNjZXB0ID0gUVB1c2hCdXR0b24oIlJ1biIsIHNlbGYpCiAgICAgICAgYnRuX2FjY2VwdC5jbGlja2VkLmNvbm5lY3Qoc2VsZi5idG5SdW4pCiAgICAgICAgc2VsZi5tYWluTGF5b3V0LmFkZFdpZGdldChidG5fYWNjZXB0LCAyLCAxKSAjICwgKGdkX21heF9pIC8gMiksIHRleHRfY29sKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBbXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25maWcudXBkYXRlKGNmZzEpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBjb25maWcudXBkYXRlKGNmZzEpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="8">
-        <text encoding="base64">Y2ZnMCA9IApjZmcxID0g</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhZGRXaWRnZXRcPg==</last-search>
+      <last-search encoding="base64">XDxTY2FsYWJsZUdyb3VwXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhZGRXaWRnZXRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxTY2FsYWJsZUdyb3VwXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>resectio</entry>
         <entry>portal</entry>
         <entry encoding="base64">XDx1cGRhdGVfc2xhYl91aVw+</entry>
         <entry encoding="base64">XDxndHJlZVw+</entry>
@@ -1780,6 +1780,7 @@
         <entry encoding="base64">XDxkaXN0X3RvX3ZlY3RvcnNcPg==</entry>
         <entry>pyqtgraph</entry>
         <entry encoding="base64">XDxhZGRXaWRnZXRcPg==</entry>
+        <entry encoding="base64">XDxTY2FsYWJsZUdyb3VwXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>52</entry>
