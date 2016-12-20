@@ -501,13 +501,13 @@
         <mark key="^" line="14" column="33" />
         <mark key="." line="14" column="33" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1482194706842">
+      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1482225540736">
         <mark key="a" line="60" column="7" />
         <mark key="b" line="236" column="36" />
-        <mark key="'" line="236" column="36" />
-        <mark key="[" line="337" column="33" />
-        <mark key="]" line="337" column="40" />
-        <mark key="." line="337" column="40" />
+        <mark key="'" line="211" column="24" />
+        <mark key="[" line="216" column="44" />
+        <mark key="]" line="216" column="45" />
+        <mark key="." line="216" column="45" />
         <mark key="^" line="337" column="40" />
       </file>
       <file name="$USER_HOME$/projects/skelet3d/skelet3d/skeleton_analyser.py" timestamp="1465560469197">
@@ -734,7 +734,7 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1482194866388">
+      <file name="/Dummy.txt" timestamp="1482224907059">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1061,7 +1061,7 @@
         <mark key="." line="89" column="0" />
         <mark key="^" line="120" column="24" />
       </file>
-      <file name="/Python Console" timestamp="1482194709439">
+      <file name="/Python Console" timestamp="1482225548395">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -1603,14 +1603,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="123" column="54" filename="$USER_HOME$/projects/imtools/imtools/show_segmentation_qt.py" />
-      <jump line="219" column="59" filename="$USER_HOME$/projects/imtools/imtools/show_segmentation_qt.py" />
-      <jump line="205" column="8" filename="$USER_HOME$/projects/imtools/imtools/show_segmentation_qt.py" />
-      <jump line="62" column="13" filename="$USER_HOME$/projects/imtools/imtools/show_segmentation_qt.py" />
-      <jump line="21" column="0" filename="$USER_HOME$/projects/teigen/teigen/dictwidgetqt.py" />
-      <jump line="203" column="40" filename="$USER_HOME$/projects/teigen/teigen/dictwidgetqt.py" />
-      <jump line="30" column="22" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
-      <jump line="87" column="42" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="107" column="58" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="306" column="0" filename="$USER_HOME$/projects/imtools/imtools/show_segmentation_qt.py" />
       <jump line="168" column="20" filename="$USER_HOME$/projects/imtools/imtools/show_segmentation_qt.py" />
@@ -1703,6 +1695,14 @@
       <jump line="72" column="7" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="35" column="25" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="254" column="36" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
+      <jump line="216" column="24" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
+      <jump line="234" column="24" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
+      <jump line="79" column="28" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
+      <jump line="140" column="26" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
+      <jump line="179" column="24" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
+      <jump line="202" column="24" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
+      <jump line="207" column="24" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
+      <jump line="211" column="24" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1712,7 +1712,7 @@
         <text>i</text>
       </register>
       <register name="/" type="4">
-        <text>pyqtgraph</text>
+        <text encoding="base64">XDxhZGRXaWRnZXRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjb25maWcucG9wKCJhcmVhc2l6ZV9tbSIpCg==</text>
@@ -1752,15 +1752,14 @@
       </register>
     </registers>
     <search>
-      <last-search>pyqtgraph</last-search>
+      <last-search encoding="base64">XDxhZGRXaWRnZXRcPg==</last-search>
       <last-offset />
-      <last-pattern>pyqtgraph</last-pattern>
+      <last-pattern encoding="base64">XDxhZGRXaWRnZXRcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>SET</entry>
         <entry>resectio</entry>
         <entry>portal</entry>
         <entry encoding="base64">XDx1cGRhdGVfc2xhYl91aVw+</entry>
@@ -1780,6 +1779,7 @@
         <entry encoding="base64">XDxfZ2V0X3RtcF9jb21wb3NlZF9rZXlzXD4=</entry>
         <entry encoding="base64">XDxkaXN0X3RvX3ZlY3RvcnNcPg==</entry>
         <entry>pyqtgraph</entry>
+        <entry encoding="base64">XDxhZGRXaWRnZXRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>52</entry>
