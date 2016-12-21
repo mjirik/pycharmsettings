@@ -213,6 +213,13 @@
         <mark key="^" line="12" column="34" />
         <mark key="." line="12" column="34" />
       </file>
+      <file name="$USER_HOME$/projects/discon/discon/__main__.py" timestamp="1482349779945">
+        <mark key="'" line="244" column="0" />
+        <mark key="[" line="385" column="28" />
+        <mark key="]" line="385" column="37" />
+        <mark key="." line="385" column="37" />
+        <mark key="^" line="385" column="37" />
+      </file>
       <file name="$USER_HOME$/projects/teigen/teigen/main.py" timestamp="1482155979652">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="15" column="15" />
@@ -253,6 +260,10 @@
         <mark key="]" line="2" column="45" />
         <mark key="^" line="2" column="45" />
         <mark key="." line="2" column="45" />
+      </file>
+      <file name="$USER_HOME$/projects/ndnoise/.travis.yml" timestamp="1482349393053">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="60" column="14" />
       </file>
       <file name="$USER_HOME$/projects/skelet3d/.travis.yml" timestamp="1465569688914">
         <mark key="[" line="29" column="0" />
@@ -1065,7 +1076,7 @@
         <mark key="^" line="57" column="61" />
         <mark key="." line="57" column="61" />
       </file>
-      <file name="$USER_HOME$/projects/ndnoise/meta.yaml" timestamp="1482349137528">
+      <file name="$USER_HOME$/projects/ndnoise/meta.yaml" timestamp="1482349381355">
         <mark key="[" line="60" column="34" />
         <mark key="]" line="60" column="40" />
         <mark key="." line="60" column="40" />
@@ -1138,8 +1149,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="454" column="0" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
-      <jump line="21" column="0" filename="$USER_HOME$/projects/teigen/teigen/generators/cylinders.py" />
       <jump line="422" column="0" filename="$USER_HOME$/projects/teigen/teigen/generators/cylinders.py" />
       <jump line="298" column="0" filename="$USER_HOME$/projects/teigen/teigen/generators/cylinders.py" />
       <jump line="137" column="16" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
@@ -1238,49 +1247,51 @@
       <jump line="298" column="0" filename="$USER_HOME$/projects/io3d/io3d/datawriter.py" />
       <jump line="283" column="50" filename="$USER_HOME$/projects/io3d/io3d/datawriter.py" />
       <jump line="353" column="18" filename="$USER_HOME$/projects/io3d/io3d/datawriter.py" />
+      <jump line="252" column="11" filename="$USER_HOME$/projects/discon/discon/__main__.py" />
+      <jump line="244" column="0" filename="$USER_HOME$/projects/discon/discon/__main__.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>disco</text>
+        <text>META_YML</text>
       </register>
       <register name="-" type="4">
-        <text>disco</text>
+        <text>META_YML</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTY2FsYWJsZUdyb3VwXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZnJlcV9zdGFydD0wLAogICAgICAgICAgICBmcmVxX3JhbmdlPTEwLAogICAgICAgICAgICBleHBvbmVudD0tMS41Cg==</text>
+        <text encoding="base64">ICAgIGlmIG5vdCBvcC5leGlzdHMoIm1ldGEueWFtbCIpOgogICAgICAgIHdpdGggb3BlbignbWV0YS55YW1sJywgJ2EnKSBhcyB0aGVfZmlsZToKICAgICAgICAgICAgdGhlX2ZpbGUud3JpdGUoX01FVEFfWU1MLmZvcm1hdChuYW1lPXByb2plY3RfbmFtZSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c2Npa2l0LWltYWdlCnB5cXQgPj00LjExLioKcHlxdGNvbmZpZwpwYW5kYXMKc2ltcGxlaXRrCmltdG9vbHMgPj0wLjEuMjAKZ2Vuc2VpCnB5cXRncmFwaAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW8zZAo=</text>
+        <text encoding="base64">Z2l0QGdpdGh1Yi5jb206bWppcmlrL2Rpc2Nvbi5naXQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dnRrCg==</text>
+        <text encoding="base64">c2Npa2l0LWltYWdlCnB5cXQgPj00LjExLioKcHlxdGNvbmZpZwpwYW5kYXMKc2ltcGxlaXRrCmltdG9vbHMgPj0wLjEuMjAKZ2Vuc2VpCnB5cXRncmFwaAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">aW8zZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBvdXQgPSBuZG5vaXNlLmdlbmVyYXRvci5wcm9jZXNzX3NwZWN0cnVtX3NlZWQoCiAgICAgICAgICAgIHNwZWN0cnVtLAogICAgICAgICAgICBmcmVxX3N0YXJ0PTAsCiAgICAgICAgICAgIGZyZXFfcmFuZ2U9MTAsCiAgICAgICAgICAgIGV4cG9uZW50PS0xLjUKICAgICAgICApCiAgICAgICAgc2lnbmFsLCBmaWx0ZXIsIHNwZWN0cnVtID0gb3V0CgogICAgICAgIG5kbm9pc2Uuc2hvdyhzaWduYWwsIGZpbHRlciwgc3BlY3RydW0sIGxvZ192aWV3PVRydWUpCg==</text>
+        <text encoding="base64">dnRrCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW8zZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBvdXQgPSBuZG5vaXNlLmdlbmVyYXRvci5wcm9jZXNzX3NwZWN0cnVtX3NlZWQoCiAgICAgICAgICAgIHNwZWN0cnVtLAogICAgICAgICAgICBmcmVxX3N0YXJ0PTAsCiAgICAgICAgICAgIGZyZXFfcmFuZ2U9MTAsCiAgICAgICAgICAgIGV4cG9uZW50PS0xLjUKICAgICAgICApCiAgICAgICAgc2lnbmFsLCBmaWx0ZXIsIHNwZWN0cnVtID0gb3V0CgogICAgICAgIG5kbm9pc2Uuc2hvdyhzaWduYWwsIGZpbHRlciwgc3BlY3RydW0sIGxvZ192aWV3PVRydWUpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzcGVjdHJ1bSA9IG5kbm9pc2UuZ2VuZXJhdG9yLmdlbmVyYXRlX3NwZWN0cnVtX3NlZWQoWzEwMCwxMDBdKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZveGVsc2l6ZV9tbSoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
