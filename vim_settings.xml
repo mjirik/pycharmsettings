@@ -734,14 +734,14 @@
         <mark key="." line="133" column="55" />
         <mark key="^" line="133" column="55" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1482357757072">
-        <mark key="a" line="383" column="0" />
+      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1482358424893">
+        <mark key="a" line="386" column="36" />
         <mark key="b" line="242" column="36" />
-        <mark key="'" line="371" column="44" />
-        <mark key="[" line="290" column="17" />
-        <mark key="]" line="290" column="22" />
-        <mark key="^" line="290" column="22" />
-        <mark key="." line="290" column="22" />
+        <mark key="'" line="67" column="44" />
+        <mark key="[" line="388" column="65" />
+        <mark key="]" line="388" column="65" />
+        <mark key="^" line="67" column="44" />
+        <mark key="." line="388" column="65" />
       </file>
       <file name="$USER_HOME$/projects/disco/disco/__init__.py" timestamp="1463148479573">
         <mark key="[" line="33" column="39" />
@@ -1149,7 +1149,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="16" filename="$USER_HOME$/projects/imtools/tests/widgets_test.py" />
       <jump line="54" column="24" filename="$USER_HOME$/projects/imtools/tests/sample_data_test.py" />
       <jump line="13" column="0" filename="$USER_HOME$/projects/imtools/tests/sample_data_test.py" />
       <jump line="30" column="4" filename="$USER_HOME$/projects/teigen/teigen/iowidgetqt.py" />
@@ -1249,49 +1248,50 @@
       <jump line="224" column="38" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="289" column="24" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="367" column="44" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
+      <jump line="67" column="44" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>posprocessing_wg.config_as_dict()</text>
       </register>
       <register name="-" type="4">
-        <text>config</text>
+        <text>posprocessing_wg.config_as_dict()</text>
       </register>
       <register name="/" type="4">
         <text>save</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxlcGF0dGVybiA9IHJlLnN1YihyIih7XHMqc2xpY2VuXHMqOj8uKn0pIiwgciIiLCBmaWxlcGF0dGVybikKICAgICAgICBmaWxlcGF0dGVybiA9IHJlLnN1YihyIih7XHMqc2xpY2VfbnVtYmVyXHMqOj8uKn0pIiwgciIiLCBmaWxlcGF0dGVybikK</text>
+      <register name="0" type="4">
+        <text>self.config[&quot;postprocessing&quot;]posprocessing_wg.config_as_dict()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIHBvc3Rwcm9jZXNzaW5nCiAgICAgICAgaWYgImdlbmVyYXRlX3ZvbHVtZSIgaW4gZGlyKHNlbGYuZ2VuKToKICAgICAgICAgICAgc2VsZi50ZWlnZW4uZGF0YTNkID0gc2VsZi5nZW4uZ2VuZXJhdGVfdm9sdW1lKCkKICAgICAgICAgICAgc2VsZi50ZWlnZW4udm94ZWxzaXplX21tID0gc2VsZi5nZW4udm94ZWxzaXplX21tCiAgICAgICAgICAgIHBvc3Rwcm9jZXNzaW5nX3BhcmFtcyA9IHNlbGYucG9zcHJvY2Vzc2luZ193Zy5jb25maWdfYXNfZGljdCgpCiAgICAgICAgICAgIGRhdGEzZCA9IHNlbGYudGVpZ2VuLnBvc3Rwcm9jZXNzaW5nKCoqcG9zdHByb2Nlc3NpbmdfcGFyYW1zKQogICAgICAgICAgICBzZWxmLmdlbi5kYXRhM2QgPSBkYXRhM2QK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIGltcG9ydCByZQogICAgICAgICMgZmlsZW5hbWUgPSByZS5zdWIociIoey4qfSkiLCByIiIsIGZpbGVuYW1lKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIGltcG9ydCByZQogICAgICAgICMgZmlsZW5hbWUgPSByZS5zdWIociIoey4qfSkiLCByIiIsIGZpbGVuYW1lKQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnRlaWdlbi5nZW4uc2F2ZVZvbHVtZVRvRmlsZShmaWxlbmFtZSkK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLnRlaWdlbi5nZW4uc2F2ZVZvbHVtZVRvRmlsZShmaWxlbmFtZSkK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbzNkLm1pc2Mub2JqX3RvX2ZpbGUoY29uZmlnLCBmaWxlbmFtZT1vcC5qb2luKHNlbGYuZmlsZW5hbWVfYmFzZSgpLCAicGFyYW1ldGVycy55YW1sIikpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb3B5LmRlCg==</text>
+        <text encoding="base64">ICAgICAgICBpbzNkLm1pc2Mub2JqX3RvX2ZpbGUoY29uZmlnLCBmaWxlbmFtZT1vcC5qb2luKHNlbGYuZmlsZW5hbWVfYmFzZSgpLCAicGFyYW1ldGVycy55YW1sIikpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNvbmZpZyA9IGNvbmZpZwo=</text>
+        <text encoding="base64">ICAgICAgICBjb3B5LmRlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
