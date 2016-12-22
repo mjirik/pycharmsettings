@@ -734,13 +734,14 @@
         <mark key="." line="133" column="55" />
         <mark key="^" line="133" column="55" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1482363174726">
-        <mark key="b" line="245" column="36" />
-        <mark key="'" line="375" column="0" />
-        <mark key="[" line="291" column="0" />
-        <mark key="]" line="291" column="33" />
-        <mark key="." line="291" column="0" />
-        <mark key="^" line="39" column="21" />
+      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1482365380427">
+        <mark key="a" line="499" column="31" />
+        <mark key="b" line="247" column="36" />
+        <mark key="'" line="41" column="0" />
+        <mark key="[" line="412" column="80" />
+        <mark key="]" line="412" column="80" />
+        <mark key="." line="412" column="80" />
+        <mark key="^" line="412" column="63" />
       </file>
       <file name="$USER_HOME$/projects/disco/disco/__init__.py" timestamp="1463148479573">
         <mark key="[" line="33" column="39" />
@@ -952,6 +953,12 @@
         <mark key="^" line="10" column="18" />
         <mark key="." line="10" column="18" />
       </file>
+      <file name="$USER_HOME$/projects/teigen/README.md" timestamp="1482365481142">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/psongbook/sobo/psongbook.py" timestamp="1463491785021">
         <mark key="[" line="160" column="32" />
         <mark key="]" line="160" column="32" />
@@ -1148,16 +1155,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="255" column="0" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
-      <jump line="42" column="4" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
-      <jump line="252" column="22" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
-      <jump line="91" column="38" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
-      <jump line="36" column="11" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
-      <jump line="234" column="40" filename="$USER_HOME$/projects/teigen/teigen/generators/cylinders.py" />
-      <jump line="278" column="24" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
-      <jump line="28" column="0" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
-      <jump line="73" column="34" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
-      <jump line="147" column="8" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="270" column="27" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="148" column="11" filename="$USER_HOME$/projects/teigen/examples/myqtgraph.py" />
       <jump line="131" column="4" filename="$USER_HOME$/projects/teigen/examples/myqtgraph.py" />
@@ -1248,66 +1245,73 @@
       <jump line="385" column="28" filename="$USER_HOME$/projects/io3d/tests/datawriter_test.py" />
       <jump line="339" column="0" filename="$USER_HOME$/projects/io3d/io3d/datawriter.py" />
       <jump line="373" column="0" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
+      <jump line="473" column="10" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
+      <jump line="70" column="58" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
+      <jump line="324" column="8" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
+      <jump line="54" column="29" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
+      <jump line="187" column="29" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
+      <jump line="495" column="13" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
+      <jump line="45" column="6" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
+      <jump line="47" column="14" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
+      <jump line="499" column="31" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
+      <jump line="41" column="0" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnRlaWdlbi5zYXZlX3ZvbHVtZSgpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>save</text>
+        <text encoding="base64">XDxUZWlnZW5XaWRnZXRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZGVmIGZpbGVwYXR0ZXJuX2ZpbGxfc2VyaWVzX251bWJlcihmaWxlcGF0dGVybiwgc2VyaWVzX251bWJlcik6CiAgICBpbXBvcnQgcmUKICAgIHJleHAxID0gciIoe1xzKnNlcmllc25ccyo6Py4qP30pIgogICAgcmV4cDIgPSByIih7XHMqc2VyaWVzX251bWJlclxzKjo/Lio/fSkiCgogICAgc3ViMSA9IHJlLmZpbmRhbGwocmV4cDEsIGZpbGVwYXR0ZXJuKQogICAgc3ViMiA9IHJlLmZpbmRhbGwocmV4cDIsIGZpbGVwYXR0ZXJuKQoKICAgIGZvciBzaW5nbGVfcGF0dGVybiBpbiBzdWIxOgogICAgICAgIHBhdHRlcm4gPSBzaW5nbGVfcGF0dGVybi5mb3JtYXQoc2VyaWVzX251bWJlcj1zZXJpZXNfbnVtYmVyLCBzZXJpZXNuPXNlcmllc19udW1iZXIpCiAgICAgICAgZmlsZXBhdHRlcm4gPSByZS5zdWIocmV4cDEsIHBhdHRlcm4sIGZpbGVwYXR0ZXJuKQoKICAgIGZvciBzaW5nbGVfcGF0dGVybiBpbiBzdWIyOgogICAgICAgIHBhdHRlcm4gPSBzaW5nbGVfcGF0dGVybi5mb3JtYXQoc2VyaWVzX251bWJlcj1zZXJpZXNfbnVtYmVyLCBzZXJpZXNuPXNlcmllc19udW1iZXIpCiAgICAgICAgZmlsZXBhdHRlcm4gPSByZS5zdWIocmV4cDIsIHBhdHRlcm4sIGZpbGVwYXR0ZXJuKQoKICAgIHJldHVybiBmaWxlcGF0dGVybgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnRlaWdlbi5zYXZlX3ZvbHVtZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgcmUK</text>
+        <text encoding="base64">aW1wb3J0IF9faW5pdF9fLl9fdmVyc2lvbl9fCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxlcGF0dGVybiA9IHJlLnN1YihyIih7XHMqOi4qfSkiLCByIiIsIGZpbGVwYXR0ZXJuKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnRlaWdlbi5zYXZlX3ZvbHVtZSgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25maWdbImZpbGVwYXR0ZXJuIl0gPSBzZWxmLnVpX291dHB1dF9kaXJfd2lkZ2V0LmdldF9kaXIoKQo=</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgcmUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZXJpZXNfbnVtYmVyID0gaW8zZC5kYXRhd3JpdGVyLmdldF91bm9jY3VwaWVkX3Nlcmllc19udW1iZXIoZmlsZXBhdHRlcm49ZmlsZXBhdHRlcm4pCg==</text>
+        <text encoding="base64">ICAgICAgICBmaWxlcGF0dGVybiA9IHJlLnN1YihyIih7XHMqOi4qfSkiLCByIiIsIGZpbGVwYXR0ZXJuKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxlcGF0dGVybiA9IHJlLnN1YihyIih7XHMqfSkiLCByIiIsIGZpbGVwYXR0ZXJuKQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25maWdbImZpbGVwYXR0ZXJuIl0gPSBzZWxmLnVpX291dHB1dF9kaXJfd2lkZ2V0LmdldF9kaXIoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZXJpZXNfbnVtYmVyID0gaW8zZC5kYXRhd3JpdGVyLmdldF91bm9jY3VwaWVkX3Nlcmllc19udW1iZXIoZmlsZXBhdHRlcm49ZmlsZXBhdHRlcm4pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBkZWYgZmlsZXBhdHRlcm5fZmlsbF9zZXJpZXNfbnVtYmVyKGZpbGVwYXR0ZXJuLCBzZXJpZXNfbnVtYmVyKToKIyAgICAgaW1wb3J0IHJlCiMgICAgIHJleHAxID0gciIoe1xzKnNlcmllc25ccyo6Py4qP30pIgojICAgICByZXhwMiA9IHIiKHtccypzZXJpZXNfbnVtYmVyXHMqOj8uKj99KSIKIwojICAgICBzdWIxID0gcmUuZmluZGFsbChyZXhwMSwgZmlsZXBhdHRlcm4pCiMgICAgIHN1YjIgPSByZS5maW5kYWxsKHJleHAyLCBmaWxlcGF0dGVybikKIwojICAgICBmb3Igc2luZ2xlX3BhdHRlcm4gaW4gc3ViMToKIyAgICAgICAgIHBhdHRlcm4gPSBzaW5nbGVfcGF0dGVybi5mb3JtYXQoc2VyaWVzX251bWJlcj1zZXJpZXNfbnVtYmVyLCBzZXJpZXNuPXNlcmllc19udW1iZXIpCiMgICAgICAgICBmaWxlcGF0dGVybiA9IHJlLnN1YihyZXhwMSwgcGF0dGVybiwgZmlsZXBhdHRlcm4pCiMKIyAgICAgZm9yIHNpbmdsZV9wYXR0ZXJuIGluIHN1YjI6CiMgICAgICAgICBwYXR0ZXJuID0gc2luZ2xlX3BhdHRlcm4uZm9ybWF0KHNlcmllc19udW1iZXI9c2VyaWVzX251bWJlciwgc2VyaWVzbj1zZXJpZXNfbnVtYmVyKQojICAgICAgICAgZmlsZXBhdHRlcm4gPSByZS5zdWIocmV4cDIsIHBhdHRlcm4sIGZpbGVwYXR0ZXJuKQojCiMgICAgIHJldHVybiBmaWxlcGF0dGVybgo=</text>
+        <text encoding="base64">ICAgICAgICBmaWxlcGF0dGVybiA9IHJlLnN1YihyIih7XHMqfSkiLCByIiIsIGZpbGVwYXR0ZXJuKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>save</last-search>
+      <last-search encoding="base64">XDxUZWlnZW5XaWRnZXRcPg==</last-search>
       <last-offset />
-      <last-pattern>save</last-pattern>
+      <last-pattern encoding="base64">XDxUZWlnZW5XaWRnZXRcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxndHJlZVw+</entry>
-        <entry>Tree</entry>
-        <entry encoding="base64">XDxidWlsZFRyZWVcPg==</entry>
         <entry encoding="base64">XDxmaW5pc2hfcHJvZ3Jlc3NfY2FsbGJhY2tcPg==</entry>
         <entry encoding="base64">XDxfc3BsaXR0ZXJcPg==</entry>
         <entry encoding="base64">XDxyZWdpc3RlclBhcmFtZXRlclR5cGVcPg==</entry>
@@ -1325,6 +1329,9 @@
         <entry encoding="base64">XDxTY2FsYWJsZUdyb3VwXD4=</entry>
         <entry>show</entry>
         <entry>save</entry>
+        <entry>required</entry>
+        <entry>self.version</entry>
+        <entry encoding="base64">XDxUZWlnZW5XaWRnZXRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>52</entry>
