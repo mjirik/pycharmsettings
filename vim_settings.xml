@@ -61,12 +61,12 @@
         <mark key="." line="158" column="0" />
         <mark key="^" line="163" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/ndnoise/tests/filter_test.py" timestamp="1482585982181">
-        <mark key="'" line="92" column="13" />
-        <mark key="[" line="31" column="33" />
-        <mark key="]" line="31" column="33" />
-        <mark key="^" line="30" column="37" />
-        <mark key="." line="31" column="33" />
+      <file name="$USER_HOME$/projects/ndnoise/tests/filter_test.py" timestamp="1482592366787">
+        <mark key="'" line="71" column="13" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="59" />
+        <mark key="^" line="57" column="7" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/projects/lisa/tests/liver_segmentation_cerveny_test.py" timestamp="1465114359986">
         <mark key="'" line="125" column="3" />
@@ -775,7 +775,7 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1481886978357">
+      <file name="/Dummy.txt" timestamp="1482592372190">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -831,11 +831,11 @@
         <mark key="." line="37" column="10" />
         <mark key="^" line="37" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/ndnoise/ndnoise/generator.py" timestamp="1481729132850">
-        <mark key="[" line="88" column="12" />
-        <mark key="]" line="88" column="15" />
-        <mark key="." line="88" column="15" />
-        <mark key="^" line="88" column="15" />
+      <file name="$USER_HOME$/projects/ndnoise/ndnoise/generator.py" timestamp="1482591183360">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+        <mark key="^" line="5" column="13" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/organ_model.py" timestamp="1477324015000">
         <mark key="'" line="26" column="7" />
@@ -1118,7 +1118,7 @@
         <mark key="." line="89" column="0" />
         <mark key="^" line="120" column="24" />
       </file>
-      <file name="/Python Console" timestamp="1482582523061">
+      <file name="/Python Console" timestamp="1482592156731">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -1463,6 +1463,13 @@
         <mark key="." line="3" column="1" />
         <mark key="^" line="3" column="1" />
       </file>
+      <file name="$USER_HOME$/projects/ndnoise/ndnoise/butternd.py" timestamp="1482591170977">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="10" column="31" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/skelet3d/skelet3d/tb_volume.py" timestamp="1477048625852">
         <mark key="[" line="76" column="23" />
         <mark key="]" line="76" column="55" />
@@ -1671,7 +1678,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="400" column="56" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="437" column="58" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="499" column="37" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="447" column="28" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
@@ -1771,49 +1777,50 @@
       <jump line="89" column="0" filename="$USER_HOME$/projects/imtools/tests/widgets_test.py" />
       <jump line="64" column="0" filename="$USER_HOME$/projects/imtools/tests/widgets_test.py" />
       <jump line="107" column="17" filename="$USER_HOME$/projects/imtools/tests/widgets_test.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/ndnoise/ndnoise/butternd.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAjIHNlbGYuYXNzZXJ0TGVzcyhlbmVyZ3lfZXJyb3JfeTEsIGVuZXJneV95cyAqIDAuMSkK</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuYW1lXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZpbHRlcmVkX3NwZWN0cnVtID0gZGF0YWYgKiBucC5hYnMoaCkK</text>
+        <text encoding="base64">ICAgICAgICBlbmVyZ3lfZXJyb3JfeTIgPSBucC5zdW0oKHlzIC0geTIpKioyKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBsdC5wbG90KGFicyhoKSwgbGFiZWw9J2ZpbHRlcicpCg==</text>
+        <text encoding="base64">ICAgICAgICAjIHNlbGYuYXNzZXJ0TGVzcyhlbmVyZ3lfZXJyb3JfeTEsIGVuZXJneV95cyAqIDAuMSkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB5ID0gYnV0dGVyX2JhbmRwYXNzX2ZpbHRlcih4LCBsb3djdXQsIGhpZ2hjdXQsIGZzLCBvcmRlcj02KQogICAgICAgIHkyID0gYnV0dGVyX2JhbmRwYXNzX2ZyZXFfZmlsdGVyKHgsIGxvd2N1dCwgaGlnaGN1dCwgZnMsIG9yZGVyPTYpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydExlc3MoZW5lcmd5X2Vycm9yX3kyX3kxLCBlbmVyZ3lfeXMgKiAwLjIsICJCb3RoIGZpbHRlcmVkIHNpZ25hbHMgYXJlIHNpbWlsYXIiKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgbnVtcHkgYXMgbnAK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydExlc3MoZW5lcmd5X2Vycm9yX3kyX3kxLCBlbmVyZ3lfeXMgKiAwLjIsICJCb3RoIGZpbHRlcmVkIHNpZ25hbHMgYXJlIHNpbWlsYXIiKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgbWF0cGxvdGxpYi5weXBsb3QgYXMgcGx0Cg==</text>
+        <text encoding="base64">ICAgICAgICBwbHQucGxvdChbMCwgMC41ICogZnNdLCBbbnAuc3FydCgwLjUpLCBucC5zcXJ0KDAuNSldLAogICAgICAgICAgICAgICAgICctLScsIGxhYmVsPSdzcXJ0KDAuNSknKQogICAgICAgIHBsdC54bGFiZWwoJ0ZyZXF1ZW5jeSAoSHopJykKICAgICAgICBwbHQueWxhYmVsKCdHYWluJykKICAgICAgICBwbHQuZ3JpZChUcnVlKQogICAgICAgIHBsdC5sZWdlbmQobG9jPSdiZXN0JykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIHNjaXB5LnNpZ25hbCBpbXBvcnQgZnJlcXoK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydExlc3MoZW5lcmd5X2Vycm9yX3ksIGVuZXJneV95cyAqIDAuMSkKICAgICAgICBzZWxmLmFzc2VydExlc3MoZW5lcmd5X2Vycm9yX3kyLCBlbmVyZ3lfeXMgKiAwLjEpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBzY2lweS5zaWduYWwgaW1wb3J0IGZyZXF6Cg==</text>
+        <text encoding="base64">ICAgICAgICBwbHQucGxvdCh0LCB4LCBsYWJlbD0nTm9pc3kgc2lnbmFsJykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEluKCJhZGRfZGF0YV9maWxlIiwgc3cudWlfYnV0dG9ucy5rZXlzKCkpCg==</text>
+        <text encoding="base64">ZGVmIGJ1dHRlcm4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIHByaW50ICJqZXN0ZSBwb3JhZCBkb2JyeSIK</text>
+        <text encoding="base64">CmRlZiBidXR0ZXJfYmFuZHBhc3MobG93Y3V0LCBoaWdoY3V0LCBmcywgb3JkZXI9NSk6CiAgICBueXEgPSAwLjUgKiBmcwogICAgbG93ID0gbG93Y3V0IC8gbnlxCiAgICBoaWdoID0gaGlnaGN1dCAvIG55cQogICAgYiwgYSA9IGJ1dHRlcihvcmRlciwgW2xvdywgaGlnaF0sIGJ0eXBlPSdiYW5kJykKICAgIHJldHVybiBiLCBhCgoKZGVmIGJ1dHRlcl9iYW5kcGFzc19maWx0ZXIoZGF0YSwgbG93Y3V0LCBoaWdoY3V0LCBmcywgb3JkZXI9NSk6CiAgICBiLCBhID0gYnV0dGVyX2JhbmRwYXNzKGxvd2N1dCwgaGlnaGN1dCwgZnMsIG9yZGVyPW9yZGVyKQogICAgeSA9IGxmaWx0ZXIoYiwgYSwgZGF0YSkKICAgIHJldHVybiB5CgpkZWYgYnV0dGVyX2JhbmRwYXNzX2ZyZXFfZmlsdGVyKGRhdGEsIGxvd2N1dCwgaGlnaGN1dCwgZnMsIG9yZGVyPTUpOgogICAgYiwgYSA9IGJ1dHRlcl9iYW5kcGFzcyhsb3djdXQsIGhpZ2hjdXQsIGZzLCBvcmRlcj1vcmRlcikKICAgIGRhdGFmID0gbnAuZmZ0LmZmdChkYXRhKQogICAgIyB3LCBoID0gZnJlcXooYiwgYSwgd29yTj1sZW4oZGF0YWYpLCB3aG9sZT1UcnVlKQogICAgdywgaCA9IGZyZXF6KGIsIGEsIHdvck49bGVuKGRhdGFmKSwgd2hvbGU9VHJ1ZSkKICAgIHBsdC5maWd1cmUoMykKICAgIHBsdC5zdWJwbG90KDIxMSkKICAgIG55cSA9IChmcyAqIDAuNSAvIG5wLnBpKQoKICAgIHBsdC5wbG90KHcqbnlxLCBhYnMoaCkpCiAgICAjIGZpbHRlcmVkX3NwZWN0cnVtID0gZGF0YWYgKiBucC5yZWFsKGgpCiAgICAjIGZpbHRlcmVkX3NwZWN0cnVtID0gZGF0YWYgKiBucC5hYnMoaCkKICAgIGZpbHRlcmVkX3NwZWN0cnVtID0gZGF0YWYgKiBoCiAgICBmaWx0ZXJlZCA9IG5wLmZmdC5pZmZ0KGZpbHRlcmVkX3NwZWN0cnVtKQogICAgcGx0LnN1YnBsb3QoMjEyKQogICAgcGx0LnBsb3QoYWJzKGRhdGFmKSwgbGFiZWw9J2RhdGEnKQogICAgcGx0LnBsb3QoYWJzKGgpLCBsYWJlbD0nZmlsdGVyJykKICAgIHBsdC5sZWdlbmQoKQogICAgIyBwbHQuc2hvdygpCiAgICAjIHJldHVybiBucC5yZWFsKGZpbHRlcmVkKQogICAgcmV0dXJuIG5wLmFicyhmaWx0ZXJlZCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIHByaW50ICJ6YXRpbSBkb2JyeSIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
