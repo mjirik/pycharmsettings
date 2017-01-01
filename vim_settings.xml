@@ -1486,9 +1486,11 @@
         <mark key="^" line="3" column="8" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/ndnoise/ndnoise/generator.py" timestamp="1483269197565">
-        <mark key="[" line="8" column="12" />
-        <mark key="^" line="5" column="13" />
+      <file name="$USER_HOME$/projects/ndnoise/ndnoise/generator.py" timestamp="1483281892289">
+        <mark key="[" line="71" column="59" />
+        <mark key="]" line="71" column="60" />
+        <mark key="." line="71" column="60" />
+        <mark key="^" line="71" column="60" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/training.py" timestamp="1453117814988">
         <mark key="'" line="38" column="8" />
@@ -1611,6 +1613,12 @@
         <mark key="]" line="43" column="8" />
         <mark key="^" line="43" column="8" />
         <mark key="." line="43" column="8" />
+      </file>
+      <file name="$USER_HOME$/projects/ndnoise/ndnoise/filter.py" timestamp="1483282024747">
+        <mark key="[" line="102" column="34" />
+        <mark key="]" line="102" column="35" />
+        <mark key="^" line="102" column="35" />
+        <mark key="." line="102" column="35" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/experiments.py" timestamp="1465109582678">
         <mark key="'" line="213" column="9" />
@@ -1771,47 +1779,47 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/ndnoise/ndnoise/butternd.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYuYXNzZXJ0TGVzcyhlbmVyZ3lfZXJyb3JfeTEsIGVuZXJneV95cyAqIDAuMSkK</text>
+      <register name="&quot;" type="4">
+        <text>voxelsize</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>voxelsize</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuYW1lXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBlbmVyZ3lfZXJyb3JfeTIgPSBucC5zdW0oKHlzIC0geTIpKioyKQo=</text>
+        <text encoding="base64">ICAgIGlmIGZzIGlzIE5vbmU6CiAgICAgICAgZnMgPSBucC5vbmVzKFsxLCBsZW4oc2hhcGUpXSkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYuYXNzZXJ0TGVzcyhlbmVyZ3lfZXJyb3JfeTEsIGVuZXJneV95cyAqIDAuMSkK</text>
+      <register name="1" type="4">
+        <text>voxelsize</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydExlc3MoZW5lcmd5X2Vycm9yX3kyX3kxLCBlbmVyZ3lfeXMgKiAwLjIsICJCb3RoIGZpbHRlcmVkIHNpZ25hbHMgYXJlIHNpbWlsYXIiKQo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">dm94ZWxzaXplIA==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydExlc3MoZW5lcmd5X2Vycm9yX3kyX3kxLCBlbmVyZ3lfeXMgKiAwLjIsICJCb3RoIGZpbHRlcmVkIHNpZ25hbHMgYXJlIHNpbWlsYXIiKQo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">dm94ZWxzaXplIA==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwbHQucGxvdChbMCwgMC41ICogZnNdLCBbbnAuc3FydCgwLjUpLCBucC5zcXJ0KDAuNSldLAogICAgICAgICAgICAgICAgICctLScsIGxhYmVsPSdzcXJ0KDAuNSknKQogICAgICAgIHBsdC54bGFiZWwoJ0ZyZXF1ZW5jeSAoSHopJykKICAgICAgICBwbHQueWxhYmVsKCdHYWluJykKICAgICAgICBwbHQuZ3JpZChUcnVlKQogICAgICAgIHBsdC5sZWdlbmQobG9jPSdiZXN0JykK</text>
+      <register name="4" type="4">
+        <text encoding="base64">dm94ZWxzaXplIA==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydExlc3MoZW5lcmd5X2Vycm9yX3ksIGVuZXJneV95cyAqIDAuMSkKICAgICAgICBzZWxmLmFzc2VydExlc3MoZW5lcmd5X2Vycm9yX3kyLCBlbmVyZ3lfeXMgKiAwLjEpCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">dm94ZWxzaXplIA==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwbHQucGxvdCh0LCB4LCBsYWJlbD0nTm9pc3kgc2lnbmFsJykK</text>
+      <register name="6" type="4">
+        <text>voxelsize</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ZGVmIGJ1dHRlcm4K</text>
+      <register name="7" type="4">
+        <text>voxelsize</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CmRlZiBidXR0ZXJfYmFuZHBhc3MobG93Y3V0LCBoaWdoY3V0LCBmcywgb3JkZXI9NSk6CiAgICBueXEgPSAwLjUgKiBmcwogICAgbG93ID0gbG93Y3V0IC8gbnlxCiAgICBoaWdoID0gaGlnaGN1dCAvIG55cQogICAgYiwgYSA9IGJ1dHRlcihvcmRlciwgW2xvdywgaGlnaF0sIGJ0eXBlPSdiYW5kJykKICAgIHJldHVybiBiLCBhCgoKZGVmIGJ1dHRlcl9iYW5kcGFzc19maWx0ZXIoZGF0YSwgbG93Y3V0LCBoaWdoY3V0LCBmcywgb3JkZXI9NSk6CiAgICBiLCBhID0gYnV0dGVyX2JhbmRwYXNzKGxvd2N1dCwgaGlnaGN1dCwgZnMsIG9yZGVyPW9yZGVyKQogICAgeSA9IGxmaWx0ZXIoYiwgYSwgZGF0YSkKICAgIHJldHVybiB5CgpkZWYgYnV0dGVyX2JhbmRwYXNzX2ZyZXFfZmlsdGVyKGRhdGEsIGxvd2N1dCwgaGlnaGN1dCwgZnMsIG9yZGVyPTUpOgogICAgYiwgYSA9IGJ1dHRlcl9iYW5kcGFzcyhsb3djdXQsIGhpZ2hjdXQsIGZzLCBvcmRlcj1vcmRlcikKICAgIGRhdGFmID0gbnAuZmZ0LmZmdChkYXRhKQogICAgIyB3LCBoID0gZnJlcXooYiwgYSwgd29yTj1sZW4oZGF0YWYpLCB3aG9sZT1UcnVlKQogICAgdywgaCA9IGZyZXF6KGIsIGEsIHdvck49bGVuKGRhdGFmKSwgd2hvbGU9VHJ1ZSkKICAgIHBsdC5maWd1cmUoMykKICAgIHBsdC5zdWJwbG90KDIxMSkKICAgIG55cSA9IChmcyAqIDAuNSAvIG5wLnBpKQoKICAgIHBsdC5wbG90KHcqbnlxLCBhYnMoaCkpCiAgICAjIGZpbHRlcmVkX3NwZWN0cnVtID0gZGF0YWYgKiBucC5yZWFsKGgpCiAgICAjIGZpbHRlcmVkX3NwZWN0cnVtID0gZGF0YWYgKiBucC5hYnMoaCkKICAgIGZpbHRlcmVkX3NwZWN0cnVtID0gZGF0YWYgKiBoCiAgICBmaWx0ZXJlZCA9IG5wLmZmdC5pZmZ0KGZpbHRlcmVkX3NwZWN0cnVtKQogICAgcGx0LnN1YnBsb3QoMjEyKQogICAgcGx0LnBsb3QoYWJzKGRhdGFmKSwgbGFiZWw9J2RhdGEnKQogICAgcGx0LnBsb3QoYWJzKGgpLCBsYWJlbD0nZmlsdGVyJykKICAgIHBsdC5sZWdlbmQoKQogICAgIyBwbHQuc2hvdygpCiAgICAjIHJldHVybiBucC5yZWFsKGZpbHRlcmVkKQogICAgcmV0dXJuIG5wLmFicyhmaWx0ZXJlZCkK</text>
+      <register name="8" type="4">
+        <text>voxelsize</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>voxelsize</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
