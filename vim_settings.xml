@@ -1003,12 +1003,6 @@
         <mark key="." line="60" column="25" />
         <mark key="^" line="60" column="25" />
       </file>
-      <file name="/Python Console" timestamp="1482592156731">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="3" />
-        <mark key="^" line="0" column="3" />
-        <mark key="." line="0" column="3" />
-      </file>
       <file name="$USER_HOME$/projects/events2calendar/tests/e2c_test.py" timestamp="1477320243915">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="23" />
@@ -1486,11 +1480,11 @@
         <mark key="^" line="3" column="8" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/ndnoise/ndnoise/generator.py" timestamp="1483302549240">
-        <mark key="[" line="71" column="59" />
-        <mark key="]" line="71" column="60" />
-        <mark key="." line="71" column="60" />
-        <mark key="^" line="71" column="60" />
+      <file name="$USER_HOME$/projects/ndnoise/ndnoise/generator.py" timestamp="1483303474149">
+        <mark key="[" line="73" column="66" />
+        <mark key="]" line="73" column="74" />
+        <mark key="." line="73" column="74" />
+        <mark key="^" line="73" column="74" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/training.py" timestamp="1453117814988">
         <mark key="'" line="38" column="8" />
@@ -1573,12 +1567,12 @@
         <mark key="." line="55" column="19" />
         <mark key="^" line="55" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/ndnoise/tests/filter_test.py" timestamp="1482592366787">
+      <file name="$USER_HOME$/projects/ndnoise/tests/filter_test.py" timestamp="1483304551495">
         <mark key="'" line="71" column="13" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="59" />
-        <mark key="^" line="57" column="7" />
-        <mark key="." line="49" column="0" />
+        <mark key="[" line="82" column="42" />
+        <mark key="]" line="82" column="54" />
+        <mark key="." line="82" column="54" />
+        <mark key="^" line="82" column="54" />
       </file>
       <file name="$USER_HOME$/projects/imtools/tests/vessels_segmentation_test.py" timestamp="1481555460459">
         <mark key="'" line="26" column="8" />
@@ -1614,11 +1608,11 @@
         <mark key="^" line="43" column="8" />
         <mark key="." line="43" column="8" />
       </file>
-      <file name="$USER_HOME$/projects/ndnoise/ndnoise/filter.py" timestamp="1483282024747">
-        <mark key="[" line="102" column="34" />
-        <mark key="]" line="102" column="35" />
-        <mark key="^" line="102" column="35" />
-        <mark key="." line="102" column="35" />
+      <file name="$USER_HOME$/projects/ndnoise/ndnoise/filter.py" timestamp="1483303717294">
+        <mark key="[" line="107" column="35" />
+        <mark key="]" line="107" column="49" />
+        <mark key="^" line="107" column="49" />
+        <mark key="." line="107" column="49" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/experiments.py" timestamp="1465109582678">
         <mark key="'" line="213" column="9" />
@@ -1779,47 +1773,47 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/ndnoise/ndnoise/butternd.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>voxelsize</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEFsbW9zdEVxdWFsKGRzdFswXVswXSwgbnAuc3FydCg1KSkK</text>
       </register>
       <register name="-" type="4">
-        <text>voxelsize</text>
+        <text encoding="base64">IC8gdm94ZWxzaXplW2ld</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuYW1lXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmIGZzIGlzIE5vbmU6CiAgICAgICAgZnMgPSBucC5vbmVzKFsxLCBsZW4oc2hhcGUpXSkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEFsbW9zdEVxdWFsKGRzdFswXVswXSwgbnAuc3FydCg1KSkK</text>
       </register>
       <register name="1" type="4">
-        <text>voxelsize</text>
+        <text encoding="base64">IC8gdm94ZWxzaXplW2ld</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">dm94ZWxzaXplIA==</text>
+        <text>s</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">dm94ZWxzaXplIA==</text>
+        <text>f</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">dm94ZWxzaXplIA==</text>
+        <text>/</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">dm94ZWxzaXplIA==</text>
+        <text>fs</text>
       </register>
       <register name="6" type="4">
-        <text>voxelsize</text>
+        <text>s</text>
       </register>
       <register name="7" type="4">
-        <text>voxelsize</text>
+        <text>f</text>
       </register>
       <register name="8" type="4">
         <text>voxelsize</text>
       </register>
       <register name="9" type="4">
-        <text>voxelsize</text>
+        <text encoding="base64">dm94ZWxzaXplIA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
