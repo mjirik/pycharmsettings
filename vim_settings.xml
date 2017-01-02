@@ -69,11 +69,12 @@
         <mark key="^" line="930" column="52" />
         <mark key="." line="930" column="52" />
       </file>
-      <file name="$USER_HOME$/projects/ndnoise/tests/filter_test.py" timestamp="1483373995969">
-        <mark key="[" line="165" column="25" />
-        <mark key="]" line="166" column="9" />
-        <mark key="^" line="166" column="9" />
-        <mark key="." line="166" column="9" />
+      <file name="$USER_HOME$/projects/ndnoise/tests/filter_test.py" timestamp="1483376712778">
+        <mark key="'" line="127" column="27" />
+        <mark key="[" line="199" column="20" />
+        <mark key="]" line="199" column="20" />
+        <mark key="^" line="199" column="62" />
+        <mark key="." line="199" column="20" />
       </file>
       <file name="$USER_HOME$/projects/lisa/tests/liver_segmentation_cerveny_test.py" timestamp="1465114359986">
         <mark key="'" line="125" column="3" />
@@ -453,13 +454,13 @@
         <mark key="." line="21" column="26" />
         <mark key="^" line="21" column="51" />
       </file>
-      <file name="$USER_HOME$/projects/ndnoise/ndnoise/filtration.py" timestamp="1483373688401">
-        <mark key="a" line="117" column="60" />
+      <file name="$USER_HOME$/projects/ndnoise/ndnoise/filtration.py" timestamp="1483376123430">
+        <mark key="a" line="124" column="60" />
         <mark key="'" line="9" column="11" />
-        <mark key="[" line="133" column="39" />
-        <mark key="]" line="133" column="64" />
-        <mark key="." line="133" column="64" />
-        <mark key="^" line="133" column="64" />
+        <mark key="[" line="128" column="23" />
+        <mark key="]" line="129" column="0" />
+        <mark key="." line="129" column="0" />
+        <mark key="^" line="129" column="0" />
       </file>
       <file name="$USER_HOME$/projects/events2calendar/README.md" timestamp="1459100360089">
         <mark key="[" line="5" column="45" />
@@ -734,7 +735,7 @@
         <mark key="^" line="9" column="21" />
         <mark key="." line="9" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1481886978357">
+      <file name="/Dummy.txt" timestamp="1483376766783">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1042,7 +1043,7 @@
         <mark key="." line="89" column="0" />
         <mark key="^" line="120" column="24" />
       </file>
-      <file name="/Python Console" timestamp="1483373923590">
+      <file name="/Python Console" timestamp="1483374940089">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="16" />
         <mark key="^" line="0" column="16" />
@@ -1492,11 +1493,11 @@
         <mark key="^" line="2" column="13" />
         <mark key="." line="2" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/ndnoise/tests/ndnoise_test.py" timestamp="1481729329779">
-        <mark key="[" line="25" column="24" />
-        <mark key="]" line="25" column="23" />
-        <mark key="^" line="25" column="23" />
-        <mark key="." line="25" column="23" />
+      <file name="$USER_HOME$/projects/ndnoise/tests/ndnoise_test.py" timestamp="1483376666667">
+        <mark key="[" line="33" column="12" />
+        <mark key="]" line="33" column="23" />
+        <mark key="^" line="33" column="23" />
+        <mark key="." line="33" column="23" />
       </file>
       <file name="$USER_HOME$/projects/skelet3d/examples/example02.py" timestamp="1465398838088">
         <mark key="'" line="17" column="9" />
@@ -1587,7 +1588,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="447" column="28" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="1201" column="27" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="161" column="0" filename="$USER_HOME$/projects/teigen/teigen/generators/cylindersqt.py" />
       <jump line="226" column="4" filename="$USER_HOME$/projects/teigen/teigen/generators/cylindersqt.py" />
@@ -1687,65 +1687,64 @@
       <jump line="125" column="5" filename="$USER_HOME$/projects/ndnoise/ndnoise/filtration.py" />
       <jump line="116" column="60" filename="$USER_HOME$/projects/ndnoise/ndnoise/filtration.py" />
       <jump line="9" column="11" filename="$USER_HOME$/projects/ndnoise/ndnoise/filtration.py" />
+      <jump line="122" column="27" filename="$USER_HOME$/projects/ndnoise/tests/filter_test.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text>voxelsize</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>voxelsize</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxuYW1lXD4=</text>
+        <text>round</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmcmVxMSA9IG5wLmZmdC5mZnRmcmVxKDUsIGQ9MS4vc2FtcGxpbmdfcmF0ZSkK</text>
+        <text encoding="base64">ICAgIGlmIG5wLmlzc2NhbGFyKHNwYWNpbmcpOgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlucHV0WzBdID0gMQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwbHQuaW1zaG93KG5wLmFicyhzaHNwZWN0cnVtKSwgY21hcD0iZ3JheSIpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiBydW5fb25lX3BhcmFtZXRlcl9zZXQoc2VsZik6Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCBmcmVxMQogICAgICAgIHByaW50IGZyZXEyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwbHQuc2hvdygpCg==</text>
+        <text encoding="base64">ICAgIGlucHV0WzBdID0gMQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRmCg==</text>
+        <text encoding="base64">ICAgICAgICBwbHQuaW1zaG93KG5wLmFicyhzaHNwZWN0cnVtKSwgY21hcD0iZ3JheSIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGVmIHNwZWN0cnVtX2ZpbHRyYXRpb24oc3BlY3RydW0sIGZzPU5vbmUsIGV4cG9uZW50PTAsIGZyZXFfc3RhcnQ9MCwgZnJlcV9yYW5nZT1Ob25lKToKICAgICIiIgogICAgRmlsdGVyIHNwZWN0cnVtIGJhc2VkIG9uIGZyZXF1ZW5jeQogICAgOnBhcmFtIHNwZWN0cnVtOgogICAgOnBhcmFtIGV4cG9uZW50OgogICAgOnBhcmFtIGZyZXFfc3RhcnQ6CiAgICA6cGFyYW0gZnJlcV9yYW5nZToKICAgIDpyZXR1cm46CiAgICAiIiIKICAgIGlmIGZyZXFfcmFuZ2U8IDA6CiAgICAgICAgZnJlcV9yYW5nZSA9IE5vbmUKCiAgICBpZiBmcyBpcyBOb25lOgogICAgICAgIGZzID0gbnAub25lcyhsZW4oc3BlY3RydW0uc2hhcGUpKQoKICAgIHZveGVsc2l6ZSA9IDEuMCAvIG5wLmFzYXJyYXkoZnMpCgogICAgZGlzdCA9IGZpbHRyYXRpb24uZGlzdF9mcm9tX2NlbnRlcihzcGVjdHJ1bS5zaGFwZSwgYXhpc19zaXplPXZveGVsc2l6ZSkKCiAgICBzaHNwZWN0cnVtID0gbnAuZmZ0LmZmdHNoaWZ0KHNwZWN0cnVtKQogICAgcGZpbHRlciA9IGZpbHRyYXRpb24ucG93ZXJfZmlsdGVyKHNoc3BlY3RydW0uc2hhcGUsIGV4cG9uZW50LCBkaXN0PWRpc3QpCiAgICBzaHNwZWN0cnVtID0gZmlsdHJhdGlvbi5hcHBseV9maWx0ZXIoc2hzcGVjdHJ1bSwgcGZpbHRlcikKCiAgICBmaWx0ID0gZmlsdHJhdGlvbi5oaXBhc3NfZmZ0X21hc2soc3BlY3RydW0uc2hhcGUsIGZyZXFfc3RhcnQsIGRpc3Q9ZGlzdCkKICAgIGlmIGZyZXFfcmFuZ2UgaXMgbm90IE5vbmU6CiAgICAgICAgZmlsdCAqPSBmaWx0cmF0aW9uLmxvcGFzc19mZnRfbWFzayhzcGVjdHJ1bS5zaGFwZSwgZnJlcV9zdGFydCArIGZyZXFfcmFuZ2UsIGRpc3Q9ZGlzdCkKICAgIHNoc3BlY3RydW0gKj0gZmlsdAogICAgc3BlY3RydW0gPSBucC5mZnQuaWZmdHNoaWZ0KHNoc3BlY3RydW0pCgogICAgc2lnbmFsID0gbnAucmVhbChucC5mZnQuaWZmdG4oc3BlY3RydW0pKQogICAgcmV0dXJuIHNpZ25hbCwgZmlsdGVyLCBzcGVjdHJ1bQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEluKCJhZGRfZGF0YV9maWxlIiwgc3cudWlfYnV0dG9ucy5rZXlzKCkpCg==</text>
+        <text encoding="base64">ICAgIGRlZiBydW5fb25lX3BhcmFtZXRlcl9zZXQoc2VsZik6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIHByaW50ICJqZXN0ZSBwb3JhZCBkb2JyeSIK</text>
+        <text encoding="base64">ICAgICAgICBwbHQuc2hvdygpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxuYW1lXD4=</last-search>
+      <last-search>round</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxuYW1lXD4=</last-pattern>
+      <last-pattern>round</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>lineEdit</entry>
-        <entry>LineEd</entry>
         <entry encoding="base64">XDxRTGluZUVkaXRcPg==</entry>
         <entry encoding="base64">XDxzdHJfZm9ybWF0X29sZF90b19uZXdcPg==</entry>
         <entry>ipdb</entry>
@@ -1764,6 +1763,8 @@
         <entry>Hook</entry>
         <entry>ssigma</entry>
         <entry>imgFiltering</entry>
+        <entry>floor</entry>
+        <entry>round</entry>
       </history-search>
       <history-cmd>
         <entry>e</entry>
