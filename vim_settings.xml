@@ -1014,6 +1014,12 @@
         <mark key="." line="55" column="33" />
         <mark key="^" line="37" column="33" />
       </file>
+      <file name="$USER_HOME$/projects/ndnoise/.travis.yml" timestamp="1483377048972">
+        <mark key="[" line="58" column="50" />
+        <mark key="]" line="58" column="56" />
+        <mark key="." line="58" column="56" />
+        <mark key="^" line="58" column="56" />
+      </file>
       <file name="$USER_HOME$/projects/teigen/teigen/tree.py" timestamp="1480951019753">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="174" column="0" />
@@ -1691,10 +1697,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>voxelsize</text>
+        <text>teigen</text>
       </register>
       <register name="-" type="4">
-        <text>voxelsize</text>
+        <text>teigen</text>
       </register>
       <register name="/" type="4">
         <text>round</text>
