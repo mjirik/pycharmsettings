@@ -69,11 +69,11 @@
         <mark key="^" line="930" column="52" />
         <mark key="." line="930" column="52" />
       </file>
-      <file name="$USER_HOME$/projects/ndnoise/tests/filter_test.py" timestamp="1483365555218">
-        <mark key="[" line="102" column="43" />
-        <mark key="]" line="102" column="44" />
-        <mark key="^" line="102" column="43" />
-        <mark key="." line="102" column="44" />
+      <file name="$USER_HOME$/projects/ndnoise/tests/filter_test.py" timestamp="1483367329477">
+        <mark key="[" line="133" column="19" />
+        <mark key="]" line="137" column="30" />
+        <mark key="^" line="137" column="30" />
+        <mark key="." line="137" column="30" />
       </file>
       <file name="$USER_HOME$/projects/lisa/tests/liver_segmentation_cerveny_test.py" timestamp="1465114359986">
         <mark key="'" line="125" column="3" />
@@ -453,12 +453,12 @@
         <mark key="." line="21" column="26" />
         <mark key="^" line="21" column="51" />
       </file>
-      <file name="$USER_HOME$/projects/ndnoise/ndnoise/filtration.py" timestamp="1483355259908">
-        <mark key="'" line="125" column="5" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="8" column="0" />
+      <file name="$USER_HOME$/projects/ndnoise/ndnoise/filtration.py" timestamp="1483367660989">
+        <mark key="'" line="128" column="5" />
+        <mark key="[" line="110" column="33" />
+        <mark key="]" line="110" column="32" />
+        <mark key="." line="110" column="32" />
+        <mark key="^" line="110" column="32" />
       </file>
       <file name="$USER_HOME$/projects/events2calendar/README.md" timestamp="1459100360089">
         <mark key="[" line="5" column="45" />
@@ -1041,7 +1041,7 @@
         <mark key="." line="89" column="0" />
         <mark key="^" line="120" column="24" />
       </file>
-      <file name="/Python Console" timestamp="1483366091079">
+      <file name="/Python Console" timestamp="1483367163854">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -1688,8 +1688,8 @@
       <jump line="125" column="5" filename="$USER_HOME$/projects/ndnoise/ndnoise/filtration.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>4</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X21heF94X2ZyZXFfc3BlY3RydW1fcHJvY2Vzc2luZyhzZWxmKToKICAgICAgICAiIiIKICAgICAgICBUZXN0IG9mIG1heGltYWwgZnJlcXVlbmNlCiAgICAgICAgOnJldHVybjoKICAgICAgICAiIiIKICAgICAgICBzaGFwZSA9IFsyNCwgMjRdCiAgICAgICAgY2VudGVyID0gKG5wLmFzYXJyYXkoc2hhcGUpIC8gMikKCiAgICAgICAgc2hzcGVjdHJ1bSA9IG5wLnplcm9zKHNoYXBlPXNoYXBlLCBkdHlwZT1ucC5jb21wbGV4KQogICAgICAgIHNoc3BlY3RydW1bY2VudGVyWzBdLCAwXSA9IDEKICAgICAgICAjIHNoc3BlY3RydW1bY2VudGVyWzBdLCAyNF0gPSAwCiAgICAgICAgc2hzcGVjdHJ1bVtjZW50ZXJbMF0sIGNlbnRlclsxXV0gPSAyCiAgICAgICAgc3BlY3RydW0gPSBucC5mZnQuaWZmdHNoaWZ0KHNoc3BlY3RydW0pCgogICAgICAgIHNpZ25hbCwgZmlsdCwgc3BlY3RydW1fcmV0ID0gbmRub2lzZS5nZW5lcmF0b3Iubm9pc2VmKHNoYXBlLCBzcGVjdHJ1bT1zcGVjdHJ1bSwgcmV0dXJuX3NwZWN0cnVtPVRydWUpCiAgICAgICAgIyBpbXBvcnQgbWF0cGxvdGxpYi5weXBsb3QgYXMgcGx0CiAgICAgICAgcGx0LmZpZ3VyZSgpCiAgICAgICAgcGx0LnN1YnBsb3QoMTMxKQogICAgICAgIHBsdC5pbXNob3coc2lnbmFsLCBjbWFwPSJncmF5IikKICAgICAgICBwbHQuc3VicGxvdCgxMzIpCiAgICAgICAgcGx0Lmltc2hvdyhucC5hYnMoc2hzcGVjdHJ1bSksIGNtYXA9ImdyYXkiKQogICAgICAgIHBsdC5zdWJwbG90KDEzMykKICAgICAgICBwbHQuaW1zaG93KG5wLmFicyhzcGVjdHJ1bV9yZXQpLCBjbWFwPSJncmF5IikKICAgICAgICBwbHQuc2hvdygpCgogICAgICAgICMgYSA9IHNpZ25hbFtbOl1dCiAgICAgICAgc3VkYSA9IHNpZ25hbFs6LCA6OjJdCiAgICAgICAgbGljaGEgPSBzaWduYWxbOiwgMTo6Ml0KCiAgICAgICAgdmFyMCA9IG5wLnZhcihzaWduYWwpCiAgICAgICAgdmFycyA9IG5wLnZhcihzdWRhKQogICAgICAgIHZhcmwgPSBucC52YXIobGljaGEpCgogICAgICAgIHNlbGYuYXNzZXJ0R3JlYXRlcih2YXIwLCAyLjUgKiB2YXJzKQogICAgICAgIHNlbGYuYXNzZXJ0R3JlYXRlcih2YXIwLCAyLjUgKiB2YXJsKQo=</text>
       </register>
       <register name="-" type="4">
         <text>4</text>
@@ -1698,7 +1698,7 @@
         <text encoding="base64">XDxuYW1lXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzaHNwZWN0cnVtW2NlbnRlclswXSwgMjRdID0gMAo=</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X21heF94X2ZyZXFfc3BlY3RydW1fcHJvY2Vzc2luZyhzZWxmKToKICAgICAgICAiIiIKICAgICAgICBUZXN0IG9mIG1heGltYWwgZnJlcXVlbmNlCiAgICAgICAgOnJldHVybjoKICAgICAgICAiIiIKICAgICAgICBzaGFwZSA9IFsyNCwgMjRdCiAgICAgICAgY2VudGVyID0gKG5wLmFzYXJyYXkoc2hhcGUpIC8gMikKCiAgICAgICAgc2hzcGVjdHJ1bSA9IG5wLnplcm9zKHNoYXBlPXNoYXBlLCBkdHlwZT1ucC5jb21wbGV4KQogICAgICAgIHNoc3BlY3RydW1bY2VudGVyWzBdLCAwXSA9IDEKICAgICAgICAjIHNoc3BlY3RydW1bY2VudGVyWzBdLCAyNF0gPSAwCiAgICAgICAgc2hzcGVjdHJ1bVtjZW50ZXJbMF0sIGNlbnRlclsxXV0gPSAyCiAgICAgICAgc3BlY3RydW0gPSBucC5mZnQuaWZmdHNoaWZ0KHNoc3BlY3RydW0pCgogICAgICAgIHNpZ25hbCwgZmlsdCwgc3BlY3RydW1fcmV0ID0gbmRub2lzZS5nZW5lcmF0b3Iubm9pc2VmKHNoYXBlLCBzcGVjdHJ1bT1zcGVjdHJ1bSwgcmV0dXJuX3NwZWN0cnVtPVRydWUpCiAgICAgICAgIyBpbXBvcnQgbWF0cGxvdGxpYi5weXBsb3QgYXMgcGx0CiAgICAgICAgcGx0LmZpZ3VyZSgpCiAgICAgICAgcGx0LnN1YnBsb3QoMTMxKQogICAgICAgIHBsdC5pbXNob3coc2lnbmFsLCBjbWFwPSJncmF5IikKICAgICAgICBwbHQuc3VicGxvdCgxMzIpCiAgICAgICAgcGx0Lmltc2hvdyhucC5hYnMoc2hzcGVjdHJ1bSksIGNtYXA9ImdyYXkiKQogICAgICAgIHBsdC5zdWJwbG90KDEzMykKICAgICAgICBwbHQuaW1zaG93KG5wLmFicyhzcGVjdHJ1bV9yZXQpLCBjbWFwPSJncmF5IikKICAgICAgICBwbHQuc2hvdygpCgogICAgICAgICMgYSA9IHNpZ25hbFtbOl1dCiAgICAgICAgc3VkYSA9IHNpZ25hbFs6LCA6OjJdCiAgICAgICAgbGljaGEgPSBzaWduYWxbOiwgMTo6Ml0KCiAgICAgICAgdmFyMCA9IG5wLnZhcihzaWduYWwpCiAgICAgICAgdmFycyA9IG5wLnZhcihzdWRhKQogICAgICAgIHZhcmwgPSBucC52YXIobGljaGEpCgogICAgICAgIHNlbGYuYXNzZXJ0R3JlYXRlcih2YXIwLCAyLjUgKiB2YXJzKQogICAgICAgIHNlbGYuYXNzZXJ0R3JlYXRlcih2YXIwLCAyLjUgKiB2YXJsKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBwbHQuaW1zaG93KG5wLmFicyhzaHNwZWN0cnVtKSwgY21hcD0iZ3JheSIpCg==</text>
