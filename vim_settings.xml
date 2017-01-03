@@ -1497,11 +1497,11 @@
         <mark key="^" line="3" column="8" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/ndnoise/ndnoise/generator.py" timestamp="1483354854466">
-        <mark key="[" line="47" column="31" />
-        <mark key="]" line="47" column="41" />
-        <mark key="." line="47" column="41" />
-        <mark key="^" line="47" column="41" />
+      <file name="$USER_HOME$/projects/ndnoise/ndnoise/generator.py" timestamp="1483482816498">
+        <mark key="[" line="29" column="17" />
+        <mark key="]" line="30" column="3" />
+        <mark key="." line="30" column="3" />
+        <mark key="^" line="30" column="3" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/training.py" timestamp="1453117814988">
         <mark key="'" line="38" column="8" />
@@ -1790,46 +1790,51 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>complex</text>
+        <text encoding="base64">c2hhcGUg</text>
       </register>
       <register name="-" type="4">
-        <text>complex</text>
+        <text encoding="base64">c2hhcGUg</text>
       </register>
       <register name="/" type="4">
         <text>round</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X1IyUChzZWxmKToKICAgICAgICB4ID0gWzEwICsgMTAgKiAxaiAsIDEgKyAwICogMWosIDAgKyAxal0KICAgICAgICBleHBlY3RlZF9hYnNvbHV0ZSA9IFsxMCAqIDIqKjAuNSwgMS4wLCAxLjBdCiAgICAgICAgZXhwZWN0ZWRfYW5nbGUgPSBbMC4yNSAqIG5wLnBpLCAwLjAsIDAuNSAqIG5wLnBpXQogICAgICAgIGFic29sdXRlLCBhbmdsZSA9IG5kbm9pc2UuZmlsdHJhdGlvbi5SMlAoeCkKCiAgICAgICAgZm9yIGVhYiwgZWFuLCBhYiwgYW4gaW4gemlwKGV4cGVjdGVkX2Fic29sdXRlLCBleHBlY3RlZF9hbmdsZSwgYWJzb2x1dGUsIGFuZ2xlKToKICAgICAgICAgICAgc2VsZi5hc3NlcnRBbG1vc3RFcXVhbHMoZWFiLCBhYikKICAgICAgICAgICAgc2VsZi5hc3NlcnRBbG1vc3RFcXVhbHMoZWFuLCBhbikK</text>
+        <text encoding="base64">ICAgIGZyZXFfcmFuZ2UgPSAxLjAvbGFtYmRhX3JhbmdlCg==</text>
       </register>
       <register name="1" type="4">
-        <text>complex</text>
+        <text encoding="base64">c2hhcGUg</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>.</text>
-      </register>
-      <register name="3" type="4">
-        <text>np</text>
-      </register>
-      <register name="4" type="4">
-        <text>=</text>
-      </register>
-      <register name="5" type="4">
-        <text>dtype</text>
-      </register>
-      <register name="6" type="4">
         <text encoding="base64">IA==</text>
       </register>
+      <register name="3" type="8">
+        <text>#
+#
+#
+#
+#
+#</text>
+      </register>
+      <register name="4" type="4">
+        <text>)</text>
+      </register>
+      <register name="5" type="4">
+        <text>shape</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHJldHZhbCA9IG5vaXNlZiggc2hhcGUgKQo=</text>
+      </register>
       <register name="7" type="4">
-        <text>,</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5hc3NlcnRBbG1vc3RFcXVhbHMoZWFuLCBhbikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="4">
-        <text>ab</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
