@@ -1584,12 +1584,12 @@
         <mark key="." line="55" column="19" />
         <mark key="^" line="55" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/ndnoise/tests/filter_test.py" timestamp="1483376712778">
+      <file name="$USER_HOME$/projects/ndnoise/tests/filter_test.py" timestamp="1483447005327">
         <mark key="'" line="127" column="27" />
-        <mark key="[" line="199" column="20" />
-        <mark key="]" line="199" column="20" />
-        <mark key="^" line="199" column="62" />
-        <mark key="." line="199" column="20" />
+        <mark key="[" line="225" column="0" />
+        <mark key="]" line="225" column="0" />
+        <mark key="^" line="224" column="42" />
+        <mark key="." line="225" column="0" />
       </file>
       <file name="$USER_HOME$/projects/imtools/tests/vessels_segmentation_test.py" timestamp="1481555460459">
         <mark key="'" line="26" column="8" />
@@ -1790,46 +1790,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZGVmIGFwcGx5X2ZpbHRlcl9vbl9hYnMoc2hzcGVjdHJ1bSwgZmlsdGVyKToKICAgIHJhZGlpLCBhbmdsZSA9IFIyUChzaHNwZWN0cnVtKQogICAgcmFkaWkgKj0gZmlsdGVyCiAgICBzaHNwZWN0cnVtID0gUDJSKHJhZGlpLCBhbmdsZSkKICAgIHJldHVybiBzaHNwZWN0cnVtCgoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5hc3NlcnRBbG1vc3RFcXVhbHMoZWFuLCBhbikK</text>
       </register>
       <register name="-" type="4">
-        <text>teigen</text>
+        <text>ab</text>
       </register>
       <register name="/" type="4">
         <text>round</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmIG5wLmlzc2NhbGFyKHNwYWNpbmcpOgo=</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X1IyUChzZWxmKToKICAgICAgICB4ID0gWzEwICsgMTAgKiAxaiAsIDEgKyAwICogMWosIDAgKyAxal0KICAgICAgICBleHBlY3RlZF9hYnNvbHV0ZSA9IFsxMCAqIDIqKjAuNSwgMS4wLCAxLjBdCiAgICAgICAgZXhwZWN0ZWRfYW5nbGUgPSBbMC4yNSAqIG5wLnBpLCAwLjAsIDAuNSAqIG5wLnBpXQogICAgICAgIGFic29sdXRlLCBhbmdsZSA9IG5kbm9pc2UuZmlsdHJhdGlvbi5SMlAoeCkKCiAgICAgICAgZm9yIGVhYiwgZWFuLCBhYiwgYW4gaW4gemlwKGV4cGVjdGVkX2Fic29sdXRlLCBleHBlY3RlZF9hbmdsZSwgYWJzb2x1dGUsIGFuZ2xlKToKICAgICAgICAgICAgc2VsZi5hc3NlcnRBbG1vc3RFcXVhbHMoZWFiLCBhYikKICAgICAgICAgICAgc2VsZi5hc3NlcnRBbG1vc3RFcXVhbHMoZWFuLCBhbikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGVmIGFwcGx5X2ZpbHRlcl9vbl9hYnMoc2hzcGVjdHJ1bSwgZmlsdGVyKToKICAgIHJhZGlpLCBhbmdsZSA9IFIyUChzaHNwZWN0cnVtKQogICAgcmFkaWkgKj0gZmlsdGVyCiAgICBzaHNwZWN0cnVtID0gUDJSKHJhZGlpLCBhbmdsZSkKICAgIHJldHVybiBzaHNwZWN0cnVtCgoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5hc3NlcnRBbG1vc3RFcXVhbHMoZWFuLCBhbikK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="2" type="4">
+        <text>ab</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="3" type="4">
+        <text>eab</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">YW4g</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBmcmVxMQogICAgICAgIHByaW50IGZyZXEyCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">LCA=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGlucHV0WzBdID0gMQo=</text>
+      <register name="6" type="4">
+        <text>ab</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwbHQuaW1zaG93KG5wLmFicyhzaHNwZWN0cnVtKSwgY21hcD0iZ3JheSIpCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">LCA=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>ean</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiBydW5fb25lX3BhcmFtZXRlcl9zZXQoc2VsZik6Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">LCA=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
