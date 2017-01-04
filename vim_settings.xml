@@ -499,9 +499,9 @@
         <mark key="^" line="54" column="14" />
         <mark key="." line="54" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/dataset.py" timestamp="1465917383921">
-        <mark key="[" line="148" column="40" />
-        <mark key="]" line="148" column="40" />
+      <file name="$USER_HOME$/projects/lisa/lisa/dataset.py" timestamp="1483536393720">
+        <mark key="[" line="133" column="0" />
+        <mark key="]" line="133" column="34" />
         <mark key="." line="148" column="40" />
         <mark key="^" line="148" column="40" />
       </file>
@@ -1804,8 +1804,8 @@
       <jump line="122" column="27" filename="$USER_HOME$/projects/ndnoise/tests/filter_test.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>planar</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHNlZWRzWzE5OjIyLCAyMToyNywgMTk6MjFdID0gMgo=</text>
       </register>
       <register name="-" type="4">
         <text>planar</text>
@@ -1814,7 +1814,7 @@
         <text>round</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X3BsYW5hcl9yZXNlY3Rpb24oc2VsZik6CiAgICAgICAgIiIiCiAgICAgICAgQ2hlY2sgcGxhbmFyIHZpcnR1YWwgcmVzZWN0aW9uCiAgICAgICAgOnJldHVybjoKICAgICAgICAiIiIKICAgICAgICBzaGFwZSA9IFs0MCwgNDEsIDQyXQogICAgICAgIGZyb20gbGlzYS5kYXRhc2V0IGltcG9ydCBnZW5lcmF0ZV9zYW1wbGVfZGF0YQogICAgICAgIGRhdGFwID0gZ2VuZXJhdGVfc2FtcGxlX2RhdGEoKQogICAgICAgIHNlZWRzID0gbnAuemVyb3Moc2hhcGUpCiAgICAgICAgaW5kcyA9IG5wLmFzYXJyYXkoW1sxMCwgNSwgMjAsIDIyXSwgWzIwLCA4LCAxMCwgMTJdLCBbNSwgMTAsIDIwLCAxOV1dKQogICAgICAgIHNlZWRzIFtpbmRzWzBdLCBpbmRzWzFdLCBpbmRzWzJdXSA9IDEKCiAgICAgICAgZGF0YXAgPSBsaXNhLnZpcnR1YWxfcmVzZWN0aW9uLnJlc2VjdGlvbl9wbGFuYXIoZGF0YXAsIGludGVyYWN0aXZpdHk9RmFsc2UsIHNlZWRzPXNlZWRzKQoKICAgICAgICBzb25kYTEgPSBkYXRhcFsnc2VnbWVudGF0aW9uJ11bMTEsIDUsIDRdCiAgICAgICAgc29uZGEyID0gZGF0YXBbJ3NlZ21lbnRhdGlvbiddWzIyLCAyMiwgMTRdCgogICAgICAgIGxpdmVyX2xhYmVscyA9IFtkYXRhcFsnc2xhYiddWydsaXZlciddLCBkYXRhcFsnc2xhYiddWydyZXNlY3RlZF9saXZlciddXQogICAgICAgIHNlbGYuYXNzZXJ0SW4oc29uZGExLCBsaXZlcl9sYWJlbHMpCiAgICAgICAgc2VsZi5hc3NlcnRJbihzb25kYTIsIGxpdmVyX2xhYmVscykKICAgICAgICBzZWxmLmFzc2VydE5vdEVxdWFsKHNvbmRhMSwgc29uZGEyKQo=</text>
+        <text encoding="base64">ICAgIHNlZWRzWzE5OjIyLCAyMToyNywgMTk6MjFdID0gMgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIDpwYXJhbSBuYW1lOiB1c2VkIGZvciBmb3IK</text>
