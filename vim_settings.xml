@@ -34,11 +34,11 @@
         <mark key="^" line="31" column="21" />
         <mark key="." line="31" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/tests/resection_test.py" timestamp="1465918739879">
-        <mark key="[" line="36" column="36" />
-        <mark key="]" line="38" column="37" />
-        <mark key="^" line="38" column="37" />
-        <mark key="." line="38" column="37" />
+      <file name="$USER_HOME$/projects/lisa/tests/resection_test.py" timestamp="1483536251673">
+        <mark key="[" line="70" column="49" />
+        <mark key="]" line="70" column="64" />
+        <mark key="^" line="70" column="64" />
+        <mark key="." line="70" column="64" />
       </file>
       <file name="$USER_HOME$/projects/imtools/imtools/uiThreshold.py" timestamp="1481556852722">
         <mark key="[" line="476" column="51" />
@@ -399,11 +399,11 @@
         <mark key="^" line="19" column="22" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/virtual_resection.py" timestamp="1483531292594">
-        <mark key="'" line="253" column="20" />
-        <mark key="[" line="184" column="7" />
-        <mark key="]" line="184" column="7" />
-        <mark key="." line="184" column="7" />
-        <mark key="^" line="184" column="12" />
+        <mark key="'" line="254" column="20" />
+        <mark key="[" line="185" column="7" />
+        <mark key="]" line="185" column="7" />
+        <mark key="." line="185" column="7" />
+        <mark key="^" line="185" column="12" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/data.py" timestamp="1448552139365">
         <mark key="[" line="27" column="46" />
@@ -792,7 +792,7 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1483490397726">
+      <file name="/Dummy.txt" timestamp="1483536072388">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1805,16 +1805,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>sdfadf</text>
+        <text>planar</text>
       </register>
       <register name="-" type="4">
-        <text>sdfadf</text>
+        <text>planar</text>
       </register>
       <register name="/" type="4">
         <text>round</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmIGludGVyYWN0aXZpdHk6CiAgICAgICAgcHJpbnQgKCJTZWxlY3QgY3V0IikKICAgICAgICBzZWVkcyA9IGN1dF9lZGl0b3Jfb2xkKGRhdGEpCiAgICBlbGlmIHNlZWRzIGlzIE5vbmU6CiAgICAgICAgbG9nZ2VyLmVycm9yKCdzZWVkcyBpcyBOb25lIGFuZCBpbnRlcmFjdGl2aXR5IGlzIEZhbHNlJykKICAgICAgICByZXR1cm4gTm9uZQoKICAgICMgc2VlZHNbNTZdWzYwXVs3OF0gPSAxCiAgICBsYWIsIGN1dCA9IHNwbGl0X3Zlc3NlbChkYXRhLCBzZWVkcykKICAgIHNlZ20sIGRpc3QxLCBkaXN0MiA9IHNwbGl0X29yZ2FuX2J5X3R3b192ZXNzZWxzKGRhdGEsIGxhYikKIyBUT0RPIHNwbGl0IHRoaXMgZnVuY3Rpb24gZnJvbSB2aXN1YWxpemF0aW9uCiAgICBkYXRhID0gdmlydHVhbF9yZXNlY3Rpb25fdmlzdWFsaXphdGlvbihkYXRhLCBzZWdtLCBkaXN0MSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRpc3QyLCBjdXQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpbnRlcmFjdGl2aXR5PWludGVyYWN0aXZpdHkpCiAgICByZXR1cm4gZGF0YQo=</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X3BsYW5hcl9yZXNlY3Rpb24oc2VsZik6CiAgICAgICAgIiIiCiAgICAgICAgQ2hlY2sgcGxhbmFyIHZpcnR1YWwgcmVzZWN0aW9uCiAgICAgICAgOnJldHVybjoKICAgICAgICAiIiIKICAgICAgICBzaGFwZSA9IFs0MCwgNDEsIDQyXQogICAgICAgIGZyb20gbGlzYS5kYXRhc2V0IGltcG9ydCBnZW5lcmF0ZV9zYW1wbGVfZGF0YQogICAgICAgIGRhdGFwID0gZ2VuZXJhdGVfc2FtcGxlX2RhdGEoKQogICAgICAgIHNlZWRzID0gbnAuemVyb3Moc2hhcGUpCiAgICAgICAgaW5kcyA9IG5wLmFzYXJyYXkoW1sxMCwgNSwgMjAsIDIyXSwgWzIwLCA4LCAxMCwgMTJdLCBbNSwgMTAsIDIwLCAxOV1dKQogICAgICAgIHNlZWRzIFtpbmRzWzBdLCBpbmRzWzFdLCBpbmRzWzJdXSA9IDEKCiAgICAgICAgZGF0YXAgPSBsaXNhLnZpcnR1YWxfcmVzZWN0aW9uLnJlc2VjdGlvbl9wbGFuYXIoZGF0YXAsIGludGVyYWN0aXZpdHk9RmFsc2UsIHNlZWRzPXNlZWRzKQoKICAgICAgICBzb25kYTEgPSBkYXRhcFsnc2VnbWVudGF0aW9uJ11bMTEsIDUsIDRdCiAgICAgICAgc29uZGEyID0gZGF0YXBbJ3NlZ21lbnRhdGlvbiddWzIyLCAyMiwgMTRdCgogICAgICAgIGxpdmVyX2xhYmVscyA9IFtkYXRhcFsnc2xhYiddWydsaXZlciddLCBkYXRhcFsnc2xhYiddWydyZXNlY3RlZF9saXZlciddXQogICAgICAgIHNlbGYuYXNzZXJ0SW4oc29uZGExLCBsaXZlcl9sYWJlbHMpCiAgICAgICAgc2VsZi5hc3NlcnRJbihzb25kYTIsIGxpdmVyX2xhYmVscykKICAgICAgICBzZWxmLmFzc2VydE5vdEVxdWFsKHNvbmRhMSwgc29uZGEyKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIDpwYXJhbSBuYW1lOiB1c2VkIGZvciBmb3IK</text>
