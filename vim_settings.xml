@@ -469,8 +469,8 @@
         <mark key="^" line="148" column="40" />
         <mark key="." line="148" column="40" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/tree.py" timestamp="1483567290970">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/projects/teigen/teigen/tree.py" timestamp="1483567749708">
+        <mark key="'" line="222" column="25" />
         <mark key="[" line="173" column="47" />
         <mark key="]" line="173" column="63" />
         <mark key="." line="173" column="63" />
@@ -686,12 +686,13 @@
         <mark key="^" line="12" column="34" />
         <mark key="." line="12" column="34" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/tb_volume.py" timestamp="1481072082848">
-        <mark key="'" line="175" column="0" />
-        <mark key="[" line="155" column="0" />
-        <mark key="]" line="176" column="35" />
-        <mark key="^" line="43" column="48" />
-        <mark key="." line="43" column="48" />
+      <file name="$USER_HOME$/projects/teigen/teigen/tb_volume.py" timestamp="1483568464861">
+        <mark key="a" line="86" column="16" />
+        <mark key="'" line="182" column="0" />
+        <mark key="[" line="93" column="0" />
+        <mark key="]" line="93" column="0" />
+        <mark key="^" line="92" column="49" />
+        <mark key="." line="93" column="0" />
       </file>
       <file name="$USER_HOME$/projects/io3d/tests/dcmreaddata_test.py" timestamp="1475919704583">
         <mark key="'" line="0" column="0" />
@@ -1494,8 +1495,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1201" column="27" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
-      <jump line="161" column="0" filename="$USER_HOME$/projects/teigen/teigen/generators/cylindersqt.py" />
       <jump line="226" column="4" filename="$USER_HOME$/projects/teigen/teigen/generators/cylindersqt.py" />
       <jump line="159" column="28" filename="$USER_HOME$/projects/teigen/tests/tube_tree_test.py" />
       <jump line="238" column="13" filename="$USER_HOME$/projects/imtools/imtools/show_segmentation_qt.py" />
@@ -1594,49 +1593,51 @@
       <jump line="116" column="60" filename="$USER_HOME$/projects/ndnoise/ndnoise/filtration.py" />
       <jump line="9" column="11" filename="$USER_HOME$/projects/ndnoise/ndnoise/filtration.py" />
       <jump line="122" column="27" filename="$USER_HOME$/projects/ndnoise/tests/filter_test.py" />
+      <jump line="173" column="63" filename="$USER_HOME$/projects/teigen/teigen/tree.py" />
+      <jump line="222" column="25" filename="$USER_HOME$/projects/teigen/teigen/tree.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>h</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>h</text>
+        <text>False</text>
       </register>
       <register name="/" type="4">
         <text>round</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X3BvcnRhbF92ZWluX25ld19yZXNlY3Rpb24oc2VsZik6CiAgICAgICAgIiIiCiAgICAgICAgQ2hlY2sgcGxhbmFyIHZpcnR1YWwgcmVzZWN0aW9uCiAgICAgICAgOnJldHVybjoKICAgICAgICAiIiIKICAgICAgICBzaGFwZSA9IFs0MCwgNDEsIDQyXQogICAgICAgIGZyb20gbGlzYS5kYXRhc2V0IGltcG9ydCBnZW5lcmF0ZV9zYW1wbGVfZGF0YQogICAgICAgIGRhdGFwID0gZ2VuZXJhdGVfc2FtcGxlX2RhdGEoc2hhcGU9c2hhcGUpCiAgICAgICAgc2VlZHMgPSBucC56ZXJvcyhzaGFwZSkKICAgICAgICAjIHBvaW50cyBpbiBwb3J0YWwgdmVpbiB3aGVyZSBjdXQgd2lsbCBiZSBwZXJmb3JtZWQKICAgICAgICBpbmRzID0gbnAuYXNhcnJheShbWzE1LCAxNV0sIFsxNSwgMTVdLCBbOCwgOV1dKQogICAgICAgIHNlZWRzIFtpbmRzWzBdLCBpbmRzWzFdLCBpbmRzWzJdXSA9IDEKCiAgICAgICAgZGF0YXAgPSBsaXNhLnZpcnR1YWxfcmVzZWN0aW9uLnJlc2VjdGlvbl9wb3J0YWxfdmVpbl9uZXcoZGF0YXAsIGludGVyYWN0aXZpdHk9RmFsc2UsIHNlZWRzPXNlZWRzKQoKICAgICAgICBzb25kYTEgPSBkYXRhcFsnc2VnbWVudGF0aW9uJ11bMTEsIDUsIDRdCiAgICAgICAgc29uZGEyID0gZGF0YXBbJ3NlZ21lbnRhdGlvbiddWzIyLCAyMiwgMTRdCgogICAgICAgIGxpdmVyX2xhYmVscyA9IFtkYXRhcFsnc2xhYiddWydsaXZlciddLCBkYXRhcFsnc2xhYiddWydyZXNlY3RlZF9saXZlciddXQogICAgICAgIHNlbGYuYXNzZXJ0SW4oc29uZGExLCBsaXZlcl9sYWJlbHMpCiAgICAgICAgc2VsZi5hc3NlcnRJbihzb25kYTIsIGxpdmVyX2xhYmVscykKICAgICAgICBzZWxmLmFzc2VydE5vdEVxdWFsKHNvbmRhMSwgc29uZGEyKQogICAgICAgICMgaW1wb3J0IHNlZDMKICAgICAgICAjIGVkID0gc2VkMy5zZWQzKGRhdGFwWydzZWdtZW50YXRpb24nXSkKICAgICAgICAjIGVkLnNob3coKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci53YXJuaW5nKCJjeWxpbmRlciBkcmF3aW5nIHByb2JsZW0iKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIGluZHMgPSBucC5hc2FycmF5KFtbMTAsIDUsIDIwLCAyMl0sIFsyMCwgOCwgMTAsIDEyXSwgWzUsIDEwLCAyMCwgMTldXSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
+      <register name="2" type="4">
+        <text>False</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">RHJhd2luZyA=</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">LiA=</text>
+      </register>
+      <register name="5" type="4">
+        <text>problem</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ICJleGNlcHQgaW4gZHJhd2luZyBsaW5lIgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAjIGluZHMgPSBucC5hc2FycmF5KFtbMTAsIDUsIDIwLCAyMl0sIFsyMCwgOCwgMTAsIDEyXSwgWzUsIDEwLCAyMCwgMTldXSkK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBucC56ZXJvCg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIDpwYXJhbSBuYW1lOiB1c2VkIGZvciBmb3IK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ZGVmIHJlc2VjdGlvbihkYXRhLCBuYW1lPU5vbmUsIG1ldGhvZD0nUFYnLAogICAgICAgICAgICAgIGludGVyYWN0aXZpdHk9VHJ1ZSwgc2VlZHM9Tm9uZSk6CiAgICBpZiBtZXRob2QgaXMgJ1BWJzoKICAgICAgICByZXR1cm4gcmVzZWN0aW9uX29sZChkYXRhLCBpbnRlcmFjdGl2aXR5PWludGVyYWN0aXZpdHksIHNlZWRzPXNlZWRzKQogICAgZWxpZiBtZXRob2QgaXMgJ3BsYW5hcic6CiAgICAgICAgcmV0dXJuIHJlc2VjdGlvbl9wbGFuYXIoZGF0YSwgaW50ZXJhY3Rpdml0eT1pbnRlcmFjdGl2aXR5LCBzZWVkcz1zZWVkcykKICAgIGVsc2U6CiAgICAgICAgcmV0dXJuIHJlc2VjdGlvbl9uZXcoZGF0YSwgbmFtZSkKCgo=</text>
-      </register>
-      <register name="6" type="4">
-        <text>)</text>
-      </register>
-      <register name="7" type="4">
-        <text>spectrum</text>
-      </register>
-      <register name="8" type="4">
-        <text>(</text>
-      </register>
-      <register name="9" type="4">
-        <text>s</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1673,7 +1674,6 @@
         <entry>status</entry>
       </history-search>
       <history-cmd>
-        <entry>52</entry>
         <entry>81</entry>
         <entry>312</entry>
         <entry>885</entry>
@@ -1692,6 +1692,7 @@
         <entry>351</entry>
         <entry>e</entry>
         <entry>q</entry>
+        <entry>86</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
