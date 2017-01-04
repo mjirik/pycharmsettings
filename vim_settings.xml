@@ -524,6 +524,12 @@
         <mark key="." line="2" column="4" />
         <mark key="^" line="2" column="4" />
       </file>
+      <file name="$USER_HOME$/projects/ndnoise/tests/filtration_test.py" timestamp="1483486924483">
+        <mark key="[" line="148" column="34" />
+        <mark key="]" line="148" column="40" />
+        <mark key="^" line="148" column="40" />
+        <mark key="." line="148" column="40" />
+      </file>
       <file name="$USER_HOME$/projects/teigen/teigen/tree.py" timestamp="1480951019753">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="174" column="0" />
@@ -847,12 +853,12 @@
         <mark key="^" line="152" column="11" />
         <mark key="." line="152" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/ndnoise/tests/ndnoise_test.py" timestamp="1483486284854">
-        <mark key="'" line="150" column="19" />
-        <mark key="[" line="80" column="8" />
-        <mark key="]" line="80" column="9" />
-        <mark key="^" line="80" column="9" />
-        <mark key="." line="80" column="9" />
+      <file name="$USER_HOME$/projects/ndnoise/tests/ndnoise_test.py" timestamp="1483487553818">
+        <mark key="'" line="153" column="19" />
+        <mark key="[" line="101" column="26" />
+        <mark key="]" line="101" column="26" />
+        <mark key="^" line="101" column="26" />
+        <mark key="." line="101" column="26" />
       </file>
       <file name="$USER_HOME$/projects/teigen/tests/tube_tree_test.py" timestamp="1482152337637">
         <mark key="[" line="225" column="0" />
@@ -1042,13 +1048,13 @@
         <mark key="^" line="32" column="35" />
         <mark key="." line="32" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/ndnoise/ndnoise/filtration.py" timestamp="1483486652264">
+      <file name="$USER_HOME$/projects/ndnoise/ndnoise/filtration.py" timestamp="1483486971195">
         <mark key="a" line="117" column="60" />
         <mark key="'" line="9" column="11" />
-        <mark key="[" line="175" column="4" />
-        <mark key="]" line="175" column="3" />
-        <mark key="." line="175" column="3" />
-        <mark key="^" line="175" column="3" />
+        <mark key="[" line="176" column="5" />
+        <mark key="]" line="176" column="4" />
+        <mark key="." line="176" column="4" />
+        <mark key="^" line="176" column="4" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/loginWindow.py" timestamp="1463783581576">
         <mark key="[" line="48" column="0" />
@@ -1497,11 +1503,11 @@
         <mark key="^" line="3" column="8" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/ndnoise/ndnoise/generator.py" timestamp="1483482816498">
-        <mark key="[" line="29" column="17" />
-        <mark key="]" line="30" column="3" />
-        <mark key="." line="30" column="3" />
-        <mark key="^" line="30" column="3" />
+      <file name="$USER_HOME$/projects/ndnoise/ndnoise/generator.py" timestamp="1483487017293">
+        <mark key="[" line="67" column="39" />
+        <mark key="]" line="67" column="45" />
+        <mark key="." line="67" column="45" />
+        <mark key="^" line="67" column="45" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/training.py" timestamp="1453117814988">
         <mark key="'" line="38" column="8" />
@@ -1789,47 +1795,47 @@
       <jump line="122" column="27" filename="$USER_HOME$/projects/ndnoise/tests/filter_test.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>dist_from_center</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwbHQuc3VicGxvdCgyMjMpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>dist_from_center</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>round</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRpc3QgPSBkaXN0X2Zyb21fY2VudGVyKHNwZWN0cnVtLnNoYXBlLCBheGlzX3NpemU9dm94ZWxzaXplKQo=</text>
+        <text encoding="base64">ICAgICAgICBwbHQuc3VicGxvdCgyMjMpCg==</text>
       </register>
       <register name="1" type="4">
-        <text>dist_from_center</text>
+        <text>)</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>filt</text>
+        <text>spectrum</text>
       </register>
       <register name="3" type="4">
-        <text>noise</text>
+        <text>(</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+        <text>s</text>
       </register>
       <register name="5" type="4">
-        <text>#</text>
+        <text>b</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+        <text>a</text>
       </register>
       <register name="7" type="4">
-        <text>#</text>
+        <text>.</text>
       </register>
       <register name="8" type="4">
-        <text>q</text>
+        <text>np</text>
       </register>
       <register name="9" type="4">
-        <text>e</text>
+        <text>3</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
