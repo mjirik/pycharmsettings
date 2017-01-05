@@ -470,10 +470,13 @@
         <mark key="." line="21" column="26" />
         <mark key="^" line="21" column="51" />
       </file>
-      <file name="$USER_HOME$/projects/ndnoise/ndnoise/filtration.py" timestamp="1483609655791">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/projects/ndnoise/ndnoise/filtration.py" timestamp="1483610144982">
+        <mark key="a" line="190" column="4" />
+        <mark key="b" line="86" column="16" />
+        <mark key="'" line="86" column="16" />
+        <mark key="[" line="194" column="0" />
+        <mark key="]" line="194" column="0" />
+        <mark key="." line="194" column="0" />
       </file>
       <file name="$USER_HOME$/projects/events2calendar/README.md" timestamp="1459100360089">
         <mark key="[" line="5" column="45" />
@@ -732,6 +735,12 @@
         <mark key="]" line="160" column="32" />
         <mark key="." line="160" column="32" />
         <mark key="^" line="160" column="35" />
+      </file>
+      <file name="$USER_HOME$/projects/ndnoise/tests/filtration_test.py" timestamp="1483610434011">
+        <mark key="[" line="242" column="61" />
+        <mark key="]" line="243" column="17" />
+        <mark key="^" line="243" column="17" />
+        <mark key="." line="243" column="17" />
       </file>
       <file name="$USER_HOME$/projects/imtools/imtools/sample_data.py" timestamp="1481885085471">
         <mark key="a" line="351" column="6" />
@@ -1579,11 +1588,11 @@
         <mark key="^" line="2" column="13" />
         <mark key="." line="2" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/ndnoise/tests/ndnoise_test.py" timestamp="1483609698383">
-        <mark key="[" line="19" column="38" />
-        <mark key="]" line="19" column="60" />
+      <file name="$USER_HOME$/projects/ndnoise/tests/ndnoise_test.py" timestamp="1483610393303">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
         <mark key="^" line="19" column="60" />
-        <mark key="." line="19" column="60" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/projects/skelet3d/examples/example02.py" timestamp="1465398838088">
         <mark key="'" line="17" column="9" />
@@ -1680,7 +1689,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="499" column="37" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="447" column="28" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="1201" column="27" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="161" column="0" filename="$USER_HOME$/projects/teigen/teigen/generators/cylindersqt.py" />
@@ -1780,64 +1788,64 @@
       <jump line="107" column="17" filename="$USER_HOME$/projects/imtools/tests/widgets_test.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/ndnoise/ndnoise/butternd.py" />
       <jump line="62" column="17" filename="$USER_HOME$/projects/ndnoise/ndnoise/generator.py" />
+      <jump line="86" column="16" filename="$USER_HOME$/projects/ndnoise/ndnoise/filtration.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHNjaXB5LnNpZ25hbAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>lfilter</text>
+        <text>ideal_fft_mask</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxuYW1lXD4=</text>
+        <text>spectrum_fi</text>
       </register>
-      <register name="0" type="4">
-        <text>scipy.signal.</text>
+      <register name="0" type="2">
+        <text encoding="base64">ZGVmIGxvcGFzc19pZGVhbF9mZnRfbWFzayhzaGFwZSwgcmFkaXVzLCBkaXN0PU5vbmUpOgogICAgIyBpZiBkaXN0IGlzIE5vbmU6CiAgICAjICAgICBkaXN0ID0gY29uc3RydWN0X2ZpbHRlcl9kaXN0KHNoYXBlKQogICAgb3V0cHV0ID0gZGlzdCA8PSByYWRpdXMKICAgIHJldHVybiBvdXRwdXQKCmRlZiBoaXBhc3NfaWRlYWxfZmZ0X21hc2soc2hhcGUsIHJhZGl1cywgZGlzdD1Ob25lKToKICAgICMgaWYgZGlzdCBpcyBOb25lOgogICAgIyAgICAgZGlzdCA9IGNvbnN0cnVjdF9maWx0ZXJfZGlzdChzaGFwZSkKICAgIG91dHB1dCA9IGRpc3QgPiByYWRpdXMKICAgIHJldHVybiBvdXRwdXQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHNjaXB5LnNpZ25hbAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHNjaXB5LnNpZ25hbAo=</text>
+        <text encoding="base64">CgogICAgZGVmIHRlc3RfbGVuYV9maWx0ZXIoc2VsZik6CiAgICAgICAgaW1wb3J0IHNjaXB5Lm1pc2MKICAgICAgICBsZW5hID0gc2NpcHkubWlzYy5hc2NlbnQoKQogICAgICAgIHNwZWN0cnVtID0gbnAuZmZ0LmZmdG4obGVuYSkKCiAgICAgICAgc3BlY3RydW0gPSBuZG5vaXNlLmdlbmVyYXRvci5nZW5lcmF0ZV9zcGVjdHJ1bV9zZWVkKFsxMDAsIDEwMF0pCgogICAgICAgIG91dCA9IG5kbm9pc2UuZmlsdHJhdGlvbi5zcGVjdHJ1bV9maWx0cmF0aW9uKAogICAgICAgICAgICBzcGVjdHJ1bSwKICAgICAgICAgICAgZnJlcV9zdGFydD0wLAogICAgICAgICAgICBmcmVxX3JhbmdlPTEwLAogICAgICAgICAgICBleHBvbmVudD0tMS41CiAgICAgICAgKQogICAgICAgIHNpZ25hbCwgZmlsdGVyLCBzcGVjdHJ1bSwgZnJlcXMgPSBvdXQKCiAgICAgICAgIyBuZG5vaXNlLnNob3coc2lnbmFsLCBmaWx0ZXIsIHNwZWN0cnVtLCBsb2dfdmlldz1UcnVlKQogICAgICAgICMgc2VsZi5hc3NlcnRFcXVhbChUcnVlLCBGYWxzZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBUT0RPIHZveGVsc2l6ZSBkZXBlbmRlbmN5Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGVmIGJ1dHRlcihOLCBXbiwgYnR5cGU9ImxvdyIsIGFuYWxvZz0pCg==</text>
+        <text encoding="base64">aW1wb3J0IHNjaXB5LnNpZ25hbAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBzY2lweS5zaWduYWwgaW1wb3J0IGJ1dHRlciwgbGZpbHRlciwgZnJlcXoK</text>
+        <text encoding="base64">aW1wb3J0IHNjaXB5LnNpZ25hbAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgPC9lZGl0b3ItZm9sZD4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgPGVkaXRvci1mb2xkIGRlc2M9ImRmIj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmIGJ1dHRlcihOLCBXbiwgYnR5cGU9ImxvdyIsIGFuYWxvZz0pCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxuYW1lXD4=</last-search>
+      <last-search>spectrum_fi</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxuYW1lXD4=</last-pattern>
+      <last-pattern>spectrum_fi</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfc3BsaXR0ZXJcPg==</entry>
         <entry encoding="base64">XDxyZWdpc3RlclBhcmFtZXRlclR5cGVcPg==</entry>
         <entry encoding="base64">XDx0YWJzXD4=</entry>
         <entry encoding="base64">XDxpdGVtXD4=</entry>
@@ -1857,6 +1865,7 @@
         <entry>self.version</entry>
         <entry encoding="base64">XDxUZWlnZW5XaWRnZXRcPg==</entry>
         <entry>status</entry>
+        <entry>spectrum_fi</entry>
       </history-search>
       <history-cmd>
         <entry>52</entry>
