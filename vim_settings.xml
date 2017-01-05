@@ -470,13 +470,14 @@
         <mark key="." line="21" column="26" />
         <mark key="^" line="21" column="51" />
       </file>
-      <file name="$USER_HOME$/projects/ndnoise/ndnoise/filtration.py" timestamp="1483610144982">
+      <file name="$USER_HOME$/projects/ndnoise/ndnoise/filtration.py" timestamp="1483613278382">
         <mark key="a" line="190" column="4" />
         <mark key="b" line="86" column="16" />
         <mark key="'" line="86" column="16" />
-        <mark key="[" line="194" column="0" />
-        <mark key="]" line="194" column="0" />
-        <mark key="." line="194" column="0" />
+        <mark key="[" line="205" column="42" />
+        <mark key="]" line="205" column="42" />
+        <mark key="." line="205" column="42" />
+        <mark key="^" line="202" column="9" />
       </file>
       <file name="$USER_HOME$/projects/events2calendar/README.md" timestamp="1459100360089">
         <mark key="[" line="5" column="45" />
@@ -736,11 +737,11 @@
         <mark key="." line="160" column="32" />
         <mark key="^" line="160" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/ndnoise/tests/filtration_test.py" timestamp="1483610434011">
-        <mark key="[" line="242" column="61" />
-        <mark key="]" line="243" column="17" />
-        <mark key="^" line="243" column="17" />
-        <mark key="." line="243" column="17" />
+      <file name="$USER_HOME$/projects/ndnoise/tests/filtration_test.py" timestamp="1483613070072">
+        <mark key="[" line="237" column="26" />
+        <mark key="]" line="237" column="24" />
+        <mark key="^" line="237" column="24" />
+        <mark key="." line="237" column="24" />
       </file>
       <file name="$USER_HOME$/projects/imtools/imtools/sample_data.py" timestamp="1481885085471">
         <mark key="a" line="351" column="6" />
@@ -783,7 +784,7 @@
         <mark key="^" line="178" column="21" />
         <mark key="." line="178" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1483608483862">
+      <file name="/Dummy.txt" timestamp="1483612955092">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -839,10 +840,12 @@
         <mark key="." line="37" column="10" />
         <mark key="^" line="37" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/ndnoise/ndnoise/generator.py" timestamp="1483607178808">
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="0" />
-        <mark key="." line="91" column="0" />
+      <file name="$USER_HOME$/projects/ndnoise/ndnoise/generator.py" timestamp="1483613477718">
+        <mark key="'" line="39" column="0" />
+        <mark key="[" line="89" column="4" />
+        <mark key="]" line="89" column="8" />
+        <mark key="." line="89" column="8" />
+        <mark key="^" line="89" column="8" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/organ_model.py" timestamp="1477324015000">
         <mark key="'" line="26" column="7" />
@@ -1689,7 +1692,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="447" column="28" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="1201" column="27" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="161" column="0" filename="$USER_HOME$/projects/teigen/teigen/generators/cylindersqt.py" />
       <jump line="226" column="4" filename="$USER_HOME$/projects/teigen/teigen/generators/cylindersqt.py" />
@@ -1789,19 +1791,20 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/ndnoise/ndnoise/butternd.py" />
       <jump line="62" column="17" filename="$USER_HOME$/projects/ndnoise/ndnoise/generator.py" />
       <jump line="86" column="16" filename="$USER_HOME$/projects/ndnoise/ndnoise/filtration.py" />
+      <jump line="39" column="0" filename="$USER_HOME$/projects/ndnoise/ndnoise/generator.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ZmlsdGVyZWQg</text>
       </register>
       <register name="-" type="4">
-        <text>ideal_fft_mask</text>
+        <text encoding="base64">ZmlsdGVyZWQg</text>
       </register>
       <register name="/" type="4">
         <text>spectrum_fi</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGVmIGxvcGFzc19pZGVhbF9mZnRfbWFzayhzaGFwZSwgcmFkaXVzLCBkaXN0PU5vbmUpOgogICAgIyBpZiBkaXN0IGlzIE5vbmU6CiAgICAjICAgICBkaXN0ID0gY29uc3RydWN0X2ZpbHRlcl9kaXN0KHNoYXBlKQogICAgb3V0cHV0ID0gZGlzdCA8PSByYWRpdXMKICAgIHJldHVybiBvdXRwdXQKCmRlZiBoaXBhc3NfaWRlYWxfZmZ0X21hc2soc2hhcGUsIHJhZGl1cywgZGlzdD1Ob25lKToKICAgICMgaWYgZGlzdCBpcyBOb25lOgogICAgIyAgICAgZGlzdCA9IGNvbnN0cnVjdF9maWx0ZXJfZGlzdChzaGFwZSkKICAgIG91dHB1dCA9IGRpc3QgPiByYWRpdXMKICAgIHJldHVybiBvdXRwdXQK</text>
+        <text encoding="base64">ICAgIGF4LnNldF90aXRsZSgic2lnbmFsIikK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
