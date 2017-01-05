@@ -527,11 +527,12 @@
         <mark key="." line="2" column="4" />
         <mark key="^" line="2" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/ndnoise/tests/filtration_test.py" timestamp="1483633535335">
-        <mark key="'" line="279" column="15" />
-        <mark key="]" line="277" column="90" />
-        <mark key="." line="277" column="90" />
-        <mark key="^" line="277" column="90" />
+      <file name="$USER_HOME$/projects/ndnoise/tests/filtration_test.py" timestamp="1483633676235">
+        <mark key="'" line="17" column="26" />
+        <mark key="[" line="264" column="20" />
+        <mark key="]" line="264" column="29" />
+        <mark key="." line="264" column="29" />
+        <mark key="^" line="264" column="29" />
       </file>
       <file name="$USER_HOME$/projects/teigen/teigen/tree.py" timestamp="1480951019753">
         <mark key="'" line="0" column="0" />
@@ -733,11 +734,6 @@
         <mark key="]" line="44" column="52" />
         <mark key="^" line="44" column="52" />
         <mark key="." line="44" column="52" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1483627469197">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/imtools/imtools/sample_data.py" timestamp="1481885085471">
         <mark key="a" line="351" column="6" />
@@ -1706,7 +1702,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="161" column="0" filename="$USER_HOME$/projects/teigen/teigen/generators/cylindersqt.py" />
       <jump line="226" column="4" filename="$USER_HOME$/projects/teigen/teigen/generators/cylindersqt.py" />
       <jump line="159" column="28" filename="$USER_HOME$/projects/teigen/tests/tube_tree_test.py" />
       <jump line="238" column="13" filename="$USER_HOME$/projects/imtools/imtools/show_segmentation_qt.py" />
@@ -1806,13 +1801,14 @@
       <jump line="86" column="16" filename="$USER_HOME$/projects/ndnoise/ndnoise/filtration.py" />
       <jump line="39" column="0" filename="$USER_HOME$/projects/ndnoise/ndnoise/generator.py" />
       <jump line="274" column="15" filename="$USER_HOME$/projects/ndnoise/tests/filtration_test.py" />
+      <jump line="17" column="26" filename="$USER_HOME$/projects/ndnoise/tests/filtration_test.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>skipping</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>skipping</text>
       </register>
       <register name="/" type="4">
         <text>spectrum_fi</text>
@@ -1821,25 +1817,25 @@
         <text encoding="base64">ICAgIG55cSA9IDAuNSAqIGZzCiAgICBsb3cgPSBsb3djdXQgLyBueXEKICAgIGhpZ2ggPSBoaWdoY3V0IC8gbnlxCg==</text>
       </register>
       <register name="1" type="4">
-        <text>0</text>
+        <text>skipping</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
+        <text encoding="base64">ZGVtb25zdHJhdGluZyA=</text>
+      </register>
+      <register name="3" type="4">
         <text>0</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="4">
+        <text>0</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAjIG9yZGVyID0gMgo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBueXEgPSAwLjUgKiBmcwogICAgICAgIGxvdyA9IGxvd2N1dCAvIG55cQogICAgICAgIGhpZ2ggPSBoaWdoY3V0IC8gbnlxCg==</text>
-      </register>
-      <register name="5" type="4">
-        <text>.</text>
-      </register>
-      <register name="6" type="4">
-        <text>ndnoise</text>
       </register>
       <register name="7" type="4">
         <text>.</text>
