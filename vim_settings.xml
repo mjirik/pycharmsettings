@@ -740,12 +740,12 @@
         <mark key="." line="160" column="32" />
         <mark key="^" line="160" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/ndnoise/tests/filtration_test.py" timestamp="1484046235401">
+      <file name="$USER_HOME$/projects/ndnoise/tests/filtration_test.py" timestamp="1484049668637">
         <mark key="'" line="17" column="26" />
-        <mark key="[" line="286" column="0" />
-        <mark key="]" line="286" column="0" />
-        <mark key="." line="286" column="0" />
-        <mark key="^" line="285" column="16" />
+        <mark key="[" line="296" column="49" />
+        <mark key="]" line="296" column="60" />
+        <mark key="." line="296" column="60" />
+        <mark key="^" line="296" column="60" />
       </file>
       <file name="$USER_HOME$/projects/imtools/imtools/sample_data.py" timestamp="1481885085471">
         <mark key="a" line="351" column="6" />
@@ -1140,7 +1140,7 @@
         <mark key="." line="89" column="0" />
         <mark key="^" line="120" column="24" />
       </file>
-      <file name="/Python Console" timestamp="1483697966464">
+      <file name="/Python Console" timestamp="1484049526851">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -1813,7 +1813,7 @@
         <text encoding="base64">ICAgICAgICB3LCBoID0gcmVzcG9uc2UgPSBzY2lweS5zaWduYWwuZnJlcXMoYSwgYiwgd29yTj13b3JOKQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>[100, 150]</text>
       </register>
       <register name="/" type="4">
         <text>spectrum_fi</text>
@@ -1822,34 +1822,34 @@
         <text encoding="base64">ICAgICAgICB3LCBoID0gcmVzcG9uc2UgPSBzY2lweS5zaWduYWwuZnJlcXMoYSwgYiwgd29yTj13b3JOKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB3LCBoID0gcmVzcG9uc2UgPSBzY2lweS5zaWduYWwuZnJlcXMoYSwgYiwgd29yTj13b3JOKQo=</text>
+        <text encoding="base64">ICAgICAgICBsb3djdXQgPSAwCiAgICAgICAgaGlnaGN1dCA9IDEwCiAgICAgICAgbnlxID0gMC41ICogZnMKICAgICAgICBsb3cgPSBsb3djdXQgLyBueXEKICAgICAgICBoaWdoID0gaGlnaGN1dCAvIG55cQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICB3LCBoID0gcmVzcG9uc2UgPSBzY2lweS5zaWduYWwuZnJlcXMoYSwgYiwgd29yTj13b3JOKQo=</text>
       </register>
       <register name="3" type="4">
-        <text>#</text>
-      </register>
-      <register name="4" type="4">
         <text encoding="base64">IA==</text>
       </register>
+      <register name="4" type="4">
+        <text>#</text>
+      </register>
       <register name="5" type="4">
-        <text encoding="base64">c2hhcGUg</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="6" type="4">
-        <text>.</text>
+        <text encoding="base64">c2hhcGUg</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">ZGltICA=</text>
+        <text>.</text>
       </register>
       <register name="8" type="4">
-        <text>skipping</text>
+        <text encoding="base64">ZGltICA=</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">ZGVtb25zdHJhdGluZyA=</text>
+        <text>skipping</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
