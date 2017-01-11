@@ -473,7 +473,7 @@
         <mark key="." line="21" column="26" />
         <mark key="^" line="21" column="51" />
       </file>
-      <file name="$USER_HOME$/projects/ndnoise/ndnoise/filtration.py" timestamp="1484133185090">
+      <file name="$USER_HOME$/projects/ndnoise/ndnoise/filtration.py" timestamp="1484142466896">
         <mark key="a" line="203" column="4" />
         <mark key="'" line="191" column="17" />
         <mark key="[" line="231" column="16" />
@@ -739,12 +739,12 @@
         <mark key="." line="160" column="32" />
         <mark key="^" line="160" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/ndnoise/tests/filtration_test.py" timestamp="1484128100336">
+      <file name="$USER_HOME$/projects/ndnoise/tests/filtration_test.py" timestamp="1484142585418">
         <mark key="'" line="17" column="26" />
-        <mark key="[" line="262" column="0" />
-        <mark key="]" line="262" column="35" />
-        <mark key="." line="262" column="0" />
-        <mark key="^" line="262" column="58" />
+        <mark key="[" line="246" column="35" />
+        <mark key="]" line="247" column="7" />
+        <mark key="." line="247" column="7" />
+        <mark key="^" line="247" column="7" />
       </file>
       <file name="$USER_HOME$/projects/imtools/imtools/sample_data.py" timestamp="1481885085471">
         <mark key="a" line="351" column="6" />
@@ -5885,47 +5885,47 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwbHQuZmlndXJlKGZpZ3NpemU9KDIwLDEwKSkK</text>
+      <register name="&quot;" type="4">
+        <text>lena_filter_butter</text>
       </register>
       <register name="-" type="4">
-        <text>ax</text>
+        <text>lena_filter_butter</text>
       </register>
       <register name="/" type="4">
         <text>spectrum_fi</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGF4ID0gcGx0LnN1YnBsb3QoMzMyKQogICAgcGx0Lmltc2hvdyhucC5hYnMobnAuZmZ0LmZmdHNoaWZ0KGZpbHRlcikpKQogICAgcGx0LmNvbG9yYmFyKCkKICAgIGF4LnNldF90aXRsZSgiZmlsdGVyIikK</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X2xlbmFfZmlsdGVyX2J1dHRlcihzZWxmKToK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwbHQuZmlndXJlKGZpZ3NpemU9KDIwLDEwKSkK</text>
+        <text encoding="base64">ICAgIGRlZgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIGZyZXFfc3RhcnQgPD0gMDoKICAgICAgICBmcmVxX3N0YXJ0ID0gTm9uZQoK</text>
+        <text encoding="base64">ICAgICAgICBwbHQuZmlndXJlKGZpZ3NpemU9KDIwLDEwKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
+        <text encoding="base64">ICAgIGlmIGZyZXFfc3RhcnQgPD0gMDoKICAgICAgICBmcmVxX3N0YXJ0ID0gTm9uZQoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmaWx0ID0gbnAuemVyb3Moc3BlY3RydW0uc2hhcGUpCg==</text>
+        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgaWYgZGlzdCBpcyBOb25lOgogICAgIyAgICAgZGlzdCA9IGNvbnN0cnVjdF9maWx0ZXJfZGlzdChzaGFwZSkKICAgIG91dHB1dCA9IGRpc3QgPiBmYwogICAgcmV0dXJuIG91dHB1dAo=</text>
+        <text encoding="base64">ICAgICAgICBmaWx0ID0gbnAuemVyb3Moc3BlY3RydW0uc2hhcGUpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgaGlnaF9kaWdpdGFsID0gMC41ICogaGlnaGN1dCAvIChueXEgKiBucC5waSkK</text>
+        <text encoding="base64">ICAgICMgaWYgZGlzdCBpcyBOb25lOgogICAgIyAgICAgZGlzdCA9IGNvbnN0cnVjdF9maWx0ZXJfZGlzdChzaGFwZSkKICAgIG91dHB1dCA9IGRpc3QgPiBmYwogICAgcmV0dXJuIG91dHB1dAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgICAgIGRpc3QgPSBjb25zdHJ1Y3RfZmlsdGVyX2Rpc3Qoc2hhcGUpCg==</text>
+        <text encoding="base64">ICAgICMgaGlnaF9kaWdpdGFsID0gMC41ICogaGlnaGN1dCAvIChueXEgKiBucC5waSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgaWYgZGlzdCBpcyBOb25lOgo=</text>
+        <text encoding="base64">ICAgICMgICAgIGRpc3QgPSBjb25zdHJ1Y3RfZmlsdGVyX2Rpc3Qoc2hhcGUpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgaWYgZGlzdCBpcyBOb25lOgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
