@@ -111,11 +111,11 @@
         <mark key="." line="221" column="21" />
         <mark key="^" line="221" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/tests/teigen_test.py" timestamp="1484180672811">
-        <mark key="[" line="7" column="36" />
-        <mark key="]" line="8" column="12" />
-        <mark key="." line="8" column="12" />
-        <mark key="^" line="8" column="12" />
+      <file name="$USER_HOME$/projects/teigen/tests/teigen_test.py" timestamp="1484182168789">
+        <mark key="[" line="5" column="15" />
+        <mark key="]" line="6" column="9" />
+        <mark key="." line="6" column="9" />
+        <mark key="^" line="6" column="9" />
       </file>
       <file name="$USER_HOME$/projects/lisa/requirements_conda.txt" timestamp="1464092446357">
         <mark key="[" line="3" column="2" />
@@ -1081,11 +1081,11 @@
         <mark key="^" line="2" column="21" />
         <mark key="." line="2" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/generators/cylinders.py" timestamp="1482373586232">
+      <file name="$USER_HOME$/projects/teigen/teigen/generators/cylinders.py" timestamp="1484181615243">
         <mark key="a" line="246" column="19" />
         <mark key="'" line="253" column="40" />
-        <mark key="[" line="103" column="26" />
-        <mark key="]" line="104" column="36" />
+        <mark key="[" line="213" column="0" />
+        <mark key="]" line="223" column="44" />
         <mark key="^" line="104" column="36" />
         <mark key="." line="104" column="36" />
       </file>
@@ -1702,14 +1702,13 @@
         <mark key="^" line="13" column="3" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1484180393827">
-        <mark key="a" line="283" column="36" />
+      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1484182032449">
+        <mark key="a" line="417" column="27" />
         <mark key="b" line="248" column="36" />
         <mark key="'" line="57" column="23" />
-        <mark key="[" line="464" column="12" />
-        <mark key="]" line="464" column="12" />
-        <mark key="." line="464" column="19" />
-        <mark key="^" line="484" column="22" />
+        <mark key="[" line="426" column="38" />
+        <mark key="]" line="426" column="38" />
+        <mark key="." line="426" column="38" />
       </file>
     </filemarks>
     <jumps>
@@ -5892,48 +5891,48 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBub3NlLnBsdWdpbnMuYXR0cmliIGltcG9ydCBhdHRyCg==</text>
+      <register name="&quot;" type="4">
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>freq_</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>spectrum_fi</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBub3NlLnBsdWdpbnMuYXR0cmliIGltcG9ydCBhdHRyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZnJvbSAuLnRyZWUgaW1wb3J0IFRyZWVCdWlsZGVyCgogICAgICAgICAgICB0dmcgPSBUcmVlQnVpbGRlcigndnRrJykKICAgICAgICAgICAgIyB5YW1sX3BhdGggPSBvcy5wYXRoLmpvaW4ocGF0aF90b19zY3JpcHQsICIuL2hpc3Rfc3RhdHNfdGVzdC55YW1sIikKICAgICAgICAgICAgIyB0dmcuaW1wb3J0RnJvbVlhbWwoeWFtbF9wYXRoKQogICAgICAgICAgICB0dmcudm94ZWxzaXplX21tID0gc2VsZi52b3hlbHNpemVfbW0KICAgICAgICAgICAgdHZnLnNoYXBlID0gc2VsZi5hcmVhc2l6ZV9weAogICAgICAgICAgICB0dmcudHJlZV9kYXRhID0gdHJlZV9kYXRhCiAgICAgICAgICAgIG91dHB1dCA9IHR2Zy5idWlsZFRyZWUoKSAjIG5vcWEKICAgICAgICAgICAgIyB0dmcuc2hvdygpCiAgICAgICAgICAgIHR2Zy5zYXZlVG9GaWxlKCJ0cmVlX291dHB1dC52dGsiKQo=</text>
       </register>
       <register name="1" type="4">
-        <text>attr
-p</text>
+        <text>(</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X3NvbWV0aGluZyhzZWxmKToKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKFRydWUsIEZhbHNlKQo=</text>
+      <register name="2" type="4">
+        <text>TEMP_VTK_FILE</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIEBhdHRyKCdpbnRlcmFjdGl2ZScpCiAgICBkZWYgdGVzdF90ZWlnZW5faW50ZXJhY3RpdmUoc2VsZik6CiAgICAgICAgaW1wb3J0IFB5UXQ0CiAgICAgICAgZnJvbSBQeVF0NC5RdEd1aSBpbXBvcnQgUUFwcGxpY2F0aW9uLCBRRmlsZURpYWxvZwogICAgICAgICMgZnJvbSB0ZWlnZW4uZGljdHdpZGdldHF0IGltcG9ydCBEaWN0V2lkZ2V0CiAgICAgICAgaW1wb3J0IHRlaWdlbgogICAgICAgIGltcG9ydCB0ZWlnZW4uZ2VvbWV0cnkzZAogICAgICAgIGltcG9ydCB0ZWlnZW4uZ3VpCiAgICAgICAgYXBwID0gUUFwcGxpY2F0aW9uKHN5cy5hcmd2KQogICAgICAgIGN3ID0gdGVpZ2VuLmd1aS5UZWlnZW5XaWRnZXQoKQogICAgICAgIGN3LnNob3coKQogICAgICAgIGFwcC5leGVjXygpCgogICAgZGVmIHRlc3RfdGVpZ2VuKHNlbGYpOgogICAgICAgIGltcG9ydCBQeVF0NAogICAgICAgIGZyb20gUHlRdDQuUXRHdWkgaW1wb3J0IFFBcHBsaWNhdGlvbiwgUUZpbGVEaWFsb2cKICAgICAgICAjIGZyb20gdGVpZ2VuLmRpY3R3aWRnZXRxdCBpbXBvcnQgRGljdFdpZGdldAogICAgICAgIGltcG9ydCB0ZWlnZW4KICAgICAgICBpbXBvcnQgdGVpZ2VuLmdlb21ldHJ5M2QKICAgICAgICBpbXBvcnQgdGVpZ2VuLmd1aQogICAgICAgIGFwcCA9IFFBcHBsaWNhdGlvbihzeXMuYXJndikKICAgICAgICBjdyA9IHRlaWdlbi5ndWkuVGVpZ2VuV2lkZ2V0KCkKICAgICAgICBjdy5zaG93KCkKICAgICAgICBjdy5kZWxldGVMYXRlcigpCiAgICAgICAgYXBwLmRlbGV0ZUxhdGVyKCkK</text>
+      <register name="3" type="4">
+        <text>&quot;tree_output.vtk&quot;</text>
       </register>
       <register name="4" type="4">
-        <text>freq_</text>
+        <text>.</text>
       </register>
       <register name="5" type="4">
-        <text>freq_</text>
+        <text>.</text>
       </register>
-      <register name="6" type="4">
-        <text>freq_</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLm5lZWRfcnVuID0gRmFsc2UK</text>
       </register>
       <register name="7" type="4">
-        <text>freq_</text>
+        <text>attr
+p</text>
       </register>
-      <register name="8" type="4">
-        <text>freq_</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X3NvbWV0aGluZyhzZWxmKToKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKFRydWUsIEZhbHNlKQo=</text>
       </register>
-      <register name="9" type="4">
-        <text>freq_</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIEBhdHRyKCdpbnRlcmFjdGl2ZScpCiAgICBkZWYgdGVzdF90ZWlnZW5faW50ZXJhY3RpdmUoc2VsZik6CiAgICAgICAgaW1wb3J0IFB5UXQ0CiAgICAgICAgZnJvbSBQeVF0NC5RdEd1aSBpbXBvcnQgUUFwcGxpY2F0aW9uLCBRRmlsZURpYWxvZwogICAgICAgICMgZnJvbSB0ZWlnZW4uZGljdHdpZGdldHF0IGltcG9ydCBEaWN0V2lkZ2V0CiAgICAgICAgaW1wb3J0IHRlaWdlbgogICAgICAgIGltcG9ydCB0ZWlnZW4uZ2VvbWV0cnkzZAogICAgICAgIGltcG9ydCB0ZWlnZW4uZ3VpCiAgICAgICAgYXBwID0gUUFwcGxpY2F0aW9uKHN5cy5hcmd2KQogICAgICAgIGN3ID0gdGVpZ2VuLmd1aS5UZWlnZW5XaWRnZXQoKQogICAgICAgIGN3LnNob3coKQogICAgICAgIGFwcC5leGVjXygpCgogICAgZGVmIHRlc3RfdGVpZ2VuKHNlbGYpOgogICAgICAgIGltcG9ydCBQeVF0NAogICAgICAgIGZyb20gUHlRdDQuUXRHdWkgaW1wb3J0IFFBcHBsaWNhdGlvbiwgUUZpbGVEaWFsb2cKICAgICAgICAjIGZyb20gdGVpZ2VuLmRpY3R3aWRnZXRxdCBpbXBvcnQgRGljdFdpZGdldAogICAgICAgIGltcG9ydCB0ZWlnZW4KICAgICAgICBpbXBvcnQgdGVpZ2VuLmdlb21ldHJ5M2QKICAgICAgICBpbXBvcnQgdGVpZ2VuLmd1aQogICAgICAgIGFwcCA9IFFBcHBsaWNhdGlvbihzeXMuYXJndikKICAgICAgICBjdyA9IHRlaWdlbi5ndWkuVGVpZ2VuV2lkZ2V0KCkKICAgICAgICBjdy5zaG93KCkKICAgICAgICBjdy5kZWxldGVMYXRlcigpCiAgICAgICAgYXBwLmRlbGV0ZUxhdGVyKCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -5970,7 +5969,6 @@ p</text>
         <entry>status</entry>
       </history-search>
       <history-cmd>
-        <entry>312</entry>
         <entry>885</entry>
         <entry>205</entry>
         <entry>405</entry>
@@ -5990,6 +5988,7 @@ p</text>
         <entry>86</entry>
         <entry>26</entry>
         <entry>w</entry>
+        <entry>ww</entry>
       </history-cmd>
       <history-expr />
       <history-input />
