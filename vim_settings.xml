@@ -864,12 +864,12 @@
         <mark key="^" line="152" column="11" />
         <mark key="." line="152" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/ndnoise/tests/ndnoise_test.py" timestamp="1484179302166">
+      <file name="$USER_HOME$/projects/ndnoise/tests/ndnoise_test.py" timestamp="1484191508260">
         <mark key="'" line="133" column="19" />
-        <mark key="[" line="21" column="8" />
-        <mark key="]" line="21" column="9" />
-        <mark key="^" line="21" column="9" />
-        <mark key="." line="21" column="9" />
+        <mark key="[" line="81" column="26" />
+        <mark key="]" line="82" column="25" />
+        <mark key="^" line="82" column="25" />
+        <mark key="." line="82" column="25" />
       </file>
       <file name="$USER_HOME$/projects/teigen/tests/tube_tree_test.py" timestamp="1482152337637">
         <mark key="[" line="225" column="0" />
@@ -1057,13 +1057,13 @@
         <mark key="^" line="32" column="35" />
         <mark key="." line="32" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/ndnoise/ndnoise/filtration.py" timestamp="1484175916777">
-        <mark key="a" line="203" column="4" />
+      <file name="$USER_HOME$/projects/ndnoise/ndnoise/filtration.py" timestamp="1484191970807">
+        <mark key="a" line="204" column="4" />
         <mark key="'" line="191" column="17" />
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="98" column="0" />
-        <mark key="^" line="86" column="42" />
-        <mark key="." line="98" column="0" />
+        <mark key="[" line="221" column="50" />
+        <mark key="]" line="221" column="50" />
+        <mark key="^" line="192" column="19" />
+        <mark key="." line="221" column="50" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/loginWindow.py" timestamp="1463783581576">
         <mark key="[" line="48" column="0" />
@@ -1518,12 +1518,12 @@
         <mark key="^" line="3" column="8" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/ndnoise/ndnoise/generator.py" timestamp="1483613724468">
-        <mark key="'" line="39" column="0" />
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="79" column="0" />
-        <mark key="^" line="67" column="45" />
-        <mark key="." line="79" column="0" />
+      <file name="$USER_HOME$/projects/ndnoise/ndnoise/generator.py" timestamp="1484191937211">
+        <mark key="'" line="46" column="0" />
+        <mark key="[" line="24" column="47" />
+        <mark key="]" line="26" column="8" />
+        <mark key="^" line="26" column="8" />
+        <mark key="." line="26" column="8" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/training.py" timestamp="1453117814988">
         <mark key="'" line="38" column="8" />
@@ -5889,46 +5889,46 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>shape</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>shape</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>Generate</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcG9zdHByb2Nlc3NpbmdfcGFyYW1zID0gc2VsZi5jb25maWdbInBvc3Rwcm9jZXNzaW5nIl0KICAgICAgICAgICAgZGF0YTNkID0gc2VsZi5wb3N0cHJvY2Vzc2luZygqKnBvc3Rwcm9jZXNzaW5nX3BhcmFtcykK</text>
+        <text encoding="base64">ICAgIGlmIGxhbWJkYV9zdGFydCA8IDA6Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>shape</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>.</text>
+        <text>+</text>
       </register>
       <register name="3" type="4">
-        <text>data3d</text>
+        <text>f</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgMyBpbnNlcnQgbm9pc2UgaGVyZQo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">cmVxX3N0YXJ0IA==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IG5kbm9pc2UuZ2VuZXJhdG9yCg==</text>
+        <text encoding="base64">ICAgICAgICBlbGlmIGxhbWJkYV9zdGFydCA9PSAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbm9pc2UgPSBuZG5vaXNlLm5vaXNlcygKICAgICAgICAgICAgICAgIHNoYXBlPXNlbGYuZGF0YTNkLnNoYXBlLAogICAgICAgICAgICAgICAgc2FtcGxlX3NwYWNpbmc9c2VsZi52b3hlbHNpemVfbW0sCiAgICAgICAgICAgICAgICBleHBvbmVudD1leHBvbmVudCwKICAgICAgICAgICAgICAgIHJhbmRvbV9nZW5lcmF0b3Jfc2VlZD1ub2lzZV9yYW5kb21fZ2VuZXJhdG9yX3NlZWQsCiAgICAgICAgICAgICAgICBsYW1iZGFfc3RhcnQ9bGFtYmRhX3N0YXJ0LAogICAgICAgICAgICAgICAgbGFtYmRhX3JhbmdlPWxhbWJkYV9yYW5nZQoKICAgICAgICAgICAgKS5hc3R5cGUobnAuZmxvYXQxNikKICAgICAgICAgICAgbXggPSBucC5tYXgobm9pc2UpCiAgICAgICAgICAgIG5vaXNlID0gbm9pc2VfYW1wbGl0dWRlICogbm9pc2UvbXgKICAgICAgICAgICAgbm9pc2UgKz0gbm9pc2VfbWVhbgogICAgICAgICAgICBub2lzZSA9IG5vaXNlLmFzdHlwZShzZWxmLmRhdGEzZC5kdHlwZSkK</text>
+        <text encoding="base64">ICAgIGZyZXFfc3RvcCA9IDEuMCAvIGxhbWJkYV9zdGFydAo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGlmIGxhbWJkYV9zdG9wIDwgMDoKICAgICAgICBmcmVfc3RvcCA9IE5vbmUKICAgIGVsc2U6Cg==</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">R3JhcGhzIA==</text>
+        <text encoding="base64">b3AKICAgICAgICA=</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">Y2FudmFzIA==</text>
+        <text>art</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
