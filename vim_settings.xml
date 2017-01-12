@@ -695,6 +695,9 @@
         <mark key="." line="19" column="22" />
         <mark key="^" line="19" column="22" />
       </file>
+      <file name="/Python Console" timestamp="1484219669701">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/events2calendar/tests/e2c_test.py" timestamp="1477320243915">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="23" />
@@ -722,13 +725,13 @@
         <mark key="^" line="32" column="35" />
         <mark key="." line="32" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/ndnoise/ndnoise/filtration.py" timestamp="1484219330151">
-        <mark key="a" line="235" column="4" />
-        <mark key="'" line="222" column="17" />
-        <mark key="[" line="201" column="16" />
-        <mark key="]" line="202" column="29" />
-        <mark key="^" line="202" column="29" />
-        <mark key="." line="202" column="29" />
+      <file name="$USER_HOME$/projects/ndnoise/ndnoise/filtration.py" timestamp="1484220484962">
+        <mark key="a" line="237" column="4" />
+        <mark key="'" line="224" column="17" />
+        <mark key="[" line="199" column="56" />
+        <mark key="]" line="199" column="59" />
+        <mark key="^" line="199" column="59" />
+        <mark key="." line="199" column="59" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/loginWindow.py" timestamp="1463783581576">
         <mark key="[" line="48" column="0" />
@@ -5346,7 +5349,7 @@
         <text>Generate</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X2xlbmFfZmlsdGVyX2J1dHRlcihzZWxmKToKICAgICAgICBpbXBvcnQgc2NpcHkubWlzYwogICAgICAgIGxlbmEgPSBzY2lweS5taXNjLmFzY2VudCgpCiAgICAgICAgc3BlY3RydW0gPSBucC5mZnQuZmZ0bihsZW5hKQoKICAgICAgICAjIHNwZWN0cnVtID0gbmRub2lzZS5nZW5lcmF0b3IuZ2VuZXJhdGVfc3BlY3RydW1fc2VlZChbMTAwLCAxMDBdKQoKICAgICAgICBvdXQgPSBmaWx0cmF0aW9uLnNwZWN0cnVtX2ZpbHRyYXRpb24oCiAgICAgICAgICAgIHNwZWN0cnVtLAogICAgICAgICAgICBmcmVxX3N0YXJ0PTAsCiAgICAgICAgICAgIGZyZXFfc3RvcD0wLjAxLAogICAgICAgICAgICBleHBvbmVudD0wLCMrMC4wMDAxLAogICAgICAgICAgICBmaWx0ZXJfdHlwZT0iYnV0dGVyIgogICAgICAgICkKICAgICAgICBzaWduYWwsIGZpbHRlciwgc3BlY3RydW0sIGZyZXFzID0gb3V0CgogICAgICAgICMgcGx0LmZpZ3VyZShmaWdzaXplPSgyMCwxMCkpCiAgICAgICAgbmRub2lzZS5zaG93KHNpZ25hbCwgZmlsdGVyLCBzcGVjdHJ1bSwgZnJlcXM9ZnJlcXMsIGxvZ192aWV3PVRydWUpCg==</text>
+        <text encoding="base64">ICAgIGZyZXFzX3NwZWN0ID0gZGljdCh6aXAodW5xX2ZyZXFzLCBbMC4wXSAqIGxlbih1bnFfZnJlcXMpKSkK</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">IA==</text>
@@ -5355,28 +5358,28 @@
         <text />
       </register>
       <register name="2" type="4">
-        <text>,</text>
-      </register>
-      <register name="3" type="4">
-        <text>r</text>
-      </register>
-      <register name="4" type="4">
-        <text>f</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">bWFrZSA=</text>
-      </register>
-      <register name="6" type="4">
         <text>1</text>
       </register>
-      <register name="7" type="4">
+      <register name="3" type="4">
         <text encoding="base64">IA==</text>
+      </register>
+      <register name="4" type="4">
+        <text>+</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBmcmVxc19jb3JyZWN0aW9uW10K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGZyZXFzX2NvcnJlY3Rpb24gPSBkaWN0KHppcCh1bnFfZnJlcXMsIFswLjBdICogbGVuKHVucV9mcmVxcykpKQo=</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">c3BlY3Qg</text>
       </register>
       <register name="8" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="9" type="4">
-        <text>-</text>
+        <text>#</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -5427,11 +5430,11 @@
         <entry>704</entry>
         <entry>659</entry>
         <entry>351</entry>
-        <entry>q</entry>
         <entry>86</entry>
         <entry>26</entry>
         <entry>ww</entry>
         <entry>e</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
