@@ -725,13 +725,13 @@
         <mark key="^" line="32" column="35" />
         <mark key="." line="32" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/ndnoise/ndnoise/filtration.py" timestamp="1484221106217">
-        <mark key="a" line="236" column="4" />
-        <mark key="'" line="223" column="17" />
-        <mark key="[" line="205" column="17" />
-        <mark key="]" line="205" column="17" />
-        <mark key="^" line="199" column="67" />
-        <mark key="." line="205" column="17" />
+      <file name="$USER_HOME$/projects/ndnoise/ndnoise/filtration.py" timestamp="1484222291034">
+        <mark key="a" line="247" column="4" />
+        <mark key="'" line="234" column="17" />
+        <mark key="[" line="178" column="16" />
+        <mark key="]" line="178" column="20" />
+        <mark key="^" line="178" column="20" />
+        <mark key="." line="178" column="20" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/loginWindow.py" timestamp="1463783581576">
         <mark key="[" line="48" column="0" />
@@ -5349,7 +5349,7 @@
         <text>Generate</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZyZXFzX3NwZWN0ID0gZGljdCh6aXAodW5xX2ZyZXFzLCBbMC4wXSAqIGxlbih1bnFfZnJlcXMpKSkK</text>
+        <text encoding="base64">ICAgIGNvcnJlY3Rpb24gPSB2b3hlbHZvbCAvICg0ICogbnAucGkgKiAobnAuYXNhcnJheShmcikqKjIgKyBucC5tZWFuKHZveGVsc2l6ZSkpKQo=</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">IA==</text>
@@ -5358,28 +5358,28 @@
         <text />
       </register>
       <register name="2" type="4">
-        <text>*</text>
+        <text>,</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">c3Ag</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHBsdC5maWd1cmUoKQogICAgcGx0Lgo=</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="6" type="4">
         <text>1</text>
       </register>
+      <register name="4" type="4">
+        <text>p</text>
+      </register>
+      <register name="5" type="4">
+        <text>s</text>
+      </register>
+      <register name="6" type="4">
+        <text>2</text>
+      </register>
       <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+        <text>*</text>
       </register>
       <register name="8" type="4">
-        <text>+</text>
+        <text>*</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmcmVxc19jb3JyZWN0aW9uW10K</text>
+      <register name="9" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
