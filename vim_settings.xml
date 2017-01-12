@@ -1024,7 +1024,7 @@
         <mark key="." line="60" column="25" />
         <mark key="^" line="60" column="25" />
       </file>
-      <file name="/Python Console" timestamp="1484146792312">
+      <file name="/Python Console" timestamp="1484185376529">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -1036,12 +1036,8 @@
         <mark key="^" line="27" column="28" />
         <mark key="." line="27" column="28" />
       </file>
-      <file name="/fragment.py" timestamp="1484134422178">
-        <mark key="i" line="0" column="5" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="6" column="15" />
-        <mark key="^" line="6" column="15" />
-        <mark key="." line="6" column="15" />
+      <file name="/fragment.py" timestamp="1484186319598">
+        <mark key="^" line="4" column="15" />
       </file>
       <file name="$USER_HOME$/projects/teigen/requirements_conda.txt" timestamp="1481976056058">
         <mark key="[" line="5" column="11" />
@@ -1114,11 +1110,11 @@
         <mark key="^" line="498" column="89" />
         <mark key="." line="497" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/meta.yaml" timestamp="1484180031585">
-        <mark key="[" line="61" column="13" />
-        <mark key="]" line="56" column="14" />
-        <mark key="^" line="56" column="14" />
-        <mark key="." line="56" column="14" />
+      <file name="$USER_HOME$/projects/teigen/meta.yaml" timestamp="1484187429984">
+        <mark key="[" line="57" column="22" />
+        <mark key="]" line="57" column="21" />
+        <mark key="^" line="57" column="21" />
+        <mark key="." line="57" column="21" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/__main__.py" timestamp="1464212447040">
         <mark key="[" line="2" column="0" />
@@ -1702,21 +1698,17 @@
         <mark key="^" line="13" column="3" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1484183299926">
+      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1484188274779">
         <mark key="a" line="417" column="27" />
         <mark key="b" line="248" column="36" />
-        <mark key="'" line="57" column="23" />
-        <mark key="[" line="432" column="29" />
-        <mark key="]" line="432" column="32" />
-        <mark key="." line="432" column="32" />
-        <mark key="^" line="432" column="32" />
+        <mark key="'" line="59" column="0" />
+        <mark key="[" line="180" column="42" />
+        <mark key="]" line="180" column="48" />
+        <mark key="." line="180" column="48" />
+        <mark key="^" line="180" column="48" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="159" column="28" filename="$USER_HOME$/projects/teigen/tests/tube_tree_test.py" />
-      <jump line="238" column="13" filename="$USER_HOME$/projects/imtools/imtools/show_segmentation_qt.py" />
-      <jump line="186" column="8" filename="$USER_HOME$/projects/imtools/imtools/show_segmentation_qt.py" />
-      <jump line="235" column="8" filename="$USER_HOME$/projects/imtools/imtools/show_segmentation_qt.py" />
       <jump line="123" column="54" filename="$USER_HOME$/projects/imtools/imtools/show_segmentation_qt.py" />
       <jump line="219" column="59" filename="$USER_HOME$/projects/imtools/imtools/show_segmentation_qt.py" />
       <jump line="205" column="8" filename="$USER_HOME$/projects/imtools/imtools/show_segmentation_qt.py" />
@@ -1813,6 +1805,10 @@
       <jump line="274" column="15" filename="$USER_HOME$/projects/ndnoise/tests/filtration_test.py" />
       <jump line="17" column="26" filename="$USER_HOME$/projects/ndnoise/tests/filtration_test.py" />
       <jump line="191" column="17" filename="$USER_HOME$/projects/ndnoise/ndnoise/filtration.py" />
+      <jump line="125" column="14" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
+      <jump line="139" column="0" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
+      <jump line="178" column="63" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
+      <jump line="59" column="0" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5893,62 +5889,60 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>progress</text>
+        <text>tables</text>
       </register>
       <register name="-" type="4">
-        <text>progress</text>
+        <text>tables</text>
       </register>
       <register name="/" type="4">
-        <text>spectrum_fi</text>
+        <text>Generate</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxmLmZpbmlzaF9wcm9ncmVzc19jYWxsYmFjayhzZWxmLCBwcm9ncmVzcykK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnN0YXRzX3RhYl93Zy5hZGRUYWIoc2VsZi5fd2dfdGFibGVzLCAiU3VtYXJ5ICIgKyBydW5fbnVtYmVyX2FscGhhKQo=</text>
       </register>
       <register name="1" type="4">
-        <text>progress</text>
+        <text>tables</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>(</text>
+        <text encoding="base64">U3VtYXJ5IA==</text>
       </register>
-      <register name="3" type="4">
-        <text>TEMP_VTK_FILE</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLnRlbXBfdnRrX2ZpbGUgPSBvcC5leHBhbmR1c2VyKCJ+L3RyZWUudnRrIikK</text>
       </register>
-      <register name="4" type="4">
-        <text>&quot;tree_output.vtk&quot;</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaW10b29scwo=</text>
       </register>
-      <register name="5" type="4">
-        <text>.</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBkZmRlc2NyaWJlID0gZGYuZGVzY3JpYmUoKQogICAgICAgIGRmZGVzY3JpYmUuaW5zZXJ0KDAsICIiLCBkZmRlc2NyaWJlLmluZGV4KQogICAgICAgIGNvdW50ID0gZGZkZXNjcmliZVsibGVuZ3RoIl1bMF0KICAgICAgICBzZWxmLmRhdGFmcmFtZXNbImRlc2NyaWJlIl0gPSBkZmRlc2NyaWJlCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>.</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBjb3VudCA9IGRmZGVzY3JpYmVbImxlbmd0aCJdWzBdCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm5lZWRfcnVuID0gRmFsc2UK</text>
+        <text encoding="base64">ICAgICAgICBjb3VudF9yb3cgPSBkZi5wb3AoMSkK</text>
       </register>
       <register name="8" type="4">
-        <text>attr
-p</text>
+        <text>iloc(0)</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X3NvbWV0aGluZyhzZWxmKToKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKFRydWUsIEZhbHNlKQo=</text>
+      <register name="9" type="4">
+        <text>print</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>spectrum_fi</last-search>
+      <last-search>Generate</last-search>
       <last-offset />
-      <last-pattern>spectrum_fi</last-pattern>
+      <last-pattern>Generate</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfc3BsaXR0ZXJcPg==</entry>
         <entry encoding="base64">XDxyZWdpc3RlclBhcmFtZXRlclR5cGVcPg==</entry>
         <entry encoding="base64">XDx0YWJzXD4=</entry>
         <entry encoding="base64">XDxpdGVtXD4=</entry>
@@ -5968,6 +5962,7 @@ p</text>
         <entry>self.version</entry>
         <entry encoding="base64">XDxUZWlnZW5XaWRnZXRcPg==</entry>
         <entry>status</entry>
+        <entry>Generate</entry>
       </history-search>
       <history-cmd>
         <entry>885</entry>
