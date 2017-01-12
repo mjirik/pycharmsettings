@@ -745,13 +745,13 @@
         <mark key="^" line="2" column="21" />
         <mark key="." line="2" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/generators/cylinders.py" timestamp="1484193677547">
+      <file name="$USER_HOME$/projects/teigen/teigen/generators/cylinders.py" timestamp="1484227131729">
         <mark key="a" line="250" column="19" />
         <mark key="'" line="257" column="40" />
-        <mark key="[" line="102" column="30" />
-        <mark key="]" line="102" column="35" />
-        <mark key="^" line="102" column="35" />
-        <mark key="." line="102" column="35" />
+        <mark key="[" line="114" column="0" />
+        <mark key="]" line="131" column="19" />
+        <mark key="^" line="117" column="11" />
+        <mark key="." line="117" column="11" />
       </file>
       <file name="$USER_HOME$/projects/quantan/quantan/__init__.py" timestamp="1465903630047">
         <mark key="[" line="2" column="14" />
@@ -807,11 +807,10 @@
         <mark key="." line="21" column="26" />
         <mark key="^" line="21" column="51" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/geometry3d.py" timestamp="1478262413653">
-        <mark key="[" line="44" column="16" />
-        <mark key="]" line="44" column="16" />
-        <mark key="^" line="43" column="15" />
-        <mark key="." line="44" column="16" />
+      <file name="$USER_HOME$/projects/teigen/teigen/geometry3d.py" timestamp="1484227136587">
+        <mark key="[" line="129" column="4" />
+        <mark key="]" line="146" column="16" />
+        <mark key="." line="128" column="0" />
       </file>
       <file name="$USER_HOME$/projects/io3d/setup.py" timestamp="1446723377861">
         <mark key="[" line="56" column="0" />
@@ -5339,8 +5338,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBwdDEgaXMgbm90IE5vbmUgXAogICAgICAgICAgICBhbmQgc2VsZi5faXNfaW5fYXJlYShwdDEpIFwKICAgICAgICAgICAgYW5kIHNlbGYuX2lzX2luX2FyZWEocHQyKToKCiAgICAgICAgICAgIGlmIHNlbGYuT1ZFUkxBUFNfQUxPV0VEOgogICAgICAgICAgICAgICAgcmV0dXJuIFRydWUKCiAgICAgICAgICAgIGlmIGxlbihzZWxmLl9jeWxpbmRlcl9ub2RlcykgPT0gMDoKICAgICAgICAgICAgICAgIHJldHVybiBUcnVlCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBsaW5lX25vZGVzID0gZzMuZ2V0X3BvaW50c19pbl9saW5lX3NlZ21lbnQocHQxLCBwdDIsIHN0ZXApCiAgICAgICAgICAgICAgICBzYWZlX2Rpc3QyID0gKHNlbGYucmFkaXVzX21heGltdW0gKiBzZWxmLkRJU1RfTUFYX1JBRElVU19NVUxUSVBMSUNBVE9SKSAqKiAyCiAgICAgICAgICAgICAgICBmb3Igbm9kZSBpbiBsaW5lX25vZGVzOgogICAgICAgICAgICAgICAgICAgIGRpc3RfY2xvc2VzdCA9IGczLmNsb3Nlc3Rfbm9kZV9zcXVhcmVfZGlzdChub2RlLCBzZWxmLl9jeWxpbmRlcl9ub2RlcykKICAgICAgICAgICAgICAgICAgICBpZiBkaXN0X2Nsb3Nlc3QgPCBzYWZlX2Rpc3QyOgogICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gRmFsc2UKICAgICAgICAgICAgICAgIHJldHVybiBUcnVlCiAgICAgICAgcmV0dXJuIEZhbHNlCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -5349,37 +5348,37 @@
         <text>Generate</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvcnJlY3Rpb24gPSB2b3hlbHZvbCAvICg0ICogbnAucGkgKiAobnAuYXNhcnJheShmcikqKjIgKyBucC5tZWFuKHZveGVsc2l6ZSkpKQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBwdDEgaXMgbm90IE5vbmUgXAogICAgICAgICAgICBhbmQgc2VsZi5faXNfaW5fYXJlYShwdDEpIFwKICAgICAgICAgICAgYW5kIHNlbGYuX2lzX2luX2FyZWEocHQyKToKCiAgICAgICAgICAgIGlmIHNlbGYuT1ZFUkxBUFNfQUxPV0VEOgogICAgICAgICAgICAgICAgcmV0dXJuIFRydWUKCiAgICAgICAgICAgIGlmIGxlbihzZWxmLl9jeWxpbmRlcl9ub2RlcykgPT0gMDoKICAgICAgICAgICAgICAgIHJldHVybiBUcnVlCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBsaW5lX25vZGVzID0gZzMuZ2V0X3BvaW50c19pbl9saW5lX3NlZ21lbnQocHQxLCBwdDIsIHN0ZXApCiAgICAgICAgICAgICAgICBzYWZlX2Rpc3QyID0gKHNlbGYucmFkaXVzX21heGltdW0gKiBzZWxmLkRJU1RfTUFYX1JBRElVU19NVUxUSVBMSUNBVE9SKSAqKiAyCiAgICAgICAgICAgICAgICBmb3Igbm9kZSBpbiBsaW5lX25vZGVzOgogICAgICAgICAgICAgICAgICAgIGRpc3RfY2xvc2VzdCA9IGczLmNsb3Nlc3Rfbm9kZV9zcXVhcmVfZGlzdChub2RlLCBzZWxmLl9jeWxpbmRlcl9ub2RlcykKICAgICAgICAgICAgICAgICAgICBpZiBkaXN0X2Nsb3Nlc3QgPCBzYWZlX2Rpc3QyOgogICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gRmFsc2UKICAgICAgICAgICAgICAgIHJldHVybiBUcnVlCiAgICAgICAgcmV0dXJuIEZhbHNlCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLk9WRVJMQVBTX0FMT1dFRDoKICAgICAgICAgICAgcmV0dXJuIFRydWUK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>,</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="3" type="4">
-        <text>1</text>
+        <text>,</text>
       </register>
       <register name="4" type="4">
-        <text>p</text>
+        <text>1</text>
       </register>
       <register name="5" type="4">
-        <text>s</text>
+        <text>p</text>
       </register>
       <register name="6" type="4">
-        <text>2</text>
+        <text>s</text>
       </register>
       <register name="7" type="4">
-        <text>*</text>
+        <text>2</text>
       </register>
       <register name="8" type="4">
         <text>*</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text>*</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
