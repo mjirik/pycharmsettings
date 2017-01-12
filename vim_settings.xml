@@ -797,13 +797,13 @@
         <mark key="^" line="12" column="34" />
         <mark key="." line="12" column="34" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/tb_volume.py" timestamp="1481072082848">
+      <file name="$USER_HOME$/projects/teigen/teigen/tb_volume.py" timestamp="1484183468876">
         <mark key="a" line="86" column="16" />
-        <mark key="'" line="182" column="0" />
-        <mark key="[" line="162" column="0" />
-        <mark key="]" line="183" column="35" />
-        <mark key="^" line="43" column="48" />
-        <mark key="." line="43" column="48" />
+        <mark key="'" line="183" column="0" />
+        <mark key="[" line="161" column="44" />
+        <mark key="]" line="161" column="46" />
+        <mark key="." line="161" column="46" />
+        <mark key="^" line="161" column="46" />
       </file>
       <file name="$USER_HOME$/projects/io3d/tests/dcmreaddata_test.py" timestamp="1475919704583">
         <mark key="'" line="0" column="0" />
@@ -1702,13 +1702,14 @@
         <mark key="^" line="13" column="3" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1484182032449">
+      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1484183299926">
         <mark key="a" line="417" column="27" />
         <mark key="b" line="248" column="36" />
         <mark key="'" line="57" column="23" />
-        <mark key="[" line="426" column="38" />
-        <mark key="]" line="426" column="38" />
-        <mark key="." line="426" column="38" />
+        <mark key="[" line="432" column="29" />
+        <mark key="]" line="432" column="32" />
+        <mark key="." line="432" column="32" />
+        <mark key="^" line="432" column="32" />
       </file>
     </filemarks>
     <jumps>
@@ -5892,47 +5893,47 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text>progress</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>progress</text>
       </register>
       <register name="/" type="4">
         <text>spectrum_fi</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZnJvbSAuLnRyZWUgaW1wb3J0IFRyZWVCdWlsZGVyCgogICAgICAgICAgICB0dmcgPSBUcmVlQnVpbGRlcigndnRrJykKICAgICAgICAgICAgIyB5YW1sX3BhdGggPSBvcy5wYXRoLmpvaW4ocGF0aF90b19zY3JpcHQsICIuL2hpc3Rfc3RhdHNfdGVzdC55YW1sIikKICAgICAgICAgICAgIyB0dmcuaW1wb3J0RnJvbVlhbWwoeWFtbF9wYXRoKQogICAgICAgICAgICB0dmcudm94ZWxzaXplX21tID0gc2VsZi52b3hlbHNpemVfbW0KICAgICAgICAgICAgdHZnLnNoYXBlID0gc2VsZi5hcmVhc2l6ZV9weAogICAgICAgICAgICB0dmcudHJlZV9kYXRhID0gdHJlZV9kYXRhCiAgICAgICAgICAgIG91dHB1dCA9IHR2Zy5idWlsZFRyZWUoKSAjIG5vcWEKICAgICAgICAgICAgIyB0dmcuc2hvdygpCiAgICAgICAgICAgIHR2Zy5zYXZlVG9GaWxlKCJ0cmVlX291dHB1dC52dGsiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxmLmZpbmlzaF9wcm9ncmVzc19jYWxsYmFjayhzZWxmLCBwcm9ncmVzcykK</text>
       </register>
       <register name="1" type="4">
-        <text>(</text>
+        <text>progress</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>TEMP_VTK_FILE</text>
+        <text>(</text>
       </register>
       <register name="3" type="4">
-        <text>&quot;tree_output.vtk&quot;</text>
+        <text>TEMP_VTK_FILE</text>
       </register>
       <register name="4" type="4">
-        <text>.</text>
+        <text>&quot;tree_output.vtk&quot;</text>
       </register>
       <register name="5" type="4">
         <text>.</text>
       </register>
-      <register name="6" type="2">
+      <register name="6" type="4">
+        <text>.</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLm5lZWRfcnVuID0gRmFsc2UK</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>attr
 p</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X3NvbWV0aGluZyhzZWxmKToKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKFRydWUsIEZhbHNlKQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBhdHRyKCdpbnRlcmFjdGl2ZScpCiAgICBkZWYgdGVzdF90ZWlnZW5faW50ZXJhY3RpdmUoc2VsZik6CiAgICAgICAgaW1wb3J0IFB5UXQ0CiAgICAgICAgZnJvbSBQeVF0NC5RdEd1aSBpbXBvcnQgUUFwcGxpY2F0aW9uLCBRRmlsZURpYWxvZwogICAgICAgICMgZnJvbSB0ZWlnZW4uZGljdHdpZGdldHF0IGltcG9ydCBEaWN0V2lkZ2V0CiAgICAgICAgaW1wb3J0IHRlaWdlbgogICAgICAgIGltcG9ydCB0ZWlnZW4uZ2VvbWV0cnkzZAogICAgICAgIGltcG9ydCB0ZWlnZW4uZ3VpCiAgICAgICAgYXBwID0gUUFwcGxpY2F0aW9uKHN5cy5hcmd2KQogICAgICAgIGN3ID0gdGVpZ2VuLmd1aS5UZWlnZW5XaWRnZXQoKQogICAgICAgIGN3LnNob3coKQogICAgICAgIGFwcC5leGVjXygpCgogICAgZGVmIHRlc3RfdGVpZ2VuKHNlbGYpOgogICAgICAgIGltcG9ydCBQeVF0NAogICAgICAgIGZyb20gUHlRdDQuUXRHdWkgaW1wb3J0IFFBcHBsaWNhdGlvbiwgUUZpbGVEaWFsb2cKICAgICAgICAjIGZyb20gdGVpZ2VuLmRpY3R3aWRnZXRxdCBpbXBvcnQgRGljdFdpZGdldAogICAgICAgIGltcG9ydCB0ZWlnZW4KICAgICAgICBpbXBvcnQgdGVpZ2VuLmdlb21ldHJ5M2QKICAgICAgICBpbXBvcnQgdGVpZ2VuLmd1aQogICAgICAgIGFwcCA9IFFBcHBsaWNhdGlvbihzeXMuYXJndikKICAgICAgICBjdyA9IHRlaWdlbi5ndWkuVGVpZ2VuV2lkZ2V0KCkKICAgICAgICBjdy5zaG93KCkKICAgICAgICBjdy5kZWxldGVMYXRlcigpCiAgICAgICAgYXBwLmRlbGV0ZUxhdGVyKCkK</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X3NvbWV0aGluZyhzZWxmKToKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKFRydWUsIEZhbHNlKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -5987,8 +5988,8 @@ p</text>
         <entry>q</entry>
         <entry>86</entry>
         <entry>26</entry>
-        <entry>w</entry>
         <entry>ww</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
