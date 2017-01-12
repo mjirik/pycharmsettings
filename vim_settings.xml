@@ -111,6 +111,12 @@
         <mark key="." line="221" column="21" />
         <mark key="^" line="221" column="21" />
       </file>
+      <file name="$USER_HOME$/projects/teigen/tests/teigen_test.py" timestamp="1484180672811">
+        <mark key="[" line="7" column="36" />
+        <mark key="]" line="8" column="12" />
+        <mark key="." line="8" column="12" />
+        <mark key="^" line="8" column="12" />
+      </file>
       <file name="$USER_HOME$/projects/lisa/requirements_conda.txt" timestamp="1464092446357">
         <mark key="[" line="3" column="2" />
         <mark key="]" line="4" column="29" />
@@ -219,11 +225,11 @@
         <mark key="^" line="42" column="38" />
         <mark key="." line="42" column="40" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/tests/tube_tree_widgets_test.py" timestamp="1482143320565">
-        <mark key="[" line="138" column="0" />
-        <mark key="]" line="138" column="0" />
-        <mark key="^" line="142" column="7" />
-        <mark key="." line="138" column="0" />
+      <file name="$USER_HOME$/projects/teigen/tests/tube_tree_widgets_test.py" timestamp="1484180639924">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="36" />
+        <mark key="." line="9" column="31" />
+        <mark key="^" line="9" column="31" />
       </file>
       <file name="$USER_HOME$/projects/psongbook/sobo/parser.py" timestamp="1463487326410">
         <mark key="[" line="16" column="0" />
@@ -1696,14 +1702,14 @@
         <mark key="^" line="13" column="3" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1482375033067">
+      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1484180393827">
         <mark key="a" line="283" column="36" />
         <mark key="b" line="248" column="36" />
         <mark key="'" line="57" column="23" />
-        <mark key="[" line="266" column="94" />
-        <mark key="]" line="267" column="37" />
-        <mark key="." line="267" column="37" />
-        <mark key="^" line="267" column="37" />
+        <mark key="[" line="464" column="12" />
+        <mark key="]" line="464" column="12" />
+        <mark key="." line="464" column="19" />
+        <mark key="^" line="484" column="22" />
       </file>
     </filemarks>
     <jumps>
@@ -5887,46 +5893,47 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC0gbWF0cGxvdGxpYgo=</text>
+        <text encoding="base64">ZnJvbSBub3NlLnBsdWdpbnMuYXR0cmliIGltcG9ydCBhdHRyCg==</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>freq_</text>
       </register>
       <register name="/" type="4">
         <text>spectrum_fi</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC0gbWF0cGxvdGxpYgo=</text>
+        <text encoding="base64">ZnJvbSBub3NlLnBsdWdpbnMuYXR0cmliIGltcG9ydCBhdHRyCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>attr
+p</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X3NvbWV0aGluZyhzZWxmKToKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKFRydWUsIEZhbHNlKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBhdHRyKCdpbnRlcmFjdGl2ZScpCiAgICBkZWYgdGVzdF90ZWlnZW5faW50ZXJhY3RpdmUoc2VsZik6CiAgICAgICAgaW1wb3J0IFB5UXQ0CiAgICAgICAgZnJvbSBQeVF0NC5RdEd1aSBpbXBvcnQgUUFwcGxpY2F0aW9uLCBRRmlsZURpYWxvZwogICAgICAgICMgZnJvbSB0ZWlnZW4uZGljdHdpZGdldHF0IGltcG9ydCBEaWN0V2lkZ2V0CiAgICAgICAgaW1wb3J0IHRlaWdlbgogICAgICAgIGltcG9ydCB0ZWlnZW4uZ2VvbWV0cnkzZAogICAgICAgIGltcG9ydCB0ZWlnZW4uZ3VpCiAgICAgICAgYXBwID0gUUFwcGxpY2F0aW9uKHN5cy5hcmd2KQogICAgICAgIGN3ID0gdGVpZ2VuLmd1aS5UZWlnZW5XaWRnZXQoKQogICAgICAgIGN3LnNob3coKQogICAgICAgIGFwcC5leGVjXygpCgogICAgZGVmIHRlc3RfdGVpZ2VuKHNlbGYpOgogICAgICAgIGltcG9ydCBQeVF0NAogICAgICAgIGZyb20gUHlRdDQuUXRHdWkgaW1wb3J0IFFBcHBsaWNhdGlvbiwgUUZpbGVEaWFsb2cKICAgICAgICAjIGZyb20gdGVpZ2VuLmRpY3R3aWRnZXRxdCBpbXBvcnQgRGljdFdpZGdldAogICAgICAgIGltcG9ydCB0ZWlnZW4KICAgICAgICBpbXBvcnQgdGVpZ2VuLmdlb21ldHJ5M2QKICAgICAgICBpbXBvcnQgdGVpZ2VuLmd1aQogICAgICAgIGFwcCA9IFFBcHBsaWNhdGlvbihzeXMuYXJndikKICAgICAgICBjdyA9IHRlaWdlbi5ndWkuVGVpZ2VuV2lkZ2V0KCkKICAgICAgICBjdy5zaG93KCkKICAgICAgICBjdy5kZWxldGVMYXRlcigpCiAgICAgICAgYXBwLmRlbGV0ZUxhdGVyKCkK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>freq_</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>freq_</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CgogICAgICAgICMgYiwgYSA9IHNjaXB5LnNpZ25hbC5idXR0ZXIob3JkZXIsIFduPVtsb3csIGhpZ2hdLCBidHlwZT0nYmFuZCcsIGFuYWxvZz1UcnVlKQogICAgICAgICMgdywgaCA9IHJlc3BvbnNlID0gc2NpcHkuc2lnbmFsLmZyZXFzKGIsIGEpCgoKCiAgICAgICAgIyB3LCBoID0gcmVzcG9uc2UgPSBzY2lweS5zaWduYWwuZnJlcXMoYiwgYSwgd29yTj0od29yTiAvIGZpbHRlcl9mcykpCg==</text>
+      <register name="6" type="4">
+        <text>freq_</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIHkgPSBzY2lweS5zaWduYWwubGZpbHRlcihiLCBhLCBkYXRhKQo=</text>
+      <register name="7" type="4">
+        <text>freq_</text>
       </register>
       <register name="8" type="4">
-        <text>*</text>
+        <text>freq_</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text>freq_</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
