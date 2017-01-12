@@ -1064,13 +1064,13 @@
         <mark key="^" line="2" column="21" />
         <mark key="." line="2" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/generators/cylinders.py" timestamp="1484240358367">
+      <file name="$USER_HOME$/projects/teigen/teigen/generators/cylinders.py" timestamp="1484255134363">
         <mark key="a" line="250" column="19" />
-        <mark key="'" line="116" column="12" />
-        <mark key="[" line="113" column="15" />
-        <mark key="]" line="113" column="15" />
-        <mark key="^" line="113" column="16" />
-        <mark key="." line="113" column="15" />
+        <mark key="'" line="120" column="20" />
+        <mark key="[" line="118" column="0" />
+        <mark key="]" line="118" column="0" />
+        <mark key="^" line="116" column="18" />
+        <mark key="." line="118" column="0" />
       </file>
       <file name="$USER_HOME$/projects/skelet3d/examples/example03.py" timestamp="1465901557731">
         <mark key="'" line="6" column="32" />
@@ -1133,12 +1133,12 @@
         <mark key="." line="21" column="26" />
         <mark key="^" line="21" column="51" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/geometry3d.py" timestamp="1484241826181">
-        <mark key="'" line="180" column="44" />
-        <mark key="[" line="26" column="17" />
-        <mark key="]" line="26" column="17" />
-        <mark key="." line="26" column="17" />
-        <mark key="^" line="31" column="47" />
+      <file name="$USER_HOME$/projects/teigen/teigen/geometry3d.py" timestamp="1484254951590">
+        <mark key="'" line="177" column="44" />
+        <mark key="[" line="172" column="0" />
+        <mark key="]" line="172" column="0" />
+        <mark key="^" line="171" column="77" />
+        <mark key="." line="172" column="0" />
       </file>
       <file name="$USER_HOME$/projects/io3d/setup.py" timestamp="1446723377861">
         <mark key="[" line="56" column="0" />
@@ -1687,7 +1687,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="13" filename="$USER_HOME$/projects/imtools/imtools/show_segmentation_qt.py" />
       <jump line="21" column="0" filename="$USER_HOME$/projects/teigen/teigen/dictwidgetqt.py" />
       <jump line="203" column="40" filename="$USER_HOME$/projects/teigen/teigen/dictwidgetqt.py" />
       <jump line="30" column="22" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
@@ -1787,6 +1786,7 @@
       <jump line="116" column="12" filename="$USER_HOME$/projects/teigen/teigen/generators/cylinders.py" />
       <jump line="153" column="2" filename="$USER_HOME$/projects/teigen/teigen/geometry3d.py" />
       <jump line="170" column="44" filename="$USER_HOME$/projects/teigen/teigen/geometry3d.py" />
+      <jump line="120" column="20" filename="$USER_HOME$/projects/teigen/teigen/generators/cylinders.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5866,47 +5866,47 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>(</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc3RlcD1zdGVwLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>step</text>
       </register>
       <register name="/" type="4">
         <text>square</text>
       </register>
-      <register name="0" type="4">
-        <text>(*args, **kwargs)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYW5kIGlzX2luX2FyZWEocHQxLCBhcmVhc2l6ZV9weCwgcmFkaXVzKSBcCiAgICAgICAgICAgIGFuZCBpc19pbl9hcmVhKHB0MiwgYXJlYXNpemVfcHgsIHJhZGl1cyk6Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>(</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc3RlcD1zdGVwLAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>)</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5yYWRpdXNfbWF4aW11bSwK</text>
       </register>
       <register name="3" type="4">
-        <text>nodes</text>
+        <text>step</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">LCA=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5yYWRpdXNfbWF4aW11bSwK</text>
       </register>
-      <register name="5" type="4">
-        <text>node</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIG5vZGVzID0gbnAuYXNhcnJheShub2RlcykKICAgIGRpc3RfMiA9IG5wLnN1bSgobm9kZXMgLSBub2RlKSoqMiwgYXhpcz0xKQo=</text>
-      </register>
-      <register name="7" type="4">
-        <text>node, nodes, nodes_radius=None</text>
-      </register>
-      <register name="8" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYW5kIGlzX2luX2FyZWEocHQxLCBhcmVhc2l6ZV9weCwgcmFkaXVzKSBcCiAgICAgICAgICAgIGFuZCBpc19pbl9hcmVhKHB0MiwgYXJlYXNpemVfcHgsIHJhZGl1cyk6Cg==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="8" type="4">
+        <text>,</text>
+      </register>
       <register name="9" type="4">
-        <text>nodes_square_dist</text>
+        <text>box</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
