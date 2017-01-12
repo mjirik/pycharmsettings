@@ -1064,13 +1064,13 @@
         <mark key="^" line="2" column="21" />
         <mark key="." line="2" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/generators/cylinders.py" timestamp="1484255134363">
+      <file name="$USER_HOME$/projects/teigen/teigen/generators/cylinders.py" timestamp="1484257066670">
         <mark key="a" line="250" column="19" />
         <mark key="'" line="120" column="20" />
-        <mark key="[" line="118" column="0" />
-        <mark key="]" line="118" column="0" />
-        <mark key="^" line="116" column="18" />
-        <mark key="." line="118" column="0" />
+        <mark key="[" line="195" column="23" />
+        <mark key="]" line="195" column="26" />
+        <mark key="^" line="195" column="26" />
+        <mark key="." line="195" column="26" />
       </file>
       <file name="$USER_HOME$/projects/skelet3d/examples/example03.py" timestamp="1465901557731">
         <mark key="'" line="6" column="32" />
@@ -1133,12 +1133,12 @@
         <mark key="." line="21" column="26" />
         <mark key="^" line="21" column="51" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/geometry3d.py" timestamp="1484254951590">
-        <mark key="'" line="177" column="44" />
-        <mark key="[" line="172" column="0" />
-        <mark key="]" line="172" column="0" />
-        <mark key="^" line="171" column="77" />
-        <mark key="." line="172" column="0" />
+      <file name="$USER_HOME$/projects/teigen/teigen/geometry3d.py" timestamp="1484257186493">
+        <mark key="'" line="181" column="44" />
+        <mark key="[" line="46" column="42" />
+        <mark key="]" line="46" column="48" />
+        <mark key="^" line="46" column="48" />
+        <mark key="." line="46" column="48" />
       </file>
       <file name="$USER_HOME$/projects/io3d/setup.py" timestamp="1446723377861">
         <mark key="[" line="56" column="0" />
@@ -5866,47 +5866,47 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RlcD1zdGVwLAo=</text>
+      <register name="&quot;" type="4">
+        <text>radius</text>
       </register>
       <register name="-" type="4">
-        <text>step</text>
+        <text>radius</text>
       </register>
       <register name="/" type="4">
         <text>square</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kIGlzX2luX2FyZWEocHQxLCBhcmVhc2l6ZV9weCwgcmFkaXVzKSBcCiAgICAgICAgICAgIGFuZCBpc19pbl9hcmVhKHB0MiwgYXJlYXNpemVfcHgsIHJhZGl1cyk6Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9jeWxpbmRlcl9ub2RlcyA9IFtdCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RlcD1zdGVwLAo=</text>
+      <register name="1" type="4">
+        <text>radius</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5yYWRpdXNfbWF4aW11bSwK</text>
+      <register name="2" type="4">
+        <text>0</text>
       </register>
       <register name="3" type="4">
-        <text>step</text>
+        <text>.</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5yYWRpdXNfbWF4aW11bSwK</text>
+      <register name="4" type="4">
+        <text>1</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>val</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kIGlzX2luX2FyZWEocHQxLCBhcmVhc2l6ZV9weCwgcmFkaXVzKSBcCiAgICAgICAgICAgIGFuZCBpc19pbl9hcmVhKHB0MiwgYXJlYXNpemVfcHgsIHJhZGl1cyk6Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+        <text>*</text>
       </register>
       <register name="8" type="4">
-        <text>,</text>
+        <text>LEN_STEP_CONSTANT</text>
       </register>
       <register name="9" type="4">
-        <text>box</text>
+        <text>.</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
