@@ -735,13 +735,13 @@
         <mark key="^" line="2" column="21" />
         <mark key="." line="2" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/generators/cylinders.py" timestamp="1484229118211">
+      <file name="$USER_HOME$/projects/teigen/teigen/generators/cylinders.py" timestamp="1484240358367">
         <mark key="a" line="250" column="19" />
         <mark key="'" line="116" column="12" />
-        <mark key="[" line="112" column="10" />
-        <mark key="]" line="112" column="9" />
-        <mark key="^" line="112" column="9" />
-        <mark key="." line="112" column="9" />
+        <mark key="[" line="113" column="15" />
+        <mark key="]" line="113" column="15" />
+        <mark key="^" line="113" column="16" />
+        <mark key="." line="113" column="15" />
       </file>
       <file name="$USER_HOME$/projects/quantan/quantan/__init__.py" timestamp="1465903630047">
         <mark key="[" line="2" column="14" />
@@ -797,11 +797,11 @@
         <mark key="." line="21" column="26" />
         <mark key="^" line="21" column="51" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/geometry3d.py" timestamp="1484229024693">
-        <mark key="[" line="170" column="31" />
-        <mark key="]" line="170" column="31" />
-        <mark key="." line="170" column="31" />
-        <mark key="^" line="147" column="22" />
+      <file name="$USER_HOME$/projects/teigen/teigen/geometry3d.py" timestamp="1484241059602">
+        <mark key="[" line="167" column="62" />
+        <mark key="]" line="167" column="62" />
+        <mark key="." line="167" column="62" />
+        <mark key="^" line="155" column="20" />
       </file>
       <file name="$USER_HOME$/projects/io3d/setup.py" timestamp="1446723377861">
         <mark key="[" line="56" column="0" />
@@ -5320,46 +5320,46 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>radius</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>radius</text>
       </register>
       <register name="/" type="4">
         <text>is_in_</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIKICAgICAgICBjaGVjayBpZiBwb2ludCBpcyBpbiBhcmVhIHdpdGggY29uc2lkZXJpbmcgZXZlbnR1YWwgbWF4aW11bSByYWRpdXMKICAgICAgICA6cGFyYW0gbm9kZToKICAgICAgICA6cGFyYW0gcmFkaXVzOgogICAgICAgIDpyZXR1cm46CiAgICAgICAgIiIiCiAgICAgICAgbm9kZSA9IG5wLmFzYXJyYXkobm9kZSkKICAgICAgICBpZiByYWRpdXMgaXMgTm9uZToKICAgICAgICAgICAgcmFkaXVzID0gc2VsZi5yYWRpdXNfbWF4aW11bQoKICAgICAgICBpZiBucC5hbGwobm9kZSA+ICgwICsgcmFkaXVzKSkgYW5kIG5wLmFsbChub2RlIDwgKHNlbGYuYXJlYXNpemVfcHggLSByYWRpdXMpKToKICAgICAgICAgICAgcmV0dXJuICBUcnVlCiAgICAgICAgZWxzZToKICAgICAgICAgICAgcmV0dXJuIEZhbHNlCg==</text>
+        <text encoding="base64">ICAgICAgICBwdDEsCiAgICAgICAgcHQyLAogICAgICAgIHJhZGl1cywKICAgICAgICByYWRpdXNfbWF4aW11bSwKICAgICAgICBvdGhlcl9wb2ludHMsCiAgICAgICAgc3RlcCwKICAgICAgICBhcmVhc2l6ZV9weCwKICAgICAgICBESVNUX01BWF9SQURJVVNfTVVMVElQTElDQVRPUiwKICAgICAgICBPVkVSTEFQU19BTE9XRUQK</text>
       </register>
       <register name="1" type="4">
-        <text>.</text>
+        <text>radius</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>3</text>
+        <text>*</text>
       </register>
       <register name="3" type="4">
-        <text>g</text>
+        <text>2</text>
       </register>
-      <register name="4" type="4">
-        <text>.</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHJhZGl1cyA9IDAK</text>
       </register>
       <register name="5" type="4">
-        <text>3</text>
+        <text>step</text>
       </register>
       <register name="6" type="4">
-        <text>g</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="7" type="4">
-        <text>.</text>
+        <text>=</text>
       </register>
-      <register name="8" type="4">
-        <text>self</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="4">
-        <text>_cylinder_nodes</text>
+        <text>.</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
