@@ -94,7 +94,7 @@
         <entry key="cherrypy" value="3.8.0" />
         <entry key="chest" value="0.2.3" />
         <entry key="chrpath" value="0.16" />
-        <entry key="cio-bt" value="1.0.0" />
+        <entry key="cio-bt" value="1.1.0" />
         <entry key="clawpack" value="0.1.0.dev" />
         <entry key="click" value="6.6" />
         <entry key="click-plugins" value="1.0.3" />
@@ -108,9 +108,9 @@
         <entry key="colorama" value="0.3.7" />
         <entry key="colorcet" value="0.9.1" />
         <entry key="comtypes" value="1.1.2" />
-        <entry key="conda" value="4.2.14" />
+        <entry key="conda" value="4.2.15" />
         <entry key="conda-api" value="1.1.0" />
-        <entry key="conda-build" value="2.1.0" />
+        <entry key="conda-build" value="2.1.1" />
         <entry key="conda-env" value="2.6.0" />
         <entry key="conda-manager" value="0.4.0" />
         <entry key="conda-server" value="0.14.0" />
@@ -121,7 +121,7 @@
         <entry key="configparser" value="3.5.0" />
         <entry key="console_shortcut" value="0.1.1" />
         <entry key="constantly" value="15.1.0" />
-        <entry key="constructor" value="1.5.1" />
+        <entry key="constructor" value="1.5.2" />
         <entry key="contextlib2" value="0.5.4" />
         <entry key="continuum-docs" value="2.0.4" />
         <entry key="cookies" value="2.2.1" />
@@ -302,7 +302,7 @@
         <entry key="jedi" value="0.9.0" />
         <entry key="jinja2" value="2.8.1" />
         <entry key="jmespath" value="0.9.0" />
-        <entry key="joblib" value="0.9.4" />
+        <entry key="joblib" value="0.10.3" />
         <entry key="jom" value="1.1.0" />
         <entry key="joy" value="1.0" />
         <entry key="jpeg" value="9b" />
@@ -389,7 +389,7 @@
         <entry key="memory_profiler" value="0.41" />
         <entry key="menpo" value="0.7.7" />
         <entry key="menpo-pyvrml97" value="2.3.0a4" />
-        <entry key="menpo3d" value="0.4.2" />
+        <entry key="menpo3d" value="0.5.1" />
         <entry key="menpocli" value="0.0.2" />
         <entry key="menpodetect" value="0.4.1" />
         <entry key="menpofit" value="0.4.1" />
@@ -402,7 +402,7 @@
         <entry key="metis" value="5.1.0" />
         <entry key="mingw" value="4.7" />
         <entry key="mistune" value="0.7.3" />
-        <entry key="mkl" value="11.3.3" />
+        <entry key="mkl" value="2017.0.1" />
         <entry key="mkl-rt" value="11.1" />
         <entry key="mkl-service" value="1.1.2" />
         <entry key="mklfft" value="2.1" />
@@ -441,7 +441,7 @@
         <entry key="ncurses" value="5.9" />
         <entry key="ndg-httpsclient" value="0.3.3" />
         <entry key="ndg_httpsclient" value="0.3.3" />
-        <entry key="ndnoise" value="0.0.2" />
+        <entry key="ndnoise" value="0.0.8" />
         <entry key="neon" value="1.5.4" />
         <entry key="netcdf4" value="1.2.4" />
         <entry key="networkx" value="1.11" />
@@ -459,7 +459,7 @@
         <entry key="numbapro" value="0.23.1" />
         <entry key="numbapro_cudalib" value="0.2" />
         <entry key="numexpr" value="2.6.1" />
-        <entry key="numpy" value="1.11.2" />
+        <entry key="numpy" value="1.11.3" />
         <entry key="numpydoc" value="0.6.0" />
         <entry key="odo" value="0.5.0" />
         <entry key="openblas" value="0.2.19" />
@@ -699,7 +699,7 @@
         <entry key="system" value="5.8" />
         <entry key="tabulate" value="0.7.5" />
         <entry key="tblib" value="1.3.0" />
-        <entry key="teigen" value="0.1.21" />
+        <entry key="teigen" value="0.1.22" />
         <entry key="tempita" value="0.5.3" />
         <entry key="tensorflow" value="0.10.0rc0" />
         <entry key="teradata" value="15.10.0.20" />
@@ -1822,6 +1822,7 @@
           <value>
             <list>
               <option value="1.0.0" />
+              <option value="1.1.0" />
             </list>
           </value>
         </entry>
@@ -2086,6 +2087,7 @@
               <option value="4.2.6" />
               <option value="4.2.13" />
               <option value="4.2.14" />
+              <option value="4.2.15" />
             </list>
           </value>
         </entry>
@@ -2169,6 +2171,7 @@
               <option value="2.0.11" />
               <option value="2.0.12" />
               <option value="2.1.0" />
+              <option value="2.1.1" />
             </list>
           </value>
         </entry>
@@ -2288,6 +2291,7 @@
               <option value="1.4.0" />
               <option value="1.5.0" />
               <option value="1.5.1" />
+              <option value="1.5.2" />
             </list>
           </value>
         </entry>
@@ -4148,6 +4152,7 @@
               <option value="0.8.4" />
               <option value="0.9.4" />
               <option value="0.8.3" />
+              <option value="0.10.3" />
             </list>
           </value>
         </entry>
@@ -5030,6 +5035,8 @@
               <option value="0.4.2" />
               <option value="0.4.0" />
               <option value="0.4.1" />
+              <option value="0.5.1" />
+              <option value="0.5.0" />
             </list>
           </value>
         </entry>
@@ -5191,6 +5198,7 @@
               <option value="10.3" />
               <option value="11.3.1" />
               <option value="11.3.3" />
+              <option value="2017.0.1" />
             </list>
           </value>
         </entry>
@@ -5511,6 +5519,9 @@
           <value>
             <list>
               <option value="0.0.2" />
+              <option value="0.0.6" />
+              <option value="0.0.7" />
+              <option value="0.0.8" />
             </list>
           </value>
         </entry>
@@ -5799,6 +5810,7 @@
               <option value="1.11.0" />
               <option value="1.11.1" />
               <option value="1.11.2" />
+              <option value="1.11.3" />
             </list>
           </value>
         </entry>
@@ -8399,6 +8411,7 @@
               <option value="0.1.21" />
               <option value="0.1.7" />
               <option value="0.1.12" />
+              <option value="0.1.22" />
             </list>
           </value>
         </entry>
@@ -9232,6 +9245,6 @@
     <option name="CONDA_CHANNELS">
       <set />
     </option>
-    <option name="LAST_TIME_CHECKED" value="1484056536629" />
+    <option name="LAST_TIME_CHECKED" value="1484301123858" />
   </component>
 </application>
