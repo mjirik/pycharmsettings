@@ -1677,18 +1677,17 @@
         <mark key="^" line="13" column="3" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1484507345954">
-        <mark key="a" line="584" column="30" />
+      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1484512164865">
+        <mark key="a" line="377" column="17" />
         <mark key="b" line="249" column="36" />
-        <mark key="'" line="16" column="0" />
-        <mark key="[" line="399" column="32" />
-        <mark key="]" line="399" column="33" />
-        <mark key="." line="399" column="32" />
-        <mark key="^" line="399" column="34" />
+        <mark key="'" line="55" column="41" />
+        <mark key="[" line="381" column="34" />
+        <mark key="]" line="383" column="35" />
+        <mark key="." line="383" column="35" />
+        <mark key="^" line="383" column="35" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="107" column="58" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="306" column="0" filename="$USER_HOME$/projects/imtools/imtools/show_segmentation_qt.py" />
       <jump line="168" column="20" filename="$USER_HOME$/projects/imtools/imtools/show_segmentation_qt.py" />
       <jump line="288" column="29" filename="$USER_HOME$/projects/teigen/tests/tube_tree_test.py" />
@@ -1788,6 +1787,7 @@
       <jump line="19" column="21" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="615" column="0" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="16" column="0" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
+      <jump line="55" column="41" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5868,46 +5868,46 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>i</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>label</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoCiAgICAgICAgJy1kJywgJy0tZGVidWcnLCBhY3Rpb249J3N0b3JlX3RydWUnLAogICAgICAgIGhlbHA9J0RlYnVnIG1vZGUnKQo=</text>
+        <text encoding="base64">ICAgIGxvZ2dlciA9IGxvZ2dpbmcuZ2V0TG9nZ2VyKCkK</text>
       </register>
       <register name="1" type="4">
-        <text>i</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>args</text>
+        <text>chf</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGNoZiA9IGxvZ2dpbmcuaGFuZGxlcnMuUm90YXRpbmdGaWxlSGFuZGxlcigKICAgICAgICBvcC5leHBhbmR1c2VyKGFyZ3MubG9nZmlsZSksCiAgICAgICAgbWF4Qnl0ZXM9MTAwMDAwLAogICAgICAgIGJhY2t1cENvdW50PTkKICAgICkKICAgIGNoZi5zZXRMZXZlbChsb2dnaW5nLkRFQlVHKQo=</text>
+      <register name="3" type="4">
+        <text>f</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIG9zLnBhdGguZXhwYQo=</text>
+      <register name="4" type="4">
+        <text>h</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBvcy5wYXRoIGFzIG9wCg==</text>
+      <register name="5" type="4">
+        <text>c</text>
       </register>
       <register name="6" type="4">
-        <text>='',</text>
+        <text>f</text>
       </register>
       <register name="7" type="4">
-        <text>action</text>
+        <text>h</text>
       </register>
       <register name="8" type="4">
-        <text>store_true</text>
+        <text>c</text>
       </register>
       <register name="9" type="4">
-        <text>debug</text>
+        <text>,</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
