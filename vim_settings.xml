@@ -962,13 +962,13 @@
         <mark key="." line="51" column="37" />
         <mark key="^" line="51" column="37" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1481194119375">
+      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1484513574060">
         <mark key="a" line="929" column="40" />
-        <mark key="'" line="699" column="18" />
-        <mark key="[" line="930" column="52" />
-        <mark key="]" line="930" column="52" />
-        <mark key="^" line="930" column="52" />
-        <mark key="." line="930" column="52" />
+        <mark key="'" line="1429" column="0" />
+        <mark key="[" line="1447" column="53" />
+        <mark key="]" line="1447" column="84" />
+        <mark key="^" line="1447" column="84" />
+        <mark key="." line="1447" column="84" />
       </file>
       <file name="$USER_HOME$/projects/pyseg_base/setup.py" timestamp="1446642726739">
         <mark key="[" line="58" column="4" />
@@ -1065,13 +1065,13 @@
         <mark key="^" line="2" column="21" />
         <mark key="." line="2" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/generators/cylinders.py" timestamp="1484345272786">
+      <file name="$USER_HOME$/projects/teigen/teigen/generators/cylinders.py" timestamp="1484512973794">
         <mark key="a" line="250" column="19" />
-        <mark key="'" line="120" column="20" />
-        <mark key="[" line="101" column="41" />
-        <mark key="]" line="101" column="40" />
-        <mark key="^" line="101" column="40" />
-        <mark key="." line="101" column="40" />
+        <mark key="'" line="119" column="20" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="13" column="35" />
+        <mark key="^" line="152" column="46" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/projects/skelet3d/examples/example03.py" timestamp="1465901557731">
         <mark key="'" line="6" column="32" />
@@ -1555,12 +1555,12 @@
       <file name="$USER_HOME$/projects/sobo/tests/sobo_test.py" timestamp="1468040831003">
         <mark key="[" line="10" column="48" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/generators/gensei_wrapper.py" timestamp="1480951349176">
-        <mark key="'" line="272" column="0" />
-        <mark key="[" line="124" column="42" />
-        <mark key="]" line="124" column="42" />
-        <mark key="^" line="124" column="42" />
-        <mark key="." line="124" column="42" />
+      <file name="$USER_HOME$/projects/teigen/teigen/generators/gensei_wrapper.py" timestamp="1484512982114">
+        <mark key="'" line="275" column="0" />
+        <mark key="[" line="5" column="36" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/projects/io3d/meta.yaml" timestamp="1469610072485">
         <mark key="[" line="47" column="12" />
@@ -1688,7 +1688,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="306" column="0" filename="$USER_HOME$/projects/imtools/imtools/show_segmentation_qt.py" />
       <jump line="168" column="20" filename="$USER_HOME$/projects/imtools/imtools/show_segmentation_qt.py" />
       <jump line="288" column="29" filename="$USER_HOME$/projects/teigen/tests/tube_tree_test.py" />
       <jump line="227" column="8" filename="$USER_HOME$/projects/imtools/imtools/show_segmentation_qt.py" />
@@ -1788,6 +1787,7 @@
       <jump line="615" column="0" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="16" column="0" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="55" column="41" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
+      <jump line="1429" column="0" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5868,34 +5868,34 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>FileHandler</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>FileHandler</text>
       </register>
       <register name="/" type="4">
         <text>label</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlciA9IGxvZ2dpbmcuZ2V0TG9nZ2VyKCkK</text>
+        <text encoding="base64">ICAgIGZoID0gbG9nZ2luZy5GaWxlSGFuZGxlcihsb2dmaWxlKQo=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+        <text>FileHandler</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>chf</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="4">
-        <text>f</text>
+        <text encoding="base64">Y3lseW5kZXIg</text>
       </register>
       <register name="4" type="4">
-        <text>h</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="5" type="4">
-        <text>c</text>
+        <text>chf</text>
       </register>
       <register name="6" type="4">
         <text>f</text>
@@ -5907,7 +5907,7 @@
         <text>c</text>
       </register>
       <register name="9" type="4">
-        <text>,</text>
+        <text>f</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
