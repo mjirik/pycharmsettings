@@ -962,13 +962,13 @@
         <mark key="." line="51" column="37" />
         <mark key="^" line="51" column="37" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1484513574060">
+      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1484513960807">
         <mark key="a" line="929" column="40" />
         <mark key="'" line="1429" column="0" />
-        <mark key="[" line="1447" column="53" />
-        <mark key="]" line="1447" column="84" />
-        <mark key="^" line="1447" column="84" />
-        <mark key="." line="1447" column="84" />
+        <mark key="[" line="1443" column="0" />
+        <mark key="]" line="1443" column="118" />
+        <mark key="^" line="1443" column="102" />
+        <mark key="." line="1443" column="102" />
       </file>
       <file name="$USER_HOME$/projects/pyseg_base/setup.py" timestamp="1446642726739">
         <mark key="[" line="58" column="4" />
@@ -1664,14 +1664,14 @@
         <mark key="^" line="13" column="3" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1484513766791">
+      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1484513968252">
         <mark key="a" line="377" column="17" />
         <mark key="b" line="249" column="36" />
         <mark key="'" line="55" column="41" />
-        <mark key="[" line="379" column="0" />
-        <mark key="]" line="379" column="92" />
-        <mark key="." line="383" column="35" />
-        <mark key="^" line="383" column="35" />
+        <mark key="[" line="380" column="8" />
+        <mark key="]" line="380" column="8" />
+        <mark key="." line="380" column="8" />
+        <mark key="^" line="380" column="7" />
       </file>
     </filemarks>
     <jumps>
@@ -5854,47 +5854,47 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmb3JtYXR0ZXIgPSBsb2dnaW5nLkZvcm1hdHRlcignJShhc2N0aW1lKXMgJShuYW1lKS0xOHMgJShsZXZlbG5hbWUpLThzICUobWVzc2FnZSlzJykK</text>
+      <register name="&quot;" type="4">
+        <text>f</text>
       </register>
       <register name="-" type="4">
-        <text>FileHandler</text>
+        <text>f</text>
       </register>
       <register name="/" type="4">
         <text>label</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmb3JtYXR0ZXIgPSBsb2dnaW5nLkZvcm1hdHRlcignJShhc2N0aW1lKXMgJShuYW1lKS0xOHMgJShsZXZlbG5hbWUpLThzICUobWVzc2FnZSlzJykK</text>
+        <text encoding="base64">ICAgIGZmb3JtYXR0ZXIgPSBsb2dnaW5nLkZvcm1hdHRlcignJShhc2N0aW1lKXMgJShsZXZlbG5hbWUpLThzICUobmFtZSktMThzICUobGluZW5vKS01ZCAlKGZ1bmNOYW1lKS0xMnMgJShtZXNzYWdlKXMnKQo=</text>
       </register>
       <register name="1" type="4">
-        <text>FileHandler</text>
+        <text>f</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>%(levelname)-8s</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">Y3lseW5kZXIg</text>
+        <text>FileHandler</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="4">
-        <text>chf</text>
+        <text encoding="base64">Y3lseW5kZXIg</text>
       </register>
       <register name="6" type="4">
-        <text>f</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="7" type="4">
-        <text>h</text>
+        <text>chf</text>
       </register>
       <register name="8" type="4">
-        <text>c</text>
+        <text>f</text>
       </register>
       <register name="9" type="4">
-        <text>f</text>
+        <text>h</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
