@@ -1664,18 +1664,17 @@
         <mark key="^" line="13" column="3" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1484515314488">
+      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1484516272962">
         <mark key="a" line="377" column="17" />
         <mark key="b" line="249" column="36" />
-        <mark key="'" line="55" column="41" />
-        <mark key="[" line="285" column="51" />
-        <mark key="]" line="285" column="51" />
-        <mark key="." line="285" column="51" />
-        <mark key="^" line="285" column="52" />
+        <mark key="'" line="285" column="51" />
+        <mark key="[" line="78" column="40" />
+        <mark key="]" line="78" column="57" />
+        <mark key="." line="78" column="57" />
+        <mark key="^" line="78" column="57" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="168" column="20" filename="$USER_HOME$/projects/imtools/imtools/show_segmentation_qt.py" />
       <jump line="288" column="29" filename="$USER_HOME$/projects/teigen/tests/tube_tree_test.py" />
       <jump line="227" column="8" filename="$USER_HOME$/projects/imtools/imtools/show_segmentation_qt.py" />
       <jump line="454" column="0" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
@@ -1775,6 +1774,7 @@
       <jump line="16" column="0" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="55" column="41" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="1429" column="0" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="285" column="51" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5855,46 +5855,46 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>label</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZmb3JtYXR0ZXIgPSBsb2dnaW5nLkZvcm1hdHRlcignJShhc2N0aW1lKXMgJShsZXZlbG5hbWUpLThzICUobmFtZSktMThzICUobGluZW5vKS01ZCAlKGZ1bmNOYW1lKS0xMnMgJShtZXNzYWdlKXMnKQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25maWdbInBvc3Rwcm9jZXNzaW5nIl0gPSBzZWxmLnBvc3Byb2Nlc3Npbmdfd2cuY29uZmlnX2FzX2RpY3QoKQo=</text>
       </register>
       <register name="1" type="4">
-        <text>)</text>
+        <text>.</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">Iiwg</text>
+        <text>self</text>
       </register>
       <register name="3" type="4">
-        <text>ppars</text>
+        <text>)</text>
       </register>
       <register name="4" type="4">
-        <text>(&quot;</text>
+        <text>(</text>
       </register>
       <register name="5" type="4">
-        <text>to_pyqtgraph_struct</text>
+        <text>config_as_dict</text>
       </register>
       <register name="6" type="4">
         <text>.</text>
       </register>
       <register name="7" type="4">
-        <text>dictwidgetpyqtgraph</text>
+        <text>posprocessing_wg</text>
       </register>
       <register name="8" type="4">
         <text>)</text>
       </register>
       <register name="9" type="4">
-        <text>(</text>
+        <text encoding="base64">Iiwg</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -6018,6 +6018,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed CLOSE_BRACKET</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
