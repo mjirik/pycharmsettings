@@ -1677,14 +1677,14 @@
         <mark key="^" line="13" column="3" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1484503658293">
+      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1484507345954">
         <mark key="a" line="584" column="30" />
         <mark key="b" line="249" column="36" />
         <mark key="'" line="16" column="0" />
-        <mark key="[" line="19" column="22" />
-        <mark key="]" line="19" column="22" />
-        <mark key="." line="19" column="22" />
-        <mark key="^" line="19" column="22" />
+        <mark key="[" line="399" column="32" />
+        <mark key="]" line="399" column="33" />
+        <mark key="." line="399" column="32" />
+        <mark key="^" line="399" column="34" />
       </file>
     </filemarks>
     <jumps>
@@ -5867,11 +5867,11 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG9zLnBhdGguZXhwYQo=</text>
+      <register name="&quot;" type="4">
+        <text>i</text>
       </register>
       <register name="-" type="4">
-        <text>='',</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>label</text>
@@ -5879,35 +5879,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoCiAgICAgICAgJy1kJywgJy0tZGVidWcnLCBhY3Rpb249J3N0b3JlX3RydWUnLAogICAgICAgIGhlbHA9J0RlYnVnIG1vZGUnKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIG9zLnBhdGguZXhwYQo=</text>
+      <register name="1" type="4">
+        <text>i</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
+      <register name="2" type="4">
+        <text>args</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGNoZiA9IGxvZ2dpbmcuaGFuZGxlcnMuUm90YXRpbmdGaWxlSGFuZGxlcigKICAgICAgICBvcC5leHBhbmR1c2VyKGFyZ3MubG9nZmlsZSksCiAgICAgICAgbWF4Qnl0ZXM9MTAwMDAwLAogICAgICAgIGJhY2t1cENvdW50PTkKICAgICkKICAgIGNoZi5zZXRMZXZlbChsb2dnaW5nLkRFQlVHKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIG9zLnBhdGguZXhwYQo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgIGltcG9ydCBvcy5wYXRoIGFzIG9wCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="6" type="4">
         <text>='',</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text>action</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text>store_true</text>
       </register>
-      <register name="6" type="4">
-        <text>debug</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGNoZiA9IGxvZ2dpbmcuaGFuZGxlcnMuUm90YXRpbmdGaWxlSGFuZGxlcigpCg==</text>
-      </register>
-      <register name="8" type="4">
-        <text>RotaHandler</text>
-      </register>
       <register name="9" type="4">
-        <text>m</text>
+        <text>debug</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
