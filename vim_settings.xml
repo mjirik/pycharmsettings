@@ -1664,14 +1664,14 @@
         <mark key="^" line="13" column="3" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1484518773483">
+      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1484519438588">
         <mark key="a" line="377" column="17" />
         <mark key="b" line="249" column="36" />
         <mark key="'" line="285" column="51" />
-        <mark key="[" line="286" column="52" />
-        <mark key="]" line="287" column="27" />
-        <mark key="." line="287" column="27" />
-        <mark key="^" line="287" column="27" />
+        <mark key="[" line="282" column="28" />
+        <mark key="]" line="282" column="31" />
+        <mark key="." line="282" column="31" />
+        <mark key="^" line="282" column="31" />
       </file>
     </filemarks>
     <jumps>
@@ -5855,10 +5855,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>p</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>label</text>
@@ -5867,34 +5867,34 @@
         <text encoding="base64">ICAgICAgICBjb25maWdbInBvc3Rwcm9jZXNzaW5nIl0gPSBzZWxmLnBvc3Byb2Nlc3Npbmdfd2cuY29uZmlnX2FzX2RpY3QoKQo=</text>
       </register>
       <register name="1" type="4">
-        <text>p</text>
+        <text>&quot;</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>e</text>
+        <text>save</text>
       </register>
       <register name="3" type="4">
-        <text>r</text>
+        <text>&quot;</text>
       </register>
       <register name="4" type="4">
-        <text>P</text>
+        <text>p</text>
       </register>
       <register name="5" type="4">
-        <text>.</text>
+        <text>e</text>
       </register>
       <register name="6" type="4">
-        <text>self</text>
+        <text>r</text>
       </register>
       <register name="7" type="4">
-        <text>)</text>
+        <text>P</text>
       </register>
       <register name="8" type="4">
-        <text>(</text>
+        <text>.</text>
       </register>
       <register name="9" type="4">
-        <text>config_as_dict</text>
+        <text>self</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
