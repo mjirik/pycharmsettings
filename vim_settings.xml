@@ -1092,12 +1092,6 @@
         <mark key="." line="61" column="37" />
         <mark key="^" line="61" column="37" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1481879359166">
-        <mark key="[" line="497" column="0" />
-        <mark key="]" line="497" column="91" />
-        <mark key="^" line="498" column="89" />
-        <mark key="." line="497" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/teigen/meta.yaml" timestamp="1481052313082">
         <mark key="[" line="56" column="22" />
         <mark key="]" line="50" column="10" />
@@ -1658,13 +1652,6 @@
         <mark key="." line="96" column="0" />
         <mark key="^" line="56" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/segmentationQt.py" timestamp="1478330264053">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="211" column="9" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="96" column="24" />
-      </file>
       <file name="$USER_HOME$/projects/lisa/lisa/texture_features.py" timestamp="1480615659343">
         <mark key="[" line="57" column="38" />
         <mark key="]" line="57" column="38" />
@@ -1677,12 +1664,12 @@
         <mark key="^" line="13" column="3" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1484512164865">
+      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1484513766791">
         <mark key="a" line="377" column="17" />
         <mark key="b" line="249" column="36" />
         <mark key="'" line="55" column="41" />
-        <mark key="[" line="381" column="34" />
-        <mark key="]" line="383" column="35" />
+        <mark key="[" line="379" column="0" />
+        <mark key="]" line="379" column="92" />
         <mark key="." line="383" column="35" />
         <mark key="^" line="383" column="35" />
       </file>
@@ -5867,8 +5854,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>FileHandler</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBmb3JtYXR0ZXIgPSBsb2dnaW5nLkZvcm1hdHRlcignJShhc2N0aW1lKXMgJShuYW1lKS0xOHMgJShsZXZlbG5hbWUpLThzICUobWVzc2FnZSlzJykK</text>
       </register>
       <register name="-" type="4">
         <text>FileHandler</text>
@@ -5877,7 +5864,7 @@
         <text>label</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZoID0gbG9nZ2luZy5GaWxlSGFuZGxlcihsb2dmaWxlKQo=</text>
+        <text encoding="base64">ICAgICAgICBmb3JtYXR0ZXIgPSBsb2dnaW5nLkZvcm1hdHRlcignJShhc2N0aW1lKXMgJShuYW1lKS0xOHMgJShsZXZlbG5hbWUpLThzICUobWVzc2FnZSlzJykK</text>
       </register>
       <register name="1" type="4">
         <text>FileHandler</text>
