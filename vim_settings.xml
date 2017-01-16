@@ -360,11 +360,11 @@
         <mark key="^" line="142" column="55" />
         <mark key="." line="142" column="55" />
       </file>
-      <file name="$USER_HOME$/projects/dicom2fem/dicom2fem/seg2fem.py" timestamp="1484596791605">
-        <mark key="[" line="433" column="10" />
-        <mark key="]" line="433" column="24" />
-        <mark key="^" line="433" column="9" />
-        <mark key="." line="433" column="10" />
+      <file name="$USER_HOME$/projects/dicom2fem/dicom2fem/seg2fem.py" timestamp="1484598376856">
+        <mark key="[" line="434" column="26" />
+        <mark key="]" line="434" column="41" />
+        <mark key="^" line="434" column="41" />
+        <mark key="." line="434" column="41" />
       </file>
       <file name="$USER_HOME$/projects/ndnoise/setup.py" timestamp="1482342356654">
         <mark key="[" line="56" column="29" />
@@ -1047,7 +1047,7 @@
         <mark key="." line="60" column="25" />
         <mark key="^" line="60" column="25" />
       </file>
-      <file name="/Python Console" timestamp="1484597394385">
+      <file name="/Python Console" timestamp="1484598625713">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/events2calendar/tests/e2c_test.py" timestamp="1477320243915">
@@ -1685,11 +1685,12 @@
         <mark key="]" line="50" column="0" />
         <mark key="." line="50" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/dicom2fem/tests/dicom2fem_test.py" timestamp="1484596636095">
-        <mark key="[" line="39" column="22" />
-        <mark key="]" line="40" column="31" />
-        <mark key="^" line="40" column="31" />
-        <mark key="." line="40" column="31" />
+      <file name="$USER_HOME$/projects/dicom2fem/tests/dicom2fem_test.py" timestamp="1484598290609">
+        <mark key="'" line="45" column="40" />
+        <mark key="[" line="8" column="20" />
+        <mark key="]" line="9" column="17" />
+        <mark key="." line="9" column="17" />
+        <mark key="^" line="9" column="17" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/experiments.py" timestamp="1465109582678">
         <mark key="'" line="213" column="9" />
@@ -1748,7 +1749,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="270" column="0" filename="$USER_HOME$/projects/teigen/teigen/generators/gensei_wrapper.py" />
       <jump line="74" column="52" filename="$USER_HOME$/projects/teigen/teigen/generators/cylinders.py" />
       <jump line="59" column="0" filename="$USER_HOME$/projects/imtools/tests/widgets_test.py" />
       <jump line="9" column="25" filename="$USER_HOME$/projects/imtools/tests/widgets_test.py" />
@@ -1848,6 +1848,7 @@
       <jump line="809" column="8" filename="$USER_HOME$/projects/dicom2fem/dicom2fem/dicom2fem.py" />
       <jump line="872" column="10" filename="$USER_HOME$/projects/dicom2fem/dicom2fem/dicom2fem.py" />
       <jump line="20" column="24" filename="$USER_HOME$/projects/dicom2fem/dicom2fem/dicom2fem.py" />
+      <jump line="45" column="40" filename="$USER_HOME$/projects/dicom2fem/tests/dicom2fem_test.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5927,8 +5928,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>, dtype=np.int</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBkYXRhcAo=</text>
       </register>
       <register name="-" type="4">
         <text>, dtype=np.int</text>
@@ -5939,35 +5940,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIG1lc2hfZGF0YSA9IGdlbl9tZXNoX2Zyb21fdm94ZWxzX21jKHNlZ21lbnRhdGlvbiwgdm94ZWxzaXplX21tKQogICAgaWYgc21vb3RoaW5nOgogICAgICAgIG1lc2hfZGF0YS5jb29ycyA9IHNtb290aF9tZXNoKG1lc2hfZGF0YSkKICAgICAgICAjIG1lc2hfZGF0YS5jb29ycyA9IHNlZzJmZW0uc21vb3RoX21lc2gobWVzaF9kYXRhKQoKICAgIGVsc2U6CiAgICAgICAgcGFzcwogICAgICAgICMgbWVzaF9kYXRhID0gZ2VuX21lc2hfZnJvbV92b3hlbHNfbWMoc2VnbWVudGF0aW9uLCB2b3hlbHNpemVfbW0gKiAxLjBlLTIpCiAgICAgICAgIyBtZXNoX2RhdGEuY29vcnMgKz0KICAgIG1lc2hfZGF0YS53cml0ZSh2dGtfZmlsZSkK</text>
       </register>
-      <register name="1" type="4">
-        <text>, dtype=np.int</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBkYXRhcAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>, dtype=np.int</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKFRydWUsIEZhbHNlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>&quot;</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKFRydWUsIEZhbHNlKQo=</text>
       </register>
       <register name="5" type="4">
         <text>&quot;</text>
       </register>
       <register name="6" type="4">
-        <text>/</text>
+        <text>&quot;</text>
       </register>
       <register name="7" type="4">
+        <text>/</text>
+      </register>
+      <register name="8" type="4">
         <text>~</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBpbXBvcnQgb3MK</text>
-      </register>
-      <register name="9" type="4">
-        <text>vtk_file</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
