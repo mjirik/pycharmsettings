@@ -56,10 +56,6 @@
       <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1484513960807">
         <mark key="a" line="929" column="40" />
         <mark key="'" line="1429" column="0" />
-        <mark key="[" line="1443" column="0" />
-        <mark key="]" line="1443" column="118" />
-        <mark key="^" line="1443" column="102" />
-        <mark key="." line="1443" column="102" />
       </file>
       <file name="$USER_HOME$/projects/ndnoise/tests/filter_test.py" timestamp="1482592366787">
         <mark key="'" line="71" column="13" />
@@ -248,11 +244,11 @@
         <mark key="^" line="59" column="22" />
         <mark key="." line="52" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/dicom2fem/dicom2fem/seg2fem.py" timestamp="1484576156825">
-        <mark key="[" line="429" column="27" />
-        <mark key="]" line="429" column="39" />
-        <mark key="^" line="429" column="39" />
-        <mark key="." line="429" column="39" />
+      <file name="$USER_HOME$/projects/dicom2fem/dicom2fem/seg2fem.py" timestamp="1484576231720">
+        <mark key="[" line="11" column="36" />
+        <mark key="]" line="266" column="0" />
+        <mark key="^" line="266" column="0" />
+        <mark key="." line="266" column="0" />
       </file>
       <file name="$USER_HOME$/projects/lisa/tests/dcmreaddata_test.py" timestamp="1477307725531">
         <mark key="a" line="62" column="36" />
@@ -805,7 +801,7 @@
         <mark key="^" line="178" column="21" />
         <mark key="." line="178" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1484576160563">
+      <file name="/Dummy.txt" timestamp="1484576865678">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -854,10 +850,10 @@
         <mark key="^" line="588" column="1" />
         <mark key="." line="588" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/imtools/imtools/show_segmentation.py" timestamp="1480593071957">
+      <file name="$USER_HOME$/projects/imtools/imtools/show_segmentation.py" timestamp="1484576206759">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="106" column="9" />
-        <mark key="]" line="107" column="11" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="12" column="35" />
         <mark key="." line="107" column="11" />
         <mark key="^" line="107" column="11" />
       </file>
@@ -1014,6 +1010,12 @@
         <mark key="]" line="211" column="9" />
         <mark key="." line="24" column="0" />
         <mark key="^" line="96" column="24" />
+      </file>
+      <file name="$USER_HOME$/projects/dicom2fem/meta.yaml" timestamp="1484576851593">
+        <mark key="[" line="41" column="9" />
+        <mark key="]" line="42" column="16" />
+        <mark key="^" line="42" column="16" />
+        <mark key="." line="42" column="16" />
       </file>
       <file name="$USER_HOME$/projects/teigen/teigen/__main__.py" timestamp="1480971926055">
         <mark key="[" line="0" column="0" />
@@ -1466,6 +1468,9 @@
         <mark key="^" line="667" column="84" />
         <mark key="." line="667" column="84" />
       </file>
+      <file name="$USER_HOME$/projects/dicom2fem/dicom2fem/dicom2fem.py" timestamp="1484576811405">
+        <mark key="'" line="20" column="24" />
+      </file>
       <file name="$USER_HOME$/projects/io3d/meta.yaml" timestamp="1469610072485">
         <mark key="[" line="47" column="12" />
         <mark key="]" line="48" column="9" />
@@ -1718,20 +1723,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="288" column="29" filename="$USER_HOME$/projects/teigen/tests/tube_tree_test.py" />
-      <jump line="227" column="8" filename="$USER_HOME$/projects/imtools/imtools/show_segmentation_qt.py" />
-      <jump line="454" column="0" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
-      <jump line="21" column="0" filename="$USER_HOME$/projects/teigen/teigen/generators/cylinders.py" />
-      <jump line="422" column="0" filename="$USER_HOME$/projects/teigen/teigen/generators/cylinders.py" />
-      <jump line="298" column="0" filename="$USER_HOME$/projects/teigen/teigen/generators/cylinders.py" />
-      <jump line="137" column="16" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
-      <jump line="118" column="8" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
-      <jump line="166" column="0" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
-      <jump line="75" column="33" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
-      <jump line="115" column="36" filename="$USER_HOME$/projects/teigen/teigen/generators/gensei_wrapper.py" />
-      <jump line="117" column="10" filename="$USER_HOME$/projects/teigen/teigen/generators/gensei_wrapper.py" />
-      <jump line="151" column="40" filename="$USER_HOME$/projects/teigen/teigen/generators/gensei_wrapper.py" />
-      <jump line="56" column="43" filename="$USER_HOME$/projects/teigen/teigen/generators/gensei_wrapper.py" />
       <jump line="270" column="0" filename="$USER_HOME$/projects/teigen/teigen/generators/gensei_wrapper.py" />
       <jump line="74" column="52" filename="$USER_HOME$/projects/teigen/teigen/generators/cylinders.py" />
       <jump line="59" column="0" filename="$USER_HOME$/projects/imtools/tests/widgets_test.py" />
@@ -1818,6 +1809,20 @@
       <jump line="55" column="41" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="1429" column="0" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="285" column="51" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
+      <jump line="439" column="8" filename="$USER_HOME$/projects/dicom2fem/dicom2fem/dicom2fem.py" />
+      <jump line="491" column="8" filename="$USER_HOME$/projects/dicom2fem/dicom2fem/dicom2fem.py" />
+      <jump line="516" column="8" filename="$USER_HOME$/projects/dicom2fem/dicom2fem/dicom2fem.py" />
+      <jump line="532" column="12" filename="$USER_HOME$/projects/dicom2fem/dicom2fem/dicom2fem.py" />
+      <jump line="556" column="8" filename="$USER_HOME$/projects/dicom2fem/dicom2fem/dicom2fem.py" />
+      <jump line="601" column="8" filename="$USER_HOME$/projects/dicom2fem/dicom2fem/dicom2fem.py" />
+      <jump line="652" column="12" filename="$USER_HOME$/projects/dicom2fem/dicom2fem/dicom2fem.py" />
+      <jump line="687" column="12" filename="$USER_HOME$/projects/dicom2fem/dicom2fem/dicom2fem.py" />
+      <jump line="718" column="8" filename="$USER_HOME$/projects/dicom2fem/dicom2fem/dicom2fem.py" />
+      <jump line="740" column="12" filename="$USER_HOME$/projects/dicom2fem/dicom2fem/dicom2fem.py" />
+      <jump line="779" column="8" filename="$USER_HOME$/projects/dicom2fem/dicom2fem/dicom2fem.py" />
+      <jump line="809" column="8" filename="$USER_HOME$/projects/dicom2fem/dicom2fem/dicom2fem.py" />
+      <jump line="872" column="10" filename="$USER_HOME$/projects/dicom2fem/dicom2fem/dicom2fem.py" />
+      <jump line="20" column="24" filename="$USER_HOME$/projects/dicom2fem/dicom2fem/dicom2fem.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5898,16 +5903,16 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjIGFwcC5leGVjXygpCg==</text>
+        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcKbG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoX19uYW1lX18pCg==</text>
       </register>
       <register name="-" type="4">
         <text>button</text>
       </register>
       <register name="/" type="4">
-        <text>label</text>
+        <text encoding="base64">XDxRQXBwbGljYXRpb25cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAjIGFwcC5leGVjXygpCg==</text>
+        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcKbG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoX19uYW1lX18pCg==</text>
       </register>
       <register name="1" type="4">
         <text>double</text>
@@ -5944,15 +5949,14 @@
       </register>
     </registers>
     <search>
-      <last-search>label</last-search>
+      <last-search encoding="base64">XDxRQXBwbGljYXRpb25cPg==</last-search>
       <last-offset />
-      <last-pattern>label</last-pattern>
+      <last-pattern encoding="base64">XDxRQXBwbGljYXRpb25cPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>SET</entry>
         <entry>resectio</entry>
         <entry>portal</entry>
         <entry encoding="base64">XDx1cGRhdGVfc2xhYl91aVw+</entry>
@@ -5972,9 +5976,9 @@
         <entry>organ_by</entry>
         <entry>split</entry>
         <entry>label</entry>
+        <entry encoding="base64">XDxRQXBwbGljYXRpb25cPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>81</entry>
         <entry>312</entry>
         <entry>885</entry>
         <entry>205</entry>
@@ -5993,6 +5997,7 @@
         <entry>ě</entry>
         <entry>q</entry>
         <entry>425</entry>
+        <entry>430</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
