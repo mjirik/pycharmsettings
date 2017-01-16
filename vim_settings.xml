@@ -360,9 +360,9 @@
         <mark key="^" line="142" column="55" />
         <mark key="." line="142" column="55" />
       </file>
-      <file name="$USER_HOME$/projects/dicom2fem/dicom2fem/seg2fem.py" timestamp="1484577306203">
-        <mark key="[" line="21" column="54" />
-        <mark key="]" line="22" column="17" />
+      <file name="$USER_HOME$/projects/dicom2fem/dicom2fem/seg2fem.py" timestamp="1484593613940">
+        <mark key="[" line="433" column="26" />
+        <mark key="]" line="433" column="39" />
         <mark key="^" line="22" column="17" />
         <mark key="." line="22" column="17" />
       </file>
@@ -5885,8 +5885,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjIGFwcC5leGVjXygpCg==</text>
+      <register name="&quot;" type="4">
+        <text>, dtype=np.int</text>
       </register>
       <register name="-" type="4">
         <text>button</text>
@@ -5894,8 +5894,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxRQXBwbGljYXRpb25cPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAjIGFwcC5leGVjXygpCg==</text>
+      <register name="0" type="4">
+        <text>, dtype=np.int</text>
       </register>
       <register name="1" type="4">
         <text>double</text>
