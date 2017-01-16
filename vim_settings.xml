@@ -1714,14 +1714,13 @@
         <mark key="^" line="13" column="3" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1484559629133">
-        <mark key="a" line="377" column="17" />
-        <mark key="b" line="249" column="36" />
-        <mark key="'" line="285" column="51" />
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="84" column="7" />
-        <mark key="." line="84" column="7" />
-        <mark key="^" line="84" column="7" />
+      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1484604306809">
+        <mark key="a" line="374" column="17" />
+        <mark key="b" line="246" column="36" />
+        <mark key="'" line="282" column="51" />
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="0" />
+        <mark key="." line="83" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -5905,7 +5904,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhcAo=</text>
+        <text encoding="base64">ICAgIGRlZiBwbHVzKHNlbGYsIGE6aW50LCBiOmludCk6CiAgICAgICAgcGFzcwoK</text>
       </register>
       <register name="-" type="4">
         <text>, dtype=np.int</text>
@@ -5917,34 +5916,34 @@
         <text encoding="base64">ICAgIG1lc2hfZGF0YSA9IGdlbl9tZXNoX2Zyb21fdm94ZWxzX21jKHNlZ21lbnRhdGlvbiwgdm94ZWxzaXplX21tKQogICAgaWYgc21vb3RoaW5nOgogICAgICAgIG1lc2hfZGF0YS5jb29ycyA9IHNtb290aF9tZXNoKG1lc2hfZGF0YSkKICAgICAgICAjIG1lc2hfZGF0YS5jb29ycyA9IHNlZzJmZW0uc21vb3RoX21lc2gobWVzaF9kYXRhKQoKICAgIGVsc2U6CiAgICAgICAgcGFzcwogICAgICAgICMgbWVzaF9kYXRhID0gZ2VuX21lc2hfZnJvbV92b3hlbHNfbWMoc2VnbWVudGF0aW9uLCB2b3hlbHNpemVfbW0gKiAxLjBlLTIpCiAgICAgICAgIyBtZXNoX2RhdGEuY29vcnMgKz0KICAgIG1lc2hfZGF0YS53cml0ZSh2dGtfZmlsZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhcAo=</text>
+        <text encoding="base64">ICAgIGRlZiBwbHVzKHNlbGYsIGE6aW50LCBiOmludCk6CiAgICAgICAgcGFzcwoK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBkYXRhcAo=</text>
+      </register>
+      <register name="3" type="4">
         <text>, dtype=np.int</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKFRydWUsIEZhbHNlKQo=</text>
-      </register>
-      <register name="5" type="4">
-        <text>&quot;</text>
       </register>
       <register name="6" type="4">
         <text>&quot;</text>
       </register>
       <register name="7" type="4">
-        <text>/</text>
+        <text>&quot;</text>
       </register>
       <register name="8" type="4">
-        <text>~</text>
+        <text>/</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgb3MK</text>
+      <register name="9" type="4">
+        <text>~</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
