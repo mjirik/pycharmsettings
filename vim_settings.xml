@@ -554,14 +554,13 @@
         <mark key="^" line="14" column="33" />
         <mark key="." line="14" column="33" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1484608715539">
-        <mark key="a" line="374" column="17" />
-        <mark key="b" line="246" column="36" />
-        <mark key="'" line="282" column="51" />
-        <mark key="[" line="456" column="0" />
-        <mark key="]" line="456" column="47" />
-        <mark key="." line="456" column="0" />
-        <mark key="^" line="40" column="38" />
+      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1484650443913">
+        <mark key="a" line="490" column="14" />
+        <mark key="'" line="430" column="57" />
+        <mark key="[" line="429" column="56" />
+        <mark key="]" line="430" column="57" />
+        <mark key="." line="430" column="57" />
+        <mark key="^" line="430" column="57" />
       </file>
       <file name="$USER_HOME$/projects/skelet3d/skelet3d/skeleton_analyser.py" timestamp="1465560469197">
         <mark key="a" line="527" column="28" />
@@ -1766,12 +1765,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="25" filename="$USER_HOME$/projects/imtools/tests/widgets_test.py" />
-      <jump line="79" column="68" filename="$USER_HOME$/projects/imtools/tests/widgets_test.py" />
-      <jump line="80" column="35" filename="$USER_HOME$/projects/imtools/tests/widgets_test.py" />
-      <jump line="10" column="16" filename="$USER_HOME$/projects/imtools/tests/widgets_test.py" />
-      <jump line="54" column="24" filename="$USER_HOME$/projects/imtools/tests/sample_data_test.py" />
-      <jump line="13" column="0" filename="$USER_HOME$/projects/imtools/tests/sample_data_test.py" />
       <jump line="30" column="4" filename="$USER_HOME$/projects/teigen/teigen/iowidgetqt.py" />
       <jump line="255" column="0" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="42" column="4" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
@@ -1866,6 +1859,12 @@
       <jump line="45" column="40" filename="$USER_HOME$/projects/dicom2fem/tests/dicom2fem_test.py" />
       <jump line="411" column="42" filename="$USER_HOME$/projects/dicom2fem/dicom2fem/seg2fem.py" />
       <jump line="458" column="61" filename="$USER_HOME$/projects/dicom2fem/dicom2fem/seg2fem.py" />
+      <jump line="428" column="13" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
+      <jump line="183" column="66" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
+      <jump line="483" column="24" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
+      <jump line="487" column="8" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
+      <jump line="180" column="42" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
+      <jump line="430" column="57" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5946,13 +5945,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>]</text>
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzY2FsZV9mYWN0b3JcPg==</text>
+        <text>tvg.gen.polyData</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fYXJlYV9zYW1wbGluZ19nZW5lcmFsX2V4cG9ydCwK</text>
@@ -5992,18 +5991,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzY2FsZV9mYWN0b3JcPg==</last-search>
+      <last-search>tvg.gen.polyData</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzY2FsZV9mYWN0b3JcPg==</last-pattern>
+      <last-pattern>tvg.gen.polyData</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>resectio</entry>
-        <entry>portal</entry>
-        <entry encoding="base64">XDx1cGRhdGVfc2xhYl91aVw+</entry>
-        <entry encoding="base64">XDxndHJlZVw+</entry>
         <entry>Tree</entry>
         <entry encoding="base64">XDxidWlsZFRyZWVcPg==</entry>
         <entry encoding="base64">XDxmaW5pc2hfcHJvZ3Jlc3NfY2FsbGJhY2tcPg==</entry>
@@ -6020,6 +6015,10 @@
         <entry>split</entry>
         <entry>label</entry>
         <entry encoding="base64">XDxRQXBwbGljYXRpb25cPg==</entry>
+        <entry encoding="base64">XDx0ZW1wX3Z0a19maWxlXD4=</entry>
+        <entry>polyd</entry>
+        <entry encoding="base64">XDxfX2dlbmVyYXRlX3Z0a1w+</entry>
+        <entry>tvg.gen.polyData</entry>
       </history-search>
       <history-cmd>
         <entry>312</entry>
