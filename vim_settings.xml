@@ -47,13 +47,13 @@
         <mark key="." line="158" column="0" />
         <mark key="^" line="163" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1484743005657">
+      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1484743566502">
         <mark key="a" line="65" column="10" />
         <mark key="b" line="1429" column="20" />
-        <mark key="'" line="1607" column="34" />
-        <mark key="[" line="1427" column="0" />
-        <mark key="]" line="1427" column="0" />
-        <mark key="." line="1427" column="0" />
+        <mark key="'" line="65" column="10" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/projects/ndnoise/tests/filter_test.py" timestamp="1482592366787">
         <mark key="'" line="71" column="13" />
@@ -799,7 +799,7 @@
         <mark key="^" line="178" column="21" />
         <mark key="." line="178" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1484741372875">
+      <file name="/Dummy.txt" timestamp="1484743416880">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1744,8 +1744,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="111" column="4" filename="$USER_HOME$/projects/teigen/examples/myqtgraph.py" />
-      <jump line="116" column="12" filename="$USER_HOME$/projects/teigen/examples/myqtgraph.py" />
       <jump line="117" column="20" filename="$USER_HOME$/projects/teigen/examples/myqtgraph.py" />
       <jump line="119" column="19" filename="$USER_HOME$/projects/teigen/examples/myqtgraph.py" />
       <jump line="188" column="16" filename="$USER_HOME$/projects/teigen/examples/myqtgraph.py" />
@@ -1842,8 +1840,10 @@
       <jump line="176" column="50" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="1432" column="20" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="78" column="0" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
-      <jump line="65" column="0" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="1610" column="34" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="1447" column="0" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="20" column="0" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="65" column="10" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5923,47 +5923,47 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcKCmxvZ2dlciA9IGxvZ2dpbmcuZ2V0TG9nZ2VyKCkK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>logging</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>Rotating</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlciA9IGxvZ2dpbmcuZ2V0TG9nZ2VyKCkK</text>
+        <text encoding="base64">ICAgICMgaW1wb3J0IGxvZ2dpbmcuaGFuZGxlcnMK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcKCmxvZ2dlciA9IGxvZ2dpbmcuZ2V0TG9nZ2VyKCkK</text>
+        <text encoding="base64">ICAgICMgaW1wb3J0IGxvZ2dpbmcuaGFuZGxlcnMK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoKQo=</text>
+        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcKCmxvZ2dlciA9IGxvZ2dpbmcuZ2V0TG9nZ2VyKCkK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">bG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bG9nZ2luZy5oYW4K</text>
+        <text encoding="base64">bG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bG9nZ2luZy5oYW4K</text>
       </register>
-      <register name="6" type="4">
-        <text>]</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="4">
         <text>]</text>
       </register>
       <register name="8" type="4">
-        <text>0</text>
+        <text>]</text>
       </register>
       <register name="9" type="4">
-        <text>[</text>
+        <text>0</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
