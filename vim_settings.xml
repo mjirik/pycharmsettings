@@ -47,13 +47,13 @@
         <mark key="." line="158" column="0" />
         <mark key="^" line="163" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1484743566502">
-        <mark key="a" line="65" column="10" />
+      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1484747818659">
+        <mark key="a" line="1199" column="33" />
         <mark key="b" line="1429" column="20" />
-        <mark key="'" line="65" column="10" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+        <mark key="'" line="1140" column="0" />
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="24" />
+        <mark key="." line="66" column="0" />
       </file>
       <file name="$USER_HOME$/projects/ndnoise/tests/filter_test.py" timestamp="1482592366787">
         <mark key="'" line="71" column="13" />
@@ -836,11 +836,11 @@
         <mark key="^" line="44" column="62" />
         <mark key="." line="44" column="62" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/data_manipulation.py" timestamp="1484746549280">
-        <mark key="[" line="183" column="49" />
-        <mark key="]" line="183" column="43" />
-        <mark key="^" line="183" column="43" />
-        <mark key="." line="183" column="43" />
+      <file name="$USER_HOME$/projects/lisa/lisa/data_manipulation.py" timestamp="1484748034404">
+        <mark key="[" line="152" column="27" />
+        <mark key="]" line="153" column="23" />
+        <mark key="^" line="153" column="23" />
+        <mark key="." line="153" column="23" />
       </file>
       <file name="$USER_HOME$/projects/pysegbase/pysegbase/seed_editor_qt.py" timestamp="1472547926144">
         <mark key="[" line="588" column="0" />
@@ -1083,12 +1083,13 @@
         <mark key="^" line="12" column="34" />
         <mark key="." line="12" column="34" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/tests/vessels_segmentation_test.py" timestamp="1484746517249">
-        <mark key="'" line="118" column="36" />
-        <mark key="[" line="143" column="26" />
-        <mark key="]" line="145" column="65" />
-        <mark key="^" line="145" column="65" />
-        <mark key="." line="145" column="65" />
+      <file name="$USER_HOME$/projects/lisa/tests/vessels_segmentation_test.py" timestamp="1484748326149">
+        <mark key="a" line="139" column="9" />
+        <mark key="'" line="139" column="9" />
+        <mark key="[" line="147" column="27" />
+        <mark key="]" line="147" column="27" />
+        <mark key="^" line="7" column="9" />
+        <mark key="." line="147" column="27" />
       </file>
       <file name="$USER_HOME$/projects/pysegbase/setup.py" timestamp="1446724411661">
         <mark key="[" line="57" column="39" />
@@ -1157,7 +1158,7 @@
         <mark key="." line="116" column="0" />
         <mark key="^" line="83" column="65" />
       </file>
-      <file name="/Python Console" timestamp="1484746066326">
+      <file name="/Python Console" timestamp="1484748095170">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -1741,8 +1742,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="117" column="20" filename="$USER_HOME$/projects/teigen/examples/myqtgraph.py" />
-      <jump line="119" column="19" filename="$USER_HOME$/projects/teigen/examples/myqtgraph.py" />
       <jump line="188" column="16" filename="$USER_HOME$/projects/teigen/examples/myqtgraph.py" />
       <jump line="189" column="16" filename="$USER_HOME$/projects/teigen/examples/myqtgraph.py" />
       <jump line="190" column="16" filename="$USER_HOME$/projects/teigen/examples/myqtgraph.py" />
@@ -1841,6 +1840,8 @@
       <jump line="1447" column="0" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="20" column="0" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="65" column="10" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="1140" column="0" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="138" column="9" filename="$USER_HOME$/projects/lisa/tests/vessels_segmentation_test.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5921,46 +5922,46 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>sample</text>
+        <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>sample</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text>Rotating</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICMgaW1wb3J0IGxvZ2dpbmcuaGFuZGxlcnMK</text>
+        <text encoding="base64">IyAgICAgICAgYXBwID0gUUFwcGxpY2F0aW9uKHN5cy5hcmd2KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgaW1wb3J0IGxvZ2dpbmcuaGFuZGxlcnMK</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgZGF0YV9tYW5pcHVsYXRpb24K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcKCmxvZ2dlciA9IGxvZ2dpbmcuZ2V0TG9nZ2VyKCkK</text>
+        <text encoding="base64">ICAgICMgaW1wb3J0IGxvZ2dpbmcuaGFuZGxlcnMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoKQo=</text>
+        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcKCmxvZ2dlciA9IGxvZ2dpbmcuZ2V0TG9nZ2VyKCkK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">bG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bG9nZ2luZy5oYW4K</text>
+        <text encoding="base64">bG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bG9nZ2luZy5oYW4K</text>
       </register>
-      <register name="7" type="4">
-        <text>]</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="4">
         <text>]</text>
       </register>
       <register name="9" type="4">
-        <text>0</text>
+        <text>]</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
