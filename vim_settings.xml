@@ -47,13 +47,13 @@
         <mark key="." line="158" column="0" />
         <mark key="^" line="163" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1484513960807">
-        <mark key="a" line="929" column="40" />
-        <mark key="'" line="1429" column="0" />
-        <mark key="[" line="1443" column="0" />
-        <mark key="]" line="1443" column="118" />
-        <mark key="^" line="1443" column="102" />
-        <mark key="." line="1443" column="102" />
+      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1484739806675">
+        <mark key="a" line="1429" column="17" />
+        <mark key="'" line="1708" column="4" />
+        <mark key="[" line="1428" column="38" />
+        <mark key="]" line="1429" column="17" />
+        <mark key="^" line="1429" column="17" />
+        <mark key="." line="1429" column="17" />
       </file>
       <file name="$USER_HOME$/projects/ndnoise/tests/filter_test.py" timestamp="1482592366787">
         <mark key="'" line="71" column="13" />
@@ -1744,7 +1744,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="255" column="0" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="42" column="4" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="252" column="22" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="91" column="38" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
@@ -1818,7 +1817,6 @@
       <jump line="615" column="0" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="16" column="0" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="55" column="41" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
-      <jump line="1429" column="0" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="285" column="51" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="439" column="8" filename="$USER_HOME$/projects/dicom2fem/dicom2fem/dicom2fem.py" />
       <jump line="491" column="8" filename="$USER_HOME$/projects/dicom2fem/dicom2fem/dicom2fem.py" />
@@ -1844,6 +1842,8 @@
       <jump line="180" column="42" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="430" column="57" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="31" column="0" filename="$USER_HOME$/projects/dicom2fem/dicom2fem/seg2fem.py" />
+      <jump line="1429" column="17" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="1708" column="4" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
