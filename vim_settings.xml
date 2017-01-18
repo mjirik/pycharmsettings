@@ -47,14 +47,13 @@
         <mark key="." line="158" column="0" />
         <mark key="^" line="163" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1484741812528">
+      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1484743005657">
         <mark key="a" line="65" column="10" />
-        <mark key="b" line="1432" column="20" />
-        <mark key="'" line="65" column="0" />
-        <mark key="[" line="1427" column="13" />
-        <mark key="]" line="1427" column="13" />
-        <mark key="^" line="1427" column="13" />
-        <mark key="." line="1427" column="13" />
+        <mark key="b" line="1429" column="20" />
+        <mark key="'" line="1607" column="34" />
+        <mark key="[" line="1427" column="0" />
+        <mark key="]" line="1427" column="0" />
+        <mark key="." line="1427" column="0" />
       </file>
       <file name="$USER_HOME$/projects/ndnoise/tests/filter_test.py" timestamp="1482592366787">
         <mark key="'" line="71" column="13" />
@@ -1745,7 +1744,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="108" column="14" filename="$USER_HOME$/projects/teigen/examples/myqtgraph.py" />
       <jump line="111" column="4" filename="$USER_HOME$/projects/teigen/examples/myqtgraph.py" />
       <jump line="116" column="12" filename="$USER_HOME$/projects/teigen/examples/myqtgraph.py" />
       <jump line="117" column="20" filename="$USER_HOME$/projects/teigen/examples/myqtgraph.py" />
@@ -1845,6 +1843,7 @@
       <jump line="1432" column="20" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="78" column="0" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="65" column="0" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="1610" column="34" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5924,20 +5923,20 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>logging</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcKCmxvZ2dlciA9IGxvZ2dpbmcuZ2V0TG9nZ2VyKCkK</text>
       </register>
       <register name="-" type="4">
         <text>logging</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsb2dnaW5nXD4=</text>
+        <text>Rotating</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGxvZ2dlciA9IGxvZ2dpbmcuZ2V0TG9nZ2VyKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoKQo=</text>
+        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcKCmxvZ2dlciA9IGxvZ2dpbmcuZ2V0TG9nZ2VyKCkK</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -5946,41 +5945,39 @@
         <text encoding="base64">bG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bG9nZ2luZy5oYW4K</text>
+        <text encoding="base64">bG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bG9nZ2luZy5oYW4K</text>
       </register>
-      <register name="5" type="4">
-        <text>]</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="4">
         <text>]</text>
       </register>
       <register name="7" type="4">
-        <text>0</text>
+        <text>]</text>
       </register>
       <register name="8" type="4">
-        <text>[</text>
+        <text>0</text>
       </register>
       <register name="9" type="4">
-        <text>two_points_id</text>
+        <text>[</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsb2dnaW5nXD4=</last-search>
+      <last-search>Rotating</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsb2dnaW5nXD4=</last-pattern>
+      <last-pattern>Rotating</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxidWlsZFRyZWVcPg==</entry>
-        <entry encoding="base64">XDxmaW5pc2hfcHJvZ3Jlc3NfY2FsbGJhY2tcPg==</entry>
         <entry encoding="base64">XDxfc3BsaXR0ZXJcPg==</entry>
         <entry encoding="base64">XDxyZWdpc3RlclBhcmFtZXRlclR5cGVcPg==</entry>
         <entry encoding="base64">XDx0YWJzXD4=</entry>
@@ -5999,6 +5996,8 @@
         <entry encoding="base64">XDxfX2dlbmVyYXRlX3Z0a1w+</entry>
         <entry>tvg.gen.polyData</entry>
         <entry encoding="base64">XDxsb2dnaW5nXD4=</entry>
+        <entry>rotato</entry>
+        <entry>Rotating</entry>
       </history-search>
       <history-cmd>
         <entry>312</entry>
