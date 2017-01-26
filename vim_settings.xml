@@ -741,7 +741,7 @@
         <mark key="." line="33" column="20" />
         <mark key="^" line="33" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1485401402145">
+      <file name="/Dummy.txt" timestamp="1485454447066">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/imtools/imtools/sample_data.py" timestamp="1484596144458">
@@ -1719,13 +1719,13 @@
         <mark key="^" line="13" column="3" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1485453293278">
+      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1485453918749">
         <mark key="a" line="490" column="14" />
         <mark key="'" line="430" column="57" />
-        <mark key="[" line="627" column="28" />
-        <mark key="]" line="627" column="34" />
-        <mark key="." line="627" column="34" />
-        <mark key="^" line="627" column="34" />
+        <mark key="[" line="628" column="32" />
+        <mark key="]" line="629" column="30" />
+        <mark key="." line="629" column="30" />
+        <mark key="^" line="629" column="30" />
       </file>
     </filemarks>
     <jumps>
@@ -5909,10 +5909,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>DEBUG</text>
+        <text>WARNING</text>
       </register>
       <register name="-" type="4">
-        <text>DEBUG</text>
+        <text>WARNING</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
