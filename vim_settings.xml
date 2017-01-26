@@ -820,11 +820,11 @@
         <mark key="." line="116" column="0" />
         <mark key="^" line="83" column="65" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/tests/geometry3_test.py" timestamp="1485385604195">
-        <mark key="[" line="15" column="14" />
-        <mark key="]" line="16" column="13" />
-        <mark key="^" line="16" column="13" />
-        <mark key="." line="16" column="13" />
+      <file name="$USER_HOME$/projects/teigen/tests/geometry3_test.py" timestamp="1485388778655">
+        <mark key="[" line="13" column="21" />
+        <mark key="]" line="12" column="23" />
+        <mark key="^" line="12" column="23" />
+        <mark key="." line="12" column="23" />
       </file>
       <file name="$USER_HOME$/projects/skelet3d/install_linux.md" timestamp="1464957280328">
         <mark key="[" line="30" column="0" />
@@ -1032,7 +1032,7 @@
         <mark key="." line="60" column="25" />
         <mark key="^" line="60" column="25" />
       </file>
-      <file name="/Python Console" timestamp="1485385871740">
+      <file name="/Python Console" timestamp="1485388515483">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/events2calendar/tests/e2c_test.py" timestamp="1477320243915">
@@ -1155,12 +1155,12 @@
         <mark key="." line="21" column="26" />
         <mark key="^" line="21" column="51" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/geometry3d.py" timestamp="1485385902268">
-        <mark key="'" line="181" column="44" />
-        <mark key="[" line="230" column="40" />
-        <mark key="]" line="230" column="36" />
-        <mark key="." line="230" column="36" />
-        <mark key="^" line="230" column="36" />
+      <file name="$USER_HOME$/projects/teigen/teigen/geometry3d.py" timestamp="1485388416718">
+        <mark key="'" line="185" column="44" />
+        <mark key="[" line="196" column="43" />
+        <mark key="]" line="196" column="43" />
+        <mark key="." line="196" column="43" />
+        <mark key="^" line="194" column="30" />
       </file>
       <file name="$USER_HOME$/projects/dicom2fem/dicom2fem/marching_cubes.py" timestamp="1484596732116">
         <mark key="[" line="371" column="69" />
@@ -5905,10 +5905,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>01</text>
+        <text>2</text>
       </register>
       <register name="-" type="4">
-        <text>01</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDT05UT1VSU19DT0xPUlNcPg==</text>
@@ -5917,34 +5917,34 @@
         <text encoding="base64">ICAgICAgICBwdDEgPSBbXQo=</text>
       </register>
       <register name="1" type="4">
-        <text>01</text>
+        <text>2</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>.</text>
-      </register>
-      <register name="3" type="4">
         <text>0</text>
       </register>
-      <register name="4" type="4">
-        <text>01</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBzdGVwX251bWJlciA9IAo=</text>
       </register>
-      <register name="5" type="4">
-        <text>.</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHN0ZXAgPSAyICogcmFkaXVzX21tCg==</text>
       </register>
       <register name="6" type="4">
-        <text>0</text>
+        <text>01</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="8" type="4">
-        <text>,</text>
+        <text>0</text>
       </register>
       <register name="9" type="4">
-        <text>b</text>
+        <text>01</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
