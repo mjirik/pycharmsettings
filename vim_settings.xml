@@ -1092,11 +1092,11 @@
         <mark key="^" line="2" column="21" />
         <mark key="." line="2" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/generators/cylinders.py" timestamp="1484512973794">
+      <file name="$USER_HOME$/projects/teigen/teigen/generators/cylinders.py" timestamp="1485397434791">
         <mark key="a" line="250" column="19" />
         <mark key="'" line="119" column="20" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="13" column="35" />
+        <mark key="[" line="298" column="0" />
+        <mark key="]" line="308" column="26" />
         <mark key="^" line="152" column="46" />
         <mark key="." line="13" column="0" />
       </file>
@@ -1155,12 +1155,12 @@
         <mark key="." line="21" column="26" />
         <mark key="^" line="21" column="51" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/geometry3d.py" timestamp="1485396617509">
-        <mark key="'" line="190" column="44" />
-        <mark key="[" line="255" column="55" />
-        <mark key="]" line="257" column="17" />
-        <mark key="." line="257" column="17" />
-        <mark key="^" line="257" column="17" />
+      <file name="$USER_HOME$/projects/teigen/teigen/geometry3d.py" timestamp="1485398557316">
+        <mark key="'" line="211" column="44" />
+        <mark key="[" line="81" column="27" />
+        <mark key="]" line="81" column="27" />
+        <mark key="." line="81" column="27" />
+        <mark key="^" line="81" column="27" />
       </file>
       <file name="$USER_HOME$/projects/dicom2fem/dicom2fem/marching_cubes.py" timestamp="1484596732116">
         <mark key="[" line="371" column="69" />
@@ -1481,12 +1481,12 @@
         <mark key="." line="263" column="0" />
         <mark key="^" line="34" column="7" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/generators/unconnected_cylinders.py" timestamp="1485396829015">
-        <mark key="a" line="276" column="44" />
-        <mark key="[" line="152" column="91" />
-        <mark key="]" line="153" column="75" />
-        <mark key="." line="153" column="75" />
-        <mark key="^" line="153" column="75" />
+      <file name="$USER_HOME$/projects/teigen/teigen/generators/unconnected_cylinders.py" timestamp="1485398413724">
+        <mark key="a" line="283" column="44" />
+        <mark key="[" line="220" column="87" />
+        <mark key="]" line="221" column="33" />
+        <mark key="." line="221" column="33" />
+        <mark key="^" line="221" column="33" />
       </file>
       <file name="$USER_HOME$/projects/skelet3d/examples/example02.py" timestamp="1465398838088">
         <mark key="'" line="17" column="9" />
@@ -5904,47 +5904,47 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpID0gMAo=</text>
+      <register name="&quot;" type="4">
+        <text>A</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>A</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDT05UT1VSU19DT0xPUlNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhcmVhX3ZvbHVtZSA9IG5wLnByb2Qoc2VsZi52b3hlbHNpemVfbW0gKiBzZWxmLmFyZWFzaXplX3B4KQo=</text>
+        <text encoding="base64">ICAgIG5vZGVBID0gbnAuYXNhcnJheShub2RlQSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpID0gMAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHB0MSwgcHQyID0gZzMuZ2V0X3BvaW50c19jbG9zZXIocHQxLCBwdDIsIHJlbGF0aXZlX2xlbmd0aD0wLjc1KQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhcmVhX3ZvbHVtZSA9IG5wLnByb2Qoc2VsZi52b3hlbHNpemVfbW0gKiBzZWxmLmFyZWFzaXplX3B4KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29sbGlzaW9uID0gVHJ1ZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgc2VsZi5pc19maW5hbF9pdGVyYXRpb24oKToKICAgICAgICAgICAgICAgIHJldHVybgo=</text>
+        <text encoding="base64">ICAgICAgICBpID0gMAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgc2VsZi5pc19maW5hbF9pdGVyYXRpb24oKToKICAgICAgICAgICAgICAgIHJldHVybgo=</text>
+        <text encoding="base64">ICAgICAgICBhcmVhX3ZvbHVtZSA9IG5wLnByb2Qoc2VsZi52b3hlbHNpemVfbW0gKiBzZWxmLmFyZWFzaXplX3B4KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5hZGRfY3lsaW5kZXJfdG9fc3RhdHMoaSwgcHQxLCBwdDIsIHJhZGl1cz1yYWRpdXMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgc2VsZi5pc19maW5hbF9pdGVyYXRpb24oKToKICAgICAgICAgICAgICAgIHJldHVybgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaSA9IGkrMQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgc2VsZi5pc19maW5hbF9pdGVyYXRpb24oKToKICAgICAgICAgICAgICAgIHJldHVybgo=</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5hZGRfY3lsaW5kZXJfdG9fc3RhdHMoaSwgcHQxLCBwdDIsIHJhZGl1cz1yYWRpdXMpCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaSA9IGkrMQo=</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">ICAgIGRlZiBfZ2V0X3JhbmRvbV9wb2ludAo=</text>
-      </register>
-      <register name="8" type="4">
-        <text>1</text>
-      </register>
-      <register name="9" type="4">
-        <text>collision</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
