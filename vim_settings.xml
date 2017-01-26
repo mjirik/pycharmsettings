@@ -1032,7 +1032,7 @@
         <mark key="." line="60" column="25" />
         <mark key="^" line="60" column="25" />
       </file>
-      <file name="/Python Console" timestamp="1485392077225">
+      <file name="/Python Console" timestamp="1485392663977">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/events2calendar/tests/e2c_test.py" timestamp="1477320243915">
@@ -1041,7 +1041,7 @@
         <mark key="^" line="27" column="28" />
         <mark key="." line="27" column="28" />
       </file>
-      <file name="/fragment.py" timestamp="1484753158855">
+      <file name="/fragment.py" timestamp="1485393010017">
         <mark key="i" line="0" column="5" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="6" column="15" />
@@ -1155,12 +1155,12 @@
         <mark key="." line="21" column="26" />
         <mark key="^" line="21" column="51" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/geometry3d.py" timestamp="1485392074254">
-        <mark key="'" line="189" column="44" />
-        <mark key="[" line="47" column="58" />
-        <mark key="]" line="47" column="61" />
-        <mark key="." line="47" column="61" />
-        <mark key="^" line="47" column="61" />
+      <file name="$USER_HOME$/projects/teigen/teigen/geometry3d.py" timestamp="1485393673064">
+        <mark key="'" line="190" column="44" />
+        <mark key="[" line="253" column="73" />
+        <mark key="]" line="253" column="82" />
+        <mark key="." line="253" column="82" />
+        <mark key="^" line="253" column="82" />
       </file>
       <file name="$USER_HOME$/projects/dicom2fem/dicom2fem/marching_cubes.py" timestamp="1484596732116">
         <mark key="[" line="371" column="69" />
@@ -1481,12 +1481,12 @@
         <mark key="." line="263" column="0" />
         <mark key="^" line="34" column="7" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/generators/unconnected_cylinders.py" timestamp="1485384627515">
-        <mark key="a" line="268" column="44" />
-        <mark key="[" line="210" column="21" />
-        <mark key="]" line="210" column="21" />
-        <mark key="^" line="111" column="104" />
-        <mark key="." line="210" column="21" />
+      <file name="$USER_HOME$/projects/teigen/teigen/generators/unconnected_cylinders.py" timestamp="1485393710942">
+        <mark key="a" line="270" column="44" />
+        <mark key="[" line="206" column="15" />
+        <mark key="]" line="206" column="14" />
+        <mark key="." line="206" column="14" />
+        <mark key="^" line="206" column="14" />
       </file>
       <file name="$USER_HOME$/projects/skelet3d/examples/example02.py" timestamp="1465398838088">
         <mark key="'" line="17" column="9" />
@@ -5904,47 +5904,47 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>p2</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHQxID0gc2VsZi5jb2xsaXNpb25fbW9kZWwuZ2V0X3JhbmRvbV9wb2ludChyYWRpdXM9cmFkaXVzKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>p2</text>
+        <text>voxelsize_mm</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDT05UT1VSU19DT0xPUlNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRpc3QgPSBucC5zdW0oKG5wLmFzYXJyYXkobm9kZXMpIC0gbm9kZSkqKjIsIGF4aXM9MSkqKjAuNQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHQxID0gc2VsZi5jb2xsaXNpb25fbW9kZWwuZ2V0X3JhbmRvbV9wb2ludChyYWRpdXM9cmFkaXVzKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>1</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGRlZiBfZ2V0X3JhbmRvbV9wb2ludAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>collision</text>
+        <text>1</text>
       </register>
       <register name="3" type="4">
-        <text>False</text>
+        <text>collision</text>
       </register>
       <register name="4" type="4">
-        <text>_</text>
+        <text>False</text>
       </register>
       <register name="5" type="4">
-        <text>o</text>
+        <text>_</text>
       </register>
       <register name="6" type="4">
-        <text>n</text>
+        <text>o</text>
       </register>
       <register name="7" type="4">
-        <text>2</text>
+        <text>n</text>
       </register>
       <register name="8" type="4">
-        <text>0</text>
+        <text>2</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzdGVwX251bWJlciA9IAo=</text>
+      <register name="9" type="4">
+        <text>0</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
