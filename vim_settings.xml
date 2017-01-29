@@ -741,7 +741,7 @@
         <mark key="." line="33" column="20" />
         <mark key="^" line="33" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1485454447066">
+      <file name="/Dummy.txt" timestamp="1485719055482">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/imtools/imtools/sample_data.py" timestamp="1484596144458">
@@ -823,11 +823,11 @@
         <mark key="." line="116" column="0" />
         <mark key="^" line="83" column="65" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/tests/geometry3_test.py" timestamp="1485717792909">
-        <mark key="[" line="80" column="53" />
-        <mark key="]" line="80" column="54" />
-        <mark key="^" line="77" column="26" />
-        <mark key="." line="80" column="54" />
+      <file name="$USER_HOME$/projects/teigen/tests/geometry3_test.py" timestamp="1485718637049">
+        <mark key="[" line="81" column="21" />
+        <mark key="]" line="81" column="35" />
+        <mark key="^" line="81" column="35" />
+        <mark key="." line="81" column="35" />
       </file>
       <file name="$USER_HOME$/projects/skelet3d/install_linux.md" timestamp="1464957280328">
         <mark key="[" line="30" column="0" />
@@ -1035,7 +1035,7 @@
         <mark key="." line="60" column="25" />
         <mark key="^" line="60" column="25" />
       </file>
-      <file name="/Python Console" timestamp="1485717803807">
+      <file name="/Python Console" timestamp="1485718878969">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/events2calendar/tests/e2c_test.py" timestamp="1477320243915">
@@ -1158,12 +1158,12 @@
         <mark key="." line="21" column="26" />
         <mark key="^" line="21" column="51" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/geometry3d.py" timestamp="1485718312725">
+      <file name="$USER_HOME$/projects/teigen/teigen/geometry3d.py" timestamp="1485719036001">
         <mark key="'" line="221" column="44" />
-        <mark key="[" line="264" column="32" />
-        <mark key="]" line="264" column="12" />
-        <mark key="." line="264" column="12" />
-        <mark key="^" line="264" column="9" />
+        <mark key="[" line="274" column="0" />
+        <mark key="]" line="274" column="0" />
+        <mark key="^" line="257" column="55" />
+        <mark key="." line="274" column="0" />
       </file>
       <file name="$USER_HOME$/projects/dicom2fem/dicom2fem/marching_cubes.py" timestamp="1484596732116">
         <mark key="[" line="371" column="69" />
@@ -5909,66 +5909,48 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBteDEgPSBucC5tYXgoYmJveDFbYXhdKQogICAgICAgIG1uMSA9IG5wLm1pbihiYm94MVtheF0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text>check_Collision</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBteDEgPSBucC5tYXgoYmJveDFbYXhdKQogICAgICAgIG1uMSA9IG5wLm1pbihiYm94MVtheF0pCg==</text>
+      <register name="0" type="4">
+        <text>[[minX, maxX], [minY, maxY] ... [...]]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKEZhbHNlLCBUcnVlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBiYjMgPSAK</text>
+        <text encoding="base64">CgoKCiAgICAjIGNvcm5lciA9IG5wLnplcm9zKFtsZW4oYmJveDEpXSkKICAgICMgZm9yIGF4bWFwIGluIGl0ZXJ0b29scy5wcm9kdWN0KFswLCAxXSwgcmVwZWF0PWxlbihiYm94MSkpOgogICAgIyAgICAgZm9yIGkgaW4gcmFuZ2UobGVuKGF4bWFwKSk6CiAgICAjICAgICAgICAgY29ybmVyW2ldID0gYmJveDFbaSwgYXhtYXBbaV1dCiAgICAjICAgICBpc19pbiA9IG5wLmFueSgoYmJveDJbOiwgMF0gPD0gY29ybmVyKSAmIChjb3JuZXIgPD0gYmJveDJbOiwgMV0pKQogICAgIyAgICAgaWYgaXNfaW46CiAgICAjICAgICAgICAgcmV0dXJuIGlzX2luCiAgICAjCiAgICAjCiAgICAjIGJiMVs6LCAwXQoKZGVmIGNoZWNrX0NvbGxpc2lvbihib3gxLCBib3gyKToKICAgIHByaW50KCdcbktvbGxpc2lvbnNjaGVjayBtaXQ6JykKCiAgICB4X21heCA9IG5wLm1heChib3gxWzBdKQogICAgeF9taW4gPSBucC5taW4oYm94MVswXSkKICAgIHlfbWF4ID0gbnAubWF4KGJveDFbMV0pCiAgICB5X21pbiA9IG5wLm1pbihib3gxWzFdKQogICAgel9tYXggPSBucC5tYXgoYm94MVsyXSkKICAgIHpfbWluID0gbnAubWluKGJveDFbMl0pCiAgICBwcmludCgnQm94MSBtaW4gJS4yZiwgJS4yZiwgJS4yZicgJSAoeF9taW4sIHlfbWluLCB6X21pbikpCiAgICBwcmludCgnQm94MSBtYXggJS4yZiwgJS4yZiwgJS4yZicgJSAoeF9tYXgsIHlfbWF4LCB6X21heCkpCgogICAgeF9tYXgyID0gbnAubWF4KGJveDJbMF0pCiAgICB4X21pbjIgPSBucC5taW4oYm94MlswXSkKICAgIHlfbWF4MiA9IG5wLm1heChib3gyWzFdKQogICAgeV9taW4yID0gbnAubWluKGJveDJbMV0pCiAgICB6X21heDIgPSBucC5tYXgoYm94MlsyXSkKICAgIHpfbWluMiA9IG5wLm1pbihib3gyWzJdKQogICAgcHJpbnQoJ0JveDIgbWluICUuMmYsICUuMmYsICUuMmYnICUgKHhfbWluMiwgeV9taW4yLCB6X21pbjIpKQogICAgcHJpbnQoJ0JveDIgbWF4ICUuMmYsICUuMmYsICUuMmYnICUgKHhfbWF4MiwgeV9tYXgyLCB6X21heDIpKQoKCiAgICBpc0NvbGxpZGluZyA9ICgoeF9tYXggPj0geF9taW4yIGFuZCB4X21heCA8PSB4X21heDIpIFwKICAgICAgICAgICAgICAgICAgICBvciAoeF9taW4gPD0geF9tYXgyIGFuZCB4X21pbiA+PSB4X21pbjIpKSBcCiAgICAgICAgICAgICAgICAgICAgYW5kICgoeV9tYXggPj0geV9taW4yIGFuZCB5X21heCA8PSB5X21heDIpIFwKICAgICAgICAgICAgICAgICAgICBvciAoeV9taW4gPD0geV9tYXgyIGFuZCB5X21pbiA+PSB5X21pbjIpKSBcCiAgICAgICAgICAgICAgICAgICAgYW5kICgoel9tYXggPj0gel9taW4yIGFuZCB6X21heCA8PSB6X21heDIpIFwKICAgICAgICAgICAgICAgICAgICBvciAoel9taW4gPD0gel9tYXgyIGFuZCB6X21pbiA+PSB6X21pbjIpKQoKICAgIGlmIGlzQ29sbGlkaW5nOgogICAgICAgIHByaW50KCdLb2xsaXNpb24hJykKCiAgICByZXR1cm4gaXNDb2xsaWRpbmcKCg==</text>
       </register>
-      <register name="4" type="8">
-        <text>]
-]
-]
-]
-]
-]</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGltcG9ydCBpdGVydG9vbHMK</text>
       </register>
-      <register name="5" type="8">
-        <text encoding="base64">W2VbMF0gZm9yIGUgaW4gCltlWzBdIGZvciBlIGluIApbZVsxXSBmb3IgZSBpbiAKW2VbMV0gZm9yIGUgaW4gCltlWzJdIGZvciBlIGluIApbZVsyXSBmb3IgZSBpbiA=</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="8">
-        <text encoding="base64">W2UgZm9yIGUgaW4gCltlIGZvciBlIGluIApbZSBmb3IgZSBpbiAKW2UgZm9yIGUgaW4gCltlIGZvciBlIGluIApbZSBmb3IgZSBpbiA=</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="8">
-        <text>]
-]
-]
-]
-]
-]</text>
+        <text>[ax]
+[ax]
+[ax]</text>
       </register>
-      <register name="8" type="8">
-        <text>[0]
-[0]
-[1]
-[1]
-[2]
-[2]</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGZvciBheCBpbiByYW5nZShsZW4oYmJveDEpKToK</text>
       </register>
-      <register name="9" type="8">
-        <text>[e[0] for e in
-[e[0] for e in
-[e[1] for e in
-[e[1] for e in
-[e[2] for e in
-[e[2] for e in</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKEZhbHNlLCBUcnVlKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
