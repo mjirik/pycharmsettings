@@ -1411,12 +1411,12 @@
         <mark key="." line="9" column="22" />
         <mark key="^" line="9" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/geometry3d.py" timestamp="1485727809466">
+      <file name="$USER_HOME$/projects/teigen/teigen/geometry3d.py" timestamp="1485779091951">
         <mark key="'" line="221" column="44" />
-        <mark key="[" line="270" column="0" />
-        <mark key="]" line="270" column="23" />
-        <mark key="^" line="269" column="7" />
-        <mark key="." line="270" column="0" />
+        <mark key="[" line="408" column="64" />
+        <mark key="]" line="408" column="12" />
+        <mark key="^" line="408" column="58" />
+        <mark key="." line="408" column="12" />
       </file>
       <file name="$USER_HOME$/projects/sed3/requirements_conda.txt" timestamp="1454930331485">
         <mark key="[" line="3" column="0" />
@@ -5909,8 +5909,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGlmIGJib3hBIGlzIE5vbmU6CiAgICAgICAgYmJveCA9IGdldF9iYm94KFtwb2ludEExLCBwb2ludEEyXSwgbWFyZ2luPXJhZGl1c0EpCg==</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -5919,7 +5919,7 @@
         <text>print</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwYSwgcGIsIGRpc3QgPSBnMy5jbG9zZXN0X2Rpc3RhbmNlX2JldHdlZW5fbGluZXMoYTAsIGExLCBiMCwgYjEpCg==</text>
+        <text encoding="base64">ICAgIGlmIGJib3hBIGlzIE5vbmU6CiAgICAgICAgYmJveCA9IGdldF9iYm94KFtwb2ludEExLCBwb2ludEEyXSwgbWFyZ2luPXJhZGl1c0EpCg==</text>
       </register>
       <register name="1" type="8">
         <text>np.asarray(
