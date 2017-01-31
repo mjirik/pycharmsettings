@@ -741,7 +741,7 @@
         <mark key="." line="33" column="20" />
         <mark key="^" line="33" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1485867604561">
+      <file name="/Dummy.txt" timestamp="1485884994729">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/imtools/imtools/sample_data.py" timestamp="1484596144458">
@@ -823,12 +823,12 @@
         <mark key="." line="116" column="0" />
         <mark key="^" line="83" column="65" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/tests/geometry3_test.py" timestamp="1485882557183">
+      <file name="$USER_HOME$/projects/teigen/tests/geometry3_test.py" timestamp="1485884956624">
         <mark key="'" line="108" column="40" />
-        <mark key="[" line="174" column="52" />
-        <mark key="]" line="174" column="52" />
-        <mark key="." line="174" column="52" />
-        <mark key="^" line="174" column="52" />
+        <mark key="[" line="164" column="37" />
+        <mark key="]" line="164" column="41" />
+        <mark key="." line="164" column="41" />
+        <mark key="^" line="164" column="41" />
       </file>
       <file name="$USER_HOME$/projects/skelet3d/install_linux.md" timestamp="1464957280328">
         <mark key="[" line="30" column="0" />
@@ -1036,7 +1036,7 @@
         <mark key="." line="60" column="25" />
         <mark key="^" line="60" column="25" />
       </file>
-      <file name="/Python Console" timestamp="1485882563319">
+      <file name="/Python Console" timestamp="1485884616401">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/events2calendar/tests/e2c_test.py" timestamp="1477320243915">
@@ -1045,7 +1045,7 @@
         <mark key="^" line="27" column="28" />
         <mark key="." line="27" column="28" />
       </file>
-      <file name="/fragment.py" timestamp="1485866852319">
+      <file name="/fragment.py" timestamp="1485884261304">
         <mark key="i" line="0" column="5" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -1159,12 +1159,12 @@
         <mark key="." line="21" column="26" />
         <mark key="^" line="21" column="51" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/geometry3d.py" timestamp="1485882244997">
+      <file name="$USER_HOME$/projects/teigen/teigen/geometry3d.py" timestamp="1485884986004">
         <mark key="'" line="581" column="8" />
-        <mark key="[" line="499" column="0" />
-        <mark key="]" line="499" column="0" />
-        <mark key="^" line="497" column="82" />
-        <mark key="." line="499" column="0" />
+        <mark key="[" line="507" column="85" />
+        <mark key="]" line="507" column="85" />
+        <mark key="^" line="507" column="85" />
+        <mark key="." line="507" column="85" />
       </file>
       <file name="$USER_HOME$/projects/dicom2fem/dicom2fem/marching_cubes.py" timestamp="1484596732116">
         <mark key="[" line="371" column="69" />
@@ -5909,11 +5909,11 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>True</text>
       </register>
       <register name="-" type="4">
-        <text>self</text>
+        <text>True</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
@@ -5922,34 +5922,34 @@
         <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fc2VwYXJhYmxlX2J5X29uZV9iYm94X2FuZF9iYXNlKHNlbGYuYmJveCwgb2JqLnBvaW50Miwgb2JqLnBvaW50MSkgfAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gRmFsc2UK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAjIFRPRE8gaW1wbGVtZW50Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnBvaW50MSA9IHBvaW50Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgImh1Igo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgICAgYmJveCA9IGdldF9iYm94KFtwb2ludDEsIHBvaW50Ml0sIG1hcmdpbj1yYWRpdXMpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnBvaW50MSA9IHBvaW50Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIDpwYXJhbSBwb2ludHM6IFtbeDEsIHkxLCB6MV0sIFt4MiwgeTIsIHoyXSwgLi4uIF0K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICApCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gKAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlbGlmIHNlbGYuX3NlcAogICAgICAgICAgICAgICAgICAgIHBhc3MK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB4LCB5LCB6ID0geHl6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
