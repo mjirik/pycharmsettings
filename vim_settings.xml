@@ -1720,13 +1720,13 @@
         <mark key="^" line="13" column="3" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1486051296968">
-        <mark key="a" line="493" column="14" />
+      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1486113502436">
+        <mark key="a" line="498" column="14" />
         <mark key="'" line="433" column="57" />
-        <mark key="[" line="331" column="20" />
-        <mark key="]" line="331" column="59" />
-        <mark key="." line="331" column="59" />
-        <mark key="^" line="331" column="59" />
+        <mark key="[" line="495" column="35" />
+        <mark key="]" line="495" column="47" />
+        <mark key="." line="495" column="47" />
+        <mark key="^" line="495" column="47" />
       </file>
     </filemarks>
     <jumps>
@@ -5909,11 +5909,11 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBvYmplY3Rfdm9sdW1lID0gbnAuc3VtKHNlbGYuZ2VvbWV0cnlfZGF0YVsidm9sdW1lIl0pCiAgICAgICAgYWN0dWFsX3ZvbHVtZV9mcmFjdGlvbiA9IG9iamVjdF92b2x1bWUgLyBzZWxmLmFyZWFfdm9sdW1lCg==</text>
+      <register name="&quot;" type="4">
+        <text>t1 - t0</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>t1 - t0</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
