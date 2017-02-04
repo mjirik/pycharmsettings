@@ -823,12 +823,11 @@
         <mark key="." line="116" column="0" />
         <mark key="^" line="83" column="65" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/tests/geometry3_test.py" timestamp="1486239118830">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="220" column="36" />
-        <mark key="]" line="220" column="36" />
-        <mark key="." line="220" column="36" />
-        <mark key="^" line="220" column="35" />
+      <file name="$USER_HOME$/projects/teigen/tests/geometry3_test.py" timestamp="1486239767552">
+        <mark key="[" line="228" column="43" />
+        <mark key="]" line="229" column="0" />
+        <mark key="^" line="229" column="0" />
+        <mark key="." line="229" column="0" />
       </file>
       <file name="$USER_HOME$/projects/skelet3d/install_linux.md" timestamp="1464957280328">
         <mark key="[" line="30" column="0" />
@@ -1035,6 +1034,9 @@
         <mark key="]" line="60" column="25" />
         <mark key="." line="60" column="25" />
         <mark key="^" line="60" column="25" />
+      </file>
+      <file name="/Python Console" timestamp="1486239771583">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/events2calendar/tests/e2c_test.py" timestamp="1477320243915">
         <mark key="[" line="1" column="0" />
@@ -1727,7 +1729,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="15" filename="$USER_HOME$/projects/teigen/teigen/dictwidgetpyqtgraph.py" />
       <jump line="92" column="15" filename="$USER_HOME$/projects/teigen/teigen/dictwidgetpyqtgraph.py" />
       <jump line="135" column="27" filename="$USER_HOME$/projects/teigen/teigen/dictwidgetpyqtgraph.py" />
       <jump line="34" column="32" filename="$USER_HOME$/projects/ndnoise/ndnoise/generator.py" />
@@ -1827,6 +1828,7 @@
       <jump line="581" column="8" filename="$USER_HOME$/projects/teigen/teigen/geometry3d.py" />
       <jump line="182" column="0" filename="$USER_HOME$/projects/teigen/tests/geometry3_test.py" />
       <jump line="9" column="0" filename="$USER_HOME$/projects/teigen/tests/geometry3_test.py" />
+      <jump line="224" column="99" filename="$USER_HOME$/projects/teigen/tests/geometry3_test.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5906,11 +5908,11 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGNvbGxpc2lvbjIsIEZhbHNlKQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
@@ -5919,34 +5921,34 @@
         <text encoding="base64">ICAgICAgIChbIDguMjkzMjM4OCAsIC0wLjY1MTg1OTk5LCAgOS41NDE3MDE1NV0pLCAncmFkaXVzX21tJzogNS42OTE4MzQ4OTgwMjM0NTUsICdub2RlQV9aWVhfbW0nOiBhcnJheShbICA4LjI5MzIzODggLCAgMTEuMjM0MDg0NDgsICAyMS40Mjc2NDYwMl0pfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgWzguMjkzMjM4OCAsICAxMS4yMzQwODQ0OCwgIDIxLjQyNzY0NjAyXQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGNvbGxpc2lvbjIsIEZhbHNlKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgIChbIDguMjkzMjM4OCAsIC0wLjY1MTg1OTk5LCAgOS41NDE3MDE1NV0pLCAncmFkaXVzX21tJzogNS42OTE4MzQ4OTgwMjM0NTUsICdub2RlQV9aWVhfbW0nOiBhcnJheShbICA4LjI5MzIzODggLCAgMTEuMjM0MDg0NDgsICAyMS40Mjc2NDYwMl0pfQo=</text>
+        <text encoding="base64">ICAgICAgICBjb2xsaXNpb24yID0gY3lsQS5jb2xsaXNpb24oY3lsQykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gRmFsc2UK</text>
+        <text encoding="base64">ICAgICAgICBjeWxDID0gZzMuQ3lsaW5kZXJPYmplY3QocHRDMSwgcHRDMiwgcmFkaXVzPXJDKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmFkaXVzPTcuMjI0ODY2NjAzNzIzMTg3NSwgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5vYmplY3RfbnVtYmVyICs9IDEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm9iamVjdF9udW1iZXIgPSAwCg==</text>
+        <text encoding="base64">ICAgICAgICBjeWxCID0gZzMuQ3lsaW5kZXJPYmplY3QocHQzLCBwdDQsIHJhZGl1cz1yQikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fY3lsaW5kZXJfZW5kX25vZGVzLmFwcGVuZChwdDEpCiAgICAgICAgICAgIHNlbGYuX2N5bGluZGVyX2VuZF9ub2Rlcy5hcHBlbmQocHQyKQogICAgICAgICAgICBzZWxmLl9jeWxpbmRlcl9lbmRfbm9kZXNfcmFkaXVzZXMuYXBwZW5kKHJhZGl1cykKICAgICAgICAgICAgc2VsZi5fY3lsaW5kZXJfZW5kX25vZGVzX3JhZGl1c2VzLmFwcGVuZChyYWRpdXMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgWzguMjkzMjM4OCAsICAxMS4yMzQwODQ0OCwgIDIxLjQyNzY0NjAyXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9jeWxpbmRlcl9lbmRfbm9kZXMgPSBbXQogICAgICAgIHNlbGYuX2N5bGluZGVyX2VuZF9ub2Rlc19yYWRpdXNlcyA9IFtdCg==</text>
+        <text encoding="base64">ICAgICAgIChbIDguMjkzMjM4OCAsIC0wLjY1MTg1OTk5LCAgOS41NDE3MDE1NV0pLCAncmFkaXVzX21tJzogNS42OTE4MzQ4OTgwMjM0NTUsICdub2RlQV9aWVhfbW0nOiBhcnJheShbICA4LjI5MzIzODggLCAgMTEuMjM0MDg0NDgsICAyMS40Mjc2NDYwMl0pfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
