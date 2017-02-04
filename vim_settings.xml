@@ -741,7 +741,7 @@
         <mark key="." line="33" column="20" />
         <mark key="^" line="33" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1486131635562">
+      <file name="/Dummy.txt" timestamp="1486240068091">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/imtools/imtools/sample_data.py" timestamp="1484596144458">
@@ -823,11 +823,11 @@
         <mark key="." line="116" column="0" />
         <mark key="^" line="83" column="65" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/tests/geometry3_test.py" timestamp="1486239767552">
-        <mark key="[" line="228" column="43" />
-        <mark key="]" line="229" column="0" />
-        <mark key="^" line="229" column="0" />
-        <mark key="." line="229" column="0" />
+      <file name="$USER_HOME$/projects/teigen/tests/geometry3_test.py" timestamp="1486240109379">
+        <mark key="[" line="228" column="37" />
+        <mark key="]" line="228" column="40" />
+        <mark key="^" line="228" column="40" />
+        <mark key="." line="228" column="40" />
       </file>
       <file name="$USER_HOME$/projects/skelet3d/install_linux.md" timestamp="1464957280328">
         <mark key="[" line="30" column="0" />
@@ -1035,7 +1035,7 @@
         <mark key="." line="60" column="25" />
         <mark key="^" line="60" column="25" />
       </file>
-      <file name="/Python Console" timestamp="1486239771583">
+      <file name="/Python Console" timestamp="1486240210986">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/events2calendar/tests/e2c_test.py" timestamp="1477320243915">
@@ -1158,7 +1158,7 @@
         <mark key="." line="21" column="26" />
         <mark key="^" line="21" column="51" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/geometry3d.py" timestamp="1486160218068">
+      <file name="$USER_HOME$/projects/teigen/teigen/geometry3d.py" timestamp="1486240139897">
         <mark key="'" line="660" column="8" />
         <mark key="[" line="537" column="16" />
         <mark key="]" line="537" column="15" />
@@ -5908,11 +5908,11 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGNvbGxpc2lvbjIsIEZhbHNlKQo=</text>
+      <register name="&quot;" type="4">
+        <text>False</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>False</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
