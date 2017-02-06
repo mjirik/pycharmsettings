@@ -741,7 +741,7 @@
         <mark key="." line="33" column="20" />
         <mark key="^" line="33" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1486240068091">
+      <file name="/Dummy.txt" timestamp="1486344307383">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/imtools/imtools/sample_data.py" timestamp="1484596144458">
@@ -1035,7 +1035,7 @@
         <mark key="." line="60" column="25" />
         <mark key="^" line="60" column="25" />
       </file>
-      <file name="/Python Console" timestamp="1486240210986">
+      <file name="/Python Console" timestamp="1486343870512">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/events2calendar/tests/e2c_test.py" timestamp="1477320243915">
@@ -1719,13 +1719,13 @@
         <mark key="^" line="13" column="3" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1486297523608">
-        <mark key="a" line="495" column="14" />
-        <mark key="'" line="430" column="57" />
-        <mark key="[" line="272" column="0" />
-        <mark key="]" line="272" column="0" />
-        <mark key="^" line="492" column="47" />
-        <mark key="." line="272" column="0" />
+      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1486343968351">
+        <mark key="a" line="501" column="14" />
+        <mark key="'" line="435" column="57" />
+        <mark key="[" line="484" column="59" />
+        <mark key="]" line="484" column="60" />
+        <mark key="^" line="484" column="60" />
+        <mark key="." line="484" column="60" />
       </file>
     </filemarks>
     <jumps>
@@ -5908,17 +5908,17 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>, generator_default_config.keys())</text>
       </register>
       <register name="-" type="4">
-        <text>False</text>
+        <text>, generator_default_config.keys())</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgIChbIDguMjkzMjM4OCAsIC0wLjY1MTg1OTk5LCAgOS41NDE3MDE1NV0pLCAncmFkaXVzX21tJzogNS42OTE4MzQ4OTgwMjM0NTUsICdub2RlQV9aWVhfbW0nOiBhcnJheShbICA4LjI5MzIzODggLCAgMTEuMjM0MDg0NDgsICAyMS40Mjc2NDYwMl0pfQo=</text>
+        <text encoding="base64">ICAgICAgICBnZW5lcmF0b3JfY29uZmlnID0gZGljdHdpZGdldHF0LnN1YmRpY3QoY29uZmlnWyJnZW5lcmF0b3JzIl1baWRdLCBnZW5lcmF0b3JfZGVmYXVsdF9jb25maWcua2V5cygpKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
