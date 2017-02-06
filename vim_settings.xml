@@ -1738,17 +1738,16 @@
         <mark key="^" line="13" column="3" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1486392958455">
+      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1486394144755">
         <mark key="a" line="446" column="37" />
-        <mark key="'" line="720" column="4" />
-        <mark key="[" line="718" column="15" />
-        <mark key="]" line="718" column="15" />
-        <mark key="." line="718" column="15" />
-        <mark key="^" line="717" column="23" />
+        <mark key="'" line="700" column="18" />
+        <mark key="[" line="264" column="41" />
+        <mark key="]" line="264" column="71" />
+        <mark key="." line="264" column="71" />
+        <mark key="^" line="264" column="71" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="14" filename="$USER_HOME$/projects/imtools/tests/widgets_test.py" />
       <jump line="7" column="8" filename="$USER_HOME$/projects/imtools/tests/widgets_test.py" />
       <jump line="89" column="0" filename="$USER_HOME$/projects/imtools/tests/widgets_test.py" />
       <jump line="64" column="0" filename="$USER_HOME$/projects/imtools/tests/widgets_test.py" />
@@ -1848,6 +1847,7 @@
       <jump line="180" column="8" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="439" column="0" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="705" column="4" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
+      <jump line="700" column="18" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5927,47 +5927,47 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>**params</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>**params</text>
+        <text encoding="base64">RGVidWcg</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0Zy5ydW4oKipwYXJhbXMpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBhcmdzLnBhcmFtZXRlcmZpbGUgaXMgbm90IE5vbmU6CiAgICAgICAgICAgIHBhcmFtcyA9IGlvM2QubWlzYy5vYmpfZnJvbV9maWxlKGFyZ3MucGFyYW1ldGVyZmlsZSkKICAgICAgICAgICAgdGcuc2V0X2NvbmZpZygqKnBhcmFtcykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9jZmdfZXhwb3J0X2ZjbiA9IFsKICAgICAgICAgICAgc2VsZi5fYXJlYV9zYW1wbGluZ19nZW5lcmFsX2V4cG9ydCwKICAgICAgICAgICAgc2VsZi5fYXJlYV9zYW1wbGluZ19nZW5zZWlfZXhwb3J0LAogICAgICAgICAgICBzZWxmLl9hcmVhX3NhbXBsaW5nX2dlbmVyYWxfZXhwb3J0LAogICAgICAgICAgICBzZWxmLl9hcmVhX3NhbXBsaW5nX2dlbmVyYWxfZXhwb3J0LAogICAgICAgIF0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9jZmdfZXhwb3J0X2ZjbiA9IFsKICAgICAgICAgICAgc2VsZi5fYXJlYV9zYW1wbGluZ19nZW5lcmFsX2V4cG9ydCwKICAgICAgICAgICAgc2VsZi5fYXJlYV9zYW1wbGluZ19nZW5zZWlfZXhwb3J0LAogICAgICAgICAgICBzZWxmLl9hcmVhX3NhbXBsaW5nX2dlbmVyYWxfZXhwb3J0LAogICAgICAgICAgICBzZWxmLl9hcmVhX3NhbXBsaW5nX2dlbmVyYWxfZXhwb3J0LAogICAgICAgIF0K</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">ZGVlcAogICAgICAgIA==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgdGltZQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGlmIGFyZ3MucGFyYW1ldGVyZmlsZSBpcyBOb25lOgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGcuc2V0X2NvbmZpZygqKnBhcmFtcykK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNvbmZpZyA9IGNvcHkuZGVlcGNvcHkoY29uZmlnKQo=</text>
+        <text encoding="base64">ICAgICAgICBhcHAuZXhlY18oKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNvbmZpZyA9IGNvcHkuZGVlcGNvcHkoY29uZmlnKQogICAgICAgIHQwID0gdGltZS50aW1lKCkK</text>
+        <text encoding="base64">ICAgICAgICBjdy5zaG93KCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmZpbmlzaF9wcm9ncmVzc19jYWxsYmFjayhzZWxmLCAxLjApCg==</text>
+        <text encoding="base64">ICAgICAgICBjdyA9IFRlaWdlbldpZGdldChsb2dmaWxlPWFyZ3MubG9nZmlsZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBnZW5lcmF0b3JfY2xhc3MudXBkYXRlKGFyZWFfY2ZnKQo=</text>
+        <text encoding="base64">ICAgICAgICBhcHAgPSBRQXBwbGljYXRpb24oc3lzLmFyZ3YpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -6004,7 +6004,6 @@
         <entry>print</entry>
       </history-search>
       <history-cmd>
-        <entry>283</entry>
         <entry>155</entry>
         <entry>107</entry>
         <entry>132</entry>
@@ -6023,6 +6022,7 @@
         <entry>e</entry>
         <entry>e teigen/gui.py</entry>
         <entry>253</entry>
+        <entry>60</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
