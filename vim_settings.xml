@@ -829,11 +829,11 @@
         <mark key="." line="116" column="0" />
         <mark key="^" line="83" column="65" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/tests/geometry3_test.py" timestamp="1486413565787">
-        <mark key="[" line="110" column="32" />
-        <mark key="]" line="110" column="19" />
-        <mark key="^" line="110" column="19" />
-        <mark key="." line="110" column="19" />
+      <file name="$USER_HOME$/projects/teigen/tests/geometry3_test.py" timestamp="1486413899495">
+        <mark key="[" line="113" column="32" />
+        <mark key="]" line="112" column="50" />
+        <mark key="^" line="112" column="50" />
+        <mark key="." line="112" column="50" />
       </file>
       <file name="$USER_HOME$/projects/skelet3d/install_linux.md" timestamp="1464957280328">
         <mark key="[" line="30" column="0" />
@@ -1041,7 +1041,7 @@
         <mark key="." line="60" column="25" />
         <mark key="^" line="60" column="25" />
       </file>
-      <file name="/Python Console" timestamp="1486413391818">
+      <file name="/Python Console" timestamp="1486414936343">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
@@ -1053,12 +1053,12 @@
         <mark key="^" line="27" column="28" />
         <mark key="." line="27" column="28" />
       </file>
-      <file name="/fragment.py" timestamp="1486409978513">
+      <file name="/fragment.py" timestamp="1486415608620">
         <mark key="i" line="0" column="5" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="2" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="15" column="25" />
+        <mark key="^" line="14" column="23" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/projects/teigen/requirements_conda.txt" timestamp="1481976056058">
         <mark key="[" line="5" column="11" />
@@ -1167,12 +1167,12 @@
         <mark key="." line="21" column="26" />
         <mark key="^" line="21" column="51" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/geometry3d.py" timestamp="1486413212916">
-        <mark key="'" line="664" column="8" />
-        <mark key="[" line="537" column="15" />
-        <mark key="]" line="537" column="18" />
-        <mark key="." line="537" column="18" />
-        <mark key="^" line="537" column="18" />
+      <file name="$USER_HOME$/projects/teigen/teigen/geometry3d.py" timestamp="1486415278710">
+        <mark key="'" line="665" column="8" />
+        <mark key="[" line="540" column="0" />
+        <mark key="]" line="540" column="101" />
+        <mark key="." line="540" column="0" />
+        <mark key="^" line="538" column="77" />
       </file>
       <file name="$USER_HOME$/projects/dicom2fem/dicom2fem/marching_cubes.py" timestamp="1484596732116">
         <mark key="[" line="371" column="69" />
@@ -5927,17 +5927,17 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>obj</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwdDEsIHB0MiwgZGlzdCA9IGNsb3Nlc3RfZGlzdGFuY2VfYmV0d2Vlbl9saW5lcyhwdGExLCBwdGEyLCBwdGIxLCBwdGIyKSAjLCBjbGFtcEFsbD1UcnVlKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>obj</text>
+        <text>self.point2</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwdGExID0gb2JqLnBvaW50MQogICAgICAgIHB0YTIgPSBvYmoucG9pbnQyCg==</text>
+        <text encoding="base64">ICAgICAgICBwdDEsIHB0MiwgZGlzdCA9IGNsb3Nlc3RfZGlzdGFuY2VfYmV0d2Vlbl9saW5lcyhwdGExLCBwdGEyLCBwdGIxLCBwdGIyKSAjLCBjbGFtcEFsbD1UcnVlKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">cwo=</text>
