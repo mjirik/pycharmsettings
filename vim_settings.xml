@@ -748,7 +748,7 @@
         <mark key="." line="33" column="20" />
         <mark key="^" line="33" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1486389527635">
+      <file name="/Dummy.txt" timestamp="1486390970291">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/imtools/imtools/sample_data.py" timestamp="1484596144458">
@@ -807,13 +807,12 @@
         <mark key="^" line="12" column="34" />
         <mark key="." line="12" column="34" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/tb_volume.py" timestamp="1484183468876">
+      <file name="$USER_HOME$/projects/teigen/teigen/tb_volume.py" timestamp="1486391771872">
         <mark key="a" line="86" column="16" />
-        <mark key="'" line="183" column="0" />
-        <mark key="[" line="161" column="44" />
-        <mark key="]" line="161" column="46" />
-        <mark key="." line="161" column="46" />
-        <mark key="^" line="161" column="46" />
+        <mark key="'" line="184" column="0" />
+        <mark key="[" line="162" column="0" />
+        <mark key="]" line="162" column="52" />
+        <mark key="." line="162" column="0" />
       </file>
       <file name="$USER_HOME$/projects/io3d/tests/dcmreaddata_test.py" timestamp="1475919704583">
         <mark key="'" line="0" column="0" />
@@ -1739,13 +1738,13 @@
         <mark key="^" line="13" column="3" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1486390216351">
-        <mark key="a" line="445" column="37" />
-        <mark key="'" line="714" column="4" />
-        <mark key="[" line="454" column="30" />
-        <mark key="]" line="455" column="29" />
-        <mark key="." line="455" column="29" />
-        <mark key="^" line="455" column="29" />
+      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1486391449029">
+        <mark key="a" line="446" column="37" />
+        <mark key="'" line="720" column="4" />
+        <mark key="[" line="513" column="18" />
+        <mark key="]" line="513" column="23" />
+        <mark key="." line="513" column="23" />
+        <mark key="^" line="513" column="23" />
       </file>
     </filemarks>
     <jumps>
@@ -5929,46 +5928,46 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmZpbmlzaF9wcm9ncmVzc19jYWxsYmFjayhzZWxmLCAxLjApCg==</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>class</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAjICAgICAidm94ZWxzaXplX21tIjogWzEuMCwgMS4wLCAxLjBdLAogICAgICAgICMgICAgICJhcmVhc2l6ZV9tbSI6IFsxMDAuMCwgMTAwLjAsIDEwMC4wXSwKICAgICAgICAjICAgICAiYXJlYXNpemVfcHgiOiBbMTAwLCAxMDAsIDEwMF0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHNlbGYuZmluaXNoX3Byb2dyZXNzX2NhbGxiYWNrIGlzIG5vdCBOb25lOgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmZpbmlzaF9wcm9ncmVzc19jYWxsYmFjayhzZWxmLCAxLjApCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="8">
-        <text encoding="base64">IyAgICAgCiMgICAgIAojICAgICA=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBnZW5lcmF0b3JfY2xhc3MudXBkYXRlKGFyZWFfY2ZnKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2b3hlbHNpemVfbW0gPSBbMS4wLCAxLjAsIDEuMF0KICAgICAgICBhcmVhc2l6ZV9tbSA9IFsxMDAuMCwgMTAwLjAsIDEwMC4wXQogICAgICAgIGFyZWFzaXplX3B4ID0gWzEwMCwgMTAwLCAxMDBdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="4" type="8">
+        <text encoding="base64">IyAgICAgCiMgICAgIAojICAgICA=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2b3hlbHNpemVfbW0gPSBbMS4wLCAxLjAsIDEuMF0KICAgICAgICBhcmVhc2l6ZV9tbSA9IFsxMDAuMCwgMTAwLjAsIDEwMC4wXQogICAgICAgIGFyZWFzaXplX3B4ID0gWzEwMCwgMTAwLCAxMDBdCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYuX3RtcF9jb21wb3NlZF9rZXlzLmtleXMoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIHZ5dHZvxZnDrSB0byBzZXpuYW0gcG9tb2Nuw71jaCBrbMOtxI3FryBwcm8gc2V6bmFteSBhIG5kYXJyYXkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ2VuZXJhdG9yX3BhcmFtcyA9CiAgICAgICAgICAgIHNlbGYuY29uZmlnWyJnZW5lcmF0b3JzIl1bZ2VuZXJhdG9yX25hbWVdID0gZGljdHdpZGdldHF0LmdldF9kZWZhdWx0X2FyZ3MoZ2VuZXJhdG9yX2NsKQo=</text>
+        <text encoding="base64">ICAgICAgICAjIHNlbGYuX3RtcF9jb21wb3NlZF9rZXlzLmtleXMoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIHZ5dHZvxZnDrSB0byBzZXpuYW0gcG9tb2Nuw71jaCBrbMOtxI3FryBwcm8gc2V6bmFteSBhIG5kYXJyYXkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
