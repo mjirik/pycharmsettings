@@ -1723,13 +1723,13 @@
         <mark key="^" line="13" column="3" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1486381922870">
-        <mark key="a" line="510" column="14" />
-        <mark key="'" line="16" column="8" />
-        <mark key="[" line="250" column="53" />
-        <mark key="]" line="250" column="64" />
-        <mark key="." line="250" column="64" />
-        <mark key="^" line="250" column="64" />
+      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1486384433287">
+        <mark key="a" line="511" column="14" />
+        <mark key="'" line="180" column="8" />
+        <mark key="[" line="258" column="53" />
+        <mark key="]" line="258" column="53" />
+        <mark key="." line="258" column="53" />
+        <mark key="^" line="252" column="45" />
       </file>
     </filemarks>
     <jumps>
@@ -1781,7 +1781,6 @@
       <jump line="183" column="66" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="483" column="24" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="487" column="8" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
-      <jump line="180" column="42" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="430" column="57" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="31" column="0" filename="$USER_HOME$/projects/dicom2fem/dicom2fem/seg2fem.py" />
       <jump line="1429" column="17" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
@@ -1833,6 +1832,7 @@
       <jump line="13" column="0" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="16" column="8" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="12" column="0" filename="$USER_HOME$/projects/teigen/tests/teigen_test.py" />
+      <jump line="180" column="8" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5913,10 +5913,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>]</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
@@ -5925,28 +5925,28 @@
         <text encoding="base64">ICAgICAgICBzZWxmLmNvbmZpZ1siZ2VuZXJhdG9yX2lkIl0gPSBzZWxmLmdlbmVyYXRvcnNfbmFtZXNbMF0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkaWN0d2lkZ2V0cXQuZ2V0X2RlZmF1bHRfYXJncyhzZWxmLnRlaWdlbi5wb3N0cHJvY2Vzc2luZykK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNvbmZpZ1siZ2VuZXJhdG9yX2lkIl0gPSBzZWxmLmdlbmVyYXRvcnNfbmFtZXNbMF0KICAgICAgICBzZWxmLmNvbmZpZ1siZ2VuZXJhdG9yX2lkIl0gPSAwIHNlbGYuZ2VuZXJhdG9yc19uYW1lc1swXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNvbmZpZ1siZ2VuZXJhdG9yX2lkIl0gPSAwIHNlbGYuZ2VuZXJhdG9yc19uYW1lc1swXQogICAgICAgICMgc2VsZi5jb25maWcgPSBzZWxmLmNvbmZpZ3NbMF0K</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNvbmZpZ1siZ2VuZXJhdG9yX2lkIl0gPSBzZWxmLmdlbmVyYXRvcnNfbmFtZXNbMF0KICAgICAgICBzZWxmLmNvbmZpZ1siZ2VuZXJhdG9yX2lkIl0gPSAwIHNlbGYuZ2VuZXJhdG9yc19uYW1lc1swXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNvbmZpZyA9IHNlbGYuY29uZmlnc1swXQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNvbmZpZ1siZ2VuZXJhdG9yX2lkIl0gPSAwIHNlbGYuZ2VuZXJhdG9yc19uYW1lc1swXQogICAgICAgICMgc2VsZi5jb25maWcgPSBzZWxmLmNvbmZpZ3NbMF0K</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmNvbmZpZyA9IHNlbGYuY29uZmlnc1swXQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNvbmZpZ3MgPSBbZGljdHdpZGdldHF0LmdldF9kZWZhdWx0X2FyZ3MoY29uZikgZm9yIGNvbmYgaW4gc2VsZi5nZW5lcmF0b3JzX2NsYXNzZXNdCiAgICAgICAgc2VsZi5jb25maWcgPSBzZWxmLmNvbmZpZ3NbMF0K</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNvbmZpZyA9IHNlbGYuY29uZmlnc1swXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNvbmZpZ3MgPSBbZGljdHdpZGdldHF0LmdldF9kZWZhdWx0X2FyZ3MoY29uZikgZm9yIGNvbmYgaW4gc2VsZi5nZW5lcmF0b3JzX2NsYXNzZXNdCiAgICAgICAgc2VsZi5jb25maWcgPSBzZWxmLmNvbmZpZ3NbMF0K</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -5989,7 +5989,6 @@
         <entry>print</entry>
       </history-search>
       <history-cmd>
-        <entry>405</entry>
         <entry>283</entry>
         <entry>155</entry>
         <entry>107</entry>
@@ -6008,6 +6007,7 @@
         <entry>:w</entry>
         <entry>e</entry>
         <entry>e teigen/gui.py</entry>
+        <entry>253</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
