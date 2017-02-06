@@ -108,12 +108,12 @@
         <mark key="." line="303" column="40" />
         <mark key="^" line="303" column="40" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/tests/teigen_test.py" timestamp="1486380821014">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="6" column="9" />
+      <file name="$USER_HOME$/projects/teigen/tests/teigen_test.py" timestamp="1486395446760">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="17" column="56" />
+        <mark key="]" line="17" column="56" />
+        <mark key="." line="17" column="56" />
+        <mark key="^" line="17" column="56" />
       </file>
       <file name="$USER_HOME$/projects/lisa/requirements_conda.txt" timestamp="1464092446357">
         <mark key="[" line="3" column="2" />
@@ -748,7 +748,7 @@
         <mark key="." line="33" column="20" />
         <mark key="^" line="33" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1486391821924">
+      <file name="/Dummy.txt" timestamp="1486395504490">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/imtools/imtools/sample_data.py" timestamp="1484596144458">
@@ -1041,8 +1041,8 @@
         <mark key="." line="60" column="25" />
         <mark key="^" line="60" column="25" />
       </file>
-      <file name="/Python Console" timestamp="1486389292698">
-        <mark key="[" line="0" column="5" />
+      <file name="/Python Console" timestamp="1486397012723">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -1053,7 +1053,7 @@
         <mark key="^" line="27" column="28" />
         <mark key="." line="27" column="28" />
       </file>
-      <file name="/fragment.py" timestamp="1486387311155">
+      <file name="/fragment.py" timestamp="1486397000495">
         <mark key="i" line="0" column="5" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -1167,7 +1167,7 @@
         <mark key="." line="21" column="26" />
         <mark key="^" line="21" column="51" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/geometry3d.py" timestamp="1486385311376">
+      <file name="$USER_HOME$/projects/teigen/teigen/geometry3d.py" timestamp="1486396436445">
         <mark key="'" line="660" column="8" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="36" />
@@ -1493,13 +1493,13 @@
         <mark key="^" line="63" column="96" />
         <mark key="." line="63" column="96" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/generators/unconnected_cylinders.py" timestamp="1486291066233">
+      <file name="$USER_HOME$/projects/teigen/teigen/generators/unconnected_cylinders.py" timestamp="1486396727044">
         <mark key="a" line="306" column="44" />
         <mark key="'" line="215" column="14" />
-        <mark key="[" line="260" column="0" />
-        <mark key="]" line="260" column="0" />
-        <mark key="." line="260" column="0" />
-        <mark key="^" line="259" column="11" />
+        <mark key="[" line="259" column="63" />
+        <mark key="]" line="260" column="16" />
+        <mark key="." line="260" column="16" />
+        <mark key="^" line="260" column="16" />
       </file>
       <file name="$USER_HOME$/projects/skelet3d/examples/example02.py" timestamp="1465398838088">
         <mark key="'" line="17" column="9" />
@@ -1738,11 +1738,11 @@
         <mark key="^" line="13" column="3" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1486394144755">
+      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1486395175079">
         <mark key="a" line="446" column="37" />
         <mark key="'" line="700" column="18" />
-        <mark key="[" line="264" column="41" />
-        <mark key="]" line="264" column="71" />
+        <mark key="[" line="729" column="0" />
+        <mark key="]" line="729" column="64" />
         <mark key="." line="264" column="71" />
         <mark key="^" line="264" column="71" />
       </file>
@@ -5927,17 +5927,17 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>parameterfile</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">RGVidWcg</text>
+        <text>parameterfile</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBhcmdzLnBhcmFtZXRlcmZpbGUgaXMgbm90IE5vbmU6CiAgICAgICAgICAgIHBhcmFtcyA9IGlvM2QubWlzYy5vYmpfZnJvbV9maWxlKGFyZ3MucGFyYW1ldGVyZmlsZSkKICAgICAgICAgICAgdGcuc2V0X2NvbmZpZygqKnBhcmFtcykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFyYW1zID0gaW8zZC5taXNjLm9ial9mcm9tX2ZpbGUoYXJncy5wYXJhbWV0ZXJmaWxlKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
