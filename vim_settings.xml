@@ -1173,13 +1173,13 @@
         <mark key="^" line="13" column="3" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1486508846212">
+      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1486510880624">
         <mark key="a" line="446" column="37" />
         <mark key="'" line="700" column="18" />
-        <mark key="[" line="662" column="78" />
-        <mark key="]" line="579" column="47" />
-        <mark key="." line="579" column="47" />
-        <mark key="^" line="579" column="47" />
+        <mark key="[" line="190" column="21" />
+        <mark key="]" line="190" column="26" />
+        <mark key="." line="190" column="26" />
+        <mark key="^" line="190" column="26" />
       </file>
     </filemarks>
     <jumps>
@@ -5362,44 +5362,48 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAiYWEiCg==</text>
+      <register name="&quot;" type="4">
+        <text>merne</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">b3Ig</text>
+        <text>merne</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwdDEsIHB0MiwgZGlzdCA9IGNsb3Nlc3RfZGlzdGFuY2VfYmV0d2Vlbl9saW5lcyhwdGExLCBwdGEyLCBwdGIxLCBwdGIyKSAjLCBjbGFtcEFsbD1UcnVlKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl93Z190YWJfbWVybmUuc2V0TWF4aW11bUhlaWdodCg4MCkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAiYWEiCg==</text>
+      <register name="1" type="8">
+        <text>suma
+suma
+suma</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFsbW9zdF9wYXJhbGxlbCA9IGRlbm9tCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmRhdGFmcmFtZXNbImRlbnNpdHkiXSA9IGRmbWVybmVmCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIG5wLmFsbGNsb3NlKF9BLCBfQikK</text>
+        <text encoding="base64">ICAgICAgICBkZnN1bWEK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="8">
+        <text>merne
+merne
+merne</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAiYWEiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGFsbW9zdF9wYXJhbGxlbCA9IGRlbm9tCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNyb3NzID0gbnAuY3Jvc3MoX0EsIF9CKTsKICAgIGRlbm9tID0gbnAubGluYWxnLm5vcm0oY3Jvc3MpKioyCg==</text>
+        <text encoding="base64">ICAgIGlmIG5wLmFsbGNsb3NlKF9BLCBfQikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
