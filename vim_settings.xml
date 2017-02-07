@@ -1167,12 +1167,12 @@
         <mark key="." line="21" column="26" />
         <mark key="^" line="21" column="51" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/geometry3d.py" timestamp="1486469143379">
-        <mark key="'" line="670" column="8" />
-        <mark key="[" line="290" column="37" />
-        <mark key="]" line="292" column="7" />
-        <mark key="." line="292" column="7" />
-        <mark key="^" line="292" column="7" />
+      <file name="$USER_HOME$/projects/teigen/teigen/geometry3d.py" timestamp="1486473578863">
+        <mark key="'" line="672" column="8" />
+        <mark key="[" line="297" column="32" />
+        <mark key="]" line="299" column="16" />
+        <mark key="^" line="299" column="16" />
+        <mark key="." line="299" column="16" />
       </file>
       <file name="$USER_HOME$/projects/dicom2fem/dicom2fem/marching_cubes.py" timestamp="1484596732116">
         <mark key="[" line="371" column="69" />
@@ -5927,11 +5927,11 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwdDEsIHB0MiwgZGlzdCA9IGNsb3Nlc3RfZGlzdGFuY2VfYmV0d2Vlbl9saW5lcyhwdGExLCBwdGEyLCBwdGIxLCBwdGIyKSAjLCBjbGFtcEFsbD1UcnVlKQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">b3Ig</text>
       </register>
       <register name="-" type="4">
-        <text>self.point2</text>
+        <text encoding="base64">b3Ig</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
@@ -5940,34 +5940,34 @@
         <text encoding="base64">ICAgICAgICBwdDEsIHB0MiwgZGlzdCA9IGNsb3Nlc3RfZGlzdGFuY2VfYmV0d2Vlbl9saW5lcyhwdGExLCBwdGEyLCBwdGIxLCBwdGIyKSAjLCBjbGFtcEFsbD1UcnVlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cwo=</text>
+        <text encoding="base64">ICAgIGFsbW9zdF9wYXJhbGxlbCA9IGRlbm9tCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIG5wLmFsbGNsb3NlKF9BLCBfQikK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIGFyZ3MucGFyYW1ldGVyZmlsZSBpcyBOb25lOgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGcuc2V0X2NvbmZpZygqKnBhcmFtcykK</text>
+        <text encoding="base64">ICAgIGNyb3NzID0gbnAuY3Jvc3MoX0EsIF9CKTsKICAgIGRlbm9tID0gbnAubGluYWxnLm5vcm0oY3Jvc3MpKioyCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhcHAuZXhlY18oKQo=</text>
+        <text encoding="base64">cwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjdy5zaG93KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjdyA9IFRlaWdlbldpZGdldChsb2dmaWxlPWFyZ3MubG9nZmlsZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
