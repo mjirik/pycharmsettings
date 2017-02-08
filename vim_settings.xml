@@ -495,12 +495,12 @@
         <mark key="^" line="5" column="45" />
         <mark key="." line="5" column="45" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/geometry3d.py" timestamp="1486517200581">
-        <mark key="'" line="678" column="8" />
-        <mark key="[" line="631" column="41" />
-        <mark key="]" line="636" column="0" />
-        <mark key="^" line="636" column="0" />
-        <mark key="." line="636" column="0" />
+      <file name="$USER_HOME$/projects/teigen/teigen/geometry3d.py" timestamp="1486538658209">
+        <mark key="'" line="756" column="8" />
+        <mark key="[" line="693" column="26" />
+        <mark key="]" line="693" column="21" />
+        <mark key="^" line="693" column="21" />
+        <mark key="." line="693" column="21" />
       </file>
       <file name="$USER_HOME$/projects/dicom2fem/meta.yaml" timestamp="1484577036117">
         <mark key="[" line="52" column="0" />
@@ -1047,7 +1047,7 @@
         <mark key="." line="33" column="20" />
         <mark key="^" line="33" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1486516880915">
+      <file name="/Dummy.txt" timestamp="1486538727955">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/imtools/imtools/sample_data.py" timestamp="1484596144458">
@@ -5359,8 +5359,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>i</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGRlZiBhZGRfY3lsaW5kZXJfaWZfbm9fY29sbGlzaW9uKHNlbGYsIHB0MSwgcHQyLCByYWRpdXMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIyBDT0xMSVNJT05fUkFESVVTPTEuNSAjIGhpZ2hlciB0aGVuIHNxcnQoMikKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICApOgogICAgICAgIGlmIG5vdCAoCiAgICAgICAgICAgICAgICAgICAgc2VsZi5pc19wb2ludF9pbl9hcmVhKHB0MSwgcmFkaXVzKSBhbmQKICAgICAgICAgICAgICAgICAgICBzZWxmLmlzX3BvaW50X2luX2FyZWEocHQyLCByYWRpdXMpCiAgICAgICAgKToKICAgICAgICAgICAgcmV0dXJuIFRydWUKCiAgICAgICAgbmV3X29iaiA9IEN5bGluZGVyT2JqZWN0KHB0MSwgcHQyLCByYWRpdXMpCgogICAgICAgIGNvbGxpc2lvbiA9IEZhbHNlCiAgICAgICAgZm9yIG9iaiBpbiBzZWxmLm9iamVjdHM6CiAgICAgICAgICAgIGlmIG9iai5jb2xsaXNpb24obmV3X29iaik6CiAgICAgICAgICAgICAgICBjb2xsaXNpb24gPSBUcnVlCiAgICAgICAgICAgICAgICBicmVhawoKICAgICAgICBpZiBub3QgY29sbGlzaW9uOgogICAgICAgICAgICBzZWxmLm9iamVjdHMuYXBwZW5kKG5ld19vYmopCgogICAgICAgIHJldHVybiBjb2xsaXNpb24K</text>
       </register>
       <register name="-" type="4">
         <text>i</text>
@@ -5369,7 +5369,7 @@
         <text>print</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2b2x1bWUgPSAgbnAucGkgKiByYWRpdXMqKjIgKiBsZW5ndGgK</text>
+        <text encoding="base64">ICAgIGRlZiBhZGRfY3lsaW5kZXJfaWZfbm9fY29sbGlzaW9uKHNlbGYsIHB0MSwgcHQyLCByYWRpdXMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIyBDT0xMSVNJT05fUkFESVVTPTEuNSAjIGhpZ2hlciB0aGVuIHNxcnQoMikKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICApOgogICAgICAgIGlmIG5vdCAoCiAgICAgICAgICAgICAgICAgICAgc2VsZi5pc19wb2ludF9pbl9hcmVhKHB0MSwgcmFkaXVzKSBhbmQKICAgICAgICAgICAgICAgICAgICBzZWxmLmlzX3BvaW50X2luX2FyZWEocHQyLCByYWRpdXMpCiAgICAgICAgKToKICAgICAgICAgICAgcmV0dXJuIFRydWUKCiAgICAgICAgbmV3X29iaiA9IEN5bGluZGVyT2JqZWN0KHB0MSwgcHQyLCByYWRpdXMpCgogICAgICAgIGNvbGxpc2lvbiA9IEZhbHNlCiAgICAgICAgZm9yIG9iaiBpbiBzZWxmLm9iamVjdHM6CiAgICAgICAgICAgIGlmIG9iai5jb2xsaXNpb24obmV3X29iaik6CiAgICAgICAgICAgICAgICBjb2xsaXNpb24gPSBUcnVlCiAgICAgICAgICAgICAgICBicmVhawoKICAgICAgICBpZiBub3QgY29sbGlzaW9uOgogICAgICAgICAgICBzZWxmLm9iamVjdHMuYXBwZW5kKG5ld19vYmopCgogICAgICAgIHJldHVybiBjb2xsaXNpb24K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBpbXBvcnQgbnVtcHkgYXMgbnAK</text>
