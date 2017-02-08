@@ -495,7 +495,7 @@
         <mark key="." line="33" column="20" />
         <mark key="^" line="33" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1486475019412">
+      <file name="/Dummy.txt" timestamp="1486516880915">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/imtools/imtools/sample_data.py" timestamp="1484596144458">
@@ -700,12 +700,6 @@
         <mark key="." line="19" column="22" />
         <mark key="^" line="19" column="22" />
       </file>
-      <file name="/Python Console" timestamp="1486515783689">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="4" />
-        <mark key="^" line="0" column="4" />
-        <mark key="." line="0" column="4" />
-      </file>
       <file name="$USER_HOME$/projects/events2calendar/tests/e2c_test.py" timestamp="1477320243915">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="23" />
@@ -819,12 +813,12 @@
         <mark key="." line="21" column="26" />
         <mark key="^" line="21" column="51" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/geometry3d.py" timestamp="1486473578863">
-        <mark key="'" line="672" column="8" />
-        <mark key="[" line="297" column="32" />
-        <mark key="]" line="299" column="16" />
-        <mark key="^" line="299" column="16" />
-        <mark key="." line="299" column="16" />
+      <file name="$USER_HOME$/projects/teigen/teigen/geometry3d.py" timestamp="1486517200581">
+        <mark key="'" line="678" column="8" />
+        <mark key="[" line="631" column="41" />
+        <mark key="]" line="636" column="0" />
+        <mark key="^" line="636" column="0" />
+        <mark key="." line="636" column="0" />
       </file>
       <file name="$USER_HOME$/projects/dicom2fem/dicom2fem/marching_cubes.py" timestamp="1484596732116">
         <mark key="[" line="371" column="69" />
@@ -1059,11 +1053,11 @@
         <mark key="^" line="76" column="55" />
         <mark key="." line="76" column="55" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/dili.py" timestamp="1486386272701">
-        <mark key="[" line="39" column="12" />
-        <mark key="]" line="39" column="29" />
-        <mark key="^" line="39" column="29" />
-        <mark key="." line="39" column="29" />
+      <file name="$USER_HOME$/projects/teigen/teigen/dili.py" timestamp="1486517537939">
+        <mark key="[" line="46" column="21" />
+        <mark key="]" line="47" column="0" />
+        <mark key="^" line="47" column="0" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="$USER_HOME$/projects/io3d/requirements_conda.txt" timestamp="1475923901819">
         <mark key="[" line="4" column="0" />
@@ -5362,49 +5356,47 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">cmFkaXVzICog</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text encoding="base64">IGNvbGxlY3Rpb25zLk9yZGVyZWREaWN0KCk=</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">cmFkaXVzICog</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBkaWN0X2luID0gY29sbGVjdGlvbnMuT3JkZXJlZERpY3QoKQogICAgICAgIGRpY3Rfb3V0ID0gY29sbGVjdGlvbnMuT3JkZXJlZERpY3QoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnByZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5kYXRhZnJhbWVzCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnByZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5kYXRhZnJhbWVzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZm1lcm5lZlsiY291bnQgW10iXSA9IFtjb3VudF0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmRhdGFmcmFtZXMgPSB7fQo=</text>
+        <text encoding="base64">ICAgICAgICBkZm1lcm5lZlsiY291bnQgW10iXSA9IFtjb3VudF0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZmRlc2NyaWJlID0gZGYuZGVzY3JpYmUoKQogICAgICAgIGRmZGVzY3JpYmUuaW5zZXJ0KDAsICIiLCBkZmRlc2NyaWJlLmluZGV4KQogICAgICAgIGNvdW50ID0gZGZkZXNjcmliZVsibGVuZ3RoIl1bMF0KICAgICAgICBkZmRlc2NyaWJlID0gZGZkZXNjcmliZS5peFsxOl0KICAgICAgICBkZmRlc2NyaWJlID0gZGZkZXNjcmliZS5yZW5hbWUoY29sdW1ucz10b19yZW5hbWUpCiAgICAgICAgc2VsZi5kYXRhZnJhbWVzWyJkZXNjcmliZSJdID0gZGZkZXNjcmliZQoKICAgICAgICBkZm1lcm5lID0gZGZbWyJsZW5ndGgiLCAidm9sdW1lIiwgInN1cmZhY2UiXV0uc3VtKCkgLyBzZWxmLnRlaWdlbi5nZW4uYXJlYV92b2x1bWUKICAgICAgICBkZm1lcm5lZiA9IGRmbWVybmUudG9fZnJhbWUoKS50cmFuc3Bvc2UoKS5yZW5hbWUoY29sdW1ucz10b19yZW5hbWVfZGVuc2l0eSkKICAgICAgICBkZm1lcm5lZlsiY291bnQgW10iXSA9IFtjb3VudF0KICAgICAgICBzZWxmLmRhdGFmcmFtZXNbImRlbnNpdHkiXSA9IGRmbWVybmVmCgogICAgICAgICMgd2hvbGUgc3VtYXJ5IGRhdGEKICAgICAgICBkZm92ZXJhbCA9IGRmW1sibGVuZ3RoIiwgInZvbHVtZSIsICJzdXJmYWNlIl1dLnN1bSgpCiAgICAgICAgZGZvdmVyYWxmID0gZGZvdmVyYWwudG9fZnJhbWUoKS50cmFuc3Bvc2UoKS5yZW5hbWUoY29sdW1ucz10b19yZW5hbWUpCiAgICAgICAgZGZvdmVyYWxmWyJhcmVhIHZvbHVtZSBbbW1eM10iXSA9IFtzZWxmLnRlaWdlbi5nZW4uYXJlYV92b2x1bWVdCiAgICAgICAgc2VsZi5kYXRhZnJhbWVzWyJvdmVyYWxsIl0gPSBkZm92ZXJhbGYK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmRhdGFmcmFtZXMgPSB7fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl93Z190YWJfbWVybmUgPSB0YWJsZXdpZGdldC5UYWJsZVdpZGdldChzZWxmLCBkYXRhZnJhbWU9ZGZtZXJuZWYpCiAgICAgICAgc2VsZi5fd2dfdGFiX292ZXJhbCA9IHRhYmxld2lkZ2V0LlRhYmxlV2lkZ2V0KHNlbGYsIGRhdGFmcmFtZT1kZm92ZXJhbCkK</text>
+        <text encoding="base64">ICAgICAgICBkZmRlc2NyaWJlID0gZGYuZGVzY3JpYmUoKQogICAgICAgIGRmZGVzY3JpYmUuaW5zZXJ0KDAsICIiLCBkZmRlc2NyaWJlLmluZGV4KQogICAgICAgIGNvdW50ID0gZGZkZXNjcmliZVsibGVuZ3RoIl1bMF0KICAgICAgICBkZmRlc2NyaWJlID0gZGZkZXNjcmliZS5peFsxOl0KICAgICAgICBkZmRlc2NyaWJlID0gZGZkZXNjcmliZS5yZW5hbWUoY29sdW1ucz10b19yZW5hbWUpCiAgICAgICAgc2VsZi5kYXRhZnJhbWVzWyJkZXNjcmliZSJdID0gZGZkZXNjcmliZQoKICAgICAgICBkZm1lcm5lID0gZGZbWyJsZW5ndGgiLCAidm9sdW1lIiwgInN1cmZhY2UiXV0uc3VtKCkgLyBzZWxmLnRlaWdlbi5nZW4uYXJlYV92b2x1bWUKICAgICAgICBkZm1lcm5lZiA9IGRmbWVybmUudG9fZnJhbWUoKS50cmFuc3Bvc2UoKS5yZW5hbWUoY29sdW1ucz10b19yZW5hbWVfZGVuc2l0eSkKICAgICAgICBkZm1lcm5lZlsiY291bnQgW10iXSA9IFtjb3VudF0KICAgICAgICBzZWxmLmRhdGFmcmFtZXNbImRlbnNpdHkiXSA9IGRmbWVybmVmCgogICAgICAgICMgd2hvbGUgc3VtYXJ5IGRhdGEKICAgICAgICBkZm92ZXJhbCA9IGRmW1sibGVuZ3RoIiwgInZvbHVtZSIsICJzdXJmYWNlIl1dLnN1bSgpCiAgICAgICAgZGZvdmVyYWxmID0gZGZvdmVyYWwudG9fZnJhbWUoKS50cmFuc3Bvc2UoKS5yZW5hbWUoY29sdW1ucz10b19yZW5hbWUpCiAgICAgICAgZGZvdmVyYWxmWyJhcmVhIHZvbHVtZSBbbW1eM10iXSA9IFtzZWxmLnRlaWdlbi5nZW4uYXJlYV92b2x1bWVdCiAgICAgICAgc2VsZi5kYXRhZnJhbWVzWyJvdmVyYWxsIl0gPSBkZm92ZXJhbGYK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE8gdGFrZSBjYXJlIGFib3V0IHJlZHJhd2luZwo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl93Z190YWJfbWVybmUgPSB0YWJsZXdpZGdldC5UYWJsZVdpZGdldChzZWxmLCBkYXRhZnJhbWU9ZGZtZXJuZWYpCiAgICAgICAgc2VsZi5fd2dfdGFiX292ZXJhbCA9IHRhYmxld2lkZ2V0LlRhYmxlV2lkZ2V0KHNlbGYsIGRhdGFmcmFtZT1kZm92ZXJhbCkK</text>
       </register>
-      <register name="9" type="8">
-        <text>suma
-suma
-suma</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAjIFRPRE8gdGFrZSBjYXJlIGFib3V0IHJlZHJhd2luZwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
