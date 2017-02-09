@@ -7,16 +7,16 @@
         <entry key="_nb_ext_conf" value="0.3.0" />
         <entry key="_windows" value="1.0" />
         <entry key="abstract-rendering" value="0.5.1" />
-        <entry key="accelerate" value="2.3.0" />
+        <entry key="accelerate" value="2.3.1" />
         <entry key="accelerate_cudalib" value="2.0" />
         <entry key="affine" value="2.0.0" />
         <entry key="alabaster" value="0.7.9" />
         <entry key="alpaca_static" value="1.5.22" />
-        <entry key="anaconda" value="4.2.0" />
+        <entry key="anaconda" value="4.3.0" />
         <entry key="anaconda-build" value="1.15.0" />
         <entry key="anaconda-clean" value="1.1.0" />
-        <entry key="anaconda-client" value="1.6.0" />
-        <entry key="anaconda-navigator" value="1.3.2" />
+        <entry key="anaconda-client" value="1.6.1" />
+        <entry key="anaconda-navigator" value="1.4.3" />
         <entry key="anaconda-verify" value="1.3.2" />
         <entry key="aniso8601" value="0.82" />
         <entry key="ansi2html" value="1.1.1" />
@@ -108,9 +108,9 @@
         <entry key="colorama" value="0.3.7" />
         <entry key="colorcet" value="0.9.1" />
         <entry key="comtypes" value="1.1.2" />
-        <entry key="conda" value="4.3.8" />
+        <entry key="conda" value="4.3.9" />
         <entry key="conda-api" value="1.1.0" />
-        <entry key="conda-build" value="2.1.2" />
+        <entry key="conda-build" value="2.1.3" />
         <entry key="conda-build-all" value="1.0.1" />
         <entry key="conda-env" value="2.6.0" />
         <entry key="conda-manager" value="0.4.0" />
@@ -122,7 +122,7 @@
         <entry key="configparser" value="3.5.0" />
         <entry key="console_shortcut" value="0.1.1" />
         <entry key="constantly" value="15.1.0" />
-        <entry key="constructor" value="1.5.2" />
+        <entry key="constructor" value="1.5.3" />
         <entry key="contextlib2" value="0.5.4" />
         <entry key="continuum-docs" value="2.0.4" />
         <entry key="cookies" value="2.2.1" />
@@ -208,7 +208,12 @@
         <entry key="flex" value="2.6.0" />
         <entry key="flexmock" value="0.9.7" />
         <entry key="folder_shortcut" value="0.1.0" />
+        <entry key="font-ttf-dejavu-sans-mono" value="2.37" />
+        <entry key="font-ttf-inconsolata" value="2.000" />
+        <entry key="font-ttf-source-code-pro" value="2.030" />
+        <entry key="font-ttf-ubuntu" value="0.83" />
         <entry key="fontconfig" value="2.12.1" />
+        <entry key="fonts-continuum" value="1" />
         <entry key="freeglut" value="2.8.1" />
         <entry key="freeimage" value="3.17.0" />
         <entry key="freetds" value="1.00.9" />
@@ -326,7 +331,7 @@
         <entry key="krb5" value="1.13.2" />
         <entry key="lancet" value="0.9.0" />
         <entry key="lancet-ioam" value="0.9.0" />
-        <entry key="landmarkerio" value="0.4.0" />
+        <entry key="landmarkerio" value="0.4.1" />
         <entry key="lasagne" value="0.1" />
         <entry key="launcher" value="1.0.0" />
         <entry key="lazy-object-proxy" value="1.2.2" />
@@ -394,7 +399,7 @@
         <entry key="memory_profiler" value="0.41" />
         <entry key="menpo" value="0.7.7" />
         <entry key="menpo-pyvrml97" value="2.3.0a4" />
-        <entry key="menpo3d" value="0.5.1" />
+        <entry key="menpo3d" value="0.5.2" />
         <entry key="menpocli" value="0.0.2" />
         <entry key="menpodetect" value="0.4.1" />
         <entry key="menpofit" value="0.4.1" />
@@ -469,9 +474,10 @@
         <entry key="numpy" value="1.11.3" />
         <entry key="numpydoc" value="0.6.0" />
         <entry key="odo" value="0.5.0" />
+        <entry key="olefile" value="0.44" />
         <entry key="openblas" value="0.2.19" />
         <entry key="opencv" value="3.1.0" />
-        <entry key="opencv3" value="3.1.0" />
+        <entry key="opencv3" value="3.2.0" />
         <entry key="openjdk" value="8.17.0.3" />
         <entry key="openldap" value="2.4.36" />
         <entry key="openmpi" value="1.6.3" />
@@ -525,7 +531,7 @@
         <entry key="pkginfo" value="1.4.1" />
         <entry key="plac" value="0.9.6" />
         <entry key="plotly" value="1.12.9" />
-        <entry key="ply" value="3.9" />
+        <entry key="ply" value="3.10" />
         <entry key="portaudio" value="19" />
         <entry key="posix_ipc" value="1.0.0" />
         <entry key="postgres" value="2.2.1" />
@@ -538,7 +544,7 @@
         <entry key="protobuf" value="3.0.0" />
         <entry key="pscp" value="0.65" />
         <entry key="psqlodbc" value="09.03.0400" />
-        <entry key="psutil" value="5.0.1" />
+        <entry key="psutil" value="5.1.2" />
         <entry key="psycopg2" value="2.6.2" />
         <entry key="ptyprocess" value="0.5.1" />
         <entry key="py" value="1.4.32" />
@@ -619,7 +625,7 @@
         <entry key="pyzmq" value="16.0.2" />
         <entry key="qgrid" value="0.3.2" />
         <entry key="qt" value="5.6.2" />
-        <entry key="qtawesome" value="0.4.3" />
+        <entry key="qtawesome" value="0.4.4" />
         <entry key="qtconsole" value="4.2.1" />
         <entry key="qtpy" value="1.2.1" />
         <entry key="quandl" value="3.0.1" />
@@ -837,6 +843,7 @@
         <entry key="r-roxygen2" value="5.0.1" />
         <entry key="r-rpart" value="4.1_10" />
         <entry key="r-rprojroot" value="1.1" />
+        <entry key="r-rsconnect" value="0.7" />
         <entry key="r-rserve" value="1.7_3" />
         <entry key="r-rsqlite" value="1.1_1" />
         <entry key="r-rstan" value="2.12.1" />
@@ -986,7 +993,7 @@
         <entry key="system" value="5.8" />
         <entry key="tabulate" value="0.7.5" />
         <entry key="tblib" value="1.3.0" />
-        <entry key="teigen" value="0.1.22" />
+        <entry key="teigen" value="0.1.25" />
         <entry key="tempita" value="0.5.3" />
         <entry key="tensorflow" value="0.10.0rc0" />
         <entry key="teradata" value="15.10.0.20" />
@@ -1051,7 +1058,7 @@
         <entry key="wrapt" value="1.10.8" />
         <entry key="wtforms" value="2.1" />
         <entry key="wxpython" value="3.0" />
-        <entry key="xarray" value="0.8.2" />
+        <entry key="xarray" value="0.9.1" />
         <entry key="xerces-c" value="3.1.4" />
         <entry key="xlrd" value="1.0.0" />
         <entry key="xlsxwriter" value="0.9.6" />
@@ -1148,6 +1155,7 @@
               <option value="2.0.2" />
               <option value="2.2.0" />
               <option value="2.3.0" />
+              <option value="2.3.1" />
             </list>
           </value>
         </entry>
@@ -1211,6 +1219,7 @@
               <option value="4.1.1" />
               <option value="4.1.0" />
               <option value="4.2.0" />
+              <option value="4.3.0" />
             </list>
           </value>
         </entry>
@@ -1257,6 +1266,7 @@
               <option value="1.5.3" />
               <option value="1.5.4" />
               <option value="1.6.0" />
+              <option value="1.6.1" />
             </list>
           </value>
         </entry>
@@ -1270,6 +1280,7 @@
               <option value="1.2.3" />
               <option value="1.3.1" />
               <option value="1.3.2" />
+              <option value="1.4.3" />
             </list>
           </value>
         </entry>
@@ -2386,6 +2397,7 @@
               <option value="4.3.5" />
               <option value="4.3.8" />
               <option value="4.2.16" />
+              <option value="4.3.9" />
             </list>
           </value>
         </entry>
@@ -2471,6 +2483,7 @@
               <option value="2.1.0" />
               <option value="2.1.1" />
               <option value="2.1.2" />
+              <option value="2.1.3" />
             </list>
           </value>
         </entry>
@@ -2598,6 +2611,7 @@
               <option value="1.5.0" />
               <option value="1.5.1" />
               <option value="1.5.2" />
+              <option value="1.5.3" />
             </list>
           </value>
         </entry>
@@ -3505,11 +3519,46 @@
             </list>
           </value>
         </entry>
+        <entry key="font-ttf-dejavu-sans-mono">
+          <value>
+            <list>
+              <option value="2.37" />
+            </list>
+          </value>
+        </entry>
+        <entry key="font-ttf-inconsolata">
+          <value>
+            <list>
+              <option value="2.000" />
+            </list>
+          </value>
+        </entry>
+        <entry key="font-ttf-source-code-pro">
+          <value>
+            <list>
+              <option value="2.030" />
+            </list>
+          </value>
+        </entry>
+        <entry key="font-ttf-ubuntu">
+          <value>
+            <list>
+              <option value="0.83" />
+            </list>
+          </value>
+        </entry>
         <entry key="fontconfig">
           <value>
             <list>
               <option value="2.11.1" />
               <option value="2.12.1" />
+            </list>
+          </value>
+        </entry>
+        <entry key="fonts-continuum">
+          <value>
+            <list>
+              <option value="1" />
             </list>
           </value>
         </entry>
@@ -4672,6 +4721,7 @@
               <option value="0.2.0" />
               <option value="0.3.2" />
               <option value="0.2.2" />
+              <option value="0.4.1" />
             </list>
           </value>
         </entry>
@@ -5388,6 +5438,7 @@
               <option value="0.4.1" />
               <option value="0.5.1" />
               <option value="0.5.0" />
+              <option value="0.5.2" />
             </list>
           </value>
         </entry>
@@ -6206,6 +6257,13 @@
             </list>
           </value>
         </entry>
+        <entry key="olefile">
+          <value>
+            <list>
+              <option value="0.44" />
+            </list>
+          </value>
+        </entry>
         <entry key="openblas">
           <value>
             <list>
@@ -6232,6 +6290,7 @@
           <value>
             <list>
               <option value="3.1.0" />
+              <option value="3.2.0" />
             </list>
           </value>
         </entry>
@@ -6389,6 +6448,7 @@
           <value>
             <list>
               <option value="1.15.2" />
+              <option value="1.15.0.6" />
             </list>
           </value>
         </entry>
@@ -6773,6 +6833,7 @@
               <option value="3.5" />
               <option value="3.4" />
               <option value="3.9" />
+              <option value="3.10" />
             </list>
           </value>
         </entry>
@@ -6902,6 +6963,7 @@
               <option value="4.3.1" />
               <option value="5.0.0" />
               <option value="5.0.1" />
+              <option value="5.1.2" />
             </list>
           </value>
         </entry>
@@ -7737,6 +7799,7 @@
               <option value="0.3.3" />
               <option value="0.4.1" />
               <option value="0.4.3" />
+              <option value="0.4.4" />
             </list>
           </value>
         </entry>
@@ -9650,6 +9713,13 @@
             </list>
           </value>
         </entry>
+        <entry key="r-rsconnect">
+          <value>
+            <list>
+              <option value="0.7" />
+            </list>
+          </value>
+        </entry>
         <entry key="r-rserve">
           <value>
             <list>
@@ -11197,6 +11267,9 @@
               <option value="0.1.7" />
               <option value="0.1.12" />
               <option value="0.1.22" />
+              <option value="0.1.23" />
+              <option value="0.1.24" />
+              <option value="0.1.25" />
             </list>
           </value>
         </entry>
@@ -11797,6 +11870,7 @@
               <option value="0.8.1" />
               <option value="0.8.0" />
               <option value="0.8.2" />
+              <option value="0.9.1" />
             </list>
           </value>
         </entry>
@@ -12034,6 +12108,6 @@
     <option name="CONDA_CHANNELS">
       <set />
     </option>
-    <option name="LAST_TIME_CHECKED" value="1485686447616" />
+    <option name="LAST_TIME_CHECKED" value="1486645667741" />
   </component>
 </application>
