@@ -1170,19 +1170,16 @@
         <mark key="^" line="1" column="16" />
         <mark key="." line="3" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1486715469773">
+      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1486716905292">
         <mark key="a" line="601" column="37" />
-        <mark key="'" line="77" column="0" />
-        <mark key="[" line="601" column="38" />
-        <mark key="]" line="601" column="37" />
-        <mark key="." line="601" column="37" />
-        <mark key="^" line="601" column="37" />
+        <mark key="'" line="601" column="37" />
+        <mark key="[" line="525" column="0" />
+        <mark key="]" line="525" column="55" />
+        <mark key="." line="525" column="0" />
+        <mark key="^" line="478" column="20" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="124" column="0" filename="$USER_HOME$/projects/lisa/lisa/virtual_resection.py" />
-      <jump line="121" column="0" filename="$USER_HOME$/projects/lisa/lisa/virtual_resection.py" />
-      <jump line="150" column="31" filename="$USER_HOME$/projects/lisa/lisa/virtual_resection.py" />
       <jump line="217" column="15" filename="$USER_HOME$/projects/lisa/lisa/virtual_resection.py" />
       <jump line="303" column="40" filename="$USER_HOME$/projects/lisa/lisa/virtual_resection.py" />
       <jump line="309" column="26" filename="$USER_HOME$/projects/lisa/lisa/virtual_resection.py" />
@@ -1276,10 +1273,13 @@
       <jump line="641" column="71" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="193" column="99" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="381" column="0" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
-      <jump line="813" column="0" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="27" column="0" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="807" column="0" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="77" column="0" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
+      <jump line="596" column="3" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
+      <jump line="813" column="47" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
+      <jump line="470" column="20" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
+      <jump line="601" column="37" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5359,47 +5359,47 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>config_file</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmNvbmZpZ19maWxlX21hbmFnZXIuc2F2ZV9pbml0KHNlbGYuY29uZmlnKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>config_file</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>Sumary</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmZhdm9yaXRlX2NvbmZpZ19maWxlID0gb3Auam9pbihzZWxmLmNvbmZpZ19kaXIsIGRlZmF1bHRfY29uZmlnX2ZpbGVfcGF0dGVybikK</text>
+        <text encoding="base64">ICAgIGRlZiBzYXZlX2Zhdm9yaXRlKHNlbGYsIGNvbmZpZyk6CiAgICAgICAgaW8zZC5taXNjLm9ial90b19maWxlKGNvbmZpZywgc2VsZi5mYXZvcml0ZV9jb25maWdfZmlsZSkKCiAgICBkZWYgbG9hZF9mYXZvcml0ZShzZWxmKToKICAgICAgICByZXR1cm4gaW8zZC5taXNjLm9ial9mcm9tX2ZpbGUoc2VsZi5mYXZvcml0ZV9jb25maWdfZmlsZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNvbmZpZ19maWxlX21hbmFnZXIgPSBDb25maWdGaWxlTWFuYWdlcigidGVpZ2VuIikKICAgICAgICBzZWxmLmNvbmZpZ19maWxlX21hbmFnZXIuaW5pdF9jb25maWdfZGlyKCkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNvbmZpZ19maWxlX21hbmFnZXIuc2F2ZV9pbml0KHNlbGYuY29uZmlnKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0Zy4K</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNvbmZpZ19maWxlX21hbmFnZXIgPSBDb25maWdGaWxlTWFuYWdlcigidGVpZ2VuIikKICAgICAgICBzZWxmLmNvbmZpZ19maWxlX21hbmFnZXIuaW5pdF9jb25maWdfZGlyKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB0Zy4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiBzZXRfZGVmYXVsdChzZWxmLCBjb25maWcpOgogICAgICAgIHNlbGYuZGVmYXVsdF9jb25maWcgPSBjb25maWcKCg==</text>
+        <text encoding="base64">ICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBzZXRfZGVmYXVsdChzZWxmLCBjb25maWcpOgogICAgICAgIHNlbGYuZGVmYXVsdF9jb25maWcgPSBjb25maWcKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXRfZGVmYXVsdChzZWxmKToKICAgICAgICByZXR1cm4gc2VsZi5kZWZhdWx0X2NvbmZpZwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBnZXRfZGVmYXVsdChzZWxmKToKICAgICAgICByZXR1cm4gc2VsZi5kZWZhdWx0X2NvbmZpZwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJhbXMgPSBpbzNkLm1pc2Mub2JqX2Zyb21fZmlsZShhcmdzLnBhcmFtZXRlcmZpbGUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYXJhbXMgPSBpbzNkLm1pc2Mub2JqX2Zyb21fZmlsZShhcmdzLnBhcmFtZXRlcmZpbGUpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -5482,7 +5482,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed OPEN_BRACKET</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
