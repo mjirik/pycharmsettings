@@ -1170,12 +1170,12 @@
         <mark key="^" line="1" column="16" />
         <mark key="." line="3" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1486561557511">
+      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1486712164992">
         <mark key="a" line="448" column="37" />
         <mark key="'" line="27" column="0" />
-        <mark key="[" line="797" column="8" />
-        <mark key="]" line="797" column="13" />
-        <mark key="." line="797" column="13" />
+        <mark key="[" line="852" column="0" />
+        <mark key="]" line="852" column="0" />
+        <mark key="." line="852" column="0" />
         <mark key="^" line="797" column="13" />
       </file>
     </filemarks>
@@ -5359,8 +5359,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB0Zy4K</text>
       </register>
       <register name="-" type="4">
         <text>=</text>
@@ -5372,35 +5372,35 @@
         <text encoding="base64">ICAgIGRlZiBzYXZlX2RlZmF1bHQoc2VsZiwgY29uZmlnKToKICAgICAgICBpbzNkLm1pc2Mub2JqX3RvX2ZpbGUoY29uZmlnLCBzZWxmLmRlZmF1bHRfY29uZmlnX2ZpbGUpCiAgICAgICAgCiAgICBkZWYgbG9hZF9kZWZhdWx0KHNlbGYpOgogICAgICAgIHBhcmFtcyA9IGlvM2QubWlzYy5vYmpfZnJvbV9maWxlKHNlbGYuZGVmYXVsdF9jb25maWdfZmlsZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB0Zy4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlZiBzZXRfZGVmYXVsdChzZWxmLCBjb25maWcpOgogICAgICAgIHNlbGYuZGVmYXVsdF9jb25maWcgPSBjb25maWcKCg==</text>
+        <text encoding="base64">ICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBzZXRfZGVmYXVsdChzZWxmLCBjb25maWcpOgogICAgICAgIHNlbGYuZGVmYXVsdF9jb25maWcgPSBjb25maWcKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXRfZGVmYXVsdChzZWxmKToKICAgICAgICByZXR1cm4gc2VsZi5kZWZhdWx0X2NvbmZpZwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBnZXRfZGVmYXVsdChzZWxmKToKICAgICAgICByZXR1cm4gc2VsZi5kZWZhdWx0X2NvbmZpZwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJhbXMgPSBpbzNkLm1pc2Mub2JqX2Zyb21fZmlsZShhcmdzLnBhcmFtZXRlcmZpbGUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBwYXJhbXMgPSBpbzNkLm1pc2Mub2JqX2Zyb21fZmlsZShhcmdzLnBhcmFtZXRlcmZpbGUpCg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="8">
+      <register name="9" type="8">
         <text>default
 default</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -5437,7 +5437,6 @@ default</text>
         <entry>Sumary</entry>
       </history-search>
       <history-cmd>
-        <entry>107</entry>
         <entry>132</entry>
         <entry>85</entry>
         <entry>137</entry>
@@ -5456,6 +5455,7 @@ default</text>
         <entry>253</entry>
         <entry>60</entry>
         <entry>377</entry>
+        <entry>853</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
