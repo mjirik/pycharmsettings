@@ -299,7 +299,7 @@
         <mark key="^" line="27" column="28" />
         <mark key="." line="27" column="28" />
       </file>
-      <file name="/Python Console" timestamp="1486722119181">
+      <file name="/Python Console" timestamp="1486737392922">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1486415608620">
@@ -848,12 +848,13 @@
         <mark key="^" line="20" column="27" />
         <mark key="." line="20" column="27" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/dictwidgetqt.py" timestamp="1486389376925">
-        <mark key="'" line="51" column="13" />
-        <mark key="[" line="63" column="57" />
-        <mark key="]" line="63" column="96" />
-        <mark key="^" line="63" column="96" />
-        <mark key="." line="63" column="96" />
+      <file name="$USER_HOME$/projects/teigen/teigen/dictwidgetqt.py" timestamp="1486737360730">
+        <mark key="a" line="220" column="31" />
+        <mark key="'" line="79" column="67" />
+        <mark key="[" line="235" column="28" />
+        <mark key="]" line="235" column="47" />
+        <mark key="^" line="235" column="47" />
+        <mark key="." line="235" column="47" />
       </file>
       <file name="$USER_HOME$/projects/teigen/teigen/generators/unconnected_cylinders.py" timestamp="1486527018126">
         <mark key="a" line="313" column="44" />
@@ -1171,17 +1172,16 @@
         <mark key="^" line="1" column="16" />
         <mark key="." line="3" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1486722540068">
+      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1486736923273">
         <mark key="a" line="601" column="37" />
         <mark key="'" line="601" column="37" />
         <mark key="[" line="512" column="54" />
-        <mark key="]" line="502" column="33" />
-        <mark key="." line="502" column="33" />
-        <mark key="^" line="502" column="33" />
+        <mark key="]" line="227" column="22" />
+        <mark key="." line="227" column="22" />
+        <mark key="^" line="227" column="22" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="309" column="26" filename="$USER_HOME$/projects/lisa/lisa/virtual_resection.py" />
       <jump line="320" column="8" filename="$USER_HOME$/projects/lisa/lisa/virtual_resection.py" />
       <jump line="324" column="8" filename="$USER_HOME$/projects/lisa/lisa/virtual_resection.py" />
       <jump line="584" column="30" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
@@ -1281,6 +1281,7 @@
       <jump line="601" column="37" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="71" column="0" filename="$USER_HOME$/projects/teigen/teigen/dili.py" />
       <jump line="1" column="0" filename="$USER_HOME$/projects/teigen/teigen/dili.py" />
+      <jump line="79" column="67" filename="$USER_HOME$/projects/teigen/teigen/dictwidgetqt.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5361,46 +5362,46 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">TGlzdCA=</text>
+        <text>tuple</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">TGlzdCA=</text>
+        <text>tuple</text>
       </register>
       <register name="/" type="4">
         <text>Sumary</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiBzYXZlX2Zhdm9yaXRlKHNlbGYsIGNvbmZpZyk6CiAgICAgICAgaW8zZC5taXNjLm9ial90b19maWxlKGNvbmZpZywgc2VsZi5mYXZvcml0ZV9jb25maWdfZmlsZSkKCiAgICBkZWYgbG9hZF9mYXZvcml0ZShzZWxmKToKICAgICAgICByZXR1cm4gaW8zZC5taXNjLm9ial9mcm9tX2ZpbGUoc2VsZi5mYXZvcml0ZV9jb25maWdfZmlsZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgdHlwZShrZXkpID09IHR1cGxlOgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjIGtleV9pID0ga2V5ICsgc3RyKGhncmlkX2kpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbGxlY3Rpb25zCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNvbmZpZ19maWxlX21hbmFnZXIuc2F2ZV9pbml0KHNlbGYuY29uZmlnKQo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbGxlY3Rpb25zCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNvbmZpZ19maWxlX21hbmFnZXIgPSBDb25maWdGaWxlTWFuYWdlcigidGVpZ2VuIikKICAgICAgICBzZWxmLmNvbmZpZ19maWxlX21hbmFnZXIuaW5pdF9jb25maWdfZGlyKCkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNvbmZpZ19maWxlX21hbmFnZXIuc2F2ZV9pbml0KHNlbGYuY29uZmlnKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0Zy4K</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNvbmZpZ19maWxlX21hbmFnZXIgPSBDb25maWdGaWxlTWFuYWdlcigidGVpZ2VuIikKICAgICAgICBzZWxmLmNvbmZpZ19maWxlX21hbmFnZXIuaW5pdF9jb25maWdfZGlyKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB0Zy4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiBzZXRfZGVmYXVsdChzZWxmLCBjb25maWcpOgogICAgICAgIHNlbGYuZGVmYXVsdF9jb25maWcgPSBjb25maWcKCg==</text>
+        <text encoding="base64">ICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
