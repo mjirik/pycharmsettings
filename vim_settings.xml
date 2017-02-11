@@ -291,7 +291,7 @@
         <mark key="^" line="27" column="28" />
         <mark key="." line="27" column="28" />
       </file>
-      <file name="/Python Console" timestamp="1486816367470">
+      <file name="/Python Console" timestamp="1486842747965">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1486814804582">
@@ -1126,11 +1126,11 @@
         <mark key="]" line="162" column="52" />
         <mark key="." line="162" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/io3d/tests/dcmreaddata_test.py" timestamp="1486840290092">
-        <mark key="[" line="334" column="32" />
-        <mark key="]" line="335" column="10" />
-        <mark key="." line="335" column="10" />
-        <mark key="^" line="335" column="10" />
+      <file name="$USER_HOME$/projects/io3d/tests/dcmreaddata_test.py" timestamp="1486842742180">
+        <mark key="[" line="335" column="15" />
+        <mark key="]" line="335" column="15" />
+        <mark key="." line="335" column="15" />
+        <mark key="^" line="336" column="18" />
       </file>
       <file name="$USER_HOME$/projects/imtools/tests/widgets_test.py" timestamp="1484592991780">
         <mark key="a" line="78" column="14" />
@@ -5359,11 +5359,11 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X3dyaXRlX2hkZjUoc2VsZik6CiAgICAgICAgZmlsZW5hbWUgPSAndGVzdF9maWxlLmhkZjUnCiAgICAgICAgZGF0YSA9IChucC5yYW5kb20ucmFuZG9tKFszMCwgMTAwLCAxMjBdKSAqIDMwKS5hc3R5cGUobnAuaW50MTYpCiAgICAgICAgZGF0YVswOjUsIDIwOjYwLCA2MDo3MF0gKz0gMzAKICAgICAgICBtZXRhZGF0YSA9IHsndm94ZWxzaXplX21tJzogWzEsIDIsIDNdfQogICAgICAgIGR3cml0ZXIud3JpdGUoZGF0YSwgZmlsZW5hbWUsIGZpbGV0eXBlPSdoZGY1JywgbWV0YWRhdGE9bWV0YWRhdGEpCg==</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>Sumary</text>
@@ -5448,13 +5448,13 @@
         <entry>425</entry>
         <entry>430</entry>
         <entry>:w</entry>
-        <entry>e</entry>
         <entry>e teigen/gui.py</entry>
         <entry>253</entry>
         <entry>60</entry>
         <entry>377</entry>
         <entry>853</entry>
         <entry>s</entry>
+        <entry>e</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
