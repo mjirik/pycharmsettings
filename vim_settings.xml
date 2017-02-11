@@ -203,14 +203,6 @@
         <mark key="." line="76" column="64" />
         <mark key="^" line="76" column="64" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1486049122129">
-        <mark key="a" line="1199" column="33" />
-        <mark key="b" line="1429" column="20" />
-        <mark key="'" line="1140" column="0" />
-        <mark key="[" line="1355" column="0" />
-        <mark key="]" line="1364" column="27" />
-        <mark key="." line="66" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/ndnoise/.travis.yml" timestamp="1482349393053">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="61" column="14" />
@@ -876,13 +868,13 @@
         <mark key="." line="46" column="35" />
         <mark key="^" line="46" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/io3d/tests/datawriter_test.py" timestamp="1475921527505">
-        <mark key="a" line="185" column="36" />
+      <file name="$USER_HOME$/projects/io3d/tests/datawriter_test.py" timestamp="1486840075763">
+        <mark key="a" line="186" column="36" />
         <mark key="'" line="69" column="36" />
-        <mark key="[" line="344" column="8" />
-        <mark key="]" line="344" column="16" />
-        <mark key="^" line="344" column="16" />
-        <mark key="." line="344" column="16" />
+        <mark key="[" line="124" column="0" />
+        <mark key="]" line="129" column="72" />
+        <mark key="^" line="18" column="23" />
+        <mark key="." line="18" column="23" />
       </file>
       <file name="$USER_HOME$/projects/io3d/README.md" timestamp="1475675648052">
         <mark key="[" line="41" column="30" />
@@ -1133,6 +1125,12 @@
         <mark key="[" line="162" column="0" />
         <mark key="]" line="162" column="52" />
         <mark key="." line="162" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/io3d/tests/dcmreaddata_test.py" timestamp="1486840290092">
+        <mark key="[" line="334" column="32" />
+        <mark key="]" line="335" column="10" />
+        <mark key="." line="335" column="10" />
+        <mark key="^" line="335" column="10" />
       </file>
       <file name="$USER_HOME$/projects/imtools/tests/widgets_test.py" timestamp="1484592991780">
         <mark key="a" line="78" column="14" />
@@ -5361,8 +5359,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X3dyaXRlX2hkZjUoc2VsZik6CiAgICAgICAgZmlsZW5hbWUgPSAndGVzdF9maWxlLmhkZjUnCiAgICAgICAgZGF0YSA9IChucC5yYW5kb20ucmFuZG9tKFszMCwgMTAwLCAxMjBdKSAqIDMwKS5hc3R5cGUobnAuaW50MTYpCiAgICAgICAgZGF0YVswOjUsIDIwOjYwLCA2MDo3MF0gKz0gMzAKICAgICAgICBtZXRhZGF0YSA9IHsndm94ZWxzaXplX21tJzogWzEsIDIsIDNdfQogICAgICAgIGR3cml0ZXIud3JpdGUoZGF0YSwgZmlsZW5hbWUsIGZpbGV0eXBlPSdoZGY1JywgbWV0YWRhdGE9bWV0YWRhdGEpCg==</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -5371,7 +5369,7 @@
         <text>Sumary</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgdHlwZShrZXkpID09IHR1cGxlOgo=</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X3dyaXRlX2hkZjUoc2VsZik6CiAgICAgICAgZmlsZW5hbWUgPSAndGVzdF9maWxlLmhkZjUnCiAgICAgICAgZGF0YSA9IChucC5yYW5kb20ucmFuZG9tKFszMCwgMTAwLCAxMjBdKSAqIDMwKS5hc3R5cGUobnAuaW50MTYpCiAgICAgICAgZGF0YVswOjUsIDIwOjYwLCA2MDo3MF0gKz0gMzAKICAgICAgICBtZXRhZGF0YSA9IHsndm94ZWxzaXplX21tJzogWzEsIDIsIDNdfQogICAgICAgIGR3cml0ZXIud3JpdGUoZGF0YSwgZmlsZW5hbWUsIGZpbGV0eXBlPSdoZGY1JywgbWV0YWRhdGE9bWV0YWRhdGEpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAjIHNlbGYuZ2VuX3RhYl93Zy5hZGRUYWIoZ2VuX3dnLCAiY3lsaW5kZXIgZ2VuZXJhdG9yIikKICAgICAgICAjIHNlbGYuZ2VuX3RhYl93Zy5hZGRUYWIoZ2VuX3dnLCAiZ2Vuc2VpIGdlbmVyYXRvciIpCgo=</text>
