@@ -868,14 +868,6 @@
         <mark key="." line="46" column="35" />
         <mark key="^" line="46" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/io3d/tests/datawriter_test.py" timestamp="1486840075763">
-        <mark key="a" line="186" column="36" />
-        <mark key="'" line="69" column="36" />
-        <mark key="[" line="124" column="0" />
-        <mark key="]" line="129" column="72" />
-        <mark key="^" line="18" column="23" />
-        <mark key="." line="18" column="23" />
-      </file>
       <file name="$USER_HOME$/projects/io3d/README.md" timestamp="1475675648052">
         <mark key="[" line="41" column="30" />
         <mark key="]" line="41" column="35" />
@@ -951,11 +943,11 @@
         <mark key="^" line="73" column="124" />
         <mark key="." line="55" column="97" />
       </file>
-      <file name="$USER_HOME$/projects/io3d/io3d/datawriter.py" timestamp="1486939667857">
-        <mark key="[" line="266" column="50" />
-        <mark key="]" line="266" column="49" />
-        <mark key="^" line="266" column="49" />
-        <mark key="." line="266" column="49" />
+      <file name="$USER_HOME$/projects/io3d/io3d/datawriter.py" timestamp="1486940650792">
+        <mark key="[" line="330" column="45" />
+        <mark key="]" line="331" column="15" />
+        <mark key="^" line="331" column="15" />
+        <mark key="." line="331" column="15" />
       </file>
       <file name="$USER_HOME$/projects/imtools/requirements_conda.txt" timestamp="1480552339677">
         <mark key="[" line="14" column="11" />
@@ -1047,7 +1039,7 @@
         <mark key="." line="33" column="20" />
         <mark key="^" line="33" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1486817825802">
+      <file name="/Dummy.txt" timestamp="1486940371004">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/imtools/imtools/sample_data.py" timestamp="1484596144458">
@@ -1121,18 +1113,11 @@
         <mark key="^" line="12" column="34" />
         <mark key="." line="12" column="34" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/tb_volume.py" timestamp="1486391771872">
-        <mark key="a" line="86" column="16" />
-        <mark key="'" line="184" column="0" />
-        <mark key="[" line="162" column="0" />
-        <mark key="]" line="162" column="52" />
-        <mark key="." line="162" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/io3d/tests/dcmreaddata_test.py" timestamp="1486938207119">
-        <mark key="[" line="339" column="38" />
-        <mark key="]" line="325" column="22" />
-        <mark key="." line="325" column="22" />
-        <mark key="^" line="325" column="22" />
+        <mark key="[" line="347" column="38" />
+        <mark key="]" line="333" column="22" />
+        <mark key="." line="333" column="22" />
+        <mark key="^" line="333" column="22" />
       </file>
       <file name="$USER_HOME$/projects/imtools/tests/widgets_test.py" timestamp="1484592991780">
         <mark key="a" line="78" column="14" />
@@ -5361,11 +5346,11 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgc2VsZi5zdG9wX3dyaXRpbmc6IAogICAgICAgICAgICAgICAgYnJlYWsK</text>
+      <register name="&quot;" type="4">
+        <text>n</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>Sumary</text>
