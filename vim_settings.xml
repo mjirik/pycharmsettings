@@ -802,7 +802,7 @@
         <mark key="^" line="112" column="50" />
         <mark key="." line="112" column="50" />
       </file>
-      <file name="/Dummy.txt" timestamp="1486941209844">
+      <file name="/Dummy.txt" timestamp="1487172180501">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1487147326649">
@@ -1274,12 +1274,12 @@
         <mark key="^" line="27" column="28" />
         <mark key="." line="27" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/io3d/io3d/datawriter.py" timestamp="1486941032996">
-        <mark key="'" line="340" column="0" />
-        <mark key="[" line="317" column="0" />
-        <mark key="]" line="317" column="30" />
-        <mark key="^" line="313" column="46" />
-        <mark key="." line="317" column="0" />
+      <file name="$USER_HOME$/projects/io3d/io3d/datawriter.py" timestamp="1487172175207">
+        <mark key="'" line="344" column="0" />
+        <mark key="[" line="52" column="39" />
+        <mark key="]" line="53" column="7" />
+        <mark key="^" line="53" column="7" />
+        <mark key="." line="53" column="7" />
       </file>
       <file name="$USER_HOME$/projects/io3d/.travis.yml" timestamp="1454931952662">
         <mark key="'" line="26" column="4" />
@@ -1690,6 +1690,11 @@
         <mark key="]" line="1" column="26" />
         <mark key="^" line="1" column="26" />
         <mark key="." line="1" column="26" />
+      </file>
+      <file name="$USER_HOME$/projects/io3d/io3d/datareader.py" timestamp="1487172126892">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="59" column="46" />
+        <mark key="." line="60" column="0" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/__init__.py" timestamp="1464369261837">
         <mark key="[" line="3" column="0" />
@@ -5934,51 +5939,47 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>{
-            &quot;voxelsize_mm&quot;: [1., 1., 1.],
-            &quot;areasize_px&quot;: [100, 100, 100],
-            &quot;areasize_mm&quot;: [100, 100, 100],
-        }</text>
+        <text>data</text>
       </register>
       <register name="-" type="4">
-        <text>voxelsize_mm</text>
+        <text>data</text>
       </register>
       <register name="/" type="4">
-        <text>Sumary</text>
+        <text>expand</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInZveGVsc2l6ZV9tbSI6IFswLjEsIDAuMSwgMC4xXSwK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm9yaWdfZGF0YXBhdGggPSBkYXRhcGF0aAogICAgICAgIGRhdGFwYXRoID0gb3MucGF0aC5leHBhbmR1c2VyKGRhdGFwYXRoKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>{
-            &quot;voxelsize_mm&quot;: [1., 1., 1.],
-            &quot;areasize_px&quot;: [100, 100, 100],
-            &quot;areasize_mm&quot;: [100, 100, 100],
-        }</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBvcy5wYXRoLmUK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgel9wb3NpdGlvbiArPSB6X3ZzCg==</text>
+      <register name="2" type="4">
+        <text>{
+            &quot;voxelsize_mm&quot;: [1., 1., 1.],
+            &quot;areasize_px&quot;: [100, 100, 100],
+            &quot;areasize_mm&quot;: [100, 100, 100],
+        }</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgc2VsZi5zdG9wX3dyaXRpbmc6IAogICAgICAgICAgICAgICAgYnJlYWsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgel9wb3NpdGlvbiArPSB6X3ZzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYuZ2VuX3RhYl93Zy5hZGRUYWIoZ2VuX3dnLCAiY3lsaW5kZXIgZ2VuZXJhdG9yIikKICAgICAgICAjIHNlbGYuZ2VuX3RhYl93Zy5hZGRUYWIoZ2VuX3dnLCAiZ2Vuc2VpIGdlbmVyYXRvciIpCgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgc2VsZi5zdG9wX3dyaXRpbmc6IAogICAgICAgICAgICAgICAgYnJlYWsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYuY29uZmlnLnVwZGF0ZWQuY29ubmVjdChzZWxmLm9uX2NvbmZpZ191cGRhdGUpCiAgICAgICAgIyBkZWYgbmFtZV9mY24oKmFyZ3MsICoqa3dhcmdzKToKICAgICAgICAjICAgICBwcmludCBhcmdzCiAgICAgICAgIyAgICAgcHJpbnQga3dhcmdzCiAgICAgICAgIyAgICAgcmV0dXJuICJzYXZlIgogICAgICAgICMgYnRuX3NhdmUubmFtZSA9IG5hbWVfZmNuCiAgICAgICAgIyBidG5fc2F2ZS5yZW1vdmUgPSBuYW1lX2ZjbgogICAgICAgICMgYnRuX3NhdmUucGFyZW50Q2hhbmdlZCA9IG5hbWVfZmNuCiAgICAgICAgIyBidG5fc2F2ZS5zaWdUcmVlU3RhdGVDaGFuZ2VkID0gbmFtZV9mY24K</text>
+        <text encoding="base64">ICAgICAgICAjIHNlbGYuZ2VuX3RhYl93Zy5hZGRUYWIoZ2VuX3dnLCAiY3lsaW5kZXIgZ2VuZXJhdG9yIikKICAgICAgICAjIHNlbGYuZ2VuX3RhYl93Zy5hZGRUYWIoZ2VuX3dnLCAiZ2Vuc2VpIGdlbmVyYXRvciIpCgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjIGtleV9pID0ga2V5ICsgc3RyKGhncmlkX2kpCg==</text>
+        <text encoding="base64">ICAgICAgICAjIHNlbGYuY29uZmlnLnVwZGF0ZWQuY29ubmVjdChzZWxmLm9uX2NvbmZpZ191cGRhdGUpCiAgICAgICAgIyBkZWYgbmFtZV9mY24oKmFyZ3MsICoqa3dhcmdzKToKICAgICAgICAjICAgICBwcmludCBhcmdzCiAgICAgICAgIyAgICAgcHJpbnQga3dhcmdzCiAgICAgICAgIyAgICAgcmV0dXJuICJzYXZlIgogICAgICAgICMgYnRuX3NhdmUubmFtZSA9IG5hbWVfZmNuCiAgICAgICAgIyBidG5fc2F2ZS5yZW1vdmUgPSBuYW1lX2ZjbgogICAgICAgICMgYnRuX3NhdmUucGFyZW50Q2hhbmdlZCA9IG5hbWVfZmNuCiAgICAgICAgIyBidG5fc2F2ZS5zaWdUcmVlU3RhdGVDaGFuZ2VkID0gbmFtZV9mY24K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjIGtleV9pID0ga2V5ICsgc3RyKGhncmlkX2kpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -5988,15 +5989,14 @@
       </register>
     </registers>
     <search>
-      <last-search>Sumary</last-search>
+      <last-search>expand</last-search>
       <last-offset />
-      <last-pattern>Sumary</last-pattern>
+      <last-pattern>expand</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>organ_by</entry>
         <entry>split</entry>
         <entry>label</entry>
         <entry encoding="base64">XDxRQXBwbGljYXRpb25cPg==</entry>
@@ -6016,6 +6016,7 @@
         <entry encoding="base64">XDxwcmVwYXJlX3N0YXRzXD4=</entry>
         <entry>mkdir</entry>
         <entry>progress</entry>
+        <entry>expand</entry>
       </history-search>
       <history-cmd>
         <entry>885</entry>
