@@ -695,12 +695,11 @@
         <mark key="^" line="73" column="124" />
         <mark key="." line="55" column="97" />
       </file>
-      <file name="$USER_HOME$/projects/io3d/io3d/datawriter.py" timestamp="1487172175207">
-        <mark key="'" line="344" column="0" />
-        <mark key="[" line="52" column="39" />
-        <mark key="]" line="53" column="7" />
-        <mark key="^" line="53" column="7" />
-        <mark key="." line="53" column="7" />
+      <file name="$USER_HOME$/projects/io3d/io3d/datawriter.py" timestamp="1487263283335">
+        <mark key="'" line="346" column="0" />
+        <mark key="[" line="337" column="0" />
+        <mark key="]" line="337" column="0" />
+        <mark key="." line="337" column="0" />
       </file>
       <file name="$USER_HOME$/projects/imtools/requirements_conda.txt" timestamp="1480552339677">
         <mark key="[" line="14" column="11" />
@@ -760,7 +759,7 @@
         <mark key="." line="33" column="20" />
         <mark key="^" line="33" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1487172254685">
+      <file name="/Dummy.txt" timestamp="1487263299368">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/imtools/imtools/sample_data.py" timestamp="1484596144458">
@@ -1748,7 +1747,7 @@
         <mark key="^" line="13" column="3" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1487262181110">
+      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1487263018023">
         <mark key="a" line="601" column="37" />
         <mark key="b" line="498" column="7" />
         <mark key="'" line="601" column="37" />
@@ -5938,8 +5937,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>fn_base + fn_ext</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>fn_base + fn_ext</text>
@@ -5948,41 +5947,41 @@
         <text>expand</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiBmaWxlcGF0dGVybl9zcGxpdChzZWxmKToK</text>
+        <text encoding="base64">ICAgIGZpbGVwYXR0ZXJuID0gb3MucGF0aC5leHBhbmR1c2VyKGZpbGVwYXR0ZXJuKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNvbmZpZ1sicG9zdHByb2Nlc3NpbmciXVsibWVhc3VyZW1lbnRfbXVsdGlwbGllciJdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmNvbmZpZ1sicG9zdHByb2Nlc3NpbmciXVsibWVhc3VyZW1lbnRfbXVsdGlwbGllciJdCg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBvcy5wYXRoLmUK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>{
             &quot;voxelsize_mm&quot;: [1., 1., 1.],
             &quot;areasize_px&quot;: [100, 100, 100],
             &quot;areasize_mm&quot;: [100, 100, 100],
         }</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgel9wb3NpdGlvbiArPSB6X3ZzCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgc2VsZi5zdG9wX3dyaXRpbmc6IAogICAgICAgICAgICAgICAgYnJlYWsK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAjIHNlbGYuZ2VuX3RhYl93Zy5hZGRUYWIoZ2VuX3dnLCAiY3lsaW5kZXIgZ2VuZXJhdG9yIikKICAgICAgICAjIHNlbGYuZ2VuX3RhYl93Zy5hZGRUYWIoZ2VuX3dnLCAiZ2Vuc2VpIGdlbmVyYXRvciIpCgo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAjIHNlbGYuY29uZmlnLnVwZGF0ZWQuY29ubmVjdChzZWxmLm9uX2NvbmZpZ191cGRhdGUpCiAgICAgICAgIyBkZWYgbmFtZV9mY24oKmFyZ3MsICoqa3dhcmdzKToKICAgICAgICAjICAgICBwcmludCBhcmdzCiAgICAgICAgIyAgICAgcHJpbnQga3dhcmdzCiAgICAgICAgIyAgICAgcmV0dXJuICJzYXZlIgogICAgICAgICMgYnRuX3NhdmUubmFtZSA9IG5hbWVfZmNuCiAgICAgICAgIyBidG5fc2F2ZS5yZW1vdmUgPSBuYW1lX2ZjbgogICAgICAgICMgYnRuX3NhdmUucGFyZW50Q2hhbmdlZCA9IG5hbWVfZmNuCiAgICAgICAgIyBidG5fc2F2ZS5zaWdUcmVlU3RhdGVDaGFuZ2VkID0gbmFtZV9mY24K</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjIGtleV9pID0ga2V5ICsgc3RyKGhncmlkX2kpCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjIGtleV9pID0ga2V5ICsgc3RyKGhncmlkX2kpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
