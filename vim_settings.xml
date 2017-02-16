@@ -108,12 +108,12 @@
         <mark key="." line="303" column="40" />
         <mark key="^" line="303" column="40" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/tests/teigen_test.py" timestamp="1487172505262">
+      <file name="$USER_HOME$/projects/teigen/tests/teigen_test.py" timestamp="1487265571244">
         <mark key="'" line="13" column="0" />
-        <mark key="[" line="50" column="25" />
-        <mark key="]" line="50" column="26" />
-        <mark key="." line="50" column="26" />
-        <mark key="^" line="50" column="26" />
+        <mark key="[" line="49" column="12" />
+        <mark key="]" line="49" column="15" />
+        <mark key="." line="49" column="15" />
+        <mark key="^" line="49" column="15" />
       </file>
       <file name="$USER_HOME$/projects/lisa/requirements_conda.txt" timestamp="1464092446357">
         <mark key="[" line="3" column="2" />
@@ -759,7 +759,7 @@
         <mark key="." line="33" column="20" />
         <mark key="^" line="33" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1487265211652">
+      <file name="/Dummy.txt" timestamp="1487265269575">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/imtools/imtools/sample_data.py" timestamp="1484596144458">
@@ -5937,11 +5937,11 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>fn_base + fn_ext</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>expand</text>
