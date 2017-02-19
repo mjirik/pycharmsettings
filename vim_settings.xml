@@ -108,12 +108,12 @@
         <mark key="." line="303" column="40" />
         <mark key="^" line="303" column="40" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/tests/teigen_test.py" timestamp="1487346854540">
+      <file name="$USER_HOME$/projects/teigen/tests/teigen_test.py" timestamp="1487513272231">
         <mark key="'" line="13" column="0" />
-        <mark key="[" line="50" column="13" />
-        <mark key="]" line="42" column="17" />
-        <mark key="." line="42" column="17" />
-        <mark key="^" line="42" column="17" />
+        <mark key="[" line="66" column="42" />
+        <mark key="]" line="66" column="43" />
+        <mark key="." line="66" column="43" />
+        <mark key="^" line="65" column="32" />
       </file>
       <file name="$USER_HOME$/projects/lisa/requirements_conda.txt" timestamp="1464092446357">
         <mark key="[" line="3" column="2" />
@@ -1055,10 +1055,10 @@
         <mark key="^" line="27" column="28" />
         <mark key="." line="27" column="28" />
       </file>
-      <file name="/Python Console" timestamp="1487259567196">
+      <file name="/Python Console" timestamp="1487517039494">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1486934534659">
+      <file name="/fragment.py" timestamp="1487517380101">
         <mark key="i" line="0" column="5" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="15" column="25" />
@@ -1748,14 +1748,14 @@
         <mark key="^" line="13" column="3" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1487350443738">
-        <mark key="a" line="601" column="37" />
-        <mark key="b" line="498" column="7" />
-        <mark key="'" line="601" column="37" />
-        <mark key="[" line="651" column="49" />
-        <mark key="]" line="651" column="50" />
-        <mark key="^" line="651" column="48" />
-        <mark key="." line="651" column="50" />
+      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1487513223437">
+        <mark key="a" line="606" column="37" />
+        <mark key="b" line="503" column="7" />
+        <mark key="'" line="606" column="37" />
+        <mark key="[" line="438" column="26" />
+        <mark key="]" line="438" column="30" />
+        <mark key="^" line="438" column="30" />
+        <mark key="." line="438" column="30" />
       </file>
     </filemarks>
     <jumps>
@@ -5938,8 +5938,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>100</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X3RlaWdlbl9iaWcoc2VsZik6CiAgICAgICAgaW1wb3J0IHRlaWdlbi5ndWkKICAgICAgICB0ZyA9IHRlaWdlbi5ndWkuVGVpZ2VuKCkKICAgICAgICBjb25mID0gewogICAgICAgICAgICAiYXJlYXNhbXBsaW5nIjp7CiAgICAgICAgICAgICAgICAidm94ZWxzaXplX21tIjogWzEuLCAxLiwgMS5dLAogICAgICAgICAgICAgICAgImFyZWFzaXplX3B4IjogWzUxMCwgNTIwLCA1MzBdLAogICAgICAgICAgICAgICAgImFyZWFzaXplX21tIjogWzUxMCwgNTIwLCA1MzBdLAogICAgICAgICAgICB9LAogICAgICAgICAgICAicG9zdHByb2Nlc3NpbmciOnsKICAgICAgICAgICAgICAgICJtZWFzdXJlbWVudF9tdWx0aXBsaWVyIjotMSwKICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICB0Zy51cGRhdGVfY29uZmlnKCoqY29uZikKICAgICAgICB0Zy5ydW4oKQogICAgICAgIHRnLnNhdmVfdm9sdW1lKCkK</text>
       </register>
       <register name="-" type="4">
         <text>100</text>
@@ -5948,7 +5948,7 @@
         <text>expand</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5pbnRlbnNpdHlfcHJvZmlsZSA9IHsxOjIwMCwgMC42OiAxMDB9Cg==</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X3RlaWdlbl9iaWcoc2VsZik6CiAgICAgICAgaW1wb3J0IHRlaWdlbi5ndWkKICAgICAgICB0ZyA9IHRlaWdlbi5ndWkuVGVpZ2VuKCkKICAgICAgICBjb25mID0gewogICAgICAgICAgICAiYXJlYXNhbXBsaW5nIjp7CiAgICAgICAgICAgICAgICAidm94ZWxzaXplX21tIjogWzEuLCAxLiwgMS5dLAogICAgICAgICAgICAgICAgImFyZWFzaXplX3B4IjogWzUxMCwgNTIwLCA1MzBdLAogICAgICAgICAgICAgICAgImFyZWFzaXplX21tIjogWzUxMCwgNTIwLCA1MzBdLAogICAgICAgICAgICB9LAogICAgICAgICAgICAicG9zdHByb2Nlc3NpbmciOnsKICAgICAgICAgICAgICAgICJtZWFzdXJlbWVudF9tdWx0aXBsaWVyIjotMSwKICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICB0Zy51cGRhdGVfY29uZmlnKCoqY29uZikKICAgICAgICB0Zy5ydW4oKQogICAgICAgIHRnLnNhdmVfdm9sdW1lKCkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoc3RyKHQyLXQwKSkK</text>
