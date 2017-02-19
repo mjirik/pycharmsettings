@@ -1055,15 +1055,15 @@
         <mark key="^" line="27" column="28" />
         <mark key="." line="27" column="28" />
       </file>
-      <file name="/Python Console" timestamp="1487517039494">
+      <file name="/Python Console" timestamp="1487521061434">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1487517380101">
+      <file name="/fragment.py" timestamp="1487521079341">
         <mark key="i" line="0" column="5" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="15" column="25" />
-        <mark key="^" line="14" column="23" />
-        <mark key="." line="15" column="0" />
+        <mark key="]" line="0" column="1" />
+        <mark key="^" line="0" column="1" />
+        <mark key="." line="0" column="1" />
       </file>
       <file name="$USER_HOME$/projects/teigen/requirements_conda.txt" timestamp="1481976056058">
         <mark key="[" line="5" column="11" />
@@ -1748,14 +1748,14 @@
         <mark key="^" line="13" column="3" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1487513223437">
-        <mark key="a" line="606" column="37" />
-        <mark key="b" line="503" column="7" />
-        <mark key="'" line="606" column="37" />
-        <mark key="[" line="438" column="26" />
-        <mark key="]" line="438" column="30" />
-        <mark key="^" line="438" column="30" />
-        <mark key="." line="438" column="30" />
+      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1487521052381">
+        <mark key="a" line="615" column="37" />
+        <mark key="b" line="512" column="7" />
+        <mark key="'" line="615" column="37" />
+        <mark key="[" line="437" column="98" />
+        <mark key="]" line="438" column="48" />
+        <mark key="^" line="438" column="48" />
+        <mark key="." line="438" column="48" />
       </file>
     </filemarks>
     <jumps>
@@ -5938,17 +5938,17 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X3RlaWdlbl9iaWcoc2VsZik6CiAgICAgICAgaW1wb3J0IHRlaWdlbi5ndWkKICAgICAgICB0ZyA9IHRlaWdlbi5ndWkuVGVpZ2VuKCkKICAgICAgICBjb25mID0gewogICAgICAgICAgICAiYXJlYXNhbXBsaW5nIjp7CiAgICAgICAgICAgICAgICAidm94ZWxzaXplX21tIjogWzEuLCAxLiwgMS5dLAogICAgICAgICAgICAgICAgImFyZWFzaXplX3B4IjogWzUxMCwgNTIwLCA1MzBdLAogICAgICAgICAgICAgICAgImFyZWFzaXplX21tIjogWzUxMCwgNTIwLCA1MzBdLAogICAgICAgICAgICB9LAogICAgICAgICAgICAicG9zdHByb2Nlc3NpbmciOnsKICAgICAgICAgICAgICAgICJtZWFzdXJlbWVudF9tdWx0aXBsaWVyIjotMSwKICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICB0Zy51cGRhdGVfY29uZmlnKCoqY29uZikKICAgICAgICB0Zy5ydW4oKQogICAgICAgIHRnLnNhdmVfdm9sdW1lKCkK</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>100</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>expand</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X3RlaWdlbl9iaWcoc2VsZik6CiAgICAgICAgaW1wb3J0IHRlaWdlbi5ndWkKICAgICAgICB0ZyA9IHRlaWdlbi5ndWkuVGVpZ2VuKCkKICAgICAgICBjb25mID0gewogICAgICAgICAgICAiYXJlYXNhbXBsaW5nIjp7CiAgICAgICAgICAgICAgICAidm94ZWxzaXplX21tIjogWzEuLCAxLiwgMS5dLAogICAgICAgICAgICAgICAgImFyZWFzaXplX3B4IjogWzUxMCwgNTIwLCA1MzBdLAogICAgICAgICAgICAgICAgImFyZWFzaXplX21tIjogWzUxMCwgNTIwLCA1MzBdLAogICAgICAgICAgICB9LAogICAgICAgICAgICAicG9zdHByb2Nlc3NpbmciOnsKICAgICAgICAgICAgICAgICJtZWFzdXJlbWVudF9tdWx0aXBsaWVyIjotMSwKICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICB0Zy51cGRhdGVfY29uZmlnKCoqY29uZikKICAgICAgICB0Zy5ydW4oKQogICAgICAgIHRnLnNhdmVfdm9sdW1lKCkK</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiU3RhcnRpbmcgVGVpZ2VuIikK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoc3RyKHQyLXQwKSkK</text>
