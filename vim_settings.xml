@@ -108,10 +108,10 @@
         <mark key="." line="303" column="40" />
         <mark key="^" line="303" column="40" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/tests/teigen_test.py" timestamp="1487513272231">
+      <file name="$USER_HOME$/projects/teigen/tests/teigen_test.py" timestamp="1487525589938">
         <mark key="'" line="13" column="0" />
-        <mark key="[" line="66" column="42" />
-        <mark key="]" line="66" column="43" />
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="74" column="23" />
         <mark key="." line="66" column="43" />
         <mark key="^" line="65" column="32" />
       </file>
@@ -760,7 +760,7 @@
         <mark key="." line="33" column="20" />
         <mark key="^" line="33" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1487326680565">
+      <file name="/Dummy.txt" timestamp="1487524670454">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/imtools/imtools/sample_data.py" timestamp="1484596144458">
@@ -5938,8 +5938,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>debug</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X3RlaWdlbl9iaWcoc2VsZik6CiAgICAgICAgaW1wb3J0IHRlaWdlbi5ndWkKICAgICAgICB0ZyA9IHRlaWdlbi5ndWkuVGVpZ2VuKCkKICAgICAgICBjb25mID0gewogICAgICAgICAgICAiYXJlYXNhbXBsaW5nIjp7CiAgICAgICAgICAgICAgICAidm94ZWxzaXplX21tIjogWzEuLCAxLiwgMS5dLAogICAgICAgICAgICAgICAgImFyZWFzaXplX3B4IjogWzExMCwgMTIwLCAxMzBdLAogICAgICAgICAgICAgICAgImFyZWFzaXplX21tIjogWzExMCwgMTIwLCAxMzBdLAogICAgICAgICAgICB9LAogICAgICAgICAgICAicG9zdHByb2Nlc3NpbmciOnsKICAgICAgICAgICAgICAgICJtZWFzdXJlbWVudF9tdWx0aXBsaWVyIjotMSwKICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICB0Zy51cGRhdGVfY29uZmlnKCoqY29uZikKICAgICAgICB0Zy5ydW4oKQogICAgICAgIHRnLnNhdmVfdm9sdW1lKCkK</text>
       </register>
       <register name="-" type="4">
         <text>debug</text>
@@ -5948,7 +5948,7 @@
         <text>expand</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm1lbW9yeWhhbmRsZXIuZmx1c2goKQo=</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X3RlaWdlbl9iaWcoc2VsZik6CiAgICAgICAgaW1wb3J0IHRlaWdlbi5ndWkKICAgICAgICB0ZyA9IHRlaWdlbi5ndWkuVGVpZ2VuKCkKICAgICAgICBjb25mID0gewogICAgICAgICAgICAiYXJlYXNhbXBsaW5nIjp7CiAgICAgICAgICAgICAgICAidm94ZWxzaXplX21tIjogWzEuLCAxLiwgMS5dLAogICAgICAgICAgICAgICAgImFyZWFzaXplX3B4IjogWzExMCwgMTIwLCAxMzBdLAogICAgICAgICAgICAgICAgImFyZWFzaXplX21tIjogWzExMCwgMTIwLCAxMzBdLAogICAgICAgICAgICB9LAogICAgICAgICAgICAicG9zdHByb2Nlc3NpbmciOnsKICAgICAgICAgICAgICAgICJtZWFzdXJlbWVudF9tdWx0aXBsaWVyIjotMSwKICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICB0Zy51cGRhdGVfY29uZmlnKCoqY29uZikKICAgICAgICB0Zy5ydW4oKQogICAgICAgIHRnLnNhdmVfdm9sdW1lKCkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
