@@ -760,7 +760,7 @@
         <mark key="." line="33" column="20" />
         <mark key="^" line="33" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1487594461955">
+      <file name="/Dummy.txt" timestamp="1487618477345">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/imtools/imtools/sample_data.py" timestamp="1484596144458">
@@ -822,13 +822,13 @@
         <mark key="^" line="12" column="34" />
         <mark key="." line="12" column="34" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/tb_volume.py" timestamp="1487407814163">
-        <mark key="a" line="87" column="16" />
-        <mark key="'" line="185" column="0" />
-        <mark key="[" line="44" column="43" />
-        <mark key="]" line="44" column="43" />
-        <mark key="." line="44" column="43" />
-        <mark key="^" line="38" column="54" />
+      <file name="$USER_HOME$/projects/teigen/teigen/tb_volume.py" timestamp="1487618461967">
+        <mark key="a" line="117" column="30" />
+        <mark key="'" line="29" column="13" />
+        <mark key="[" line="67" column="29" />
+        <mark key="]" line="67" column="29" />
+        <mark key="." line="67" column="29" />
+        <mark key="^" line="67" column="29" />
       </file>
       <file name="$USER_HOME$/projects/io3d/tests/dcmreaddata_test.py" timestamp="1486938207119">
         <mark key="'" line="0" column="0" />
@@ -1077,11 +1077,11 @@
         <mark key="^" line="64" column="22" />
         <mark key="." line="64" column="22" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/tb_vtk.py" timestamp="1486545454417">
-        <mark key="[" line="161" column="18" />
-        <mark key="]" line="161" column="24" />
-        <mark key="^" line="161" column="24" />
-        <mark key="." line="161" column="24" />
+      <file name="$USER_HOME$/projects/teigen/teigen/tb_vtk.py" timestamp="1487617588971">
+        <mark key="[" line="189" column="8" />
+        <mark key="]" line="189" column="9" />
+        <mark key="^" line="189" column="9" />
+        <mark key="." line="189" column="9" />
       </file>
       <file name="$USER_HOME$/projects/ndnoise/ndnoise/filtration.py" timestamp="1484147007628">
         <mark key="a" line="203" column="4" />
@@ -1753,9 +1753,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="320" column="8" filename="$USER_HOME$/projects/lisa/lisa/virtual_resection.py" />
-      <jump line="324" column="8" filename="$USER_HOME$/projects/lisa/lisa/virtual_resection.py" />
-      <jump line="584" column="30" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="19" column="21" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="615" column="0" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="55" column="41" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
@@ -1853,6 +1850,9 @@
       <jump line="71" column="0" filename="$USER_HOME$/projects/teigen/teigen/dili.py" />
       <jump line="1" column="0" filename="$USER_HOME$/projects/teigen/teigen/dili.py" />
       <jump line="79" column="67" filename="$USER_HOME$/projects/teigen/teigen/dictwidgetqt.py" />
+      <jump line="35" column="4" filename="$USER_HOME$/projects/teigen/teigen/tb_volume.py" />
+      <jump line="116" column="30" filename="$USER_HOME$/projects/teigen/teigen/tb_volume.py" />
+      <jump line="29" column="13" filename="$USER_HOME$/projects/teigen/teigen/tb_volume.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5932,14 +5932,14 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>debug</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>debug</text>
       </register>
       <register name="/" type="4">
-        <text>expand</text>
+        <text>debug</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBmbl9iYXNlID0gc2VsZi5fZ2V0X2ZuX2Jhc2UoKQo=</text>
@@ -5979,16 +5979,14 @@
       </register>
     </registers>
     <search>
-      <last-search>expand</last-search>
+      <last-search>debug</last-search>
       <last-offset />
-      <last-pattern>expand</last-pattern>
+      <last-pattern>debug</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>imgFiltering</entry>
-        <entry>floor</entry>
         <entry>round</entry>
         <entry>organ_by</entry>
         <entry>split</entry>
@@ -6007,6 +6005,8 @@
         <entry>button</entry>
         <entry>sumary</entry>
         <entry>Sumary</entry>
+        <entry>logger</entry>
+        <entry>debug</entry>
       </history-search>
       <history-cmd>
         <entry>85</entry>
