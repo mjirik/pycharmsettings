@@ -254,11 +254,6 @@
         <mark key="^" line="39" column="51" />
         <mark key="." line="39" column="51" />
       </file>
-      <file name="$USER_HOME$/projects/io3d/io3d/datareader.py" timestamp="1487172126892">
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="61" column="46" />
-        <mark key="." line="62" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/skelet3d/tests/tube_tree_test.py" timestamp="1477048852493">
         <mark key="a" line="86" column="27" />
         <mark key="'" line="8" column="0" />
@@ -1601,6 +1596,10 @@
         <mark key="^" line="58" column="26" />
         <mark key="." line="58" column="26" />
       </file>
+      <file name="$USER_HOME$/projects/pyqtgraph/examples/parametertree.py" timestamp="1487858153483">
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="102" column="6" />
+      </file>
       <file name="$USER_HOME$/projects/dicom2fem/dicom2fem/__init__.py" timestamp="1484594064491">
         <mark key="[" line="3" column="22" />
         <mark key="]" line="4" column="0" />
@@ -1683,10 +1682,10 @@
         <mark key="^" line="178" column="21" />
         <mark key="." line="178" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/dictwidgetpg.py" timestamp="1487855524391">
-        <mark key="[" line="273" column="0" />
+      <file name="$USER_HOME$/projects/teigen/teigen/dictwidgetpg.py" timestamp="1487857780494">
+        <mark key="[" line="286" column="16" />
         <mark key="]" line="273" column="0" />
-        <mark key="^" line="288" column="0" />
+        <mark key="^" line="289" column="0" />
         <mark key="." line="273" column="0" />
       </file>
       <file name="$USER_HOME$/projects/skelet3d/tests/vt_biodur.yaml" timestamp="1465899736914">
@@ -1761,14 +1760,14 @@
         <mark key="^" line="13" column="3" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1487856535397">
+      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1487858198829">
         <mark key="a" line="201" column="56" />
         <mark key="b" line="509" column="7" />
         <mark key="'" line="452" column="13" />
-        <mark key="[" line="318" column="52" />
-        <mark key="]" line="319" column="78" />
-        <mark key="." line="319" column="78" />
-        <mark key="^" line="319" column="78" />
+        <mark key="[" line="322" column="92" />
+        <mark key="]" line="323" column="15" />
+        <mark key="." line="323" column="15" />
+        <mark key="^" line="323" column="15" />
       </file>
     </filemarks>
     <jumps>
@@ -5951,17 +5950,17 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>ScalableGroup(name=&quot;Expandable Parameter Group&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>AreaSampling</text>
+        <text>ScalableGroup(name=&quot;Expandable Parameter Group&quot;</text>
       </register>
       <register name="/" type="4">
         <text>generate_volume</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y2xhc3MgQXJlYVNhbXBsaW5nUGFyYW1ldGVyKHBUeXBlcy5Hcm91cFBhcmFtZXRlcik6CiAgICBkZWYgX19pbml0X18oc2VsZiwgKipvcHRzKToKICAgICAgICBvcHRzWyd0eXBlJ10gPSAnYm9vbCcKICAgICAgICBvcHRzWyd2YWx1ZSddID0gVHJ1ZQogICAgICAgIHZveGVsc2l6ZV9tbSA9IFsxLjAsIDEuMCwgMS4wXQogICAgICAgIGFyZWFzaXplX21tID0gWzEwMC4wLCAxMDAuMCwgMTAwLjBdCiAgICAgICAgYXJlYXNpemVfcHggPSBbMTAwLCAxMDAsIDEwMF0KCiAgICAgICAgaWYgInZveGVsc2l6ZV9tbSIgaW4gb3B0cy5rZXlzKCk6CiAgICAgICAgICAgIHZveGVsc2l6ZV9tbSA9IG9wdHMucG9wKCd2b3hlbHNpemVfbW0nKQogICAgICAgIGlmICJhcmVhc2l6ZV9tbSIgaW4gb3B0cy5rZXlzKCk6CiAgICAgICAgICAgIGFyZWFzaXplX21tID0gb3B0cy5wb3AoJ2FyZWFzaXplX21tJykKICAgICAgICBpZiAiYXJlYXNpemVfcHgiIGluIG9wdHMua2V5cygpOgogICAgICAgICAgICBhcmVhc2l6ZV9weCA9IG9wdHMucG9wKCdhcmVhc2l6ZV9weCcpCgogICAgICAgIHBUeXBlcy5Hcm91cFBhcmFtZXRlci5fX2luaXRfXyhzZWxmLCAqKm9wdHMpCg==</text>
+        <text encoding="base64">ICAgIFNjYWxhYmxlR3JvdXAobmFtZT0iRXhwYW5kYWJsZSBQYXJhbWV0ZXIgR3JvdXAiLCBjaGlsZHJlbj1bCiAgICAgICAgeyduYW1lJzogJ1NjYWxhYmxlUGFyYW0gMScsICd0eXBlJzogJ3N0cicsICd2YWx1ZSc6ICJkZWZhdWx0IHBhcmFtIDEifSwKICAgICAgICB7J25hbWUnOiAnU2NhbGFibGVQYXJhbSAyJywgJ3R5cGUnOiAnc3RyJywgJ3ZhbHVlJzogImRlZmF1bHQgcGFyYW0gMiJ9LAogICAgXSksCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
