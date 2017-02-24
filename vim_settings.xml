@@ -109,12 +109,12 @@
         <mark key="." line="259" column="14" />
         <mark key="^" line="259" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/tests/teigen_test.py" timestamp="1487677264901">
+      <file name="$USER_HOME$/projects/teigen/tests/teigen_test.py" timestamp="1487930136797">
         <mark key="'" line="13" column="0" />
-        <mark key="[" line="48" column="33" />
-        <mark key="]" line="49" column="32" />
-        <mark key="." line="49" column="32" />
-        <mark key="^" line="49" column="32" />
+        <mark key="[" line="16" column="28" />
+        <mark key="]" line="17" column="20" />
+        <mark key="." line="17" column="20" />
+        <mark key="^" line="17" column="20" />
       </file>
       <file name="$USER_HOME$/projects/lisa/requirements_conda.txt" timestamp="1464092446357">
         <mark key="[" line="3" column="2" />
@@ -1051,7 +1051,7 @@
         <mark key="^" line="27" column="28" />
         <mark key="." line="27" column="28" />
       </file>
-      <file name="/Python Console" timestamp="1487770817705">
+      <file name="/Python Console" timestamp="1487930139696">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1487686918127">
@@ -1596,9 +1596,9 @@
         <mark key="^" line="58" column="26" />
         <mark key="." line="58" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/pyqtgraph/examples/parametertree.py" timestamp="1487878553205">
-        <mark key="[" line="87" column="0" />
-        <mark key="]" line="87" column="49" />
+      <file name="$USER_HOME$/projects/pyqtgraph/examples/parametertree.py" timestamp="1487929283055">
+        <mark key="[" line="145" column="0" />
+        <mark key="]" line="145" column="78" />
       </file>
       <file name="$USER_HOME$/projects/dicom2fem/dicom2fem/__init__.py" timestamp="1484594064491">
         <mark key="[" line="3" column="22" />
@@ -1760,23 +1760,17 @@
         <mark key="^" line="13" column="3" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1487928838884">
+      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1487929929290">
         <mark key="a" line="869" column="11" />
         <mark key="b" line="509" column="7" />
-        <mark key="'" line="452" column="13" />
-        <mark key="[" line="872" column="40" />
-        <mark key="]" line="875" column="29" />
-        <mark key="." line="875" column="29" />
-        <mark key="^" line="875" column="29" />
+        <mark key="'" line="262" column="36" />
+        <mark key="[" line="369" column="49" />
+        <mark key="]" line="370" column="32" />
+        <mark key="." line="370" column="32" />
+        <mark key="^" line="370" column="32" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="41" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
-      <jump line="285" column="51" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
-      <jump line="439" column="8" filename="$USER_HOME$/projects/dicom2fem/dicom2fem/dicom2fem.py" />
-      <jump line="491" column="8" filename="$USER_HOME$/projects/dicom2fem/dicom2fem/dicom2fem.py" />
-      <jump line="516" column="8" filename="$USER_HOME$/projects/dicom2fem/dicom2fem/dicom2fem.py" />
-      <jump line="532" column="12" filename="$USER_HOME$/projects/dicom2fem/dicom2fem/dicom2fem.py" />
       <jump line="556" column="8" filename="$USER_HOME$/projects/dicom2fem/dicom2fem/dicom2fem.py" />
       <jump line="601" column="8" filename="$USER_HOME$/projects/dicom2fem/dicom2fem/dicom2fem.py" />
       <jump line="652" column="12" filename="$USER_HOME$/projects/dicom2fem/dicom2fem/dicom2fem.py" />
@@ -1871,6 +1865,12 @@
       <jump line="29" column="13" filename="$USER_HOME$/projects/teigen/teigen/tb_volume.py" />
       <jump line="91" column="19" filename="$USER_HOME$/projects/lisa/lisa/virtual_resection.py" />
       <jump line="452" column="13" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
+      <jump line="875" column="29" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
+      <jump line="411" column="11" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
+      <jump line="466" column="47" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
+      <jump line="472" column="15" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
+      <jump line="41" column="20" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
+      <jump line="262" column="36" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5951,16 +5951,16 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>params</text>
+        <text>i</text>
       </register>
       <register name="-" type="4">
-        <text>params</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
-        <text>generate_volume</text>
+        <text>connect</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi51cGRhdGVfY29uZmlnKCoqcGFyYW1zKQo=</text>
+        <text encoding="base64">ICAgICAgICBub25lLCBhcmVhX2NmZyA9IGRpY3R3aWRnZXRwZy5mcm9tX3B5cXRncmFwaF9zdHJ1Y3Qoc2VsZi5hcmVhX3NhbXBsaW5nX3BhcmFtcy5zYXZlU3RhdGUoKSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
@@ -5997,15 +5997,14 @@
       </register>
     </registers>
     <search>
-      <last-search>generate_volume</last-search>
+      <last-search>connect</last-search>
       <last-offset />
-      <last-pattern>generate_volume</last-pattern>
+      <last-pattern>connect</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>round</entry>
         <entry>organ_by</entry>
         <entry>split</entry>
         <entry>label</entry>
@@ -6025,6 +6024,7 @@
         <entry>Sumary</entry>
         <entry>logger</entry>
         <entry>debug</entry>
+        <entry>connect</entry>
       </history-search>
       <history-cmd>
         <entry>85</entry>
