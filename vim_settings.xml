@@ -1760,14 +1760,14 @@
         <mark key="^" line="13" column="3" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1487926929910">
-        <mark key="a" line="659" column="7" />
+      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1487928838884">
+        <mark key="a" line="869" column="11" />
         <mark key="b" line="509" column="7" />
         <mark key="'" line="452" column="13" />
-        <mark key="[" line="342" column="16" />
-        <mark key="]" line="344" column="57" />
-        <mark key="." line="344" column="57" />
-        <mark key="^" line="344" column="57" />
+        <mark key="[" line="872" column="40" />
+        <mark key="]" line="875" column="29" />
+        <mark key="." line="875" column="29" />
+        <mark key="^" line="875" column="29" />
       </file>
     </filemarks>
     <jumps>
@@ -5950,17 +5950,17 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
+      <register name="&quot;" type="4">
+        <text>params</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>params</text>
       </register>
       <register name="/" type="4">
         <text>generate_volume</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmLnBhcmFtZXRlcnNfY2hhbmdlZF9iZWZvcmVfc2F2ZToKICAgICAgICAgICAgc2VsZi5ydW4oKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi51cGRhdGVfY29uZmlnKCoqcGFyYW1zKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
