@@ -691,11 +691,11 @@
         <mark key="^" line="73" column="124" />
         <mark key="." line="55" column="97" />
       </file>
-      <file name="$USER_HOME$/projects/io3d/io3d/datawriter.py" timestamp="1488152740656">
+      <file name="$USER_HOME$/projects/io3d/io3d/datawriter.py" timestamp="1488152858861">
         <mark key="'" line="346" column="0" />
-        <mark key="[" line="424" column="33" />
-        <mark key="]" line="424" column="34" />
-        <mark key="." line="424" column="34" />
+        <mark key="[" line="432" column="45" />
+        <mark key="]" line="432" column="46" />
+        <mark key="." line="432" column="45" />
         <mark key="^" line="417" column="0" />
       </file>
       <file name="$USER_HOME$/projects/imtools/requirements_conda.txt" timestamp="1480552339677">
@@ -756,7 +756,7 @@
         <mark key="." line="33" column="20" />
         <mark key="^" line="33" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1488152147963">
+      <file name="/Dummy.txt" timestamp="1488152757099">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/imtools/imtools/sample_data.py" timestamp="1484596144458">
@@ -5950,11 +5950,11 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGZvciBzaW5nbGVfcGF0dGVybiBpbiBzdWI0OgogICAgICAgIHBhdHRlcm4gPSBzaW5nbGVfcGF0dGVybi5mb3JtYXQoc2xpY2VfbnVtYmVyPXNsaWNlX2Rlc2NyaXB0aW9uLCBzbGljZW49c2xpY2VfZGVzY3JpcHRpb24sIHNsaWNlX3Bvc2l0aW9uPXNsaWNlX2Rlc2NyaXB0aW9uLCBzbGljZXA9c2xpY2VfZGVzY3JpcHRpb24pCiAgICAgICAgZmlsZXBhdHRlcm4gPSByZS5zdWIocmV4cDIsIHBhdHRlcm4sIGZpbGVwYXR0ZXJuKQo=</text>
+      <register name="&quot;" type="4">
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>connect</text>
