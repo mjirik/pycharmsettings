@@ -108,11 +108,12 @@
         <mark key="^" line="990" column="64" />
         <mark key="." line="990" column="64" />
       </file>
-      <file name="$USER_HOME$/projects/metalisa/metalisa.py" timestamp="1488378353655">
-        <mark key="[" line="42" column="12" />
-        <mark key="]" line="42" column="11" />
-        <mark key="." line="42" column="11" />
-        <mark key="^" line="42" column="11" />
+      <file name="$USER_HOME$/projects/metalisa/metalisa.py" timestamp="1488379837983">
+        <mark key="'" line="56" column="0" />
+        <mark key="[" line="38" column="42" />
+        <mark key="]" line="38" column="69" />
+        <mark key="." line="38" column="69" />
+        <mark key="^" line="38" column="69" />
       </file>
       <file name="$USER_HOME$/projects/pysegbase/distr.sh" timestamp="1447869905121">
         <mark key="[" line="2" column="12" />
@@ -580,11 +581,11 @@
         <mark key="." line="144" column="27" />
         <mark key="^" line="144" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/metalisa/tests/metalisa_test.py" timestamp="1488377540204">
-        <mark key="[" line="7" column="38" />
-        <mark key="]" line="7" column="43" />
-        <mark key="^" line="7" column="43" />
-        <mark key="." line="7" column="43" />
+      <file name="$USER_HOME$/projects/metalisa/tests/metalisa_test.py" timestamp="1488379587773">
+        <mark key="[" line="7" column="39" />
+        <mark key="]" line="7" column="49" />
+        <mark key="^" line="7" column="49" />
+        <mark key="." line="7" column="49" />
       </file>
       <file name="$USER_HOME$/projects/io3d/io3d/idxformat.py" timestamp="1447143786214">
         <mark key="'" line="29" column="47" />
@@ -1598,8 +1599,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="779" column="8" filename="$USER_HOME$/projects/dicom2fem/dicom2fem/dicom2fem.py" />
-      <jump line="809" column="8" filename="$USER_HOME$/projects/dicom2fem/dicom2fem/dicom2fem.py" />
       <jump line="872" column="10" filename="$USER_HOME$/projects/dicom2fem/dicom2fem/dicom2fem.py" />
       <jump line="20" column="24" filename="$USER_HOME$/projects/dicom2fem/dicom2fem/dicom2fem.py" />
       <jump line="45" column="40" filename="$USER_HOME$/projects/dicom2fem/tests/dicom2fem_test.py" />
@@ -1698,6 +1697,8 @@
       <jump line="918" column="41" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="919" column="43" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="920" column="35" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
+      <jump line="29" column="49" filename="$USER_HOME$/projects/metalisa/metalisa.py" />
+      <jump line="56" column="0" filename="$USER_HOME$/projects/metalisa/metalisa.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5778,19 +5779,19 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text>raw</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text>raw</text>
       </register>
       <register name="/" type="4">
         <text>config.yaml</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGVmIHNhbXBsZV9kYXRhKHRyYWlucGF0aCk6Cg==</text>
+        <text encoding="base64">ICAgIGZpbGVuYW1lID0gb3MucGF0aC5qb2luKHRyYWlucGF0aCwgImRhdGEwMS5kY20iKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGVmIHNhbXBsZV9kYXRhKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -5802,22 +5803,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRmLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRmID0gcGQuRGF0YUZyYW1lKGxhYmVsaW5nKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAiZmlsZW5hbWUiOiBbXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAiZmlsZW5hbWUiOiBbXQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxhYmVsMTsgb2JyYXplay5kY20sIDE1LCAzMAogICAgbGFiZWwxOyBvYnJhemVrLmRjbSwgNDAsIDcwCiAgICBsYWJlbDI7IAogICAgb2JyYXplay5kaWNvbTsgMTUsIDMwLCA3MCAKICAgIG9icmF6ZWsuZGljb207IDQKCg==</text>
+        <text encoding="base64">ZGVmIHNhbXBsZV9kYXRhKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
