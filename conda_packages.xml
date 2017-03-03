@@ -17,6 +17,7 @@
         <entry key="anaconda-clean" value="1.1.0" />
         <entry key="anaconda-client" value="1.6.2" />
         <entry key="anaconda-navigator" value="1.4.3" />
+        <entry key="anaconda-project" value="0.4.1" />
         <entry key="anaconda-verify" value="1.3.3" />
         <entry key="aniso8601" value="0.82" />
         <entry key="ansi2html" value="1.1.1" />
@@ -164,7 +165,7 @@
         <entry key="disco" value="0.4.4" />
         <entry key="discon" value="1.0.3" />
         <entry key="distribute" value="0.6.45" />
-        <entry key="distributed" value="1.15.2" />
+        <entry key="distributed" value="1.16.0" />
         <entry key="django" value="1.10.5" />
         <entry key="dlib" value="18.18" />
         <entry key="dnspython" value="1.14.0" />
@@ -289,11 +290,11 @@
         <entry key="imaging" value="1.1.7" />
         <entry key="iminuit" value="1.1.1" />
         <entry key="impyla" value="0.13.8" />
-        <entry key="imtools" value="0.1.25" />
+        <entry key="imtools" value="0.1.30" />
         <entry key="incremental" value="16.10.1" />
         <entry key="inflection" value="0.3.1" />
         <entry key="into" value="0.2.2" />
-        <entry key="io3d" value="1.1.13" />
+        <entry key="io3d" value="1.1.17" />
         <entry key="iopro" value="1.9.0" />
         <entry key="ipaddress" value="1.0.18" />
         <entry key="ipykernel" value="4.5.2" />
@@ -997,7 +998,7 @@
         <entry key="system" value="5.8" />
         <entry key="tabulate" value="0.7.5" />
         <entry key="tblib" value="1.3.0" />
-        <entry key="teigen" value="0.1.26" />
+        <entry key="teigen" value="0.2.6" />
         <entry key="tempita" value="0.5.3" />
         <entry key="tensorflow" value="0.10.0rc0" />
         <entry key="teradata" value="15.10.0.20" />
@@ -1013,6 +1014,7 @@
         <entry key="toolz" value="0.8.2" />
         <entry key="tornado" value="4.4.2" />
         <entry key="toro" value="1.0.1" />
+        <entry key="tqdm" value="4.11.2" />
         <entry key="traitlets" value="4.3.2" />
         <entry key="traits" value="4.6.0" />
         <entry key="traitsui" value="5.1.0" />
@@ -1287,6 +1289,13 @@
               <option value="1.3.1" />
               <option value="1.3.2" />
               <option value="1.4.3" />
+            </list>
+          </value>
+        </entry>
+        <entry key="anaconda-project">
+          <value>
+            <list>
+              <option value="0.4.1" />
             </list>
           </value>
         </entry>
@@ -3138,6 +3147,7 @@
               <option value="1.15.0" />
               <option value="1.15.1" />
               <option value="1.15.2" />
+              <option value="1.16.0" />
             </list>
           </value>
         </entry>
@@ -4260,6 +4270,11 @@
               <option value="0.1.21" />
               <option value="0.1.19" />
               <option value="0.1.25" />
+              <option value="0.1.29" />
+              <option value="0.1.26" />
+              <option value="0.1.27" />
+              <option value="0.1.30" />
+              <option value="0.1.28" />
             </list>
           </value>
         </entry>
@@ -4313,6 +4328,10 @@
               <option value="1.1.11" />
               <option value="1.1.12" />
               <option value="1.1.13" />
+              <option value="1.1.14" />
+              <option value="1.1.15" />
+              <option value="1.1.17" />
+              <option value="1.1.16" />
             </list>
           </value>
         </entry>
@@ -11350,6 +11369,18 @@
               <option value="0.1.24" />
               <option value="0.1.25" />
               <option value="0.1.26" />
+              <option value="0.2.6" />
+              <option value="0.1.29" />
+              <option value="0.1.31" />
+              <option value="0.1.30" />
+              <option value="0.2.3" />
+              <option value="0.2.5" />
+              <option value="0.2.0" />
+              <option value="0.2.1" />
+              <option value="0.2.4" />
+              <option value="0.2.2" />
+              <option value="0.1.28" />
+              <option value="0.1.27" />
             </list>
           </value>
         </entry>
@@ -11495,6 +11526,13 @@
           <value>
             <list>
               <option value="1.0.1" />
+            </list>
+          </value>
+        </entry>
+        <entry key="tqdm">
+          <value>
+            <list>
+              <option value="4.11.2" />
             </list>
           </value>
         </entry>
@@ -12198,6 +12236,6 @@
     <option name="CONDA_CHANNELS">
       <set />
     </option>
-    <option name="LAST_TIME_CHECKED" value="1488234993265" />
+    <option name="LAST_TIME_CHECKED" value="1488376234352" />
   </component>
 </application>
