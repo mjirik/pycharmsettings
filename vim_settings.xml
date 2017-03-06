@@ -542,11 +542,11 @@
         <mark key="." line="2" column="4" />
         <mark key="^" line="2" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/measurement.py" timestamp="1488754288441">
-        <mark key="[" line="27" column="19" />
-        <mark key="]" line="27" column="22" />
-        <mark key="^" line="27" column="22" />
-        <mark key="." line="27" column="22" />
+      <file name="$USER_HOME$/projects/teigen/teigen/measurement.py" timestamp="1488790873929">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="29" column="3" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/projects/ndnoise/tests/filtration_test.py" timestamp="1484147317946">
         <mark key="'" line="17" column="26" />
@@ -763,7 +763,7 @@
         <mark key="." line="33" column="20" />
         <mark key="^" line="33" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1488754549611">
+      <file name="/Dummy.txt" timestamp="1488792153712">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/imtools/imtools/sample_data.py" timestamp="1484596144458">
@@ -1058,7 +1058,7 @@
         <mark key="^" line="27" column="28" />
         <mark key="." line="27" column="28" />
       </file>
-      <file name="/Python Console" timestamp="1488787001182">
+      <file name="/Python Console" timestamp="1488791654562">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1488717812711">
@@ -1141,11 +1141,11 @@
         <mark key="." line="61" column="37" />
         <mark key="^" line="61" column="37" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/meta.yaml" timestamp="1488194904293">
-        <mark key="[" line="24" column="4" />
-        <mark key="]" line="17" column="1" />
-        <mark key="^" line="17" column="1" />
-        <mark key="." line="17" column="1" />
+      <file name="$USER_HOME$/projects/teigen/meta.yaml" timestamp="1488792151375">
+        <mark key="[" line="58" column="21" />
+        <mark key="]" line="58" column="21" />
+        <mark key="^" line="58" column="21" />
+        <mark key="." line="58" column="21" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1486648747400">
         <mark key="'" line="335" column="17" />
@@ -1779,27 +1779,18 @@
         <mark key="^" line="13" column="3" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1488789223507">
-        <mark key="b" line="542" column="7" />
-        <mark key="'" line="937" column="35" />
-        <mark key="[" line="215" column="24" />
-        <mark key="]" line="215" column="26" />
-        <mark key="^" line="215" column="26" />
-        <mark key="." line="215" column="26" />
+      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1488792084018">
+        <mark key="a" line="241" column="7" />
+        <mark key="b" line="572" column="7" />
+        <mark key="'" line="245" column="18" />
+        <mark key="[" line="249" column="47" />
+        <mark key="]" line="249" column="53" />
+        <mark key="." line="249" column="53" />
+        <mark key="^" line="249" column="53" />
+        <mark key="n" line="262" column="15" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="411" column="42" filename="$USER_HOME$/projects/dicom2fem/dicom2fem/seg2fem.py" />
-      <jump line="458" column="61" filename="$USER_HOME$/projects/dicom2fem/dicom2fem/seg2fem.py" />
-      <jump line="428" column="13" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
-      <jump line="183" column="66" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
-      <jump line="483" column="24" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
-      <jump line="487" column="8" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
-      <jump line="430" column="57" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
-      <jump line="31" column="0" filename="$USER_HOME$/projects/dicom2fem/dicom2fem/seg2fem.py" />
-      <jump line="1429" column="17" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
-      <jump line="1708" column="4" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
-      <jump line="1427" column="7" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="1430" column="13" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="1434" column="9" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="1435" column="16" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
@@ -1889,6 +1880,17 @@
       <jump line="72" column="33" filename="$USER_HOME$/projects/imtools/tests/show_segmentation_test.py" />
       <jump line="148" column="31" filename="$USER_HOME$/projects/teigen/teigen/tb_vtk.py" />
       <jump line="257" column="41" filename="$USER_HOME$/projects/teigen/teigen/tb_vtk.py" />
+      <jump line="142" column="0" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
+      <jump line="38" column="30" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
+      <jump line="147" column="26" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
+      <jump line="155" column="8" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
+      <jump line="157" column="8" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
+      <jump line="160" column="8" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
+      <jump line="163" column="8" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
+      <jump line="213" column="33" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
+      <jump line="218" column="12" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
+      <jump line="219" column="12" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
+      <jump line="245" column="18" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5969,61 +5971,60 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>norm</text>
+        <text>plt</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5zdGF0c190YWJfd2cgPSBRVGFiV2lkZ2V0KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmVydGljZXMgPSBzZWxmLnRlaWdlbi5fc3VyZmFjZV92ZXJ0aWNlcwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnN0YXRzX3RhYl93Zy5hZGRUYWIoc2VsZi5jYW52YXMsICdHcmFwaHMgJyArIHJ1bl9udW1iZXJfYWxwaGEpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGx0Lgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAibmV3Igo=</text>
+        <text encoding="base64">ICAgIGltcG9ydCBtYXRwbG90bGliLnB5cGxvdCBhcyBwbHQKICAgIGZyb20gbXBsX3Rvb2xraXRzLm1wbG90M2QuYXJ0M2QgaW1wb3J0IFBvbHkzRENvbGxlY3Rpb24KCiAgICBmaWcgPSBwbHQuZmlndXJlKGZpZ3NpemU9KDEwLCAxMCkpCiAgICBheCA9IGZpZy5hZGRfc3VicGxvdCgxMTEsIHByb2plY3Rpb249JzNkJykKCiAgICAjIEZhbmN5IGluZGV4aW5nOiBgdmVydHNbZmFjZXNdYCB0byBnZW5lcmF0ZSBhIGNvbGxlY3Rpb24gb2YgdHJpYW5nbGVzCiAgICBtZXNoID0gUG9seTNEQ29sbGVjdGlvbih2ZXJ0aWNlc1tmYWNlc10pCiAgICBtZXNoLnNldF9lZGdlY29sb3IoJ2snKQogICAgYXguYWRkX2NvbGxlY3Rpb24zZChtZXNoKQogICAgc2ggPSB2b2x1bWUuc2hhcGUKICAgIGF4LnNldF94bGltKDAsIHNoWzBdKSAgIyBhID0gNiAodGltZXMgdHdvIGZvciAybmQgZWxsaXBzb2lkKQogICAgYXguc2V0X3lsaW0oMCwgc2hbMV0pICAjIGIgPSAxMAogICAgYXguc2V0X3psaW0oMCwgc2hbMl0pICAjIGMgPSAxNgogICAgcGx0LnNob3coKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZnJvbSBtYXRwbG90bGliLmJhY2tlbmRzLmJhY2tlbmRfcXQ0YWdnIGltcG9ydCBGaWd1cmVDYW52YXNRVEFnZyBhcyBGaWd1cmVDYW52YXMKICAgICAgICAgICAgIyBmcm9tIG1hdHBsb3RsaWIuYmFja2VuZHMuYmFja2VuZF9xdDRhZ2cgaW1wb3J0IE5hdmlnYXRpb25Ub29sYmFyMlFUQWdnIGFzIE5hdmlnYXRpb25Ub29sYmFyCiAgICAgICAgICAgIGltcG9ydCBtYXRwbG90bGliLnB5cGxvdCBhcyBwbHQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBvcmlnX2R0eXBlIGlzIG5wLmJvb2w6CiAgICAgICAgICAgIHNlZ21lbnRhdGlvbiA9IHNlZ21lbnRhdGlvbi5hc3R5cGUobnAuYm9vbCkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBvcmlnX2R0eXBlIGlzIG5wLmJvb2w6CiAgICAgICAgICAgIHNlZ21lbnRhdGlvbiA9IHNlZ21lbnRhdGlvbi5hc3R5cGUobnAuYm9vbCkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnN0YXRzX3RhYl93Zy5hZGRUYWIoc2VsZi5jYW52YXMsICdHcmFwaHMgJyArIHJ1bl9udW1iZXJfYWxwaGEpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBvcmlnX2R0eXBlID0gc2VnbWVudGF0aW9uLmR0eXBlCiAgICAgICAgaWYgb3JpZ19kdHlwZSBpcyBucC5ib29sOgogICAgICAgICAgICBzZWdtZW50YXRpb24gPSBzZWdtZW50YXRpb24uYXN0eXBlKG5wLmludDgpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAibmV3Igo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWdtZW50YXRpb24uZHR5cGUgaXMgbnAuYm9vbDoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxhYmVscyA9IFtdCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBvcmlnX2R0eXBlIGlzIG5wLmJvb2w6CiAgICAgICAgICAgIHNlZ21lbnRhdGlvbiA9IHNlZ21lbnRhdGlvbi5hc3R5cGUobnAuYm9vbCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIGRhdGFwID0gaW10b29scy5zYW1wbGVfZGF0YS5kb251dCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBvcmlnX2R0eXBlIGlzIG5wLmJvb2w6CiAgICAgICAgICAgIHNlZ21lbnRhdGlvbiA9IHNlZ21lbnRhdGlvbi5hc3R5cGUobnAuYm9vbCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>norm</last-search>
+      <last-search>plt</last-search>
       <last-offset />
-      <last-pattern>norm</last-pattern>
+      <last-pattern>plt</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>label</entry>
         <entry encoding="base64">XDxRQXBwbGljYXRpb25cPg==</entry>
         <entry encoding="base64">XDx0ZW1wX3Z0a19maWxlXD4=</entry>
         <entry>polyd</entry>
@@ -6043,6 +6044,7 @@
         <entry>connect</entry>
         <entry>config.yaml</entry>
         <entry>norm</entry>
+        <entry>plt</entry>
       </history-search>
       <history-cmd>
         <entry>85</entry>
