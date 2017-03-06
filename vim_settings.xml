@@ -555,11 +555,11 @@
         <mark key="^" line="407" column="44" />
         <mark key="." line="407" column="44" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/tree.py" timestamp="1487408061911">
+      <file name="$USER_HOME$/projects/teigen/teigen/tree.py" timestamp="1488805919231">
         <mark key="a" line="181" column="0" />
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="94" column="0" />
+        <mark key="[" line="137" column="0" />
+        <mark key="]" line="139" column="42" />
         <mark key="." line="94" column="0" />
         <mark key="^" line="36" column="35" />
       </file>
@@ -5970,8 +5970,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>Postprocessing</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHAxbSA9IGN5bF9kYXRhWydub2RlQV9aWVhfbW0nXSAgIyBzb3VyYWRuaWNlIHVsb3plbnkgW1osWSxYXQogICAgICAgICAgICAgICAgcDJtID0gY3lsX2RhdGFbJ25vZGVCX1pZWF9tbSddCiAgICAgICAgICAgICAgICByYWQgPSBjeWxfZGF0YVsncmFkaXVzX21tJ10K</text>
       </register>
       <register name="-" type="4">
         <text>Postprocessing</text>
@@ -5980,7 +5980,7 @@
         <text>plt</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25maWdbInBvc3Rwcm9jZXNzaW5nIl0gPSBhcmVhX2NmZ1siUG9zdHByb2Nlc3NpbmciXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHAxbSA9IGN5bF9kYXRhWydub2RlQV9aWVhfbW0nXSAgIyBzb3VyYWRuaWNlIHVsb3plbnkgW1osWSxYXQogICAgICAgICAgICAgICAgcDJtID0gY3lsX2RhdGFbJ25vZGVCX1pZWF9tbSddCiAgICAgICAgICAgICAgICByYWQgPSBjeWxfZGF0YVsncmFkaXVzX21tJ10K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcGx0Lgo=</text>
