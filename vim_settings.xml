@@ -1184,12 +1184,12 @@
         <mark key="." line="21" column="26" />
         <mark key="^" line="21" column="51" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/geometry3d.py" timestamp="1488834291323">
-        <mark key="'" line="772" column="8" />
-        <mark key="[" line="26" column="76" />
-        <mark key="]" line="27" column="16" />
-        <mark key="." line="27" column="16" />
-        <mark key="^" line="27" column="16" />
+      <file name="$USER_HOME$/projects/teigen/teigen/geometry3d.py" timestamp="1488835208337">
+        <mark key="'" line="73" column="37" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="28" column="29" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="19" column="27" />
       </file>
       <file name="$USER_HOME$/projects/teigen/teigen/generators/general.py" timestamp="1487770787723">
         <mark key="[" line="31" column="44" />
@@ -1790,9 +1790,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1430" column="13" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
-      <jump line="1434" column="9" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
-      <jump line="1435" column="16" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="1436" column="16" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="1442" column="19" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="1445" column="17" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
@@ -1890,6 +1887,9 @@
       <jump line="218" column="12" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="219" column="12" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="245" column="18" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
+      <jump line="143" column="32" filename="$USER_HOME$/projects/teigen/teigen/geometry3d.py" />
+      <jump line="17" column="9" filename="$USER_HOME$/projects/teigen/teigen/geometry3d.py" />
+      <jump line="69" column="37" filename="$USER_HOME$/projects/teigen/teigen/geometry3d.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5969,17 +5969,17 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwdDEgPSBucC5hc2FycmF5KHB0MSkKICAgICAgICBwdDIgPSBucC5hc2FycmF5KHB0MikK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>plt</text>
+        <text>surface</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2b2x1bWUgPSAgKG5wLnBpICogcmFkaXVzKioyICogbGVuZ3RoKSArICgoNC4gLyAzLikgKiBucC5waSAqIHJhZGl1cyoqMykK</text>
+        <text encoding="base64">ICAgICAgICBwdDEgPSBucC5hc2FycmF5KHB0MSkKICAgICAgICBwdDIgPSBucC5hc2FycmF5KHB0MikK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB2b2x1bWUgPSAgKG5wLnBpICogcmFkaXVzKioyICogbGVuZ3RoKSArICgoNC4gLyAzLikgKiBucC5waSAqIHJhZGl1cyoqMykK</text>
@@ -6016,15 +6016,14 @@
       </register>
     </registers>
     <search>
-      <last-search>plt</last-search>
+      <last-search>surface</last-search>
       <last-offset />
-      <last-pattern>plt</last-pattern>
+      <last-pattern>surface</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxRQXBwbGljYXRpb25cPg==</entry>
         <entry encoding="base64">XDx0ZW1wX3Z0a19maWxlXD4=</entry>
         <entry>polyd</entry>
         <entry encoding="base64">XDxfX2dlbmVyYXRlX3Z0a1w+</entry>
@@ -6044,6 +6043,7 @@
         <entry>config.yaml</entry>
         <entry>norm</entry>
         <entry>plt</entry>
+        <entry>surface</entry>
       </history-search>
       <history-cmd>
         <entry>85</entry>
