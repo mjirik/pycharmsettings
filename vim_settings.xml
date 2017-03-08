@@ -108,12 +108,12 @@
         <mark key="^" line="990" column="64" />
         <mark key="." line="990" column="64" />
       </file>
-      <file name="$USER_HOME$/projects/metalisa/metalisa.py" timestamp="1488379837983">
-        <mark key="'" line="56" column="0" />
-        <mark key="[" line="38" column="42" />
-        <mark key="]" line="38" column="69" />
-        <mark key="." line="38" column="69" />
-        <mark key="^" line="38" column="69" />
+      <file name="$USER_HOME$/projects/metalisa/metalisa.py" timestamp="1488972992378">
+        <mark key="'" line="29" column="4" />
+        <mark key="[" line="29" column="29" />
+        <mark key="]" line="29" column="7" />
+        <mark key="^" line="29" column="7" />
+        <mark key="." line="29" column="7" />
       </file>
       <file name="$USER_HOME$/projects/pysegbase/distr.sh" timestamp="1447869905121">
         <mark key="[" line="2" column="12" />
@@ -1599,8 +1599,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="872" column="10" filename="$USER_HOME$/projects/dicom2fem/dicom2fem/dicom2fem.py" />
-      <jump line="20" column="24" filename="$USER_HOME$/projects/dicom2fem/dicom2fem/dicom2fem.py" />
       <jump line="45" column="40" filename="$USER_HOME$/projects/dicom2fem/tests/dicom2fem_test.py" />
       <jump line="411" column="42" filename="$USER_HOME$/projects/dicom2fem/dicom2fem/seg2fem.py" />
       <jump line="458" column="61" filename="$USER_HOME$/projects/dicom2fem/dicom2fem/seg2fem.py" />
@@ -1699,6 +1697,8 @@
       <jump line="920" column="35" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="29" column="49" filename="$USER_HOME$/projects/metalisa/metalisa.py" />
       <jump line="56" column="0" filename="$USER_HOME$/projects/metalisa/metalisa.py" />
+      <jump line="210" column="22" filename="$USER_HOME$/projects/metalisa/metalisa.py" />
+      <jump line="30" column="4" filename="$USER_HOME$/projects/metalisa/metalisa.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5778,44 +5778,44 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>raw</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBnZXRfbGFiZWxzX2Zyb21fY3N2KGNzdikK</text>
       </register>
       <register name="-" type="4">
-        <text>raw</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>config.yaml</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZpbGVuYW1lID0gb3MucGF0aC5qb2luKHRyYWlucGF0aCwgImRhdGEwMS5kY20iKQo=</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbyhmaWxlbmFtZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBnZXRfbGFiZWxzX2Zyb21fY3N2KGNzdikK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRmID0gcGQucmVhZF9jc3YoY3N2KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIGNzdjoKICAgICAgICBnZXRfbGFiZWxzX2Zyb21fY3N2KGNzdikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRmLgo=</text>
+        <text encoding="base64">ICAgICAgICBsYWJlbHMgPSBwZC5yZWFkX2Nzdihjc3YpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRmID0gcGQuRGF0YUZyYW1lKGxhYmVsaW5nKQo=</text>
+        <text encoding="base64">ICAgIHdpdGggb3BlbihmaWxlbmFtZSwgJ3InKSBhcyBmOgogICAgICAgIGRhdGEgPSBmLmxvYWQoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAiZmlsZW5hbWUiOiBbXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAiZmlsZW5hbWUiOiBbXQo=</text>
+        <text encoding="base64">ICAgIGlmIGFyZ3MuY3JlYXRlX3NhbXBsZV9kYXRhOgogICAgICAgIHNhbXBsZV9kYXRhKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGVmIHNhbXBsZV9kYXRhKCkK</text>
+        <text encoding="base64">ICAgIGlmIGFyZ3MuY3JlYXRlX3NhbXBsZV9kYXRhOgo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -5855,8 +5855,6 @@
         <entry>generate_volume</entry>
       </history-search>
       <history-cmd>
-        <entry>205</entry>
-        <entry>405</entry>
         <entry>283</entry>
         <entry>155</entry>
         <entry>107</entry>
@@ -5874,6 +5872,8 @@
         <entry>430</entry>
         <entry>:w</entry>
         <entry>e</entry>
+        <entry encoding="base64">JzwsJz4yNw==</entry>
+        <entry>27</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
