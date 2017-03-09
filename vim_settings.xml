@@ -515,11 +515,11 @@
         <mark key="." line="118" column="26" />
         <mark key="^" line="118" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/sed3/tests/sed_qt_test.py" timestamp="1454931451217">
-        <mark key="[" line="14" column="80" />
-        <mark key="]" line="17" column="30" />
-        <mark key="^" line="17" column="30" />
-        <mark key="." line="17" column="30" />
+      <file name="$USER_HOME$/projects/sed3/tests/sed_qt_test.py" timestamp="1489057733360">
+        <mark key="[" line="212" column="42" />
+        <mark key="]" line="212" column="41" />
+        <mark key="^" line="212" column="41" />
+        <mark key="." line="212" column="41" />
       </file>
       <file name="$USER_HOME$/projects/imtools/docs/conf.py" timestamp="1453362487796">
         <mark key="'" line="44" column="33" />
@@ -790,6 +790,13 @@
         <mark key="]" line="34" column="11" />
         <mark key="^" line="42" column="10" />
         <mark key="." line="34" column="11" />
+      </file>
+      <file name="$USER_HOME$/projects/sed3/sed3/sed3.py" timestamp="1489057570439">
+        <mark key="'" line="893" column="0" />
+        <mark key="[" line="894" column="25" />
+        <mark key="]" line="894" column="31" />
+        <mark key="." line="894" column="31" />
+        <mark key="^" line="894" column="31" />
       </file>
       <file name="$USER_HOME$/projects/ndnoise/README.md" timestamp="1483402385846">
         <mark key="[" line="8" column="0" />
@@ -1438,14 +1445,6 @@
         <mark key="^" line="20" column="39" />
         <mark key="." line="78" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/dicom2fem/tests/dicom2fem_test.py" timestamp="1488543918764">
-        <mark key="'" line="47" column="40" />
-        <mark key="[" line="59" column="18" />
-        <mark key="k" line="106" column="8" />
-        <mark key="]" line="59" column="26" />
-        <mark key="." line="59" column="26" />
-        <mark key="^" line="59" column="26" />
-      </file>
       <file name="$USER_HOME$/projects/lisa/lisa/gen_volume_tree.py" timestamp="1444722987176">
         <mark key="[" line="156" column="51" />
         <mark key="]" line="155" column="15" />
@@ -1785,7 +1784,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1451" column="11" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="1453" column="16" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="1669" column="24" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="18" column="7" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
@@ -1885,6 +1883,7 @@
       <jump line="298" column="19" filename="$USER_HOME$/projects/lisa/lisa/virtual_resection.py" />
       <jump line="507" column="4" filename="$USER_HOME$/projects/lisa/lisa/virtual_resection.py" />
       <jump line="560" column="8" filename="$USER_HOME$/projects/lisa/lisa/virtual_resection.py" />
+      <jump line="893" column="0" filename="$USER_HOME$/projects/sed3/sed3/sed3.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5965,16 +5964,16 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZGVmIGdldF9sYWJlbHNfZnJvbV9jc3YoZmlsZW5hbWUsIGNzdik6CiAgICBkZltdCgogICAgcmV0dXJuIGxhYmVscwo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAiYnV0dG9uIgogICAgICAgIGltcG9ydCBzZWQzCiAgICAgICAgaW1wb3J0IHNlZDMuc2VkM3F0CiAgICAgICAgaW1wb3J0IG51bXB5IGFzIG5wCgogICAgICAgIGltZyA9IG5wLnplcm9zKFsxMCwgMTAsIDE1XSkKICAgICAgICBpbWdbNjo5LCAyOjcsIDE6NV0gPSAxCiAgICAgICAgaW1nWzc6OSwgMzo5LCA4OjE0XSA9IDIKCiAgICAgICAgZWQgPSBzZWQzLnNlZDNxdC5zZWQzcXQoaW1nKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>cyl</text>
+        <text>QDialog</text>
       </register>
       <register name="/" type="4">
         <text>resection(</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXBwZW5kRmlsdGVyLkFkZElucHV0RGF0YShjeWwpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAiYnV0dG9uIgogICAgICAgIGltcG9ydCBzZWQzCiAgICAgICAgaW1wb3J0IHNlZDMuc2VkM3F0CiAgICAgICAgaW1wb3J0IG51bXB5IGFzIG5wCgogICAgICAgIGltZyA9IG5wLnplcm9zKFsxMCwgMTAsIDE1XSkKICAgICAgICBpbWdbNjo5LCAyOjcsIDE6NV0gPSAxCiAgICAgICAgaW1nWzc6OSwgMzo5LCA4OjE0XSA9IDIKCiAgICAgICAgZWQgPSBzZWQzLnNlZDNxdC5zZWQzcXQoaW1nKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZGVmIGdldF9sYWJlbHNfZnJvbV9jc3YoZmlsZW5hbWUsIGNzdik6CiAgICBkZltdCgogICAgcmV0dXJuIGxhYmVscwo=</text>
