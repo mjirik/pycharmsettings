@@ -393,13 +393,13 @@
         <mark key="." line="19" column="22" />
         <mark key="^" line="19" column="22" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/virtual_resection.py" timestamp="1487680230992">
-        <mark key="a" line="276" column="3" />
-        <mark key="'" line="91" column="19" />
-        <mark key="[" line="257" column="0" />
-        <mark key="]" line="259" column="14" />
-        <mark key="." line="259" column="14" />
-        <mark key="^" line="259" column="14" />
+      <file name="$USER_HOME$/projects/lisa/lisa/virtual_resection.py" timestamp="1489057205955">
+        <mark key="a" line="211" column="3" />
+        <mark key="'" line="560" column="8" />
+        <mark key="[" line="53" column="8" />
+        <mark key="]" line="53" column="14" />
+        <mark key="^" line="53" column="14" />
+        <mark key="." line="53" column="14" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/data.py" timestamp="1448552139365">
         <mark key="[" line="27" column="46" />
@@ -1047,7 +1047,7 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1486648747400">
+      <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1489057156550">
         <mark key="'" line="335" column="17" />
         <mark key="[" line="491" column="77" />
         <mark key="]" line="491" column="102" />
@@ -1785,10 +1785,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1442" column="19" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
-      <jump line="1445" column="17" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
-      <jump line="1449" column="11" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
-      <jump line="1450" column="9" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="1451" column="11" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="1453" column="16" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="1669" column="24" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
@@ -1885,6 +1881,10 @@
       <jump line="17" column="9" filename="$USER_HOME$/projects/teigen/teigen/geometry3d.py" />
       <jump line="69" column="37" filename="$USER_HOME$/projects/teigen/teigen/geometry3d.py" />
       <jump line="124" column="4" filename="$USER_HOME$/projects/teigen/teigen/tb_vtk.py" />
+      <jump line="243" column="17" filename="$USER_HOME$/projects/lisa/lisa/virtual_resection.py" />
+      <jump line="298" column="19" filename="$USER_HOME$/projects/lisa/lisa/virtual_resection.py" />
+      <jump line="507" column="4" filename="$USER_HOME$/projects/lisa/lisa/virtual_resection.py" />
+      <jump line="560" column="8" filename="$USER_HOME$/projects/lisa/lisa/virtual_resection.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5971,7 +5971,7 @@
         <text>cyl</text>
       </register>
       <register name="/" type="4">
-        <text>surface</text>
+        <text>resection(</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYXBwZW5kRmlsdGVyLkFkZElucHV0RGF0YShjeWwpCg==</text>
@@ -6015,16 +6015,14 @@ appendFilter</text>
       </register>
     </registers>
     <search>
-      <last-search>surface</last-search>
+      <last-search>resection(</last-search>
       <last-offset />
-      <last-pattern>surface</last-pattern>
+      <last-pattern>resection(</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>label</entry>
-        <entry encoding="base64">XDxRQXBwbGljYXRpb25cPg==</entry>
         <entry encoding="base64">XDx0ZW1wX3Z0a19maWxlXD4=</entry>
         <entry>polyd</entry>
         <entry encoding="base64">XDxfX2dlbmVyYXRlX3Z0a1w+</entry>
@@ -6043,9 +6041,10 @@ appendFilter</text>
         <entry>progress</entry>
         <entry>expand</entry>
         <entry>generate_volume</entry>
+        <entry>resection</entry>
+        <entry>resection(</entry>
       </history-search>
       <history-cmd>
-        <entry>283</entry>
         <entry>155</entry>
         <entry>107</entry>
         <entry>132</entry>
@@ -6064,6 +6063,7 @@ appendFilter</text>
         <entry>e</entry>
         <entry encoding="base64">JzwsJz4yNw==</entry>
         <entry>27</entry>
+        <entry>1085</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
