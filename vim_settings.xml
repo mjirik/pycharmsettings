@@ -653,12 +653,12 @@
         <mark key="^" line="447" column="31" />
         <mark key="." line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/imtools/imtools/qmisc.py" timestamp="1453372769423">
+      <file name="$USER_HOME$/projects/imtools/imtools/qmisc.py" timestamp="1489059357913">
         <mark key="'" line="106" column="23" />
-        <mark key="[" line="109" column="19" />
-        <mark key="]" line="109" column="45" />
-        <mark key="^" line="109" column="45" />
-        <mark key="." line="109" column="45" />
+        <mark key="[" line="116" column="26" />
+        <mark key="]" line="119" column="28" />
+        <mark key="^" line="119" column="28" />
+        <mark key="." line="119" column="28" />
       </file>
       <file name="$USER_HOME$/projects/pyseg_base/tests/pycut_test.py" timestamp="1444664727080">
         <mark key="[" line="46" column="14" />
@@ -879,10 +879,6 @@
       </file>
       <file name="$USER_HOME$/projects/imtools/imtools/show_segmentation.py" timestamp="1488548028457">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="84" column="40" />
-        <mark key="]" line="84" column="42" />
-        <mark key="." line="84" column="42" />
-        <mark key="^" line="84" column="42" />
       </file>
       <file name="$USER_HOME$/projects/ndnoise/meta.yaml" timestamp="1482350038256">
         <mark key="[" line="36" column="16" />
@@ -1201,7 +1197,7 @@
         <mark key="." line="116" column="0" />
         <mark key="^" line="83" column="65" />
       </file>
-      <file name="/Python Console" timestamp="1488797020879">
+      <file name="/Python Console" timestamp="1489058882659">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1488797137863">
@@ -5964,7 +5960,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAiYnV0dG9uIgogICAgICAgIGltcG9ydCBzZWQzCiAgICAgICAgaW1wb3J0IHNlZDMuc2VkM3F0CiAgICAgICAgaW1wb3J0IG51bXB5IGFzIG5wCgogICAgICAgIGltZyA9IG5wLnplcm9zKFsxMCwgMTAsIDE1XSkKICAgICAgICBpbWdbNjo5LCAyOjcsIDE6NV0gPSAxCiAgICAgICAgaW1nWzc6OSwgMzo5LCA4OjE0XSA9IDIKCiAgICAgICAgZWQgPSBzZWQzLnNlZDNxdC5zZWQzcXQoaW1nKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>QDialog</text>
@@ -5973,41 +5969,37 @@
         <text>resection(</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAiYnV0dG9uIgogICAgICAgIGltcG9ydCBzZWQzCiAgICAgICAgaW1wb3J0IHNlZDMuc2VkM3F0CiAgICAgICAgaW1wb3J0IG51bXB5IGFzIG5wCgogICAgICAgIGltZyA9IG5wLnplcm9zKFsxMCwgMTAsIDE1XSkKICAgICAgICBpbWdbNjo5LCAyOjcsIDE6NV0gPSAxCiAgICAgICAgaW1nWzc6OSwgMzo5LCA4OjE0XSA9IDIKCiAgICAgICAgZWQgPSBzZWQzLnNlZDNxdC5zZWQzcXQoaW1nKQo=</text>
+        <text encoding="base64">ICAgIG56aSA9IG5wLm5vbnplcm8oZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGVmIGdldF9sYWJlbHNfZnJvbV9jc3YoZmlsZW5hbWUsIGNzdik6CiAgICBkZltdCgogICAgcmV0dXJuIGxhYmVscwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBhcHBlbmRGaWx0ZXIuQWRkSW5wdXRDb25uZWN0aW9uKGlucHV0Mi5HZXRQcm9kdWNlclBvcnQoKSkK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXBwZW5kRmlsdGVyLkFkZElucHV0RGF0YShpbnB1dDIpCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="8">
-        <text>Add
-Add
-Add</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGlmIGxhYmVsIGlzIE5vbmU6CiAgICAgICAgZWwKICAgIGVsc2U6CiAgICAgICAgbnppID0gbnAubm9uemVybyhkYXRhPT1sYWJlbCkK</text>
       </register>
-      <register name="6" type="8">
-        <text>appendFilter
-appendFilter
-appendFilter</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBuemkgPSBucC5ub256ZXJvKGRhdGEpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CiAgICBpZiBsYWJlbCBpcyBOb25lOgogICAgICAgIG56aSA9IG5wLm5vbnplcm8oZGF0YSkKICAgICAgICBlbAogICAgZWxzZToKICAgICAgICBuemkgPSBucC5ub256ZXJvKGRhdGE9PWxhYmVsKQoK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZGVmIGdldF9sYWJlbHNfZnJvbV9jc3YoZmlsZW5hbWUsIGNzdik6CiAgICBkZltdCgogICAgcmV0dXJuIGxhYmVscwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICIiIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBhcHBlbmRGaWx0ZXIuQWRkSW5wdXRDb25uZWN0aW9uKGlucHV0Mi5HZXRQcm9kdWNlclBvcnQoKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2b2x1bWUgPSAgKG5wLnBpICogcmFkaXVzKioyICogbGVuZ3RoKSArICgoNC4gLyAzLikgKiBucC5waSAqIHJhZGl1cyoqMykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXBwZW5kRmlsdGVyLkFkZElucHV0RGF0YShpbnB1dDIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmIHBpbGxfdm9sdW1lKHJhZGl1cywgcHQxLCBwdDIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
