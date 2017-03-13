@@ -363,12 +363,12 @@
         <mark key="^" line="142" column="55" />
         <mark key="." line="142" column="55" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/tests/tube_tree_vtk_boolean_test.py" timestamp="1489404352484">
+      <file name="$USER_HOME$/projects/teigen/tests/tube_tree_vtk_boolean_test.py" timestamp="1489423306416">
         <mark key="'" line="32" column="70" />
-        <mark key="[" line="30" column="38" />
-        <mark key="]" line="30" column="40" />
-        <mark key="." line="30" column="40" />
-        <mark key="^" line="30" column="40" />
+        <mark key="[" line="183" column="65" />
+        <mark key="]" line="184" column="56" />
+        <mark key="." line="184" column="56" />
+        <mark key="^" line="184" column="56" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/show_segmentation.py" timestamp="1469798761684">
         <mark key="a" line="50" column="3" />
@@ -770,7 +770,7 @@
         <mark key="^" line="44" column="52" />
         <mark key="." line="44" column="52" />
       </file>
-      <file name="/Dummy.txt" timestamp="1488974988249">
+      <file name="/Dummy.txt" timestamp="1489423259433">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/disco/disco/__init__.py" timestamp="1463148479573">
@@ -1069,7 +1069,7 @@
         <mark key="." line="60" column="25" />
         <mark key="^" line="60" column="25" />
       </file>
-      <file name="/Python Console" timestamp="1489394735248">
+      <file name="/Python Console" timestamp="1489423312166">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/events2calendar/tests/e2c_test.py" timestamp="1477320243915">
@@ -1201,12 +1201,12 @@
         <mark key="." line="21" column="26" />
         <mark key="^" line="21" column="51" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/geometry3d.py" timestamp="1488838057758">
-        <mark key="'" line="116" column="37" />
-        <mark key="[" line="36" column="4" />
-        <mark key="]" line="36" column="5" />
-        <mark key="." line="36" column="5" />
-        <mark key="^" line="37" column="3" />
+      <file name="$USER_HOME$/projects/teigen/teigen/geometry3d.py" timestamp="1489422967375">
+        <mark key="'" line="169" column="8" />
+        <mark key="[" line="21" column="45" />
+        <mark key="]" line="21" column="44" />
+        <mark key="." line="21" column="44" />
+        <mark key="^" line="21" column="44" />
       </file>
       <file name="$USER_HOME$/projects/dicom2fem/dicom2fem/marching_cubes.py" timestamp="1484596732116">
         <mark key="[" line="371" column="69" />
@@ -1802,9 +1802,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1445" column="17" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
-      <jump line="1449" column="11" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
-      <jump line="1450" column="9" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="1451" column="11" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="1453" column="16" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="1669" column="24" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
@@ -1898,10 +1895,13 @@
       <jump line="219" column="12" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="245" column="18" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="143" column="32" filename="$USER_HOME$/projects/teigen/teigen/geometry3d.py" />
-      <jump line="17" column="9" filename="$USER_HOME$/projects/teigen/teigen/geometry3d.py" />
       <jump line="69" column="37" filename="$USER_HOME$/projects/teigen/teigen/geometry3d.py" />
       <jump line="124" column="4" filename="$USER_HOME$/projects/teigen/teigen/tb_vtk.py" />
       <jump line="28" column="70" filename="$USER_HOME$/projects/teigen/tests/tube_tree_vtk_boolean_test.py" />
+      <jump line="17" column="9" filename="$USER_HOME$/projects/teigen/teigen/geometry3d.py" />
+      <jump line="134" column="25" filename="$USER_HOME$/projects/teigen/teigen/geometry3d.py" />
+      <jump line="151" column="82" filename="$USER_HOME$/projects/teigen/teigen/geometry3d.py" />
+      <jump line="162" column="8" filename="$USER_HOME$/projects/teigen/teigen/geometry3d.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5982,48 +5982,49 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>sphere2Tri</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>sphere2Tri</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>surface</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYm9vbGVhbk9wZXJhdGlvbjEuU2V0SW5wdXREYXRhKDIsIHNwaGVyZTJUcmkuR2V0T3V0cHV0KCkpCg==</text>
+        <text encoding="base64">ZGVmIHBpbGxfc3VyZmFjZShyYWRpdXMsIGxlbmd0aD1Ob25lLCBwdDE9Tm9uZSwgcHQyPU5vbmUpOgogICAgaWYgbGVuZ3RoIGlzIE5vbmU6CiAgICAgICAgcHQxID0gbnAuYXNhcnJheShwdDEpCiAgICAgICAgcHQyID0gbnAuYXNhcnJheShwdDIpCiAgICAgICAgbGVuZ3RoID0gbnAubGluYWxnLm5vcm0ocHQxIC0gcHQyKQogICAgc3VyZiA9ICgyICogbnAucGkgKiByYWRpdXMgKiBsZW5ndGgpICsgKDQgKiBucC5waSAqIChyYWRpdXMqKjIpKQogICAgcmV0dXJuIHN1cmYK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYm9vbGVhbk9wZXJhdGlvbjEgPSB2dGsudnRrQm9vbGVhbk9wZXJhdGlvblBvbHlEYXRhRmlsdGVyKCkKICAgICAgICAgICAgYm9vbGVhbk9wZXJhdGlvbjEuU2V0T3BlcmF0aW9uVG9VbmlvbigpCiAgICAgICAgICAgIGJvb2xlYW5PcGVyYXRpb24yID0gdnRrLnZ0a0Jvb2xlYW5PcGVyYXRpb25Qb2x5RGF0YUZpbHRlcigpCiAgICAgICAgICAgIGJvb2xlYW5PcGVyYXRpb24yLlNldE9wZXJhdGlvblRvVW5pb24oKQo=</text>
+      <register name="1" type="8">
+        <text>sphere
+sphere</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzcGhlcmVTb3VyY2UyLlVwZGF0ZSgpCiAgICAgICAgaW5wdXQyID0gc3BoZXJlU291cmNlMi5HZXRPdXRwdXQoKQo=</text>
+        <text encoding="base64">ICAgIGF0dHIoImludGVyYWN0aXZlIikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBpbXBvcnQgZnVua2PDrSB6IGppbsOpaG8gYWRyZXPDocWZZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm9vbGVhbk9wZXJhdGlvbjEgPSB2dGsudnRrQm9vbGVhbk9wZXJhdGlvblBvbHlEYXRhRmlsdGVyKCkKICAgICAgICAgICAgYm9vbGVhbk9wZXJhdGlvbjEuU2V0T3BlcmF0aW9uVG9VbmlvbigpCiAgICAgICAgICAgIGJvb2xlYW5PcGVyYXRpb24yID0gdnRrLnZ0a0Jvb2xlYW5PcGVyYXRpb25Qb2x5RGF0YUZpbHRlcigpCiAgICAgICAgICAgIGJvb2xlYW5PcGVyYXRpb24yLlNldE9wZXJhdGlvblRvVW5pb24oKQo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBzcGhlcmVTb3VyY2UyLlVwZGF0ZSgpCiAgICAgICAgaW5wdXQyID0gc3BoZXJlU291cmNlMi5HZXRPdXRwdXQoKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">IyBpbXBvcnQgZnVua2PDrSB6IGppbsOpaG8gYWRyZXPDocWZZQo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">aW1wb3J0IHVuaXR0ZXN0Cg==</text>
       </register>
-      <register name="5" type="8">
+      <register name="7" type="8">
         <text>sphere1
 sphere1
 sphere1</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">c3BoZXJlMlRyaS5VcGRhdGUoKQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">c3BoZXJlMVRyaS5VcGRhdGUoKQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ZGVmIGdldF9sYWJlbHNfZnJvbV9jc3YoZmlsZW5hbWUsIGNzdik6CiAgICBkZltdCgogICAgcmV0dXJuIGxhYmVscwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBhcHBlbmRGaWx0ZXIuQWRkSW5wdXRDb25uZWN0aW9uKGlucHV0Mi5HZXRQcm9kdWNlclBvcnQoKSkK</text>
+        <text encoding="base64">c3BoZXJlMVRyaS5VcGRhdGUoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -6038,8 +6039,6 @@ sphere1</text>
     </search>
     <history>
       <history-search>
-        <entry>label</entry>
-        <entry encoding="base64">XDxRQXBwbGljYXRpb25cPg==</entry>
         <entry encoding="base64">XDx0ZW1wX3Z0a19maWxlXD4=</entry>
         <entry>polyd</entry>
         <entry encoding="base64">XDxfX2dlbmVyYXRlX3Z0a1w+</entry>
@@ -6058,6 +6057,8 @@ sphere1</text>
         <entry>progress</entry>
         <entry>expand</entry>
         <entry>generate_volume</entry>
+        <entry>cyli</entry>
+        <entry>surface</entry>
       </history-search>
       <history-cmd>
         <entry>283</entry>
