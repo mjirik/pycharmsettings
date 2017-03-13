@@ -705,9 +705,9 @@
         <mark key="^" line="427" column="7" />
         <mark key="." line="430" column="34" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/examples/vtk_boolean.py" timestamp="1489396075945">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
+      <file name="$USER_HOME$/projects/teigen/examples/vtk_boolean.py" timestamp="1489397407938">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="17" column="30" />
         <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/projects/imtools/requirements_conda.txt" timestamp="1480552339677">
@@ -1085,13 +1085,13 @@
         <mark key="^" line="64" column="22" />
         <mark key="." line="64" column="22" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/tb_vtk.py" timestamp="1488924652843">
-        <mark key="a" line="166" column="36" />
+      <file name="$USER_HOME$/projects/teigen/teigen/tb_vtk.py" timestamp="1489398256922">
+        <mark key="a" line="178" column="36" />
         <mark key="'" line="124" column="4" />
-        <mark key="[" line="159" column="0" />
-        <mark key="]" line="159" column="0" />
-        <mark key="^" line="164" column="44" />
-        <mark key="." line="159" column="0" />
+        <mark key="[" line="174" column="42" />
+        <mark key="]" line="174" column="43" />
+        <mark key="^" line="172" column="55" />
+        <mark key="." line="174" column="43" />
       </file>
       <file name="$USER_HOME$/projects/ndnoise/ndnoise/filtration.py" timestamp="1484147007628">
         <mark key="a" line="203" column="4" />
@@ -5969,51 +5969,53 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c3BoZXJlMlRyaS5VcGRhdGUoKQo=</text>
+      <register name="&quot;" type="4">
+        <text>sphere1Tri</text>
       </register>
       <register name="-" type="4">
-        <text>cyl</text>
+        <text>sphere1Tri</text>
       </register>
       <register name="/" type="4">
         <text>surface</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHNwaGVyZTFUcmkuVXBkYXRlKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm9vbGVhbk9wZXJhdGlvbi5TZXRJbnB1dERhdGEoMCwgc3BoZXJlMVRyaS5HZXRPdXRwdXQoKSkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">c3BoZXJlMlRyaS5VcGRhdGUoKQo=</text>
+      <register name="1" type="8">
+        <text>sphere1
+sphere1
+sphere1</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c3BoZXJlMVRyaS5VcGRhdGUoKQo=</text>
+        <text encoding="base64">c3BoZXJlMlRyaS5VcGRhdGUoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVmIGdldF9sYWJlbHNfZnJvbV9jc3YoZmlsZW5hbWUsIGNzdik6CiAgICBkZltdCgogICAgcmV0dXJuIGxhYmVscwo=</text>
+        <text encoding="base64">c3BoZXJlMVRyaS5VcGRhdGUoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBhcHBlbmRGaWx0ZXIuQWRkSW5wdXRDb25uZWN0aW9uKGlucHV0Mi5HZXRQcm9kdWNlclBvcnQoKSkK</text>
+        <text encoding="base64">ZGVmIGdldF9sYWJlbHNfZnJvbV9jc3YoZmlsZW5hbWUsIGNzdik6CiAgICBkZltdCgogICAgcmV0dXJuIGxhYmVscwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXBwZW5kRmlsdGVyLkFkZElucHV0RGF0YShpbnB1dDIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBhcHBlbmRGaWx0ZXIuQWRkSW5wdXRDb25uZWN0aW9uKGlucHV0Mi5HZXRQcm9kdWNlclBvcnQoKSkK</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYXBwZW5kRmlsdGVyLkFkZElucHV0RGF0YShpbnB1dDIpCg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="8">
+      <register name="8" type="8">
         <text>Add
 Add
 Add</text>
       </register>
-      <register name="8" type="8">
+      <register name="9" type="8">
         <text>appendFilter
 appendFilter
 appendFilter</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICIiIgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
