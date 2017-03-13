@@ -363,6 +363,13 @@
         <mark key="^" line="142" column="55" />
         <mark key="." line="142" column="55" />
       </file>
+      <file name="$USER_HOME$/projects/teigen/tests/tube_tree_vtk_boolean_test.py" timestamp="1489403178685">
+        <mark key="'" line="32" column="70" />
+        <mark key="[" line="32" column="66" />
+        <mark key="]" line="32" column="74" />
+        <mark key="." line="32" column="74" />
+        <mark key="^" line="32" column="74" />
+      </file>
       <file name="$USER_HOME$/projects/lisa/lisa/show_segmentation.py" timestamp="1469798761684">
         <mark key="a" line="50" column="3" />
         <mark key="'" line="38" column="8" />
@@ -705,9 +712,9 @@
         <mark key="^" line="427" column="7" />
         <mark key="." line="430" column="34" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/examples/vtk_boolean.py" timestamp="1489398882201">
-        <mark key="[" line="20" column="23" />
-        <mark key="]" line="19" column="30" />
+      <file name="$USER_HOME$/projects/teigen/examples/vtk_boolean.py" timestamp="1489400976217">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="84" column="24" />
         <mark key="." line="19" column="30" />
         <mark key="^" line="19" column="30" />
       </file>
@@ -911,6 +918,10 @@
         <mark key="]" line="89" column="47" />
         <mark key="^" line="89" column="47" />
         <mark key="." line="89" column="47" />
+      </file>
+      <file name="$USER_HOME$/projects/teigen/tests/tube_tree_test.py" timestamp="1489400885040">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="36" />
       </file>
       <file name="$USER_HOME$/projects/imtools/imtools/gt_lar.py" timestamp="1465563974853">
         <mark key="'" line="207" column="23" />
@@ -1791,7 +1802,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1442" column="19" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="1445" column="17" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="1449" column="11" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="1450" column="9" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
@@ -1891,6 +1901,7 @@
       <jump line="17" column="9" filename="$USER_HOME$/projects/teigen/teigen/geometry3d.py" />
       <jump line="69" column="37" filename="$USER_HOME$/projects/teigen/teigen/geometry3d.py" />
       <jump line="124" column="4" filename="$USER_HOME$/projects/teigen/teigen/tb_vtk.py" />
+      <jump line="28" column="70" filename="$USER_HOME$/projects/teigen/tests/tube_tree_vtk_boolean_test.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5971,52 +5982,48 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>]</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>surface</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c3BoZXJlU291cmNlMiA9IHZ0ay52dGtTcGhlcmVTb3VyY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICBpbnB1dDIgPSB0ZWlnZW4udGJfdnRrLmdldF9jeWxpbmRlcihbMCwgLjEsIDBdLCAwLjcsIDAuNSwgWzAuMSwuMywuNF0pCg==</text>
       </register>
-      <register name="1" type="8">
-        <text>sphere1
-sphere1
-sphere1</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBzcGhlcmVTb3VyY2UyLlVwZGF0ZSgpCiAgICAgICAgaW5wdXQyID0gc3BoZXJlU291cmNlMi5HZXRPdXRwdXQoKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c3BoZXJlMlRyaS5VcGRhdGUoKQo=</text>
+        <text encoding="base64">IyBpbXBvcnQgZnVua2PDrSB6IGppbsOpaG8gYWRyZXPDocWZZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c3BoZXJlMVRyaS5VcGRhdGUoKQo=</text>
+        <text encoding="base64">aW1wb3J0IHVuaXR0ZXN0Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ZGVmIGdldF9sYWJlbHNfZnJvbV9jc3YoZmlsZW5hbWUsIGNzdik6CiAgICBkZltdCgogICAgcmV0dXJuIGxhYmVscwo=</text>
+      <register name="4" type="8">
+        <text>sphere1
+sphere1
+sphere1</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBhcHBlbmRGaWx0ZXIuQWRkSW5wdXRDb25uZWN0aW9uKGlucHV0Mi5HZXRQcm9kdWNlclBvcnQoKSkK</text>
+        <text encoding="base64">c3BoZXJlMlRyaS5VcGRhdGUoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXBwZW5kRmlsdGVyLkFkZElucHV0RGF0YShpbnB1dDIpCg==</text>
+        <text encoding="base64">c3BoZXJlMVRyaS5VcGRhdGUoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmIGdldF9sYWJlbHNfZnJvbV9jc3YoZmlsZW5hbWUsIGNzdik6CiAgICBkZltdCgogICAgcmV0dXJuIGxhYmVscwo=</text>
       </register>
-      <register name="8" type="8">
-        <text>Add
-Add
-Add</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIyBhcHBlbmRGaWx0ZXIuQWRkSW5wdXRDb25uZWN0aW9uKGlucHV0Mi5HZXRQcm9kdWNlclBvcnQoKSkK</text>
       </register>
-      <register name="9" type="8">
-        <text>appendFilter
-appendFilter
-appendFilter</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYXBwZW5kRmlsdGVyLkFkZElucHV0RGF0YShpbnB1dDIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
