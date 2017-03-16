@@ -370,10 +370,10 @@
         <mark key="^" line="142" column="55" />
         <mark key="." line="142" column="55" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/tests/tube_tree_vtk_boolean_test.py" timestamp="1489446281079">
+      <file name="$USER_HOME$/projects/teigen/tests/tube_tree_vtk_boolean_test.py" timestamp="1489651379223">
         <mark key="'" line="32" column="70" />
-        <mark key="[" line="199" column="31" />
-        <mark key="]" line="199" column="39" />
+        <mark key="[" line="189" column="0" />
+        <mark key="]" line="192" column="29" />
         <mark key="." line="199" column="39" />
         <mark key="^" line="199" column="39" />
       </file>
@@ -782,7 +782,7 @@
         <mark key="^" line="44" column="52" />
         <mark key="." line="44" column="52" />
       </file>
-      <file name="/Dummy.txt" timestamp="1489523019917">
+      <file name="/Dummy.txt" timestamp="1489654402158">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/disco/disco/__init__.py" timestamp="1463148479573">
@@ -1081,7 +1081,7 @@
         <mark key="." line="60" column="25" />
         <mark key="^" line="60" column="25" />
       </file>
-      <file name="/Python Console" timestamp="1489446169605">
+      <file name="/Python Console" timestamp="1489652213605">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/events2calendar/tests/e2c_test.py" timestamp="1477320243915">
@@ -1109,13 +1109,13 @@
         <mark key="^" line="64" column="22" />
         <mark key="." line="64" column="22" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/tb_vtk.py" timestamp="1488924652843">
-        <mark key="a" line="166" column="36" />
-        <mark key="'" line="124" column="4" />
-        <mark key="[" line="159" column="0" />
-        <mark key="]" line="159" column="0" />
-        <mark key="." line="159" column="0" />
-        <mark key="^" line="164" column="44" />
+      <file name="$USER_HOME$/projects/teigen/teigen/tb_vtk.py" timestamp="1489653676642">
+        <mark key="a" line="167" column="36" />
+        <mark key="'" line="126" column="4" />
+        <mark key="[" line="130" column="39" />
+        <mark key="]" line="131" column="39" />
+        <mark key="." line="131" column="39" />
+        <mark key="^" line="131" column="39" />
       </file>
       <file name="$USER_HOME$/projects/ndnoise/ndnoise/filtration.py" timestamp="1484147007628">
         <mark key="a" line="203" column="4" />
@@ -1794,15 +1794,15 @@
         <mark key="^" line="13" column="3" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1488807291962">
+      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1489654308493">
         <mark key="a" line="241" column="7" />
         <mark key="b" line="572" column="7" />
         <mark key="'" line="245" column="18" />
-        <mark key="[" line="873" column="0" />
-        <mark key="]" line="874" column="31" />
-        <mark key="^" line="94" column="42" />
-        <mark key="." line="94" column="42" />
+        <mark key="[" line="942" column="0" />
+        <mark key="]" line="942" column="0" />
+        <mark key="^" line="684" column="120" />
         <mark key="n" line="262" column="15" />
+        <mark key="." line="942" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -5986,46 +5986,46 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBzdXJmLCBzdXJmX2FuYWx5dGljCiAgICAgICAgcHJpbnQgdm9sLCB2b2xfYW5hbHl0aWMK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAiYmxhIgo=</text>
       </register>
       <register name="-" type="4">
-        <text>surf</text>
+        <text>=self.config[&quot;postprocessing&quot;][&quot;measurement_resolution&quot;]</text>
       </register>
       <register name="/" type="4">
         <text>resection(</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydExlc3MoZXJyX3N1cmYsIG1heF9lcnJvcikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgcmVzb2x1dGlvbj1zcGhlcmVfcmVzb2x1dGlvbgogICAgICAgICAgICAgICAgICAgICAgICAgICApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBzdXJmLCBzdXJmX2FuYWx5dGljCiAgICAgICAgcHJpbnQgdm9sLCB2b2xfYW5hbHl0aWMK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAiYmxhIgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBlZC5zZWVkcwo=</text>
+        <text encoding="base64">ICAgICAgICBkZm92ZXJhbGxmWyJudW1lcmljIHZvbHVtZSBbbW1eMl0iXT1bdm9sXQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAiYWhvamUiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHZnLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBlZC4K</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmRhdGFmcmFtZXNbIm92ZXJhbGwiXSA9IGRmb3ZlcmFsbGYK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtYXNzLlNldElucHV0RGF0YShHZXRPdXRwdXQoKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCBzdXJmLCBzdXJmX2FuYWx5dGljCiAgICAgICAgcHJpbnQgdm9sLCB2b2xfYW5hbHl0aWMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIGxhYmVsIGlzIE5vbmU6CiAgICAgICAgZWwKICAgIGVsc2U6CiAgICAgICAgbnppID0gbnAubm9uemVybyhkYXRhPT1sYWJlbCkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCBlZC5zZWVkcwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBuemkgPSBucC5ub256ZXJvKGRhdGEpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAiYWhvamUiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBpZiBsYWJlbCBpcyBOb25lOgogICAgICAgIG56aSA9IG5wLm5vbnplcm8oZGF0YSkKICAgICAgICBlbAogICAgZWxzZToKICAgICAgICBuemkgPSBucC5ub256ZXJvKGRhdGE9PWxhYmVsKQoK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCBlZC4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -6062,7 +6062,6 @@
         <entry>surface</entry>
       </history-search>
       <history-cmd>
-        <entry>283</entry>
         <entry>155</entry>
         <entry>107</entry>
         <entry>132</entry>
@@ -6081,6 +6080,7 @@
         <entry>e</entry>
         <entry encoding="base64">JzwsJz4yNw==</entry>
         <entry>27</entry>
+        <entry>691</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
