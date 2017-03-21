@@ -1787,23 +1787,17 @@
         <mark key="^" line="13" column="3" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1490118528291">
-        <mark key="a" line="415" column="12" />
-        <mark key="'" line="467" column="21" />
-        <mark key="[" line="426" column="14" />
-        <mark key="]" line="426" column="7" />
-        <mark key="^" line="426" column="7" />
+      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1490120392989">
+        <mark key="a" line="420" column="12" />
+        <mark key="'" line="739" column="58" />
+        <mark key="[" line="444" column="16" />
+        <mark key="]" line="444" column="26" />
         <mark key="n" line="263" column="15" />
-        <mark key="." line="426" column="7" />
+        <mark key="." line="444" column="26" />
+        <mark key="^" line="444" column="26" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="0" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
-      <jump line="1610" column="34" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
-      <jump line="1447" column="0" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
-      <jump line="20" column="0" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
-      <jump line="65" column="10" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
-      <jump line="1140" column="0" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="138" column="9" filename="$USER_HOME$/projects/lisa/tests/vessels_segmentation_test.py" />
       <jump line="38" column="0" filename="$USER_HOME$/projects/pysegbase/pysegbase/seed_editor_qt.py" />
       <jump line="258" column="36" filename="$USER_HOME$/projects/pysegbase/pysegbase/seed_editor_qt.py" />
@@ -1898,6 +1892,12 @@
       <jump line="134" column="36" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="341" column="0" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="467" column="21" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
+      <jump line="747" column="21" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
+      <jump line="442" column="18" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
+      <jump line="610" column="8" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
+      <jump line="629" column="8" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
+      <jump line="714" column="55" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
+      <jump line="737" column="58" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5977,64 +5977,63 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIFB5UQo=</text>
+      <register name="&quot;" type="4">
+        <text>slice</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>slice</text>
       </register>
       <register name="/" type="4">
-        <text>delete</text>
+        <text>slice</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl91aV9idG5fc2F2ZS5kZWxldGVMYXRlcigpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl91aV9idG5fc3RlcDIgPSBRUHVzaEJ1dHRvbigiU3RlcCAyIC0gR2VuZXJhdGUgYW5kIHNhdmUgdm9sdW1ldHJpYyBkYXRhIiwgc2VsZikKICAgICAgICBzZWxmLl91aV9idG5fc3RlcDIuc2V0VG9vbFRpcCgiU2F2ZSBpbWFnZSBzbGljZXMgYW5kIG1ldGEgaW5mb3JtYXRpb24iKQogICAgICAgIHNlbGYuX3VpX2J0bl9zdGVwMi5jbGlja2VkLmNvbm5lY3Qoc2VsZi5idG5TYXZlKQogICAgICAgIHNlbGYubWFpbkxheW91dC5hZGRXaWRnZXQoc2VsZi5fdWlfYnRuX3N0ZXAyLCA0LCAxLCAxLCAyKSAjICwgKGdkX21heF9pIC8gMiksIHRleHRfY29sKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIFB5UQo=</text>
+      <register name="1" type="8">
+        <text>step2
+step2
+step2</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlZiBfY29uZgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnVpX291dHB1dF9kaXJfd2lkZ2V0ID0gaW93aWRnZXRxdC5TZXREaXJXaWRnZXQoCiAgICAgICAgICAgIHNlbGYudGVpZ2VuLmNvbmZpZ1siZmlsZXBhdHRlcm4iXSwgIm91dHB1dCBkaXJlY3RvcnkiKQogICAgICAgIHNlbGYudWlfb3V0cHV0X2Rpcl93aWRnZXQuc2V0VG9vbFRpcCgiRGF0YSBhcmUgc3RvcmVkIGluIGRlZmluZWQgZGlyZWN0b3J5LlxuT3V0cHV0IGZvcm1hdCBpcyBiYXNlZCBvbiBmaWxlIGV4dGVuc2lvbi5cbkZvciBzYXZpbmcgaW50byBpbWFnZSBzdGFjayB1c2UgJ2ZpbGVuYW1lezowNmR9LmpwZyciKQogICAgICAgIHNlbGYubWFpbkxheW91dC5hZGRXaWRnZXQoc2VsZi51aV9vdXRwdXRfZGlyX3dpZGdldCwgMSwgMSwgMSwgMikgIyAsIChnZF9tYXhfaSAvIDIpLCB0ZXh0X2NvbCkKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl91aV9idG5fc3RlcDEgPSBRUHVzaEJ1dHRvbigiU3RlcCAxIC0gUHJldmlldyAtIEdlbmVyYXRlIHNrZWxldG9uIiwgc2VsZikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="8">
-        <text>ave
-ave
-ave</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnRlaWdlbi4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmcm9tIFB5UQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBfY29uZgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>delete</last-search>
+      <last-search>slice</last-search>
       <last-offset />
-      <last-pattern>delete</last-pattern>
+      <last-pattern>slice</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfX2dlbmVyYXRlX3Z0a1w+</entry>
         <entry>tvg.gen.polyData</entry>
         <entry encoding="base64">XDxsb2dnaW5nXD4=</entry>
         <entry>rotato</entry>
@@ -6054,6 +6053,7 @@ ave</text>
         <entry>surface</entry>
         <entry>later</entry>
         <entry>delete</entry>
+        <entry>slice</entry>
       </history-search>
       <history-cmd>
         <entry>155</entry>
