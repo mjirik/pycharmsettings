@@ -404,13 +404,14 @@
         <mark key="." line="19" column="22" />
         <mark key="^" line="19" column="22" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/virtual_resection.py" timestamp="1490175582108">
-        <mark key="a" line="211" column="3" />
-        <mark key="'" line="475" column="0" />
-        <mark key="[" line="53" column="8" />
-        <mark key="]" line="53" column="14" />
-        <mark key="^" line="53" column="14" />
-        <mark key="." line="53" column="14" />
+      <file name="$USER_HOME$/projects/lisa/lisa/virtual_resection.py" timestamp="1490176362345">
+        <mark key="a" line="55" column="30" />
+        <mark key="b" line="239" column="34" />
+        <mark key="'" line="239" column="34" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="^" line="55" column="46" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/data.py" timestamp="1448552139365">
         <mark key="[" line="27" column="46" />
@@ -848,7 +849,7 @@
         <mark key="^" line="112" column="50" />
         <mark key="." line="112" column="50" />
       </file>
-      <file name="/Dummy.txt" timestamp="1490175643517">
+      <file name="/Dummy.txt" timestamp="1490176590075">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1490116207494">
@@ -1082,12 +1083,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1490175133741">
+      <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1490176449170">
         <mark key="'" line="335" column="17" />
-        <mark key="[" line="347" column="0" />
-        <mark key="]" line="348" column="45" />
-        <mark key="^" line="348" column="45" />
-        <mark key="." line="348" column="45" />
+        <mark key="[" line="1075" column="37" />
+        <mark key="]" line="1075" column="37" />
+        <mark key="^" line="1075" column="37" />
+        <mark key="." line="1075" column="37" />
       </file>
       <file name="$USER_HOME$/projects/imtools/imtools/ml/gmmcl.py" timestamp="1448550206184">
         <mark key="[" line="11" column="14" />
@@ -1805,7 +1806,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="228" column="12" filename="$USER_HOME$/projects/teigen/teigen/generators/unconnected_cylinders.py" />
       <jump line="246" column="16" filename="$USER_HOME$/projects/teigen/teigen/generators/unconnected_cylinders.py" />
       <jump line="257" column="10" filename="$USER_HOME$/projects/teigen/teigen/generators/unconnected_cylinders.py" />
       <jump line="262" column="10" filename="$USER_HOME$/projects/teigen/teigen/generators/unconnected_cylinders.py" />
@@ -1905,6 +1905,7 @@
       <jump line="417" column="12" filename="$USER_HOME$/projects/lisa/lisa/virtual_resection.py" />
       <jump line="471" column="18" filename="$USER_HOME$/projects/lisa/lisa/virtual_resection.py" />
       <jump line="475" column="0" filename="$USER_HOME$/projects/lisa/lisa/virtual_resection.py" />
+      <jump line="246" column="34" filename="$USER_HOME$/projects/lisa/lisa/virtual_resection.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5984,28 +5985,34 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmd1aV91cGRhdGUK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">KCIiKSwg</text>
       </register>
       <register name="-" type="4">
-        <text>widgets</text>
+        <text encoding="base64">KCIiKSwg</text>
       </register>
       <register name="/" type="4">
         <text>def resection</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl91aV9idG5fc3RlcDIgPSBRUHVzaEJ1dHRvbigiU3RlcCAyIC0gR2VuZXJhdGUgYW5kIHNhdmUgdm9sdW1ldHJpYyBkYXRhIiwgc2VsZikKICAgICAgICBzZWxmLl91aV9idG5fc3RlcDIuc2V0VG9vbFRpcCgiU2F2ZSBpbWFnZSBzbGljZXMgYW5kIG1ldGEgaW5mb3JtYXRpb24iKQogICAgICAgIHNlbGYuX3VpX2J0bl9zdGVwMi5jbGlja2VkLmNvbm5lY3Qoc2VsZi5idG5TYXZlKQogICAgICAgIHNlbGYubWFpbkxheW91dC5hZGRXaWRnZXQoc2VsZi5fdWlfYnRuX3N0ZXAyLCA0LCAxLCAxLCAyKSAjICwgKGdkX21heF9pIC8gMiksIHRleHRfY29sKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBsYWJlbD1zZWxmLm9zZWcuZ2V0X3NsYWJfdmFsdWUoImxpdmVyIiksIAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmd1aV91cGRhdGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">cmVzZWN0aW9uKFtdLCBwdGFrb3ZpbmU9NywgbGtqZGxmaz0iYXNkZnNhIikKZGVmIHJlc193aXRoX3ByZXByb2MoKiprd2FyZ3MpOgogICAgZmRsYWtqZgogICAgbHNka2pmbHNrCiAgICBsa2pzYWRmbAogICAgcmFzZWN0aW9uKCoqa3dhcmdzKQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmd1aV91cGRhdGUK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmRlbGV0ZV93ZyhzZWxmLl8pCg==</text>
       </register>
-      <register name="3" type="8">
+      <register name="5" type="8">
         <text>)
 )
 )
@@ -6015,25 +6022,19 @@
 )
 )</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBkZWYgZGVsZXRlX3dnKHNlbGYsIHdnKToKICAgICAgICAgICAgc2VsZi5tYWluTGF5b3V0LgogICAgICAgICAgICAKICAgICAgICAgICAgcGFzcwo=</text>
       </register>
-      <register name="7" type="8">
+      <register name="9" type="8">
         <text>step2
 step2
 step2</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
