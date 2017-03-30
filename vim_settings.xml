@@ -41,7 +41,7 @@
         <mark key="." line="41" column="9" />
         <mark key="^" line="41" column="9" />
       </file>
-      <file name="/a.dummy" timestamp="1487687017236">
+      <file name="/a.dummy" timestamp="1490861074189">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/skelet3d/README.md" timestamp="1469534588434">
@@ -1142,9 +1142,9 @@
         <mark key="^" line="2" column="21" />
         <mark key="." line="2" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/generators/cylinders.py" timestamp="1487756661915">
+      <file name="$USER_HOME$/projects/teigen/teigen/generators/cylinders.py" timestamp="1490861026772">
         <mark key="a" line="253" column="19" />
-        <mark key="'" line="10" column="0" />
+        <mark key="'" line="389" column="45" />
         <mark key="[" line="69" column="14" />
         <mark key="]" line="69" column="14" />
         <mark key="^" line="30" column="24" />
@@ -1793,20 +1793,18 @@
         <mark key="^" line="13" column="3" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1490855299092">
+      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1490861238447">
         <mark key="a" line="441" column="12" />
         <mark key="b" line="588" column="7" />
-        <mark key="'" line="811" column="82" />
-        <mark key="[" line="748" column="0" />
-        <mark key="]" line="748" column="37" />
+        <mark key="'" line="163" column="34" />
+        <mark key="[" line="742" column="0" />
+        <mark key="]" line="742" column="37" />
         <mark key="n" line="274" column="15" />
-        <mark key="." line="748" column="0" />
-        <mark key="^" line="741" column="35" />
+        <mark key="." line="745" column="39" />
+        <mark key="^" line="745" column="39" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="246" column="16" filename="$USER_HOME$/projects/teigen/teigen/generators/unconnected_cylinders.py" />
-      <jump line="257" column="10" filename="$USER_HOME$/projects/teigen/teigen/generators/unconnected_cylinders.py" />
       <jump line="262" column="10" filename="$USER_HOME$/projects/teigen/teigen/generators/unconnected_cylinders.py" />
       <jump line="214" column="14" filename="$USER_HOME$/projects/teigen/teigen/generators/unconnected_cylinders.py" />
       <jump line="6" column="0" filename="$USER_HOME$/projects/teigen/tests/geometry3_test.py" />
@@ -1873,7 +1871,6 @@
       <jump line="155" column="8" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="157" column="8" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="160" column="8" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
-      <jump line="163" column="8" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="213" column="33" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="218" column="12" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="219" column="12" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
@@ -1905,6 +1902,9 @@
       <jump line="471" column="18" filename="$USER_HOME$/projects/lisa/lisa/virtual_resection.py" />
       <jump line="475" column="0" filename="$USER_HOME$/projects/lisa/lisa/virtual_resection.py" />
       <jump line="246" column="34" filename="$USER_HOME$/projects/lisa/lisa/virtual_resection.py" />
+      <jump line="163" column="34" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
+      <jump line="309" column="27" filename="$USER_HOME$/projects/teigen/teigen/generators/cylinders.py" />
+      <jump line="389" column="45" filename="$USER_HOME$/projects/teigen/teigen/generators/cylinders.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5988,10 +5988,10 @@
         <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>measurement_multiplier</text>
+        <text>started</text>
       </register>
       <register name="/" type="4">
-        <text>def resection</text>
+        <text>generated</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
@@ -6031,15 +6031,14 @@
       </register>
     </registers>
     <search>
-      <last-search>def resection</last-search>
+      <last-search>generated</last-search>
       <last-offset />
-      <last-pattern>def resection</last-pattern>
+      <last-pattern>generated</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>rotato</entry>
         <entry>Rotating</entry>
         <entry encoding="base64">XDxTRUVEU19DT0xPUlRBQkxFXD4=</entry>
         <entry encoding="base64">XDxDT05UT1VSU19DT0xPUlNcPg==</entry>
@@ -6059,6 +6058,7 @@
         <entry>slice</entry>
         <entry>anisotropic</entry>
         <entry encoding="base64">XDxmaWxlcGF0dGVybl9zZXJpZXNfbnVtYmVyXD4=</entry>
+        <entry>generated</entry>
       </history-search>
       <history-cmd>
         <entry>107</entry>
