@@ -838,11 +838,11 @@
         <mark key="^" line="178" column="21" />
         <mark key="." line="178" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/tests/geometry3_test.py" timestamp="1491551364057">
-        <mark key="[" line="238" column="42" />
-        <mark key="]" line="241" column="7" />
-        <mark key="^" line="241" column="7" />
-        <mark key="." line="241" column="7" />
+      <file name="$USER_HOME$/projects/teigen/tests/geometry3_test.py" timestamp="1491552683744">
+        <mark key="[" line="248" column="38" />
+        <mark key="]" line="248" column="36" />
+        <mark key="^" line="248" column="36" />
+        <mark key="." line="248" column="36" />
       </file>
       <file name="/Dummy.txt" timestamp="1491550764855">
         <mark key="[" line="0" column="0" />
@@ -1226,7 +1226,7 @@
         <mark key="." line="116" column="0" />
         <mark key="^" line="83" column="65" />
       </file>
-      <file name="/Python Console" timestamp="1490906835438">
+      <file name="/Python Console" timestamp="1491552775344">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/quantan/quantan/histology_report.py" timestamp="1452186060856">
@@ -1475,12 +1475,12 @@
         <mark key="." line="9" column="22" />
         <mark key="^" line="9" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/geometry3d.py" timestamp="1491551428270">
+      <file name="$USER_HOME$/projects/teigen/teigen/geometry3d.py" timestamp="1491553460073">
         <mark key="'" line="116" column="37" />
-        <mark key="[" line="448" column="38" />
-        <mark key="]" line="29" column="10" />
-        <mark key="." line="29" column="10" />
-        <mark key="^" line="30" column="13" />
+        <mark key="[" line="466" column="38" />
+        <mark key="]" line="466" column="36" />
+        <mark key="." line="466" column="36" />
+        <mark key="^" line="466" column="36" />
       </file>
       <file name="$USER_HOME$/projects/sed3/requirements_conda.txt" timestamp="1454930331485">
         <mark key="[" line="3" column="0" />
@@ -5981,11 +5981,11 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50IGt3YXJnc1sicHRha292aW5lIl0K</text>
+      <register name="&quot;" type="4">
+        <text>vector</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>vector</text>
       </register>
       <register name="/" type="4">
         <text>generated</text>
@@ -5994,34 +5994,34 @@
         <text encoding="base64">ICAgIHlhbWxfZmlsZSA9IG9wZW4oaW5maWxlLCAncicpCiAgICB0cmVlX3Jhd19kYXRhID0geWFtbC5sb2FkKHlhbWxfZmlsZSkKICAgIHZ0MnZ0a19maWxlKHRyZWVfcmF3X2RhdGEsIG91dGZpbGUsIHRleHRfbGFiZWwpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50IGt3YXJnc1sicHRha292aW5lIl0K</text>
+        <text encoding="base64">ICAgIHJhZGl1cyA9IG5wLmxpbmFsCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRyZWVzID0gZml4X3RyZWVfc3RydWN0dXJlKHZlc3NlbF90cmVlKQoKICAgIHRrZXlzID0gdHJlZXMua2V5cygpCiAgICBpZiB0ZXh0X2xhYmVsIGlzIE5vbmU6CiAgICAgICAgdGV4dF9sYWJlbCA9IHRrZXlzWzBdCgogICAgdHJlZV9kYXRhID0gY29tcGF0aWJpbGl0eV9wcm9jZXNzaW5nKHRyZWVzW3RleHRfbGFiZWxdKQogICAgcG9seURhdGEgPSBnZW5fdHJlZSh0cmVlX2RhdGEpCg==</text>
+        <text encoding="base64">ICAgIHByaW50IGt3YXJnc1sicHRha292aW5lIl0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">ICAgIHRyZWVzID0gZml4X3RyZWVfc3RydWN0dXJlKHZlc3NlbF90cmVlKQoKICAgIHRrZXlzID0gdHJlZXMua2V5cygpCiAgICBpZiB0ZXh0X2xhYmVsIGlzIE5vbmU6CiAgICAgICAgdGV4dF9sYWJlbCA9IHRrZXlzWzBdCgogICAgdHJlZV9kYXRhID0gY29tcGF0aWJpbGl0eV9wcm9jZXNzaW5nKHRyZWVzW3RleHRfbGFiZWxdKQogICAgcG9seURhdGEgPSBnZW5fdHJlZSh0cmVlX2RhdGEpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBuZWdhdGl2ZToKICAgICAgICAgICAgc2VsZi5kYXRhM2QgPSAyNTUgLSBzZWxmLmRhdGEzZAo=</text>
+        <text encoding="base64">ICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAK</text>
+        <text encoding="base64">ICAgICAgICBpZiBuZWdhdGl2ZToKICAgICAgICAgICAgc2VsZi5kYXRhM2QgPSAyNTUgLSBzZWxmLmRhdGEzZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm1haW5MYXlvdXQuYWRkTGF5b3V0KHNlbGYuY29uZmlnQmFyTGF5b3V0LCAyLCAxLCAxLCAyKSAjICwgKGdkX21heF9pIC8gMiksIHRleHRfY29sKQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUUZpbGVEaWFsb2cuZ2V0Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm1haW5MYXlvdXQuYWRkTGF5b3V0KHNlbGYuY29uZmlnQmFyTGF5b3V0LCAyLCAxLCAxLCAyKSAjICwgKGdkX21heF9pIC8gMiksIHRleHRfY29sKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgUUZpbGVEaWFsb2cuZ2V0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmlsZXBhdHRlcm5fc2VyaWVzX251bWJlciA9IHNlbGYuY29uZmlnWyJmaWxlcGF0dGVybl9zZXJpZXNfbnVtYmVyIl0K</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
