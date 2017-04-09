@@ -670,11 +670,11 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/metalisa/tests/metalisa_test.py" timestamp="1491726902971">
-        <mark key="[" line="11" column="37" />
-        <mark key="]" line="14" column="16" />
-        <mark key="^" line="14" column="16" />
-        <mark key="." line="14" column="16" />
+      <file name="$USER_HOME$/projects/metalisa/tests/metalisa_test.py" timestamp="1491727850400">
+        <mark key="[" line="24" column="60" />
+        <mark key="]" line="23" column="72" />
+        <mark key="^" line="23" column="72" />
+        <mark key="." line="23" column="72" />
       </file>
       <file name="$USER_HOME$/projects/lisa/setup.cfg" timestamp="1464369234624">
         <mark key="[" line="1" column="0" />
@@ -5977,17 +5977,17 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>vector</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFscyhkZltkZlsiU2xpY2VfbnVtYmVyIl0gPT0gMV1bIkxhYmVsIl0sIDApCg==</text>
       </register>
       <register name="-" type="4">
-        <text>vector</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>generated</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHlhbWxfZmlsZSA9IG9wZW4oaW5maWxlLCAncicpCiAgICB0cmVlX3Jhd19kYXRhID0geWFtbC5sb2FkKHlhbWxfZmlsZSkKICAgIHZ0MnZ0a19maWxlKHRyZWVfcmF3X2RhdGEsIG91dGZpbGUsIHRleHRfbGFiZWwpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFscyhkZltkZlsiU2xpY2VfbnVtYmVyIl0gPT0gMV1bIkxhYmVsIl0sIDApCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHJhZGl1cyA9IG5wLmxpbmFsCg==</text>
@@ -6072,8 +6072,8 @@
         <entry>27</entry>
         <entry>691</entry>
         <entry>767</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
