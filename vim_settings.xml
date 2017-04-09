@@ -1268,6 +1268,13 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="3" column="3" />
       </file>
+      <file name="$USER_HOME$/projects/metalisa/liver_data_preparation.py" timestamp="1491729670728">
+        <mark key="'" line="10" column="66" />
+        <mark key="[" line="17" column="28" />
+        <mark key="]" line="17" column="73" />
+        <mark key="^" line="10" column="66" />
+        <mark key="." line="17" column="28" />
+      </file>
       <file name="$USER_HOME$/projects/quanta/.travis.yml" timestamp="1446734696649">
         <mark key="'" line="40" column="43" />
         <mark key="[" line="24" column="40" />
@@ -1798,7 +1805,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="214" column="14" filename="$USER_HOME$/projects/teigen/teigen/generators/unconnected_cylinders.py" />
       <jump line="6" column="0" filename="$USER_HOME$/projects/teigen/tests/geometry3_test.py" />
       <jump line="108" column="40" filename="$USER_HOME$/projects/teigen/tests/geometry3_test.py" />
       <jump line="473" column="38" filename="$USER_HOME$/projects/teigen/teigen/geometry3d.py" />
@@ -1898,6 +1904,7 @@
       <jump line="309" column="27" filename="$USER_HOME$/projects/teigen/teigen/generators/cylinders.py" />
       <jump line="389" column="45" filename="$USER_HOME$/projects/teigen/teigen/generators/cylinders.py" />
       <jump line="337" column="0" filename="$USER_HOME$/projects/teigen/teigen/tb_vtk.py" />
+      <jump line="10" column="66" filename="$USER_HOME$/projects/metalisa/liver_data_preparation.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5977,47 +5984,47 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFscyhkZltkZlsiU2xpY2VfbnVtYmVyIl0gPT0gMV1bIkxhYmVsIl0sIDApCg==</text>
+      <register name="&quot;" type="4">
+        <text>datadirpath, output_datadirpath=&quot;output_data&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>datapath</text>
       </register>
       <register name="/" type="4">
         <text>generated</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFscyhkZltkZlsiU2xpY2VfbnVtYmVyIl0gPT0gMV1bIkxhYmVsIl0sIDApCg==</text>
+      <register name="0" type="4">
+        <text>datadirpath, output_datadirpath=&quot;output_data&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJhZGl1cyA9IG5wLmxpbmFsCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50IGt3YXJnc1sicHRha292aW5lIl0K</text>
+        <text encoding="base64">ICAgIHJhZGl1cyA9IG5wLmxpbmFsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRyZWVzID0gZml4X3RyZWVfc3RydWN0dXJlKHZlc3NlbF90cmVlKQoKICAgIHRrZXlzID0gdHJlZXMua2V5cygpCiAgICBpZiB0ZXh0X2xhYmVsIGlzIE5vbmU6CiAgICAgICAgdGV4dF9sYWJlbCA9IHRrZXlzWzBdCgogICAgdHJlZV9kYXRhID0gY29tcGF0aWJpbGl0eV9wcm9jZXNzaW5nKHRyZWVzW3RleHRfbGFiZWxdKQogICAgcG9seURhdGEgPSBnZW5fdHJlZSh0cmVlX2RhdGEpCg==</text>
+        <text encoding="base64">ICAgIHByaW50IGt3YXJnc1sicHRha292aW5lIl0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">ICAgIHRyZWVzID0gZml4X3RyZWVfc3RydWN0dXJlKHZlc3NlbF90cmVlKQoKICAgIHRrZXlzID0gdHJlZXMua2V5cygpCiAgICBpZiB0ZXh0X2xhYmVsIGlzIE5vbmU6CiAgICAgICAgdGV4dF9sYWJlbCA9IHRrZXlzWzBdCgogICAgdHJlZV9kYXRhID0gY29tcGF0aWJpbGl0eV9wcm9jZXNzaW5nKHRyZWVzW3RleHRfbGFiZWxdKQogICAgcG9seURhdGEgPSBnZW5fdHJlZSh0cmVlX2RhdGEpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBuZWdhdGl2ZToKICAgICAgICAgICAgc2VsZi5kYXRhM2QgPSAyNTUgLSBzZWxmLmRhdGEzZAo=</text>
+        <text encoding="base64">ICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAK</text>
+        <text encoding="base64">ICAgICAgICBpZiBuZWdhdGl2ZToKICAgICAgICAgICAgc2VsZi5kYXRhM2QgPSAyNTUgLSBzZWxmLmRhdGEzZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm1haW5MYXlvdXQuYWRkTGF5b3V0KHNlbGYuY29uZmlnQmFyTGF5b3V0LCAyLCAxLCAxLCAyKSAjICwgKGdkX21heF9pIC8gMiksIHRleHRfY29sKQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUUZpbGVEaWFsb2cuZ2V0Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm1haW5MYXlvdXQuYWRkTGF5b3V0KHNlbGYuY29uZmlnQmFyTGF5b3V0LCAyLCAxLCAxLCAyKSAjICwgKGdkX21heF9pIC8gMiksIHRleHRfY29sKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgUUZpbGVEaWFsb2cuZ2V0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
