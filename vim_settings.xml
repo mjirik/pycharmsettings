@@ -770,7 +770,7 @@
         <mark key="^" line="44" column="52" />
         <mark key="." line="44" column="52" />
       </file>
-      <file name="/Dummy.txt" timestamp="1492509088841">
+      <file name="/Dummy.txt" timestamp="1492511981375">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/disco/disco/__init__.py" timestamp="1463148479573">
@@ -1546,13 +1546,13 @@
         <mark key="." line="168" column="37" />
         <mark key="^" line="168" column="37" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/generators/unconnected_cylinders.py" timestamp="1492481066366">
+      <file name="$USER_HOME$/projects/teigen/teigen/generators/unconnected_cylinders.py" timestamp="1492511287954">
         <mark key="a" line="281" column="70" />
         <mark key="'" line="154" column="37" />
-        <mark key="[" line="296" column="22" />
-        <mark key="]" line="296" column="38" />
-        <mark key="." line="296" column="38" />
-        <mark key="^" line="296" column="38" />
+        <mark key="[" line="272" column="68" />
+        <mark key="]" line="272" column="79" />
+        <mark key="." line="272" column="79" />
+        <mark key="^" line="272" column="79" />
       </file>
       <file name="$USER_HOME$/projects/skelet3d/examples/example02.py" timestamp="1465398838088">
         <mark key="'" line="17" column="9" />
@@ -1793,15 +1793,15 @@
         <mark key="^" line="13" column="3" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1492509829594">
+      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1492511795058">
         <mark key="b" line="541" column="46" />
         <mark key="v" line="541" column="46" />
-        <mark key="'" line="705" column="13" />
-        <mark key="[" line="582" column="48" />
-        <mark key="]" line="582" column="57" />
+        <mark key="'" line="262" column="8" />
+        <mark key="[" line="1126" column="40" />
+        <mark key="]" line="1127" column="24" />
         <mark key="n" line="280" column="15" />
-        <mark key="." line="582" column="57" />
-        <mark key="^" line="582" column="57" />
+        <mark key="." line="1127" column="24" />
+        <mark key="^" line="1127" column="24" />
       </file>
     </filemarks>
     <jumps>
@@ -1837,7 +1837,6 @@
       <jump line="466" column="47" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="472" column="15" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="41" column="20" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
-      <jump line="262" column="36" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="674" column="0" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="368" column="63" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="632" column="24" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
@@ -1905,6 +1904,7 @@
       <jump line="1113" column="42" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="592" column="0" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="705" column="13" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
+      <jump line="262" column="8" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5985,13 +5985,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>svg</text>
+        <text>i</text>
       </register>
       <register name="-" type="4">
-        <text>svg</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
-        <text>show_surface</text>
+        <text>Row</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmZpZ3VyZS5zYXZlZmlnKGZuX2Jhc2UgKyAiXyIgKyAiZ3JhcGguc3ZnIikK</text>
@@ -6031,17 +6031,14 @@
       </register>
     </registers>
     <search>
-      <last-search>show_surface</last-search>
+      <last-search>Row</last-search>
       <last-offset />
-      <last-pattern>show_surface</last-pattern>
+      <last-pattern>Row</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>mkdir</entry>
-        <entry>progress</entry>
-        <entry>expand</entry>
         <entry>generate_volume</entry>
         <entry>cyli</entry>
         <entry>surface</entry>
@@ -6059,6 +6056,9 @@
         <entry>qpix</entry>
         <entry>QPix</entry>
         <entry>show_surface</entry>
+        <entry>OneRow</entry>
+        <entry>row</entry>
+        <entry>Row</entry>
       </history-search>
       <history-cmd>
         <entry>132</entry>
