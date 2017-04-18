@@ -1793,19 +1793,18 @@
         <mark key="^" line="13" column="3" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1491921471203">
+      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1492473484319">
         <mark key="a" line="441" column="12" />
         <mark key="b" line="588" column="7" />
-        <mark key="'" line="779" column="28" />
-        <mark key="[" line="745" column="0" />
-        <mark key="]" line="745" column="0" />
+        <mark key="'" line="580" column="8" />
+        <mark key="[" line="1081" column="21" />
+        <mark key="]" line="1084" column="11" />
         <mark key="n" line="274" column="15" />
-        <mark key="." line="745" column="0" />
-        <mark key="^" line="752" column="8" />
+        <mark key="." line="1084" column="11" />
+        <mark key="^" line="1084" column="11" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="442" column="4" filename="$USER_HOME$/projects/teigen/teigen/geometry3d.py" />
       <jump line="69" column="21" filename="$USER_HOME$/projects/teigen/teigen/generators/cylinders.py" />
       <jump line="14" column="0" filename="$USER_HOME$/projects/teigen/teigen/geometry3d.py" />
       <jump line="10" column="0" filename="$USER_HOME$/projects/teigen/teigen/generators/cylinders.py" />
@@ -1905,6 +1904,7 @@
       <jump line="52" column="7" filename="$USER_HOME$/projects/teigen/teigen/generators/general.py" />
       <jump line="15" column="17" filename="$USER_HOME$/projects/teigen/teigen/generators/general.py" />
       <jump line="779" column="28" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
+      <jump line="580" column="8" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5985,61 +5985,60 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text>self.dataframes[dfname]</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>self.dataframes[dfname]</text>
       </register>
       <register name="/" type="4">
-        <text>ipdb</text>
+        <text>to_csv</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgcmFkaXVzID49IHNlbGYucmFkaXVzX21pbmltdW06CiAgICAgICAgICAgICAgICBicmVhawo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYW5kYXMK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnJlYWsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgMC45ICogbGVuZ3RoIDwgc2VsZi5sZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnJlYWsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFkaXVzID0gZzMucGlsbF9yYWRpdXNfZnJvbV92b2x1bWUoc2VsZi5hY3R1YWxfb2JqZWN0X3ZvbHVtZSAtIHNlbGYucmVxdWVzZXRlZF92b2x1bWUsIGxlbmd0aCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgMC45ICogbGVuZ3RoIDwgc2VsZi5sZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXFfdm9sdW1lID0gc2VsZi5yZXF1ZXNldGVkX3ZvbHVtZV9mcmFjdGlvbiAqCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmFkaXVzID0gZzMucGlsbF9yYWRpdXNfZnJvbV92b2x1bWUoc2VsZi5hY3R1YWxfb2JqZWN0X3ZvbHVtZSAtIHNlbGYucmVxdWVzZXRlZF92b2x1bWUsIGxlbmd0aCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAobnAucGkgKiByYWRpdXMqKjIgKiBsZW5ndGgpCg==</text>
+        <text encoding="base64">ICAgICAgICByZXFfdm9sdW1lID0gc2VsZi5yZXF1ZXNldGVkX3ZvbHVtZV9mcmFjdGlvbiAqCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgIm9iaiAiLCAK</text>
+        <text encoding="base64">ICAgIHJldHVybiAobnAucGkgKiByYWRpdXMqKjIgKiBsZW5ndGgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgIm9iaiAiLCAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAiMUQgc3RydWN0dXJlIGlzIGdlbmVyYXRlZCIK</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>ipdb</last-search>
+      <last-search>to_csv</last-search>
       <last-offset />
-      <last-pattern>ipdb</last-pattern>
+      <last-pattern>to_csv</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxTRUVEU19DT0xPUlRBQkxFXD4=</entry>
         <entry encoding="base64">XDxDT05UT1VSU19DT0xPUlNcPg==</entry>
         <entry>print</entry>
         <entry>show</entry>
@@ -6059,6 +6058,7 @@
         <entry encoding="base64">XDxmaWxlcGF0dGVybl9zZXJpZXNfbnVtYmVyXD4=</entry>
         <entry>generated</entry>
         <entry>ipdb</entry>
+        <entry>to_csv</entry>
       </history-search>
       <history-cmd>
         <entry>132</entry>
