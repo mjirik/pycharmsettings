@@ -770,7 +770,7 @@
         <mark key="^" line="44" column="52" />
         <mark key="." line="44" column="52" />
       </file>
-      <file name="/Dummy.txt" timestamp="1492504247516">
+      <file name="/Dummy.txt" timestamp="1492509088841">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/disco/disco/__init__.py" timestamp="1463148479573">
@@ -1793,26 +1793,18 @@
         <mark key="^" line="13" column="3" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1492503710620">
-        <mark key="a" line="447" column="12" />
-        <mark key="b" line="610" column="7" />
-        <mark key="'" line="602" column="8" />
-        <mark key="[" line="575" column="8" />
-        <mark key="]" line="574" column="7" />
+      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1492508782921">
+        <mark key="b" line="541" column="46" />
+        <mark key="v" line="541" column="46" />
+        <mark key="'" line="1114" column="42" />
+        <mark key="[" line="582" column="48" />
+        <mark key="]" line="582" column="57" />
         <mark key="n" line="280" column="15" />
-        <mark key="." line="574" column="7" />
-        <mark key="^" line="574" column="7" />
+        <mark key="." line="582" column="57" />
+        <mark key="^" line="582" column="57" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="21" filename="$USER_HOME$/projects/teigen/teigen/generators/cylinders.py" />
-      <jump line="14" column="0" filename="$USER_HOME$/projects/teigen/teigen/geometry3d.py" />
-      <jump line="10" column="0" filename="$USER_HOME$/projects/teigen/teigen/generators/cylinders.py" />
-      <jump line="22" column="6" filename="$USER_HOME$/projects/teigen/teigen/geometry3d.py" />
-      <jump line="581" column="8" filename="$USER_HOME$/projects/teigen/teigen/geometry3d.py" />
-      <jump line="182" column="0" filename="$USER_HOME$/projects/teigen/tests/geometry3_test.py" />
-      <jump line="9" column="0" filename="$USER_HOME$/projects/teigen/tests/geometry3_test.py" />
-      <jump line="224" column="99" filename="$USER_HOME$/projects/teigen/tests/geometry3_test.py" />
       <jump line="13" column="0" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="16" column="8" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="12" column="0" filename="$USER_HOME$/projects/teigen/tests/teigen_test.py" />
@@ -1905,6 +1897,14 @@
       <jump line="15" column="17" filename="$USER_HOME$/projects/teigen/teigen/generators/general.py" />
       <jump line="779" column="28" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="580" column="8" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
+      <jump line="1132" column="8" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
+      <jump line="260" column="71" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
+      <jump line="376" column="71" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
+      <jump line="676" column="71" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
+      <jump line="797" column="66" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
+      <jump line="950" column="35" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
+      <jump line="540" column="51" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
+      <jump line="1113" column="42" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5985,65 +5985,60 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>svg</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>svg</text>
       </register>
       <register name="/" type="4">
-        <text>to_csv</text>
+        <text>QPix</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIGRmbmFtZSBpbiBzZWxmLmRhdGFmcmFtZXM6Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmZpZ3VyZS5zYXZlZmlnKGZuX2Jhc2UgKyAiXyIgKyAiZ3JhcGguc3ZnIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIFB5UXQ0LlF0R3VpIGltcG9ydCBRUGl4bWFwCiAgICAgICAgcCA9IFFQaXhtYXAuZ3JhYldpZGdldCggc2VsZi5fd2dfc2hvd18zZCkKICAgICAgICBwLnNhdmUoc2VsZi50ZWlnZW4uZ2V0X2ZuX2Jhc2UoKSArICJzbmFwc2hvdCIsICdwbmcnKQo=</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIGRmbmFtZSBpbiBzZWxmLmRhdGFmcmFtZXM6Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgZGZuYW1lIGluIFsib3ZlcmFsbCIsICJkZW5zaXR5IiwgImRlc2NyaWJlIl06Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IHBhbmRhcyBhcyBwZAogICAgICAgICAgICBpZiAKICAgICAgICAgICAgcGQucmVhZF9jc3YoZmlsZW5hbWUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJhY2ViYWNrLnByaW50X2V4YygpCg==</text>
+        <text encoding="base64">ICAgICAgICBmbl9iYXNlLCBmbl9leHQgPSBzZWxmLnRlaWdlbi5maWxlcGF0dGVybl9zcGxpdCgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">ICAgICAgICBmcm9tIFB5UXQ0LlF0R3VpIGltcG9ydCBRUGl4bWFwCiAgICAgICAgcCA9IFFQaXhtYXAuZ3JhYldpZGdldCggc2VsZi5fd2dfc2hvd18zZCkKICAgICAgICBwLnNhdmUoc2VsZi50ZWlnZW4uZ2V0X2ZuX2Jhc2UoKSArICJzbmFwc2hvdCIsICdwbmcnKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgcGFuZGFzIGFzIHBkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIGRmbmFtZSBpbiBzZWxmLmRhdGFmcmFtZXM6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiByYWRpdXMgCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgZGZuYW1lIGluIFsib3ZlcmFsbCIsICJkZW5zaXR5IiwgImRlc2NyaWJlIl06Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm1haW5MYXlvdXQuYWRkV2lkZ2V0KHNlbGYuX3VpX2J0bl9zdGVwMiwgNSwgMSwgMSwgMikgIyAsIChnZF9tYXhfaSAvIDIpLCB0ZXh0X2NvbCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJhY2ViYWNrLnByaW50X2V4YygpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl93Z19idG5fc3RlcDIgPSBRUHVzaEJ1dHRvbigiU2F2ZSB0byBvbmUgZmlsZSIsIHNlbGYpCiAgICAgICAgc2VsZi5fd2dfYnRuX3N0ZXAyLnNldFRvb2xUaXAoIlNhdmUgYWxsIGRhdGEgaW4gb25lIHJvdyIpCiAgICAgICAgc2VsZi5fd2dfYnRuX3N0ZXAyLmNsaWNrZWQuY29ubmVjdChzZWxmLmJ0blJ1blN0ZXAyKQogICAgICAgIHNlbGYubWFpbkxheW91dC5hZGRXaWRnZXQoc2VsZi5fdWlfYnRuX3N0ZXAyLCA1LCAxLCAxLCAyKSAjICwgKGdkX21heF9pIC8gMiksIHRleHRfY29sKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>to_csv</last-search>
+      <last-search>QPix</last-search>
       <last-offset />
-      <last-pattern>to_csv</last-pattern>
+      <last-pattern>QPix</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxDT05UT1VSU19DT0xPUlNcPg==</entry>
-        <entry>print</entry>
-        <entry>show</entry>
-        <entry>3d</entry>
-        <entry>dataframes</entry>
         <entry encoding="base64">XDxwcmVwYXJlX3N0YXRzXD4=</entry>
         <entry>mkdir</entry>
         <entry>progress</entry>
@@ -6059,6 +6054,11 @@
         <entry>generated</entry>
         <entry>ipdb</entry>
         <entry>to_csv</entry>
+        <entry>measurement</entry>
+        <entry>resolution</entry>
+        <entry>measurement_r</entry>
+        <entry>qpix</entry>
+        <entry>QPix</entry>
       </history-search>
       <history-cmd>
         <entry>132</entry>
