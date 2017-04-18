@@ -1197,12 +1197,12 @@
         <mark key="." line="21" column="26" />
         <mark key="^" line="21" column="51" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/geometry3d.py" timestamp="1492470576155">
-        <mark key="'" line="140" column="37" />
-        <mark key="[" line="56" column="44" />
-        <mark key="]" line="58" column="40" />
-        <mark key="^" line="58" column="40" />
-        <mark key="." line="58" column="40" />
+      <file name="$USER_HOME$/projects/teigen/teigen/geometry3d.py" timestamp="1492475684792">
+        <mark key="'" line="141" column="37" />
+        <mark key="[" line="71" column="11" />
+        <mark key="]" line="71" column="21" />
+        <mark key="^" line="71" column="21" />
+        <mark key="." line="71" column="21" />
       </file>
       <file name="$USER_HOME$/projects/teigen/teigen/generators/general.py" timestamp="1491920199110">
         <mark key="a" line="54" column="7" />
@@ -1793,15 +1793,15 @@
         <mark key="^" line="13" column="3" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1492474505407">
-        <mark key="a" line="441" column="12" />
-        <mark key="b" line="588" column="7" />
-        <mark key="'" line="580" column="8" />
-        <mark key="[" line="1075" column="0" />
-        <mark key="]" line="1076" column="54" />
-        <mark key="n" line="274" column="15" />
-        <mark key="." line="1075" column="0" />
-        <mark key="^" line="1072" column="7" />
+      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1492475264974">
+        <mark key="a" line="447" column="12" />
+        <mark key="b" line="605" column="7" />
+        <mark key="'" line="597" column="8" />
+        <mark key="[" line="541" column="36" />
+        <mark key="]" line="537" column="34" />
+        <mark key="n" line="280" column="15" />
+        <mark key="." line="537" column="34" />
+        <mark key="^" line="537" column="34" />
       </file>
     </filemarks>
     <jumps>
@@ -5985,46 +5985,46 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyB0byBjc3YKICAgICAgICAgICAgZGYudG9fY3N2KGZuX2Jhc2UgKyAiXyIgKyBkZm5hbWUgKyAiLmNzdiIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBmbiA9IG9wLmRpcm5hbWUoc2VsZi50ZWlnZW4uZ2V0X2ZuX2Jhc2UoKSkKICAgICAgICAgICAgZm4gPSBvcC5kaXJuYW1lKHNlbGYudGVpZ2VuLmdldF9mbl9iYXNlKCkpCiAgICAgICAgICAgIGZuID0gZm4gKyAiX3BhcmFtZXRlcnMueWFtbCIKICAgICAgICAgICAgZmlsZW5hbWUgPSBRRmlsZURpYWxvZy5nZXRTYXZlRmlsZU5hbWUoc2VsZiwgJ1NhdmUgY29uZmlnIGZpbGUnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmbiwiQ29uZmlnIGZpbGVzICgqLnlhbWwpIikKICAgICAgICAgICAgaWYgZmlsZW5hbWUgaXMgbm90IE5vbmU6CiAgICAgICAgICAgICAgICBmaWxlbmFtZSA9IHN0cihmaWxlbmFtZSkK</text>
       </register>
       <register name="-" type="4">
-        <text>self.dataframes[dfname]</text>
+        <text>RunStep2</text>
       </register>
       <register name="/" type="4">
         <text>to_csv</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgZGZuYW1lIGluIHNlbGYuZGF0YWZyYW1lczoKICAgICAgICAgICAgZGYgPSBzZWxmLmRhdGFmcmFtZXNbZGZuYW1lXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBmbiA9IG9wLmRpcm5hbWUoc2VsZi50ZWlnZW4uZ2V0X2ZuX2Jhc2UoKSkKICAgICAgICAgICAgZm4gPSBvcC5kaXJuYW1lKHNlbGYudGVpZ2VuLmdldF9mbl9iYXNlKCkpCiAgICAgICAgICAgIGZuID0gZm4gKyAiX3BhcmFtZXRlcnMueWFtbCIKICAgICAgICAgICAgZmlsZW5hbWUgPSBRRmlsZURpYWxvZy5nZXRTYXZlRmlsZU5hbWUoc2VsZiwgJ1NhdmUgY29uZmlnIGZpbGUnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmbiwiQ29uZmlnIGZpbGVzICgqLnlhbWwpIikKICAgICAgICAgICAgaWYgZmlsZW5hbWUgaXMgbm90IE5vbmU6CiAgICAgICAgICAgICAgICBmaWxlbmFtZSA9IHN0cihmaWxlbmFtZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyB0byBjc3YKICAgICAgICAgICAgZGYudG9fY3N2KGZuX2Jhc2UgKyAiXyIgKyBkZm5hbWUgKyAiLmNzdiIpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm1haW5MYXlvdXQuYWRkV2lkZ2V0KHNlbGYuX3VpX2J0bl9zdGVwMiwgNSwgMSwgMSwgMikgIyAsIChnZF9tYXhfaSAvIDIpLCB0ZXh0X2NvbCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwYW5kYXMK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl93Z19idG5fc3RlcDIgPSBRUHVzaEJ1dHRvbigiU2F2ZSB0byBvbmUgZmlsZSIsIHNlbGYpCiAgICAgICAgc2VsZi5fd2dfYnRuX3N0ZXAyLnNldFRvb2xUaXAoIlNhdmUgYWxsIGRhdGEgaW4gb25lIHJvdyIpCiAgICAgICAgc2VsZi5fd2dfYnRuX3N0ZXAyLmNsaWNrZWQuY29ubmVjdChzZWxmLmJ0blJ1blN0ZXAyKQogICAgICAgIHNlbGYubWFpbkxheW91dC5hZGRXaWRnZXQoc2VsZi5fdWlfYnRuX3N0ZXAyLCA1LCAxLCAxLCAyKSAjICwgKGdkX21heF9pIC8gMiksIHRleHRfY29sKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl91aV9idG5fc3RlcDIgPSBRUHVzaEJ1dHRvbigiIiwgc2VsZikKICAgICAgICBzZWxmLl91aV9idG5fc3RlcDIuc2V0VG9vbFRpcCgiU2F2ZSBpbWFnZSBzbGljZXMgYW5kIG1ldGEgaW5mb3JtYXRpb24iKQogICAgICAgIHNlbGYuX3VpX2J0bl9zdGVwMi5jbGlja2VkLmNvbm5lY3Qoc2VsZi5idG5SdW5TdGVwMikKICAgICAgICBzZWxmLm1haW5MYXlvdXQuYWRkV2lkZ2V0KHNlbGYuX3VpX2J0bl9zdGVwMiwgNSwgMSwgMSwgMikgIyAsIChnZF9tYXhfaSAvIDIpLCB0ZXh0X2NvbCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnJlYWsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyB0byBjc3YKICAgICAgICAgICAgZGYudG9fY3N2KGZuX2Jhc2UgKyAiXyIgKyBkZm5hbWUgKyAiLmNzdiIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgMC45ICogbGVuZ3RoIDwgc2VsZi5sZQo=</text>
+        <text encoding="base64">ICAgICAgICBwYW5kYXMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFkaXVzID0gZzMucGlsbF9yYWRpdXNfZnJvbV92b2x1bWUoc2VsZi5hY3R1YWxfb2JqZWN0X3ZvbHVtZSAtIHNlbGYucmVxdWVzZXRlZF92b2x1bWUsIGxlbmd0aCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXFfdm9sdW1lID0gc2VsZi5yZXF1ZXNldGVkX3ZvbHVtZV9mcmFjdGlvbiAqCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnJlYWsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAobnAucGkgKiByYWRpdXMqKjIgKiBsZW5ndGgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgMC45ICogbGVuZ3RoIDwgc2VsZi5sZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgIm9iaiAiLCAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmFkaXVzID0gZzMucGlsbF9yYWRpdXNfZnJvbV92b2x1bWUoc2VsZi5hY3R1YWxfb2JqZWN0X3ZvbHVtZSAtIHNlbGYucmVxdWVzZXRlZF92b2x1bWUsIGxlbmd0aCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
