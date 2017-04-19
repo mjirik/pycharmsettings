@@ -775,7 +775,7 @@
         <mark key="^" line="44" column="52" />
         <mark key="." line="44" column="52" />
       </file>
-      <file name="/Dummy.txt" timestamp="1492614578252">
+      <file name="/Dummy.txt" timestamp="1492640158470">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/disco/disco/__init__.py" timestamp="1463148479573">
@@ -1798,27 +1798,21 @@
         <mark key="^" line="13" column="3" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1492638479752">
+      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1492639776428">
         <mark key="a" line="927" column="30" />
         <mark key="b" line="712" column="34" />
         <mark key="c" line="967" column="37" />
-        <mark key="v" line="541" column="46" />
-        <mark key="'" line="1317" column="4" />
-        <mark key="[" line="1058" column="67" />
-        <mark key="]" line="1058" column="67" />
+        <mark key="d" line="228" column="53" />
+        <mark key="'" line="963" column="20" />
         <mark key="n" line="280" column="15" />
-        <mark key="." line="1058" column="67" />
-        <mark key="^" line="1058" column="66" />
+        <mark key="." line="1011" column="51" />
+        <mark key="v" line="541" column="46" />
+        <mark key="[" line="1011" column="50" />
+        <mark key="]" line="1011" column="51" />
+        <mark key="^" line="1011" column="51" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/projects/teigen/teigen/dili.py" />
-      <jump line="79" column="67" filename="$USER_HOME$/projects/teigen/teigen/dictwidgetqt.py" />
-      <jump line="35" column="4" filename="$USER_HOME$/projects/teigen/teigen/tb_volume.py" />
-      <jump line="116" column="30" filename="$USER_HOME$/projects/teigen/teigen/tb_volume.py" />
-      <jump line="29" column="13" filename="$USER_HOME$/projects/teigen/teigen/tb_volume.py" />
-      <jump line="91" column="19" filename="$USER_HOME$/projects/lisa/lisa/virtual_resection.py" />
-      <jump line="452" column="13" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="875" column="29" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="411" column="11" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="466" column="47" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
@@ -1912,6 +1906,13 @@
       <jump line="714" column="37" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="1034" column="99" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="1317" column="4" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
+      <jump line="716" column="13" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
+      <jump line="198" column="40" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
+      <jump line="232" column="56" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
+      <jump line="965" column="18" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
+      <jump line="966" column="18" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
+      <jump line="1010" column="36" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
+      <jump line="963" column="20" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5992,37 +5993,37 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
-        <text>ipdb</text>
+        <text>noise_random</text>
       </register>
       <register name="0" type="4">
         <text>aposteriori_surface_</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInNraXBfdm9sdW1lX2dlbmVyYXRpb24iOiBGYWxzZSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbm9pc2VfcHJldmlldz1GYWxzZSwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInN1cmZhY2VfbWVhc3VyZW1lbnQiOiBGYWxzZSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgInNraXBfdm9sdW1lX2dlbmVyYXRpb24iOiBGYWxzZSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIm1lYXN1cmVtZW50X211bHRpcGx5OiAxLjAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgInN1cmZhY2VfbWVhc3VyZW1lbnQiOiBGYWxzZSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInN1cmZhY2VfbWVhc3VyZW1lbnQiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIm1lYXN1cmVtZW50X211bHRpcGx5OiAxLjAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgInN1cmZhY2VfbWVhc3VyZW1lbnQiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
@@ -6031,25 +6032,21 @@
         <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZm91dCA9IHBkLmNvbmNhdChbbm90ZV9kZiwgZGZvLCBkZmRdLCBheGlzPTEpCg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>ipdb</last-search>
+      <last-search>noise_random</last-search>
       <last-offset />
-      <last-pattern>ipdb</last-pattern>
+      <last-pattern>noise_random</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>delete</entry>
-        <entry>slice</entry>
-        <entry>anisotropic</entry>
-        <entry encoding="base64">XDxmaWxlcGF0dGVybl9zZXJpZXNfbnVtYmVyXD4=</entry>
         <entry>generated</entry>
         <entry>to_csv</entry>
         <entry>measurement</entry>
@@ -6066,6 +6063,10 @@
         <entry>numeric volume</entry>
         <entry>surface</entry>
         <entry>ipdb</entry>
+        <entry encoding="base64">XDxub2lzZV9wcmV2aWV3XD4=</entry>
+        <entry>lambda</entry>
+        <entry>exponent</entry>
+        <entry>noise_random</entry>
       </history-search>
       <history-cmd>
         <entry>132</entry>
