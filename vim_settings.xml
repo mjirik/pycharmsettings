@@ -1798,21 +1798,19 @@
         <mark key="^" line="13" column="3" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1492586892322">
-        <mark key="a" line="1139" column="39" />
+      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1492605314182">
+        <mark key="a" line="1137" column="7" />
         <mark key="b" line="541" column="46" />
         <mark key="v" line="541" column="46" />
-        <mark key="'" line="1139" column="39" />
-        <mark key="[" line="712" column="57" />
-        <mark key="]" line="712" column="57" />
+        <mark key="'" line="36" column="10" />
+        <mark key="[" line="1139" column="32" />
+        <mark key="]" line="1139" column="40" />
         <mark key="n" line="280" column="15" />
-        <mark key="." line="712" column="57" />
-        <mark key="^" line="712" column="57" />
+        <mark key="." line="1139" column="40" />
+        <mark key="^" line="1139" column="40" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="206" column="15" filename="$USER_HOME$/projects/teigen/teigen/generators/unconnected_cylinders.py" />
-      <jump line="641" column="71" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="193" column="99" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="381" column="0" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="27" column="0" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
@@ -1911,6 +1909,8 @@
       <jump line="127" column="24" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="15" column="4" filename="$USER_HOME$/projects/teigen/tests/dili_test.py" />
       <jump line="1139" column="39" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
+      <jump line="1137" column="7" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
+      <jump line="36" column="10" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
