@@ -41,7 +41,7 @@
         <mark key="." line="41" column="9" />
         <mark key="^" line="41" column="9" />
       </file>
-      <file name="/a.dummy" timestamp="1492541917928">
+      <file name="/a.dummy" timestamp="1492637447717">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/skelet3d/README.md" timestamp="1469534588434">
@@ -1798,21 +1798,20 @@
         <mark key="^" line="13" column="3" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1492636968203">
+      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1492637857817">
         <mark key="a" line="927" column="30" />
         <mark key="b" line="712" column="34" />
         <mark key="c" line="967" column="37" />
         <mark key="v" line="541" column="46" />
-        <mark key="'" line="714" column="37" />
-        <mark key="[" line="1034" column="63" />
-        <mark key="]" line="1034" column="76" />
+        <mark key="'" line="1317" column="4" />
+        <mark key="[" line="715" column="13" />
+        <mark key="]" line="715" column="33" />
         <mark key="n" line="280" column="15" />
-        <mark key="." line="1034" column="76" />
-        <mark key="^" line="1034" column="76" />
+        <mark key="." line="715" column="13" />
+        <mark key="^" line="714" column="24" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="0" filename="$USER_HOME$/projects/teigen/teigen/dili.py" />
       <jump line="1" column="0" filename="$USER_HOME$/projects/teigen/teigen/dili.py" />
       <jump line="79" column="67" filename="$USER_HOME$/projects/teigen/teigen/dictwidgetqt.py" />
       <jump line="35" column="4" filename="$USER_HOME$/projects/teigen/teigen/tb_volume.py" />
@@ -1906,12 +1905,13 @@
       <jump line="53" column="13" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="867" column="24" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="967" column="37" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
-      <jump line="1034" column="38" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="713" column="40" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="712" column="34" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="995" column="9" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="927" column="23" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="714" column="37" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
+      <jump line="1034" column="99" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
+      <jump line="1317" column="4" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5992,16 +5992,16 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>aposteriori_surface_</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>&quot;appearance&quot;</text>
       </register>
       <register name="/" type="4">
         <text>ipdb</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3VyZmFjZV9tZWFzdXJlbWVudD1GYWxzZSwKICAgICAgICAgICAgbWVhc3VyZW1lbnRfbXVsdGlwbGllcj0tMSwK</text>
+      <register name="0" type="4">
+        <text>aposteriori_surface_</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgInN1cmZhY2VfbWVhc3VyZW1lbnQiOiBGYWxzZSwK</text>
