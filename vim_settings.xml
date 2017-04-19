@@ -1798,17 +1798,17 @@
         <mark key="^" line="13" column="3" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1492637857817">
+      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1492638479752">
         <mark key="a" line="927" column="30" />
         <mark key="b" line="712" column="34" />
         <mark key="c" line="967" column="37" />
         <mark key="v" line="541" column="46" />
         <mark key="'" line="1317" column="4" />
-        <mark key="[" line="715" column="13" />
-        <mark key="]" line="715" column="33" />
+        <mark key="[" line="1058" column="67" />
+        <mark key="]" line="1058" column="67" />
         <mark key="n" line="280" column="15" />
-        <mark key="." line="715" column="13" />
-        <mark key="^" line="714" column="24" />
+        <mark key="." line="1058" column="67" />
+        <mark key="^" line="1058" column="66" />
       </file>
     </filemarks>
     <jumps>
@@ -5992,10 +5992,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>aposteriori_surface_</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;appearance&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>ipdb</text>
@@ -6004,22 +6004,22 @@
         <text>aposteriori_surface_</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInN1cmZhY2VfbWVhc3VyZW1lbnQiOiBGYWxzZSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgInNraXBfdm9sdW1lX2dlbmVyYXRpb24iOiBGYWxzZSwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIm1lYXN1cmVtZW50X211bHRpcGx5OiAxLjAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgInN1cmZhY2VfbWVhc3VyZW1lbnQiOiBGYWxzZSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInN1cmZhY2VfbWVhc3VyZW1lbnQiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIm1lYXN1cmVtZW50X211bHRpcGx5OiAxLjAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgInN1cmZhY2VfbWVhc3VyZW1lbnQiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
@@ -6028,10 +6028,10 @@
         <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZm91dCA9IHBkLmNvbmNhdChbbm90ZV9kZiwgZGZvLCBkZmRdLCBheGlzPTEpCg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZm9bIm5vdGUiXT1bbm90ZV0K</text>
+        <text encoding="base64">ICAgICAgICBkZm91dCA9IHBkLmNvbmNhdChbbm90ZV9kZiwgZGZvLCBkZmRdLCBheGlzPTEpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
