@@ -262,12 +262,12 @@
         <mark key="^" line="0" column="24" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/imtools/imtools/show_segmentation.py" timestamp="1492974561039">
+      <file name="$USER_HOME$/projects/imtools/imtools/show_segmentation.py" timestamp="1492975225921">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="28" column="4" />
-        <mark key="]" line="28" column="4" />
-        <mark key="." line="28" column="4" />
-        <mark key="^" line="84" column="42" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="1" />
+        <mark key="." line="21" column="1" />
+        <mark key="^" line="21" column="1" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/lisa_server.py" timestamp="1445344066359">
         <mark key="[" line="31" column="20" />
@@ -674,7 +674,7 @@
         <mark key="^" line="155" column="15" />
         <mark key="." line="155" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1492974644554">
+      <file name="/Dummy.txt" timestamp="1492975280911">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="27" />
       </file>
@@ -1239,11 +1239,11 @@
         <mark key="^" line="12" column="21" />
         <mark key="." line="12" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/imtools/meta.yaml" timestamp="1492974634377">
-        <mark key="[" line="55" column="15" />
-        <mark key="]" line="56" column="12" />
-        <mark key="^" line="56" column="12" />
-        <mark key="." line="56" column="12" />
+      <file name="$USER_HOME$/projects/imtools/meta.yaml" timestamp="1492975250931">
+        <mark key="[" line="42" column="9" />
+        <mark key="]" line="43" column="14" />
+        <mark key="^" line="43" column="14" />
+        <mark key="." line="43" column="14" />
       </file>
       <file name="$USER_HOME$/projects/imtools/tests/show_segmentation_test.py" timestamp="1488548145209">
         <mark key="'" line="75" column="33" />
@@ -5776,8 +5776,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaW50KCdkaWNvbTJmZW0gbm90IGZvdW5kJykKICAgIGxvZ2dlci53YXJuaW5nKCdkaWNvbTJmZW0gbm90IGZvdW5kJykKICAgIGZyb20gc2VnMm1lc2ggaW1wb3J0IGdlbl9tZXNoX2Zyb21fdm94ZWxzLCBzbW9vdGhfbWVzaAo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -5789,34 +5789,34 @@
         <text encoding="base64">ICAgIC0gJ3N1ZG8gbGRjb25maWcgLXYnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwdHMgPSB6aXAocHRzMSwgcHRzMikK</text>
+        <text encoding="base64">ICAgIHByaW50KCdkaWNvbTJmZW0gbm90IGZvdW5kJykKICAgIGxvZ2dlci53YXJuaW5nKCdkaWNvbTJmZW0gbm90IGZvdW5kJykKICAgIGZyb20gc2VnMm1lc2ggaW1wb3J0IGdlbl9tZXNoX2Zyb21fdm94ZWxzLCBzbW9vdGhfbWVzaAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ZWxlbWVudF9udW1iZXIKICAgICAgICA=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ZXhjZXB0Ogo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAoImtvbmVjIGdlbl90cmVlKCkiKQo=</text>
+        <text encoding="base64">dHJ5Ogo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBwdHMgPSB6aXAocHRzMSwgcHRzMikK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoImtvbmVjIGdlbl90cmVlKCkiKQo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">ZWxlbWVudF9udW1iZXIKICAgICAgICA=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBib29sZWFuT3BlcmF0aW9uMy5TZXRPcGVyYXRpb25Ub1VuaW9uKCkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAoImtvbmVjIGdlbl90cmVlKCkiKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBib29sZWFuT3BlcmF0aW9uMi5TZXRPcGVyYXRpb25Ub1VuaW9uKCkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBib29sZWFuT3BlcmF0aW9uMS5TZXRPcGVyYXRpb25Ub1VuaW9uKCkK</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoImtvbmVjIGdlbl90cmVlKCkiKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
+        <text encoding="base64">ICAgICAgICBib29sZWFuT3BlcmF0aW9uMy5TZXRPcGVyYXRpb25Ub1VuaW9uKCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
