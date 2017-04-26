@@ -853,7 +853,7 @@
         <mark key="^" line="148" column="13" />
         <mark key="." line="107" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1493216788139">
+      <file name="/Dummy.txt" timestamp="1493218621696">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1492628914518">
@@ -873,11 +873,11 @@
         <mark key="." line="78" column="56" />
         <mark key="^" line="78" column="56" />
       </file>
-      <file name="$USER_HOME$/projects/imtools/tests/qmisc_test.py" timestamp="1480596822303">
-        <mark key="[" line="142" column="20" />
-        <mark key="]" line="142" column="55" />
-        <mark key="^" line="142" column="55" />
-        <mark key="." line="142" column="55" />
+      <file name="$USER_HOME$/projects/imtools/tests/qmisc_test.py" timestamp="1493217797166">
+        <mark key="[" line="110" column="55" />
+        <mark key="]" line="111" column="7" />
+        <mark key="^" line="111" column="7" />
+        <mark key="." line="111" column="7" />
       </file>
       <file name="$USER_HOME$/projects/lisa/tests/datawriter_test.py" timestamp="1464974673000">
         <mark key="[" line="83" column="35" />
@@ -1095,11 +1095,11 @@
         <mark key="^" line="1082" column="37" />
         <mark key="." line="1082" column="37" />
       </file>
-      <file name="$USER_HOME$/projects/imtools/imtools/ml/gmmcl.py" timestamp="1493216550107">
+      <file name="$USER_HOME$/projects/imtools/imtools/ml/gmmcl.py" timestamp="1493218263100">
         <mark key="[" line="61" column="69" />
-        <mark key="]" line="64" column="99" />
-        <mark key="^" line="64" column="99" />
-        <mark key="." line="64" column="99" />
+        <mark key="]" line="64" column="64" />
+        <mark key="^" line="64" column="64" />
+        <mark key="." line="64" column="64" />
       </file>
       <file name="$USER_HOME$/projects/skelet3d/skelet3d/__init__.py" timestamp="1476174647500">
         <mark key="[" line="8" column="0" />
@@ -1236,7 +1236,7 @@
         <mark key="." line="116" column="0" />
         <mark key="^" line="83" column="65" />
       </file>
-      <file name="/Python Console" timestamp="1493216379106">
+      <file name="/Python Console" timestamp="1493217691679">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1493216545436">
@@ -1456,10 +1456,11 @@
         <mark key="^" line="20" column="12" />
         <mark key="." line="20" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/imtools/imtools/trainer3d.py" timestamp="1493215163930">
-        <mark key="[" line="81" column="85" />
-        <mark key="]" line="82" column="26" />
-        <mark key="." line="82" column="26" />
+      <file name="$USER_HOME$/projects/imtools/imtools/trainer3d.py" timestamp="1493218291794">
+        <mark key="'" line="18" column="9" />
+        <mark key="[" line="26" column="40" />
+        <mark key="]" line="26" column="40" />
+        <mark key="." line="26" column="40" />
         <mark key="^" line="82" column="26" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/histology_analyser.py" timestamp="1444738796915">
@@ -1764,7 +1765,7 @@
         <mark key="." line="3" column="21" />
         <mark key="^" line="3" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/imtools/tests/train_test.py" timestamp="1493216771666">
+      <file name="$USER_HOME$/projects/imtools/tests/train_test.py" timestamp="1493217974126">
         <mark key="[" line="34" column="86" />
         <mark key="]" line="33" column="23" />
         <mark key="^" line="33" column="23" />
@@ -1827,10 +1828,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="33" filename="$USER_HOME$/projects/imtools/tests/show_segmentation_test.py" />
-      <jump line="148" column="31" filename="$USER_HOME$/projects/teigen/teigen/tb_vtk.py" />
-      <jump line="257" column="41" filename="$USER_HOME$/projects/teigen/teigen/tb_vtk.py" />
-      <jump line="142" column="0" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="38" column="30" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="147" column="26" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="155" column="8" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
@@ -1927,6 +1924,10 @@
       <jump line="224" column="50" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="251" column="23" filename="$USER_HOME$/projects/bodynavigation/bodynavigation/body_navigation.py" />
       <jump line="87" column="0" filename="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" />
+      <jump line="20" column="16" filename="$USER_HOME$/projects/imtools/imtools/trainer3d.py" />
+      <jump line="121" column="12" filename="$USER_HOME$/projects/imtools/imtools/trainer3d.py" />
+      <jump line="11" column="7" filename="$USER_HOME$/projects/imtools/imtools/trainer3d.py" />
+      <jump line="18" column="9" filename="$USER_HOME$/projects/imtools/imtools/trainer3d.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -6006,17 +6007,17 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>show_a</text>
+        <text>scip</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2MgPSBzZWxmLmNsc1tsYWJlbF0uc2NvcmUoeCkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFscyhjcmluZm9fYXV0bzEsIGNyaW5mb19hdXRvMikK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
@@ -6053,17 +6054,14 @@
       </register>
     </registers>
     <search>
-      <last-search>show_a</last-search>
+      <last-search>scip</last-search>
       <last-offset />
-      <last-pattern>show_a</last-pattern>
+      <last-pattern>scip</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>polyd</entry>
-        <entry encoding="base64">XDxfX2dlbmVyYXRlX3Z0a1w+</entry>
-        <entry>tvg.gen.polyData</entry>
         <entry encoding="base64">XDxsb2dnaW5nXD4=</entry>
         <entry>rotato</entry>
         <entry>Rotating</entry>
@@ -6081,6 +6079,9 @@
         <entry>resection(</entry>
         <entry>resection</entry>
         <entry>def resection</entry>
+        <entry>specific</entry>
+        <entry>scipy</entry>
+        <entry>scip</entry>
       </history-search>
       <history-cmd>
         <entry>85</entry>
