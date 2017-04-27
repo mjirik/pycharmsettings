@@ -262,11 +262,6 @@
         <mark key="^" line="0" column="24" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/imtools/imtools/show_segmentation.py" timestamp="1493120700006">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="12" column="35" />
-      </file>
       <file name="$USER_HOME$/projects/lisa/lisa/lisa_server.py" timestamp="1445344066359">
         <mark key="[" line="31" column="20" />
         <mark key="]" line="31" column="21" />
@@ -1274,11 +1269,11 @@
         <mark key="^" line="64" column="64" />
         <mark key="." line="64" column="64" />
       </file>
-      <file name="$USER_HOME$/projects/imtools/tests/show_segmentation_test.py" timestamp="1488548145209">
-        <mark key="'" line="75" column="33" />
-        <mark key="[" line="43" column="11" />
-        <mark key="]" line="43" column="14" />
-        <mark key="." line="43" column="14" />
+      <file name="$USER_HOME$/projects/imtools/tests/show_segmentation_test.py" timestamp="1493286352957">
+        <mark key="'" line="76" column="33" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="24" />
+        <mark key="." line="44" column="0" />
         <mark key="^" line="43" column="14" />
       </file>
       <file name="$USER_HOME$/projects/discon/discon/__main__.py" timestamp="1482349779945">
@@ -5785,7 +5780,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
+        <text encoding="base64">ICAgIEBhdHRyKCdpbnRlcmFjdGl2ZScpCg==</text>
       </register>
       <register name="-" type="4">
         <text>&quot;</text>
@@ -5794,7 +5789,7 @@
         <text>dili</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X2RpdGNfZmxhdHRlbihzZWxmKToKICAgICAgICBkYXRhID0gewogICAgICAgICAgICAnYSc6MSwKICAgICAgICAgICAgJ2InOjIsCiAgICAgICAgICAgICdjJzp7CiAgICAgICAgICAgICAgICAnYWEnOjExLAogICAgICAgICAgICAgICAgJ2JiJzoyMiwKICAgICAgICAgICAgICAgICdjYyc6ewogICAgICAgICAgICAgICAgICAgICdhYWEnOjExMQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIGRjdCA9IGRpbGkuZmxhdHRlbl9kaWN0KGRhdGEpCiAgICAgICAgZGN0ID0gZGljdChkY3QpCiAgICAgICAgc2VsZi5hc3NlcnRJbigiY2NjYWFhIiwgZGN0LmtleXMoKSkK</text>
+        <text encoding="base64">ICAgIEBhdHRyKCdpbnRlcmFjdGl2ZScpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
@@ -5861,7 +5856,6 @@
         <entry>dili</entry>
       </history-search>
       <history-cmd>
-        <entry>85</entry>
         <entry>137</entry>
         <entry>105</entry>
         <entry>1055</entry>
@@ -5880,6 +5874,7 @@
         <entry>718</entry>
         <entry>1091</entry>
         <entry>50</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
