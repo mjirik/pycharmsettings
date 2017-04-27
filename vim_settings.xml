@@ -1003,6 +1003,13 @@
         <mark key="^" line="2" column="13" />
         <mark key="." line="2" column="14" />
       </file>
+      <file name="$USER_HOME$/projects/teigen/teigen/tgmain.py" timestamp="1493284006210">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="12" />
+        <mark key="^" line="31" column="12" />
+        <mark key="." line="31" column="12" />
+      </file>
       <file name="$USER_HOME$/projects/psongbook/meta.yml" timestamp="1463464886020">
         <mark key="[" line="61" column="34" />
         <mark key="]" line="61" column="37" />
@@ -1598,7 +1605,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="147" column="26" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="155" column="8" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="157" column="8" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="160" column="8" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
@@ -1698,6 +1704,7 @@
       <jump line="11" column="7" filename="$USER_HOME$/projects/imtools/imtools/trainer3d.py" />
       <jump line="18" column="9" filename="$USER_HOME$/projects/imtools/imtools/trainer3d.py" />
       <jump line="10" column="28" filename="$USER_HOME$/projects/imtools/tests/dili_test.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5784,7 +5791,7 @@
         <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnM1w+</text>
+        <text>dili</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRlZiB0ZXN0X2RpdGNfZmxhdHRlbihzZWxmKToKICAgICAgICBkYXRhID0gewogICAgICAgICAgICAnYSc6MSwKICAgICAgICAgICAgJ2InOjIsCiAgICAgICAgICAgICdjJzp7CiAgICAgICAgICAgICAgICAnYWEnOjExLAogICAgICAgICAgICAgICAgJ2JiJzoyMiwKICAgICAgICAgICAgICAgICdjYyc6ewogICAgICAgICAgICAgICAgICAgICdhYWEnOjExMQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIGRjdCA9IGRpbGkuZmxhdHRlbl9kaWN0KGRhdGEpCiAgICAgICAgZGN0ID0gZGljdChkY3QpCiAgICAgICAgc2VsZi5hc3NlcnRJbigiY2NjYWFhIiwgZGN0LmtleXMoKSkK</text>
@@ -5824,15 +5831,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnM1w+</last-search>
+      <last-search>dili</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnM1w+</last-pattern>
+      <last-pattern>dili</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfX2dlbmVyYXRlX3Z0a1w+</entry>
         <entry>tvg.gen.polyData</entry>
         <entry encoding="base64">XDxsb2dnaW5nXD4=</entry>
         <entry>rotato</entry>
@@ -5852,6 +5858,7 @@
         <entry>resection</entry>
         <entry>def resection</entry>
         <entry encoding="base64">XDxnM1w+</entry>
+        <entry>dili</entry>
       </history-search>
       <history-cmd>
         <entry>85</entry>
