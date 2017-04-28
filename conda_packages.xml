@@ -15,7 +15,7 @@
         <entry key="anaconda" value="4.3.1" />
         <entry key="anaconda-build" value="1.15.0" />
         <entry key="anaconda-clean" value="1.1.0" />
-        <entry key="anaconda-client" value="1.6.2" />
+        <entry key="anaconda-client" value="1.6.3" />
         <entry key="anaconda-navigator" value="1.5.2" />
         <entry key="anaconda-project" value="0.4.1" />
         <entry key="anaconda-verify" value="1.3.6" />
@@ -296,7 +296,7 @@
         <entry key="imaging" value="1.1.7" />
         <entry key="iminuit" value="1.1.1" />
         <entry key="impyla" value="0.13.8" />
-        <entry key="imtools" value="0.1.34" />
+        <entry key="imtools" value="0.1.41" />
         <entry key="incremental" value="16.10.1" />
         <entry key="inflection" value="0.3.1" />
         <entry key="into" value="0.2.2" />
@@ -631,7 +631,7 @@
         <entry key="python-daemon" value="2.1.2" />
         <entry key="python-dateutil" value="2.6.0" />
         <entry key="python-gdbm" value="1.1" />
-        <entry key="python-gflags" value="2.0" />
+        <entry key="python-gflags" value="3.1.1" />
         <entry key="python-graphviz" value="0.5.2" />
         <entry key="python-ldap" value="2.4.13" />
         <entry key="python-leveldb" value="0.194" />
@@ -989,7 +989,7 @@
         <entry key="smmap2" value="2.0.1" />
         <entry key="snakebite" value="2.11.0" />
         <entry key="snakeviz" value="0.4.1" />
-        <entry key="snappy" value="1.1.3" />
+        <entry key="snappy" value="1.1.4" />
         <entry key="snowballstemmer" value="1.2.1" />
         <entry key="snuggs" value="1.4.0" />
         <entry key="sockjs-tornado" value="1.0.3" />
@@ -1303,6 +1303,7 @@
               <option value="1.6.0" />
               <option value="1.6.1" />
               <option value="1.6.2" />
+              <option value="1.6.3" />
             </list>
           </value>
         </entry>
@@ -4395,6 +4396,13 @@
               <option value="0.1.32" />
               <option value="0.1.33" />
               <option value="0.1.34" />
+              <option value="0.1.38" />
+              <option value="0.1.41" />
+              <option value="0.1.40" />
+              <option value="0.1.37" />
+              <option value="0.1.35" />
+              <option value="0.1.36" />
+              <option value="0.1.39" />
             </list>
           </value>
         </entry>
@@ -7973,6 +7981,7 @@
           <value>
             <list>
               <option value="2.0" />
+              <option value="3.1.1" />
             </list>
           </value>
         </entry>
@@ -11305,6 +11314,7 @@
           <value>
             <list>
               <option value="1.1.3" />
+              <option value="1.1.4" />
             </list>
           </value>
         </entry>
@@ -12597,6 +12607,6 @@
     <option name="CONDA_CHANNELS">
       <set />
     </option>
-    <option name="LAST_TIME_CHECKED" value="1493037288775" />
+    <option name="LAST_TIME_CHECKED" value="1493380936493" />
   </component>
 </application>
