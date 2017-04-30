@@ -41,7 +41,7 @@
         <mark key="." line="41" column="9" />
         <mark key="^" line="41" column="9" />
       </file>
-      <file name="/a.dummy" timestamp="1493283475126">
+      <file name="/a.dummy" timestamp="1493548222392">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/skelet3d/README.md" timestamp="1469534588434">
@@ -1391,11 +1391,12 @@
         <mark key="^" line="1068" column="56" />
         <mark key="." line="1068" column="56" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/dictwidgetqt.py" timestamp="1493547335295">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="1" />
-        <mark key="^" line="30" column="1" />
-        <mark key="." line="30" column="1" />
+      <file name="$USER_HOME$/projects/teigen/teigen/dictwidgetqt.py" timestamp="1493548198945">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="183" column="13" />
+        <mark key="]" line="184" column="11" />
+        <mark key="^" line="184" column="11" />
+        <mark key="." line="184" column="11" />
       </file>
       <file name="$USER_HOME$/projects/skelet3d/examples/example02.py" timestamp="1465398838088">
         <mark key="'" line="17" column="9" />
@@ -1606,9 +1607,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="155" column="8" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
-      <jump line="157" column="8" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
-      <jump line="160" column="8" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="213" column="33" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="218" column="12" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="245" column="18" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
@@ -1706,6 +1704,9 @@
       <jump line="18" column="9" filename="$USER_HOME$/projects/imtools/imtools/trainer3d.py" />
       <jump line="10" column="28" filename="$USER_HOME$/projects/imtools/tests/dili_test.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
+      <jump line="90" column="0" filename="$USER_HOME$/projects/teigen/teigen/dictwidgetqt.py" />
+      <jump line="234" column="4" filename="$USER_HOME$/projects/teigen/teigen/dictwidgetqt.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/teigen/teigen/dictwidgetqt.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5785,20 +5786,20 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBhdHRyKCdpbnRlcmFjdGl2ZScpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAjICAsIGF0b21pY193aWRnZXQsIGNhcHRpb24sIGdyaWQpOg==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">ICAjICAsIGF0b21pY193aWRnZXQsIGNhcHRpb24sIGdyaWQpOg==</text>
       </register>
       <register name="/" type="4">
-        <text>dili</text>
+        <text>compl</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBhdHRyKCdpbnRlcmFjdGl2ZScpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm1haW5MYXlvdXQgPSBRR3JpZExheW91dChzZWxmKQogICAgICAgIHNlbGYud2lkZ2V0cyA9IHt9CiAgICAgICAgc2VsZi5ncmlkX2kgPSAwCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -5807,42 +5808,39 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHRlaWdlbi5nZW9tZXRyeTNkIGFzIGczCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjIGF0b21pY193aWRnZXQuc2hvdygpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2MgPSBzZWxmLmNsc1tsYWJlbF0uc2NvcmUoeCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjIGRjID0gZGljdCh6aXAocmFuZ2UobGVuKHZsKSksIGxpc3QodmwuYXN0eXBlKHN0cikpKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjIGF0b21pY193aWRnZXQgPSBEaWN0V2lkZ2V0KGNvbmZpZ19pbj1kYywgc2hvd19jYXB0aW9ucz1GYWxzZSwgaG9yaXpvbnRhbD1UcnVlLCBjb25maWdfbWFuYWdlcj1zZWxmLmNvbmZpZykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBpbXRvb2xzLnRyZWVfcHJvY2Vzc2luZyBpbXBvcnQgVHJlZUdlbmVyYXRvcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBmcm9tIGltdG9vbHMgaW1wb3J0IG1pc2MK</text>
+        <text encoding="base64">ICAgICAgICBncmlkID0gc2VsZi5tYWluTGF5b3V0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBmcm9tIGltdG9vbHMgaW1wb3J0IHFtaXNjCg==</text>
+        <text encoding="base64">ICAgIGRlZiBjb21wbGljYXRlZF90b195YW1sKGNmZyk6CiAgICAgICAgcGFzcwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>dili</last-search>
+      <last-search>compl</last-search>
       <last-offset />
-      <last-pattern>dili</last-pattern>
+      <last-pattern>compl</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>tvg.gen.polyData</entry>
-        <entry encoding="base64">XDxsb2dnaW5nXD4=</entry>
-        <entry>rotato</entry>
         <entry>Rotating</entry>
         <entry encoding="base64">XDxTRUVEU19DT0xPUlRBQkxFXD4=</entry>
         <entry encoding="base64">XDxDT05UT1VSU19DT0xPUlNcPg==</entry>
@@ -5860,6 +5858,9 @@
         <entry>def resection</entry>
         <entry encoding="base64">XDxnM1w+</entry>
         <entry>dili</entry>
+        <entry encoding="base64">XDxjb21wbGljYXRlZF90b195YW1sXD4=</entry>
+        <entry>complicated</entry>
+        <entry>compl</entry>
       </history-search>
       <history-cmd>
         <entry>137</entry>
