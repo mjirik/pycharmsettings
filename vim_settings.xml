@@ -256,11 +256,12 @@
         <mark key="." line="62" column="12" />
         <mark key="^" line="62" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/metalisa/requirements_conda.txt" timestamp="1493628205389">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="0" column="0" />
+      <file name="$USER_HOME$/projects/metalisa/requirements_conda.txt" timestamp="1493629715262">
+        <mark key="'" line="0" column="2" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
         <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/projects/disco/discon/__init__.py" timestamp="1463404075948">
         <mark key="[" line="0" column="0" />
@@ -1618,9 +1619,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="143" column="32" filename="$USER_HOME$/projects/teigen/teigen/geometry3d.py" />
-      <jump line="17" column="9" filename="$USER_HOME$/projects/teigen/teigen/geometry3d.py" />
-      <jump line="69" column="37" filename="$USER_HOME$/projects/teigen/teigen/geometry3d.py" />
       <jump line="124" column="4" filename="$USER_HOME$/projects/teigen/teigen/tb_vtk.py" />
       <jump line="243" column="17" filename="$USER_HOME$/projects/lisa/lisa/virtual_resection.py" />
       <jump line="298" column="19" filename="$USER_HOME$/projects/lisa/lisa/virtual_resection.py" />
@@ -1718,6 +1716,9 @@
       <jump line="260" column="0" filename="$USER_HOME$/projects/teigen/teigen/generators/cylinders.py" />
       <jump line="395" column="0" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="102" column="36" filename="$USER_HOME$/projects/metalisa/installer.sh" />
+      <jump line="25" column="5" filename="$USER_HOME$/projects/metalisa/requirements_conda.txt" />
+      <jump line="38" column="2" filename="$USER_HOME$/projects/metalisa/requirements_conda.txt" />
+      <jump line="0" column="2" filename="$USER_HOME$/projects/metalisa/requirements_conda.txt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5797,63 +5798,61 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>requirements_conda.txt</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyBweXdnZXQ9Mi4yCiMgb3BlbmN2Pj0yLjQuMAo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>compl</text>
+        <text>skelet</text>
       </register>
       <register name="0" type="4">
         <text>requirements_conda.txt</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBweXdnZXQ9Mi4yCiMgb3BlbmN2Pj0yLjQuMAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyAtYyBsdWlzcGVkcm8gYnV0IG9ubHkgZm9yIGxpbnV4LTY0CiMgbWFob3Rhcwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YmFzaCBpbnN0YWxsX25vc3Vkby5zaAo=</text>
+        <text encoding="base64">IyBweWdjbz09MC4wLjUKIyBqb2JsaWI+PTAuOC40CiMgbW9ycGhzbmFrZXMKIyBza2VsZXQzZAojIHNmdHBzeW5jPj0xLjAuMgojIGdlb2Rlc2ljIGRpc3RhbmNlIHRyYW5zZm9ybSAtYyBqbWFyZ2V0YSAtYyBqYWtpcmtoYW0KIyBvbiBvc3ggaW5zdGFsbCB3aXRoIHBpcAojIHNjaWtpdC1mbW0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBlbGlmIFtbICIkT1NUWVBFIiA9PSAiZGFyd2luIiogXV07IHRoZW4KICAgICAgICAjIE1hYyBPU1gKIyBlbGlmIFtbICIkT1NUWVBFIiA9PSAiY3lnd2luIiBdXTsgdGhlbgogICAgICAgICMgUE9TSVggY29tcGF0aWJpbGl0eSBsYXllciBhbmQgTGludXggZW52aXJvbm1lbnQgZW11bGF0aW9uIGZvciBXaW5kb3dzCiMgZWxpZiBbWyAiJE9TVFlQRSIgPT0gIm1zeXMiIF1dOyB0aGVuCiAgICAgICAgIyBMaWdodHdlaWdodCBzaGVsbCBhbmQgR05VIHV0aWxpdGllcyBjb21waWxlZCBmb3IgV2luZG93cyAocGFydCBvZiBNaW5HVykKIyBlbGlmIFtbICIkT1NUWVBFIiA9PSAid2luMzIiIF1dOyB0aGVuCiAgICAgICAgIyBJJ20gbm90IHN1cmUgdGhpcyBjYW4gaGFwcGVuLgojIGVsaWYgW1sgIiRPU1RZUEUiID09ICJmcmVlYnNkIiogXV07IHRoZW4KICAgICAgICAjIC4uLgojIGVsc2UKICAgICAgICAjIFVua25vd24uCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBlY2hvICIkQVJHMSIKIyBpZiBbICIkQVJHMSIgPSAiIiBdIDsgdGhlbgojICAgICBlY2hvICJhc2RmYSIKIyAgICAgIyBzdGFibGUgdmVyc2lvbgojIGVsaWYgWyAiJEFSRzEiID0gImRldmVsIiBdIDsgdGhlbgojICAgICBlY2hvICJDbG9uaW5nIHVuc3RhYmxlIGJyYW5jaCB1c2luZyBzc2giCiMgICAgICAgICAjIGlmIHRoZXJlIGlzIGFuIGFueSBhcmd1bWVudCwgaW5zdGFsbCBhcyBkZXZlbG9wZXIKIyAgICAgICAgICMgYXB0LWdldCBpbnN0YWxsIC15IHNzaHBhc3MgdmlydHVhbGJveAojIGVsc2UKIyAgICAgZWNobyAiQ2xvbmluZyB1bnN0YWJsZSBicmFuY2ggdXNpbmcgaHR0cCIKIyBmaQojIGV4aXQKCgojIGFwdC1nZXQgdXBkYXRlCiMgYXB0LWdldCB1cGdyYWRlIC15Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y2QgCmNkIHByb2plY3RzCmNkIHNrZWxldDNkCmNkIGJ1aWxkIApzdWRvIG1ha2UgaW5zdGFsbAojIHN1ZG8gLXUgJFVTRVIgc2ggLWMgImNkIH4vcHJvamVjdHMvc2tlbGV0M2QvYnVpbGQgJiYgY21ha2UgLi4gJiYgbWFrZSIKIyBzdWRvIC11ICRVU0VSIG1rZGlyIGJ1aWxkCiMgc3VkbyAtdSAkVVNFUiBjZCBidWlsZAoKIyBDbG9uZSBMaXNhLCBtYWtlIGljb25zCmNkCmNkIHByb2plY3RzCmlmIFsgIiRBUkcxIiA9ICJzdGFibGUiIF0gOyB0aGVuCiAgICBlY2hvICJTdGFibGUgdmVzcmlvbiBkb2VzIG5vdCByZXF1cmUgY2xvbmluZyBhbnkgbW9yZSIKICAgICMgc3RhYmxlIHZlcnNpb24KICAgICMgdGhlcmUgaXMgbm8gY2xvbmluZyBmb3Igc3RhYmxlIHZlcnNpb24gbm93CiAgICAjIGdpdCBjbG9uZSAtLXJlY3Vyc2l2ZSAtYiBzdGFibGUgaHR0cHM6Ly9naXRodWIuY29tL21qaXJpay9saXNhLmdpdAplbGlmIFsgIiRBUkcxIiA9ICJkZXZlbCIgXSA7IHRoZW4KICAgIGVjaG8gIkNsb25pbmcgdW5zdGFibGUgYnJhbmNoIHVzaW5nIHNzaCIKICAgICMgaWYgdGhlcmUgaXMgYW4gYW55IGFyZ3VtZW50LCBpbnN0YWxsIGFzIGRldmVsb3BlcgogICAgIyBhcHQtZ2V0IGluc3RhbGwgLXkgc3NocGFzcyB2aXJ0dWFsYm94CiAgICBnaXQgY2xvbmUgLS1yZWN1cnNpdmUgZ2l0QGdpdGh1Yi5jb206bWppcmlrL2xpc2EuZ2l0CmVsaWYgWyAiJEFSRzEiID0gIm5vY2xvbmUiIF0gOyB0aGVuCiAgICBlY2hvICJKdXN0IHJlcXVpcmVtZW50cywgbm8gZ2l0IGNsb25lIgoKZWxzZQogICAgZWNobyAiQ2xvbmluZyB1bnN0YWJsZSBicmFuY2ggdXNpbmcgaHR0cCIKICAgIGVjaG8gIlN0YWJsZSB2ZXNyaW9uIGRvZXMgbm90IHJlcXVyZSBjbG9uaW5nIGFueSBtb3JlIgojICAgIGdpdCBjbG9uZSAtLXJlY3Vyc2l2ZSBodHRwczovL2dpdGh1Yi5jb20vbWppcmlrL2xpc2EuZ2l0CgpmaQpsaXNhIC0tbWFrZV9pY29uCiNpZiBbICIkQVJHMSIgPSAibm9jbG9uZSIgXSA7IHRoZW4KIyAgICBlY2hvICJKdXN0IHJlcXVpcmVtZW50cyIKI2Vsc2UKIyAgICBjZCBsaXNhCiMgICAgcHl0aG9uIG15c2V0dXAucHkgLWQKIyAgICBweXRob24gbXlzZXR1cC5weSAtaWNuCiMKIyAgICBjZCAkSE9NRURJUgojZmkKIyBweXRob24gc3JjL3VwZGF0ZV9zdGFibGUucHkKIyBweXRob24gbGlzYS5weSAkQAoK</text>
+        <text encoding="base64">YmFzaCBpbnN0YWxsX25vc3Vkby5zaAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBlbGlmIFtbICIkT1NUWVBFIiA9PSAiZGFyd2luIiogXV07IHRoZW4KICAgICAgICAjIE1hYyBPU1gKIyBlbGlmIFtbICIkT1NUWVBFIiA9PSAiY3lnd2luIiBdXTsgdGhlbgogICAgICAgICMgUE9TSVggY29tcGF0aWJpbGl0eSBsYXllciBhbmQgTGludXggZW52aXJvbm1lbnQgZW11bGF0aW9uIGZvciBXaW5kb3dzCiMgZWxpZiBbWyAiJE9TVFlQRSIgPT0gIm1zeXMiIF1dOyB0aGVuCiAgICAgICAgIyBMaWdodHdlaWdodCBzaGVsbCBhbmQgR05VIHV0aWxpdGllcyBjb21waWxlZCBmb3IgV2luZG93cyAocGFydCBvZiBNaW5HVykKIyBlbGlmIFtbICIkT1NUWVBFIiA9PSAid2luMzIiIF1dOyB0aGVuCiAgICAgICAgIyBJJ20gbm90IHN1cmUgdGhpcyBjYW4gaGFwcGVuLgojIGVsaWYgW1sgIiRPU1RZUEUiID09ICJmcmVlYnNkIiogXV07IHRoZW4KICAgICAgICAjIC4uLgojIGVsc2UKICAgICAgICAjIFVua25vd24uCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGVmIHBvbGFyMmNhcnQzZChzcGhlcmljYWwpOgogICAgcGFzcwoKCg==</text>
+        <text encoding="base64">IyBlY2hvICIkQVJHMSIKIyBpZiBbICIkQVJHMSIgPSAiIiBdIDsgdGhlbgojICAgICBlY2hvICJhc2RmYSIKIyAgICAgIyBzdGFibGUgdmVyc2lvbgojIGVsaWYgWyAiJEFSRzEiID0gImRldmVsIiBdIDsgdGhlbgojICAgICBlY2hvICJDbG9uaW5nIHVuc3RhYmxlIGJyYW5jaCB1c2luZyBzc2giCiMgICAgICAgICAjIGlmIHRoZXJlIGlzIGFuIGFueSBhcmd1bWVudCwgaW5zdGFsbCBhcyBkZXZlbG9wZXIKIyAgICAgICAgICMgYXB0LWdldCBpbnN0YWxsIC15IHNzaHBhc3MgdmlydHVhbGJveAojIGVsc2UKIyAgICAgZWNobyAiQ2xvbmluZyB1bnN0YWJsZSBicmFuY2ggdXNpbmcgaHR0cCIKIyBmaQojIGV4aXQKCgojIGFwdC1nZXQgdXBkYXRlCiMgYXB0LWdldCB1cGdyYWRlIC15Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2QgCmNkIHByb2plY3RzCmNkIHNrZWxldDNkCmNkIGJ1aWxkIApzdWRvIG1ha2UgaW5zdGFsbAojIHN1ZG8gLXUgJFVTRVIgc2ggLWMgImNkIH4vcHJvamVjdHMvc2tlbGV0M2QvYnVpbGQgJiYgY21ha2UgLi4gJiYgbWFrZSIKIyBzdWRvIC11ICRVU0VSIG1rZGlyIGJ1aWxkCiMgc3VkbyAtdSAkVVNFUiBjZCBidWlsZAoKIyBDbG9uZSBMaXNhLCBtYWtlIGljb25zCmNkCmNkIHByb2plY3RzCmlmIFsgIiRBUkcxIiA9ICJzdGFibGUiIF0gOyB0aGVuCiAgICBlY2hvICJTdGFibGUgdmVzcmlvbiBkb2VzIG5vdCByZXF1cmUgY2xvbmluZyBhbnkgbW9yZSIKICAgICMgc3RhYmxlIHZlcnNpb24KICAgICMgdGhlcmUgaXMgbm8gY2xvbmluZyBmb3Igc3RhYmxlIHZlcnNpb24gbm93CiAgICAjIGdpdCBjbG9uZSAtLXJlY3Vyc2l2ZSAtYiBzdGFibGUgaHR0cHM6Ly9naXRodWIuY29tL21qaXJpay9saXNhLmdpdAplbGlmIFsgIiRBUkcxIiA9ICJkZXZlbCIgXSA7IHRoZW4KICAgIGVjaG8gIkNsb25pbmcgdW5zdGFibGUgYnJhbmNoIHVzaW5nIHNzaCIKICAgICMgaWYgdGhlcmUgaXMgYW4gYW55IGFyZ3VtZW50LCBpbnN0YWxsIGFzIGRldmVsb3BlcgogICAgIyBhcHQtZ2V0IGluc3RhbGwgLXkgc3NocGFzcyB2aXJ0dWFsYm94CiAgICBnaXQgY2xvbmUgLS1yZWN1cnNpdmUgZ2l0QGdpdGh1Yi5jb206bWppcmlrL2xpc2EuZ2l0CmVsaWYgWyAiJEFSRzEiID0gIm5vY2xvbmUiIF0gOyB0aGVuCiAgICBlY2hvICJKdXN0IHJlcXVpcmVtZW50cywgbm8gZ2l0IGNsb25lIgoKZWxzZQogICAgZWNobyAiQ2xvbmluZyB1bnN0YWJsZSBicmFuY2ggdXNpbmcgaHR0cCIKICAgIGVjaG8gIlN0YWJsZSB2ZXNyaW9uIGRvZXMgbm90IHJlcXVyZSBjbG9uaW5nIGFueSBtb3JlIgojICAgIGdpdCBjbG9uZSAtLXJlY3Vyc2l2ZSBodHRwczovL2dpdGh1Yi5jb20vbWppcmlrL2xpc2EuZ2l0CgpmaQpsaXNhIC0tbWFrZV9pY29uCiNpZiBbICIkQVJHMSIgPSAibm9jbG9uZSIgXSA7IHRoZW4KIyAgICBlY2hvICJKdXN0IHJlcXVpcmVtZW50cyIKI2Vsc2UKIyAgICBjZCBsaXNhCiMgICAgcHl0aG9uIG15c2V0dXAucHkgLWQKIyAgICBweXRob24gbXlzZXR1cC5weSAtaWNuCiMKIyAgICBjZCAkSE9NRURJUgojZmkKIyBweXRob24gc3JjL3VwZGF0ZV9zdGFibGUucHkKIyBweXRob24gbGlzYS5weSAkQAoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>compl</last-search>
+      <last-search>skelet</last-search>
       <last-offset />
-      <last-pattern>compl</last-pattern>
+      <last-pattern>skelet</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Rotating</entry>
-        <entry encoding="base64">XDxTRUVEU19DT0xPUlRBQkxFXD4=</entry>
         <entry encoding="base64">XDxDT05UT1VSU19DT0xPUlNcPg==</entry>
         <entry>print</entry>
         <entry>show</entry>
@@ -5872,6 +5871,8 @@
         <entry encoding="base64">XDxjb21wbGljYXRlZF90b195YW1sXD4=</entry>
         <entry>complicated</entry>
         <entry>compl</entry>
+        <entry>skel</entry>
+        <entry>skelet</entry>
       </history-search>
       <history-cmd>
         <entry>137</entry>
