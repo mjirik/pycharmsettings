@@ -191,11 +191,12 @@
         <mark key="^" line="229" column="16" />
         <mark key="." line="229" column="16" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/.travis.yml" timestamp="1493648631917">
-        <mark key="[" line="39" column="6" />
-        <mark key="]" line="39" column="10" />
-        <mark key="^" line="39" column="10" />
-        <mark key="." line="39" column="10" />
+      <file name="$USER_HOME$/projects/lisa/.travis.yml" timestamp="1493649370876">
+        <mark key="'" line="50" column="13" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="1" />
+        <mark key="^" line="23" column="1" />
+        <mark key="." line="23" column="1" />
       </file>
       <file name="$USER_HOME$/projects/teigen/tests/tube_tree_widgets_test.py" timestamp="1492889411770">
         <mark key="[" line="113" column="0" />
@@ -685,7 +686,7 @@
         <mark key="^" line="155" column="15" />
         <mark key="." line="155" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1493648674735">
+      <file name="/Dummy.txt" timestamp="1493649384932">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/disco/disco/__init__.py" timestamp="1463148479573">
@@ -1651,13 +1652,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="747" column="21" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
-      <jump line="442" column="18" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
-      <jump line="610" column="8" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
-      <jump line="629" column="8" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
-      <jump line="737" column="58" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
-      <jump line="317" column="12" filename="$USER_HOME$/projects/lisa/lisa/virtual_resection.py" />
-      <jump line="337" column="19" filename="$USER_HOME$/projects/lisa/lisa/virtual_resection.py" />
       <jump line="417" column="12" filename="$USER_HOME$/projects/lisa/lisa/virtual_resection.py" />
       <jump line="471" column="18" filename="$USER_HOME$/projects/lisa/lisa/virtual_resection.py" />
       <jump line="475" column="0" filename="$USER_HOME$/projects/lisa/lisa/virtual_resection.py" />
@@ -1751,6 +1745,13 @@
       <jump line="878" column="41" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="340" column="43" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="607" column="38" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="18" column="64" filename="$USER_HOME$/projects/lisa/.travis.yml" />
+      <jump line="19" column="12" filename="$USER_HOME$/projects/lisa/.travis.yml" />
+      <jump line="10" column="11" filename="$USER_HOME$/projects/lisa/.travis.yml" />
+      <jump line="11" column="11" filename="$USER_HOME$/projects/lisa/.travis.yml" />
+      <jump line="12" column="13" filename="$USER_HOME$/projects/lisa/.travis.yml" />
+      <jump line="13" column="11" filename="$USER_HOME$/projects/lisa/.travis.yml" />
+      <jump line="50" column="13" filename="$USER_HOME$/projects/lisa/.travis.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5837,7 +5838,7 @@
         <text encoding="base64">dXNlIA==</text>
       </register>
       <register name="/" type="4">
-        <text>cache</text>
+        <text>apt-get</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZGlyZWN0b3J5ID0gc2VsZi5vc2VnLmNhY2hlLmdldCgnbG9hZGZpbGVkaXInKQo=</text>
@@ -5877,16 +5878,14 @@
       </register>
     </registers>
     <search>
-      <last-search>cache</last-search>
+      <last-search>apt-get</last-search>
       <last-offset />
-      <last-pattern>cache</last-pattern>
+      <last-pattern>apt-get</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>3d</entry>
-        <entry>dataframes</entry>
         <entry encoding="base64">XDxwcmVwYXJlX3N0YXRzXD4=</entry>
         <entry>mkdir</entry>
         <entry>progress</entry>
@@ -5905,6 +5904,8 @@
         <entry encoding="base64">XDxNZXNoSU9cPg==</entry>
         <entry>write</entry>
         <entry>cache</entry>
+        <entry>update</entry>
+        <entry>apt-get</entry>
       </history-search>
       <history-cmd>
         <entry>137</entry>
