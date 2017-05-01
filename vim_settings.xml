@@ -673,7 +673,7 @@
         <mark key="^" line="155" column="15" />
         <mark key="." line="155" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1493629413840">
+      <file name="/Dummy.txt" timestamp="1493629513218">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/disco/disco/__init__.py" timestamp="1463148479573">
@@ -1469,11 +1469,11 @@
         <mark key="." line="160" column="32" />
         <mark key="^" line="160" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/metalisa/installer.sh" timestamp="1493629409889">
-        <mark key="[" line="100" column="87" />
-        <mark key="]" line="100" column="86" />
-        <mark key="." line="100" column="86" />
-        <mark key="^" line="100" column="86" />
+      <file name="$USER_HOME$/projects/metalisa/installer.sh" timestamp="1493629499954">
+        <mark key="[" line="102" column="15" />
+        <mark key="]" line="102" column="36" />
+        <mark key="." line="102" column="36" />
+        <mark key="^" line="102" column="36" />
       </file>
       <file name="$USER_HOME$/projects/dicom2fem/dicom2fem/__init__.py" timestamp="1484594064491">
         <mark key="[" line="3" column="22" />
@@ -1618,7 +1618,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="245" column="18" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="143" column="32" filename="$USER_HOME$/projects/teigen/teigen/geometry3d.py" />
       <jump line="17" column="9" filename="$USER_HOME$/projects/teigen/teigen/geometry3d.py" />
       <jump line="69" column="37" filename="$USER_HOME$/projects/teigen/teigen/geometry3d.py" />
@@ -1718,6 +1717,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/teigen/teigen/dictwidgetqt.py" />
       <jump line="260" column="0" filename="$USER_HOME$/projects/teigen/teigen/generators/cylinders.py" />
       <jump line="395" column="0" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
+      <jump line="102" column="36" filename="$USER_HOME$/projects/metalisa/installer.sh" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5840,7 +5840,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -5892,8 +5892,8 @@
         <entry>718</entry>
         <entry>1091</entry>
         <entry>50</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
