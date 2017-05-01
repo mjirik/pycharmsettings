@@ -755,6 +755,9 @@
         <mark key="^" line="1" column="1" />
         <mark key="." line="1" column="1" />
       </file>
+      <file name="$USER_HOME$/miniconda/lib/python2.7/site-packages/lisa/virtual_resection.py" timestamp="1493669192243">
+        <mark key="'" line="349" column="4" />
+      </file>
       <file name="$USER_HOME$/projects/lisa/lisa/volumetry_evaluation.py" timestamp="1465109384512">
         <mark key="[" line="667" column="73" />
         <mark key="]" line="667" column="84" />
@@ -1652,9 +1655,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="417" column="12" filename="$USER_HOME$/projects/lisa/lisa/virtual_resection.py" />
-      <jump line="471" column="18" filename="$USER_HOME$/projects/lisa/lisa/virtual_resection.py" />
-      <jump line="475" column="0" filename="$USER_HOME$/projects/lisa/lisa/virtual_resection.py" />
       <jump line="246" column="34" filename="$USER_HOME$/projects/lisa/lisa/virtual_resection.py" />
       <jump line="163" column="34" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="309" column="27" filename="$USER_HOME$/projects/teigen/teigen/generators/cylinders.py" />
@@ -1752,6 +1752,9 @@
       <jump line="12" column="13" filename="$USER_HOME$/projects/lisa/.travis.yml" />
       <jump line="13" column="11" filename="$USER_HOME$/projects/lisa/.travis.yml" />
       <jump line="50" column="13" filename="$USER_HOME$/projects/lisa/.travis.yml" />
+      <jump line="57" column="0" filename="$USER_HOME$/miniconda/lib/python2.7/site-packages/lisa/virtual_resection.py" />
+      <jump line="448" column="8" filename="$USER_HOME$/miniconda/lib/python2.7/site-packages/lisa/virtual_resection.py" />
+      <jump line="349" column="4" filename="$USER_HOME$/miniconda/lib/python2.7/site-packages/lisa/virtual_resection.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5838,7 +5841,7 @@
         <text>#</text>
       </register>
       <register name="/" type="4">
-        <text>apt-get</text>
+        <text encoding="base64">XDxyZXNlY3Rpb25fbmV3XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aXBkYj49MC44LjEK</text>
@@ -5878,17 +5881,14 @@
       </register>
     </registers>
     <search>
-      <last-search>apt-get</last-search>
+      <last-search encoding="base64">XDxyZXNlY3Rpb25fbmV3XD4=</last-search>
       <last-offset />
-      <last-pattern>apt-get</last-pattern>
+      <last-pattern encoding="base64">XDxyZXNlY3Rpb25fbmV3XD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwcmVwYXJlX3N0YXRzXD4=</entry>
-        <entry>mkdir</entry>
-        <entry>progress</entry>
         <entry>expand</entry>
         <entry>generate_volume</entry>
         <entry>resection(</entry>
@@ -5906,6 +5906,9 @@
         <entry>cache</entry>
         <entry>update</entry>
         <entry>apt-get</entry>
+        <entry>kwargs</entry>
+        <entry>kw</entry>
+        <entry encoding="base64">XDxyZXNlY3Rpb25fbmV3XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>137</entry>
