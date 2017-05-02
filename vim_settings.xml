@@ -101,11 +101,11 @@
         <mark key="." line="476" column="50" />
         <mark key="^" line="476" column="50" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/virtual_resection.py" timestamp="1493717120675">
-        <mark key="[" line="311" column="80" />
-        <mark key="]" line="311" column="90" />
-        <mark key="." line="311" column="90" />
-        <mark key="^" line="311" column="90" />
+      <file name="$USER_HOME$/projects/lisa/lisa/virtual_resection.py" timestamp="1493719275148">
+        <mark key="[" line="311" column="81" />
+        <mark key="]" line="311" column="98" />
+        <mark key="." line="311" column="98" />
+        <mark key="^" line="311" column="98" />
       </file>
       <file name="$USER_HOME$/projects/teigen/tests/teigen_test.py" timestamp="1492757177669">
         <mark key="'" line="14" column="0" />
@@ -384,11 +384,11 @@
         <mark key="^" line="47" column="11" />
         <mark key="." line="47" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/tests/resection_test.py" timestamp="1493710025958">
-        <mark key="[" line="71" column="65" />
-        <mark key="]" line="71" column="47" />
+      <file name="$USER_HOME$/projects/lisa/tests/resection_test.py" timestamp="1493719605533">
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="80" column="17" />
         <mark key="^" line="71" column="47" />
-        <mark key="." line="71" column="47" />
+        <mark key="." line="78" column="0" />
       </file>
       <file name="$USER_HOME$/projects/imtools/imtools/tree_processing.py" timestamp="1465564483912">
         <mark key="'" line="220" column="4" />
@@ -980,7 +980,7 @@
         <mark key="." line="60" column="25" />
         <mark key="^" line="60" column="25" />
       </file>
-      <file name="/Python Console" timestamp="1493717153805">
+      <file name="/Python Console" timestamp="1493719159163">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/events2calendar/tests/e2c_test.py" timestamp="1477320243915">
@@ -995,7 +995,7 @@
         <mark key="^" line="4" column="5" />
         <mark key="." line="4" column="5" />
       </file>
-      <file name="/fragment.py" timestamp="1493714525583">
+      <file name="/fragment.py" timestamp="1493719174608">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/skelet3d/bld.bat" timestamp="1446806979486">
@@ -5853,11 +5853,11 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>(len(segmentation), len(segmentation[0]), len(segmentation[0]))</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgc2VkMwogICAgICAgIGVkID0gc2VkMy5zZWQzKGRhdGFwWydzZWdtZW50YXRpb24nXSkKICAgICAgICBlZC5zaG93KCkK</text>
       </register>
       <register name="-" type="4">
-        <text>(len(segmentation), len(segmentation[0]), len(segmentation[0]))</text>
+        <text>orig_shape</text>
       </register>
       <register name="/" type="4">
         <text>Vers</text>
@@ -5865,8 +5865,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjcl9jb20gPSBucC5hc2FycmF5KGNyaW5mb19jb21iaW5lZCkKICAgICAgICBpZiBucC5hbGwoKGNyX2NvbVs6LCAxXSAtIGNyX2NvbVs6LCAwXSkgPiAxKToK</text>
       </register>
-      <register name="1" type="8">
-        <text encoding="base64">LCAKLCAKLCA=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgc2VkMwogICAgICAgIGVkID0gc2VkMy5zZWQzKGRhdGFwWydzZWdtZW50YXRpb24nXSkKICAgICAgICBlZC5zaG93KCkK</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -5874,26 +5874,26 @@
       <register name="2" type="8">
         <text encoding="base64">LCAKLCAKLCA=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB1dSA9IG5wLnJhbmRvbS5yYW5kaW50KGNyaW5mb19jb21iaW5lZFswLCAwXSwgY3JpbmZvX2NvbWJpbmVkWzAsIDFdKSwK</text>
+      <register name="3" type="8">
+        <text encoding="base64">LCAKLCAKLCA=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbnAucmFuZG9tLnJhbmRpbnQoc2hhcGVbMl0pCg==</text>
+        <text encoding="base64">ICAgICAgICB1dSA9IG5wLnJhbmRvbS5yYW5kaW50KGNyaW5mb19jb21iaW5lZFswLCAwXSwgY3JpbmZvX2NvbWJpbmVkWzAsIDFdKSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbnAucmFuZG9tLnJhbmRpbnQoMCwgc2hhcGVbMV0pLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbnAucmFuZG9tLnJhbmRpbnQoc2hhcGVbMl0pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbnAucmFuZG9tLnJhbmRpbnQoY3JpbmZvX2NvbWJpbmVkWzAsMF0sIGNyaW5mb19jb21iaW5lZFswLDFdKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbnAucmFuZG9tLnJhbmRpbnQoMCwgc2hhcGVbMV0pLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFscyhpbWdfaW4uc2hhcGUsIGltZ191bmNyb3BwZWQuc2hhcGUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbnAucmFuZG9tLnJhbmRpbnQoY3JpbmZvX2NvbWJpbmVkWzAsMF0sIGNyaW5mb19jb21iaW5lZFswLDFdKSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzb25kYSA9IAo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFscyhpbWdfaW4uc2hhcGUsIGltZ191bmNyb3BwZWQuc2hhcGUpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBzb25kYSA9IAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
