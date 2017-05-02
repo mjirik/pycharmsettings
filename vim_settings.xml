@@ -101,11 +101,11 @@
         <mark key="." line="476" column="50" />
         <mark key="^" line="476" column="50" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/virtual_resection.py" timestamp="1493715399353">
-        <mark key="[" line="277" column="27" />
-        <mark key="]" line="277" column="31" />
-        <mark key="." line="277" column="31" />
-        <mark key="^" line="277" column="31" />
+      <file name="$USER_HOME$/projects/lisa/lisa/virtual_resection.py" timestamp="1493717120675">
+        <mark key="[" line="311" column="80" />
+        <mark key="]" line="311" column="90" />
+        <mark key="." line="311" column="90" />
+        <mark key="^" line="311" column="90" />
       </file>
       <file name="$USER_HOME$/projects/teigen/tests/teigen_test.py" timestamp="1492757177669">
         <mark key="'" line="14" column="0" />
@@ -980,7 +980,7 @@
         <mark key="." line="60" column="25" />
         <mark key="^" line="60" column="25" />
       </file>
-      <file name="/Python Console" timestamp="1493715326226">
+      <file name="/Python Console" timestamp="1493717153805">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/events2calendar/tests/e2c_test.py" timestamp="1477320243915">
@@ -5853,11 +5853,11 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjcl9jb20gPSBucC5hc2FycmF5KGNyaW5mb19jb21iaW5lZCkKICAgICAgICBpZiBucC5hbGwoKGNyX2NvbVs6LCAxXSAtIGNyX2NvbVs6LCAwXSkgPiAxKToK</text>
+      <register name="&quot;" type="4">
+        <text>(len(segmentation), len(segmentation[0]), len(segmentation[0]))</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>(len(segmentation), len(segmentation[0]), len(segmentation[0]))</text>
       </register>
       <register name="/" type="4">
         <text>Vers</text>
