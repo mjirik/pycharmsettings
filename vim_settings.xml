@@ -101,6 +101,12 @@
         <mark key="." line="476" column="50" />
         <mark key="^" line="476" column="50" />
       </file>
+      <file name="$USER_HOME$/projects/lisa/lisa/virtual_resection.py" timestamp="1493710237310">
+        <mark key="[" line="277" column="27" />
+        <mark key="]" line="277" column="31" />
+        <mark key="." line="277" column="31" />
+        <mark key="^" line="277" column="31" />
+      </file>
       <file name="$USER_HOME$/projects/teigen/tests/teigen_test.py" timestamp="1492757177669">
         <mark key="'" line="14" column="0" />
         <mark key="[" line="15" column="0" />
@@ -371,11 +377,11 @@
         <mark key="^" line="47" column="11" />
         <mark key="." line="47" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/tests/resection_test.py" timestamp="1493707900602">
-        <mark key="[" line="82" column="8" />
-        <mark key="]" line="82" column="8" />
-        <mark key="^" line="99" column="60" />
-        <mark key="." line="82" column="8" />
+      <file name="$USER_HOME$/projects/lisa/tests/resection_test.py" timestamp="1493710025958">
+        <mark key="[" line="71" column="65" />
+        <mark key="]" line="71" column="47" />
+        <mark key="^" line="71" column="47" />
+        <mark key="." line="71" column="47" />
       </file>
       <file name="$USER_HOME$/projects/imtools/imtools/tree_processing.py" timestamp="1465564483912">
         <mark key="'" line="220" column="4" />
@@ -960,7 +966,7 @@
         <mark key="." line="60" column="25" />
         <mark key="^" line="60" column="25" />
       </file>
-      <file name="/Python Console" timestamp="1493217691679">
+      <file name="/Python Console" timestamp="1493709813440">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/events2calendar/tests/e2c_test.py" timestamp="1477320243915">
@@ -1007,12 +1013,6 @@
         <mark key="]" line="2" column="21" />
         <mark key="^" line="2" column="21" />
         <mark key="." line="2" column="21" />
-      </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/generators/cylinders.py" timestamp="1493575844827">
-        <mark key="'" line="275" column="0" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="19" />
-        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/projects/dicom2fem/dicom2fem/mesh.py" timestamp="1493645644653">
         <mark key="'" line="40" column="10" />
@@ -1646,12 +1646,6 @@
         <mark key="]" line="14" column="0" />
         <mark key="^" line="13" column="3" />
         <mark key="." line="14" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1493576146249">
-        <mark key="'" line="396" column="0" />
-        <mark key="[" line="395" column="0" />
-        <mark key="]" line="395" column="0" />
-        <mark key="." line="395" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -5835,16 +5829,16 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>data3d</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>data3d</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXNlY3Rpb25fbmV3XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aXBkYj49MC44LjEK</text>
+        <text encoding="base64">ICAgIGRhdGFbImRhdGEzZCJdID0gcW1pc2MuY3JvcChkYXRhM2QsIGNyaW5mbykK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGltcG9ydCBsb2NhbGUKICAgICMgbG9jYWxlLnNldGxvY2FsZShsb2NhbGUuTENfQUxMLCAnJykK</text>
