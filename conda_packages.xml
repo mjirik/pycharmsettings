@@ -112,7 +112,7 @@
         <entry key="colorama" value="0.3.7" />
         <entry key="colorcet" value="0.9.1" />
         <entry key="comtypes" value="1.1.2" />
-        <entry key="conda" value="4.3.16" />
+        <entry key="conda" value="4.3.17" />
         <entry key="conda-api" value="1.1.0" />
         <entry key="conda-build" value="2.1.10" />
         <entry key="conda-build-all" value="1.0.2" />
@@ -999,7 +999,7 @@
         <entry key="sphinx" value="1.5.4" />
         <entry key="sphinx_rtd_theme" value="0.2.4" />
         <entry key="sputnik" value="0.9.3" />
-        <entry key="spyder" value="3.1.3" />
+        <entry key="spyder" value="3.1.4" />
         <entry key="spyder-app" value="2.3.8" />
         <entry key="sqlalchemy" value="1.1.9" />
         <entry key="sqlite" value="3.13.0" />
@@ -2490,6 +2490,7 @@
               <option value="4.3.14" />
               <option value="4.3.15" />
               <option value="4.3.16" />
+              <option value="4.3.17" />
             </list>
           </value>
         </entry>
@@ -6537,6 +6538,7 @@
           <value>
             <list>
               <option value="8.17.0.3" />
+              <option value="8.0.121" />
             </list>
           </value>
         </entry>
@@ -11429,6 +11431,7 @@
               <option value="3.1.0" />
               <option value="3.1.2" />
               <option value="3.1.3" />
+              <option value="3.1.4" />
             </list>
           </value>
         </entry>
@@ -12600,6 +12603,6 @@
     <option name="CONDA_CHANNELS">
       <set />
     </option>
-    <option name="LAST_TIME_CHECKED" value="1493626541984" />
+    <option name="LAST_TIME_CHECKED" value="1493846341558" />
   </component>
 </application>
