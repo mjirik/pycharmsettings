@@ -873,7 +873,7 @@
         <mark key="^" line="178" column="21" />
         <mark key="." line="178" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1493757966603">
+      <file name="/Dummy.txt" timestamp="1493822254120">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1492628914518">
@@ -1271,7 +1271,7 @@
         <mark key="." line="116" column="0" />
         <mark key="^" line="83" column="65" />
       </file>
-      <file name="/Python Console" timestamp="1493722913590">
+      <file name="/Python Console" timestamp="1493823436768">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1493722907470">
@@ -1721,12 +1721,12 @@
         <mark key="." line="53" column="41" />
         <mark key="^" line="53" column="41" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/tgmain.py" timestamp="1493822127395">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="125" column="35" />
-        <mark key="]" line="125" column="38" />
-        <mark key="^" line="125" column="38" />
-        <mark key="." line="125" column="38" />
+      <file name="$USER_HOME$/projects/teigen/teigen/tgmain.py" timestamp="1493823776914">
+        <mark key="'" line="93" column="13" />
+        <mark key="[" line="84" column="13" />
+        <mark key="]" line="83" column="18" />
+        <mark key="^" line="83" column="18" />
+        <mark key="." line="83" column="18" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/covert.py" timestamp="1448825543836">
         <mark key="[" line="94" column="57" />
@@ -1880,7 +1880,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1132" column="8" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="260" column="71" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="376" column="71" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="676" column="71" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
@@ -1980,6 +1979,7 @@
       <jump line="116" column="58" filename="$USER_HOME$/projects/imtools/tests/image_manipulation_test.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/teigen/teigen/dictwidgetqt.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/teigen/teigen/dictwidgetpg.py" />
+      <jump line="93" column="13" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -6060,13 +6060,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>dictwidgetqt</text>
+        <text>cylinders</text>
       </register>
       <register name="-" type="4">
-        <text>dictwidgetqt</text>
+        <text>cylinders</text>
       </register>
       <register name="/" type="4">
-        <text>get_de</text>
+        <text encoding="base64">XDx1c2VfZGVmYXVsdF9jb25maWdcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjcl9jb20gPSBucC5hc2FycmF5KGNyaW5mb19jb21iaW5lZCkKICAgICAgICBpZiBucC5hbGwoKGNyX2NvbVs6LCAxXSAtIGNyX2NvbVs6LCAwXSkgPiAxKToK</text>
@@ -6106,15 +6106,14 @@
       </register>
     </registers>
     <search>
-      <last-search>get_de</last-search>
+      <last-search encoding="base64">XDx1c2VfZGVmYXVsdF9jb25maWdcPg==</last-search>
       <last-offset />
-      <last-pattern>get_de</last-pattern>
+      <last-pattern encoding="base64">XDx1c2VfZGVmYXVsdF9jb25maWdcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxDT05UT1VSU19DT0xPUlNcPg==</entry>
         <entry>print</entry>
         <entry>show</entry>
         <entry>3d</entry>
@@ -6134,6 +6133,7 @@
         <entry>get_def</entry>
         <entry>get</entry>
         <entry>get_de</entry>
+        <entry encoding="base64">XDx1c2VfZGVmYXVsdF9jb25maWdcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>137</entry>
