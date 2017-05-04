@@ -980,7 +980,7 @@
         <mark key="." line="60" column="25" />
         <mark key="^" line="60" column="25" />
       </file>
-      <file name="/Python Console" timestamp="1493848287895">
+      <file name="/Python Console" timestamp="1493857078359">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/events2calendar/tests/e2c_test.py" timestamp="1477320243915">
@@ -995,7 +995,7 @@
         <mark key="^" line="4" column="5" />
         <mark key="." line="4" column="5" />
       </file>
-      <file name="/fragment.py" timestamp="1493722907470">
+      <file name="/fragment.py" timestamp="1493855312119">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/skelet3d/bld.bat" timestamp="1446806979486">
@@ -1004,11 +1004,11 @@
         <mark key="^" line="64" column="22" />
         <mark key="." line="64" column="22" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/tb_vtk.py" timestamp="1493574385287">
-        <mark key="[" line="160" column="4" />
-        <mark key="]" line="160" column="5" />
-        <mark key="^" line="160" column="5" />
-        <mark key="." line="160" column="5" />
+      <file name="$USER_HOME$/projects/teigen/teigen/tb_vtk.py" timestamp="1493858063851">
+        <mark key="[" line="231" column="4" />
+        <mark key="]" line="231" column="7" />
+        <mark key="^" line="231" column="7" />
+        <mark key="." line="231" column="7" />
       </file>
       <file name="$USER_HOME$/projects/lisa/docs/conf.py" timestamp="1480615675101">
         <mark key="[" line="32" column="35" />
@@ -1054,12 +1054,12 @@
         <mark key="^" line="2" column="13" />
         <mark key="." line="2" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/tgmain.py" timestamp="1493854078672">
+      <file name="$USER_HOME$/projects/teigen/teigen/tgmain.py" timestamp="1493857537420">
         <mark key="'" line="518" column="11" />
-        <mark key="[" line="443" column="34" />
-        <mark key="]" line="443" column="47" />
-        <mark key="^" line="443" column="47" />
-        <mark key="." line="443" column="47" />
+        <mark key="[" line="573" column="33" />
+        <mark key="]" line="573" column="33" />
+        <mark key="^" line="573" column="33" />
+        <mark key="." line="573" column="33" />
       </file>
       <file name="$USER_HOME$/projects/psongbook/meta.yml" timestamp="1463464886020">
         <mark key="[" line="61" column="34" />
@@ -1446,17 +1446,17 @@
         <mark key="^" line="1068" column="56" />
         <mark key="." line="1068" column="56" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/dictwidgetqt.py" timestamp="1493850553912">
+      <file name="$USER_HOME$/projects/teigen/teigen/dictwidgetqt.py" timestamp="1493855235987">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="64" column="0" />
         <mark key="]" line="64" column="39" />
         <mark key="." line="64" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/generators/unconnected_cylinders.py" timestamp="1493853615582">
-        <mark key="[" line="279" column="55" />
-        <mark key="]" line="279" column="75" />
-        <mark key="^" line="279" column="75" />
-        <mark key="." line="279" column="75" />
+      <file name="$USER_HOME$/projects/teigen/teigen/generators/unconnected_cylinders.py" timestamp="1493856212055">
+        <mark key="[" line="168" column="25" />
+        <mark key="]" line="168" column="25" />
+        <mark key="^" line="168" column="25" />
+        <mark key="." line="168" column="25" />
       </file>
       <file name="$USER_HOME$/projects/skelet3d/examples/example02.py" timestamp="1465398838088">
         <mark key="'" line="17" column="9" />
@@ -1548,12 +1548,12 @@
         <mark key="." line="1" column="15" />
         <mark key="^" line="1" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/generators/gensei_wrapper.py" timestamp="1487685800685">
+      <file name="$USER_HOME$/projects/teigen/teigen/generators/gensei_wrapper.py" timestamp="1493856042629">
         <mark key="'" line="273" column="0" />
-        <mark key="[" line="111" column="38" />
-        <mark key="]" line="111" column="54" />
-        <mark key="^" line="111" column="54" />
-        <mark key="." line="111" column="54" />
+        <mark key="[" line="74" column="12" />
+        <mark key="]" line="74" column="12" />
+        <mark key="^" line="74" column="12" />
+        <mark key="." line="74" column="12" />
       </file>
       <file name="$USER_HOME$/projects/io3d/meta.yaml" timestamp="1469610072485">
         <mark key="[" line="47" column="12" />
@@ -5860,62 +5860,61 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>_</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjeWxpbmRlclRyaSA9IHZ0ay52dGtUcmlhbmdsZUZpbHRlcigpCiAgICAgICAgc3BoZXJlMVRyaSA9IHZ0ay52dGtUcmlhbmdsZUZpbHRlcigpCiAgICAgICAgc3BoZXJlMlRyaSA9IHZ0ay52dGtUcmlhbmdsZUZpbHRlcigpCiAgICAgICAgYm9vbGVhbl9vcGVyYXRpb24xID0gdnRrLnZ0a0Jvb2xlYW5PcGVyYXRpb25Qb2x5RGF0YUZpbHRlcigpCiAgICAgICAgYm9vbGVhbl9vcGVyYXRpb24yID0gdnRrLnZ0a0Jvb2xlYW5PcGVyYXRpb25Qb2x5RGF0YUZpbHRlcigpCiAgICAgICAgYm9vbGVhbl9vcGVyYXRpb24zID0gdnRrLnZ0a0Jvb2xlYW5PcGVyYXRpb25Qb2x5RGF0YUZpbHRlcigpCiAgICAgICAgYm9vbGVhbl9vcGVyYXRpb24xLlNldE9wZXJhdGlvblRvVW5pb24oKQogICAgICAgIGJvb2xlYW5fb3BlcmF0aW9uMi5TZXRPcGVyYXRpb25Ub1VuaW9uKCkKICAgICAgICBib29sZWFuX29wZXJhdGlvbjMuU2V0T3BlcmF0aW9uVG9VbmlvbigpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>export</text>
+        <text>etS</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLm9yaWVudGF0aW9uXyA9IG9yaWVudGF0aW9uXwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICBvcmllbnRhdGlvbl9tYWluPVsxLjAsIDEuMCwgMC4wXSwK</text>
+        <text encoding="base64">ICAgICAgICBjeWxpbmRlclRyaSA9IHZ0ay52dGtUcmlhbmdsZUZpbHRlcigpCiAgICAgICAgc3BoZXJlMVRyaSA9IHZ0ay52dGtUcmlhbmdsZUZpbHRlcigpCiAgICAgICAgc3BoZXJlMlRyaSA9IHZ0ay52dGtUcmlhbmdsZUZpbHRlcigpCiAgICAgICAgYm9vbGVhbl9vcGVyYXRpb24xID0gdnRrLnZ0a0Jvb2xlYW5PcGVyYXRpb25Qb2x5RGF0YUZpbHRlcigpCiAgICAgICAgYm9vbGVhbl9vcGVyYXRpb24yID0gdnRrLnZ0a0Jvb2xlYW5PcGVyYXRpb25Qb2x5RGF0YUZpbHRlcigpCiAgICAgICAgYm9vbGVhbl9vcGVyYXRpb24zID0gdnRrLnZ0a0Jvb2xlYW5PcGVyYXRpb25Qb2x5RGF0YUZpbHRlcigpCiAgICAgICAgYm9vbGVhbl9vcGVyYXRpb24xLlNldE9wZXJhdGlvblRvVW5pb24oKQogICAgICAgIGJvb2xlYW5fb3BlcmF0aW9uMi5TZXRPcGVyYXRpb25Ub1VuaW9uKCkKICAgICAgICBib29sZWFuX29wZXJhdGlvbjMuU2V0T3BlcmF0aW9uVG9VbmlvbigpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50IGRpcl9zcGgK</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVmIHJhbmRvbV92ZWN0b3JfYWxvbmdfZGlyZWN0aW9uX2dpdmVuX2J5X2FscGhhX2JldGEoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50ICgia29uZWMgZ2VuX3RyZWUoKSIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIGFyZWFfZGN0ID0gZGlsaS5zdWJkaWN0KGNvbmZpZywgWyJ2b3hlbHNpemVfbW0iLCAiYXJlYXNpemVfbW0iLCAiYXJlYXNpemVfcHgiXSkKICAgICAgICAjIGNvbmZpZy5wb3AoInZveGVsc2l6ZV9tbSIpCiAgICAgICAgIyBjb25maWcucG9wKCJhcmVhc2l6ZV9tbSIpCiAgICAgICAgIyBjb25maWcucG9wKCJhcmVhc2l6ZV9weCIpCg==</text>
+        <text encoding="base64">ICAgIGltcG9ydCBpcGRiOwogICAgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50ZW5zaXR5X3Byb2ZpbGVfcmFkaXVzPVswLjQsIDAuNywgMS4wLCAxLjNdLAogICAgICAgICAgICBpbnRlbnNpdHlfcHJvZmlsZV9pbnRlbnNpdHk9WzE5NSwgMTkwLCAyMDAsIDMwXSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICBvcmllbnRhdGlvbl9tYWluPVsxLjAsIDEuMCwgMC4wXSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50ZW5zaXR5X3Byb2ZpbGVfcmFkaXVzPVswLjQsIDAuNywgMS4wLCAxLjNdLAogICAgICAgICAgICBpbnRlbnNpdHlfcHJvZmlsZV9pbnRlbnNpdHk9WzE5NSwgMTkwLCAyMDAsIDMwXSwK</text>
+        <text encoding="base64">ICAgIHByaW50IGRpcl9zcGgK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjICMgVE9ETyBkZWxldGUgZmFsbG93aW5nIGxpbmUK</text>
+        <text encoding="base64">ZGVmIHJhbmRvbV92ZWN0b3JfYWxvbmdfZGlyZWN0aW9uX2dpdmVuX2J5X2FscGhhX2JldGEoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBUT0RPIGRlbGV0ZSBmYWxsb3dpbmcgbGluZQogICAgICAgICAgICB3Zy5tYWluTGF5b3V0LmFkZFdpZGdldChRTGFiZWwoImFob2oiKSwgMiwgMikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>export</last-search>
+      <last-search>etS</last-search>
       <last-offset />
-      <last-pattern>export</last-pattern>
+      <last-pattern>etS</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnM1w+</entry>
         <entry>dili</entry>
         <entry encoding="base64">XDxjb21wbGljYXRlZF90b195YW1sXD4=</entry>
         <entry>complicated</entry>
@@ -5935,10 +5934,9 @@
         <entry>Vers</entry>
         <entry>ahoj</entry>
         <entry>export</entry>
+        <entry>etS</entry>
       </history-search>
       <history-cmd>
-        <entry>137</entry>
-        <entry>105</entry>
         <entry>1055</entry>
         <entry>704</entry>
         <entry>659</entry>
@@ -5956,6 +5954,8 @@
         <entry>50</entry>
         <entry>wq</entry>
         <entry>q</entry>
+        <entry>237</entry>
+        <entry>169</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
