@@ -163,7 +163,7 @@
         <entry key="dbus" value="1.10.10" />
         <entry key="debug" value="1.0" />
         <entry key="decorator" value="4.0.11" />
-        <entry key="dicom2fem" value="1.0.18" />
+        <entry key="dicom2fem" value="1.0.17" />
         <entry key="dill" value="0.2.6" />
         <entry key="disco" value="0.4.4" />
         <entry key="discon" value="1.0.3" />
@@ -296,7 +296,7 @@
         <entry key="imaging" value="1.1.7" />
         <entry key="iminuit" value="1.1.1" />
         <entry key="impyla" value="0.13.8" />
-        <entry key="imtools" value="0.1.41" />
+        <entry key="imtools" value="0.1.34" />
         <entry key="incremental" value="16.10.1" />
         <entry key="inflection" value="0.3.1" />
         <entry key="into" value="0.2.2" />
@@ -390,7 +390,6 @@
         <entry key="locket" value="0.2.0" />
         <entry key="lockfile" value="0.12.2" />
         <entry key="logilab-common" value="1.0.2" />
-        <entry key="lsfm" value="1.0.0" />
         <entry key="luigi" value="2.3.0" />
         <entry key="lxml" value="3.7.3" />
         <entry key="lz4" value="0.9.0" />
@@ -3164,7 +3163,6 @@
               <option value="1.0.15" />
               <option value="1.0.14" />
               <option value="1.0.17" />
-              <option value="1.0.18" />
             </list>
           </value>
         </entry>
@@ -4399,13 +4397,6 @@
               <option value="0.1.32" />
               <option value="0.1.33" />
               <option value="0.1.34" />
-              <option value="0.1.36" />
-              <option value="0.1.39" />
-              <option value="0.1.38" />
-              <option value="0.1.41" />
-              <option value="0.1.37" />
-              <option value="0.1.35" />
-              <option value="0.1.40" />
             </list>
           </value>
         </entry>
@@ -5414,13 +5405,6 @@
               <option value="0.62.1" />
               <option value="0.61.0" />
               <option value="0.63.2" />
-            </list>
-          </value>
-        </entry>
-        <entry key="lsfm">
-          <value>
-            <list>
-              <option value="1.0.0" />
             </list>
           </value>
         </entry>
@@ -12619,6 +12603,6 @@
     <option name="CONDA_CHANNELS">
       <set />
     </option>
-    <option name="LAST_TIME_CHECKED" value="1493821352457" />
+    <option name="LAST_TIME_CHECKED" value="1493846341558" />
   </component>
 </application>
