@@ -190,12 +190,12 @@
         <mark key="^" line="206" column="49" />
         <mark key="." line="206" column="49" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/geometry3d.py" timestamp="1494433523653">
+      <file name="$USER_HOME$/projects/teigen/teigen/geometry3d.py" timestamp="1494456676937">
         <mark key="'" line="62" column="0" />
-        <mark key="[" line="748" column="16" />
-        <mark key="]" line="748" column="51" />
-        <mark key="." line="748" column="51" />
-        <mark key="^" line="748" column="51" />
+        <mark key="[" line="961" column="36" />
+        <mark key="]" line="962" column="19" />
+        <mark key="." line="962" column="19" />
+        <mark key="^" line="962" column="19" />
       </file>
       <file name="$USER_HOME$/projects/psongbook/sobo/transpose.py" timestamp="1463488061362">
         <mark key="'" line="65" column="17" />
@@ -510,11 +510,11 @@
         <mark key="^" line="66" column="15" />
         <mark key="." line="66" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/generators/unconnected_cylinders.py" timestamp="1494455706647">
-        <mark key="[" line="106" column="107" />
-        <mark key="]" line="107" column="40" />
-        <mark key="^" line="107" column="40" />
-        <mark key="." line="107" column="40" />
+      <file name="$USER_HOME$/projects/teigen/teigen/generators/unconnected_cylinders.py" timestamp="1494456885637">
+        <mark key="[" line="147" column="0" />
+        <mark key="]" line="147" column="0" />
+        <mark key="^" line="146" column="11" />
+        <mark key="." line="147" column="0" />
       </file>
       <file name="$USER_HOME$/projects/quaha/quaha/histology_analyser.py" timestamp="1445350234957">
         <mark key="'" line="502" column="11" />
@@ -5867,7 +5867,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFkaXVzX2NvbXBlbnNhdGlvbl9mYWN0b3IgPSAgZzMucmVndWxhcl9wb2x5Z29uX3N1cmZhY2VfZXF1aXZhbGVudF9yYWRpdXMocmVzb2x1dGlvbikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -5889,43 +5889,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGczLnJlZ3VsYXJfcG9seWdvbl9zdXJmYWNlX2VxdWl2YWxlbnRfcmFkaXVzKHJlc29sdXRpb24p</text>
+        <text>_if_no_collision</text>
       </register>
       <register name="/" type="4">
         <text>profile_rad</text>
       </register>
-      <register name="0" type="4">
-        <text>radius_compensation=False, radius_compensation_factor=1.05</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGRlZiBfYWRkX2N5bGluZGVyX2lmX25vX2NvbGxpc2lvbihzZWxmLCBwdDEsIHB0MiwgcmFkaXVzLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIENPTExJU0lPTl9SQURJVVM9MS41ICAjIGhpZ2hlciB0aGVuIHNxcnQoMikKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICApOgogICAgICAgIHJldHVybiBzZWxmLmNvbGxpc2lvbl9tb2RlbC5hZGRfdHViZV9pZl9ub19jb2xsaXNpb24ocHQxLCBwdDIsIHJhZGl1cykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFkaXVzX2NvbXBlbnNhdGlvbl9mYWN0b3IgPSAgZzMucmVndWxhcl9wb2x5Z29uX3N1cmZhY2VfZXF1aXZhbGVudF9yYWRpdXMocmVzb2x1dGlvbikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFkaXVzID0gYnJbInJhZGl1cyJdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICApOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">ICAgIGRlZiBfYWRkX2N5bGluZGVyX2lmX2luX2FyZWEoc2VsZiwgcHQxLCBwdDIsIHJhZGl1cywK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiByYWRpdXNfY29tcGVuc2F0aW9uOgo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5jb2xsaXNpb25fbW9kZWwuYWRkX3R1YmUocHQxLCBwdDIsIHJhZGl1cykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnJhZGl1c19jb21wZW5zYXRpb24gPSByYWRpdXNfY29tcGVuc2F0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBDT0xMSVNJT05fUkFESVVTPTEuNSAgIyBoaWdoZXIgdGhlbiBzcXJ0KDIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBiclsncmFkaXVzJ10sCg==</text>
+        <text encoding="base64">ICAgIGRlZgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmFkaXVzX2NvbXBlbnNhdGlvbl9mYWN0b3IgPSAgZzMucmVndWxhcl9wb2x5Z29uX3N1cmZhY2VfZXF1aXZhbGVudF9yYWRpdXMocmVzb2x1dGlvbikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmFkaXVzID0gYnJbInJhZGl1cyJdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3RlZF9zdXJmYWNlID0gbnAucGkgKiByYWRpdXNeMgogICAgICAgIGV4cGVjdGVkX3BlcmltZXRlciA9IDIgKiBucC5waSpyYWRpdXMK</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
