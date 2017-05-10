@@ -1280,13 +1280,13 @@
         <mark key="^" line="265" column="75" />
         <mark key="." line="265" column="75" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/tgmain.py" timestamp="1494427673091">
+      <file name="$USER_HOME$/projects/teigen/teigen/tgmain.py" timestamp="1494453452703">
         <mark key="a" line="249" column="63" />
-        <mark key="'" line="38" column="24" />
-        <mark key="[" line="246" column="0" />
-        <mark key="]" line="246" column="98" />
-        <mark key="." line="246" column="0" />
-        <mark key="^" line="251" column="89" />
+        <mark key="'" line="115" column="82" />
+        <mark key="[" line="424" column="33" />
+        <mark key="]" line="426" column="54" />
+        <mark key="." line="426" column="54" />
+        <mark key="^" line="426" column="54" />
       </file>
       <file name="$USER_HOME$/projects/ndnoise/tests/filter_test.py" timestamp="1482592366787">
         <mark key="'" line="71" column="13" />
@@ -1687,10 +1687,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1139" column="39" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
-      <jump line="1137" column="7" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
-      <jump line="36" column="10" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
-      <jump line="53" column="13" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="867" column="24" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="712" column="34" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="995" column="9" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
@@ -1787,6 +1783,10 @@
       <jump line="249" column="63" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
       <jump line="250" column="66" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
       <jump line="38" column="24" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
+      <jump line="374" column="34" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
+      <jump line="129" column="44" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
+      <jump line="627" column="76" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
+      <jump line="115" column="82" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5892,7 +5892,7 @@
         <text encoding="base64">IGczLnJlZ3VsYXJfcG9seWdvbl9zdXJmYWNlX2VxdWl2YWxlbnRfcmFkaXVzKHJlc29sdXRpb24p</text>
       </register>
       <register name="/" type="4">
-        <text>gen</text>
+        <text>profile_rad</text>
       </register>
       <register name="0" type="4">
         <text>radius_compensation=False, radius_compensation_factor=1.05</text>
@@ -5932,15 +5932,14 @@
       </register>
     </registers>
     <search>
-      <last-search>gen</last-search>
+      <last-search>profile_rad</last-search>
       <last-offset />
-      <last-pattern>gen</last-pattern>
+      <last-pattern>profile_rad</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>skelet</entry>
         <entry encoding="base64">XDxNZXNoSU9cPg==</entry>
         <entry>write</entry>
         <entry>cache</entry>
@@ -5960,6 +5959,7 @@
         <entry>setM</entry>
         <entry>gentr</entry>
         <entry>gen</entry>
+        <entry>profile_rad</entry>
       </history-search>
       <history-cmd>
         <entry>1055</entry>
