@@ -502,11 +502,11 @@
         <mark key="^" line="57" column="47" />
         <mark key="." line="57" column="47" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/meta.yaml" timestamp="1493885048005">
-        <mark key="[" line="60" column="21" />
-        <mark key="]" line="60" column="20" />
-        <mark key="^" line="60" column="20" />
-        <mark key="." line="60" column="20" />
+      <file name="$USER_HOME$/projects/teigen/meta.yaml" timestamp="1494411938555">
+        <mark key="[" line="64" column="21" />
+        <mark key="]" line="65" column="10" />
+        <mark key="^" line="65" column="10" />
+        <mark key="." line="65" column="10" />
       </file>
       <file name="$USER_HOME$/projects/teigen/teigen/generators/unconnected_cylinders.py" timestamp="1493856212055">
         <mark key="[" line="168" column="25" />
@@ -1277,12 +1277,13 @@
         <mark key="^" line="146" column="13" />
         <mark key="." line="106" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/tgmain.py" timestamp="1494409852208">
-        <mark key="'" line="519" column="11" />
-        <mark key="[" line="691" column="13" />
-        <mark key="]" line="691" column="12" />
-        <mark key="^" line="691" column="12" />
-        <mark key="." line="691" column="12" />
+      <file name="$USER_HOME$/projects/teigen/teigen/tgmain.py" timestamp="1494412365242">
+        <mark key="a" line="692" column="15" />
+        <mark key="'" line="692" column="15" />
+        <mark key="[" line="35" column="19" />
+        <mark key="]" line="36" column="11" />
+        <mark key="^" line="36" column="11" />
+        <mark key="." line="36" column="11" />
       </file>
       <file name="$USER_HOME$/projects/ndnoise/tests/filter_test.py" timestamp="1482592366787">
         <mark key="'" line="71" column="13" />
@@ -1683,7 +1684,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="540" column="51" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="1113" column="42" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="592" column="0" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="705" column="13" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
@@ -1783,6 +1783,7 @@
       <jump line="114" column="0" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="167" column="28" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="62" column="0" filename="$USER_HOME$/projects/teigen/teigen/geometry3d.py" />
+      <jump line="691" column="15" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
