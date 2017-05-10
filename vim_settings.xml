@@ -190,11 +190,12 @@
         <mark key="^" line="206" column="49" />
         <mark key="." line="206" column="49" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/geometry3d.py" timestamp="1494363896856">
+      <file name="$USER_HOME$/projects/teigen/teigen/geometry3d.py" timestamp="1494421983546">
         <mark key="'" line="62" column="0" />
-        <mark key="[" line="1000" column="0" />
-        <mark key="]" line="1000" column="0" />
-        <mark key="." line="1000" column="0" />
+        <mark key="[" line="762" column="0" />
+        <mark key="]" line="762" column="8" />
+        <mark key="." line="762" column="8" />
+        <mark key="^" line="761" column="49" />
       </file>
       <file name="$USER_HOME$/projects/psongbook/sobo/transpose.py" timestamp="1463488061362">
         <mark key="'" line="65" column="17" />
@@ -1071,7 +1072,7 @@
         <mark key="^" line="735" column="35" />
         <mark key="." line="735" column="35" />
       </file>
-      <file name="/Python Console" timestamp="1493857078359">
+      <file name="/Python Console" timestamp="1494423043333">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1493855312119">
@@ -1271,11 +1272,12 @@
         <mark key="." line="63" column="26" />
         <mark key="^" line="63" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/tests/geometry3_test.py" timestamp="1492840040617">
-        <mark key="[" line="106" column="0" />
-        <mark key="]" line="114" column="0" />
-        <mark key="^" line="146" column="13" />
-        <mark key="." line="106" column="0" />
+      <file name="$USER_HOME$/projects/teigen/tests/geometry3_test.py" timestamp="1494423040419">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="261" column="42" />
+        <mark key="]" line="261" column="42" />
+        <mark key="^" line="261" column="42" />
+        <mark key="." line="261" column="42" />
       </file>
       <file name="$USER_HOME$/projects/teigen/teigen/tgmain.py" timestamp="1494413725611">
         <mark key="a" line="695" column="0" />
@@ -1684,7 +1686,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="911" column="14" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="1097" column="39" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="1098" column="28" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="127" column="24" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
@@ -1784,6 +1785,7 @@
       <jump line="19" column="0" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
       <jump line="810" column="8" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
       <jump line="695" column="6" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/teigen/tests/geometry3_test.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5863,8 +5865,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>_</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -5886,43 +5888,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>setM</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBkZWZhdWx0PSJ+L3RlaWdlbi5sb2ciLAo=</text>
+        <text encoding="base64">ICAgICAgICBleHBlY3RlZF9zdXJmYWNlID0gbnAucGkqcmFkaXVzXjIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGJlZ2luCg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGJlZ2lucwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBpbXBvcnQgY2xpY2sK</text>
+        <text encoding="base64">ICAgICAgICBleHBlY3RlZF9zdXJmYWNlID0gbnAucGkgKiByYWRpdXNeMgogICAgICAgIGV4cGVjdGVkX3BlcmltZXRlciA9IDIgKiBucC5waSpyYWRpdXMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgIGRlZiBpbnNjcmliZWRfcmFkaXVzKHNlbGYsIHJhZGl1cywgbik6CiAgICAgICAgIiIiIAogICAgICAgIAogICAgICAgIDpwYXJhbSByYWRpdXM6IAogICAgICAgIDpyZXR1cm46IAogICAgICAgICIiIgogICAgICAgIHBhc3MKCiAgICBkZWYgcmVndWxhcl9wb2x5Z29uX3N1cmZhY2VfZXF1aXZhbGVudF9yYWRpdXMoc2VsZik6Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dmaWxlPQo=</text>
+        <text encoding="base64">ICAgIGRlZiBpbnNjcmliZWRfcmFkaXVzKHNlbGYsIHJhZGl1cywgbik6CiAgICAgICAgIiIiIAogICAgICAgIAogICAgICAgIDpwYXJhbSByYWRpdXM6IAogICAgICAgIDpyZXR1cm46IAogICAgICAgICIiIgogICAgICAgIHBhc3MKICAgIAogICAgZGVmIHJlZ3VsYXJfcG9seWdvbl9zdXJmYWNlX2VxdWl2YWxlbnRfcmFkaXVzKHNlbGYpOgogICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZgo=</text>
+        <text encoding="base64">aW1wb3J0IGJlZ2luCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl93Z190YWJfZGVzY3JpYmUuc2V0TWluaW11bVdpZHRoKDgwMCkK</text>
+        <text encoding="base64">aW1wb3J0IGJlZ2lucwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIC5kb2MgaW1wb3J0IGRvYwo=</text>
+        <text encoding="base64">IyBpbXBvcnQgY2xpY2sK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE8gcmVuYW1lIGRvYyB0byBzb21ldGhpbmcgZWxzZQo=</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
