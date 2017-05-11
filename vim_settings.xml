@@ -765,8 +765,10 @@
         <mark key="^" line="57" column="8" />
         <mark key="." line="56" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1494427224544">
+      <file name="/Dummy.txt" timestamp="1494483710942">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/quanta/setup.py" timestamp="1446640023460">
         <mark key="[" line="58" column="105" />
@@ -5866,8 +5868,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>set default value</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -5889,7 +5891,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>_if_no_collision</text>
+        <text>set default value</text>
       </register>
       <register name="/" type="4">
         <text>profile_rad</text>
