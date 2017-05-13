@@ -1049,13 +1049,13 @@
         <mark key="^" line="2" column="13" />
         <mark key="." line="2" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/tgmain.py" timestamp="1494453452703">
+      <file name="$USER_HOME$/projects/teigen/teigen/tgmain.py" timestamp="1494668520759">
         <mark key="a" line="249" column="63" />
-        <mark key="'" line="115" column="82" />
-        <mark key="[" line="424" column="33" />
-        <mark key="]" line="426" column="54" />
-        <mark key="^" line="426" column="54" />
-        <mark key="." line="426" column="54" />
+        <mark key="'" line="19" column="9" />
+        <mark key="[" line="703" column="0" />
+        <mark key="]" line="703" column="1" />
+        <mark key="^" line="703" column="1" />
+        <mark key="." line="703" column="1" />
       </file>
       <file name="$USER_HOME$/projects/psongbook/meta.yml" timestamp="1463464886020">
         <mark key="[" line="61" column="34" />
@@ -1765,7 +1765,6 @@
       <jump line="691" column="15" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
       <jump line="12" column="0" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
       <jump line="694" column="0" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
-      <jump line="19" column="0" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
       <jump line="810" column="8" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
       <jump line="695" column="6" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/teigen/tests/geometry3_test.py" />
@@ -1777,6 +1776,7 @@
       <jump line="129" column="44" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
       <jump line="627" column="76" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
       <jump line="115" column="82" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
+      <jump line="19" column="9" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5882,7 +5882,7 @@
         <text>set default value</text>
       </register>
       <register name="/" type="4">
-        <text>profile_rad</text>
+        <text encoding="base64">XDxiZWdpblw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRlZiBfYWRkX2N5bGluZGVyX2lmX25vX2NvbGxpc2lvbihzZWxmLCBwdDEsIHB0MiwgcmFkaXVzLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIENPTExJU0lPTl9SQURJVVM9MS41ICAjIGhpZ2hlciB0aGVuIHNxcnQoMikKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICApOgogICAgICAgIHJldHVybiBzZWxmLmNvbGxpc2lvbl9tb2RlbC5hZGRfdHViZV9pZl9ub19jb2xsaXNpb24ocHQxLCBwdDIsIHJhZGl1cykK</text>
@@ -5922,15 +5922,14 @@
       </register>
     </registers>
     <search>
-      <last-search>profile_rad</last-search>
+      <last-search encoding="base64">XDxiZWdpblw+</last-search>
       <last-offset />
-      <last-pattern>profile_rad</last-pattern>
+      <last-pattern encoding="base64">XDxiZWdpblw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>dili</entry>
         <entry encoding="base64">XDxjb21wbGljYXRlZF90b195YW1sXD4=</entry>
         <entry>complicated</entry>
         <entry>compl</entry>
@@ -5950,6 +5949,7 @@
         <entry>ahoj</entry>
         <entry>export</entry>
         <entry>etS</entry>
+        <entry encoding="base64">XDxiZWdpblw+</entry>
       </history-search>
       <history-cmd>
         <entry>1055</entry>
