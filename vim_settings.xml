@@ -1049,9 +1049,9 @@
         <mark key="^" line="2" column="13" />
         <mark key="." line="2" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/tgmain.py" timestamp="1494668520759">
+      <file name="$USER_HOME$/projects/teigen/teigen/tgmain.py" timestamp="1494669756251">
         <mark key="a" line="249" column="63" />
-        <mark key="'" line="19" column="9" />
+        <mark key="'" line="590" column="22" />
         <mark key="[" line="703" column="0" />
         <mark key="]" line="703" column="1" />
         <mark key="^" line="703" column="1" />
@@ -1677,7 +1677,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="867" column="24" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="712" column="34" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="995" column="9" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="927" column="23" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
@@ -1777,6 +1776,7 @@
       <jump line="627" column="76" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
       <jump line="115" column="82" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
       <jump line="19" column="9" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
+      <jump line="590" column="22" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5882,7 +5882,7 @@
         <text>set default value</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxiZWdpblw+</text>
+        <text>note</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRlZiBfYWRkX2N5bGluZGVyX2lmX25vX2NvbGxpc2lvbihzZWxmLCBwdDEsIHB0MiwgcmFkaXVzLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIENPTExJU0lPTl9SQURJVVM9MS41ICAjIGhpZ2hlciB0aGVuIHNxcnQoMikKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICApOgogICAgICAgIHJldHVybiBzZWxmLmNvbGxpc2lvbl9tb2RlbC5hZGRfdHViZV9pZl9ub19jb2xsaXNpb24ocHQxLCBwdDIsIHJhZGl1cykK</text>
@@ -5922,15 +5922,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxiZWdpblw+</last-search>
+      <last-search>note</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxiZWdpblw+</last-pattern>
+      <last-pattern>note</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb21wbGljYXRlZF90b195YW1sXD4=</entry>
         <entry>complicated</entry>
         <entry>compl</entry>
         <entry>skel</entry>
@@ -5950,6 +5949,7 @@
         <entry>export</entry>
         <entry>etS</entry>
         <entry encoding="base64">XDxiZWdpblw+</entry>
+        <entry>note</entry>
       </history-search>
       <history-cmd>
         <entry>1055</entry>
