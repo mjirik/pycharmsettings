@@ -171,12 +171,18 @@
         <mark key="." line="144" column="27" />
         <mark key="^" line="144" column="3" />
       </file>
+      <file name="/" timestamp="1494919235655">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/teigen/teigen/iowidgetqt.py" timestamp="1481075779602">
         <mark key="'" line="30" column="4" />
         <mark key="[" line="38" column="0" />
         <mark key="]" line="39" column="46" />
         <mark key="." line="43" column="63" />
         <mark key="^" line="88" column="46" />
+      </file>
+      <file name="/&quot;inscribed&quot;" timestamp="1494919235672">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/ndnoise/.travis.yml" timestamp="1482349393053">
         <mark key="[" line="0" column="0" />
@@ -470,6 +476,9 @@
         <mark key="]" line="1" column="12" />
         <mark key="^" line="1" column="12" />
         <mark key="." line="1" column="12" />
+      </file>
+      <file name="/10" timestamp="1494919235666">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/ndnoise/ndnoise/__init__.py" timestamp="1483626663429">
         <mark key="[" line="0" column="36" />
@@ -936,6 +945,9 @@
         <mark key="." line="242" column="29" />
         <mark key="^" line="242" column="29" />
       </file>
+      <file name="/1.0" timestamp="1494919235684">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/pyseg_base/setup.py" timestamp="1446642726739">
         <mark key="[" line="58" column="4" />
         <mark key="]" line="58" column="5" />
@@ -1010,12 +1022,12 @@
         <mark key="^" line="64" column="22" />
         <mark key="." line="64" column="22" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/tb_vtk.py" timestamp="1494918254331">
+      <file name="$USER_HOME$/projects/teigen/teigen/tb_vtk.py" timestamp="1494919468736">
         <mark key="'" line="24" column="17" />
-        <mark key="[" line="71" column="52" />
-        <mark key="]" line="71" column="50" />
-        <mark key="^" line="71" column="50" />
-        <mark key="." line="71" column="50" />
+        <mark key="[" line="160" column="44" />
+        <mark key="]" line="164" column="25" />
+        <mark key="^" line="164" column="25" />
+        <mark key="." line="164" column="25" />
       </file>
       <file name="$USER_HOME$/projects/lisa/docs/conf.py" timestamp="1480615675101">
         <mark key="[" line="32" column="35" />
@@ -1447,12 +1459,6 @@
         <mark key="]" line="1079" column="27" />
         <mark key="^" line="1068" column="56" />
         <mark key="." line="1068" column="56" />
-      </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/dictwidgetqt.py" timestamp="1493855235987">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="39" />
-        <mark key="." line="64" column="0" />
       </file>
       <file name="$USER_HOME$/projects/teigen/teigen/generators/unconnected_cylinders.py" timestamp="1494880934388">
         <mark key="[" line="257" column="12" />
@@ -5862,8 +5868,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>&quot;~/data/medical/orig/sliver07/training/&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzcGhlcmVfcmFkaXVzID0gcmFkaXVzICogc3BoZXJlX3JhZGl1c19jb21wZW5zYXRpb25fZmFjdG9yCg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -5885,43 +5891,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;~/data/medical/orig/sliver07/training/&quot;</text>
+        <text>copy</text>
       </register>
       <register name="/" type="4">
         <text>Enable</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl91aV9idG5fc3RlcDIuc2V0RW5hYmxlZChUcnVlKQo=</text>
+        <text encoding="base64">ICAgICAgICBjeWxpbmRlcl9yYWRpdXMgPSByYWRpdXMgKiBjeWxpbmRlcl9yYWRpdXNfY29tcGVuc2F0aW9uX2ZhY3Rvcgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl91aV9idG5fc3RlcDIuc2V0RW5hYmxlZChGYWxzZSkK</text>
+        <text encoding="base64">ICAgICAgICBzcGhlcmVfcmFkaXVzID0gcmFkaXVzICogc3BoZXJlX3JhZGl1c19jb21wZW5zYXRpb25fZmFjdG9yCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0bSA9IGRhdGV0aW1lLmRhdGV0aW1lLm5vdygpLmlzb2Zvcm1hdCgpCiAgICAgICAgbm90ZV9kZiA9IHBkLkRhdGFGcmFtZSh7ImRhdGV0aW1lIjogW3RtXSwgIm5vdGUiOiBbIiJdfSkKICAgICAgICBzZWxmLmRhdGFmcmFtZXNbImFkZGl0aW9uYWxfaW5mbyJdID0gbm90ZV9kZgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3lsaW5kZXJfcmFkaXVzID0gcmFkaXVzICogY3lsaW5kZXJfcmFkaXVzX2NvbXBlbnNhdGlvbl9mYWN0b3IK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdG0gPSBkYXRldGltZS5kYXRldGltZS5ub3coKS5pc29mb3JtYXQoKQogICAgICAgICAgICBub3RlX2RmID0gcGQuRGF0YUZyYW1lKHsiZGF0ZXRpbWUiOiBbdG1dLCAibm90ZSI6IFtub3RlXX0pCiAgICAgICAgICAgIHNlbGYuZGF0YWZyYW1lc1siaGlkZGVuIl0gPSBub3RlX2RmCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl91aV9idG5fc3RlcDIuc2V0RW5hYmxlZChGYWxzZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB0bSA9IGRhdGV0aW1lLmRhdGV0aW1lLm5vdygpLmlzb2Zvcm1hdCgpCiAgICAgICAgbm90ZV9kZiA9IHBkLkRhdGFGcmFtZSh7ImRhdGV0aW1lIjogW3RtXSwgIm5vdGUiOiBbIiJdfSkKICAgICAgICBzZWxmLmRhdGFmcmFtZXNbImFkZGl0aW9uYWxfaW5mbyJdID0gbm90ZV9kZgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5kYXRhZnJhbWVzWyJvdmVyYWxsIl1bImRhdGV0aW1lIl0gPSBbdG1dCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdG0gPSBkYXRldGltZS5kYXRldGltZS5ub3coKS5pc29mb3JtYXQoKQogICAgICAgICAgICBub3RlX2RmID0gcGQuRGF0YUZyYW1lKHsiZGF0ZXRpbWUiOiBbdG1dLCAibm90ZSI6IFtub3RlXX0pCiAgICAgICAgICAgIHNlbGYuZGF0YWZyYW1lc1siaGlkZGVuIl0gPSBub3RlX2RmCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdG0gPSBkYXRldGltZS5kYXRldGltZS5ub3coKS5pc29mb3JtYXQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdG0gPSBkYXRldGltZS5kYXRldGltZS5ub3coKS5pc29mb3JtYXQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5kYXRhZnJhbWVzWyJvdmVyYWxsIl1bImRhdGV0aW1lIl0gPSBbdG1dCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0bSA9IGRhdGV0aW1lLmRhdGV0aW1lLm5vdygpLmlzb2Zvcm1hdCgpCiAgICAgICAgbm90ZV9kZiA9IHBkLkRhdGFGcmFtZSh7ImRhdGV0aW1lIjogW3RtXSwgIm5vdGUiOiBbbm90ZV19KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdG0gPSBkYXRldGltZS5kYXRldGltZS5ub3coKS5pc29mb3JtYXQoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdG0gPSBkYXRldGltZS5kYXRldGltZS5ub3coKS5pc29mb3JtYXQoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
