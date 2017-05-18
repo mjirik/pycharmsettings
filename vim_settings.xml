@@ -1068,13 +1068,13 @@
         <mark key="^" line="2" column="13" />
         <mark key="." line="2" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/tgmain.py" timestamp="1495065815654">
+      <file name="$USER_HOME$/projects/teigen/teigen/tgmain.py" timestamp="1495066485749">
         <mark key="a" line="562" column="20" />
         <mark key="'" line="577" column="25" />
-        <mark key="[" line="156" column="59" />
-        <mark key="]" line="156" column="51" />
-        <mark key="^" line="156" column="51" />
-        <mark key="." line="156" column="51" />
+        <mark key="[" line="298" column="37" />
+        <mark key="]" line="298" column="45" />
+        <mark key="^" line="298" column="45" />
+        <mark key="." line="298" column="45" />
       </file>
       <file name="$USER_HOME$/projects/psongbook/meta.yml" timestamp="1463464886020">
         <mark key="[" line="61" column="34" />
@@ -5869,8 +5869,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInBvbHlnb25fcmFkaXVzX3NlbGVjdGlvbl9tZXRob2QiOiAiaW5zY3JpYmVkIgo=</text>
+      <register name="&quot;" type="4">
+        <text>polydata</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -5892,7 +5892,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>polydata_vol</text>
+        <text>polydata</text>
       </register>
       <register name="/" type="4">
         <text>regular</text>
