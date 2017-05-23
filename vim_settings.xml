@@ -1461,11 +1461,12 @@
         <mark key="^" line="1068" column="56" />
         <mark key="." line="1068" column="56" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/generators/unconnected_cylinders.py" timestamp="1494880934388">
-        <mark key="[" line="257" column="12" />
-        <mark key="]" line="257" column="15" />
-        <mark key="^" line="257" column="15" />
-        <mark key="." line="257" column="15" />
+      <file name="$USER_HOME$/projects/teigen/teigen/generators/unconnected_cylinders.py" timestamp="1495562735039">
+        <mark key="'" line="250" column="19" />
+        <mark key="[" line="249" column="16" />
+        <mark key="]" line="249" column="19" />
+        <mark key="^" line="249" column="19" />
+        <mark key="." line="249" column="19" />
       </file>
       <file name="$USER_HOME$/projects/skelet3d/examples/example02.py" timestamp="1465398838088">
         <mark key="'" line="17" column="9" />
@@ -1690,7 +1691,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="210" column="30" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="219" column="27" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="220" column="89" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="222" column="23" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
@@ -1790,6 +1790,7 @@
       <jump line="757" column="25" filename="$USER_HOME$/projects/teigen/teigen/geometry3d.py" />
       <jump line="199" column="7" filename="$USER_HOME$/projects/teigen/teigen/tb_vtk.py" />
       <jump line="12" column="57" filename="$USER_HOME$/projects/teigen/teigen/tb_vtk.py" />
+      <jump line="250" column="19" filename="$USER_HOME$/projects/teigen/teigen/generators/unconnected_cylinders.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5895,7 +5896,7 @@
         <text>radius_compensation_factor</text>
       </register>
       <register name="/" type="4">
-        <text>regular</text>
+        <text>print</text>
       </register>
       <register name="0" type="4">
         <text>1. / spl1(cylinder_resolution)</text>
@@ -5935,15 +5936,14 @@
       </register>
     </registers>
     <search>
-      <last-search>regular</last-search>
+      <last-search>print</last-search>
       <last-offset />
-      <last-pattern>regular</last-pattern>
+      <last-pattern>print</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>apt-get</entry>
         <entry>kwargs</entry>
         <entry>kw</entry>
         <entry encoding="base64">XDxyZXNlY3Rpb25fbmV3XD4=</entry>
@@ -5963,9 +5963,9 @@
         <entry encoding="base64">XDxhZGRpdGlvbmFsX2luZm9cPg==</entry>
         <entry>Enable</entry>
         <entry>regular</entry>
+        <entry>print</entry>
       </history-search>
       <history-cmd>
-        <entry>704</entry>
         <entry>659</entry>
         <entry>351</entry>
         <entry>425</entry>
@@ -5984,6 +5984,7 @@
         <entry>237</entry>
         <entry>169</entry>
         <entry>171</entry>
+        <entry>249</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
