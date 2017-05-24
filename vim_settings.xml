@@ -1023,13 +1023,13 @@
         <mark key="^" line="64" column="22" />
         <mark key="." line="64" column="22" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/tb_vtk.py" timestamp="1495614060670">
+      <file name="$USER_HOME$/projects/teigen/teigen/tb_vtk.py" timestamp="1495626721067">
         <mark key="a" line="199" column="7" />
         <mark key="'" line="12" column="57" />
-        <mark key="[" line="37" column="9" />
-        <mark key="]" line="37" column="15" />
-        <mark key="^" line="37" column="15" />
-        <mark key="." line="37" column="15" />
+        <mark key="[" line="348" column="47" />
+        <mark key="]" line="350" column="51" />
+        <mark key="^" line="350" column="51" />
+        <mark key="." line="350" column="51" />
       </file>
       <file name="$USER_HOME$/projects/lisa/docs/conf.py" timestamp="1480615675101">
         <mark key="[" line="32" column="35" />
@@ -1069,13 +1069,13 @@
         <mark key="^" line="2" column="13" />
         <mark key="." line="2" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/tgmain.py" timestamp="1495532023600">
-        <mark key="a" line="565" column="20" />
-        <mark key="'" line="580" column="25" />
-        <mark key="[" line="107" column="22" />
-        <mark key="]" line="108" column="31" />
-        <mark key="^" line="108" column="31" />
-        <mark key="." line="108" column="31" />
+      <file name="$USER_HOME$/projects/teigen/teigen/tgmain.py" timestamp="1495628301925">
+        <mark key="a" line="566" column="20" />
+        <mark key="'" line="581" column="25" />
+        <mark key="[" line="686" column="98" />
+        <mark key="]" line="686" column="98" />
+        <mark key="^" line="686" column="98" />
+        <mark key="." line="686" column="98" />
       </file>
       <file name="$USER_HOME$/projects/psongbook/meta.yml" timestamp="1463464886020">
         <mark key="[" line="61" column="34" />
@@ -1462,12 +1462,12 @@
         <mark key="^" line="1068" column="56" />
         <mark key="." line="1068" column="56" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/generators/unconnected_cylinders.py" timestamp="1495562735039">
-        <mark key="'" line="250" column="19" />
-        <mark key="[" line="249" column="16" />
-        <mark key="]" line="249" column="19" />
-        <mark key="^" line="249" column="19" />
-        <mark key="." line="249" column="19" />
+      <file name="$USER_HOME$/projects/teigen/teigen/generators/unconnected_cylinders.py" timestamp="1495627789663">
+        <mark key="'" line="476" column="45" />
+        <mark key="[" line="302" column="55" />
+        <mark key="]" line="304" column="57" />
+        <mark key="^" line="304" column="57" />
+        <mark key="." line="304" column="57" />
       </file>
       <file name="$USER_HOME$/projects/skelet3d/examples/example02.py" timestamp="1465398838088">
         <mark key="'" line="17" column="9" />
@@ -1692,11 +1692,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="219" column="27" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
-      <jump line="220" column="89" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
-      <jump line="222" column="23" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
-      <jump line="223" column="21" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
-      <jump line="224" column="50" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="251" column="23" filename="$USER_HOME$/projects/bodynavigation/bodynavigation/body_navigation.py" />
       <jump line="87" column="0" filename="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" />
       <jump line="20" column="16" filename="$USER_HOME$/projects/imtools/imtools/trainer3d.py" />
@@ -1792,6 +1787,11 @@
       <jump line="199" column="7" filename="$USER_HOME$/projects/teigen/teigen/tb_vtk.py" />
       <jump line="12" column="57" filename="$USER_HOME$/projects/teigen/teigen/tb_vtk.py" />
       <jump line="250" column="19" filename="$USER_HOME$/projects/teigen/teigen/generators/unconnected_cylinders.py" />
+      <jump line="11" column="0" filename="$USER_HOME$/projects/teigen/teigen/generators/unconnected_cylinders.py" />
+      <jump line="494" column="28" filename="$USER_HOME$/projects/teigen/teigen/generators/unconnected_cylinders.py" />
+      <jump line="495" column="21" filename="$USER_HOME$/projects/teigen/teigen/generators/unconnected_cylinders.py" />
+      <jump line="496" column="26" filename="$USER_HOME$/projects/teigen/teigen/generators/unconnected_cylinders.py" />
+      <jump line="476" column="45" filename="$USER_HOME$/projects/teigen/teigen/generators/unconnected_cylinders.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5871,8 +5871,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>_</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIyBjeWxpbmRlcgogICAgICAgICAgICAjIHR1YmUK</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -5894,58 +5894,57 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>print</text>
+        <text>vtk</text>
       </register>
-      <register name="0" type="4">
-        <text>1. / spl1(cylinder_resolution)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBpZiB0dWJlX3NoYXBlOgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjeWxpbmRlcl9yYWRpdXNfY29tcGVuc2F0aW9uX2ZhY3RvciA9ICByZWd1bGFyX3BvbHlnb25fc3VyZmFjZV9lcXVpdmFsZW50X3JhZGl1cyhjeWxpbmRlcl9yZXNvbHV0aW9uKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBjeWxpbmRlcgogICAgICAgICAgICAjIHR1YmUK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2b2wgPSBtYXNzLkdldFZvbHVtZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyB2b2x1bWUgPSAgbnAucGkgKiByYWRpdXMqKjIgKiBsZW5ndGgK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzdXJmID0gbWFzcy5HZXRTdXJmYWNlQXJlYSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAjIGlmIGl0IGlzIGN5bGluZGVyCiAgICAgICAgIyBzdXJmID0gMiAqIG5wLnBpICogcmFkaXVzICogKHJhZGl1cyArIGxlbmd0aCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwZGF0YXMgPSBzZWxmLl9fZ2VuZXJhdGVfdnRrKHNlbGYudGVtcF92dGtfZmlsZSkK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwZGF0YXMgPSAK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBjeWxpbmRlcl9yYWRpdXNfY29tcGVuc2F0aW9uX2ZhY3RvciA9ICByZWd1bGFyX3BvbHlnb25fc3VyZmFjZV9lcXVpdmFsZW50X3JhZGl1cyhjeWxpbmRlcl9yZXNvbHV0aW9uKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB2b2wgPSBtYXNzLkdldFZvbHVtZSgpCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcG9seWRhdGFfc3VyZiA9IHBvbHlkYXRhX3ZvbAo=</text>
+        <text encoding="base64">ICAgICAgICBzdXJmID0gbWFzcy5HZXRTdXJmYWNlQXJlYSgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB4ID0gWzYsIDcsIDgsIDEwLCAxMiwgMTYsIDIwLCAyNSwgMzAsIDQwLCA1MCwgMTAwMF0KICAgICAgICB5ID0gWzAuOTk4MjA2ODEsIDAuOTk5OTAxNzEsIDEuMDAwNTczODQsIDEuMDAwOTA4NzUsCiAgICAgICAgICAgICAxLjAwMDg2NjE3LCAxLjAwMDY0NDAxLCAxLjAwMDQ2OTg0LCAxLjAwMDMyOTQyLAogICAgICAgICAgICAgMS4wMDAyNDE4NiwgMS4wMDAxNDUwOSwgMS4wMDAwOTYyNywgMS5dCg==</text>
+        <text encoding="base64">ICAgICAgICBwZGF0YXMgPSBzZWxmLl9fZ2VuZXJhdGVfdnRrKHNlbGYudGVtcF92dGtfZmlsZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByYWRpdXNfY29tcGVuc2F0aW9uX2ZhY3RvciA9ICByZWd1bGFyX3BvbHlnb25fc3VyZmFjZV9lcXVpdmFsZW50X3JhZGl1cyhjeWxpbmRlcl9yZXNvbHV0aW9uKQo=</text>
+        <text encoding="base64">ICAgICAgICBwZGF0YXMgPSAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>print</last-search>
+      <last-search>vtk</last-search>
       <last-offset />
-      <last-pattern>print</last-pattern>
+      <last-pattern>vtk</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>kwargs</entry>
         <entry>kw</entry>
         <entry encoding="base64">XDxyZXNlY3Rpb25fbmV3XD4=</entry>
         <entry>get</entry>
@@ -5965,6 +5964,7 @@
         <entry>Enable</entry>
         <entry>regular</entry>
         <entry>print</entry>
+        <entry>vtk</entry>
       </history-search>
       <history-cmd>
         <entry>659</entry>
