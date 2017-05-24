@@ -1069,13 +1069,13 @@
         <mark key="^" line="2" column="13" />
         <mark key="." line="2" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/tgmain.py" timestamp="1495628301925">
-        <mark key="a" line="566" column="20" />
-        <mark key="'" line="581" column="25" />
-        <mark key="[" line="686" column="98" />
-        <mark key="]" line="686" column="98" />
-        <mark key="^" line="686" column="98" />
-        <mark key="." line="686" column="98" />
+      <file name="$USER_HOME$/projects/teigen/teigen/tgmain.py" timestamp="1495632610784">
+        <mark key="a" line="568" column="20" />
+        <mark key="'" line="583" column="25" />
+        <mark key="[" line="275" column="79" />
+        <mark key="]" line="275" column="79" />
+        <mark key="^" line="275" column="79" />
+        <mark key="." line="275" column="79" />
       </file>
       <file name="$USER_HOME$/projects/psongbook/meta.yml" timestamp="1463464886020">
         <mark key="[" line="61" column="34" />
@@ -1682,13 +1682,13 @@
         <mark key="^" line="13" column="3" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1494922379629">
+      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1495632567870">
         <mark key="a" line="384" column="12" />
         <mark key="'" line="567" column="37" />
-        <mark key="[" line="411" column="50" />
-        <mark key="]" line="411" column="50" />
-        <mark key="." line="411" column="50" />
-        <mark key="^" line="411" column="50" />
+        <mark key="[" line="368" column="101" />
+        <mark key="]" line="368" column="113" />
+        <mark key="." line="368" column="113" />
+        <mark key="^" line="368" column="113" />
       </file>
     </filemarks>
     <jumps>
@@ -5871,8 +5871,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBjeWxpbmRlcgogICAgICAgICAgICAjIHR1YmUK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">bWV0aG9kICA=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -5894,13 +5894,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">bWV0aG9kICA=</text>
       </register>
       <register name="/" type="4">
         <text>vtk</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiB0dWJlX3NoYXBlOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWV0aG9kICA9IHNlbGYuY29uZmlnWyJtZWFzdXJlbWVudCJdWyJwb2x5Z29uX3JhZGl1c19zZWxlY3Rpb25fbWV0aG9kIl0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgIyBjeWxpbmRlcgogICAgICAgICAgICAjIHR1YmUK</text>
@@ -5967,7 +5967,6 @@
         <entry>vtk</entry>
       </history-search>
       <history-cmd>
-        <entry>659</entry>
         <entry>351</entry>
         <entry>425</entry>
         <entry>430</entry>
@@ -5986,6 +5985,7 @@
         <entry>169</entry>
         <entry>171</entry>
         <entry>249</entry>
+        <entry>227</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
