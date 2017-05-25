@@ -1132,8 +1132,8 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/geometry3d.py" timestamp="1495023775050">
-        <mark key="'" line="757" column="25" />
+      <file name="$USER_HOME$/projects/teigen/teigen/geometry3d.py" timestamp="1495737787573">
+        <mark key="'" line="36" column="15" />
         <mark key="[" line="726" column="0" />
         <mark key="]" line="780" column="12" />
         <mark key="." line="739" column="0" />
@@ -1692,7 +1692,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="16" filename="$USER_HOME$/projects/imtools/imtools/trainer3d.py" />
       <jump line="121" column="12" filename="$USER_HOME$/projects/imtools/imtools/trainer3d.py" />
       <jump line="11" column="7" filename="$USER_HOME$/projects/imtools/imtools/trainer3d.py" />
       <jump line="18" column="9" filename="$USER_HOME$/projects/imtools/imtools/trainer3d.py" />
@@ -1792,6 +1791,7 @@
       <jump line="476" column="45" filename="$USER_HOME$/projects/teigen/teigen/generators/unconnected_cylinders.py" />
       <jump line="274" column="90" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
       <jump line="327" column="46" filename="$USER_HOME$/projects/teigen/teigen/tb_vtk.py" />
+      <jump line="36" column="15" filename="$USER_HOME$/projects/teigen/teigen/geometry3d.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5897,7 +5897,7 @@
         <text>Output</text>
       </register>
       <register name="/" type="4">
-        <text>vtk</text>
+        <text>regular</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY3lsaW5kZXJUcmkgPSB2dGsudnRrVHJpYW5nbGVGaWx0ZXIoKQo=</text>
@@ -5937,9 +5937,9 @@
       </register>
     </registers>
     <search>
-      <last-search>vtk</last-search>
+      <last-search>regular</last-search>
       <last-offset />
-      <last-pattern>vtk</last-pattern>
+      <last-pattern>regular</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -5962,9 +5962,9 @@
         <entry encoding="base64">XDxkYXRhZnJhbWVzXD4=</entry>
         <entry encoding="base64">XDxhZGRpdGlvbmFsX2luZm9cPg==</entry>
         <entry>Enable</entry>
-        <entry>regular</entry>
         <entry>print</entry>
         <entry>vtk</entry>
+        <entry>regular</entry>
       </history-search>
       <history-cmd>
         <entry>351</entry>
