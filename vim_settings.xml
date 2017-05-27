@@ -1028,13 +1028,13 @@
         <mark key="^" line="64" column="22" />
         <mark key="." line="64" column="22" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/tb_vtk.py" timestamp="1495895245527">
+      <file name="$USER_HOME$/projects/teigen/teigen/tb_vtk.py" timestamp="1495896116591">
         <mark key="a" line="404" column="17" />
-        <mark key="'" line="12" column="9" />
-        <mark key="[" line="173" column="29" />
-        <mark key="]" line="173" column="30" />
-        <mark key="." line="173" column="30" />
-        <mark key="^" line="173" column="30" />
+        <mark key="'" line="170" column="4" />
+        <mark key="[" line="187" column="29" />
+        <mark key="]" line="187" column="28" />
+        <mark key="." line="187" column="28" />
+        <mark key="^" line="187" column="28" />
       </file>
       <file name="$USER_HOME$/projects/lisa/docs/conf.py" timestamp="1480615675101">
         <mark key="[" line="32" column="35" />
@@ -1709,8 +1709,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="28" filename="$USER_HOME$/projects/imtools/tests/dili_test.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
       <jump line="90" column="0" filename="$USER_HOME$/projects/teigen/teigen/dictwidgetqt.py" />
       <jump line="234" column="4" filename="$USER_HOME$/projects/teigen/teigen/dictwidgetqt.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/teigen/teigen/dictwidgetqt.py" />
@@ -1809,6 +1807,8 @@
       <jump line="8" column="64" filename="$USER_HOME$/projects/Sachy/README.md" />
       <jump line="318" column="4" filename="$USER_HOME$/projects/teigen/teigen/tb_vtk.py" />
       <jump line="12" column="9" filename="$USER_HOME$/projects/teigen/teigen/tb_vtk.py" />
+      <jump line="173" column="4" filename="$USER_HOME$/projects/teigen/teigen/tb_vtk.py" />
+      <jump line="170" column="4" filename="$USER_HOME$/projects/teigen/teigen/tb_vtk.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5889,7 +5889,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>0, length/ 2, 0</text>
+        <text>e</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -5911,58 +5911,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>0, length/ 2, 0</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>regular</text>
+        <text encoding="base64">XDxtaWRkbGVcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHBvaW50MiA9IFswLjAsIDAuMCwgMC4wXQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGF4aXMxID0gMgogICAgYXhpczIgPSAxCg==</text>
+      <register name="1" type="4">
+        <text>)
+    cylinder</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgcHJpbnQoZGJnX21zZykKICAgIHJldHZhbCA9IE5vbmUK</text>
+        <text encoding="base64">ICAgIGF4aXMxID0gMgogICAgYXhpczIgPSAxCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGN5bGluZGVyX3JhZGl1cyA9IHJhZGl1cyAqIGN5bGluZGVyX3JhZGl1c19jb21wZW5zYXRpb25fZmFjdG9yCiAgICBzcGhlcmVfcmFkaXVzID0gcmFkaXVzICogc3BoZXJlX3JhZGl1c19jb21wZW5zYXRpb25fZmFjdG9yCg==</text>
+        <text encoding="base64">ICAgICMgcHJpbnQoZGJnX21zZykKICAgIHJldHZhbCA9IE5vbmUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICBzcGhlcmUyID0gZ2V0X3NwaGVyZShsdiwgc3BoZXJlX3JhZGl1cywgcmVzb2x1dGlvbj1zcGhlcmVfcmVzb2x1dGlvbikKICAgIHNwaGVyZTJUcmkuU2V0SW5wdXREYXRhKHNwaGVyZTIpCiAgICBzcGhlcmUyVHJpLlVwZGF0ZSgpCg==</text>
+        <text encoding="base64">ICAgIGN5bGluZGVyX3JhZGl1cyA9IHJhZGl1cyAqIGN5bGluZGVyX3JhZGl1c19jb21wZW5zYXRpb25fZmFjdG9yCiAgICBzcGhlcmVfcmFkaXVzID0gcmFkaXVzICogc3BoZXJlX3JhZGl1c19jb21wZW5zYXRpb25fZmFjdG9yCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHNwaGVyZQo=</text>
+        <text encoding="base64">CiAgICBzcGhlcmUyID0gZ2V0X3NwaGVyZShsdiwgc3BoZXJlX3JhZGl1cywgcmVzb2x1dGlvbj1zcGhlcmVfcmVzb2x1dGlvbikKICAgIHNwaGVyZTJUcmkuU2V0SW5wdXREYXRhKHNwaGVyZTIpCiAgICBzcGhlcmUyVHJpLlVwZGF0ZSgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgc3JjLlNldEhlaWdodChoZWlnaHQgKyByYWRpdXMvMi4wKQo=</text>
+        <text encoding="base64">ICAgIHNwaGVyZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGN5bGluZGVyVHJpID0gdnRrLnZ0a1RyaWFuZ2xlRmlsdGVyKCkKICAgIHNwaGVyZTFUcmkgPSB2dGsudnRrVHJpYW5nbGVGaWx0ZXIoKQogICAgc3BoZXJlMlRyaSA9IHZ0ay52dGtUcmlhbmdsZUZpbHRlcigpCg==</text>
+        <text encoding="base64">ICAgICMgc3JjLlNldEhlaWdodChoZWlnaHQgKyByYWRpdXMvMi4wKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIGxlbmd0aCA+IDA6Cg==</text>
+        <text encoding="base64">ICAgIGN5bGluZGVyVHJpID0gdnRrLnZ0a1RyaWFuZ2xlRmlsdGVyKCkKICAgIHNwaGVyZTFUcmkgPSB2dGsudnRrVHJpYW5nbGVGaWx0ZXIoKQogICAgc3BoZXJlMlRyaSA9IHZ0ay52dGtUcmlhbmdsZUZpbHRlcigpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIGxlbmd0aCA+IDA6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>regular</last-search>
+      <last-search encoding="base64">XDxtaWRkbGVcPg==</last-search>
       <last-offset />
-      <last-pattern>regular</last-pattern>
+      <last-pattern encoding="base64">XDxtaWRkbGVcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>kw</entry>
         <entry encoding="base64">XDxyZXNlY3Rpb25fbmV3XD4=</entry>
         <entry>get</entry>
         <entry>Version</entry>
@@ -5982,6 +5982,7 @@
         <entry>print</entry>
         <entry>vtk</entry>
         <entry>regular</entry>
+        <entry encoding="base64">XDxtaWRkbGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>351</entry>
