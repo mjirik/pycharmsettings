@@ -721,7 +721,7 @@
         <mark key="^" line="155" column="15" />
         <mark key="." line="155" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1496063467673">
+      <file name="/Dummy.txt" timestamp="1496063592171">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/disco/disco/__init__.py" timestamp="1463148479573">
@@ -1364,11 +1364,11 @@
         <mark key="." line="44" column="0" />
         <mark key="^" line="43" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/discon/discon/__main__.py" timestamp="1496063465258">
-        <mark key="'" line="437" column="17" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/projects/discon/discon/__main__.py" timestamp="1496063588564">
+        <mark key="'" line="94" column="62" />
+        <mark key="[" line="108" column="39" />
+        <mark key="]" line="108" column="39" />
+        <mark key="." line="108" column="39" />
         <mark key="^" line="60" column="19" />
       </file>
       <file name="$USER_HOME$/projects/quantan/quantan/histology_analyser_gui.py" timestamp="1470570440656">
@@ -1714,8 +1714,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="234" column="4" filename="$USER_HOME$/projects/teigen/teigen/dictwidgetqt.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/teigen/teigen/dictwidgetqt.py" />
       <jump line="260" column="0" filename="$USER_HOME$/projects/teigen/teigen/generators/cylinders.py" />
       <jump line="395" column="0" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="102" column="36" filename="$USER_HOME$/projects/metalisa/installer.sh" />
@@ -1814,6 +1812,8 @@
       <jump line="173" column="4" filename="$USER_HOME$/projects/teigen/teigen/tb_vtk.py" />
       <jump line="170" column="4" filename="$USER_HOME$/projects/teigen/teigen/tb_vtk.py" />
       <jump line="437" column="17" filename="$USER_HOME$/projects/discon/discon/__main__.py" />
+      <jump line="40" column="0" filename="$USER_HOME$/projects/discon/discon/__main__.py" />
+      <jump line="94" column="62" filename="$USER_HOME$/projects/discon/discon/__main__.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5893,8 +5893,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBwZGIKICAgIHBkYi5zZXRfdHJhY2UoKQo=</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -5916,10 +5916,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">SW5pdCA=</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtaWRkbGVcPg==</text>
+        <text>shell</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC0gYnVtcHZlcnNpb24K</text>
@@ -5966,15 +5966,14 @@ subprocess.</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtaWRkbGVcPg==</last-search>
+      <last-search>shell</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtaWRkbGVcPg==</last-pattern>
+      <last-pattern>shell</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZXNlY3Rpb25fbmV3XD4=</entry>
         <entry>get</entry>
         <entry>Version</entry>
         <entry>Vers</entry>
@@ -5994,6 +5993,7 @@ subprocess.</text>
         <entry>vtk</entry>
         <entry>regular</entry>
         <entry encoding="base64">XDxtaWRkbGVcPg==</entry>
+        <entry>shell</entry>
       </history-search>
       <history-cmd>
         <entry>351</entry>
