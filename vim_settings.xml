@@ -459,6 +459,12 @@
         <mark key="^" line="22" column="68" />
         <mark key="." line="22" column="68" />
       </file>
+      <file name="$USER_HOME$/projects/discon/README.md" timestamp="1496063004810">
+        <mark key="[" line="56" column="26" />
+        <mark key="]" line="56" column="41" />
+        <mark key="^" line="56" column="41" />
+        <mark key="." line="56" column="41" />
+      </file>
       <file name="$USER_HOME$/projects/discon/meta.yaml" timestamp="1496061184898">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="46" column="0" />
@@ -715,7 +721,7 @@
         <mark key="^" line="155" column="15" />
         <mark key="." line="155" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1496061198493">
+      <file name="/Dummy.txt" timestamp="1496063036547">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/disco/disco/__init__.py" timestamp="1463148479573">
@@ -5887,8 +5893,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC0gYnVtcHZlcnNpb24K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">SW5pdCA=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -5910,7 +5916,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>print</text>
+        <text encoding="base64">SW5pdCA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtaWRkbGVcPg==</text>
