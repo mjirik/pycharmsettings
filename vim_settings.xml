@@ -721,7 +721,7 @@
         <mark key="^" line="155" column="15" />
         <mark key="." line="155" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1496063036547">
+      <file name="/Dummy.txt" timestamp="1496063467673">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/disco/disco/__init__.py" timestamp="1463148479573">
@@ -1364,11 +1364,11 @@
         <mark key="." line="44" column="0" />
         <mark key="^" line="43" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/discon/discon/__main__.py" timestamp="1496060643327">
+      <file name="$USER_HOME$/projects/discon/discon/__main__.py" timestamp="1496063465258">
         <mark key="'" line="437" column="17" />
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="54" />
-        <mark key="." line="60" column="19" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
         <mark key="^" line="60" column="19" />
       </file>
       <file name="$USER_HOME$/projects/quantan/quantan/histology_analyser_gui.py" timestamp="1470570440656">
@@ -5893,8 +5893,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">SW5pdCA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGltcG9ydCBwZGIKICAgIHBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -5925,41 +5925,41 @@
         <text encoding="base64">ICAgIC0gYnVtcHZlcnNpb24K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC0gYnVtcHZlcnNpb24K</text>
+        <text encoding="base64">ICAgIGltcG9ydCBwZGIKICAgIHBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAjIHRyeToKICAgICMgICAgIHN1YnByb2Nlc3MuY2FsbChbInJtICIsICItcmYgIiwgIndpbi0qIl0pCiAgICAjIGV4Y2VwdCBPU0Vycm9yOgogICAgIyAgICAgcGFzcwogICAgIyB0cnk6CiAgICAjICAgICBzdWJwcm9jZXNzLmNhbGwoWyJybSAiLCAiLXJmICIsICJsaW51eC0qIl0pCiAgICAjIGV4Y2VwdCBPU0Vycm9yOgogICAgIyAgICAgcGFzcwogICAgIyB0cnk6CiAgICAjICAgICBzdWJwcm9jZXNzLmNhbGwoWyJybSAiLCAiLXJmICIsICJvc3gtKiJdKQogICAgIyBleGNlcHQgT1NFcnJvcjoKICAgICMgICAgIHBhc3MKICAgICMgIyB0aGlzIGZpeGVzIHVwbG9hZCBjb25maWxjdAogICAgIyB0cnk6CiAgICAjICAgICBzdWJwcm9jZXNzLmNhbGwoWyJybSAiLCAiLXJmICIsICJkaXN0LyoudGFyLmd6Il0pCiAgICAjIGV4Y2VwdCBPU0Vycm9yOgogICAgIyAgICAgcGFzcwo=</text>
+        <text encoding="base64">ICAgIGltcG9ydCBwZGIKICAgIHBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIC0gYnVtcHZlcnNpb24K</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">CiAgICAjIHRyeToKICAgICMgICAgIHN1YnByb2Nlc3MuY2FsbChbInJtICIsICItcmYgIiwgIndpbi0qIl0pCiAgICAjIGV4Y2VwdCBPU0Vycm9yOgogICAgIyAgICAgcGFzcwogICAgIyB0cnk6CiAgICAjICAgICBzdWJwcm9jZXNzLmNhbGwoWyJybSAiLCAiLXJmICIsICJsaW51eC0qIl0pCiAgICAjIGV4Y2VwdCBPU0Vycm9yOgogICAgIyAgICAgcGFzcwogICAgIyB0cnk6CiAgICAjICAgICBzdWJwcm9jZXNzLmNhbGwoWyJybSAiLCAiLXJmICIsICJvc3gtKiJdKQogICAgIyBleGNlcHQgT1NFcnJvcjoKICAgICMgICAgIHBhc3MKICAgICMgIyB0aGlzIGZpeGVzIHVwbG9hZCBjb25maWxjdAogICAgIyB0cnk6CiAgICAjICAgICBzdWJwcm9jZXNzLmNhbGwoWyJybSAiLCAiLXJmICIsICJkaXN0LyoudGFyLmd6Il0pCiAgICAjIGV4Y2VwdCBPU0Vycm9yOgogICAgIyAgICAgcGFzcwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBzdQo=</text>
       </register>
-      <register name="5" type="8">
+      <register name="7" type="8">
         <text>subprocess.
 subprocess.
 subprocess.
 subprocess.</text>
       </register>
-      <register name="6" type="8">
+      <register name="8" type="8">
         <text>subprocess.
 subprocess.
 subprocess.
 subprocess.
 subprocess.</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXBvID0gZ2l0LlJlcG8oIi4iKQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXBvID0gZ2l0LlJlcG8oIi4iKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiByZXBvLmlzX2RpcnR5KCk6CiAgICAgICAgICAgIGxvZ2dlci5lcnJvcigiR2l0IHJlcG9zaXRvcnkgaXMgZGlydHkuIENsZWFuIGl0LiIpCiAgICAgICAgICAgIHJldHVybgo=</text>
+        <text encoding="base64">ICAgICAgICByZXBvID0gZ2l0LlJlcG8oIi4iKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
