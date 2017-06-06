@@ -721,7 +721,7 @@
         <mark key="^" line="155" column="15" />
         <mark key="." line="155" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1496316445981">
+      <file name="/Dummy.txt" timestamp="1496764700281">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/disco/disco/__init__.py" timestamp="1463148479573">
@@ -1079,15 +1079,15 @@
         <mark key="^" line="2" column="13" />
         <mark key="." line="2" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/tgmain.py" timestamp="1496751470902">
+      <file name="$USER_HOME$/projects/teigen/teigen/tgmain.py" timestamp="1496764647425">
         <mark key="a" line="641" column="25" />
         <mark key="b" line="185" column="9" />
         <mark key="c" line="105" column="0" />
         <mark key="'" line="445" column="35" />
-        <mark key="[" line="708" column="0" />
-        <mark key="]" line="712" column="42" />
-        <mark key="." line="681" column="28" />
-        <mark key="^" line="681" column="28" />
+        <mark key="[" line="449" column="55" />
+        <mark key="]" line="449" column="55" />
+        <mark key="." line="449" column="55" />
+        <mark key="^" line="449" column="55" />
       </file>
       <file name="$USER_HOME$/projects/psongbook/meta.yml" timestamp="1463464886020">
         <mark key="[" line="61" column="34" />
@@ -5895,8 +5895,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBvcC5leGlzdHMoZmlsZW5hbWUpOgogICAgICAgICAgICBkZmluID0gcGQucmVhZF9jc3YoZmlsZW5hbWUpCiAgICAgICAgICAgIGRmb3V0ID0gcGQuY29uY2F0KFtkZmluLCBkZm91dF0sIGF4aXM9MCkKCiAgICAgICAgZGZvdXQudG9fY3N2KGZpbGVuYW1lLCBpbmRleD1GYWxzZSkK</text>
+      <register name="&quot;" type="4">
+        <text>t</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -5918,13 +5918,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">U2F2ZSA=</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>step1_to</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBvcC5leGlzdHMoZmlsZW5hbWUpOgogICAgICAgICAgICBkZmluID0gcGQucmVhZF9jc3YoZmlsZW5hbWUpCiAgICAgICAgICAgIGRmb3V0ID0gcGQuY29uY2F0KFtkZmluLCBkZm91dF0sIGF4aXM9MCkKCiAgICAgICAgZGZvdXQudG9fY3N2KGZpbGVuYW1lLCBpbmRleD1GYWxzZSkK</text>
+        <text encoding="base64">ICAgICAgICBjb25maWdfZGYgPSBwZC5EYXRhRnJhbWUoW2NvbmZpZ19mbF0sIGNvbHVtbnM9Y29uZmlnX2ZsLmtleXMoKSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAjIHJhZGl1cz0gMS4gLSAoY3lsaW5kZXJfcmFkaXVzIC0gc3BoZXJlX3JhZGl1cyksCg==</text>
@@ -5991,7 +5991,6 @@
         <entry>step1_to</entry>
       </history-search>
       <history-cmd>
-        <entry>425</entry>
         <entry>430</entry>
         <entry>:w</entry>
         <entry>e</entry>
@@ -6010,6 +6009,7 @@
         <entry>249</entry>
         <entry>227</entry>
         <entry>W</entry>
+        <entry>450</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
