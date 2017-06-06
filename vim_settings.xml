@@ -1079,14 +1079,15 @@
         <mark key="^" line="2" column="13" />
         <mark key="." line="2" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/tgmain.py" timestamp="1496746512931">
-        <mark key="a" line="633" column="25" />
-        <mark key="b" line="182" column="9" />
-        <mark key="'" line="435" column="0" />
-        <mark key="[" line="237" column="0" />
-        <mark key="]" line="237" column="31" />
-        <mark key="^" line="236" column="31" />
-        <mark key="." line="237" column="0" />
+      <file name="$USER_HOME$/projects/teigen/teigen/tgmain.py" timestamp="1496748683254">
+        <mark key="a" line="638" column="25" />
+        <mark key="b" line="185" column="9" />
+        <mark key="c" line="105" column="0" />
+        <mark key="'" line="442" column="35" />
+        <mark key="[" line="683" column="8" />
+        <mark key="]" line="683" column="8" />
+        <mark key="." line="683" column="8" />
+        <mark key="^" line="683" column="8" />
       </file>
       <file name="$USER_HOME$/projects/psongbook/meta.yml" timestamp="1463464886020">
         <mark key="[" line="61" column="34" />
@@ -1715,10 +1716,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="11" filename="$USER_HOME$/projects/lisa/.travis.yml" />
-      <jump line="12" column="13" filename="$USER_HOME$/projects/lisa/.travis.yml" />
-      <jump line="13" column="11" filename="$USER_HOME$/projects/lisa/.travis.yml" />
-      <jump line="50" column="13" filename="$USER_HOME$/projects/lisa/.travis.yml" />
       <jump line="57" column="0" filename="$USER_HOME$/miniconda/lib/python2.7/site-packages/lisa/virtual_resection.py" />
       <jump line="448" column="8" filename="$USER_HOME$/miniconda/lib/python2.7/site-packages/lisa/virtual_resection.py" />
       <jump line="349" column="4" filename="$USER_HOME$/miniconda/lib/python2.7/site-packages/lisa/virtual_resection.py" />
@@ -1815,6 +1812,10 @@
       <jump line="59" column="46" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
       <jump line="61" column="18" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
       <jump line="429" column="0" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
+      <jump line="105" column="0" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
+      <jump line="185" column="9" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
+      <jump line="268" column="12" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
+      <jump line="442" column="35" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5894,8 +5895,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnRpbWVfcnVuID0gdDIgLSB0MAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">U2F2ZSA=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -5917,59 +5918,57 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>generate_vtk_s</text>
+        <text encoding="base64">U2F2ZSA=</text>
       </register>
       <register name="/" type="4">
-        <text>time</text>
+        <text>step1_to</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnN0YXRzX3RpbWVzWyJzdGVwMSBnZW5lcmF0ZV92dGtfcyJdID0gWyh0MiAtIHQxKS50b3RhbF9zZWNvbmRzKCldCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnN0YXRzX3RpbWVzWyJzdGVwMl90b3RhbF90aW1lX3MiXSA9IFsodDMpLnRvdGFsX3NlY29uZHMoKV0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnRpbWVfcnVuID0gdDIgLSB0MAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi50aW1lX3J1biA9IHQyIC0gdDAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnN0YXRzX3RpbWVzWyJnZW5lcmF0ZV92b2x1bWVfdGltZV9zIl0gPSBbKHQyIC0gdDEpLnRvdGFsX3NlY29uZHMoKV0KICAgICAgICBzZWxmLnN0YXRzX3RpbWVzWyJzYXZlX3ZvbHVtZV90aW1lX3MiXSA9IFsodDMgLSB0MikudG90YWxfc2Vjb25kcygpXQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnRpbWVfcnVuID0gdDIgLSB0MAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnRpbWVfcnVuID0gdDEgLSB0MAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0MSA9IHRpbWUudGltZSgpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0MCA9IGRhdGV0aW1lLmRhdGV0aW1lLm5vdygpCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLnN0YXRzX3RpbWVzWyJnZW5lcmF0ZV92b2x1bWVfdGltZV9zIl0gPSBbKHQyIC0gdDEpLnRvdGFsX3NlY29uZHMoKV0KICAgICAgICBzZWxmLnN0YXRzX3RpbWVzWyJzYXZlX3ZvbHVtZV90aW1lX3MiXSA9IFsodDMgLSB0MikudG90YWxfc2Vjb25kcygpXQo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLnRpbWVfcnVuID0gdDEgLSB0MAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB0MSA9IHRpbWUudGltZSgpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB0MCA9IGRhdGV0aW1lLmRhdGV0aW1lLm5vdygpCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygidGltZSBiZWZvcmUgdm9sdW1lIHNhdmU6ICIgKyBzdHIodDIgLSB0MCkpCiAgICAgICAgbG9nZ2VyLmluZm8oInRpbWUgYWZ0ZXIgdm9sdW1lIHNhdmU6ICIgKyBzdHIodDMgLSB0MCkpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnN0YXRzX3RpbWVzWyJnZW5lcmF0ZV92b2x1bWVfdGltZV9zIl0gPSBbKHQyIC0gdDEpLnRvdGFsX3NlY29uZHMoKV0KICAgICAgICBzZWxmLnN0YXRzX3RpbWVzWyJzYXZlX3ZvbHVtZV90aW1lX3MiXSA9IFsodDMgLSB0MikudG90YWxfc2Vjb25kcygpXQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0MyA9IGRhdGV0aW1lLmRhdGV0aW1lLm5vdygpCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygidGltZSBiZWZvcmUgdm9sdW1lIHNhdmU6ICIgKyBzdHIodDIgLSB0MCkpCiAgICAgICAgbG9nZ2VyLmluZm8oInRpbWUgYWZ0ZXIgdm9sdW1lIHNhdmU6ICIgKyBzdHIodDMgLSB0MCkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgdGltZQo=</text>
+        <text encoding="base64">ICAgICAgICB0MyA9IGRhdGV0aW1lLmRhdGV0aW1lLm5vdygpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>time</last-search>
+      <last-search>step1_to</last-search>
       <last-offset />
-      <last-pattern>time</last-pattern>
+      <last-pattern>step1_to</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfbnVtZXJpY19tZWFzdXJlbWVudFw+</entry>
-        <entry encoding="base64">XDxzYXZlX3N0YXRzXD4=</entry>
         <entry>dataframes</entry>
         <entry encoding="base64">XDxvdmVyYWxsXD4=</entry>
         <entry encoding="base64">XDxkYXRhZnJhbWVzXD4=</entry>
@@ -5988,6 +5987,8 @@
         <entry>processing</entry>
         <entry>processing_info</entry>
         <entry>time</entry>
+        <entry>step2_st</entry>
+        <entry>step1_to</entry>
       </history-search>
       <history-cmd>
         <entry>425</entry>
