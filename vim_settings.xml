@@ -1079,13 +1079,13 @@
         <mark key="^" line="2" column="13" />
         <mark key="." line="2" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/tgmain.py" timestamp="1496741191126">
+      <file name="$USER_HOME$/projects/teigen/teigen/tgmain.py" timestamp="1496743527073">
         <mark key="a" line="575" column="20" />
-        <mark key="'" line="280" column="90" />
+        <mark key="'" line="601" column="49" />
         <mark key="[" line="164" column="37" />
-        <mark key="]" line="169" column="0" />
-        <mark key="." line="169" column="0" />
-        <mark key="^" line="168" column="3" />
+        <mark key="]" line="601" column="49" />
+        <mark key="." line="601" column="49" />
+        <mark key="^" line="601" column="49" />
       </file>
       <file name="$USER_HOME$/projects/psongbook/meta.yml" timestamp="1463464886020">
         <mark key="[" line="61" column="34" />
@@ -1714,7 +1714,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="2" filename="$USER_HOME$/projects/metalisa/requirements_conda.txt" />
       <jump line="0" column="2" filename="$USER_HOME$/projects/metalisa/requirements_conda.txt" />
       <jump line="371" column="0" filename="$USER_HOME$/projects/dicom2fem/dicom2fem/mesh.py" />
       <jump line="647" column="17" filename="$USER_HOME$/projects/dicom2fem/dicom2fem/mesh.py" />
@@ -1814,6 +1813,7 @@
       <jump line="200" column="18" filename="$USER_HOME$/projects/teigen/teigen/tb_vtk.py" />
       <jump line="213" column="13" filename="$USER_HOME$/projects/teigen/teigen/tb_vtk.py" />
       <jump line="216" column="25" filename="$USER_HOME$/projects/teigen/teigen/tb_vtk.py" />
+      <jump line="601" column="49" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5919,7 +5919,7 @@
         <text>_radius</text>
       </register>
       <register name="/" type="4">
-        <text>w</text>
+        <text>now</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjeWxpbmRlcl9yYWRpdXNfY29tcGVuc2F0aW9uX2ZhY3Rvcl9sb25nID0gY3lsaW5kZXJfcmFkaXVzX2NvbXBlbnNhdGlvbl9mYWN0b3IKICAgICAgICBzcGhlcmVfcmFkaXVzX2NvbXBlbnNhdGlvbl9mYWN0b3JfbG9uZyA9IHNwaGVyZV9yYWRpdXNfY29tcGVuc2F0aW9uX2ZhY3Rvcgo=</text>
@@ -5959,15 +5959,14 @@
       </register>
     </registers>
     <search>
-      <last-search>w</last-search>
+      <last-search>now</last-search>
       <last-offset />
-      <last-pattern>w</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>now</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Vers</entry>
         <entry>ahoj</entry>
         <entry>export</entry>
         <entry>etS</entry>
@@ -5987,6 +5986,7 @@
         <entry>shell</entry>
         <entry encoding="base64">XDxyb3QxXD4=</entry>
         <entry>w</entry>
+        <entry>now</entry>
       </history-search>
       <history-cmd>
         <entry>425</entry>
