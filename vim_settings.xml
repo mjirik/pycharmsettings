@@ -1078,15 +1078,15 @@
         <mark key="^" line="2" column="13" />
         <mark key="." line="2" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/tgmain.py" timestamp="1496764647425">
+      <file name="$USER_HOME$/projects/teigen/teigen/tgmain.py" timestamp="1497278592975">
         <mark key="a" line="641" column="25" />
         <mark key="b" line="185" column="9" />
         <mark key="c" line="105" column="0" />
-        <mark key="'" line="445" column="35" />
-        <mark key="[" line="449" column="55" />
-        <mark key="]" line="449" column="55" />
-        <mark key="." line="449" column="55" />
-        <mark key="^" line="449" column="55" />
+        <mark key="'" line="774" column="26" />
+        <mark key="[" line="276" column="62" />
+        <mark key="]" line="276" column="74" />
+        <mark key="." line="276" column="74" />
+        <mark key="^" line="276" column="74" />
       </file>
       <file name="$USER_HOME$/projects/psongbook/meta.yml" timestamp="1463464886020">
         <mark key="[" line="61" column="34" />
@@ -1715,17 +1715,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="0" filename="$USER_HOME$/miniconda/lib/python2.7/site-packages/lisa/virtual_resection.py" />
-      <jump line="448" column="8" filename="$USER_HOME$/miniconda/lib/python2.7/site-packages/lisa/virtual_resection.py" />
-      <jump line="349" column="4" filename="$USER_HOME$/miniconda/lib/python2.7/site-packages/lisa/virtual_resection.py" />
-      <jump line="65" column="0" filename="$USER_HOME$/projects/imtools/imtools/qmisc.py" />
-      <jump line="197" column="0" filename="$USER_HOME$/projects/imtools/imtools/qmisc.py" />
-      <jump line="61" column="27" filename="$USER_HOME$/projects/imtools/imtools/qmisc.py" />
-      <jump line="2" column="0" filename="$USER_HOME$/projects/imtools/imtools/manipulation.py" />
-      <jump line="13" column="17" filename="$USER_HOME$/projects/imtools/imtools/manipulation.py" />
-      <jump line="153" column="6" filename="$USER_HOME$/projects/imtools/imtools/misc.py" />
-      <jump line="150" column="0" filename="$USER_HOME$/projects/imtools/imtools/misc.py" />
-      <jump line="11" column="0" filename="$USER_HOME$/projects/imtools/tests/qmisc_test.py" />
       <jump line="116" column="58" filename="$USER_HOME$/projects/imtools/tests/image_manipulation_test.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="518" column="11" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
@@ -1815,6 +1804,17 @@
       <jump line="185" column="9" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
       <jump line="268" column="12" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
       <jump line="442" column="35" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
+      <jump line="24" column="17" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
+      <jump line="163" column="48" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
+      <jump line="276" column="74" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
+      <jump line="290" column="34" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
+      <jump line="311" column="38" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
+      <jump line="675" column="46" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
+      <jump line="766" column="43" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
+      <jump line="768" column="38" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
+      <jump line="770" column="39" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
+      <jump line="772" column="35" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
+      <jump line="774" column="26" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5894,8 +5894,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY3lsaW5kZXIgc3VyZmFjZSArIHNwaGVyZSBlcnJvciArIGpvaW50Cg==</text>
+      <register name="&quot;" type="4">
+        <text>compensation</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -5917,10 +5917,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>compensation</text>
       </register>
       <register name="/" type="4">
-        <text>step1_to</text>
+        <text>join</text>
       </register>
       <register name="0" type="4">
         <text>, 1.0</text>
@@ -5960,16 +5960,14 @@
       </register>
     </registers>
     <search>
-      <last-search>step1_to</last-search>
+      <last-search>join</last-search>
       <last-offset />
-      <last-pattern>step1_to</last-pattern>
+      <last-pattern>join</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>dataframes</entry>
-        <entry encoding="base64">XDxvdmVyYWxsXD4=</entry>
         <entry encoding="base64">XDxkYXRhZnJhbWVzXD4=</entry>
         <entry encoding="base64">XDxhZGRpdGlvbmFsX2luZm9cPg==</entry>
         <entry>Enable</entry>
@@ -5988,6 +5986,8 @@
         <entry>time</entry>
         <entry>step2_st</entry>
         <entry>step1_to</entry>
+        <entry>best</entry>
+        <entry>join</entry>
       </history-search>
       <history-cmd>
         <entry>430</entry>
