@@ -1033,10 +1033,10 @@
         <mark key="^" line="64" column="22" />
         <mark key="." line="64" column="22" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/tb_vtk.py" timestamp="1497276711290">
+      <file name="$USER_HOME$/projects/teigen/teigen/tb_vtk.py" timestamp="1497286279536">
         <mark key="a" line="423" column="17" />
-        <mark key="'" line="216" column="25" />
-        <mark key="[" line="416" column="0" />
+        <mark key="'" line="480" column="87" />
+        <mark key="[" line="377" column="42" />
         <mark key="]" line="416" column="0" />
         <mark key="." line="416" column="0" />
       </file>
@@ -1715,11 +1715,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="116" column="58" filename="$USER_HOME$/projects/imtools/tests/image_manipulation_test.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
-      <jump line="518" column="11" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
-      <jump line="118" column="20" filename="$USER_HOME$/projects/teigen/teigen/doc.py" />
-      <jump line="436" column="0" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="114" column="0" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="167" column="28" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="62" column="0" filename="$USER_HOME$/projects/teigen/teigen/geometry3d.py" />
@@ -1815,6 +1810,11 @@
       <jump line="770" column="39" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
       <jump line="772" column="35" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
       <jump line="774" column="26" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
+      <jump line="82" column="31" filename="$USER_HOME$/projects/teigen/teigen/tb_vtk.py" />
+      <jump line="329" column="58" filename="$USER_HOME$/projects/teigen/teigen/tb_vtk.py" />
+      <jump line="457" column="22" filename="$USER_HOME$/projects/teigen/teigen/tb_vtk.py" />
+      <jump line="471" column="4" filename="$USER_HOME$/projects/teigen/teigen/tb_vtk.py" />
+      <jump line="480" column="87" filename="$USER_HOME$/projects/teigen/teigen/tb_vtk.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5920,7 +5920,7 @@
         <text>compensation</text>
       </register>
       <register name="/" type="4">
-        <text>join</text>
+        <text>factors</text>
       </register>
       <register name="0" type="4">
         <text>, 1.0</text>
@@ -5960,15 +5960,14 @@
       </register>
     </registers>
     <search>
-      <last-search>join</last-search>
+      <last-search>factors</last-search>
       <last-offset />
-      <last-pattern>join</last-pattern>
+      <last-pattern>factors</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkYXRhZnJhbWVzXD4=</entry>
         <entry encoding="base64">XDxhZGRpdGlvbmFsX2luZm9cPg==</entry>
         <entry>Enable</entry>
         <entry>print</entry>
@@ -5988,6 +5987,7 @@
         <entry>step1_to</entry>
         <entry>best</entry>
         <entry>join</entry>
+        <entry>factors</entry>
       </history-search>
       <history-cmd>
         <entry>430</entry>
