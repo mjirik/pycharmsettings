@@ -151,13 +151,13 @@
         <mark key="^" line="92" column="5" />
         <mark key="." line="92" column="5" />
       </file>
-      <file name="$USER_HOME$/projects/io3d/io3d/dcmreaddata.py" timestamp="1497907640201">
+      <file name="$USER_HOME$/projects/io3d/io3d/dcmreaddata.py" timestamp="1497909425596">
         <mark key="a" line="147" column="40" />
         <mark key="'" line="446" column="0" />
-        <mark key="[" line="151" column="36" />
-        <mark key="]" line="151" column="48" />
-        <mark key="." line="151" column="48" />
-        <mark key="^" line="151" column="48" />
+        <mark key="[" line="308" column="25" />
+        <mark key="]" line="308" column="50" />
+        <mark key="." line="308" column="50" />
+        <mark key="^" line="308" column="50" />
       </file>
       <file name="$USER_HOME$/projects/teigen/teigen/dictwidgetpyqtgraph.py" timestamp="1484525042496">
         <mark key="'" line="299" column="27" />
@@ -729,7 +729,7 @@
         <mark key="^" line="155" column="15" />
         <mark key="." line="155" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1497907643980">
+      <file name="/Dummy.txt" timestamp="1497909429919">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/disco/disco/__init__.py" timestamp="1463148479573">
@@ -5902,8 +5902,10 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2JpbnMgPSBbXQo=</text>
+      <register name="&quot;" type="4">
+        <text>&quot;Data size: &quot; + str(data3d.nbytes)
+                         + ', shape: ' + str(shp2) + 'x' + str(len(dcmlist))
+                         + ' file ' + onefile</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -5925,13 +5927,15 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>compensation</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>factors</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2VyaWVzX2luZm8gPSBzZWxmLmRjbWRpcnN0YXRzKCkK</text>
+      <register name="0" type="4">
+        <text>&quot;Data size: &quot; + str(data3d.nbytes)
+                         + ', shape: ' + str(shp2) + 'x' + str(len(dcmlist))
+                         + ' file ' + onefile</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2JpbnMgPSBbXQo=</text>
