@@ -151,13 +151,13 @@
         <mark key="^" line="92" column="5" />
         <mark key="." line="92" column="5" />
       </file>
-      <file name="$USER_HOME$/projects/io3d/io3d/dcmreaddata.py" timestamp="1497910360373">
+      <file name="$USER_HOME$/projects/io3d/io3d/dcmreaddata.py" timestamp="1497910822383">
         <mark key="a" line="147" column="40" />
-        <mark key="'" line="301" column="95" />
-        <mark key="[" line="152" column="34" />
-        <mark key="]" line="152" column="50" />
-        <mark key="." line="152" column="50" />
-        <mark key="^" line="152" column="50" />
+        <mark key="'" line="208" column="51" />
+        <mark key="[" line="306" column="71" />
+        <mark key="]" line="306" column="73" />
+        <mark key="." line="306" column="73" />
+        <mark key="^" line="306" column="73" />
       </file>
       <file name="$USER_HOME$/projects/teigen/teigen/dictwidgetpyqtgraph.py" timestamp="1484525042496">
         <mark key="'" line="299" column="27" />
@@ -729,7 +729,7 @@
         <mark key="^" line="155" column="15" />
         <mark key="." line="155" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1497910365072">
+      <file name="/Dummy.txt" timestamp="1497910649730">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/disco/disco/__init__.py" timestamp="1463148479573">
@@ -1723,9 +1723,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="0" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
-      <jump line="694" column="0" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
-      <jump line="810" column="8" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
       <jump line="695" column="6" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/teigen/tests/geometry3_test.py" />
       <jump line="24" column="17" filename="$USER_HOME$/projects/teigen/teigen/tb_vtk.py" />
@@ -1823,6 +1820,9 @@
       <jump line="427" column="36" filename="$USER_HOME$/projects/io3d/io3d/dcmreaddata.py" />
       <jump line="441" column="0" filename="$USER_HOME$/projects/io3d/io3d/dcmreaddata.py" />
       <jump line="301" column="95" filename="$USER_HOME$/projects/io3d/io3d/dcmreaddata.py" />
+      <jump line="144" column="0" filename="$USER_HOME$/projects/io3d/io3d/dcmreaddata.py" />
+      <jump line="196" column="51" filename="$USER_HOME$/projects/io3d/io3d/dcmreaddata.py" />
+      <jump line="208" column="51" filename="$USER_HOME$/projects/io3d/io3d/dcmreaddata.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5903,9 +5903,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>&quot;Data size: &quot; + str(data3d.nbytes)
-                         + ', shape: ' + str(shp2) + 'x' + str(len(dcmlist))
-                         + ' file ' + onefile</text>
+        <text>(</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -5927,10 +5925,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
-        <text>factors</text>
+        <text>:, :</text>
       </register>
       <register name="0" type="4">
         <text>&quot;Data size: &quot; + str(data3d.nbytes)
@@ -5938,49 +5936,48 @@
                          + ' file ' + onefile</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2JpbnMgPSBbXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQgc2JpbnNkCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0cmwgPSBzdHJsICsgJyknCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQgInNuc3RyaW5nICIsIHNuc3RyaW5nCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0cmwgPSBzdHIoc2VyaWVfbnVtYmVyKSArICIgKCJcCiAgICAgICAgICAgICAgICAgICAgKyBzdHIoc2VyaWVzX2luZm9bc2VyaWVfbnVtYmVyXVsnQ291bnQnXSkKICAgICAgICAgICAgICAgIHRyeToKICAgICAgICAgICAgICAgICAgICBzdHJsID0gc3RybCArICIsICJcCiAgICAgICAgICAgICAgICAgICAgICAgICsgc3RyKHNlcmllc19pbmZvW3NlcmllX251bWJlcl1bJ01vZGFsaXR5J10pCiAgICAgICAgICAgICAgICAgICAgc3RybCA9IHN0cmwgKyAiLCAiXAogICAgICAgICAgICAgICAgICAgICAgICArIHN0cihzZXJpZXNfaW5mb1tzZXJpZV9udW1iZXJdWydTZXJpZXNEZXNjcmlwdGlvbiddKQogICAgICAgICAgICAgICAgICAgIHN0cmwgPSBzdHJsICsgIiwgIlwKICAgICAgICAgICAgICAgICAgICAgICAgKyBzdHIoc2VyaWVzX2luZm9bc2VyaWVfbnVtYmVyXVsnSW1hZ2VDb21tZW50cyddKQogICAgICAgICAgICAgICAgZXhjZXB0OgogICAgICAgICAgICAgICAgICAgIGxvZ2dlci5kZWJ1ZygKICAgICAgICAgICAgICAgICAgICAgICAgJ1RhZyBNb2RsaXR5IG9yIEltYWdlQ29tbWVudCBub3QgZm91bmQgaW4gZGNtaW5mbycKICAgICAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICAgICAgICAgcGFzcwoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2JpbnMgPSBbXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY3lsaW5kZXIgc3VyZmFjZSArIHNwaGVyZSBlcnJvciArIGpvaW50Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0cmwgPSBzdHJsICsgJyknCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIHJhZGl1cz0gMS4gLSAoY3lsaW5kZXJfcmFkaXVzIC0gc3BoZXJlX3JhZGl1cyksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0cmwgPSBzdHIoc2VyaWVfbnVtYmVyKSArICIgKCJcCiAgICAgICAgICAgICAgICAgICAgKyBzdHIoc2VyaWVzX2luZm9bc2VyaWVfbnVtYmVyXVsnQ291bnQnXSkKICAgICAgICAgICAgICAgIHRyeToKICAgICAgICAgICAgICAgICAgICBzdHJsID0gc3RybCArICIsICJcCiAgICAgICAgICAgICAgICAgICAgICAgICsgc3RyKHNlcmllc19pbmZvW3NlcmllX251bWJlcl1bJ01vZGFsaXR5J10pCiAgICAgICAgICAgICAgICAgICAgc3RybCA9IHN0cmwgKyAiLCAiXAogICAgICAgICAgICAgICAgICAgICAgICArIHN0cihzZXJpZXNfaW5mb1tzZXJpZV9udW1iZXJdWydTZXJpZXNEZXNjcmlwdGlvbiddKQogICAgICAgICAgICAgICAgICAgIHN0cmwgPSBzdHJsICsgIiwgIlwKICAgICAgICAgICAgICAgICAgICAgICAgKyBzdHIoc2VyaWVzX2luZm9bc2VyaWVfbnVtYmVyXVsnSW1hZ2VDb21tZW50cyddKQogICAgICAgICAgICAgICAgZXhjZXB0OgogICAgICAgICAgICAgICAgICAgIGxvZ2dlci5kZWJ1ZygKICAgICAgICAgICAgICAgICAgICAgICAgJ1RhZyBNb2RsaXR5IG9yIEltYWdlQ29tbWVudCBub3QgZm91bmQgaW4gZGNtaW5mbycKICAgICAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICAgICAgICAgcGFzcwoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25maWcgPSBzZWxmLmNvbmZpZwogICAgICAgIGNvbmZpZ19mbCA9IGRpbGkuZmxhdHRlbl9kaWN0KGNvbmZpZywgam9pbj1sYW1iZGEgYSwgYjogYSArICcgJyArIGIpCiAgICAgICAgY29uZmlnX2ZsID0gZGljdChjb25maWdfZmwpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY3lsaW5kZXIgc3VyZmFjZSArIHNwaGVyZSBlcnJvciArIGpvaW50Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi50aW1lX3J1biA9IHQyIC0gdDAK</text>
+        <text encoding="base64">ICAgICAgICAjIHJhZGl1cz0gMS4gLSAoY3lsaW5kZXJfcmFkaXVzIC0gc3BoZXJlX3JhZGl1cyksCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnRpbWVfcnVuID0gdDIgLSB0MAo=</text>
+        <text encoding="base64">ICAgICAgICBjb25maWcgPSBzZWxmLmNvbmZpZwogICAgICAgIGNvbmZpZ19mbCA9IGRpbGkuZmxhdHRlbl9kaWN0KGNvbmZpZywgam9pbj1sYW1iZGEgYSwgYjogYSArICcgJyArIGIpCiAgICAgICAgY29uZmlnX2ZsID0gZGljdChjb25maWdfZmwpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnN0YXRzX3RpbWVzWyJnZW5lcmF0ZV92b2x1bWVfdGltZV9zIl0gPSBbKHQyIC0gdDEpLnRvdGFsX3NlY29uZHMoKV0KICAgICAgICBzZWxmLnN0YXRzX3RpbWVzWyJzYXZlX3ZvbHVtZV90aW1lX3MiXSA9IFsodDMgLSB0MikudG90YWxfc2Vjb25kcygpXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi50aW1lX3J1biA9IHQyIC0gdDAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>factors</last-search>
+      <last-search>:, :</last-search>
       <last-offset />
-      <last-pattern>factors</last-pattern>
+      <last-pattern>:, :</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhZGRpdGlvbmFsX2luZm9cPg==</entry>
         <entry>Enable</entry>
         <entry>print</entry>
         <entry>vtk</entry>
@@ -6000,6 +5997,7 @@
         <entry>best</entry>
         <entry>join</entry>
         <entry>factors</entry>
+        <entry>:, :</entry>
       </history-search>
       <history-cmd>
         <entry>430</entry>
