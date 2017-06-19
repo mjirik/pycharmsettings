@@ -151,13 +151,13 @@
         <mark key="^" line="92" column="5" />
         <mark key="." line="92" column="5" />
       </file>
-      <file name="$USER_HOME$/projects/io3d/io3d/dcmreaddata.py" timestamp="1497909697007">
+      <file name="$USER_HOME$/projects/io3d/io3d/dcmreaddata.py" timestamp="1497910360373">
         <mark key="a" line="147" column="40" />
-        <mark key="'" line="446" column="0" />
-        <mark key="[" line="301" column="45" />
-        <mark key="]" line="301" column="95" />
-        <mark key="." line="301" column="95" />
-        <mark key="^" line="301" column="95" />
+        <mark key="'" line="301" column="95" />
+        <mark key="[" line="152" column="34" />
+        <mark key="]" line="152" column="50" />
+        <mark key="." line="152" column="50" />
+        <mark key="^" line="152" column="50" />
       </file>
       <file name="$USER_HOME$/projects/teigen/teigen/dictwidgetpyqtgraph.py" timestamp="1484525042496">
         <mark key="'" line="299" column="27" />
@@ -729,7 +729,7 @@
         <mark key="^" line="155" column="15" />
         <mark key="." line="155" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1497909705310">
+      <file name="/Dummy.txt" timestamp="1497910365072">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/disco/disco/__init__.py" timestamp="1463148479573">
@@ -1723,7 +1723,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="691" column="15" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
       <jump line="12" column="0" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
       <jump line="694" column="0" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
       <jump line="810" column="8" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
@@ -1823,6 +1822,7 @@
       <jump line="420" column="8" filename="$USER_HOME$/projects/io3d/io3d/dcmreaddata.py" />
       <jump line="427" column="36" filename="$USER_HOME$/projects/io3d/io3d/dcmreaddata.py" />
       <jump line="441" column="0" filename="$USER_HOME$/projects/io3d/io3d/dcmreaddata.py" />
+      <jump line="301" column="95" filename="$USER_HOME$/projects/io3d/io3d/dcmreaddata.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
