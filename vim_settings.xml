@@ -151,6 +151,14 @@
         <mark key="^" line="92" column="5" />
         <mark key="." line="92" column="5" />
       </file>
+      <file name="$USER_HOME$/projects/io3d/io3d/dcmreaddata.py" timestamp="1497906900653">
+        <mark key="a" line="147" column="40" />
+        <mark key="'" line="446" column="0" />
+        <mark key="[" line="150" column="64" />
+        <mark key="]" line="151" column="43" />
+        <mark key="." line="151" column="43" />
+        <mark key="^" line="151" column="43" />
+      </file>
       <file name="$USER_HOME$/projects/teigen/teigen/dictwidgetpyqtgraph.py" timestamp="1484525042496">
         <mark key="'" line="299" column="27" />
         <mark key="[" line="56" column="0" />
@@ -721,7 +729,7 @@
         <mark key="^" line="155" column="15" />
         <mark key="." line="155" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1496934843378">
+      <file name="/Dummy.txt" timestamp="1497906907591">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/disco/disco/__init__.py" timestamp="1463148479573">
@@ -1715,9 +1723,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="114" column="0" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
-      <jump line="167" column="28" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
-      <jump line="62" column="0" filename="$USER_HOME$/projects/teigen/teigen/geometry3d.py" />
       <jump line="691" column="15" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
       <jump line="12" column="0" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
       <jump line="694" column="0" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
@@ -1815,6 +1820,9 @@
       <jump line="457" column="22" filename="$USER_HOME$/projects/teigen/teigen/tb_vtk.py" />
       <jump line="471" column="4" filename="$USER_HOME$/projects/teigen/teigen/tb_vtk.py" />
       <jump line="480" column="87" filename="$USER_HOME$/projects/teigen/teigen/tb_vtk.py" />
+      <jump line="420" column="8" filename="$USER_HOME$/projects/io3d/io3d/dcmreaddata.py" />
+      <jump line="427" column="36" filename="$USER_HOME$/projects/io3d/io3d/dcmreaddata.py" />
+      <jump line="441" column="0" filename="$USER_HOME$/projects/io3d/io3d/dcmreaddata.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5894,8 +5902,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>compensation</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2JpbnMgPSBbXQo=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -5922,38 +5930,38 @@
       <register name="/" type="4">
         <text>factors</text>
       </register>
-      <register name="0" type="4">
-        <text>, 1.0</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2VyaWVzX2luZm8gPSBzZWxmLmRjbWRpcnN0YXRzKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY3lsaW5kZXIgc3VyZmFjZSArIHNwaGVyZSBlcnJvciArIGpvaW50Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2JpbnMgPSBbXQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIHJhZGl1cz0gMS4gLSAoY3lsaW5kZXJfcmFkaXVzIC0gc3BoZXJlX3JhZGl1cyksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0cmwgPSBzdHJsICsgJyknCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25maWcgPSBzZWxmLmNvbmZpZwogICAgICAgIGNvbmZpZ19mbCA9IGRpbGkuZmxhdHRlbl9kaWN0KGNvbmZpZywgam9pbj1sYW1iZGEgYSwgYjogYSArICcgJyArIGIpCiAgICAgICAgY29uZmlnX2ZsID0gZGljdChjb25maWdfZmwpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0cmwgPSBzdHIoc2VyaWVfbnVtYmVyKSArICIgKCJcCiAgICAgICAgICAgICAgICAgICAgKyBzdHIoc2VyaWVzX2luZm9bc2VyaWVfbnVtYmVyXVsnQ291bnQnXSkKICAgICAgICAgICAgICAgIHRyeToKICAgICAgICAgICAgICAgICAgICBzdHJsID0gc3RybCArICIsICJcCiAgICAgICAgICAgICAgICAgICAgICAgICsgc3RyKHNlcmllc19pbmZvW3NlcmllX251bWJlcl1bJ01vZGFsaXR5J10pCiAgICAgICAgICAgICAgICAgICAgc3RybCA9IHN0cmwgKyAiLCAiXAogICAgICAgICAgICAgICAgICAgICAgICArIHN0cihzZXJpZXNfaW5mb1tzZXJpZV9udW1iZXJdWydTZXJpZXNEZXNjcmlwdGlvbiddKQogICAgICAgICAgICAgICAgICAgIHN0cmwgPSBzdHJsICsgIiwgIlwKICAgICAgICAgICAgICAgICAgICAgICAgKyBzdHIoc2VyaWVzX2luZm9bc2VyaWVfbnVtYmVyXVsnSW1hZ2VDb21tZW50cyddKQogICAgICAgICAgICAgICAgZXhjZXB0OgogICAgICAgICAgICAgICAgICAgIGxvZ2dlci5kZWJ1ZygKICAgICAgICAgICAgICAgICAgICAgICAgJ1RhZyBNb2RsaXR5IG9yIEltYWdlQ29tbWVudCBub3QgZm91bmQgaW4gZGNtaW5mbycKICAgICAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICAgICAgICAgcGFzcwoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi50aW1lX3J1biA9IHQyIC0gdDAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY3lsaW5kZXIgc3VyZmFjZSArIHNwaGVyZSBlcnJvciArIGpvaW50Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnRpbWVfcnVuID0gdDIgLSB0MAo=</text>
+        <text encoding="base64">ICAgICAgICAjIHJhZGl1cz0gMS4gLSAoY3lsaW5kZXJfcmFkaXVzIC0gc3BoZXJlX3JhZGl1cyksCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnN0YXRzX3RpbWVzWyJnZW5lcmF0ZV92b2x1bWVfdGltZV9zIl0gPSBbKHQyIC0gdDEpLnRvdGFsX3NlY29uZHMoKV0KICAgICAgICBzZWxmLnN0YXRzX3RpbWVzWyJzYXZlX3ZvbHVtZV90aW1lX3MiXSA9IFsodDMgLSB0MikudG90YWxfc2Vjb25kcygpXQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25maWcgPSBzZWxmLmNvbmZpZwogICAgICAgIGNvbmZpZ19mbCA9IGRpbGkuZmxhdHRlbl9kaWN0KGNvbmZpZywgam9pbj1sYW1iZGEgYSwgYjogYSArICcgJyArIGIpCiAgICAgICAgY29uZmlnX2ZsID0gZGljdChjb25maWdfZmwpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnRpbWVfcnVuID0gdDEgLSB0MAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi50aW1lX3J1biA9IHQyIC0gdDAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0MSA9IHRpbWUudGltZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnRpbWVfcnVuID0gdDIgLSB0MAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0MCA9IGRhdGV0aW1lLmRhdGV0aW1lLm5vdygpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnN0YXRzX3RpbWVzWyJnZW5lcmF0ZV92b2x1bWVfdGltZV9zIl0gPSBbKHQyIC0gdDEpLnRvdGFsX3NlY29uZHMoKV0KICAgICAgICBzZWxmLnN0YXRzX3RpbWVzWyJzYXZlX3ZvbHVtZV90aW1lX3MiXSA9IFsodDMgLSB0MikudG90YWxfc2Vjb25kcygpXQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
