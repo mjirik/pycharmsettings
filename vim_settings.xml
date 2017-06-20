@@ -151,11 +151,11 @@
         <mark key="^" line="92" column="5" />
         <mark key="." line="92" column="5" />
       </file>
-      <file name="$USER_HOME$/projects/io3d/io3d/dcmreaddata.py" timestamp="1497936583011">
+      <file name="$USER_HOME$/projects/io3d/io3d/dcmreaddata.py" timestamp="1497945147156">
         <mark key="a" line="147" column="40" />
         <mark key="'" line="208" column="51" />
-        <mark key="[" line="466" column="12" />
-        <mark key="]" line="466" column="7" />
+        <mark key="[" line="145" column="0" />
+        <mark key="]" line="151" column="49" />
         <mark key="." line="466" column="7" />
         <mark key="^" line="466" column="7" />
       </file>
@@ -950,12 +950,12 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1493644651753">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="241" column="36" />
-        <mark key="]" line="242" column="29" />
-        <mark key="." line="242" column="29" />
-        <mark key="^" line="242" column="29" />
+      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1497945632951">
+        <mark key="'" line="1014" column="18" />
+        <mark key="[" line="1699" column="51" />
+        <mark key="]" line="1699" column="55" />
+        <mark key="." line="1699" column="55" />
+        <mark key="^" line="1699" column="55" />
       </file>
       <file name="/1.0" timestamp="1494919235684">
         <mark key="[" line="0" column="0" />
@@ -1108,12 +1108,13 @@
         <mark key="^" line="66" column="15" />
         <mark key="." line="66" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1493645026188">
-        <mark key="'" line="607" column="38" />
-        <mark key="[" line="796" column="0" />
-        <mark key="]" line="796" column="0" />
-        <mark key="^" line="796" column="41" />
-        <mark key="." line="796" column="0" />
+      <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1497945674001">
+        <mark key="a" line="822" column="21" />
+        <mark key="'" line="726" column="8" />
+        <mark key="[" line="73" column="32" />
+        <mark key="]" line="73" column="42" />
+        <mark key="^" line="73" column="42" />
+        <mark key="." line="73" column="42" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/__main__.py" timestamp="1464212447040">
         <mark key="[" line="2" column="0" />
@@ -1723,28 +1724,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="695" column="6" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/teigen/tests/geometry3_test.py" />
-      <jump line="24" column="17" filename="$USER_HOME$/projects/teigen/teigen/tb_vtk.py" />
-      <jump line="249" column="63" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
-      <jump line="250" column="66" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
-      <jump line="38" column="24" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
-      <jump line="374" column="34" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
-      <jump line="129" column="44" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
-      <jump line="627" column="76" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
-      <jump line="115" column="82" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
-      <jump line="19" column="9" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
-      <jump line="600" column="19" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
-      <jump line="101" column="13" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
-      <jump line="484" column="8" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
-      <jump line="572" column="8" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
-      <jump line="562" column="20" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
-      <jump line="31" column="0" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
-      <jump line="361" column="0" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
-      <jump line="588" column="28" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
-      <jump line="513" column="29" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
-      <jump line="514" column="29" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
-      <jump line="575" column="13" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
       <jump line="580" column="27" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
       <jump line="581" column="22" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
       <jump line="590" column="26" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
@@ -1823,6 +1802,28 @@
       <jump line="144" column="0" filename="$USER_HOME$/projects/io3d/io3d/dcmreaddata.py" />
       <jump line="196" column="51" filename="$USER_HOME$/projects/io3d/io3d/dcmreaddata.py" />
       <jump line="208" column="51" filename="$USER_HOME$/projects/io3d/io3d/dcmreaddata.py" />
+      <jump line="821" column="21" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="871" column="16" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="878" column="73" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="823" column="32" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="824" column="36" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="849" column="12" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="28" column="9" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="1195" column="46" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="1232" column="12" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="97" column="8" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="1208" column="0" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="30" column="24" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="561" column="12" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="585" column="18" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="603" column="8" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="626" column="8" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="630" column="8" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="639" column="8" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="725" column="8" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="128" column="19" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="338" column="38" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="1014" column="18" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5903,7 +5904,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzdG9wIGlzIE5vbmU6CiAgICAgICAgICAgIHN0b3AgPSBsZW4oZGNtbGlzdCkKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc25zdHJpbmcsIG9rID0gXAogICAgICAgICAgICAgICAgICAgICAgICAgICAgUUlucHV0RGlhbG9nLmdldEl0ZW0ocXRfYXBwLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ1NlcmllIFNlbGVjdGlvbicsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnU2VsZWN0IHNlcmllOicsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzYmlucywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVkaXRhYmxlPUZhbHNlKQogICAgICAgICAgICAgICAgICAgICAgICBzbiA9IHNiaW5zZFtzdHIoc25zdHJpbmcpXQo=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -5928,10 +5929,10 @@
         <text>_</text>
       </register>
       <register name="/" type="4">
-        <text>:, :</text>
+        <text>QApp</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGRhdGEzZC5zaGFwZVsxXSA9PSBuZXdfZGF0YTJkLnNoYXBlWzBdKSBhbmQgKGRhdGEzZC5zaGFwZVsyXSA9PSBuZXdfZGF0YTJkLnNoYXBlWzFdKSA6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc25zdHJpbmcsIG9rID0gXAogICAgICAgICAgICAgICAgICAgICAgICAgICAgUUlucHV0RGlhbG9nLmdldEl0ZW0ocXRfYXBwLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ1NlcmllIFNlbGVjdGlvbicsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnU2VsZWN0IHNlcmllOicsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzYmlucywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVkaXRhYmxlPUZhbHNlKQogICAgICAgICAgICAgICAgICAgICAgICBzbiA9IHNiaW5zZFtzdHIoc25zdHJpbmcpXQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBpZiBzdG9wIGlzIE5vbmU6CiAgICAgICAgICAgIHN0b3AgPSBsZW4oZGNtbGlzdCkKCg==</text>
@@ -5968,19 +5969,14 @@
       </register>
     </registers>
     <search>
-      <last-search>:, :</last-search>
+      <last-search>QApp</last-search>
       <last-offset />
-      <last-pattern>:, :</last-pattern>
+      <last-pattern>QApp</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Enable</entry>
-        <entry>print</entry>
-        <entry>vtk</entry>
-        <entry>regular</entry>
-        <entry encoding="base64">XDxtaWRkbGVcPg==</entry>
         <entry>shell</entry>
         <entry encoding="base64">XDxyb3QxXD4=</entry>
         <entry>w</entry>
@@ -5996,6 +5992,11 @@
         <entry>join</entry>
         <entry>factors</entry>
         <entry>:, :</entry>
+        <entry>slab</entry>
+        <entry>QAppli</entry>
+        <entry>qapp</entry>
+        <entry>app</entry>
+        <entry>QApp</entry>
       </history-search>
       <history-cmd>
         <entry>430</entry>
