@@ -950,12 +950,12 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1497945632951">
+      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1497946808801">
         <mark key="'" line="1014" column="18" />
-        <mark key="[" line="1699" column="51" />
-        <mark key="]" line="1699" column="55" />
-        <mark key="." line="1699" column="55" />
-        <mark key="^" line="1699" column="55" />
+        <mark key="[" line="1230" column="58" />
+        <mark key="]" line="1230" column="69" />
+        <mark key="." line="1230" column="69" />
+        <mark key="^" line="1230" column="69" />
       </file>
       <file name="/1.0" timestamp="1494919235684">
         <mark key="[" line="0" column="0" />
@@ -1108,13 +1108,14 @@
         <mark key="^" line="66" column="15" />
         <mark key="." line="66" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1497945674001">
-        <mark key="a" line="822" column="21" />
-        <mark key="'" line="726" column="8" />
-        <mark key="[" line="73" column="32" />
-        <mark key="]" line="73" column="42" />
-        <mark key="^" line="73" column="42" />
-        <mark key="." line="73" column="42" />
+      <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1497946908823">
+        <mark key="a" line="827" column="21" />
+        <mark key="b" line="1142" column="20" />
+        <mark key="'" line="31" column="44" />
+        <mark key="[" line="1142" column="41" />
+        <mark key="]" line="1142" column="94" />
+        <mark key="^" line="1142" column="94" />
+        <mark key="." line="1142" column="94" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/__main__.py" timestamp="1464212447040">
         <mark key="[" line="2" column="0" />
@@ -1724,8 +1725,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="580" column="27" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
-      <jump line="581" column="22" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
       <jump line="590" column="26" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
       <jump line="603" column="19" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
       <jump line="604" column="19" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
@@ -1806,11 +1805,9 @@
       <jump line="871" column="16" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="878" column="73" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="823" column="32" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
-      <jump line="824" column="36" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="849" column="12" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="28" column="9" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="1195" column="46" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
-      <jump line="1232" column="12" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="97" column="8" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="1208" column="0" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
       <jump line="30" column="24" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
@@ -1824,6 +1821,10 @@
       <jump line="128" column="19" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="338" column="38" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="1014" column="18" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="76" column="23" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="824" column="17" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="1232" column="12" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
+      <jump line="31" column="44" filename="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5903,8 +5904,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc25zdHJpbmcsIG9rID0gXAogICAgICAgICAgICAgICAgICAgICAgICAgICAgUUlucHV0RGlhbG9nLmdldEl0ZW0ocXRfYXBwLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ1NlcmllIFNlbGVjdGlvbicsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnU2VsZWN0IHNlcmllOicsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzYmlucywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVkaXRhYmxlPUZhbHNlKQogICAgICAgICAgICAgICAgICAgICAgICBzbiA9IHNiaW5zZFtzdHIoc25zdHJpbmcpXQo=</text>
+      <register name="&quot;" type="4">
+        <text>'</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -5926,7 +5927,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>QApp</text>
@@ -5935,34 +5936,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc25zdHJpbmcsIG9rID0gXAogICAgICAgICAgICAgICAgICAgICAgICAgICAgUUlucHV0RGlhbG9nLmdldEl0ZW0ocXRfYXBwLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ1NlcmllIFNlbGVjdGlvbicsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnU2VsZWN0IHNlcmllOicsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzYmlucywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVkaXRhYmxlPUZhbHNlKQogICAgICAgICAgICAgICAgICAgICAgICBzbiA9IHNiaW5zZFtzdHIoc25zdHJpbmcpXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzdG9wIGlzIE5vbmU6CiAgICAgICAgICAgIHN0b3AgPSBsZW4oZGNtbGlzdCkKCg==</text>
+        <text encoding="base64">ICAgICAgICBzbiA9IHNiaW5zZFtzdHIoc25zdHJpbmcpXQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcXRfYXBwLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBsZW4oc2VsZi5kY21saXN0KSA+IDA6Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBzdG9wIGlzIE5vbmU6CiAgICAgICAgICAgIHN0b3AgPSBsZW4oZGNtbGlzdCkKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGF0YSA9IGRpY29tLnJlYWRfZmlsZShkY21saXN0WzBdKQogICAgICAgICAgICBkYXRhMmQxID0gZGF0YS5waXhlbF9hcnJheQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAK</text>
+        <text encoding="base64">ICAgICAgICBpZiBsZW4oc2VsZi5kY21saXN0KSA+IDA6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQgc2JpbnNkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGF0YSA9IGRpY29tLnJlYWRfZmlsZShkY21saXN0WzBdKQogICAgICAgICAgICBkYXRhMmQxID0gZGF0YS5waXhlbF9hcnJheQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQgInNuc3RyaW5nICIsIHNuc3RyaW5nCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2JpbnMgPSBbXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQgc2JpbnNkCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0cmwgPSBzdHJsICsgJyknCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQgInNuc3RyaW5nICIsIHNuc3RyaW5nCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
