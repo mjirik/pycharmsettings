@@ -1513,8 +1513,8 @@
         <mark key="^" line="1068" column="56" />
         <mark key="." line="1068" column="56" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/generators/unconnected_cylinders.py" timestamp="1495627789663">
-        <mark key="'" line="476" column="45" />
+      <file name="$USER_HOME$/projects/teigen/teigen/generators/unconnected_cylinders.py" timestamp="1499384355382">
+        <mark key="'" line="244" column="12" />
         <mark key="[" line="302" column="55" />
         <mark key="]" line="304" column="57" />
         <mark key="^" line="304" column="57" />
@@ -1749,8 +1749,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="748" column="4" filename="$USER_HOME$/projects/teigen/teigen/geometry3d.py" />
-      <jump line="756" column="25" filename="$USER_HOME$/projects/teigen/teigen/geometry3d.py" />
       <jump line="757" column="25" filename="$USER_HOME$/projects/teigen/teigen/geometry3d.py" />
       <jump line="199" column="7" filename="$USER_HOME$/projects/teigen/teigen/tb_vtk.py" />
       <jump line="250" column="19" filename="$USER_HOME$/projects/teigen/teigen/generators/unconnected_cylinders.py" />
@@ -1849,6 +1847,8 @@
       <jump line="504" column="31" filename="$USER_HOME$/projects/imtools/imtools/uiThreshold.py" />
       <jump line="553" column="0" filename="$USER_HOME$/miniconda/lib/python2.7/site-packages/imtools/uiThreshold.py" />
       <jump line="404" column="50" filename="$USER_HOME$/projects/teigen/teigen/tb_vtk.py" />
+      <jump line="212" column="32" filename="$USER_HOME$/projects/teigen/teigen/generators/unconnected_cylinders.py" />
+      <jump line="244" column="12" filename="$USER_HOME$/projects/teigen/teigen/generators/unconnected_cylinders.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5954,7 +5954,7 @@
         <text>fixed show, debugged experiment parameters</text>
       </register>
       <register name="/" type="4">
-        <text>pdb</text>
+        <text encoding="base64">XDx0cnlfc2hvcnRlcl9pdGVyYXRpb25fbnVtYmVyXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzcGwxID0gSW50ZXJwb2xhdGVkVW5pdmFyaWF0ZVNwbGluZSh4X2N2c2VqZSwgeV9jdnNlamUpCiAgICAgICAgcmFkaXVzX2NvbXBlbnNhdGlvbl9mYWN0b3IgKj0gLiAvIHNwbDEoY3lsaW5kZXJfcmVzb2x1dGlvbikK</text>
@@ -5994,16 +5994,14 @@
       </register>
     </registers>
     <search>
-      <last-search>pdb</last-search>
+      <last-search encoding="base64">XDx0cnlfc2hvcnRlcl9pdGVyYXRpb25fbnVtYmVyXD4=</last-search>
       <last-offset />
-      <last-pattern>pdb</last-pattern>
+      <last-pattern encoding="base64">XDx0cnlfc2hvcnRlcl9pdGVyYXRpb25fbnVtYmVyXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwcm9jZXNzaW5nX2luZm9cPg==</entry>
-        <entry encoding="base64">XDxyZXR1cm5cPg==</entry>
         <entry>processing</entry>
         <entry>processing_info</entry>
         <entry>time</entry>
@@ -6022,6 +6020,8 @@
         <entry encoding="base64">XDxfX2RyYXdTZWdtZW50ZWRTbGljZVw+</entry>
         <entry>SegmentedSlice</entry>
         <entry>pdb</entry>
+        <entry>short</entry>
+        <entry encoding="base64">XDx0cnlfc2hvcnRlcl9pdGVyYXRpb25fbnVtYmVyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4yNw==</entry>
