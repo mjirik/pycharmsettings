@@ -1105,6 +1105,16 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="31" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/teigen/teigen/tgmain.py" timestamp="1499590500895">
+        <mark key="a" line="641" column="25" />
+        <mark key="b" line="185" column="9" />
+        <mark key="c" line="105" column="0" />
+        <mark key="'" line="276" column="65" />
+        <mark key="[" line="276" column="62" />
+        <mark key="]" line="276" column="74" />
+        <mark key="." line="276" column="74" />
+        <mark key="^" line="276" column="74" />
+      </file>
       <file name="$USER_HOME$/projects/psongbook/meta.yml" timestamp="1463464886020">
         <mark key="[" line="61" column="34" />
         <mark key="]" line="61" column="37" />
@@ -1116,15 +1126,6 @@
         <mark key="]" line="66" column="5" />
         <mark key="^" line="66" column="5" />
         <mark key="." line="66" column="5" />
-      </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/lisaWindow.py" timestamp="1497950490783">
-        <mark key="a" line="827" column="21" />
-        <mark key="b" line="1144" column="20" />
-        <mark key="'" line="31" column="44" />
-        <mark key="[" line="1142" column="73" />
-        <mark key="]" line="1142" column="78" />
-        <mark key="^" line="1142" column="78" />
-        <mark key="." line="1142" column="78" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/__main__.py" timestamp="1464212447040">
         <mark key="[" line="2" column="0" />
@@ -1786,7 +1787,6 @@
       <jump line="442" column="35" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
       <jump line="24" column="17" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
       <jump line="163" column="48" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
-      <jump line="276" column="74" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
       <jump line="290" column="34" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
       <jump line="311" column="38" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
       <jump line="675" column="46" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
@@ -1839,6 +1839,7 @@
       <jump line="404" column="50" filename="$USER_HOME$/projects/teigen/teigen/tb_vtk.py" />
       <jump line="212" column="32" filename="$USER_HOME$/projects/teigen/teigen/generators/unconnected_cylinders.py" />
       <jump line="244" column="12" filename="$USER_HOME$/projects/teigen/teigen/generators/unconnected_cylinders.py" />
+      <jump line="276" column="65" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5944,7 +5945,7 @@
         <text>theta</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0cnlfc2hvcnRlcl9pdGVyYXRpb25fbnVtYmVyXD4=</text>
+        <text>now</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwaGlfcmVzb2x1dGlvbj1waGlfcmVzb2x1dGlvbgo=</text>
@@ -5989,15 +5990,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0cnlfc2hvcnRlcl9pdGVyYXRpb25fbnVtYmVyXD4=</last-search>
+      <last-search>now</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0cnlfc2hvcnRlcl9pdGVyYXRpb25fbnVtYmVyXD4=</last-pattern>
+      <last-pattern>now</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>processing</entry>
         <entry>processing_info</entry>
         <entry>time</entry>
         <entry>step2_st</entry>
@@ -6017,6 +6017,7 @@
         <entry>pdb</entry>
         <entry>short</entry>
         <entry encoding="base64">XDx0cnlfc2hvcnRlcl9pdGVyYXRpb25fbnVtYmVyXD4=</entry>
+        <entry>now</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4yNw==</entry>
