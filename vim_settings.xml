@@ -1105,15 +1105,15 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/tgmain.py" timestamp="1499599351317">
+      <file name="$USER_HOME$/projects/teigen/teigen/tgmain.py" timestamp="1499616508419">
         <mark key="a" line="187" column="18" />
         <mark key="b" line="185" column="9" />
         <mark key="c" line="105" column="0" />
-        <mark key="'" line="276" column="65" />
-        <mark key="[" line="722" column="38" />
-        <mark key="]" line="722" column="38" />
-        <mark key="." line="722" column="38" />
-        <mark key="^" line="722" column="38" />
+        <mark key="'" line="706" column="31" />
+        <mark key="[" line="454" column="52" />
+        <mark key="]" line="454" column="52" />
+        <mark key="." line="454" column="52" />
+        <mark key="^" line="454" column="52" />
       </file>
       <file name="$USER_HOME$/projects/psongbook/meta.yml" timestamp="1463464886020">
         <mark key="[" line="61" column="34" />
@@ -1740,7 +1740,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="757" column="25" filename="$USER_HOME$/projects/teigen/teigen/geometry3d.py" />
       <jump line="199" column="7" filename="$USER_HOME$/projects/teigen/teigen/tb_vtk.py" />
       <jump line="250" column="19" filename="$USER_HOME$/projects/teigen/teigen/generators/unconnected_cylinders.py" />
       <jump line="11" column="0" filename="$USER_HOME$/projects/teigen/teigen/generators/unconnected_cylinders.py" />
@@ -1840,6 +1839,7 @@
       <jump line="212" column="32" filename="$USER_HOME$/projects/teigen/teigen/generators/unconnected_cylinders.py" />
       <jump line="244" column="12" filename="$USER_HOME$/projects/teigen/teigen/generators/unconnected_cylinders.py" />
       <jump line="276" column="65" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
+      <jump line="706" column="31" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5920,7 +5920,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>[</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -5942,10 +5942,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>[</text>
       </register>
       <register name="/" type="4">
-        <text>now</text>
+        <text encoding="base64">XDxwcm9jZXNzaW5nX2luZm9cPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLnN0YXRzX3RpbWVzWyJzdGVwMl9pbml0X2RhdGV0aW1lIl0gPSBbc3RyKHQwKV0K</text>
@@ -5990,15 +5990,14 @@
       </register>
     </registers>
     <search>
-      <last-search>now</last-search>
+      <last-search encoding="base64">XDxwcm9jZXNzaW5nX2luZm9cPg==</last-search>
       <last-offset />
-      <last-pattern>now</last-pattern>
+      <last-pattern encoding="base64">XDxwcm9jZXNzaW5nX2luZm9cPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>processing_info</entry>
         <entry>time</entry>
         <entry>step2_st</entry>
         <entry>step1_to</entry>
@@ -6018,6 +6017,7 @@
         <entry>short</entry>
         <entry encoding="base64">XDx0cnlfc2hvcnRlcl9pdGVyYXRpb25fbnVtYmVyXD4=</entry>
         <entry>now</entry>
+        <entry encoding="base64">XDxwcm9jZXNzaW5nX2luZm9cPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4yNw==</entry>
