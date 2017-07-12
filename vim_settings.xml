@@ -736,7 +736,7 @@
         <mark key="^" line="155" column="15" />
         <mark key="." line="155" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499886741441">
+      <file name="/Dummy.txt" timestamp="1499898045378">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="10" />
@@ -1117,15 +1117,15 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/tgmain.py" timestamp="1499641966289">
+      <file name="$USER_HOME$/projects/teigen/teigen/tgmain.py" timestamp="1499897728953">
         <mark key="a" line="431" column="8" />
         <mark key="b" line="185" column="9" />
         <mark key="c" line="105" column="0" />
         <mark key="'" line="429" column="46" />
-        <mark key="[" line="733" column="0" />
-        <mark key="]" line="733" column="0" />
-        <mark key="." line="733" column="0" />
-        <mark key="^" line="429" column="46" />
+        <mark key="[" line="550" column="15" />
+        <mark key="]" line="550" column="23" />
+        <mark key="." line="550" column="23" />
+        <mark key="^" line="550" column="23" />
       </file>
       <file name="$USER_HOME$/projects/psongbook/meta.yml" timestamp="1463464886020">
         <mark key="[" line="61" column="34" />
@@ -1575,13 +1575,13 @@
         <mark key="^" line="3" column="8" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/ndnoise/ndnoise/generator.py" timestamp="1499886303881">
-        <mark key="a" line="119" column="17" />
-        <mark key="'" line="130" column="0" />
-        <mark key="[" line="36" column="38" />
-        <mark key="]" line="40" column="15" />
-        <mark key="." line="40" column="15" />
-        <mark key="^" line="40" column="15" />
+      <file name="$USER_HOME$/projects/ndnoise/ndnoise/generator.py" timestamp="1499897887433">
+        <mark key="a" line="122" column="17" />
+        <mark key="'" line="133" column="0" />
+        <mark key="[" line="62" column="23" />
+        <mark key="]" line="142" column="31" />
+        <mark key="." line="142" column="31" />
+        <mark key="^" line="142" column="31" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/training.py" timestamp="1453117814988">
         <mark key="'" line="38" column="8" />
@@ -5932,8 +5932,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>space</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -5964,37 +5964,37 @@
         <text encoding="base64">ICAgIGlmIG1ldGhvZCBpcyAic3BhY2UiOgogICAgICAgIG5vaXNlID0gbm9pc2VzX3NwYWNlKCoqa3dhcmdzMSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAqKmt3YXJncwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGVmIG5vaXNlcyhzaGFwZSwgc2FtcGxlX3NwYWNpbmc9Tm9uZSwgZXhwb25lbnQ9MCwgbGFtYmRhX3N0YXJ0PTAsIGxhbWJkYV9zdG9wPTEsICoqa3dhcmdzKToK</text>
+        <text encoding="base64">ICAgICAgICAqKmt3YXJncwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50IGxvZwo=</text>
+        <text encoding="base64">ZGVmIG5vaXNlcyhzaGFwZSwgc2FtcGxlX3NwYWNpbmc9Tm9uZSwgZXhwb25lbnQ9MCwgbGFtYmRhX3N0YXJ0PTAsIGxhbWJkYV9zdG9wPTEsICoqa3dhcmdzKToK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50ICJzcGVjdHJ1bS5zaGFwZSB7fSAiCg==</text>
+        <text encoding="base64">ICAgIHByaW50IGxvZwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50IGxvZwo=</text>
+        <text encoding="base64">ICAgIHByaW50ICJzcGVjdHJ1bS5zaGFwZSB7fSAiCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIHByaW50IGxvZwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZygiIikK</text>
+        <text encoding="base64">ICAgIHByaW50IGxvZwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHNpZ25hbCA9IG5wLnJlYWwobnAuZmZ0LmlmZnRuKHNwZWN0cnVtKSkK</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZygiIikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgc2hzcGVjdHJ1bSA9IG5wLmZmdC5mZnRzaGlmdChzcGVjdHJ1bSkKICAgIGZpbHQgPSBwb3dlcl9maWx0ZXIoc3BlY3RydW0uc2hhcGUsIGV4cG9uZW50LCBkaXN0PWZyZXFzKQo=</text>
+        <text encoding="base64">ICAgIHNpZ25hbCA9IG5wLnJlYWwobnAuZmZ0LmlmZnRuKHNwZWN0cnVtKSkK</text>
       </register>
       <register name=":" type="4">
-        <text>517</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -6045,9 +6045,9 @@
         <entry>12267</entry>
         <entry>1226</entry>
         <entry>42</entry>
-        <entry>w</entry>
         <entry>q</entry>
         <entry>517</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
