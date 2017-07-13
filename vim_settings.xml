@@ -727,7 +727,7 @@
         <mark key="^" line="155" column="15" />
         <mark key="." line="155" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499943476942">
+      <file name="/Dummy.txt" timestamp="1499946338001">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="10" />
@@ -1102,15 +1102,15 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/tgmain.py" timestamp="1499944995480">
+      <file name="$USER_HOME$/projects/teigen/teigen/tgmain.py" timestamp="1499953021175">
         <mark key="a" line="433" column="8" />
         <mark key="b" line="187" column="9" />
         <mark key="c" line="107" column="0" />
         <mark key="'" line="445" column="26" />
-        <mark key="[" line="495" column="33" />
-        <mark key="]" line="495" column="29" />
-        <mark key="." line="495" column="29" />
-        <mark key="^" line="495" column="29" />
+        <mark key="[" line="545" column="18" />
+        <mark key="]" line="545" column="18" />
+        <mark key="." line="545" column="18" />
+        <mark key="^" line="544" column="18" />
       </file>
       <file name="$USER_HOME$/projects/psongbook/meta.yml" timestamp="1463464886020">
         <mark key="[" line="61" column="34" />
@@ -1560,13 +1560,13 @@
         <mark key="^" line="3" column="8" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/ndnoise/ndnoise/generator.py" timestamp="1499946240491">
+      <file name="$USER_HOME$/projects/ndnoise/ndnoise/generator.py" timestamp="1499952983983">
         <mark key="a" line="122" column="17" />
         <mark key="'" line="133" column="0" />
-        <mark key="[" line="74" column="32" />
-        <mark key="]" line="74" column="31" />
-        <mark key="." line="74" column="31" />
-        <mark key="^" line="74" column="31" />
+        <mark key="[" line="74" column="15" />
+        <mark key="]" line="74" column="17" />
+        <mark key="." line="74" column="17" />
+        <mark key="^" line="74" column="17" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/training.py" timestamp="1453117814988">
         <mark key="'" line="38" column="8" />
@@ -5918,7 +5918,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>:</text>
+        <text>_stop</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -5940,7 +5940,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>_stop</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwb3N0cHJvY2Vzc2luZ1w+</text>
