@@ -1102,15 +1102,15 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/tgmain.py" timestamp="1499932626432">
+      <file name="$USER_HOME$/projects/teigen/teigen/tgmain.py" timestamp="1499934575992">
         <mark key="a" line="433" column="8" />
         <mark key="b" line="187" column="9" />
         <mark key="c" line="107" column="0" />
         <mark key="'" line="537" column="0" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="39" column="24" />
-        <mark key="." line="38" column="0" />
-        <mark key="^" line="550" column="23" />
+        <mark key="[" line="549" column="30" />
+        <mark key="]" line="549" column="28" />
+        <mark key="." line="549" column="28" />
+        <mark key="^" line="549" column="28" />
       </file>
       <file name="$USER_HOME$/projects/psongbook/meta.yml" timestamp="1463464886020">
         <mark key="[" line="61" column="34" />
@@ -5917,8 +5917,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgbmRub2lzZQogICAgICAgIGltcG9ydCBuZG5vaXNlLmdlbmVyYXRvcgo=</text>
+      <register name="&quot;" type="4">
+        <text>(</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -5940,13 +5940,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>dfi</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHBsdC5zdWJwbG90KDEyMSkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCB0eXBlKHBwYXJhbXNbIm5vaXNlX21lYW4iXSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBpbXBvcnQgbmRub2lzZQogICAgICAgIGltcG9ydCBuZG5vaXNlLmdlbmVyYXRvcgo=</text>
@@ -5979,7 +5979,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>550</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -6031,8 +6031,8 @@
         <entry>42</entry>
         <entry>q</entry>
         <entry>517</entry>
-        <entry>w</entry>
         <entry>550</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
