@@ -1102,15 +1102,15 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/tgmain.py" timestamp="1499934575992">
+      <file name="$USER_HOME$/projects/teigen/teigen/tgmain.py" timestamp="1499935061547">
         <mark key="a" line="433" column="8" />
         <mark key="b" line="187" column="9" />
         <mark key="c" line="107" column="0" />
-        <mark key="'" line="537" column="0" />
-        <mark key="[" line="549" column="30" />
-        <mark key="]" line="549" column="28" />
-        <mark key="." line="549" column="28" />
-        <mark key="^" line="549" column="28" />
+        <mark key="'" line="553" column="28" />
+        <mark key="[" line="549" column="36" />
+        <mark key="]" line="549" column="33" />
+        <mark key="." line="549" column="33" />
+        <mark key="^" line="549" column="33" />
       </file>
       <file name="$USER_HOME$/projects/psongbook/meta.yml" timestamp="1463464886020">
         <mark key="[" line="61" column="34" />
@@ -1738,7 +1738,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="494" column="28" filename="$USER_HOME$/projects/teigen/teigen/generators/unconnected_cylinders.py" />
       <jump line="495" column="21" filename="$USER_HOME$/projects/teigen/teigen/generators/unconnected_cylinders.py" />
       <jump line="496" column="26" filename="$USER_HOME$/projects/teigen/teigen/generators/unconnected_cylinders.py" />
       <jump line="476" column="45" filename="$USER_HOME$/projects/teigen/teigen/generators/unconnected_cylinders.py" />
@@ -1838,6 +1837,7 @@
       <jump line="462" column="22" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
       <jump line="429" column="46" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
       <jump line="535" column="0" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
+      <jump line="553" column="28" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5943,7 +5943,7 @@
         <text>(</text>
       </register>
       <register name="/" type="4">
-        <text>dfi</text>
+        <text encoding="base64">XDxub2lzZV9hbXBsaXR1ZGVcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCB0eXBlKHBwYXJhbXNbIm5vaXNlX21lYW4iXSkK</text>
@@ -5983,15 +5983,14 @@
       </register>
     </registers>
     <search>
-      <last-search>dfi</last-search>
+      <last-search encoding="base64">XDxub2lzZV9hbXBsaXR1ZGVcPg==</last-search>
       <last-offset />
-      <last-pattern>dfi</last-pattern>
+      <last-pattern encoding="base64">XDxub2lzZV9hbXBsaXR1ZGVcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>step2_st</entry>
         <entry>step1_to</entry>
         <entry>best</entry>
         <entry>join</entry>
@@ -6011,6 +6010,7 @@
         <entry>now</entry>
         <entry encoding="base64">XDxwcm9jZXNzaW5nX2luZm9cPg==</entry>
         <entry>dfi</entry>
+        <entry encoding="base64">XDxub2lzZV9hbXBsaXR1ZGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>ě</entry>
