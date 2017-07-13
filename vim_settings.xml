@@ -9,6 +9,9 @@
         <mark key="." line="41" column="21" />
         <mark key="^" line="41" column="21" />
       </file>
+      <file name="/start_script.py" timestamp="1499932565168">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/teigen/teigen/simpleio.py" timestamp="1479067950754">
         <mark key="[" line="28" column="32" />
         <mark key="]" line="28" column="34" />
@@ -474,12 +477,6 @@
         <mark key="^" line="56" column="41" />
         <mark key="." line="56" column="41" />
       </file>
-      <file name="$USER_HOME$/projects/discon/meta.yaml" timestamp="1496061184898">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="17" />
-        <mark key="." line="46" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/quanta/quanta/__main__.py" timestamp="1446549342592">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="12" />
@@ -532,12 +529,6 @@
         <mark key="]" line="409" column="21" />
         <mark key="^" line="409" column="21" />
         <mark key="." line="409" column="21" />
-      </file>
-      <file name="$USER_HOME$/miniconda/lib/python2.7/site-packages/imtools/uiThreshold.py" timestamp="1498770786646">
-        <mark key="'" line="553" column="0" />
-        <mark key="[" line="576" column="0" />
-        <mark key="]" line="576" column="0" />
-        <mark key="." line="576" column="0" />
       </file>
       <file name="$USER_HOME$/projects/teigen/teigen/tree.py" timestamp="1495573604431">
         <mark key="[" line="138" column="29" />
@@ -971,12 +962,6 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1498772070192">
-        <mark key="'" line="1014" column="18" />
-        <mark key="[" line="1222" column="0" />
-        <mark key="]" line="1222" column="0" />
-        <mark key="." line="1222" column="0" />
-      </file>
       <file name="/1.0" timestamp="1494919235684">
         <mark key="[" line="0" column="0" />
       </file>
@@ -1117,14 +1102,14 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/tgmain.py" timestamp="1499897728953">
-        <mark key="a" line="431" column="8" />
-        <mark key="b" line="185" column="9" />
-        <mark key="c" line="105" column="0" />
-        <mark key="'" line="429" column="46" />
-        <mark key="[" line="550" column="15" />
-        <mark key="]" line="550" column="23" />
-        <mark key="." line="550" column="23" />
+      <file name="$USER_HOME$/projects/teigen/teigen/tgmain.py" timestamp="1499932626432">
+        <mark key="a" line="433" column="8" />
+        <mark key="b" line="187" column="9" />
+        <mark key="c" line="107" column="0" />
+        <mark key="'" line="537" column="0" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="39" column="24" />
+        <mark key="." line="38" column="0" />
         <mark key="^" line="550" column="23" />
       </file>
       <file name="$USER_HOME$/projects/psongbook/meta.yml" timestamp="1463464886020">
@@ -1753,7 +1738,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="0" filename="$USER_HOME$/projects/teigen/teigen/generators/unconnected_cylinders.py" />
       <jump line="494" column="28" filename="$USER_HOME$/projects/teigen/teigen/generators/unconnected_cylinders.py" />
       <jump line="495" column="21" filename="$USER_HOME$/projects/teigen/teigen/generators/unconnected_cylinders.py" />
       <jump line="496" column="26" filename="$USER_HOME$/projects/teigen/teigen/generators/unconnected_cylinders.py" />
@@ -1853,6 +1837,7 @@
       <jump line="871" column="14" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
       <jump line="462" column="22" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
       <jump line="429" column="46" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
+      <jump line="535" column="0" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5933,7 +5918,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgbmRub2lzZQogICAgICAgIGltcG9ydCBuZG5vaXNlLmdlbmVyYXRvcgo=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -5964,7 +5949,7 @@
         <text encoding="base64">ICAgIHBsdC5zdWJwbG90KDEyMSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgbmRub2lzZQogICAgICAgIGltcG9ydCBuZG5vaXNlLmdlbmVyYXRvcgo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -5985,16 +5970,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBsdC5maWd1cmUoKQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHBsdC5maWd1cmUoKQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAqKmt3YXJncwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>550</text>
       </register>
     </registers>
     <search>
@@ -6028,7 +6013,6 @@
         <entry>dfi</entry>
       </history-search>
       <history-cmd>
-        <entry>1085</entry>
         <entry>ě</entry>
         <entry>718</entry>
         <entry>1091</entry>
@@ -6048,6 +6032,7 @@
         <entry>q</entry>
         <entry>517</entry>
         <entry>w</entry>
+        <entry>550</entry>
       </history-cmd>
       <history-expr />
       <history-input />
