@@ -1100,15 +1100,15 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/tgmain.py" timestamp="1499978743535">
+      <file name="$USER_HOME$/projects/teigen/teigen/tgmain.py" timestamp="1499980487295">
         <mark key="a" line="433" column="8" />
         <mark key="b" line="187" column="9" />
         <mark key="c" line="107" column="0" />
         <mark key="'" line="445" column="26" />
-        <mark key="[" line="560" column="14" />
-        <mark key="]" line="560" column="26" />
-        <mark key="." line="560" column="26" />
-        <mark key="^" line="560" column="26" />
+        <mark key="[" line="565" column="14" />
+        <mark key="]" line="565" column="28" />
+        <mark key="." line="565" column="28" />
+        <mark key="^" line="565" column="28" />
       </file>
       <file name="$USER_HOME$/projects/psongbook/meta.yml" timestamp="1463464886020">
         <mark key="[" line="61" column="34" />
@@ -5908,7 +5908,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>lambda1_px</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -5930,13 +5930,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>lambda1_px</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>noise_amp</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZygibGFtYmRhX3B4IHt9IHt9Ii5mb3JtYXQobGFtYmRhMF9weCwgbGFtYmRhMV9weCkpCg==</text>
+      <register name="0" type="4">
+        <text>pparams[&quot;noise_std&quot;]</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICMgdG9kbyByZW1vdmUgZmFsbG93aW5nIGxpbmUKICAgIHByaW50KCJsYW1iZGFfcHgge30ge30iLmZvcm1hdChsYW1iZGEwX3B4LCBsYW1iZGExX3B4KSkKCg==</text>
