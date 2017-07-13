@@ -727,7 +727,7 @@
         <mark key="^" line="155" column="15" />
         <mark key="." line="155" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499946338001">
+      <file name="/Dummy.txt" timestamp="1499953217897">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="10" />
@@ -1560,13 +1560,13 @@
         <mark key="^" line="3" column="8" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/ndnoise/ndnoise/generator.py" timestamp="1499952983983">
+      <file name="$USER_HOME$/projects/ndnoise/ndnoise/generator.py" timestamp="1499953286752">
         <mark key="a" line="122" column="17" />
         <mark key="'" line="133" column="0" />
-        <mark key="[" line="74" column="15" />
-        <mark key="]" line="74" column="17" />
-        <mark key="." line="74" column="17" />
-        <mark key="^" line="74" column="17" />
+        <mark key="[" line="79" column="66" />
+        <mark key="]" line="80" column="31" />
+        <mark key="." line="80" column="31" />
+        <mark key="^" line="80" column="31" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/training.py" timestamp="1453117814988">
         <mark key="'" line="38" column="8" />
@@ -5918,7 +5918,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>_stop</text>
+        <text>debug</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -5940,13 +5940,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>_stop</text>
+        <text>debug</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwb3N0cHJvY2Vzc2luZ1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCB0eXBlKHBwYXJhbXNbIm5vaXNlX21lYW4iXSkK</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZygibGFtYmRhX3B4IHt9IHt9Ii5mb3JtYXQobGFtYmRhMF9weCwgbGFtYmRhMV9weCkpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBpbXBvcnQgbmRub2lzZQogICAgICAgIGltcG9ydCBuZG5vaXNlLmdlbmVyYXRvcgo=</text>
