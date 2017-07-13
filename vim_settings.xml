@@ -704,6 +704,9 @@
         <mark key="^" line="85" column="48" />
         <mark key="." line="85" column="48" />
       </file>
+      <file name="$USER_HOME$/miniconda/lib/python2.7/site-packages/teigen/tgmain.py" timestamp="1499978328886">
+        <mark key="'" line="129" column="8" />
+      </file>
       <file name="$USER_HOME$/projects/pyseg_base/tests/pycut_test.py" timestamp="1444664727080">
         <mark key="[" line="46" column="14" />
         <mark key="]" line="46" column="25" />
@@ -1097,15 +1100,15 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/tgmain.py" timestamp="1499954119395">
+      <file name="$USER_HOME$/projects/teigen/teigen/tgmain.py" timestamp="1499978743535">
         <mark key="a" line="433" column="8" />
         <mark key="b" line="187" column="9" />
         <mark key="c" line="107" column="0" />
         <mark key="'" line="445" column="26" />
-        <mark key="[" line="550" column="14" />
-        <mark key="]" line="550" column="25" />
-        <mark key="." line="550" column="25" />
-        <mark key="^" line="550" column="25" />
+        <mark key="[" line="560" column="14" />
+        <mark key="]" line="560" column="26" />
+        <mark key="." line="560" column="26" />
+        <mark key="^" line="560" column="26" />
       </file>
       <file name="$USER_HOME$/projects/psongbook/meta.yml" timestamp="1463464886020">
         <mark key="[" line="61" column="34" />
@@ -1725,7 +1728,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="112" column="4" filename="$USER_HOME$/projects/teigen/teigen/tb_vtk.py" />
       <jump line="200" column="18" filename="$USER_HOME$/projects/teigen/teigen/tb_vtk.py" />
       <jump line="213" column="13" filename="$USER_HOME$/projects/teigen/teigen/tb_vtk.py" />
       <jump line="216" column="25" filename="$USER_HOME$/projects/teigen/teigen/tb_vtk.py" />
@@ -1825,6 +1827,7 @@
       <jump line="437" column="10" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
       <jump line="444" column="49" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
       <jump line="445" column="26" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
+      <jump line="129" column="8" filename="$USER_HOME$/miniconda/lib/python2.7/site-packages/teigen/tgmain.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5930,7 +5933,7 @@
         <text>lambda1_px</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwb3N0cHJvY2Vzc2luZ1w+</text>
+        <text>noise_amp</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZygibGFtYmRhX3B4IHt9IHt9Ii5mb3JtYXQobGFtYmRhMF9weCwgbGFtYmRhMV9weCkpCg==</text>
@@ -5970,16 +5973,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwb3N0cHJvY2Vzc2luZ1w+</last-search>
+      <last-search>noise_amp</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwb3N0cHJvY2Vzc2luZ1w+</last-pattern>
+      <last-pattern>noise_amp</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>join</entry>
-        <entry>factors</entry>
         <entry>:, :</entry>
         <entry>slab</entry>
         <entry>QAppli</entry>
@@ -5998,9 +5999,10 @@
         <entry encoding="base64">XDxub2lzZV9hbXBsaXR1ZGVcPg==</entry>
         <entry encoding="base64">XDxub2lzZV9tZWFuXD4=</entry>
         <entry encoding="base64">XDxwb3N0cHJvY2Vzc2luZ1w+</entry>
+        <entry>noise_std</entry>
+        <entry>noise_amp</entry>
       </history-search>
       <history-cmd>
-        <entry>ě</entry>
         <entry>718</entry>
         <entry>1091</entry>
         <entry>50</entry>
@@ -6019,6 +6021,7 @@
         <entry>q</entry>
         <entry>517</entry>
         <entry>550</entry>
+        <entry>s</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
