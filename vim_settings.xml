@@ -725,7 +725,7 @@
         <mark key="^" line="155" column="15" />
         <mark key="." line="155" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499955180852">
+      <file name="/Dummy.txt" timestamp="1500067806761">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="10" />
@@ -736,7 +736,7 @@
         <mark key="." line="33" column="20" />
         <mark key="^" line="33" column="20" />
       </file>
-      <file name="/code.py" timestamp="1499945899322">
+      <file name="/code.py" timestamp="1500067798334">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/skelet3d/install.sh" timestamp="1465570047644">
@@ -1100,15 +1100,15 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/tgmain.py" timestamp="1500057480103">
+      <file name="$USER_HOME$/projects/teigen/teigen/tgmain.py" timestamp="1500067349453">
         <mark key="a" line="433" column="8" />
         <mark key="b" line="187" column="9" />
         <mark key="c" line="107" column="0" />
         <mark key="'" line="445" column="26" />
-        <mark key="[" line="541" column="36" />
-        <mark key="]" line="541" column="37" />
-        <mark key="." line="541" column="37" />
-        <mark key="^" line="541" column="37" />
+        <mark key="[" line="552" column="0" />
+        <mark key="]" line="552" column="0" />
+        <mark key="^" line="554" column="23" />
+        <mark key="." line="552" column="0" />
       </file>
       <file name="$USER_HOME$/projects/psongbook/meta.yml" timestamp="1463464886020">
         <mark key="[" line="61" column="34" />
@@ -5907,8 +5907,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>gen</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAjIG14ID0gbnAubWF4KG5vaXNlKQogICAgICAgICMgbXhhbHQgPSBucC5tZWFuKG5vaXNlKSArIDEgKiBucC5zdGQobm9pc2UpCiAgICAgICAgIyBwcmludCAiZ2VuZXJhdGVfbm9pc2UoKSIKICAgICAgICAjIHByaW50IHR5cGUobXgpCiAgICAgICAgIyBwcmludCB0eXBlKG5vaXNlKQo=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -5930,40 +5930,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>gen</text>
+        <text>pparams[&quot;noise_mean&quot;]</text>
       </register>
       <register name="/" type="4">
         <text>noise_amp</text>
       </register>
-      <register name="0" type="4">
-        <text>pparams[&quot;noise_std&quot;]</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCB0eXBlKHBwYXJhbXNbIm5vaXNlX21lYW4iXSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgdG9kbyByZW1vdmUgZmFsbG93aW5nIGxpbmUKICAgIHByaW50KCJsYW1iZGFfcHgge30ge30iLmZvcm1hdChsYW1iZGEwX3B4LCBsYW1iZGExX3B4KSkKCg==</text>
+        <text encoding="base64">ICAgICAgICAjIG14ID0gbnAubWF4KG5vaXNlKQogICAgICAgICMgbXhhbHQgPSBucC5tZWFuKG5vaXNlKSArIDEgKiBucC5zdGQobm9pc2UpCiAgICAgICAgIyBwcmludCAiZ2VuZXJhdGVfbm9pc2UoKSIKICAgICAgICAjIHByaW50IHR5cGUobXgpCiAgICAgICAgIyBwcmludCB0eXBlKG5vaXNlKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCBucC5tYXgobm9pc2UpLCBucC5zdGQobm9pc2UpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCBucC5tYXgobm9pc2UpLCBucC5zdGQobm9pc2UpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2hhcGU9c2VsZi5nZW4uYXJlYXNpemVfcHgsCiAgICAgICAgICAgIHNhbXBsZV9zcGFjaW5nPXNlbGYuZ2VuLnZveGVsc2l6ZV9tbSwKICAgICAgICAgICAgZXhwb25lbnQ9cHBhcmFtc1sibm9pc2VfZXhwb25lbnQiXSwKICAgICAgICAgICAgcmFuZG9tX2dlbmVyYXRvcl9zZWVkPXBwYXJhbXNbIm5vaXNlX3JuZ19zZWVkIl0sCiAgICAgICAgICAgIGxhbWJkYTA9cHBhcmFtc1sibm9pc2VfbGFtYmRhMCJdLAogICAgICAgICAgICBsYW1iZGExPXBwYXJhbXNbIm5vaXNlX2xhbWJkYTEiXSwK</text>
+        <text encoding="base64">ICAgICMgdG9kbyByZW1vdmUgZmFsbG93aW5nIGxpbmUKICAgIHByaW50KCJsYW1iZGFfcHgge30ge30iLmZvcm1hdChsYW1iZGEwX3B4LCBsYW1iZGExX3B4KSkKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgbmRub2lzZQogICAgICAgIGltcG9ydCBuZG5vaXNlLmdlbmVyYXRvcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2hhcGU9c2VsZi5nZW4uYXJlYXNpemVfcHgsCiAgICAgICAgICAgIHNhbXBsZV9zcGFjaW5nPXNlbGYuZ2VuLnZveGVsc2l6ZV9tbSwKICAgICAgICAgICAgZXhwb25lbnQ9cHBhcmFtc1sibm9pc2VfZXhwb25lbnQiXSwKICAgICAgICAgICAgcmFuZG9tX2dlbmVyYXRvcl9zZWVkPXBwYXJhbXNbIm5vaXNlX3JuZ19zZWVkIl0sCiAgICAgICAgICAgIGxhbWJkYTA9cHBhcmFtc1sibm9pc2VfbGFtYmRhMCJdLAogICAgICAgICAgICBsYW1iZGExPXBwYXJhbXNbIm5vaXNlX2xhbWJkYTEiXSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgbmRub2lzZQogICAgICAgIGltcG9ydCBuZG5vaXNlLmdlbmVyYXRvcgo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
