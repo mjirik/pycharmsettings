@@ -771,11 +771,11 @@
         <mark key="^" line="12" column="34" />
         <mark key="." line="12" column="34" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/tb_volume.py" timestamp="1499627759805">
-        <mark key="[" line="40" column="43" />
-        <mark key="]" line="40" column="57" />
-        <mark key="^" line="40" column="57" />
-        <mark key="." line="40" column="57" />
+      <file name="$USER_HOME$/projects/teigen/teigen/tb_volume.py" timestamp="1500069106973">
+        <mark key="[" line="41" column="31" />
+        <mark key="]" line="41" column="34" />
+        <mark key="^" line="41" column="34" />
+        <mark key="." line="41" column="34" />
       </file>
       <file name="$USER_HOME$/projects/io3d/tests/dcmreaddata_test.py" timestamp="1486938207119">
         <mark key="'" line="0" column="0" />
@@ -5907,8 +5907,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjIG14ID0gbnAubWF4KG5vaXNlKQogICAgICAgICMgbXhhbHQgPSBucC5tZWFuKG5vaXNlKSArIDEgKiBucC5zdGQobm9pc2UpCiAgICAgICAgIyBwcmludCAiZ2VuZXJhdGVfbm9pc2UoKSIKICAgICAgICAjIHByaW50IHR5cGUobXgpCiAgICAgICAgIyBwcmludCB0eXBlKG5vaXNlKQo=</text>
+      <register name="&quot;" type="4">
+        <text>gtree</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -5930,7 +5930,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>pparams[&quot;noise_mean&quot;]</text>
+        <text>gtree</text>
       </register>
       <register name="/" type="4">
         <text>noise_amp</text>
