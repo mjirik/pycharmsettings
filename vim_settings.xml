@@ -1107,15 +1107,15 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/tgmain.py" timestamp="1501106250042">
+      <file name="$USER_HOME$/projects/teigen/teigen/tgmain.py" timestamp="1501109721171">
         <mark key="a" line="205" column="26" />
         <mark key="b" line="187" column="9" />
         <mark key="c" line="107" column="0" />
-        <mark key="'" line="654" column="39" />
-        <mark key="[" line="476" column="0" />
-        <mark key="]" line="481" column="32" />
-        <mark key="^" line="737" column="75" />
-        <mark key="." line="476" column="0" />
+        <mark key="'" line="933" column="31" />
+        <mark key="[" line="706" column="11" />
+        <mark key="]" line="706" column="33" />
+        <mark key="^" line="706" column="33" />
+        <mark key="." line="706" column="33" />
       </file>
       <file name="$USER_HOME$/projects/psongbook/meta.yml" timestamp="1463464886020">
         <mark key="[" line="61" column="34" />
@@ -1735,13 +1735,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="706" column="31" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
-      <jump line="871" column="14" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
-      <jump line="462" column="22" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
-      <jump line="429" column="46" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
-      <jump line="535" column="0" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
-      <jump line="553" column="28" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
-      <jump line="499" column="12" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
       <jump line="554" column="28" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
       <jump line="555" column="23" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
       <jump line="557" column="33" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
@@ -1835,6 +1828,13 @@
       <jump line="161" column="3" filename="$USER_HOME$/projects/imtools/imtools/dili.py" />
       <jump line="654" column="39" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
       <jump line="94" column="0" filename="$USER_HOME$/projects/teigen/tests/teigen_test.py" />
+      <jump line="706" column="33" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
+      <jump line="712" column="8" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
+      <jump line="714" column="29" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
+      <jump line="837" column="12" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
+      <jump line="840" column="33" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
+      <jump line="932" column="12" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
+      <jump line="933" column="31" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5914,8 +5914,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBvbmVfcm93X2ZpbGVuYW1lID0gc2VsZi5jb25maWdbIm91dHB1dCJdWyJvbmVfcm93X2ZpbGVuYW1lIl0KICAgICAgICBpZiBvbmVfcm93X2ZpbGVuYW1lICE9ICIiOgogICAgICAgICAgICAjIHNlbGYucHJlcGFyZV9zdGF0cygpCiAgICAgICAgICAgIHNlbGYuc2F2ZV9zdGF0c190b19yb3cob25lX3Jvd19maWxlbmFtZSkKICAgICAgICBlbHNlOgogICAgICAgICAgICBzZWxmLnByZXBhcmVfc3RhdHMoKQo=</text>
+      <register name="&quot;" type="4">
+        <text>g</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -5937,58 +5937,57 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y29uZmlnX2RmIA==</text>
+        <text>g</text>
       </register>
       <register name="/" type="4">
-        <text>flatt</text>
+        <text>params</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBvbmVfcm93X2ZpbGVuYW1lID0gc2VsZi5jb25maWdbIm91dHB1dCJdWyJvbmVfcm93X2ZpbGVuYW1lIl0KICAgICAgICBpZiBvbmVfcm93X2ZpbGVuYW1lICE9ICIiOgogICAgICAgICAgICAjIHNlbGYucHJlcGFyZV9zdGF0cygpCiAgICAgICAgICAgIHNlbGYuc2F2ZV9zdGF0c190b19yb3cob25lX3Jvd19maWxlbmFtZSkKICAgICAgICBlbHNlOgogICAgICAgICAgICBzZWxmLnByZXBhcmVfc3RhdHMoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFyYW1zID0gaW8zZC5taXNjLm9ial9mcm9tX2ZpbGUoYXJncy5wYXJhbWV0ZXJmaWxlKQogICAgICAgICAgICB0Zy51cGRhdGVfY29uZmlnKCoqcGFyYW1zKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbXRvb2xzLmRpbGkuZmxhdHRlbl9kaWN0X2pvaW5fa2V5cygpc2VsZi5nZXRfY29uZmlnX2FuZF9tZWFzdXJlbWVudCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBmbl9iYXNlID0gTm9uZQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhcm93LnVwZGF0ZSh7ZGZvKQogICAgICAgIGRhdGFyb3cudXBkYXRlKGRmbykKCiAgICAgICAgcHJpbnQgImFob2o6dyIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBjb25maWdfZmlsZXBhdHRlcm4gPSBzZWxmLmdldF9jb25maWdfZmlsZV9wYXR0ZXJuKCkKICAgICAgICAgICAgIyBzZXJpZXNfbnVtYmVyID0gaW8zZC5kYXRhd3JpdGVyLmdldF91bm9jY3VwaWVkX3Nlcmllc19udW1iZXIoZmlsZXBhdHRlcm49Y29uZmlnX2ZpbGVwYXR0ZXJuKQogICAgICAgICAgICAjICMgc2VyaWVzX251bWJlciA9IGlvM2QuZGF0YXdyaXRlci5nZXRfdW5vY2N1cGllZF9zZXJpZXNfbnVtYmVyKGZpbGVwYXR0ZXJuPXNlbGYuY29uZmlnWyJmaWxlcGF0dGVybiJdKQogICAgICAgICAgICAjIHNlbGYuY29uZmlnWydmaWxlcGF0dGVybl9zZXJpZXNfbnVtYmVyJ10gPSBzZXJpZXNfbnVtYmVyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhcm93ID0ge30K</text>
+        <text encoding="base64">ICAgICAgICAjIGlmIHNlbGYucGFyYW1ldGVyc19jaGFuZ2VkX2JlZm9yZV9zYXZlOgogICAgICAgICMgICAgIHNlbGYucnVuKCkKICAgICAgICAjIHByZXBhcmUgcGF0aCB0byBzYXZlCgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBwYXJhbXMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5yZWZyZXNoX3Vub2NjdXBpZWRfc2VyaWVzX251bWJlcigpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5yZWZyZXNoX3Vub2NjdXBpZWRfc2VyaWVzX251bWJlcigpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25mID0gdGcuZ2V0X2RlZmF1bHRfY29uZmlnKCkKICAgICAgICBpbXBvcnQgaW10b29scy5kaWxpCg==</text>
+        <text encoding="base64">ICAgICAgICBpbXRvb2xzLmRpbGkuZmxhdHRlbl9kaWN0X2pvaW5fa2V5cygpc2VsZi5nZXRfY29uZmlnX2FuZF9tZWFzdXJlbWVudCgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpbXRvb2xzLmRpbGkucmVjdXJzaXZlX3VwZGF0ZShjb25mLCApCg==</text>
+        <text encoding="base64">ICAgICAgICBkYXRhcm93LnVwZGF0ZSh7ZGZvKQogICAgICAgIGRhdGFyb3cudXBkYXRlKGRmbykKCiAgICAgICAgcHJpbnQgImFob2o6dyIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>flatt</last-search>
+      <last-search>params</last-search>
       <last-offset />
-      <last-pattern>flatt</last-pattern>
+      <last-pattern>params</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>qapp</entry>
         <entry>app</entry>
         <entry>QApp</entry>
         <entry>Ruznych</entry>
@@ -6008,6 +6007,7 @@
         <entry>logger</entry>
         <entry>print</entry>
         <entry>flatt</entry>
+        <entry>params</entry>
       </history-search>
       <history-cmd>
         <entry>718</entry>
