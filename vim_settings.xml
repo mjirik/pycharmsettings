@@ -725,7 +725,7 @@
         <mark key="^" line="155" column="15" />
         <mark key="." line="155" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501072306462">
+      <file name="/Dummy.txt" timestamp="1501078800927">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="10" />
@@ -1021,7 +1021,7 @@
         <mark key="." line="60" column="25" />
         <mark key="^" line="60" column="25" />
       </file>
-      <file name="/Python Console" timestamp="1501077423080">
+      <file name="/Python Console" timestamp="1501103105487">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/events2calendar/tests/e2c_test.py" timestamp="1477320243915">
@@ -1107,15 +1107,15 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/tgmain.py" timestamp="1501078046336">
+      <file name="$USER_HOME$/projects/teigen/teigen/tgmain.py" timestamp="1501103154208">
         <mark key="a" line="205" column="26" />
         <mark key="b" line="187" column="9" />
         <mark key="c" line="107" column="0" />
         <mark key="'" line="654" column="39" />
-        <mark key="[" line="741" column="19" />
-        <mark key="]" line="742" column="23" />
-        <mark key="^" line="742" column="23" />
-        <mark key="." line="742" column="23" />
+        <mark key="[" line="735" column="66" />
+        <mark key="]" line="737" column="75" />
+        <mark key="^" line="737" column="75" />
+        <mark key="." line="737" column="75" />
       </file>
       <file name="$USER_HOME$/projects/psongbook/meta.yml" timestamp="1463464886020">
         <mark key="[" line="61" column="34" />
@@ -5914,8 +5914,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhcm93ID0ge30K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Y29uZmlnX2RmIA==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -5937,43 +5937,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>flatten_config</text>
+        <text encoding="base64">Y29uZmlnX2RmIA==</text>
       </register>
       <register name="/" type="4">
         <text>flatt</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhcm93LnVwZGF0ZShkZm8pCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25maWdfZGYgPSBwZC5EYXRhRnJhbWUoW2NvbmZpZ19mbF0sIGNvbHVtbnM9Y29uZmlnX2ZsLmtleXMoKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhcm93ID0ge30K</text>
+        <text encoding="base64">ICAgICAgICBpbXRvb2xzLmRpbGkuZmxhdHRlbl9kaWN0X2pvaW5fa2V5cygpc2VsZi5nZXRfY29uZmlnX2FuZF9tZWFzdXJlbWVudCgpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBwYXJhbXMK</text>
+        <text encoding="base64">ICAgICAgICBkYXRhcm93LnVwZGF0ZSh7ZGZvKQogICAgICAgIGRhdGFyb3cudXBkYXRlKGRmbykKCiAgICAgICAgcHJpbnQgImFob2o6dyIK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25mID0gdGcuZ2V0X2RlZmF1bHRfY29uZmlnKCkKICAgICAgICBpbXBvcnQgaW10b29scy5kaWxpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpbXRvb2xzLmRpbGkucmVjdXJzaXZlX3VwZGF0ZShjb25mLCApCg==</text>
+        <text encoding="base64">ICAgICAgICBkYXRhcm93ID0ge30K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxlbmFtZSA9IG9wLmV4cGFuZHVzZXIoZmlsZW5hbWUpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCBwYXJhbXMK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICNwcmludCAiZmFjdG9ycyAiLCBmYWN0b3JzCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25mID0gdGcuZ2V0X2RlZmF1bHRfY29uZmlnKCkKICAgICAgICBpbXBvcnQgaW10b29scy5kaWxpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbXRvb2xzLmRpbGkucmVjdXJzaXZlX3VwZGF0ZShjb25mLCApCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
