@@ -1089,6 +1089,12 @@
         <mark key="." line="28" column="8" />
         <mark key="^" line="28" column="26" />
       </file>
+      <file name="$USER_HOME$/projects/imtools/imtools/dili.py" timestamp="1501064531841">
+        <mark key="[" line="98" column="16" />
+        <mark key="]" line="99" column="43" />
+        <mark key="^" line="99" column="43" />
+        <mark key="." line="99" column="43" />
+      </file>
       <file name="$USER_HOME$/projects/quantan/quantan/__init__.py" timestamp="1465903630047">
         <mark key="[" line="2" column="14" />
         <mark key="]" line="2" column="22" />
@@ -5908,8 +5914,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>testData</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -5931,13 +5937,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>gtree</text>
+        <text>testData</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCB0eXBlKHBwYXJhbXNbIm5vaXNlX21lYW4iXSkK</text>
+        <text encoding="base64">ICAgIGRpY3QoIGZsYXR0ZW5EaWN0KHRlc3REYXRhLCBqb2luPWxhbWJkYSBhLGI6YSsnXycrYikgKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
