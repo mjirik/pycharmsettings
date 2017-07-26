@@ -1089,11 +1089,12 @@
         <mark key="." line="28" column="8" />
         <mark key="^" line="28" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/imtools/imtools/dili.py" timestamp="1501064531841">
-        <mark key="[" line="98" column="16" />
-        <mark key="]" line="99" column="43" />
-        <mark key="^" line="99" column="43" />
-        <mark key="." line="99" column="43" />
+      <file name="$USER_HOME$/projects/imtools/imtools/dili.py" timestamp="1501065887609">
+        <mark key="'" line="164" column="3" />
+        <mark key="[" line="174" column="13" />
+        <mark key="]" line="174" column="13" />
+        <mark key="^" line="174" column="13" />
+        <mark key="." line="174" column="13" />
       </file>
       <file name="$USER_HOME$/projects/quantan/quantan/__init__.py" timestamp="1465903630047">
         <mark key="[" line="2" column="14" />
@@ -1735,7 +1736,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="404" column="50" filename="$USER_HOME$/projects/teigen/teigen/tb_vtk.py" />
       <jump line="212" column="32" filename="$USER_HOME$/projects/teigen/teigen/generators/unconnected_cylinders.py" />
       <jump line="244" column="12" filename="$USER_HOME$/projects/teigen/teigen/generators/unconnected_cylinders.py" />
       <jump line="706" column="31" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
@@ -1835,6 +1835,7 @@
       <jump line="480" column="0" filename="$USER_HOME$/projects/teigen/teigen/tb_vtk.py" />
       <jump line="558" column="6" filename="$USER_HOME$/projects/teigen/teigen/tb_vtk.py" />
       <jump line="504" column="10" filename="$USER_HOME$/projects/teigen/teigen/tb_vtk.py" />
+      <jump line="161" column="3" filename="$USER_HOME$/projects/imtools/imtools/dili.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5915,7 +5916,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>testData</text>
+        <text>key_to_remove</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -5937,7 +5938,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>testData</text>
+        <text>key_to_remove</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
