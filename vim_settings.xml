@@ -1107,15 +1107,15 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/tgmain.py" timestamp="1501103154208">
+      <file name="$USER_HOME$/projects/teigen/teigen/tgmain.py" timestamp="1501106250042">
         <mark key="a" line="205" column="26" />
         <mark key="b" line="187" column="9" />
         <mark key="c" line="107" column="0" />
         <mark key="'" line="654" column="39" />
-        <mark key="[" line="735" column="66" />
-        <mark key="]" line="737" column="75" />
+        <mark key="[" line="476" column="0" />
+        <mark key="]" line="481" column="32" />
         <mark key="^" line="737" column="75" />
-        <mark key="." line="737" column="75" />
+        <mark key="." line="476" column="0" />
       </file>
       <file name="$USER_HOME$/projects/psongbook/meta.yml" timestamp="1463464886020">
         <mark key="[" line="61" column="34" />
@@ -5914,8 +5914,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Y29uZmlnX2RmIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBvbmVfcm93X2ZpbGVuYW1lID0gc2VsZi5jb25maWdbIm91dHB1dCJdWyJvbmVfcm93X2ZpbGVuYW1lIl0KICAgICAgICBpZiBvbmVfcm93X2ZpbGVuYW1lICE9ICIiOgogICAgICAgICAgICAjIHNlbGYucHJlcGFyZV9zdGF0cygpCiAgICAgICAgICAgIHNlbGYuc2F2ZV9zdGF0c190b19yb3cob25lX3Jvd19maWxlbmFtZSkKICAgICAgICBlbHNlOgogICAgICAgICAgICBzZWxmLnByZXBhcmVfc3RhdHMoKQo=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -5943,7 +5943,7 @@
         <text>flatt</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25maWdfZGYgPSBwZC5EYXRhRnJhbWUoW2NvbmZpZ19mbF0sIGNvbHVtbnM9Y29uZmlnX2ZsLmtleXMoKSkK</text>
+        <text encoding="base64">ICAgICAgICBvbmVfcm93X2ZpbGVuYW1lID0gc2VsZi5jb25maWdbIm91dHB1dCJdWyJvbmVfcm93X2ZpbGVuYW1lIl0KICAgICAgICBpZiBvbmVfcm93X2ZpbGVuYW1lICE9ICIiOgogICAgICAgICAgICAjIHNlbGYucHJlcGFyZV9zdGF0cygpCiAgICAgICAgICAgIHNlbGYuc2F2ZV9zdGF0c190b19yb3cob25lX3Jvd19maWxlbmFtZSkKICAgICAgICBlbHNlOgogICAgICAgICAgICBzZWxmLnByZXBhcmVfc3RhdHMoKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBpbXRvb2xzLmRpbGkuZmxhdHRlbl9kaWN0X2pvaW5fa2V5cygpc2VsZi5nZXRfY29uZmlnX2FuZF9tZWFzdXJlbWVudCgpCg==</text>
