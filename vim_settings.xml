@@ -777,12 +777,12 @@
         <mark key="^" line="12" column="34" />
         <mark key="." line="12" column="34" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/tb_volume.py" timestamp="1501254777688">
+      <file name="$USER_HOME$/projects/teigen/teigen/tb_volume.py" timestamp="1501255770011">
         <mark key="'" line="119" column="8" />
-        <mark key="[" line="41" column="54" />
-        <mark key="]" line="41" column="82" />
-        <mark key="^" line="41" column="82" />
-        <mark key="." line="41" column="82" />
+        <mark key="[" line="41" column="79" />
+        <mark key="]" line="41" column="97" />
+        <mark key="^" line="41" column="97" />
+        <mark key="." line="41" column="97" />
       </file>
       <file name="$USER_HOME$/projects/io3d/tests/dcmreaddata_test.py" timestamp="1486938207119">
         <mark key="'" line="0" column="0" />
@@ -5949,8 +5949,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgImdhdXNzaWFuIGJsdXIiCg==</text>
+      <register name="&quot;" type="4">
+        <text>(</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -5972,7 +5972,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaW5pc2hfcHJvZ3Jlc3NfY2FsbGJhY2tcPg==</text>
