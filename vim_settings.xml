@@ -1119,15 +1119,15 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/tgmain.py" timestamp="1501247967018">
-        <mark key="a" line="492" column="27" />
+      <file name="$USER_HOME$/projects/teigen/teigen/tgmain.py" timestamp="1501250983413">
+        <mark key="a" line="493" column="27" />
         <mark key="b" line="187" column="9" />
         <mark key="c" line="107" column="0" />
         <mark key="'" line="37" column="0" />
-        <mark key="[" line="437" column="66" />
-        <mark key="]" line="437" column="65" />
-        <mark key="." line="437" column="65" />
-        <mark key="^" line="437" column="65" />
+        <mark key="[" line="437" column="68" />
+        <mark key="]" line="438" column="17" />
+        <mark key="." line="438" column="17" />
+        <mark key="^" line="438" column="17" />
       </file>
       <file name="$USER_HOME$/projects/psongbook/meta.yml" timestamp="1463464886020">
         <mark key="[" line="61" column="34" />
@@ -1761,10 +1761,15 @@
         <mark key="^" line="13" column="3" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1501251394091">
+        <mark key="'" line="236" column="31" />
+        <mark key="[" line="261" column="35" />
+        <mark key="]" line="234" column="12" />
+        <mark key="^" line="234" column="12" />
+        <mark key="." line="234" column="12" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="564" column="4" filename="$USER_HOME$/projects/teigen/teigen/tb_vtk.py" />
-      <jump line="181" column="6" filename="$USER_HOME$/projects/teigen/teigen/tb_vtk.py" />
       <jump line="482" column="5" filename="$USER_HOME$/projects/teigen/teigen/tb_vtk.py" />
       <jump line="509" column="10" filename="$USER_HOME$/projects/teigen/teigen/tb_vtk.py" />
       <jump line="563" column="6" filename="$USER_HOME$/projects/teigen/teigen/tb_vtk.py" />
@@ -1863,6 +1868,8 @@
       <jump line="490" column="27" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
       <jump line="37" column="0" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
       <jump line="296" column="35" filename="$USER_HOME$/projects/teigen/teigen/generators/unconnected_cylinders.py" />
+      <jump line="234" column="12" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
+      <jump line="236" column="31" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5968,7 +5975,7 @@
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsZW5ndGhzXD4=</text>
+        <text>volume</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgInJhZGl1c19iaWdnZXJfdGhhbl9hcmVhc2l6ZSI6IDAsCg==</text>
@@ -6008,15 +6015,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsZW5ndGhzXD4=</last-search>
+      <last-search>volume</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsZW5ndGhzXD4=</last-pattern>
+      <last-pattern>volume</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>short</entry>
         <entry encoding="base64">XDx0cnlfc2hvcnRlcl9pdGVyYXRpb25fbnVtYmVyXD4=</entry>
         <entry>now</entry>
         <entry encoding="base64">XDxwcm9jZXNzaW5nX2luZm9cPg==</entry>
@@ -6036,6 +6042,7 @@
         <entry>run fi</entry>
         <entry encoding="base64">XDxsZW5ndHNoXD4=</entry>
         <entry encoding="base64">XDxsZW5ndGhzXD4=</entry>
+        <entry>volume</entry>
       </history-search>
       <history-cmd>
         <entry>237</entry>
