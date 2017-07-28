@@ -728,7 +728,7 @@
         <mark key="^" line="155" column="15" />
         <mark key="." line="155" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501231524650">
+      <file name="/Dummy.txt" timestamp="1501239458119">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="10" />
@@ -739,7 +739,7 @@
         <mark key="." line="33" column="20" />
         <mark key="^" line="33" column="20" />
       </file>
-      <file name="/code.py" timestamp="1501231501298">
+      <file name="/code.py" timestamp="1501239446018">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/skelet3d/install.sh" timestamp="1465570047644">
@@ -1119,15 +1119,15 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/tgmain.py" timestamp="1501238456343">
-        <mark key="a" line="491" column="49" />
+      <file name="$USER_HOME$/projects/teigen/teigen/tgmain.py" timestamp="1501238892338">
+        <mark key="a" line="490" column="27" />
         <mark key="b" line="187" column="9" />
         <mark key="c" line="107" column="0" />
-        <mark key="'" line="120" column="0" />
-        <mark key="[" line="492" column="92" />
-        <mark key="]" line="493" column="24" />
-        <mark key="^" line="493" column="24" />
-        <mark key="." line="493" column="24" />
+        <mark key="'" line="37" column="0" />
+        <mark key="[" line="490" column="36" />
+        <mark key="]" line="490" column="39" />
+        <mark key="." line="490" column="39" />
+        <mark key="^" line="490" column="39" />
       </file>
       <file name="$USER_HOME$/projects/psongbook/meta.yml" timestamp="1463464886020">
         <mark key="[" line="61" column="34" />
@@ -1135,7 +1135,7 @@
         <mark key="." line="61" column="37" />
         <mark key="^" line="61" column="37" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/meta.yaml" timestamp="1501112887543">
+      <file name="$USER_HOME$/projects/teigen/meta.yaml" timestamp="1501238608927">
         <mark key="[" line="60" column="20" />
         <mark key="]" line="60" column="22" />
         <mark key="^" line="64" column="21" />
@@ -1763,8 +1763,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="100" column="16" filename="$USER_HOME$/projects/teigen/teigen/tb_volume.py" />
-      <jump line="281" column="42" filename="$USER_HOME$/projects/teigen/teigen/tb_vtk.py" />
       <jump line="645" column="0" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
       <jump line="564" column="4" filename="$USER_HOME$/projects/teigen/teigen/tb_vtk.py" />
       <jump line="181" column="6" filename="$USER_HOME$/projects/teigen/teigen/tb_vtk.py" />
@@ -1863,6 +1861,8 @@
       <jump line="505" column="10" filename="$USER_HOME$/projects/teigen/teigen/generators/unconnected_cylinders.py" />
       <jump line="21" column="0" filename="$USER_HOME$/projects/teigen/teigen/generators/unconnected_cylinders.py" />
       <jump line="19" column="8" filename="$USER_HOME$/projects/teigen/teigen/generators/unconnected_cylinders.py" />
+      <jump line="490" column="27" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
+      <jump line="37" column="0" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5942,8 +5942,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IGdlbmVyYWwK</text>
+      <register name="&quot;" type="4">
+        <text>t</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -5965,58 +5965,57 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>import ge</text>
+        <text>run fi</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB0Zy5zdGVwMSgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IGdlbmVyYWwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5nZXQK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAibWluIG1heCAiLCBucC5taW4obm9pc2UpLCBucC5tYXgobm9pc2UpCiAgICAgICAgcHJpbnQgIm1lYW4gc3RkICIsIG5wLm1lYW4obm9pc2UpLCBucC5zdGQobm9pc2UpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJlZV9kYXRhID0gaW10b29scy5kaWxpLm5kYXJyYXlfdG9fZGljdF9pbl9zdHJ1Y3R1cmUoc2VsZi5nZW4udHJlZV9kYXRhKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjLnN0ZChub2lzZSkgbm9pc2UKICAgICAgICBwcmludCAibm9pc2Vfc3RkICIsIHR5cGUocHBhcmFtc1sibm9pc2Vfc3RkIl0pLCBwcGFyYW1zWyJub2lzZV9zdGQiXQoKICAgICAgICBwcmludCAibWluIG1heCAiLCBucC5taW4obm9pc2UpLCBucC5tYXgobm9pc2UpCiAgICAgICAgcHJpbnQgIm1lYW4gc3RkICIsIG5wLm1lYW4obm9pc2UpLCBucC5zdGQobm9pc2UpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IGdlbmVyYWwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAibWluIG1heCAiLCBucC5taW4obm9pc2UpLCBucC5tYXgobm9pc2UpCiAgICAgICAgcHJpbnQgIm1lYW4gc3RkICIsIG5wLm1lYW4obm9pc2UpLCBucC5zdGQobm9pc2UpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBub2lzZV9wYXJhbXMKICAgICAgICBwcmludCB0eXBlKHBwYXJhbXNbIm5vaXNlX3N0ZCJdKQogICAgICAgIHByaW50IHR5cGUocHBhcmFtc1sibm9pc2VfbWVhbiJdKQogICAgICAgIHByaW50IHR5cGUobm9pc2UpCiAgICAgICAgcHJpbnQgcHBhcmFtc1sibm9pc2VfbWVhbiJdCg==</text>
+        <text encoding="base64">ICAgICAgICAjLnN0ZChub2lzZSkgbm9pc2UKICAgICAgICBwcmludCAibm9pc2Vfc3RkICIsIHR5cGUocHBhcmFtc1sibm9pc2Vfc3RkIl0pLCBwcGFyYW1zWyJub2lzZV9zdGQiXQoKICAgICAgICBwcmludCAibWluIG1heCAiLCBucC5taW4obm9pc2UpLCBucC5tYXgobm9pc2UpCiAgICAgICAgcHJpbnQgIm1lYW4gc3RkICIsIG5wLm1lYW4obm9pc2UpLCBucC5zdGQobm9pc2UpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjICAgICAgICAgcHJpbnQgJ3YgaWQgJywgdmVydGV4X2lkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBkaXN0CiAgICAgICAgcHJpbnQgYW5nbGUK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCBub2lzZV9wYXJhbXMKICAgICAgICBwcmludCB0eXBlKHBwYXJhbXNbIm5vaXNlX3N0ZCJdKQogICAgICAgIHByaW50IHR5cGUocHBhcmFtc1sibm9pc2VfbWVhbiJdKQogICAgICAgIHByaW50IHR5cGUobm9pc2UpCiAgICAgICAgcHJpbnQgcHBhcmFtc1sibm9pc2VfbWVhbiJdCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50IG91dAo=</text>
+        <text encoding="base64">ICAgICAgICAjICAgICAgICAgcHJpbnQgJ3YgaWQgJywgdmVydGV4X2lkCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBuZXdfdmFsCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCBkaXN0CiAgICAgICAgcHJpbnQgYW5nbGUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>import ge</last-search>
+      <last-search>run fi</last-search>
       <last-offset />
-      <last-pattern>import ge</last-pattern>
+      <last-pattern>run fi</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfX2RyYXdTZWdtZW50ZWRTbGljZVw+</entry>
         <entry>SegmentedSlice</entry>
         <entry>pdb</entry>
         <entry>short</entry>
@@ -6036,6 +6035,7 @@
         <entry>skelet</entry>
         <entry>tree</entry>
         <entry>import ge</entry>
+        <entry>run fi</entry>
       </history-search>
       <history-cmd>
         <entry>237</entry>
