@@ -1129,15 +1129,15 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/tgmain.py" timestamp="1502450318504">
+      <file name="$USER_HOME$/projects/teigen/teigen/tgmain.py" timestamp="1502450571430">
         <mark key="a" line="742" column="16" />
         <mark key="b" line="254" column="37" />
         <mark key="c" line="107" column="0" />
         <mark key="'" line="210" column="13" />
-        <mark key="[" line="672" column="12" />
-        <mark key="]" line="672" column="15" />
-        <mark key="." line="672" column="15" />
-        <mark key="^" line="672" column="15" />
+        <mark key="[" line="672" column="27" />
+        <mark key="]" line="672" column="31" />
+        <mark key="." line="672" column="31" />
+        <mark key="^" line="672" column="31" />
       </file>
       <file name="$USER_HOME$/projects/psongbook/meta.yml" timestamp="1463464886020">
         <mark key="[" line="61" column="34" />
@@ -5969,8 +5969,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0Zy5zdGVwMSgpCg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -5992,7 +5992,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>path</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2FkX3R1YmVfc2tlbGV0b25cPg==</text>
