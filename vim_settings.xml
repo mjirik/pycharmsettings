@@ -1547,9 +1547,9 @@
         <mark key="^" line="1068" column="56" />
         <mark key="." line="1068" column="56" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/generators/unconnected_cylinders.py" timestamp="1502455753000">
+      <file name="$USER_HOME$/projects/teigen/teigen/generators/unconnected_cylinders.py" timestamp="1502534961941">
         <mark key="a" line="381" column="35" />
-        <mark key="'" line="189" column="25" />
+        <mark key="'" line="92" column="28" />
         <mark key="[" line="231" column="41" />
         <mark key="]" line="231" column="41" />
         <mark key="." line="231" column="41" />
@@ -1790,7 +1790,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="933" column="31" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
       <jump line="935" column="19" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
       <jump line="102" column="46" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
       <jump line="124" column="32" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
@@ -1890,6 +1889,7 @@
       <jump line="220" column="4" filename="$USER_HOME$/projects/teigen/tests/teigen_test.py" />
       <jump line="704" column="24" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
       <jump line="364" column="12" filename="$USER_HOME$/projects/teigen/teigen/tree.py" />
+      <jump line="92" column="28" filename="$USER_HOME$/projects/teigen/teigen/generators/unconnected_cylinders.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5995,7 +5995,7 @@
         <text>a</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsb2FkX3R1YmVfc2tlbGV0b25cPg==</text>
+        <text>area</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYXJlYXNpemVfcHg9c2VsZi5jb25maWdbImFyZWFzYW1wbGluZyJdWyJhcmVhc2l6ZV9weCJdCg==</text>
@@ -6035,15 +6035,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsb2FkX3R1YmVfc2tlbGV0b25cPg==</last-search>
+      <last-search>area</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsb2FkX3R1YmVfc2tlbGV0b25cPg==</last-pattern>
+      <last-pattern>area</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsZW5ndHNoXD4=</entry>
         <entry encoding="base64">XDxsZW5ndGhzXD4=</entry>
         <entry>volume</entry>
         <entry encoding="base64">XDxmaWxlbmFtZVw+</entry>
@@ -6063,6 +6062,7 @@
         <entry>rawdata</entry>
         <entry encoding="base64">XDxmaXhfdHJlZV9zdHJ1Y3R1cmVcPg==</entry>
         <entry encoding="base64">XDxsb2FkX3R1YmVfc2tlbGV0b25cPg==</entry>
+        <entry>area</entry>
       </history-search>
       <history-cmd>
         <entry>249</entry>
