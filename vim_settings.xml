@@ -111,12 +111,12 @@
         <mark key="." line="239" column="82" />
         <mark key="^" line="311" column="98" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/tests/teigen_test.py" timestamp="1502581087497">
+      <file name="$USER_HOME$/projects/teigen/tests/teigen_test.py" timestamp="1502652597898">
         <mark key="'" line="220" column="4" />
-        <mark key="[" line="157" column="38" />
-        <mark key="]" line="189" column="35" />
-        <mark key="." line="189" column="35" />
-        <mark key="^" line="189" column="35" />
+        <mark key="[" line="216" column="44" />
+        <mark key="]" line="216" column="44" />
+        <mark key="." line="216" column="44" />
+        <mark key="^" line="216" column="41" />
       </file>
       <file name="$USER_HOME$/projects/lisa/requirements_conda.txt" timestamp="1493662808623">
         <mark key="[" line="42" column="12" />
@@ -530,7 +530,8 @@
         <mark key="^" line="409" column="21" />
         <mark key="." line="409" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/tree.py" timestamp="1502552238654">
+      <file name="$USER_HOME$/projects/teigen/teigen/tree.py" timestamp="1502650497547">
+        <mark key="'" line="167" column="39" />
         <mark key="[" line="386" column="37" />
         <mark key="]" line="386" column="37" />
         <mark key="." line="386" column="37" />
@@ -748,7 +749,7 @@
         <mark key="^" line="80" column="12" />
         <mark key="." line="80" column="12" />
       </file>
-      <file name="/a.regexp" timestamp="1502581005936">
+      <file name="/a.regexp" timestamp="1502650887248">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/imtools/imtools/gt_lar_kunes.py" timestamp="1465564009738">
@@ -1127,14 +1128,14 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/tgmain.py" timestamp="1502581881420">
-        <mark key="a" line="756" column="16" />
+      <file name="$USER_HOME$/projects/teigen/teigen/tgmain.py" timestamp="1502652182561">
+        <mark key="a" line="762" column="16" />
         <mark key="c" line="107" column="0" />
         <mark key="'" line="145" column="13" />
-        <mark key="[" line="286" column="22" />
-        <mark key="]" line="271" column="57" />
-        <mark key="." line="271" column="57" />
-        <mark key="^" line="271" column="57" />
+        <mark key="[" line="247" column="49" />
+        <mark key="]" line="249" column="31" />
+        <mark key="." line="249" column="31" />
+        <mark key="^" line="249" column="31" />
       </file>
       <file name="$USER_HOME$/projects/psongbook/meta.yml" timestamp="1463464886020">
         <mark key="[" line="61" column="34" />
@@ -1787,15 +1788,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="107" column="0" filename="$USER_HOME$/projects/teigen/teigen/generators/unconnected_cylinders.py" />
-      <jump line="505" column="10" filename="$USER_HOME$/projects/teigen/teigen/generators/unconnected_cylinders.py" />
-      <jump line="21" column="0" filename="$USER_HOME$/projects/teigen/teigen/generators/unconnected_cylinders.py" />
-      <jump line="19" column="8" filename="$USER_HOME$/projects/teigen/teigen/generators/unconnected_cylinders.py" />
-      <jump line="490" column="27" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
-      <jump line="37" column="0" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
-      <jump line="296" column="35" filename="$USER_HOME$/projects/teigen/teigen/generators/unconnected_cylinders.py" />
-      <jump line="234" column="12" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
-      <jump line="236" column="31" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="637" column="29" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
       <jump line="701" column="26" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
       <jump line="541" column="34" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
@@ -1887,6 +1879,15 @@
       <jump line="146" column="13" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
       <jump line="145" column="13" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
       <jump line="104" column="8" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
+      <jump line="357" column="0" filename="$USER_HOME$/projects/teigen/teigen/tree.py" />
+      <jump line="35" column="54" filename="$USER_HOME$/projects/teigen/teigen/tree.py" />
+      <jump line="117" column="8" filename="$USER_HOME$/projects/teigen/teigen/tree.py" />
+      <jump line="118" column="8" filename="$USER_HOME$/projects/teigen/teigen/tree.py" />
+      <jump line="146" column="29" filename="$USER_HOME$/projects/teigen/teigen/tree.py" />
+      <jump line="147" column="48" filename="$USER_HOME$/projects/teigen/teigen/tree.py" />
+      <jump line="148" column="24" filename="$USER_HOME$/projects/teigen/teigen/tree.py" />
+      <jump line="154" column="56" filename="$USER_HOME$/projects/teigen/teigen/tree.py" />
+      <jump line="167" column="39" filename="$USER_HOME$/projects/teigen/teigen/tree.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5967,7 +5968,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>general</text>
+        <text>r</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -5989,13 +5990,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>general</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
-        <text>area</text>
+        <text>Check</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmICJnZW5lcmFsIiBpbiByYXdkYXRhLmtleXMoKToKICAgICAgICBnZW5lcmFsID0gcmF3ZGF0YVsiZ2VuZXJhbCJdCiAgICAgICAgYXJlYSA9IGZpbmRfaW5fZ2VuZXJhbF9rZXkoZ2VuZXJhbCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3Auam9pbihwYXRoX3RvX3NjcmlwdCwgInZ0X2Jpb2R1ci55YW1sIiApKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGFyZWEgPSB7fQo=</text>
@@ -6032,19 +6033,17 @@
       </register>
     </registers>
     <search>
-      <last-search>area</last-search>
+      <last-search>Check</last-search>
       <last-offset />
-      <last-pattern>area</last-pattern>
+      <last-pattern>Check</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsZW5ndGhzXD4=</entry>
         <entry>volume</entry>
         <entry encoding="base64">XDxmaWxlbmFtZVw+</entry>
         <entry>background_in</entry>
-        <entry>progress</entry>
         <entry>Tree</entry>
         <entry encoding="base64">XDxmaW5pc2hfcHJvZ3Jlc3NfY2FsbGJhY2tcPg==</entry>
         <entry encoding="base64">XDxUcmVlQnVpbGRlclw+</entry>
@@ -6060,6 +6059,8 @@
         <entry encoding="base64">XDxmaXhfdHJlZV9zdHJ1Y3R1cmVcPg==</entry>
         <entry encoding="base64">XDxsb2FkX3R1YmVfc2tlbGV0b25cPg==</entry>
         <entry>area</entry>
+        <entry>progress</entry>
+        <entry>Check</entry>
       </history-search>
       <history-cmd>
         <entry>249</entry>
@@ -6070,7 +6071,6 @@
         <entry>12267</entry>
         <entry>1226</entry>
         <entry>42</entry>
-        <entry>q</entry>
         <entry>517</entry>
         <entry>550</entry>
         <entry>s</entry>
@@ -6081,6 +6081,7 @@
         <entry>402</entry>
         <entry>728</entry>
         <entry>e</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
