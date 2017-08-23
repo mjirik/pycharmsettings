@@ -392,6 +392,11 @@
         <mark key="^" line="14" column="33" />
         <mark key="." line="14" column="33" />
       </file>
+      <file name="$USER_HOME$/projects/cellid/polls/templates/polls/results.html" timestamp="1503494900069">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/ndnoise/requirements_conda.txt" timestamp="1482349058235">
         <mark key="[" line="1" column="10" />
         <mark key="]" line="2" column="4" />
@@ -921,6 +926,11 @@
         <mark key="^" line="4" column="1" />
         <mark key="." line="4" column="1" />
       </file>
+      <file name="$USER_HOME$/projects/cellid/polls/urls.py" timestamp="1503495529703">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/lisa/lisa/exceptionProcessing.py" timestamp="1476706371058">
         <mark key="[" line="28" column="4" />
         <mark key="]" line="28" column="28" />
@@ -969,11 +979,11 @@
         <mark key="^" line="168" column="119" />
         <mark key="." line="168" column="119" />
       </file>
-      <file name="$USER_HOME$/projects/cellid/polls/views.py" timestamp="1503486777898">
-        <mark key="[" line="0" column="35" />
-        <mark key="]" line="14" column="57" />
-        <mark key="." line="14" column="57" />
-        <mark key="^" line="14" column="57" />
+      <file name="$USER_HOME$/projects/cellid/polls/views.py" timestamp="1503495631199">
+        <mark key="[" line="59" column="82" />
+        <mark key="]" line="8" column="35" />
+        <mark key="." line="8" column="35" />
+        <mark key="^" line="8" column="35" />
       </file>
       <file name="$USER_HOME$/projects/skelet3d/skelet3d/tb_vtk.py" timestamp="1476172983893">
         <mark key="[" line="133" column="39" />
@@ -5350,7 +5360,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBIdHRwUmVzcG9uc2UoIllvdSdyZSBsb29raW5nIGF0IHF1ZXN0aW9uICVzLiIgJSBxdWVzdGlvbl9pZCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -5381,34 +5391,34 @@
         <text encoding="base64">ICAgICAgICBzZWxmLnZveGVsc2l6ZV9tbSA9IHNlbGYuY29uZmlnWyJhcmVhc2FtcGxpbmciXVsidm94ZWxzaXplX21tIl0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBIdHRwUmVzcG9uc2UoIllvdSdyZSBsb29raW5nIGF0IHF1ZXN0aW9uICVzLiIgJSBxdWVzdGlvbl9pZCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PGgxPnt7IHF1ZXN0aW9uLnF1ZXN0aW9uX3RleHQgfX08L2gxPgo8dWw+CnslIGZvciBjaG9pY2UgaW4gcXVlc3Rpb24uY2hvaWNlX3NldC5hbGwgJX0KICAgIDxsaT57eyBjaG9pY2UuY2hvaWNlX3RleHQgfX08L2xpPgp7JSBlbmRmb3IgJX0KPC91bD4KCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8bGk+PGEgaHJlZj0iL3BvbGxzL3t7IHF1ZXN0aW9uLmlkIH19LyI+e3sgcXVlc3Rpb24ucXVlc3Rpb25fdGV4dCB9fTwvYT48L2xpPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8dGl0bGU+VGl0bGU8L3RpdGxlPgo8L2hlYWQ+Cjxib2R5PgoKPC9ib2R5Pgo8L2h0bWw+Cg==</text>
+        <text encoding="base64">ICAgIHVybChyJ14oP1A8cXVlc3Rpb25faWQ+WzAtOV0rKS8kJywgdmlld3MuZGV0YWlsLCBuYW1lPSdkZXRhaWwnKSwKICAgICMgZXg6IC9wb2xscy81L3Jlc3VsdHMvCiAgICB1cmwocideKD9QPHF1ZXN0aW9uX2lkPlswLTldKykvcmVzdWx0cy8kJywgdmlld3MucmVzdWx0cywgbmFtZT0ncmVzdWx0cycpLAogICAgIyBleDogL3BvbGxzLzUvdm90ZS8KICAgIHVybChyJ14oP1A8cXVlc3Rpb25faWQ+WzAtOV0rKS92b3RlLyQnLCB2aWV3cy52b3RlLCBuYW1lPSd2b3RlJyksCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxhdGVzdF9xdWVzdGlvbl9saXN0ID0gUXVlc3Rpb24ub2JqZWN0cy5vcmRlcl9ieSgnLXB1Yl9kYXRlJylbOjVdCiAgICB0ZW1wbGF0ZSA9IGxvYWRlci5nZXRfdGVtcGxhdGUoJ3BvbGxzL2luZGV4Lmh0bWwnKQogICAgY29udGV4dCA9IHsKICAgICAgICAnbGF0ZXN0X3F1ZXN0aW9uX2xpc3QnOiBsYXRlc3RfcXVlc3Rpb25fbGlzdCwKICAgIH0KICAgIHJldHVybiBIdHRwUmVzcG9uc2UodGVtcGxhdGUucmVuZGVyKGNvbnRleHQsIHJlcXVlc3QpKQo=</text>
+        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8dGl0bGU+VGl0bGU8L3RpdGxlPgo8L2hlYWQ+Cjxib2R5PgoKPC9ib2R5Pgo8L2h0bWw+Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVmIGluZGV4KHJlcXVlc3QpOgogICAgbGF0ZXN0X3F1ZXN0aW9uX2xpc3QgPSBRdWVzdGlvbi5vYmplY3RzLm9yZGVyX2J5KCctcHViX2RhdGUnKVs6NV0KICAgIG91dHB1dCA9ICcsICcuam9pbihbcS5xdWVzdGlvbl90ZXh0IGZvciBxIGluIGxhdGVzdF9xdWVzdGlvbl9saXN0XSkKICAgIHJldHVybiBIdHRwUmVzcG9uc2Uob3V0cHV0KQo=</text>
+        <text encoding="base64">ICAgIHJlc3BvbnNlID0gIllvdSdyZSBsb29raW5nIGF0IHRoZSByZXN1bHRzIG9mIHF1ZXN0aW9uICVzLiIKICAgIHJldHVybiBIdHRwUmVzcG9uc2UocmVzcG9uc2UgJSBxdWVzdGlvbl9pZCkK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+a2sKICAgIDx0aXRsZT5UaXRsZTwvdGl0bGU+CjwvaGVhZD4KPGJvZHk+Cgo8L2JvZHk+CjwvaHRtbD4K</text>
+        <text encoding="base64">ZGVmIHZvdGUocmVxdWVzdCwgcXVlc3Rpb25faWQpOgoKICAgIHJldHVybiBIdHRwUmVzcG9uc2UoIllvdSdyZSB2b3Rpbmcgb24gcXVlc3Rpb24gJXMuIiAlIHF1ZXN0aW9uX2lkKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBIdHRwUmVzcG9uc2UoIllvdSdyZSBsb29raW5nIGF0IHF1ZXN0aW9uICVzLiIgJSBxdWVzdGlvbl9pZCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -5463,8 +5473,8 @@
         <entry>227</entry>
         <entry>450</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
