@@ -181,6 +181,12 @@
         <mark key="^" line="2" column="45" />
         <mark key="." line="2" column="45" />
       </file>
+      <file name="$USER_HOME$/projects/djangopokus/djangopokus/urls.py" timestamp="1503578809260">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="15" column="40" />
+        <mark key="." line="18" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/skelet3d/.travis.yml" timestamp="1465569688914">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="85" />
@@ -907,6 +913,12 @@
         <mark key="]" line="47" column="3" />
         <mark key="^" line="20" column="27" />
         <mark key="." line="20" column="27" />
+      </file>
+      <file name="$USER_HOME$/projects/djangopokus/djangopokus/settings.py" timestamp="1503578488194">
+        <mark key="[" line="33" column="4" />
+        <mark key="]" line="33" column="4" />
+        <mark key="^" line="33" column="4" />
+        <mark key="." line="33" column="4" />
       </file>
       <file name="$USER_HOME$/projects/teigen/tests/gui_test.py" timestamp="1484526228955">
         <mark key="[" line="81" column="29" />
@@ -5919,11 +5931,11 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>segmentation</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSBkamFuZ28uc2hvcnRjdXRzIGltcG9ydCBpbmNsdWRlCg==</text>
       </register>
       <register name="-" type="4">
-        <text>segmentation</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDT05UT1VSU19DT0xPUlNcPg==</text>
@@ -5932,31 +5944,31 @@
         <text encoding="base64">U0VFRFNfQ09MT1JUQUJMRSA9IG5wLmFycmF5KFtbCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICgxNSArIGlpICogNDEpICUgMjU2LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAoNDcgKyBpaSAqIDExNykgJSAyNTYsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICgxMSArIGlpICogLTMxKSAlIDI1NiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMjIwXSBmb3IgaWkgaW4gcmFuZ2UoMjU2KV0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgIGR0eXBlPW5wLnVpbnQ4KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgZGF0YV9tYW5pcHVsYXRpb24K</text>
+        <text encoding="base64">ZnJvbSBkamFuZ28uc2hvcnRjdXRzIGltcG9ydCBpbmNsdWRlCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgaW1wb3J0IGxvZ2dpbmcuaGFuZGxlcnMK</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgZGF0YV9tYW5pcHVsYXRpb24K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcKCmxvZ2dlciA9IGxvZ2dpbmcuZ2V0TG9nZ2VyKCkK</text>
+        <text encoding="base64">ICAgICMgaW1wb3J0IGxvZ2dpbmcuaGFuZGxlcnMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoKQo=</text>
+        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcKCmxvZ2dlciA9IGxvZ2dpbmcuZ2V0TG9nZ2VyKCkK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">bG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bG9nZ2luZy5oYW4K</text>
+        <text encoding="base64">bG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bG9nZ2luZy5oYW4K</text>
       </register>
-      <register name="8" type="4">
-        <text>]</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="4">
         <text>]</text>
