@@ -215,11 +215,11 @@
         <mark key="." line="17" column="1" />
         <mark key="^" line="17" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/cellid/cellid/urls.py" timestamp="1503655229363">
-        <mark key="[" line="15" column="32" />
-        <mark key="]" line="18" column="14" />
-        <mark key="^" line="18" column="14" />
-        <mark key="." line="18" column="14" />
+      <file name="$USER_HOME$/projects/cellid/cellid/urls.py" timestamp="1503657882685">
+        <mark key="[" line="21" column="29" />
+        <mark key="]" line="21" column="33" />
+        <mark key="^" line="21" column="33" />
+        <mark key="." line="21" column="33" />
       </file>
       <file name="$USER_HOME$/projects/psongbook/sobo/__main__.py" timestamp="1463474715402">
         <mark key="[" line="78" column="8" />
@@ -869,6 +869,9 @@
         <mark key="^" line="27" column="28" />
         <mark key="." line="27" column="28" />
       </file>
+      <file name="$USER_HOME$/projects/cellid/hokus/urls.py" timestamp="1503658159375">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/imtools/imtools/gen_vtk_tree.py" timestamp="1493646644623">
         <mark key="[" line="240" column="61" />
         <mark key="]" line="241" column="7" />
@@ -1053,6 +1056,9 @@
         <mark key="]" line="1" column="15" />
         <mark key="." line="1" column="15" />
         <mark key="^" line="1" column="15" />
+      </file>
+      <file name="$USER_HOME$/projects/cellid/hokus/views.py" timestamp="1503658416327">
+        <mark key="[" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/projects/io3d/setup.py" timestamp="1446723377861">
         <mark key="[" line="56" column="0" />
@@ -5353,8 +5359,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>r</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -5376,13 +5382,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>generate_volume</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnZveGVsc2l6ZV9tbSA9IHNlbGYuY29uZmlnWyJhcmVhc2FtcGxpbmciXVsidm94ZWxzaXplX21tIl0K</text>
+        <text encoding="base64">ICAgIHVybChyJ15maWxlci8nLCBpbmNsdWRlKCdmaWxlci51cmxzJykpLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
