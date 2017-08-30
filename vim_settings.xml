@@ -905,11 +905,11 @@
         <mark key="^" line="83" column="67" />
         <mark key="." line="83" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/tb_vtk.py" timestamp="1504125842541">
-        <mark key="[" line="57" column="50" />
-        <mark key="]" line="58" column="50" />
-        <mark key="^" line="58" column="50" />
-        <mark key="." line="58" column="50" />
+      <file name="$USER_HOME$/projects/teigen/teigen/tb_vtk.py" timestamp="1504127719726">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="^" line="212" column="10" />
+        <mark key="." line="60" column="0" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/data_manipulation.py" timestamp="1484753092885">
         <mark key="[" line="152" column="27" />
@@ -1748,12 +1748,12 @@
         <mark key="." line="53" column="41" />
         <mark key="^" line="53" column="41" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/tgmain.py" timestamp="1504117406476">
+      <file name="$USER_HOME$/projects/teigen/teigen/tgmain.py" timestamp="1504126625582">
         <mark key="'" line="43" column="19" />
-        <mark key="[" line="157" column="13" />
-        <mark key="]" line="157" column="20" />
-        <mark key="." line="157" column="20" />
-        <mark key="^" line="157" column="20" />
+        <mark key="[" line="325" column="64" />
+        <mark key="]" line="325" column="64" />
+        <mark key="." line="325" column="64" />
+        <mark key="^" line="325" column="64" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/covert.py" timestamp="1448825543836">
         <mark key="[" line="94" column="57" />
@@ -6100,7 +6100,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyB0aGlzIHRlZCB0byBiZSB1bnN0YWJsZQogICAgICAgICAgICAjIHNlbGYuX3dnX3Nob3dfM2QuYWRkX3Z0a19wb2x5ZGF0YShzZWxmLnRlaWdlbi5wb2x5ZGF0YV92b2x1bWUpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnR1YmVfc2hhcGUgPSBGYWxzZQo=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -6122,31 +6122,31 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>op.expanduser(self.teigen.temp_vtk_file)</text>
+        <text>boolean_operation2</text>
       </register>
       <register name="/" type="4">
         <text>tube_sha</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKCJyZWFkIHBvbHlkYXRhIikK</text>
+        <text encoding="base64">ICAgIHR1YmUgPSBtb3ZlX3RvX3Bvc2l0aW9uKGJvb2xlYW5fb3BlcmF0aW9uMiwgcG9pbnQsIGRpcmVjdGlvbiwgMiwgMSwgMCkKICAgIHJldHVybiB0dWJlLkdldE91dHB1dCgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyB0aGlzIHRlZCB0byBiZSB1bnN0YWJsZQogICAgICAgICAgICAjIHNlbGYuX3dnX3Nob3dfM2QuYWRkX3Z0a19wb2x5ZGF0YShzZWxmLnRlaWdlbi5wb2x5ZGF0YV92b2x1bWUpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnR1YmVfc2hhcGUgPSBGYWxzZQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fd2dfc2hvd18zZC5hZGRfdnRrX2ZpbGUob3AuZXhwYW5kdXNlcihzZWxmLnRlaWdlbi50ZW1wX3Z0a19maWxlKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyB0aGlzIHRlZCB0byBiZSB1bnN0YWJsZQogICAgICAgICAgICAjIHNlbGYuX3dnX3Nob3dfM2QuYWRkX3Z0a19wb2x5ZGF0YShzZWxmLnRlaWdlbi5wb2x5ZGF0YV92b2x1bWUpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKCJyZWFkIHBvbHlkYXRhIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fd2dfc2hvd18zZC5hZGRfdnRrX2ZpbGUob3AuZXhwYW5kdXNlcihzZWxmLnRlaWdlbi50ZW1wX3Z0a19maWxlKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKCJzZWdtZW50YXRpb24gd2lkZ2V0IGxvYWRlZCIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKCJyZWFkIHBvbHlkYXRhIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKCJzZWdtZW50YXRpb24gd2lkZ2V0IGxvYWRlZCIpCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -6155,7 +6155,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNlZ21lbnRhdGlvbiA9IE5vbmUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLnNlZ21lbnRhdGlvbiA9IE5vbmUK</text>
