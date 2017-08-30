@@ -602,9 +602,9 @@
         <mark key="^" line="14" column="33" />
         <mark key="." line="14" column="33" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1504124977504">
+      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1504125721757">
         <mark key="a" line="630" column="26" />
-        <mark key="'" line="631" column="44" />
+        <mark key="'" line="401" column="104" />
         <mark key="[" line="222" column="76" />
         <mark key="]" line="223" column="37" />
         <mark key="." line="223" column="37" />
@@ -905,11 +905,11 @@
         <mark key="^" line="83" column="67" />
         <mark key="." line="83" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/tb_vtk.py" timestamp="1504115613591">
-        <mark key="[" line="31" column="33" />
-        <mark key="]" line="31" column="31" />
-        <mark key="^" line="31" column="31" />
-        <mark key="." line="31" column="31" />
+      <file name="$USER_HOME$/projects/teigen/teigen/tb_vtk.py" timestamp="1504125842541">
+        <mark key="[" line="57" column="50" />
+        <mark key="]" line="58" column="50" />
+        <mark key="^" line="58" column="50" />
+        <mark key="." line="58" column="50" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/data_manipulation.py" timestamp="1484753092885">
         <mark key="[" line="152" column="27" />
@@ -1920,7 +1920,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="337" column="37" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
       <jump line="581" column="19" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
       <jump line="592" column="16" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
       <jump line="813" column="16" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
@@ -1930,7 +1929,6 @@
       <jump line="39" column="15" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
       <jump line="82" column="13" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
       <jump line="83" column="12" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
-      <jump line="401" column="66" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="83" column="16" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="923" column="4" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
       <jump line="922" column="26" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
@@ -2020,6 +2018,8 @@
       <jump line="621" column="0" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="623" column="20" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="624" column="44" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
+      <jump line="223" column="37" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
+      <jump line="401" column="104" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -6125,7 +6125,7 @@
         <text>op.expanduser(self.teigen.temp_vtk_file)</text>
       </register>
       <register name="/" type="4">
-        <text>show_3d</text>
+        <text>tube_sha</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKCJyZWFkIHBvbHlkYXRhIikK</text>
@@ -6165,15 +6165,14 @@
       </register>
     </registers>
     <search>
-      <last-search>show_3d</last-search>
+      <last-search>tube_sha</last-search>
       <last-offset />
-      <last-pattern>show_3d</last-pattern>
+      <last-pattern>tube_sha</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>ssigma</entry>
         <entry>imgFiltering</entry>
         <entry>floor</entry>
         <entry>round</entry>
@@ -6193,6 +6192,7 @@
         <entry>apper</entry>
         <entry>appe</entry>
         <entry>show_3d</entry>
+        <entry>tube_sha</entry>
       </history-search>
       <history-cmd>
         <entry>155</entry>
