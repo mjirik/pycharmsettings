@@ -437,11 +437,11 @@
         <mark key="^" line="27" column="65" />
         <mark key="." line="27" column="46" />
       </file>
-      <file name="$USER_HOME$/projects/cellid/cellid/settings.py" timestamp="1504187655234">
-        <mark key="[" line="35" column="4" />
-        <mark key="]" line="35" column="4" />
-        <mark key="^" line="33" column="3" />
-        <mark key="." line="35" column="4" />
+      <file name="$USER_HOME$/projects/cellid/cellid/settings.py" timestamp="1504190504299">
+        <mark key="[" line="37" column="16" />
+        <mark key="]" line="37" column="20" />
+        <mark key="^" line="37" column="20" />
+        <mark key="." line="37" column="20" />
       </file>
       <file name="$USER_HOME$/projects/skelet3d/skelet3d/skeletonizer.py" timestamp="1470569839758">
         <mark key="[" line="82" column="0" />
@@ -1286,8 +1286,11 @@
         <mark key="^" line="20" column="38" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/cellid/hokus/urls.py" timestamp="1503658159375">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/projects/cellid/hokus/urls.py" timestamp="1504190172892">
+        <mark key="[" line="4" column="12" />
+        <mark key="]" line="4" column="16" />
+        <mark key="." line="4" column="16" />
+        <mark key="^" line="4" column="16" />
       </file>
       <file name="$USER_HOME$/projects/Sachy/hardware.md" timestamp="1495793618925">
         <mark key="[" line="47" column="0" />
@@ -1357,9 +1360,9 @@
         <mark key="^" line="4" column="1" />
         <mark key="." line="4" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/cellid/polls/urls.py" timestamp="1503495529703">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
+      <file name="$USER_HOME$/projects/cellid/polls/urls.py" timestamp="1504190162018">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="18" />
         <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/experiments.py" timestamp="1465109582678">
@@ -1427,10 +1430,11 @@
         <mark key="^" line="43" column="15" />
         <mark key="." line="44" column="16" />
       </file>
-      <file name="$USER_HOME$/projects/cellid/hokus/templates/hokus/index.html" timestamp="1504188277583">
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="0" />
+      <file name="$USER_HOME$/projects/cellid/hokus/templates/hokus/index.html" timestamp="1504191268202">
+        <mark key="[" line="5" column="9" />
+        <mark key="]" line="5" column="7" />
+        <mark key="." line="5" column="7" />
+        <mark key="^" line="5" column="7" />
       </file>
       <file name="$USER_HOME$/projects/sed3/requirements_conda.txt" timestamp="1454930331485">
         <mark key="[" line="3" column="0" />
@@ -1583,11 +1587,11 @@
         <mark key="." line="28" column="49" />
         <mark key="^" line="28" column="49" />
       </file>
-      <file name="$USER_HOME$/projects/cellid/hokus/views.py" timestamp="1504188401461">
-        <mark key="[" line="7" column="28" />
-        <mark key="]" line="7" column="32" />
-        <mark key="^" line="7" column="32" />
-        <mark key="." line="7" column="32" />
+      <file name="$USER_HOME$/projects/cellid/hokus/views.py" timestamp="1504191286731">
+        <mark key="[" line="12" column="29" />
+        <mark key="]" line="12" column="23" />
+        <mark key="^" line="12" column="23" />
+        <mark key="." line="12" column="23" />
       </file>
       <file name="$USER_HOME$/projects/io3d/setup.py" timestamp="1446723377861">
         <mark key="[" line="56" column="0" />
@@ -5971,7 +5975,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>%</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -5993,43 +5997,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>%</text>
       </register>
       <register name="/" type="4">
         <text>tube_sha</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGVmIGluZGV4KHJlcXVlc3QpOgogICAgbGF0ZXN0X3F1ZXN0aW9uX2xpc3QgPSBRdWVzdGlvbi5vYmplY3RzLm9yZGVyX2J5KCctcHViX2RhdGUnKVs6NV0KICAgIGNvbnRleHQgPSB7J2xhdGVzdF9xdWVzdGlvbl9saXN0JzogbGF0ZXN0X3F1ZXN0aW9uX2xpc3R9CiAgICByZXR1cm4gcmVuZGVyKHJlcXVlc3QsICdwb2xscy9pbmRleC5odG1sJywgY29udGV4dCkK</text>
+        <text encoding="base64">ICAgICdwb2xscy5hcHBzLlBvbGxzQ29uZmlnJywK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">eyUgbG9hZCB0aHVtYm5haWwgJX0KeyUgdGh1bWJuYWlsIGNvbXBhbnkubG9nbyAyNTB4MjUwIGNyb3AgJX0K</text>
+        <text encoding="base64">ICAgIGh0bWxfcGFyc2VyID0gaHRtbC5wYXJzZXIuSFRNTFBhcnNlcigpCiAgICB1bmVzY2FwZWQgPSBodG1sX3BhcnNlci51bmVzY2FwZShmbikK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8dGl0bGU+VGl0bGU8L3RpdGxlPgo8L2hlYWQ+Cjxib2R5PgoKPC9ib2R5Pgo8L2h0bWw+Cg==</text>
+        <text encoding="base64">PC0tIHslIGxhdGVzdF9xdWVzdGlvbl9saXN0ICV9IC0tLT4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBkYXRhcCA9IGltdG9vbHMuc2FtcGxlX2RhdGEuZG9udXQoKQogICAgICAgICAgICAjCiAgICAgICAgICAgICMgc2VnbWVudGF0aW9uID0gZGF0YXBbJ3NlZ21lbnRhdGlvbiddCiAgICAgICAgICAgICMgdm94ZWxzaXplX21tID0gZGF0YXBbJ3ZveGVsc2l6ZV9tbSddCg==</text>
+        <text encoding="base64">eyUgbG9hZCB0aHVtYm5haWwgJX0KeyUgdGh1bWJuYWlsIGNvbXBhbnkubG9nbyAyNTB4MjUwIGNyb3AgJX0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG9wLmV4cGFuZHVzZXIoIn4vbGlzYV9kYXRhL3NhbXBsZV9kYXRhL2xpdmVyLXNlZzAwMS5taGQiKSwK</text>
+        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8dGl0bGU+VGl0bGU8L3RpdGxlPgo8L2hlYWQ+Cjxib2R5PgoKPC9ib2R5Pgo8L2h0bWw+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBkYXRhcCA9IGltdG9vbHMuc2FtcGxlX2RhdGEuZG9udXQoKQogICAgICAgICAgICAjCiAgICAgICAgICAgICMgc2VnbWVudGF0aW9uID0gZGF0YXBbJ3NlZ21lbnRhdGlvbiddCiAgICAgICAgICAgICMgdm94ZWxzaXplX21tID0gZGF0YXBbJ3ZveGVsc2l6ZV9tbSddCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGVtcF92dGtfZmlsZSA9IG9wLmV4cGFuZHVzZXIoc2VsZi50ZWlnZW4udGVtcF92dGtfZmlsZSkKICAgICAgICAgICAgc2VsZi50ZWlnZW4uc2F2ZV9zdXJmYWNlX3RvX2ZpbGUodGVtcF92dGtfZmlsZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG9wLmV4cGFuZHVzZXIoIn4vbGlzYV9kYXRhL3NhbXBsZV9kYXRhL2xpdmVyLXNlZzAwMS5taGQiKSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRlbXBfdnRrX2ZpbGUsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBUT0RPIHVzZSBhZ2Fpbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGVtcF92dGtfZmlsZSA9IG9wLmV4cGFuZHVzZXIoc2VsZi50ZWlnZW4udGVtcF92dGtfZmlsZSkKICAgICAgICAgICAgc2VsZi50ZWlnZW4uc2F2ZV9zdXJmYWNlX3RvX2ZpbGUodGVtcF92dGtfZmlsZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBUT0RPIHVzZSBhZ2Fpbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRlbXBfdnRrX2ZpbGUsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
