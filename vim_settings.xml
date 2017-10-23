@@ -888,7 +888,7 @@
         <mark key="^" line="265" column="75" />
         <mark key="." line="252" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508763811414">
+      <file name="/Dummy.txt" timestamp="1508764269957">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="10" />
@@ -1029,12 +1029,12 @@
         <mark key="^" line="153" column="4" />
         <mark key="." line="153" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/io3d/io3d/datasets.py" timestamp="1508763691756">
+      <file name="$USER_HOME$/projects/io3d/io3d/datasets.py" timestamp="1508764267247">
         <mark key="'" line="160" column="4" />
-        <mark key="[" line="153" column="4" />
-        <mark key="]" line="153" column="12" />
-        <mark key="." line="153" column="12" />
-        <mark key="^" line="153" column="12" />
+        <mark key="[" line="315" column="14" />
+        <mark key="]" line="315" column="22" />
+        <mark key="." line="315" column="22" />
+        <mark key="^" line="315" column="22" />
       </file>
       <file name="$USER_HOME$/projects/cellid/polls/admin.py" timestamp="1503484744011">
         <mark key="[" line="3" column="0" />
@@ -6158,8 +6158,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CmRlZiBHZXRIYXNob2ZEaXJzKGRpcmVjdG9yeSwgdmVyYm9zZT0wKToKICAgICIiIgoKICAgIDpwYXJhbSBkaXJlY3Rvcnk6CiAgICA6cGFyYW0gdmVyYm9zZToKICAgIEJhc2VkIG9uIGFuZHkncyBjb2RlCiAgICBodHRwczovL3N0YWNrb3ZlcmZsb3cuY29tL3VzZXJzLzE4OTEzNC9hbmR5CiAgICBodHRwczovL3N0YWNrb3ZlcmZsb3cuY29tL3F1ZXN0aW9ucy8yNDkzNzQ5NS9ob3ctY2FuLWktY2FsY3VsYXRlLWEtaGFzaC1mb3ItYS1maWxlc3lzdGVtLWRpcmVjdG9yeS11c2luZy1weXRob24KICAgIDpyZXR1cm46CiAgICAiIiIKICAgIGltcG9ydCBoYXNobGliLCBvcwogICAgU0hBaGFzaCA9IGhhc2hsaWIubWQ1KCkKICAgIGlmIG5vdCBvcy5wYXRoLmV4aXN0cyAoZGlyZWN0b3J5KToKICAgICAgICByZXR1cm4gLTEKCiAgICB0cnk6CiAgICAgICAgZm9yIHJvb3QsIGRpcnMsIGZpbGVzIGluIG9zLndhbGsoZGlyZWN0b3J5KToKICAgICAgICAgICAgZm9yIG5hbWVzIGluIGZpbGVzOgogICAgICAgICAgICAgICAgaWYgdmVyYm9zZSA9PSAxOgogICAgICAgICAgICAgICAgICAgIHByaW50ICdIYXNoaW5nJywgbmFtZXMKICAgICAgICAgICAgICAgIGZpbGVwYXRoID0gb3MucGF0aC5qb2luKHJvb3QsbmFtZXMpCiAgICAgICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICAgICAgZjEgPSBvcGVuKGZpbGVwYXRoLCAncmInKQogICAgICAgICAgICAgICAgZXhjZXB0OgogICAgICAgICAgICAgICAgICAgICMgWW91IGNhbid0IG9wZW4gdGhlIGZpbGUgZm9yIHNvbWUgcmVhc29uCiAgICAgICAgICAgICAgICAgICAgZjEuY2xvc2UoKQogICAgICAgICAgICAgICAgICAgIGNvbnRpbnVlCgogICAgICAgIHdoaWxlIDE6CiAgICAgICAgICAgICMgUmVhZCBmaWxlIGluIGFzIGxpdHRsZSBjaHVua3MKICAgICAgICAgICAgYnVmID0gZjEucmVhZCg0MDk2KQogICAgICAgICAgICBpZiBub3QgYnVmIDogYnJlYWsKICAgICAgICAgICAgU0hBaGFzaC51cGRhdGUoaGFzaGxpYi5tZDUoYnVmKS5oZXhkaWdlc3QoKSkKICAgICAgICAgICAgZjEuY2xvc2UoKQoKICAgIGV4Y2VwdDoKICAgICAgICBpbXBvcnQgdHJhY2ViYWNrCiAgICAgICAgIyBQcmludCB0aGUgc3RhY2sgdHJhY2ViYWNrCiAgICAgICAgdHJhY2ViYWNrLnByaW50X2V4YygpCiAgICAgICAgcmV0dXJuIC0yCgogICAgcmV0dXJuIFNIQWhhc2guaGV4ZGlnZXN0KCkK</text>
+      <register name="&quot;" type="4">
+        <text>GetHashofDirs</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -6181,7 +6181,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>GetHashofDirs</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGVja3N1bVw+</text>
