@@ -856,11 +856,11 @@
         <mark key="^" line="206" column="49" />
         <mark key="." line="206" column="49" />
       </file>
-      <file name="$USER_HOME$/projects/dicomwebview/dicom-webview.py" timestamp="1509448720924">
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="0" />
-        <mark key="^" line="52" column="7" />
-        <mark key="." line="65" column="0" />
+      <file name="$USER_HOME$/projects/dicomwebview/dicom-webview.py" timestamp="1509449399718">
+        <mark key="[" line="50" column="40" />
+        <mark key="]" line="50" column="40" />
+        <mark key="^" line="51" column="7" />
+        <mark key="." line="50" column="40" />
       </file>
       <file name="$USER_HOME$/projects/sed3/sed3/sed3.py" timestamp="1489071552681">
         <mark key="'" line="893" column="0" />
@@ -894,7 +894,7 @@
         <mark key="^" line="265" column="75" />
         <mark key="." line="252" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509444067332">
+      <file name="/Dummy.txt" timestamp="1509449416355">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="10" />
@@ -6130,8 +6130,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICNwbGFuZV9uID0gcGxhbmVfbi52YWx1ZQo=</text>
+      <register name="&quot;" type="4">
+        <text>r</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -6153,7 +6153,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aW5zdGFsbCA=</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGVja3N1bVw+</text>
@@ -6162,34 +6162,34 @@
         <text encoding="base64">ICAgIGlmIG5vdCBpc3N1YmNsYXNzKHR5cGUocGxhbmVfbiksIG5wLmludGVnZXIpOgogICAgICAgIHBsYW5lX24gPSBwbGFuZV9uLnZhbHVlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICNwbGFuZV9uID0gcGxhbmVfbi52YWx1ZQo=</text>
+        <text encoding="base64">ICAgIGltcG9ydCBudW1weSBhcyBucAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgaW1wb3J0IHBkYjsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICMgcGRiLnNldF90cmFjZSgpCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICNwbGFuZV9uID0gcGxhbmVfbi52YWx1ZQo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICMgaW1wb3J0IHBkYjsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICMgcGRiLnNldF90cmFjZSgpCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICNwbGFuZV9uID0gcGxhbmVfbi52YWx1ZQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25kYSBpbnN0YWxsIC1jIG1qaXJpayBweXBuZyBmbGFzayBpbzNkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25kYSBjcmVhdGUgLW4gZGljb213ZWJ2aWV3IHB5dGhvbj0zCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25kYSBpbnN0YWxsIC1jIG1qaXJpayBweXBuZyBmbGFzayBpbzNkCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25kYSBjcmVhdGUgLW4gZGljb213ZWJ2aWV3IHB5dGhvbj0zCiAgICAgICAgY29uZGEgaW5zdGFsbCAtYyBtamlyaWsgcHlwbmcgZmxhc2sgaW8zZAo=</text>
+        <text encoding="base64">ICAgICAgICBjb25kYSBjcmVhdGUgLW4gZGljb213ZWJ2aWV3IHB5dGhvbj0zCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
