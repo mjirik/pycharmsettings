@@ -47,11 +47,11 @@
         <mark key="^" line="27" column="115" />
         <mark key="." line="29" column="116" />
       </file>
-      <file name="$USER_HOME$/projects/io3d/tests/datasets_test.py" timestamp="1509555523877">
-        <mark key="[" line="47" column="40" />
-        <mark key="]" line="47" column="44" />
-        <mark key="." line="47" column="44" />
-        <mark key="^" line="47" column="44" />
+      <file name="$USER_HOME$/projects/io3d/tests/datasets_test.py" timestamp="1509556729124">
+        <mark key="[" line="46" column="11" />
+        <mark key="]" line="46" column="14" />
+        <mark key="." line="46" column="14" />
+        <mark key="^" line="46" column="14" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/lisa_server.py" timestamp="1445344066359">
         <mark key="[" line="31" column="20" />
@@ -892,7 +892,7 @@
         <mark key="^" line="265" column="75" />
         <mark key="." line="252" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509552319094">
+      <file name="/Dummy.txt" timestamp="1509556741565">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="10" />
@@ -6146,8 +6146,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>interactive</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -6169,13 +6169,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>interactive</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGVja3N1bVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZG93bmxvYWRlZF9oYXNoID0gY2hlY2tzdW0ob3MucGF0aC5qb2luKGRlc3RpbmF0aW9uX2RpciwgaGFzaF9wYXRoKSkK</text>
+        <text encoding="base64">ICAgICMgQGF0dHIoJ2ludGVyYWN0aXZlJykK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
