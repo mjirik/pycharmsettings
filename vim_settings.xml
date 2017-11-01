@@ -913,6 +913,14 @@
         <mark key="^" line="83" column="67" />
         <mark key="." line="83" column="35" />
       </file>
+      <file name="$USER_HOME$/projects/teigen/teigen/tb_vtk.py" timestamp="1504127719726">
+        <mark key="a" line="423" column="17" />
+        <mark key="'" line="66" column="8" />
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
+        <mark key="^" line="212" column="10" />
+      </file>
       <file name="$USER_HOME$/projects/lisa/lisa/data_manipulation.py" timestamp="1484753092885">
         <mark key="[" line="152" column="27" />
         <mark key="]" line="153" column="23" />
@@ -947,6 +955,14 @@
         <mark key="]" line="60" column="25" />
         <mark key="." line="60" column="25" />
         <mark key="^" line="60" column="25" />
+      </file>
+      <file name="$USER_HOME$/projects/ndnoise/ndnoise/generator.py" timestamp="1483613724468">
+        <mark key="a" line="122" column="17" />
+        <mark key="'" line="46" column="0" />
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="87" column="0" />
+        <mark key="." line="87" column="0" />
+        <mark key="^" line="75" column="45" />
       </file>
       <file name="$USER_HOME$/projects/io3d/io3d/__init__.py" timestamp="1509545834147">
         <mark key="[" line="0" column="60" />
@@ -1009,6 +1025,14 @@
         <mark key="]" line="12" column="58" />
         <mark key="^" line="153" column="4" />
         <mark key="." line="153" column="4" />
+      </file>
+      <file name="$USER_HOME$/projects/io3d/io3d/datasets.py" timestamp="1509550614140">
+        <mark key="a" line="76" column="24" />
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="82" column="36" />
+        <mark key="]" line="83" column="0" />
+        <mark key="^" line="83" column="0" />
+        <mark key="." line="83" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cellid/polls/admin.py" timestamp="1503484744011">
         <mark key="[" line="3" column="0" />
@@ -1108,6 +1132,14 @@
         <mark key="]" line="211" column="9" />
         <mark key="." line="24" column="0" />
         <mark key="^" line="96" column="24" />
+      </file>
+      <file name="$USER_HOME$/projects/teigen/teigen/generators/unconnected_cylinders.py" timestamp="1484609120242">
+        <mark key="a" line="381" column="35" />
+        <mark key="'" line="92" column="28" />
+        <mark key="[" line="191" column="46" />
+        <mark key="]" line="191" column="43" />
+        <mark key="^" line="191" column="43" />
+        <mark key="." line="191" column="43" />
       </file>
       <file name="$USER_HOME$/projects/teigen/teigen/__main__.py" timestamp="1494413999515">
         <mark key="[" line="3" column="0" />
@@ -1948,8 +1980,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="7" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
-      <jump line="34" column="7" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
       <jump line="39" column="15" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
       <jump line="82" column="13" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
       <jump line="83" column="12" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
@@ -2048,6 +2078,8 @@
       <jump line="22" column="10" filename="$USER_HOME$/projects/io3d/io3d/datasets.py" />
       <jump line="104" column="28" filename="$USER_HOME$/projects/io3d/io3d/datasets.py" />
       <jump line="160" column="4" filename="$USER_HOME$/projects/io3d/io3d/datasets.py" />
+      <jump line="76" column="24" filename="$USER_HOME$/projects/io3d/io3d/datasets.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/projects/io3d/io3d/datasets.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -6127,8 +6159,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>[&quot;conda&quot;, &quot;build&quot;, &quot;--python&quot;, python_version, &quot;--output&quot;, &quot;.&quot;]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGV4Y2VwdDoKICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -6150,43 +6182,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>[&quot;conda&quot;, &quot;build&quot;, &quot;--python&quot;, python_version, &quot;--output&quot;, &quot;.&quot;]</text>
+        <text>op.expanduser(</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGVja3N1bVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG91dHB1dF9uYW1lX2xpbmVzID0gc3VicHJvY2Vzcy5jaGVja19vdXRwdXQoWyJjb25kYSIsICJidWlsZCIsICItLXB5dGhvbiIsIHB5dGhvbl92ZXJzaW9uLCAiLS1vdXRwdXQiLCAiLiJdKQo=</text>
+        <text encoding="base64">ICAgICAgICBkZXN0aW5hdGlvbl9kaXIgPSBvcC5leHBhbmR1c2VyKGxvY2FsX2RpcikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB5dGhvbnMgPSBhcmdzLnB5CiAgICBpZiBhcmdzLnB5ID09ICJib3RoIjoKICAgICAgICBweXRob25zID0gWyIyLjciLCAiMy42Il0KCiAgICBmb3IgcHl0aG9uX3ZlcnNpb24gaW4gcHl0aG9uczoKICAgICAgICBjb25kYV9idWlsZF9hbmRfdXBsb2FkKHB5dGhvbl92ZXJzaW9uLCBhcmdzLmNoYW5uZWwpCg==</text>
+        <text encoding="base64">ICAgIGV4Y2VwdDoKICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJwaXhlbCBzcGFjaW5nICIsIHBpeGVsU3BhY2luZykK</text>
+        <text encoding="base64">ICAgIHRyeToK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBudW1weSBhcyBucAo=</text>
+        <text encoding="base64">ICAgIHB5dGhvbnMgPSBhcmdzLnB5CiAgICBpZiBhcmdzLnB5ID09ICJib3RoIjoKICAgICAgICBweXRob25zID0gWyIyLjciLCAiMy42Il0KCiAgICBmb3IgcHl0aG9uX3ZlcnNpb24gaW4gcHl0aG9uczoKICAgICAgICBjb25kYV9idWlsZF9hbmRfdXBsb2FkKHB5dGhvbl92ZXJzaW9uLCBhcmdzLmNoYW5uZWwpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICNwbGFuZV9uID0gcGxhbmVfbi52YWx1ZQo=</text>
+        <text encoding="base64">ICAgIHByaW50KCJwaXhlbCBzcGFjaW5nICIsIHBpeGVsU3BhY2luZykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgaW1wb3J0IHBkYjsK</text>
+        <text encoding="base64">ICAgIGltcG9ydCBudW1weSBhcyBucAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgcGRiLnNldF90cmFjZSgpCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICNwbGFuZV9uID0gcGxhbmVfbi52YWx1ZQo=</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICMgaW1wb3J0IHBkYjsK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICNwbGFuZV9uID0gcGxhbmVfbi52YWx1ZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
