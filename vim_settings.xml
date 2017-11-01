@@ -609,15 +609,6 @@
         <mark key="^" line="14" column="33" />
         <mark key="." line="14" column="33" />
       </file>
-      <file name="$USER_HOME$/projects/teigen/teigen/gui.py" timestamp="1504158683316">
-        <mark key="a" line="646" column="26" />
-        <mark key="b" line="104" column="8" />
-        <mark key="'" line="417" column="104" />
-        <mark key="[" line="229" column="13" />
-        <mark key="]" line="230" column="45" />
-        <mark key="." line="230" column="45" />
-        <mark key="^" line="230" column="45" />
-      </file>
       <file name="$USER_HOME$/projects/cellid/polls/templates/polls/results.html" timestamp="1503494900069">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -894,7 +885,7 @@
         <mark key="^" line="265" column="75" />
         <mark key="." line="252" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509449416355">
+      <file name="/Dummy.txt" timestamp="1509543196867">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="10" />
@@ -1707,6 +1698,12 @@
         <mark key="]" line="40" column="8" />
         <mark key="." line="40" column="8" />
         <mark key="^" line="40" column="8" />
+      </file>
+      <file name="$USER_HOME$/projects/disco/discon/__main__.py" timestamp="1509543189298">
+        <mark key="[" line="118" column="48" />
+        <mark key="]" line="118" column="66" />
+        <mark key="^" line="118" column="66" />
+        <mark key="." line="118" column="66" />
       </file>
       <file name="$USER_HOME$/projects/ndnoise/ndnoise/butternd.py" timestamp="1482591170977">
         <mark key="'" line="0" column="0" />
@@ -6130,8 +6127,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJwaXhlbCBzcGFjaW5nICIsIHBpeGVsU3BhY2luZykK</text>
+      <register name="&quot;" type="4">
+        <text>[&quot;conda&quot;, &quot;build&quot;, &quot;--python&quot;, python_version, &quot;--output&quot;, &quot;.&quot;]</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -6153,43 +6150,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>[&quot;conda&quot;, &quot;build&quot;, &quot;--python&quot;, python_version, &quot;--output&quot;, &quot;.&quot;]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGVja3N1bVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmIG5vdCBpc3N1YmNsYXNzKHR5cGUocGxhbmVfbiksIG5wLmludGVnZXIpOgogICAgICAgIHBsYW5lX24gPSBwbGFuZV9uLnZhbHVlCg==</text>
+        <text encoding="base64">ICAgIG91dHB1dF9uYW1lX2xpbmVzID0gc3VicHJvY2Vzcy5jaGVja19vdXRwdXQoWyJjb25kYSIsICJidWlsZCIsICItLXB5dGhvbiIsIHB5dGhvbl92ZXJzaW9uLCAiLS1vdXRwdXQiLCAiLiJdKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJwaXhlbCBzcGFjaW5nICIsIHBpeGVsU3BhY2luZykK</text>
+        <text encoding="base64">ICAgIHB5dGhvbnMgPSBhcmdzLnB5CiAgICBpZiBhcmdzLnB5ID09ICJib3RoIjoKICAgICAgICBweXRob25zID0gWyIyLjciLCAiMy42Il0KCiAgICBmb3IgcHl0aG9uX3ZlcnNpb24gaW4gcHl0aG9uczoKICAgICAgICBjb25kYV9idWlsZF9hbmRfdXBsb2FkKHB5dGhvbl92ZXJzaW9uLCBhcmdzLmNoYW5uZWwpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBudW1weSBhcyBucAo=</text>
+        <text encoding="base64">ICAgIHByaW50KCJwaXhlbCBzcGFjaW5nICIsIHBpeGVsU3BhY2luZykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICNwbGFuZV9uID0gcGxhbmVfbi52YWx1ZQo=</text>
+        <text encoding="base64">ICAgIGltcG9ydCBudW1weSBhcyBucAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgaW1wb3J0IHBkYjsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICMgcGRiLnNldF90cmFjZSgpCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICNwbGFuZV9uID0gcGxhbmVfbi52YWx1ZQo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICMgaW1wb3J0IHBkYjsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICMgcGRiLnNldF90cmFjZSgpCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICNwbGFuZV9uID0gcGxhbmVfbi52YWx1ZQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25kYSBpbnN0YWxsIC1jIG1qaXJpayBweXBuZyBmbGFzayBpbzNkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
