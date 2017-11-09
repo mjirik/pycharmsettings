@@ -53,6 +53,11 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="46" column="14" />
       </file>
+      <file name="$USER_HOME$/projects/io3d/io3d/dcmreaddata.py" timestamp="1510221607735">
+        <mark key="[" line="134" column="0" />
+        <mark key="]" line="135" column="66" />
+        <mark key="." line="134" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/lisa/lisa/lisa_server.py" timestamp="1445344066359">
         <mark key="[" line="31" column="20" />
         <mark key="]" line="31" column="21" />
@@ -892,7 +897,7 @@
         <mark key="^" line="265" column="75" />
         <mark key="." line="252" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509557114023">
+      <file name="/Dummy.txt" timestamp="1510221931710">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="10" />
@@ -1884,6 +1889,13 @@
         <mark key="^" line="1" column="26" />
         <mark key="." line="1" column="26" />
       </file>
+      <file name="$USER_HOME$/projects/io3d/io3d/datareader.py" timestamp="1510221925666">
+        <mark key="'" line="58" column="17" />
+        <mark key="[" line="30" column="39" />
+        <mark key="]" line="30" column="48" />
+        <mark key="^" line="30" column="48" />
+        <mark key="." line="30" column="48" />
+      </file>
       <file name="$USER_HOME$/projects/lisa/lisa/__init__.py" timestamp="1464369261837">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="21" />
@@ -1967,7 +1979,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="15" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
       <jump line="82" column="13" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
       <jump line="83" column="12" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
       <jump line="83" column="16" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
@@ -2067,6 +2078,7 @@
       <jump line="160" column="4" filename="$USER_HOME$/projects/io3d/io3d/datasets.py" />
       <jump line="76" column="24" filename="$USER_HOME$/projects/io3d/io3d/datasets.py" />
       <jump line="1" column="0" filename="$USER_HOME$/projects/io3d/io3d/datasets.py" />
+      <jump line="65" column="17" filename="$USER_HOME$/projects/io3d/io3d/datareader.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -6147,7 +6159,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBub3NlLnBsdWdpbnMuYXR0cmliIGltcG9ydCBhdHRyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2VyaWVzX2luZm8gPSBzZWxmLmRjbWRpcnN0YXRzKCkKICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQoc2VsZi5wcmludF9zZXJpZXNfaW5mbyhzZXJpZXNfaW5mbykpCg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -6172,55 +6184,54 @@
         <text>interactive</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjaGVja3N1bVw+</text>
+        <text encoding="base64">XDxQeVF0NFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZnJvbSBub3NlLnBsdWdpbnMuYXR0cmliIGltcG9ydCBhdHRyCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2VyaWVzX2luZm8gPSBzZWxmLmRjbWRpcnN0YXRzKCkKICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQoc2VsZi5wcmludF9zZXJpZXNfaW5mbyhzZXJpZXNfaW5mbykpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRhdGFwID0gW10K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGdsb2IuZ2xvYihwYXRocykK</text>
+        <text encoding="base64">ICAgIGRhdGFwID0gW10K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGdldF9kYXRhc2V0X21ldGEoZGF0YXNldF9sYWJlbCkK</text>
+        <text encoding="base64">ICAgIGdsb2IuZ2xvYihwYXRocykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhX3VybCA9IGRhdGFfdXJsc1tsYWJlbF0KICAgICAgICBpZiB0eXBlKGRhdGFfdXJsKSA9PSBzdHI6CiAgICAgICAgICAgICMgYmFjayBjb21wYXRpYmlsaXR5CiAgICAgICAgICAgIGRhdGFfdXJsID0gW2RhdGFfdXJsXQogICAgICAgIGRhdGFfdXJsLmV4dGVuZChbTm9uZSwgTm9uZV0pCiAgICAgICAgZGF0YV91cmwgPSBkYXRhX3VybFs6M10KICAgICAgICB1cmwsIGV4cGVjdGVkX2hhc2gsIGhhc2hfcGF0aCA9IGRhdGFfdXJsCg==</text>
+        <text encoding="base64">ICAgIGdldF9kYXRhc2V0X21ldGEoZGF0YXNldF9sYWJlbCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBvcC5leGlzdHMocHRoKQo=</text>
+        <text encoding="base64">ICAgICAgICBkYXRhX3VybCA9IGRhdGFfdXJsc1tsYWJlbF0KICAgICAgICBpZiB0eXBlKGRhdGFfdXJsKSA9PSBzdHI6CiAgICAgICAgICAgICMgYmFjayBjb21wYXRpYmlsaXR5CiAgICAgICAgICAgIGRhdGFfdXJsID0gW2RhdGFfdXJsXQogICAgICAgIGRhdGFfdXJsLmV4dGVuZChbTm9uZSwgTm9uZV0pCiAgICAgICAgZGF0YV91cmwgPSBkYXRhX3VybFs6M10KICAgICAgICB1cmwsIGV4cGVjdGVkX2hhc2gsIGhhc2hfcGF0aCA9IGRhdGFfdXJsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBvcy5yZW1vdmVkaXJzKCkK</text>
+        <text encoding="base64">ICAgICAgICBpZiBvcC5leGlzdHMocHRoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzaHV0aWwucm10cmVlKGZpbGVkaXIpCg==</text>
+        <text encoding="base64">ICAgICAgICBvcy5yZW1vdmVkaXJzKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBhdHRyKCdhY3R1YWwnKQo=</text>
+        <text encoding="base64">ICAgICAgICBzaHV0aWwucm10cmVlKGZpbGVkaXIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjaGVja3N1bVw+</last-search>
+      <last-search encoding="base64">XDxQeVF0NFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjaGVja3N1bVw+</last-pattern>
+      <last-pattern encoding="base64">XDxQeVF0NFw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkYXRhZnJhbWVzXD4=</entry>
         <entry encoding="base64">XDxhZGRpdGlvbmFsX2luZm9cPg==</entry>
         <entry>Enable</entry>
         <entry>print</entry>
@@ -6240,6 +6251,7 @@
         <entry>step1_to</entry>
         <entry>checks</entry>
         <entry encoding="base64">XDxjaGVja3N1bVw+</entry>
+        <entry encoding="base64">XDxQeVF0NFw+</entry>
       </history-search>
       <history-cmd>
         <entry>e</entry>
