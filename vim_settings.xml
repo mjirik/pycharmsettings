@@ -2009,14 +2009,15 @@
         <mark key="^" line="638" column="77" />
         <mark key="." line="638" column="77" />
       </file>
+      <file name="$USER_HOME$/projects/lisa/lisa/lisa_data.py" timestamp="1510761007312">
+        <mark key="'" line="117" column="6" />
+        <mark key="[" line="241" column="9" />
+        <mark key="]" line="241" column="9" />
+        <mark key="^" line="241" column="9" />
+        <mark key="." line="241" column="9" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="34" filename="$USER_HOME$/projects/teigen/teigen/tree.py" />
-      <jump line="190" column="13" filename="$USER_HOME$/projects/teigen/teigen/tree.py" />
-      <jump line="247" column="8" filename="$USER_HOME$/projects/teigen/teigen/tree.py" />
-      <jump line="225" column="8" filename="$USER_HOME$/projects/teigen/teigen/tree.py" />
-      <jump line="249" column="28" filename="$USER_HOME$/projects/teigen/teigen/tree.py" />
-      <jump line="364" column="25" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="41" column="29" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="483" column="46" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="207" column="8" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
@@ -2111,6 +2112,12 @@
       <jump line="215" column="16" filename="$USER_HOME$/projects/dicomwebview/dicomwebview.py" />
       <jump line="31" column="0" filename="$USER_HOME$/projects/dicomwebview/dicomwebview.py" />
       <jump line="59" column="45" filename="$USER_HOME$/projects/dicomwebview/templates/index.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/lisa/lisa/lisa_data.py" />
+      <jump line="108" column="6" filename="$USER_HOME$/projects/lisa/lisa/lisa_data.py" />
+      <jump line="109" column="6" filename="$USER_HOME$/projects/lisa/lisa/lisa_data.py" />
+      <jump line="115" column="6" filename="$USER_HOME$/projects/lisa/lisa/lisa_data.py" />
+      <jump line="116" column="6" filename="$USER_HOME$/projects/lisa/lisa/lisa_data.py" />
+      <jump line="117" column="6" filename="$USER_HOME$/projects/lisa/lisa/lisa_data.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -6216,7 +6223,7 @@
         <text encoding="base64">YXhpYWwg</text>
       </register>
       <register name="/" type="4">
-        <text>push_segm</text>
+        <text>print</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc2F2ZVNlZ21lbnRhdGlvbigpewogICAgICAgICAgICAgICAgbGV0IHNlbGYgPSB0aGlzCiAgICAgICAgICAgICAgICAkLnBvc3QoJy9hcGkvMC9zZWdtZW50YXRpb24vc2F2ZVRvRGlzaycsIHt9LAogICAgICAgICAgICAgICAgICAgIGZ1bmN0aW9uIChkYXRhLCBzdGF0dXMpIHsKICAgICAgICAgICAgICAgICAgICBhbGVydChzdGF0dXMgKyAiOiAiKyBkYXRhKQogICAgICAgICAgICAgICAgfSkKICAgICAgICAgICAgfQo=</text>
@@ -6256,15 +6263,14 @@
       </register>
     </registers>
     <search>
-      <last-search>push_segm</last-search>
+      <last-search>print</last-search>
       <last-offset />
-      <last-pattern>push_segm</last-pattern>
+      <last-pattern>print</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>step2_st</entry>
         <entry>step1_to</entry>
         <entry>checks</entry>
         <entry encoding="base64">XDxjaGVja3N1bVw+</entry>
@@ -6284,11 +6290,9 @@
         <entry encoding="base64">XDxjcmVhdGVfc2VnbV9pbWFnZVw+</entry>
         <entry encoding="base64">XDxzZWdtX2ltYWdlc1w+</entry>
         <entry>push_segm</entry>
+        <entry>print</entry>
       </history-search>
       <history-cmd>
-        <entry>e</entry>
-        <entry encoding="base64">JzwsJz4yNw==</entry>
-        <entry>27</entry>
         <entry>1085</entry>
         <entry>ě</entry>
         <entry>718</entry>
@@ -6305,6 +6309,9 @@
         <entry>W</entry>
         <entry>184</entry>
         <entry>43</entry>
+        <entry>202</entry>
+        <entry>2018</entry>
+        <entry>218</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
