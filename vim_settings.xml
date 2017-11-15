@@ -821,11 +821,11 @@
         <mark key="." line="43" column="14" />
         <mark key="^" line="43" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/dicomwebview/lisaw.py" timestamp="1510752019556">
-        <mark key="[" line="70" column="67" />
-        <mark key="]" line="70" column="79" />
-        <mark key="." line="70" column="79" />
-        <mark key="^" line="70" column="79" />
+      <file name="$USER_HOME$/projects/dicomwebview/lisaw.py" timestamp="1510754117564">
+        <mark key="[" line="67" column="16" />
+        <mark key="]" line="67" column="28" />
+        <mark key="." line="67" column="28" />
+        <mark key="^" line="67" column="28" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/geometry3d.py" timestamp="1465916678607">
         <mark key="[" line="67" column="17" />
@@ -1201,8 +1201,8 @@
         <mark key="^" line="138" column="47" />
         <mark key="." line="138" column="47" />
       </file>
-      <file name="$USER_HOME$/projects/dicomwebview/dicomwebview.py" timestamp="1510751943083">
-        <mark key="'" line="202" column="4" />
+      <file name="$USER_HOME$/projects/dicomwebview/dicomwebview.py" timestamp="1510754047947">
+        <mark key="'" line="43" column="4" />
       </file>
       <file name="$USER_HOME$/projects/metalisa/requirements_conda.txt" timestamp="1493629715262">
         <mark key="'" line="0" column="2" />
@@ -1999,9 +1999,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="16" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
-      <jump line="923" column="4" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
-      <jump line="922" column="26" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
       <jump line="967" column="26" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
       <jump line="714" column="16" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
       <jump line="298" column="12" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
@@ -2099,6 +2096,9 @@
       <jump line="65" column="17" filename="$USER_HOME$/projects/io3d/io3d/datareader.py" />
       <jump line="135" column="28" filename="$USER_HOME$/projects/io3d/io3d/dcmreaddata.py" />
       <jump line="202" column="4" filename="$USER_HOME$/projects/dicomwebview/dicomwebview.py" />
+      <jump line="0" column="62" filename="$USER_HOME$/projects/dicomwebview/dicomwebview.py" />
+      <jump line="42" column="4" filename="$USER_HOME$/projects/dicomwebview/dicomwebview.py" />
+      <jump line="43" column="4" filename="$USER_HOME$/projects/dicomwebview/dicomwebview.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -6204,7 +6204,7 @@
         <text>-</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhcHBcPg==</text>
+        <text encoding="base64">XDxzZXNzaW9uXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHBhcnNlciA9IGFyZ3BhcnNlLkFyZ3VtZW50UGFyc2VyKCkKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoIi1pIiwgIi0tZGF0YXBhdGgiLCBoZWxwPSJpbnB1dCBpbWFnZSBwYXRoIiwgZGVmYXVsdD1Ob25lKQogICAgYXJncyA9IHBhcnNlci5wYXJzZV9hcmdzKCkKCiAgICBpZiBhcmdzLmRhdGFwYXRoIGlzIE5vbmU6CiAgICAgICAgcGF0aF9kaWNvbSA9IG9zLnBhdGguam9pbihBUFBfUEFUSCwgRElDT01fUEFUSCkKICAgIGVsc2U6CiAgICAgICAgcGF0aF9kaWNvbSA9IGFyZ3MuZGF0YXBhdGgKCiAgICBkciA9IGlvM2QuRGF0YVJlYWRlcigpCiAgICBkYXRhcCA9IGRyLkdldDNERGF0YShwYXRoX2RpY29tLCBkYXRhcGx1c19mb3JtYXQ9VHJ1ZSkKCiAgICBpbWFnZXMgPSBkYXRhcFsiZGF0YTNkIl0KICAgIGRpbXMgPSBpbWFnZXMuc2hhcGUKICAgIHNlZ21faW1hZ2VzID0gbnAuZW1wdHkoc2hhcGU9W2RpbXNbMF0sIGRpbXNbMV0sIGRpbXNbMl0sIDRdLCBkdHlwZT1ucC51aW50OCkKCiAgICBmb3IgZGlyTmFtZSwgc3ViZGlyTGlzdCwgZmlsZUxpc3QgaW4gb3Mud2Fsayhvcy5wYXRoLmpvaW4oQVBQX1BBVEgsIFNFR01fSU1BR0VfUEFUSCkpOgogICAgICAgIGZvciBmaWxlbmFtZSBpbiBmaWxlTGlzdDoKICAgICAgICAgICAgaWYgIi5wbmciIGluIGZpbGVuYW1lLmxvd2VyKCk6CiAgICAgICAgICAgICAgICByID0gcG5nLlJlYWRlcihmaWxlbmFtZT1vcy5wYXRoLmpvaW4oZGlyTmFtZSwgZmlsZW5hbWUpKQogICAgICAgICAgICAgICAgcmdiYSA9IHIuYXNSR0JBKCkKICAgICAgICAgICAgICAgIHdpZHRoID0gcmdiYVswXQogICAgICAgICAgICAgICAgaGVpZ2h0ID0gcmdiYVsxXQogICAgICAgICAgICAgICAgcGl4ZWxzID0gcmdiYVsyXQogICAgICAgICAgICAgICAgcGxhbmVzID0gcmdiYVszXVsncGxhbmVzJ10KICAgICAgICAgICAgICAgIHBpeGVsX2FycmF5ID0gbnAuZnJvbWl0ZXIoaXRlcnRvb2xzLmNoYWluKCpwaXhlbHMpLCBjb3VudD13aWR0aCAqIGhlaWdodCAqIHBsYW5lcywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZHR5cGU9bnAudWludDgpLnJlc2hhcGUoaGVpZ2h0LCB3aWR0aCwgLTEpCiAgICAgICAgICAgICAgICBzbGljZV9uID0gaW50KCcnLmpvaW4obGlzdChmaWxlbmFtZSlbLTg6LTRdKSkKCiAgICAgICAgICAgICAgICBwbGFuZV9uID0gUGxhbmVzW2ZpbGVuYW1lLnNwbGl0KCctJylbMF0udXBwZXIoKV0udmFsdWUKICAgICAgICAgICAgICAgICMgbWFpbnRhaW5pbmcgdGhlIHNhbWUgb3JkZXIgb2YgdGhlIERJQ09NIGltYWdlcywgZnJvbSB1cHBlciBib2R5IHRvIGxvd2VyIGluIHRoZSBhcnJheQogICAgICAgICAgICAgICAgaW5kID0gW3NsaWNlKE5vbmUpXSAqIDQKICAgICAgICAgICAgICAgIGluZFtwbGFuZV9uXSA9IHNsaWNlX24KICAgICAgICAgICAgICAgIHNlZ21faW1hZ2VzW3R1cGxlKGluZCldID0gcGl4ZWxfYXJyYXkKCiAgICBwaXhlbFNwYWNpbmcgPSBkYXRhcFsidm94ZWxzaXplX21tIl0KICAgIHBpeGVsU3BhY2luZ1swXSA9IHBpeGVsU3BhY2luZ1swXSBpZiBwaXhlbFNwYWNpbmdbMF0gIT0gMCBlbHNlIDEKICAgIG1heF9pbnRlbnNpdHkgPSBpbWFnZXMubWF4KCkKICAgIG1pbl9pbnRlbnNpdHkgPSBpbWFnZXMubWluKCkKCiAgICBhcHAucnVuKGRlYnVnPVRydWUpCg==</text>
@@ -6244,15 +6244,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhcHBcPg==</last-search>
+      <last-search encoding="base64">XDxzZXNzaW9uXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhcHBcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxzZXNzaW9uXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>vtk</entry>
         <entry>regular</entry>
         <entry encoding="base64">XDxtaWRkbGVcPg==</entry>
         <entry>shell</entry>
@@ -6272,6 +6271,7 @@
         <entry>modlity</entry>
         <entry>Modli</entry>
         <entry encoding="base64">XDxhcHBcPg==</entry>
+        <entry encoding="base64">XDxzZXNzaW9uXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>e</entry>
