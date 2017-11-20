@@ -18,8 +18,8 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/dicomwebview/templates/index.html" timestamp="1510758326113">
-        <mark key="'" line="59" column="45" />
+      <file name="$USER_HOME$/projects/dicomwebview/templates/index.html" timestamp="1511176658119">
+        <mark key="'" line="314" column="20" />
         <mark key="[" line="653" column="0" />
         <mark key="]" line="653" column="0" />
         <mark key="." line="653" column="0" />
@@ -465,7 +465,6 @@
         <mark key="." line="203" column="11" />
         <mark key="^" line="203" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/io3d/tests/rawN_test.py" timestamp="1509550690678" />
       <file name="$USER_HOME$/projects/lisa/INSTALL.md" timestamp="1448570601058">
         <mark key="[" line="53" column="67" />
         <mark key="]" line="53" column="80" />
@@ -1209,7 +1208,7 @@
         <mark key="^" line="138" column="47" />
         <mark key="." line="138" column="47" />
       </file>
-      <file name="$USER_HOME$/projects/dicomwebview/dicomwebview.py" timestamp="1511173963346">
+      <file name="$USER_HOME$/projects/dicomwebview/dicomwebview.py" timestamp="1511175993861">
         <mark key="[" line="123" column="8" />
         <mark key="]" line="123" column="7" />
         <mark key="^" line="123" column="7" />
@@ -2023,7 +2022,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="29" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="483" column="46" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
       <jump line="207" column="8" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
       <jump line="724" column="8" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
@@ -2123,6 +2121,7 @@
       <jump line="115" column="6" filename="$USER_HOME$/projects/lisa/lisa/lisa_data.py" />
       <jump line="116" column="6" filename="$USER_HOME$/projects/lisa/lisa/lisa_data.py" />
       <jump line="117" column="6" filename="$USER_HOME$/projects/lisa/lisa/lisa_data.py" />
+      <jump line="314" column="20" filename="$USER_HOME$/projects/dicomwebview/templates/index.html" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -6228,7 +6227,7 @@
         <text>l</text>
       </register>
       <register name="/" type="4">
-        <text>print</text>
+        <text>segm_ctx</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiBrZXkgPT0gZGF0YVsic2VnbWVudGF0aW9uIl1baV1bal1ba106Cg==</text>
@@ -6268,15 +6267,14 @@
       </register>
     </registers>
     <search>
-      <last-search>print</last-search>
+      <last-search>segm_ctx</last-search>
       <last-offset />
-      <last-pattern>print</last-pattern>
+      <last-pattern>segm_ctx</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>step1_to</entry>
         <entry>checks</entry>
         <entry encoding="base64">XDxjaGVja3N1bVw+</entry>
         <entry encoding="base64">XDxQeVF0NFw+</entry>
@@ -6296,6 +6294,7 @@
         <entry encoding="base64">XDxzZWdtX2ltYWdlc1w+</entry>
         <entry>push_segm</entry>
         <entry>print</entry>
+        <entry>segm_ctx</entry>
       </history-search>
       <history-cmd>
         <entry>1085</entry>
