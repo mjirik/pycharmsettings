@@ -916,7 +916,7 @@
         <mark key="^" line="265" column="75" />
         <mark key="." line="252" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511256609766">
+      <file name="/Dummy.txt" timestamp="1511257160366">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="10" />
@@ -1570,12 +1570,12 @@
         <mark key="^" line="621" column="25" />
         <mark key="." line="621" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/skelet3d/setup.py" timestamp="1465559373695">
+      <file name="$USER_HOME$/projects/skelet3d/setup.py" timestamp="1511257138372">
         <mark key="'" line="62" column="16" />
-        <mark key="[" line="1" column="39" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+        <mark key="[" line="58" column="28" />
+        <mark key="]" line="58" column="28" />
+        <mark key="^" line="58" column="28" />
+        <mark key="." line="58" column="28" />
       </file>
       <file name="$USER_HOME$/projects/imtools/tests/histology_test.py" timestamp="1481554504450">
         <mark key="'" line="0" column="17" />
@@ -6201,8 +6201,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICMgcHl3Z2V0IGlzIG5vdCBidWlsZCBmb3IgcHl0aG9uIDMuNgo=</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -6224,7 +6224,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>segm_ctx</text>
