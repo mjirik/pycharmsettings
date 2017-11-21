@@ -1745,11 +1745,11 @@
         <mark key="." line="40" column="8" />
         <mark key="^" line="40" column="8" />
       </file>
-      <file name="$USER_HOME$/projects/disco/discon/__main__.py" timestamp="1511263362156">
-        <mark key="[" line="124" column="64" />
-        <mark key="]" line="125" column="36" />
-        <mark key="^" line="125" column="36" />
-        <mark key="." line="125" column="36" />
+      <file name="$USER_HOME$/projects/disco/discon/__main__.py" timestamp="1511263890893">
+        <mark key="[" line="120" column="26" />
+        <mark key="]" line="120" column="44" />
+        <mark key="^" line="120" column="44" />
+        <mark key="." line="120" column="44" />
       </file>
       <file name="$USER_HOME$/projects/ndnoise/ndnoise/butternd.py" timestamp="1482591170977">
         <mark key="'" line="0" column="0" />
@@ -6194,7 +6194,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>[&quot;conda&quot;, &quot;convert&quot;, &quot;-p&quot;, &quot;all&quot;, output_name]</text>
+        <text>cmd_convert</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -6216,13 +6216,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>[&quot;conda&quot;, &quot;convert&quot;, &quot;-p&quot;, &quot;all&quot;, output_name]</text>
+        <text>cmd_convert</text>
       </register>
       <register name="/" type="4">
         <text>segm_ctx</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICMgcHl3Z2V0IGlzIG5vdCBidWlsZCBmb3IgcHl0aG9uIDMuNgo=</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZygiICIuam9pbihjbWRfY29udmVydCkpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZygicHkgYmVmb3JlICIgKyBzdHIoIGFyZ3MucHkpKQo=</text>
