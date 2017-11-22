@@ -931,7 +931,7 @@
         <mark key="^" line="265" column="75" />
         <mark key="." line="252" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511368790975">
+      <file name="/Dummy.txt" timestamp="1511371595556">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="10" />
@@ -1711,11 +1711,11 @@
         <mark key="." line="306" column="20" />
         <mark key="^" line="306" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/dicom2fem/dicom2fem/__init__.py" timestamp="1484594064491">
-        <mark key="[" line="3" column="22" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/projects/dicom2fem/dicom2fem/__init__.py" timestamp="1511370115377">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="6" />
+        <mark key="^" line="6" column="6" />
+        <mark key="." line="6" column="6" />
       </file>
       <file name="$USER_HOME$/projects/lisa/lisa/volumetry_evaluation.py" timestamp="1465109384512">
         <mark key="[" line="667" column="73" />
@@ -1905,11 +1905,12 @@
         <mark key="^" line="28" column="11" />
         <mark key="." line="28" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/dicom2fem/dicom2fem/base.py" timestamp="1511368488684">
-        <mark key="[" line="696" column="18" />
-        <mark key="]" line="696" column="18" />
-        <mark key="." line="696" column="18" />
-        <mark key="^" line="696" column="18" />
+      <file name="$USER_HOME$/projects/dicom2fem/dicom2fem/base.py" timestamp="1511371571781">
+        <mark key="'" line="5" column="18" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="1" />
+        <mark key="." line="5" column="1" />
+        <mark key="^" line="5" column="1" />
       </file>
       <file name="$USER_HOME$/projects/skelet3d/examples/example02.py" timestamp="1465398838088">
         <mark key="'" line="17" column="9" />
@@ -2040,11 +2041,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="724" column="8" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
-      <jump line="210" column="13" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
-      <jump line="189" column="25" filename="$USER_HOME$/projects/teigen/teigen/generators/unconnected_cylinders.py" />
-      <jump line="12" column="19" filename="$USER_HOME$/projects/teigen/tests/teigen_test.py" />
-      <jump line="220" column="4" filename="$USER_HOME$/projects/teigen/tests/teigen_test.py" />
       <jump line="704" column="24" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
       <jump line="364" column="12" filename="$USER_HOME$/projects/teigen/teigen/tree.py" />
       <jump line="92" column="28" filename="$USER_HOME$/projects/teigen/teigen/generators/unconnected_cylinders.py" />
@@ -2140,6 +2136,11 @@
       <jump line="314" column="20" filename="$USER_HOME$/projects/dicomwebview/templates/index.html" />
       <jump line="13" column="32" filename="$USER_HOME$/projects/dicom2fem/dicom2fem/dicom2fem.py" />
       <jump line="32" column="14" filename="$USER_HOME$/projects/dicom2fem/dicom2fem/dicom2fem.py" />
+      <jump line="698" column="18" filename="$USER_HOME$/projects/dicom2fem/dicom2fem/base.py" />
+      <jump line="102" column="22" filename="$USER_HOME$/projects/dicom2fem/dicom2fem/base.py" />
+      <jump line="513" column="41" filename="$USER_HOME$/projects/dicom2fem/dicom2fem/base.py" />
+      <jump line="783" column="13" filename="$USER_HOME$/projects/dicom2fem/dicom2fem/base.py" />
+      <jump line="5" column="18" filename="$USER_HOME$/projects/dicom2fem/dicom2fem/base.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -6245,7 +6246,7 @@
         <text>cmd_convert</text>
       </register>
       <register name="/" type="4">
-        <text>print</text>
+        <text encoding="base64">XDxVbmJvdW5kTWV0aG9kVHlwZVw+</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -6305,16 +6306,14 @@
       </register>
     </registers>
     <search>
-      <last-search>print</last-search>
+      <last-search encoding="base64">XDxVbmJvdW5kTWV0aG9kVHlwZVw+</last-search>
       <last-offset />
-      <last-pattern>print</last-pattern>
+      <last-pattern encoding="base64">XDxVbmJvdW5kTWV0aG9kVHlwZVw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>checks</entry>
-        <entry encoding="base64">XDxjaGVja3N1bVw+</entry>
         <entry encoding="base64">XDxQeVF0NFw+</entry>
         <entry>modlity</entry>
         <entry>Modli</entry>
@@ -6333,6 +6332,8 @@
         <entry>push_segm</entry>
         <entry>segm_ctx</entry>
         <entry>print</entry>
+        <entry>exec</entry>
+        <entry encoding="base64">XDxVbmJvdW5kTWV0aG9kVHlwZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>1085</entry>
