@@ -973,7 +973,7 @@
         <mark key="." line="50" column="33" />
         <mark key="^" line="50" column="33" />
       </file>
-      <file name="/a.regexp" timestamp="1511368284320">
+      <file name="/a.regexp" timestamp="1511372091727">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/imtools/imtools/show_segmentation.py" timestamp="1504122585220">
@@ -1724,8 +1724,8 @@
         <mark key="^" line="667" column="84" />
         <mark key="." line="667" column="84" />
       </file>
-      <file name="$USER_HOME$/projects/dicom2fem/dicom2fem/dicom2fem.py" timestamp="1511368277487">
-        <mark key="'" line="32" column="14" />
+      <file name="$USER_HOME$/projects/dicom2fem/dicom2fem/dicom2fem.py" timestamp="1511372142528">
+        <mark key="'" line="625" column="15" />
       </file>
       <file name="$USER_HOME$/projects/io3d/meta.yaml" timestamp="1508933741953">
         <mark key="[" line="48" column="10" />
@@ -2042,12 +2042,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="373" column="0" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
-      <jump line="371" column="0" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
-      <jump line="31" column="0" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
-      <jump line="290" column="41" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
-      <jump line="288" column="0" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
-      <jump line="285" column="0" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
       <jump line="4" column="0" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
       <jump line="33" column="27" filename="$USER_HOME$/projects/teigen/teigen/tgmain.py" />
@@ -2142,6 +2136,12 @@
       <jump line="2553" column="8" filename="$USER_HOME$/projects/dicom2fem/dicom2fem/meshio.py" />
       <jump line="2600" column="8" filename="$USER_HOME$/projects/dicom2fem/dicom2fem/meshio.py" />
       <jump line="2647" column="12" filename="$USER_HOME$/projects/dicom2fem/dicom2fem/meshio.py" />
+      <jump line="640" column="15" filename="$USER_HOME$/projects/dicom2fem/dicom2fem/dicom2fem.py" />
+      <jump line="29" column="41" filename="$USER_HOME$/projects/dicom2fem/dicom2fem/dicom2fem.py" />
+      <jump line="37" column="31" filename="$USER_HOME$/projects/dicom2fem/dicom2fem/dicom2fem.py" />
+      <jump line="518" column="15" filename="$USER_HOME$/projects/dicom2fem/dicom2fem/dicom2fem.py" />
+      <jump line="603" column="15" filename="$USER_HOME$/projects/dicom2fem/dicom2fem/dicom2fem.py" />
+      <jump line="625" column="15" filename="$USER_HOME$/projects/dicom2fem/dicom2fem/dicom2fem.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -6247,7 +6247,7 @@
         <text>exceptions</text>
       </register>
       <register name="/" type="4">
-        <text>raise</text>
+        <text encoding="base64">XDxRVFNlZWRFZGl0b3JcPg==</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -6307,15 +6307,14 @@
       </register>
     </registers>
     <search>
-      <last-search>raise</last-search>
+      <last-search encoding="base64">XDxRVFNlZWRFZGl0b3JcPg==</last-search>
       <last-offset />
-      <last-pattern>raise</last-pattern>
+      <last-pattern encoding="base64">XDxRVFNlZWRFZGl0b3JcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>modlity</entry>
         <entry>Modli</entry>
         <entry encoding="base64">XDxhcHBcPg==</entry>
         <entry>Planes</entry>
@@ -6335,6 +6334,7 @@
         <entry>exec</entry>
         <entry encoding="base64">XDxVbmJvdW5kTWV0aG9kVHlwZVw+</entry>
         <entry>raise</entry>
+        <entry encoding="base64">XDxRVFNlZWRFZGl0b3JcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>ě</entry>
