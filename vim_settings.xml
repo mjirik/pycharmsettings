@@ -98,12 +98,12 @@
         <mark key="." line="158" column="0" />
         <mark key="^" line="163" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1516115453860">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="683" column="35" />
-        <mark key="]" line="683" column="56" />
-        <mark key="^" line="683" column="56" />
-        <mark key="." line="683" column="56" />
+      <file name="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" timestamp="1516116461649">
+        <mark key="'" line="194" column="15" />
+        <mark key="[" line="718" column="13" />
+        <mark key="]" line="718" column="35" />
+        <mark key="^" line="718" column="35" />
+        <mark key="." line="718" column="35" />
       </file>
       <file name="$USER_HOME$/projects/bodynavigation/bodynavigation/chest_localization.py" timestamp="1493034276601">
         <mark key="[" line="19" column="0" />
@@ -2062,16 +2062,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="223" column="37" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
-      <jump line="401" column="104" filename="$USER_HOME$/projects/teigen/teigen/gui.py" />
-      <jump line="26" column="0" filename="$USER_HOME$/projects/io3d/io3d/datasets.py" />
-      <jump line="22" column="10" filename="$USER_HOME$/projects/io3d/io3d/datasets.py" />
-      <jump line="104" column="28" filename="$USER_HOME$/projects/io3d/io3d/datasets.py" />
-      <jump line="160" column="4" filename="$USER_HOME$/projects/io3d/io3d/datasets.py" />
-      <jump line="76" column="24" filename="$USER_HOME$/projects/io3d/io3d/datasets.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/projects/io3d/io3d/datasets.py" />
-      <jump line="65" column="17" filename="$USER_HOME$/projects/io3d/io3d/datareader.py" />
-      <jump line="135" column="28" filename="$USER_HOME$/projects/io3d/io3d/dcmreaddata.py" />
       <jump line="42" column="4" filename="$USER_HOME$/projects/dicomwebview/dicomwebview.py" />
       <jump line="64" column="28" filename="$USER_HOME$/projects/dicomwebview/lisaw.py" />
       <jump line="63" column="39" filename="$USER_HOME$/projects/dicomwebview/lisaw.py" />
@@ -2162,6 +2152,16 @@
       <jump line="333" column="22" filename="$USER_HOME$/projects/dicom2fem/dicom2fem/dicom2fem.py" />
       <jump line="73" column="4" filename="$USER_HOME$/projects/dicom2fem/dicom2fem/dicom2fem.py" />
       <jump line="147" column="2" filename="$USER_HOME$/projects/lisa/lisa/organ_localizator.py" />
+      <jump line="1815" column="8" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="1826" column="15" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="1830" column="11" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="1832" column="12" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="1834" column="11" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="1835" column="40" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="1838" column="36" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="1843" column="11" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="165" column="8" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
+      <jump line="194" column="15" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -6242,7 +6242,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICAgICBudW1lcmljX2xhYmVsID0gc2VsZi5ubGFiZWxzKCJsaXZlciIpCg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -6264,10 +6264,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">anNvbl9hbm5vdGF0aW9uX2ZpbGUgPSBzZWxmLmlucHV0X2Fubm90YWlvbl9maWxlIA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRzdHJpbmdcPg==</text>
+        <text encoding="base64">XDxpbnB1dF9hbm5vdGF0aW9uX2ZpbGVcPg==</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -6281,7 +6281,7 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGVsaWYgc3lzLnZlcnNpb25faW5mby5tYWpvciA9PSAzOgo=</text>
+        <text encoding="base64">ICAgICAgICBudW1lcmljX2xhYmVsID0gc2VsZi5ubGFiZWxzKCJsaXZlciIpCg==</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -6327,16 +6327,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRzdHJpbmdcPg==</last-search>
+      <last-search encoding="base64">XDxpbnB1dF9hbm5vdGF0aW9uX2ZpbGVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRzdHJpbmdcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxpbnB1dF9hbm5vdGF0aW9uX2ZpbGVcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmaWxlbmFtZVw+</entry>
-        <entry>background_in</entry>
         <entry>Tree</entry>
         <entry encoding="base64">XDxmaW5pc2hfcHJvZ3Jlc3NfY2FsbGJhY2tcPg==</entry>
         <entry encoding="base64">XDxUcmVlQnVpbGRlclw+</entry>
@@ -6355,6 +6353,8 @@
         <entry>progress</entry>
         <entry>Check</entry>
         <entry>generate_volume</entry>
+        <entry encoding="base64">XDxhcmdzXD4=</entry>
+        <entry encoding="base64">XDxpbnB1dF9hbm5vdGF0aW9uX2ZpbGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>249</entry>
