@@ -1216,6 +1216,12 @@
         <mark key="^" line="287" column="33" />
         <mark key="." line="287" column="33" />
       </file>
+      <file name="$USER_HOME$/projects/pysegbase/setup.cfg" timestamp="1518441709873">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="11" column="27" />
+        <mark key="^" line="11" column="27" />
+        <mark key="." line="11" column="27" />
+      </file>
       <file name="$USER_HOME$/projects/lisa/install_linux.md" timestamp="1448122179647">
         <mark key="[" line="138" column="40" />
         <mark key="]" line="138" column="47" />
@@ -6320,7 +6326,7 @@
         <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -6372,8 +6378,8 @@
         <entry>402</entry>
         <entry>728</entry>
         <entry>e</entry>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
