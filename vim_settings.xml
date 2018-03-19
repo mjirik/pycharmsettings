@@ -900,6 +900,10 @@
         <mark key="^" line="172" column="89" />
         <mark key="." line="172" column="89" />
       </file>
+      <file name="$USER_HOME$/projects/sed3/sed3/sed3.py" timestamp="1521469466159">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="22" />
+      </file>
       <file name="$USER_HOME$/projects/pyqtconfig/pyqtconfig/qt.py" timestamp="1511270982966">
         <mark key="[" line="62" column="14" />
       </file>
@@ -928,7 +932,7 @@
         <mark key="^" line="265" column="75" />
         <mark key="." line="252" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521467159134">
+      <file name="/Dummy.txt" timestamp="1521470109292">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1501239446018">
@@ -1011,11 +1015,11 @@
         <mark key="." line="41" column="9" />
         <mark key="^" line="41" column="9" />
       </file>
-      <file name="$USER_HOME$/projects/sed3/setup.py" timestamp="1521467155014">
-        <mark key="[" line="59" column="16" />
-        <mark key="]" line="60" column="21" />
-        <mark key="^" line="60" column="21" />
-        <mark key="." line="60" column="21" />
+      <file name="$USER_HOME$/projects/sed3/setup.py" timestamp="1521470106777">
+        <mark key="[" line="60" column="55" />
+        <mark key="]" line="60" column="56" />
+        <mark key="^" line="60" column="56" />
+        <mark key="." line="60" column="56" />
       </file>
       <file name="$USER_HOME$/projects/teigen/teigen/dictwidgetpyqtgraph.py" timestamp="1484525042496">
         <mark key="'" line="299" column="27" />
@@ -1065,6 +1069,10 @@
         <mark key="]" line="3" column="35" />
         <mark key="." line="3" column="35" />
         <mark key="^" line="3" column="35" />
+      </file>
+      <file name="$USER_HOME$/projects/sed3/meta.yaml" timestamp="1521469059556">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="42" column="16" />
       </file>
       <file name="$USER_HOME$/projects/quanta/README.md" timestamp="1452510025795">
         <mark key="[" line="58" column="50" />
@@ -6240,8 +6248,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHB5cGl0ZXN0cz1bXSwK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -6263,7 +6271,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">anNvbl9hbm5vdGF0aW9uX2ZpbGUgPSBzZWxmLmlucHV0X2Fubm90YWlvbl9maWxlIA==</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
         <text>seed_editor</text>
@@ -6280,7 +6288,7 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBudW1lcmljX2xhYmVsID0gc2VsZi5ubGFiZWxzKCJsaXZlciIpCg==</text>
+        <text encoding="base64">IyEgL3Vzci9iaW4vZW52IHB5dGhvbgojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQo=</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -6292,34 +6300,34 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB5cGl0ZXN0cz1bXSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgIHB5cGl0ZXN0cz1bXSwK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">PT09PT09PQo+Pj4+Pj4+IG9yaWdpbi9tYXN0ZXIK</text>
       </register>
-      <register name="4" type="8">
+      <register name="5" type="8">
         <text encoding="base64">KSAKKSA=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIHByaW50ICJzID0iLHMKICAgIHByaW50ICJzcz0iLHNzCgogICAgcHJpbnQgaXNpbnN0YW5jZShkLCBkaWN0KQo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">bXlzdHJpbmcgPSBzdHIK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIC5mcm9tVXRmOAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ZWxpZiBzeXMudmVyc2lvbl9pbmZvLm1ham9yID09IDM6CiAgICBteXN0cmluZyA9IHN0cgo=</text>
+        <text encoding="base64">ICAgIC5mcm9tVXRmOAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
