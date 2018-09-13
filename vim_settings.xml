@@ -645,7 +645,7 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521473426253">
+      <file name="/Dummy.txt" timestamp="1536846237097">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1501239446018">
@@ -1171,6 +1171,13 @@
         <mark key="^" line="667" column="84" />
         <mark key="." line="667" column="84" />
       </file>
+      <file name="$USER_HOME$/projects/dicom2fem/dicom2fem/dicom2fem.py" timestamp="1536846229547">
+        <mark key="'" line="653" column="15" />
+        <mark key="[" line="32" column="9" />
+        <mark key="]" line="32" column="20" />
+        <mark key="." line="32" column="20" />
+        <mark key="^" line="32" column="20" />
+      </file>
       <file name="$USER_HOME$/projects/io3d/meta.yaml" timestamp="1508933741953">
         <mark key="[" line="48" column="10" />
         <mark key="]" line="49" column="16" />
@@ -1348,11 +1355,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="39" filename="$USER_HOME$/projects/dicomwebview/lisaw.py" />
-      <jump line="53" column="12" filename="$USER_HOME$/projects/dicomwebview/dicomwebview.py" />
-      <jump line="140" column="4" filename="$USER_HOME$/projects/dicomwebview/dicomwebview.py" />
-      <jump line="21" column="0" filename="$USER_HOME$/projects/dicomwebview/dicomwebview.py" />
-      <jump line="93" column="50" filename="$USER_HOME$/projects/dicomwebview/dicomwebview.py" />
       <jump line="98" column="28" filename="$USER_HOME$/projects/dicomwebview/dicomwebview.py" />
       <jump line="108" column="15" filename="$USER_HOME$/projects/dicomwebview/dicomwebview.py" />
       <jump line="116" column="37" filename="$USER_HOME$/projects/dicomwebview/dicomwebview.py" />
@@ -1388,7 +1390,6 @@
       <jump line="117" column="6" filename="$USER_HOME$/projects/lisa/lisa/lisa_data.py" />
       <jump line="314" column="20" filename="$USER_HOME$/projects/dicomwebview/templates/index.html" />
       <jump line="13" column="32" filename="$USER_HOME$/projects/dicom2fem/dicom2fem/dicom2fem.py" />
-      <jump line="32" column="14" filename="$USER_HOME$/projects/dicom2fem/dicom2fem/dicom2fem.py" />
       <jump line="698" column="18" filename="$USER_HOME$/projects/dicom2fem/dicom2fem/base.py" />
       <jump line="102" column="22" filename="$USER_HOME$/projects/dicom2fem/dicom2fem/base.py" />
       <jump line="513" column="41" filename="$USER_HOME$/projects/dicom2fem/dicom2fem/base.py" />
@@ -1448,6 +1449,12 @@
       <jump line="194" column="15" filename="$USER_HOME$/projects/lisa/lisa/organ_segmentation.py" />
       <jump line="9" column="0" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
       <jump line="68" column="29" filename="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" />
+      <jump line="32" column="44" filename="$USER_HOME$/projects/dicom2fem/dicom2fem/dicom2fem.py" />
+      <jump line="40" column="31" filename="$USER_HOME$/projects/dicom2fem/dicom2fem/dicom2fem.py" />
+      <jump line="531" column="15" filename="$USER_HOME$/projects/dicom2fem/dicom2fem/dicom2fem.py" />
+      <jump line="616" column="15" filename="$USER_HOME$/projects/dicom2fem/dicom2fem/dicom2fem.py" />
+      <jump line="638" column="15" filename="$USER_HOME$/projects/dicom2fem/dicom2fem/dicom2fem.py" />
+      <jump line="653" column="15" filename="$USER_HOME$/projects/dicom2fem/dicom2fem/dicom2fem.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5527,8 +5534,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBhcmdzLmluaXRfcHJvamVjdF9uYW1lIGlzICJweXBpIjoKICAgICAgICAgICAgdXBsb2FkX2NvbmRhID0gRmFsc2UK</text>
+      <register name="&quot;" type="4">
+        <text>pysegbase</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -5550,10 +5557,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>pysegbase</text>
       </register>
       <register name="/" type="4">
-        <text>seed_editor</text>
+        <text encoding="base64">XDxRVFNlZWRFZGl0b3JcPg==</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -5613,15 +5620,14 @@
       </register>
     </registers>
     <search>
-      <last-search>seed_editor</last-search>
+      <last-search encoding="base64">XDxRVFNlZWRFZGl0b3JcPg==</last-search>
       <last-offset />
-      <last-pattern>seed_editor</last-pattern>
+      <last-pattern encoding="base64">XDxRVFNlZWRFZGl0b3JcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxUcmVlQnVpbGRlclw+</entry>
         <entry encoding="base64">XDxmcm9tXD4=</entry>
         <entry>generator</entry>
         <entry encoding="base64">XDxnZW5lcmF0b3JfaWRcPg==</entry>
@@ -5641,6 +5647,7 @@
         <entry encoding="base64">XDxpbnB1dF9hbm5vdGF0aW9uX2ZpbGVcPg==</entry>
         <entry>seed</entry>
         <entry>seed_editor</entry>
+        <entry encoding="base64">XDxRVFNlZWRFZGl0b3JcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>249</entry>
