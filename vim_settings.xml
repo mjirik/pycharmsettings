@@ -250,12 +250,12 @@
         <mark key="." line="17" column="1" />
         <mark key="^" line="17" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/data2tex/tests/save_to_latex_test.py" timestamp="1536855110540">
+      <file name="$USER_HOME$/projects/data2tex/tests/save_to_latex_test.py" timestamp="1536856508977">
         <mark key="a" line="66" column="29" />
-        <mark key="[" line="66" column="38" />
-        <mark key="]" line="66" column="38" />
-        <mark key="^" line="66" column="38" />
-        <mark key="." line="66" column="38" />
+        <mark key="[" line="63" column="47" />
+        <mark key="]" line="63" column="48" />
+        <mark key="^" line="63" column="48" />
+        <mark key="." line="63" column="48" />
       </file>
       <file name="$USER_HOME$/projects/cellid/cellid/urls.py" timestamp="1504187405152">
         <mark key="[" line="20" column="4" />
@@ -304,6 +304,12 @@
         <mark key="]" line="1" column="24" />
         <mark key="^" line="2" column="42" />
         <mark key="." line="2" column="42" />
+      </file>
+      <file name="$USER_HOME$/projects/data2tex/tests/test_one.tex" timestamp="1536856205758">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="12" />
+        <mark key="." line="7" column="12" />
+        <mark key="^" line="7" column="12" />
       </file>
       <file name="$USER_HOME$/projects/teigen/tgout/requirements_conda.txt" timestamp="1481974032913">
         <mark key="[" line="12" column="0" />
@@ -662,7 +668,7 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536855140271">
+      <file name="/Dummy.txt" timestamp="1536856518578">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1501239446018">
@@ -5552,7 +5558,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>pdffile</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -5574,7 +5580,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>pdffile</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxRVFNlZWRFZGl0b3JcPg==</text>
@@ -5590,8 +5596,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="0" type="4">
-        <text>}</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFRydWUob3AuZXhpc3RzKG9wLmpvaW4ocHRoLCBwZGZmaWxlKSkpCg==</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -5603,34 +5609,34 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFRydWUob3AuZXhpc3RzKG9wLmpvaW4ocHRoLCAicGkudGV4IikpKQo=</text>
+        <text encoding="base64">ICAgICAgICBmbiA9IG9wLmpvaW4ocHRoLCAicGkudGV4IikK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBvcy5yZW1vdmUoKQo=</text>
+        <text encoding="base64">ICAgICAgICBwdGggPSBvcC5kaXJuYW1lKG9wLmFic3BhdGgoX19maWxlX18pKQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDpwYXJhbSBzY2llbnRpZmljX25vdGF0aW9uOiAK</text>
+        <text encoding="base64">JSBJbiBcdGV4dHR0e3B5dGhvbn0gc2NyaXB0IGltcG9ydCBcdGV4dHR0e2RhdGEydGV4fSBwYWNrYWdlIGFuZAolIHVzZSBcdmVyYitkYXRhMnRleC5zYXZlKCkrIGZ1bmN0aW9uIHRvIGV4cG9ydCBkYXRhIGZyb20gXHRleHR0dHtweXRob259LgolCiUgQWRkIHBhY2thZ2UgXHRleHR0dHtzaW51bml0eH0gIGFuZCBcdGV4dHR0e2Jvb2t0YWJzfSB0byB5b3VyIFxMYVRlWHt9IGZpbGUKJSBhbmQgdXNlIFx2ZXJiK1xpbnB1dHtuYW1lfSsgZm9yIGltcG9ydGluZyB0aGUgZGF0YS4KCiUgTWVhdXN1cmVkIHJhZGl1cyAkciA9IFxpbnB1dHtyYWRpdXN9JAolCiUgXFsKJSBTID0gXHBpIFxjZG90IHJeMiA9IFxpbnB1dHtwaX0gXGNkb3QgXGlucHV0e3JhZGl1c31eMiA9IFxpbnB1dHtzdXJmYWNlfQolIFxdCgoKCgpXZSBoYXZlIFxpbnB1dHtucmVjb3Jkc30gcmVjb3JkcyBpbiBvdXIgdGl0YW5pYyB0YWJsZS4gVGhlIHRvdGFsIGZhcmUgd2FzICRcaW5wdXR7ZmFyZX0kICBhbmQgbWVhbiBzdXJ2aXZlIGNoYW5jZSBpcyBcaW5wdXR7cHN1cnZpdmVkfS4KTW9zdCBmcmVxdWVudCBlbWJhcmsgdG93biBpcyBcaW5wdXR7ZW1iYXJrfS4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChuZXdfZmxvYXRfc3RyKQo=</text>
+        <text encoding="base64">ICAgICAgICAjIHByaW50KHB0aCkKICAgICAgICBpZiBvcC5leGlzdHMocGRmZmlsZSk6CiAgICAgICAgICAgIG9zLnJlbW92ZShwZGZmaWxlKQogICAgICAgIGltcG9ydCBnbG9iCiAgICAgICAgcCA9IHN1YnByb2Nlc3MuUG9wZW4oWyJwZGZsYXRleCIsIHRleGZpbGUsICItaW50ZXJhY3Rpb24iLCAibm9uc3RvcG1vZGUiXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdGRvdXQ9c3VicHJvY2Vzcy5QSVBFLCBzaGVsbD1GYWxzZSwgY3dkPXB0aCkKICAgICAgICBsYXRleF9vdXRwdXQgPSBwLmNvbW11bmljYXRlKCkKICAgICAgICBsb2dnZXIuZGVidWcobGF0ZXhfb3V0cHV0WzBdKQogICAgICAgIGxvZ2dlci5kZWJ1ZyhsYXRleF9vdXRwdXRbMV0pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChudW0pCg==</text>
+        <text encoding="base64">ICAgICAgICBmbiwgZXh0ID0gb3Auc3BsaXRleHQodGV4ZmlsZSkKICAgICAgICBwZGZmaWxlID0gZm4gKyAiLnBkZiIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIGZpbGVuYW1lIGlzIG5vdCBOb25lOgogICAgICAgIF90b19maWxlKGZsb2F0X3N0ciwgZmlsZW5hbWUpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFRydWUob3AuZXhpc3RzKG9wLmpvaW4ocHRoLCAicGkudGV4IikpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBhcmdzLmluaXRfcHJvamVjdF9uYW1lIGlzICJweXBpIjoKICAgICAgICAgICAgdXBsb2FkX2NvbmRhID0gRmFsc2UK</text>
+        <text encoding="base64">ICAgICAgICBvcy5yZW1vdmUoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoIiIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

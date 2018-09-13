@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern=".condarc" type="PLAIN_TEXT" />
       <mapping ext="sqlite3" type="PLAIN_TEXT" />
+      <mapping ext="tex" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
