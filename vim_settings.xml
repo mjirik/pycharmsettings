@@ -126,6 +126,12 @@
         <mark key="^" line="45" column="8" />
         <mark key="." line="45" column="8" />
       </file>
+      <file name="$USER_HOME$/projects/lisa/requirements.txt" timestamp="1541504737756">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="1" />
+        <mark key="^" line="1" column="1" />
+        <mark key="." line="1" column="1" />
+      </file>
       <file name="$USER_HOME$/projects/teigen/teigen/generators/general.py" timestamp="1502919825482">
         <mark key="[" line="26" column="31" />
         <mark key="]" line="19" column="22" />
@@ -376,11 +382,12 @@
         <mark key="^" line="36" column="7" />
         <mark key="." line="36" column="7" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/.travis.yml" timestamp="1541502881005">
-        <mark key="[" line="71" column="4" />
-        <mark key="]" line="72" column="79" />
-        <mark key="." line="72" column="79" />
-        <mark key="^" line="72" column="79" />
+      <file name="$USER_HOME$/projects/lisa/.travis.yml" timestamp="1541505739594">
+        <mark key="'" line="98" column="12" />
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
+        <mark key="^" line="64" column="8" />
       </file>
       <file name="$USER_HOME$/projects/quanta/quantan/__main__.py" timestamp="1446553214305">
         <mark key="[" line="0" column="13" />
@@ -647,7 +654,7 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541503044918">
+      <file name="/Dummy.txt" timestamp="1541504958819">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1501239446018">
@@ -1315,10 +1322,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="108" column="15" filename="$USER_HOME$/projects/dicomwebview/dicomwebview.py" />
-      <jump line="116" column="37" filename="$USER_HOME$/projects/dicomwebview/dicomwebview.py" />
-      <jump line="141" column="4" filename="$USER_HOME$/projects/dicomwebview/dicomwebview.py" />
-      <jump line="55" column="11" filename="$USER_HOME$/projects/dicomwebview/dicomwebview.py" />
       <jump line="66" column="11" filename="$USER_HOME$/projects/dicomwebview/dicomwebview.py" />
       <jump line="54" column="12" filename="$USER_HOME$/projects/dicomwebview/dicomwebview.py" />
       <jump line="143" column="18" filename="$USER_HOME$/projects/dicomwebview/dicomwebview.py" />
@@ -1415,6 +1418,10 @@
       <jump line="638" column="15" filename="$USER_HOME$/projects/dicom2fem/dicom2fem/dicom2fem.py" />
       <jump line="653" column="15" filename="$USER_HOME$/projects/dicom2fem/dicom2fem/dicom2fem.py" />
       <jump line="32" column="8" filename="$USER_HOME$/projects/lisa/requirements_conda.txt" />
+      <jump line="66" column="5" filename="$USER_HOME$/projects/lisa/.travis.yml" />
+      <jump line="96" column="6" filename="$USER_HOME$/projects/lisa/.travis.yml" />
+      <jump line="97" column="45" filename="$USER_HOME$/projects/lisa/.travis.yml" />
+      <jump line="98" column="12" filename="$USER_HOME$/projects/lisa/.travis.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5495,7 +5502,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">aXBkYj49MC44LjEK</text>
+        <text encoding="base64">ICAgIC0gY2QgLi4K</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -5517,10 +5524,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>imcut</text>
+        <text>gco</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -5546,50 +5553,48 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aXBkYj49MC44LjEK</text>
+        <text encoding="base64">ICAgIC0gY2QgLi4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c2Z0cHN5bmM+PTEuMC4yCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">am9ibGliPj0wLjguNAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">c2tlbGV0M2QK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIC0gJ21rZGlyIGJ1aWxkJwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmbiA9IG9wLmpvaW4ocHRoLCAicGkudGV4IikK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwdGggPSBvcC5kaXJuYW1lKG9wLmFic3BhdGgoX19maWxlX18pKQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIC0gcGlwIGluc3RhbGwgY292ZXJhbGxzCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">aXBkYj49MC44LjEK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">c2Z0cHN5bmM+PTEuMC4yCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">am9ibGliPj0wLjguNAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">c2tlbGV0M2QK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">JSBJbiBcdGV4dHR0e3B5dGhvbn0gc2NyaXB0IGltcG9ydCBcdGV4dHR0e2RhdGEydGV4fSBwYWNrYWdlIGFuZAolIHVzZSBcdmVyYitkYXRhMnRleC5zYXZlKCkrIGZ1bmN0aW9uIHRvIGV4cG9ydCBkYXRhIGZyb20gXHRleHR0dHtweXRob259LgolCiUgQWRkIHBhY2thZ2UgXHRleHR0dHtzaW51bml0eH0gIGFuZCBcdGV4dHR0e2Jvb2t0YWJzfSB0byB5b3VyIFxMYVRlWHt9IGZpbGUKJSBhbmQgdXNlIFx2ZXJiK1xpbnB1dHtuYW1lfSsgZm9yIGltcG9ydGluZyB0aGUgZGF0YS4KCiUgTWVhdXN1cmVkIHJhZGl1cyAkciA9IFxpbnB1dHtyYWRpdXN9JAolCiUgXFsKJSBTID0gXHBpIFxjZG90IHJeMiA9IFxpbnB1dHtwaX0gXGNkb3QgXGlucHV0e3JhZGl1c31eMiA9IFxpbnB1dHtzdXJmYWNlfQolIFxdCgoKCgpXZSBoYXZlIFxpbnB1dHtucmVjb3Jkc30gcmVjb3JkcyBpbiBvdXIgdGl0YW5pYyB0YWJsZS4gVGhlIHRvdGFsIGZhcmUgd2FzICRcaW5wdXR7ZmFyZX0kICBhbmQgbWVhbiBzdXJ2aXZlIGNoYW5jZSBpcyBcaW5wdXR7cHN1cnZpdmVkfS4KTW9zdCBmcmVxdWVudCBlbWJhcmsgdG93biBpcyBcaW5wdXR7ZW1iYXJrfS4K</text>
+        <text encoding="base64">ICAgIC0gJ21rZGlyIGJ1aWxkJwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>imcut</last-search>
+      <last-search>gco</last-search>
       <last-offset />
-      <last-pattern>imcut</last-pattern>
+      <last-pattern>gco</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZW5lcmF0b3JfaWRcPg==</entry>
-        <entry encoding="base64">XDxjb25maWdfZmlsZV9tYW5hZ2VyXD4=</entry>
         <entry encoding="base64">XDxDb25maWdGaWxlTWFuYWdlclw+</entry>
         <entry>tree</entry>
         <entry>tree_data</entry>
@@ -5608,6 +5613,8 @@
         <entry encoding="base64">XDxRVFNlZWRFZGl0b3JcPg==</entry>
         <entry>pyseg</entry>
         <entry>imcut</entry>
+        <entry>pygco</entry>
+        <entry>gco</entry>
       </history-search>
       <history-cmd>
         <entry>249</entry>
