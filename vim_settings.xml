@@ -382,12 +382,12 @@
         <mark key="^" line="36" column="7" />
         <mark key="." line="36" column="7" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/.travis.yml" timestamp="1541512167050">
+      <file name="$USER_HOME$/projects/lisa/.travis.yml" timestamp="1541513127853">
         <mark key="'" line="98" column="12" />
-        <mark key="[" line="77" column="4" />
-        <mark key="]" line="77" column="4" />
-        <mark key="." line="77" column="4" />
-        <mark key="^" line="133" column="38" />
+        <mark key="[" line="77" column="23" />
+        <mark key="]" line="78" column="15" />
+        <mark key="." line="78" column="15" />
+        <mark key="^" line="78" column="15" />
       </file>
       <file name="$USER_HOME$/projects/quanta/quantan/__main__.py" timestamp="1446553214305">
         <mark key="[" line="0" column="13" />
@@ -654,7 +654,7 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541512190338">
+      <file name="/Dummy.txt" timestamp="1541513187490">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1501239446018">
@@ -994,8 +994,8 @@
         <mark key="^" line="12" column="81" />
         <mark key="." line="68" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/requirements_conda.txt" timestamp="1541512131201">
-        <mark key="'" line="32" column="8" />
+      <file name="$USER_HOME$/projects/lisa/requirements_conda.txt" timestamp="1541513162174">
+        <mark key="'" line="51" column="31" />
         <mark key="[" line="50" column="0" />
         <mark key="]" line="51" column="78" />
         <mark key="^" line="51" column="78" />
@@ -1322,8 +1322,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="11" filename="$USER_HOME$/projects/dicomwebview/dicomwebview.py" />
-      <jump line="54" column="12" filename="$USER_HOME$/projects/dicomwebview/dicomwebview.py" />
       <jump line="143" column="18" filename="$USER_HOME$/projects/dicomwebview/dicomwebview.py" />
       <jump line="176" column="4" filename="$USER_HOME$/projects/dicomwebview/dicomwebview.py" />
       <jump line="177" column="11" filename="$USER_HOME$/projects/dicomwebview/dicomwebview.py" />
@@ -1422,6 +1420,8 @@
       <jump line="96" column="6" filename="$USER_HOME$/projects/lisa/.travis.yml" />
       <jump line="97" column="45" filename="$USER_HOME$/projects/lisa/.travis.yml" />
       <jump line="98" column="12" filename="$USER_HOME$/projects/lisa/.travis.yml" />
+      <jump line="15" column="19" filename="$USER_HOME$/projects/lisa/requirements_conda.txt" />
+      <jump line="51" column="31" filename="$USER_HOME$/projects/lisa/requirements_conda.txt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5501,8 +5501,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -5527,7 +5527,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>gco</text>
+        <text>skelet</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -5541,7 +5541,7 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c2NyaXB0OiBub3NldGVzdHMgLS13aXRoLWNvdmVyYWdlIC0tdmVyYm9zZSAtZCAtLWNvdmVyLXBhY2thZ2U9bGlzYQo=</text>
+        <text encoding="base64">ICAgIC0gY29uZGEgbGlzdAo=</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -5553,49 +5553,48 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC0gY2Qgc2tlbGV0M2QK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC0gY2QgLi4K</text>
+        <text encoding="base64">ICAgIC0gY2Qgc2tlbGV0M2QK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC0gY2QgLi4K</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC0gcGlwIGluc3RhbGwgY292ZXJhbGxzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aXBkYj49MC44LjEK</text>
+        <text encoding="base64">ICAgIC0gcGlwIGluc3RhbGwgY292ZXJhbGxzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c2Z0cHN5bmM+PTEuMC4yCg==</text>
+        <text encoding="base64">aXBkYj49MC44LjEK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">am9ibGliPj0wLjguNAo=</text>
+        <text encoding="base64">c2Z0cHN5bmM+PTEuMC4yCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c2tlbGV0M2QK</text>
+        <text encoding="base64">am9ibGliPj0wLjguNAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>gco</last-search>
+      <last-search>skelet</last-search>
       <last-offset />
-      <last-pattern>gco</last-pattern>
+      <last-pattern>skelet</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxDb25maWdGaWxlTWFuYWdlclw+</entry>
         <entry>tree</entry>
         <entry>tree_data</entry>
         <entry>import</entry>
@@ -5615,6 +5614,7 @@
         <entry>imcut</entry>
         <entry>pygco</entry>
         <entry>gco</entry>
+        <entry>skelet</entry>
       </history-search>
       <history-cmd>
         <entry>249</entry>
