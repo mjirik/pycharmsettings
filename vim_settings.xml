@@ -376,6 +376,12 @@
         <mark key="^" line="36" column="7" />
         <mark key="." line="36" column="7" />
       </file>
+      <file name="$USER_HOME$/projects/lisa/.travis.yml" timestamp="1541501690896">
+        <mark key="[" line="62" column="28" />
+        <mark key="]" line="62" column="26" />
+        <mark key="." line="62" column="26" />
+        <mark key="^" line="62" column="26" />
+      </file>
       <file name="$USER_HOME$/projects/quanta/quantan/__main__.py" timestamp="1446553214305">
         <mark key="[" line="0" column="13" />
         <mark key="]" line="1" column="6" />
@@ -641,7 +647,7 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536856518578">
+      <file name="/Dummy.txt" timestamp="1541501719523">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1501239446018">
@@ -981,11 +987,12 @@
         <mark key="^" line="12" column="81" />
         <mark key="." line="68" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/lisa/requirements_conda.txt" timestamp="1493662808623">
-        <mark key="[" line="42" column="12" />
-        <mark key="]" line="43" column="15" />
-        <mark key="^" line="43" column="15" />
-        <mark key="." line="43" column="15" />
+      <file name="$USER_HOME$/projects/lisa/requirements_conda.txt" timestamp="1541502102359">
+        <mark key="'" line="32" column="8" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="11" />
+        <mark key="^" line="39" column="11" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/projects/gco_python/setup.py" timestamp="1464124236840">
         <mark key="[" line="26" column="25" />
@@ -1180,9 +1187,6 @@
         <mark key="." line="1" column="15" />
         <mark key="^" line="1" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/pysegbase/pysegbase/pycut.py" timestamp="1518439629838">
-        <mark key="'" line="68" column="29" />
-      </file>
       <file name="$USER_HOME$/projects/lisa/lisa/convert_pkl.py" timestamp="1512337143602">
         <mark key="[" line="30" column="89" />
         <mark key="]" line="30" column="89" />
@@ -1311,7 +1315,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="98" column="28" filename="$USER_HOME$/projects/dicomwebview/dicomwebview.py" />
       <jump line="108" column="15" filename="$USER_HOME$/projects/dicomwebview/dicomwebview.py" />
       <jump line="116" column="37" filename="$USER_HOME$/projects/dicomwebview/dicomwebview.py" />
       <jump line="141" column="4" filename="$USER_HOME$/projects/dicomwebview/dicomwebview.py" />
@@ -1411,6 +1414,7 @@
       <jump line="616" column="15" filename="$USER_HOME$/projects/dicom2fem/dicom2fem/dicom2fem.py" />
       <jump line="638" column="15" filename="$USER_HOME$/projects/dicom2fem/dicom2fem/dicom2fem.py" />
       <jump line="653" column="15" filename="$USER_HOME$/projects/dicom2fem/dicom2fem/dicom2fem.py" />
+      <jump line="32" column="8" filename="$USER_HOME$/projects/lisa/requirements_conda.txt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5490,8 +5494,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>pdffile</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aXBkYj49MC44LjEK</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -5513,10 +5517,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>pdffile</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxRVFNlZWRFZGl0b3JcPg==</text>
+        <text>imcut</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -5542,50 +5546,48 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmbiA9IG9wLmpvaW4ocHRoLCAicGkudGV4IikK</text>
+        <text encoding="base64">aXBkYj49MC44LjEK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwdGggPSBvcC5kaXJuYW1lKG9wLmFic3BhdGgoX19maWxlX18pKQo=</text>
+        <text encoding="base64">c2Z0cHN5bmM+PTEuMC4yCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">am9ibGliPj0wLjguNAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">JSBJbiBcdGV4dHR0e3B5dGhvbn0gc2NyaXB0IGltcG9ydCBcdGV4dHR0e2RhdGEydGV4fSBwYWNrYWdlIGFuZAolIHVzZSBcdmVyYitkYXRhMnRleC5zYXZlKCkrIGZ1bmN0aW9uIHRvIGV4cG9ydCBkYXRhIGZyb20gXHRleHR0dHtweXRob259LgolCiUgQWRkIHBhY2thZ2UgXHRleHR0dHtzaW51bml0eH0gIGFuZCBcdGV4dHR0e2Jvb2t0YWJzfSB0byB5b3VyIFxMYVRlWHt9IGZpbGUKJSBhbmQgdXNlIFx2ZXJiK1xpbnB1dHtuYW1lfSsgZm9yIGltcG9ydGluZyB0aGUgZGF0YS4KCiUgTWVhdXN1cmVkIHJhZGl1cyAkciA9IFxpbnB1dHtyYWRpdXN9JAolCiUgXFsKJSBTID0gXHBpIFxjZG90IHJeMiA9IFxpbnB1dHtwaX0gXGNkb3QgXGlucHV0e3JhZGl1c31eMiA9IFxpbnB1dHtzdXJmYWNlfQolIFxdCgoKCgpXZSBoYXZlIFxpbnB1dHtucmVjb3Jkc30gcmVjb3JkcyBpbiBvdXIgdGl0YW5pYyB0YWJsZS4gVGhlIHRvdGFsIGZhcmUgd2FzICRcaW5wdXR7ZmFyZX0kICBhbmQgbWVhbiBzdXJ2aXZlIGNoYW5jZSBpcyBcaW5wdXR7cHN1cnZpdmVkfS4KTW9zdCBmcmVxdWVudCBlbWJhcmsgdG93biBpcyBcaW5wdXR7ZW1iYXJrfS4K</text>
+        <text encoding="base64">c2tlbGV0M2QK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIHByaW50KHB0aCkKICAgICAgICBpZiBvcC5leGlzdHMocGRmZmlsZSk6CiAgICAgICAgICAgIG9zLnJlbW92ZShwZGZmaWxlKQogICAgICAgIGltcG9ydCBnbG9iCiAgICAgICAgcCA9IHN1YnByb2Nlc3MuUG9wZW4oWyJwZGZsYXRleCIsIHRleGZpbGUsICItaW50ZXJhY3Rpb24iLCAibm9uc3RvcG1vZGUiXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdGRvdXQ9c3VicHJvY2Vzcy5QSVBFLCBzaGVsbD1GYWxzZSwgY3dkPXB0aCkKICAgICAgICBsYXRleF9vdXRwdXQgPSBwLmNvbW11bmljYXRlKCkKICAgICAgICBsb2dnZXIuZGVidWcobGF0ZXhfb3V0cHV0WzBdKQogICAgICAgIGxvZ2dlci5kZWJ1ZyhsYXRleF9vdXRwdXRbMV0pCg==</text>
+        <text encoding="base64">ICAgIC0gJ21rZGlyIGJ1aWxkJwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmbiwgZXh0ID0gb3Auc3BsaXRleHQodGV4ZmlsZSkKICAgICAgICBwZGZmaWxlID0gZm4gKyAiLnBkZiIK</text>
+        <text encoding="base64">ICAgICAgICBmbiA9IG9wLmpvaW4ocHRoLCAicGkudGV4IikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFRydWUob3AuZXhpc3RzKG9wLmpvaW4ocHRoLCAicGkudGV4IikpKQo=</text>
+        <text encoding="base64">ICAgICAgICBwdGggPSBvcC5kaXJuYW1lKG9wLmFic3BhdGgoX19maWxlX18pKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBvcy5yZW1vdmUoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">JSBJbiBcdGV4dHR0e3B5dGhvbn0gc2NyaXB0IGltcG9ydCBcdGV4dHR0e2RhdGEydGV4fSBwYWNrYWdlIGFuZAolIHVzZSBcdmVyYitkYXRhMnRleC5zYXZlKCkrIGZ1bmN0aW9uIHRvIGV4cG9ydCBkYXRhIGZyb20gXHRleHR0dHtweXRob259LgolCiUgQWRkIHBhY2thZ2UgXHRleHR0dHtzaW51bml0eH0gIGFuZCBcdGV4dHR0e2Jvb2t0YWJzfSB0byB5b3VyIFxMYVRlWHt9IGZpbGUKJSBhbmQgdXNlIFx2ZXJiK1xpbnB1dHtuYW1lfSsgZm9yIGltcG9ydGluZyB0aGUgZGF0YS4KCiUgTWVhdXN1cmVkIHJhZGl1cyAkciA9IFxpbnB1dHtyYWRpdXN9JAolCiUgXFsKJSBTID0gXHBpIFxjZG90IHJeMiA9IFxpbnB1dHtwaX0gXGNkb3QgXGlucHV0e3JhZGl1c31eMiA9IFxpbnB1dHtzdXJmYWNlfQolIFxdCgoKCgpXZSBoYXZlIFxpbnB1dHtucmVjb3Jkc30gcmVjb3JkcyBpbiBvdXIgdGl0YW5pYyB0YWJsZS4gVGhlIHRvdGFsIGZhcmUgd2FzICRcaW5wdXR7ZmFyZX0kICBhbmQgbWVhbiBzdXJ2aXZlIGNoYW5jZSBpcyBcaW5wdXR7cHN1cnZpdmVkfS4KTW9zdCBmcmVxdWVudCBlbWJhcmsgdG93biBpcyBcaW5wdXR7ZW1iYXJrfS4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxRVFNlZWRFZGl0b3JcPg==</last-search>
+      <last-search>imcut</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxRVFNlZWRFZGl0b3JcPg==</last-pattern>
+      <last-pattern>imcut</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmcm9tXD4=</entry>
-        <entry>generator</entry>
         <entry encoding="base64">XDxnZW5lcmF0b3JfaWRcPg==</entry>
         <entry encoding="base64">XDxjb25maWdfZmlsZV9tYW5hZ2VyXD4=</entry>
         <entry encoding="base64">XDxDb25maWdGaWxlTWFuYWdlclw+</entry>
@@ -5604,6 +5606,8 @@
         <entry>seed</entry>
         <entry>seed_editor</entry>
         <entry encoding="base64">XDxRVFNlZWRFZGl0b3JcPg==</entry>
+        <entry>pyseg</entry>
+        <entry>imcut</entry>
       </history-search>
       <history-cmd>
         <entry>249</entry>
