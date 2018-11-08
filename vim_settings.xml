@@ -654,7 +654,7 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541513187490">
+      <file name="/Dummy.txt" timestamp="1541687622658">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1501239446018">
@@ -1121,6 +1121,15 @@
         <mark key="." line="33" column="20" />
         <mark key="^" line="33" column="20" />
       </file>
+      <file name="$USER_HOME$/projects/seededitorqt/seededitorqt/seed_editor_qt.py" timestamp="1541687944211">
+        <mark key="a" line="1718" column="8" />
+        <mark key="c" line="1265" column="18" />
+        <mark key="'" line="1748" column="8" />
+        <mark key="[" line="1695" column="35" />
+        <mark key="]" line="1695" column="43" />
+        <mark key="^" line="1695" column="43" />
+        <mark key="." line="1695" column="43" />
+      </file>
       <file name="$USER_HOME$/projects/quaha/quaha/histology_report.py" timestamp="1445327745987">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="12" />
@@ -1322,18 +1331,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="143" column="18" filename="$USER_HOME$/projects/dicomwebview/dicomwebview.py" />
-      <jump line="176" column="4" filename="$USER_HOME$/projects/dicomwebview/dicomwebview.py" />
-      <jump line="177" column="11" filename="$USER_HOME$/projects/dicomwebview/dicomwebview.py" />
-      <jump line="194" column="58" filename="$USER_HOME$/projects/dicomwebview/dicomwebview.py" />
-      <jump line="201" column="20" filename="$USER_HOME$/projects/dicomwebview/dicomwebview.py" />
-      <jump line="202" column="20" filename="$USER_HOME$/projects/dicomwebview/dicomwebview.py" />
-      <jump line="0" column="62" filename="$USER_HOME$/projects/dicomwebview/dicomwebview.py" />
-      <jump line="43" column="13" filename="$USER_HOME$/projects/dicomwebview/dicomwebview.py" />
-      <jump line="24" column="50" filename="$USER_HOME$/projects/dicomwebview/templates/index.html" />
-      <jump line="138" column="18" filename="$USER_HOME$/projects/dicomwebview/dicomwebview.py" />
-      <jump line="189" column="4" filename="$USER_HOME$/projects/dicomwebview/dicomwebview.py" />
-      <jump line="48" column="17" filename="$USER_HOME$/projects/dicomwebview/lisaw.py" />
       <jump line="67" column="29" filename="$USER_HOME$/projects/dicomwebview/lisaw.py" />
       <jump line="137" column="4" filename="$USER_HOME$/projects/dicomwebview/dicomwebview.py" />
       <jump line="72" column="12" filename="$USER_HOME$/projects/dicomwebview/dicomwebview.py" />
@@ -1422,6 +1419,18 @@
       <jump line="98" column="12" filename="$USER_HOME$/projects/lisa/.travis.yml" />
       <jump line="15" column="19" filename="$USER_HOME$/projects/lisa/requirements_conda.txt" />
       <jump line="51" column="31" filename="$USER_HOME$/projects/lisa/requirements_conda.txt" />
+      <jump line="1273" column="55" filename="$USER_HOME$/projects/seededitorqt/seededitorqt/seed_editor_qt.py" />
+      <jump line="1284" column="24" filename="$USER_HOME$/projects/seededitorqt/seededitorqt/seed_editor_qt.py" />
+      <jump line="1293" column="12" filename="$USER_HOME$/projects/seededitorqt/seededitorqt/seed_editor_qt.py" />
+      <jump line="969" column="17" filename="$USER_HOME$/projects/seededitorqt/seededitorqt/seed_editor_qt.py" />
+      <jump line="970" column="17" filename="$USER_HOME$/projects/seededitorqt/seededitorqt/seed_editor_qt.py" />
+      <jump line="971" column="17" filename="$USER_HOME$/projects/seededitorqt/seededitorqt/seed_editor_qt.py" />
+      <jump line="984" column="32" filename="$USER_HOME$/projects/seededitorqt/seededitorqt/seed_editor_qt.py" />
+      <jump line="1818" column="0" filename="$USER_HOME$/projects/seededitorqt/seededitorqt/seed_editor_qt.py" />
+      <jump line="1888" column="39" filename="$USER_HOME$/projects/seededitorqt/seededitorqt/seed_editor_qt.py" />
+      <jump line="935" column="81" filename="$USER_HOME$/projects/seededitorqt/seededitorqt/seed_editor_qt.py" />
+      <jump line="1695" column="43" filename="$USER_HOME$/projects/seededitorqt/seededitorqt/seed_editor_qt.py" />
+      <jump line="1748" column="8" filename="$USER_HOME$/projects/seededitorqt/seededitorqt/seed_editor_qt.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5501,8 +5510,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">U2ltcGxlIA==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -5524,10 +5533,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">U2ltcGxlIA==</text>
       </register>
       <register name="/" type="4">
-        <text>skelet</text>
+        <text>recalculate</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -5541,7 +5550,7 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC0gY29uZGEgbGlzdAo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnVwZGF0ZVNsaWNlKCkK</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -5553,54 +5562,48 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICAgICAgcHJpbnQoIk5PIikgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC0gY2Qgc2tlbGV0M2QK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCgiWUVTIikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC0gY2QgLi4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC0gY2Qgc2tlbGV0M2QK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC0gY2QgLi4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC0gcGlwIGluc3RhbGwgY292ZXJhbGxzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aXBkYj49MC44LjEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c2Z0cHN5bmM+PTEuMC4yCg==</text>
+        <text encoding="base64">ICAgIC0gcGlwIGluc3RhbGwgY292ZXJhbGxzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">am9ibGliPj0wLjguNAo=</text>
+        <text encoding="base64">aXBkYj49MC44LjEK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>skelet</last-search>
+      <last-search>recalculate</last-search>
       <last-offset />
-      <last-pattern>skelet</last-pattern>
+      <last-pattern>recalculate</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>tree</entry>
-        <entry>tree_data</entry>
-        <entry>import</entry>
-        <entry>rawdata</entry>
-        <entry encoding="base64">XDxmaXhfdHJlZV9zdHJ1Y3R1cmVcPg==</entry>
-        <entry encoding="base64">XDxsb2FkX3R1YmVfc2tlbGV0b25cPg==</entry>
         <entry>area</entry>
         <entry>progress</entry>
         <entry>Check</entry>
@@ -5615,10 +5618,14 @@
         <entry>pygco</entry>
         <entry>gco</entry>
         <entry>skelet</entry>
+        <entry>delete</entry>
+        <entry>Add</entry>
+        <entry encoding="base64">XDxidG5fc2F2ZVw+</entry>
+        <entry>Seg.</entry>
+        <entry>Return</entry>
+        <entry>recalculate</entry>
       </history-search>
       <history-cmd>
-        <entry>249</entry>
-        <entry>227</entry>
         <entry>W</entry>
         <entry>450</entry>
         <entry>1200</entry>
@@ -5636,6 +5643,8 @@
         <entry>728</entry>
         <entry>e</entry>
         <entry>q</entry>
+        <entry>1273</entry>
+        <entry>1275</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
